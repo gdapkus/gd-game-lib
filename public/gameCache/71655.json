@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:52:17.335Z",
+  "gameDetails": {
+    "name": "Wok Star",
+    "type": "boardgame",
+    "description": "Wok Star is a cooperative real-time game where players take on different roles to help grow a Chinese restaurant in a tycoon style game. The clientele of customers is represented by a deck of cards with various Chinese dishes on them. Customers are served one at a time while a 20-second sand timer is running. If they are not served in time, they eat free.&#10;&#10;Each order requires a combination of ingredients to make. The board is used for tracking the levels of ten prepared ingredients in the kitchen. To prepare more ingredients, players spend dice in different combinations. All players are in charge of different tasks and all working simultaneously because the timer is running!&#10;&#10;At the end of each round, players pool their money and invest in different options to grow their business: new recipes, upgrade preparation cards, or advertise to get more customers. The players must have a certain level of profit by the last round to keep the restaurant open and win!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/YmUcqsw7lUBa4xyiCGHOrQ__original/img/NzKfch_zELReVpyR7DWqhTBYTKo=/0x0/filters:format(jpeg)/pic728335.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YmUcqsw7lUBa4xyiCGHOrQ__thumb/img/eQugBvcsGzdSoWSAcydQkGWHb0c=/fit-in/200x150/filters:strip_icc()/pic728335.jpg",
+    "link": "https://boardgamegeek.com/thing/71655",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "bestAtCount": "4",
+    "id": "71655"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:45:31.906Z",
+  "gameDetails": {
+    "name": "Beer & Bread",
+    "type": "boardgame",
+    "description": "Beer &amp; Bread is a multi-use card game for two players. Its clever structure of alternating rounds puts a fascinating twist on player interaction, card drafting, and resource management.&#10;&#10;Founded on the fruitful lands of an erstwhile monastery, two villages have held up the dual tradition of brewing beer and baking bread. While sharing fields and resources, they still find pride in their friendly rivalry of besting each other&rsquo;s produce.&#10;&#10;Each of you represents one of these villages. Over the course of six years - which alternate between fruitful and dry - you must harmonize your duties of harvesting and storing resources, producing beer and bread, selling them for coins and upgrading your facilities.&#10;&#10;However, in order to win, you must maintain the balance between your baked and liquid goods. Because, after the sixth year, you only score the coins collected from the type of good - beer or bread - for which you earned less. The village with the higher score wins.&#10;&#10;&mdash;description from publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/vPRTRJce1GOsUf6M_dWd-g__original/img/IiugqYTDlz1Rk1EAaEwDxr65YgI=/0x0/filters:format(jpeg)/pic7064178.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vPRTRJce1GOsUf6M_dWd-g__thumb/img/x0Q2R8xgABJACUHYSCA00a7j3Cg=/fit-in/200x150/filters:strip_icc()/pic7064178.jpg",
+    "link": "https://boardgamegeek.com/thing/369880",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "bestAtCount": "2",
+    "id": "369880"
+  }
+}

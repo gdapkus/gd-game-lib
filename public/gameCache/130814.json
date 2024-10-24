@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-21T04:44:16.051Z",
+  "gameDetails": {
+    "name": "Airlines Europe: The Presidents",
+    "type": "boardgameexpansion",
+    "description": "Airlines Europe: The Presidents, a promotional item that debuted at Spiel 2012, lets players bluff a bit more in Airlines Europe as to which airlines they most want to back with their stock.&#10;&#10;At the start of the game, each player is dealt two random president tokens from the ten available, with each token matching one of the ten airlines in the game. The players look at these tokens in secret and keep them hidden until they choose to reveal them.&#10;&#10;During a payout round, when players score points based on the stock they hold in a particular airline, if a player is tied with one or more opponents in a stock for which he holds the president token, that player can choose to reveal the token, breaking the tie in his favor. Any opponent(s) tied with this player are bumped down to the next payout level for this airline. The token remains face-up until the end of the game and comes into play in each subsequent payout, if needed.&#10;&#10;An unrevealed president token is worth one point at the end of the game.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/T82DvBiDSnvxZhZoRvviIg__original/img/tVkQ3rYVcwp37_YBx6Z_o3JY8ZI=/0x0/filters:format(jpeg)/pic1435068.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/T82DvBiDSnvxZhZoRvviIg__thumb/img/gMDRSmhJKCLOaqyLYzll_KD5PfU=/fit-in/200x150/filters:strip_icc()/pic1435068.jpg",
+    "link": "https://boardgamegeek.com/thing/130814",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "bestAtCount": "4",
+    "id": "130814"
+  }
+}

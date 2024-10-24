@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:48:31.967Z",
+  "gameDetails": {
+    "name": "Lignum",
+    "type": "boardgame",
+    "description": "Lignum is a game about the logging industry in the 19th century. As a woodcutter, your task is to prevail against your competitors and collect the most money after two years. Lignum (Latin for &quot;wood&quot;) is a game for lovers of complex strategy games. After cutting and transporting your wood, don't think your job is finished. You'll still have to optimize your entire processing chain - and have fun doing it!&#10;&#10;Each of the eight rounds always begins with the cutting of trees. If your supply lines are set up and the timber has been approved for felling, then the players claim an area using secretly selected cards. Since each of the areas contain differing amounts of food and wood, players must learn to recognize and adapt to their opponent's strategies because if two players are both in the same area, they must share the resources. Players continue to move along their supply route, using the marketplace to trade tools and food as well as recruit workers.&#10;&#10;The players have to decide how their wood will be transported to their lumberyards (by raft, by foot, or in the winter by sled), if the wood should be dried or be processed immediately, and when the wood should be sold. The player must also think about new acquisitions (such as saws, sleds and pasture land) and fulfill orders to sell the wood. Because in the end, this business is all about money, and whoever can make the most wins.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/6JGC3gqeKjCmdlycnynpcw__original/img/nkXkMvDcZJQcoC0NJG7j5b4LZQE=/0x0/filters:format(jpeg)/pic2435028.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6JGC3gqeKjCmdlycnynpcw__thumb/img/mpZGtclFfkPKgvg_DHwEofAX7Ws=/fit-in/200x150/filters:strip_icc()/pic2435028.jpg",
+    "link": "https://boardgamegeek.com/thing/174155",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "bestAtCount": "4",
+    "id": "174155"
+  }
+}

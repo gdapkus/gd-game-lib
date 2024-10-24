@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-21T04:34:47.743Z",
+  "gameDetails": {
+    "name": "1817",
+    "type": "boardgame",
+    "description": "1817 is a railroad operations and share trading board game in the 18xx series with a distinct financial flair. It is named after the year the New York Stock Exchange opened at 40 Wall Street in New York.&#10;&#10;1817 differentiates itself from other 18xx games with its sophisticated financial mechanics that simulate the laissez faire capitalism of early America. While all the familiar mechanics of an 18xx game are present, such as placing tiles, purchasing tokens, and running trains, the game is won or lost based on the financial decisions you make.&#10;&#10;1817 includes financial mechanics seen in other 18xx games such as mergers, friendly takeovers, and conversions to different share structures. Beyond these basics, 1817 introduces several additional financial mechanics such as short selling, market driven interest rates, hostile takeovers, and corporate liquidations. The most unique is selling stock short. Short selling is the practice of selling stock you don&rsquo;t own with the intention of buying the stock back at a later date. You hope to profit from a decline in the price of the stock between the sale and the repurchase. Conversely, you will incur a loss if the price of the stock increases before the repurchase. You are also liable for dividends paid while holding the short position.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/ljswtJbDAR_bcgSkF2PSOw__original/img/X9hrRfAd5guw5Jv06pAAmOCkrAE=/0x0/filters:format(png)/pic4895040.png",
+    "thumbnail": "https://cf.geekdo-images.com/ljswtJbDAR_bcgSkF2PSOw__thumb/img/9_Xn-C2Z9pttuidHn4p0fr7Evgc=/fit-in/200x150/filters:strip_icc()/pic4895040.png",
+    "link": "https://boardgamegeek.com/thing/63170",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "bestAtCount": "4",
+    "id": "63170"
+  }
+}

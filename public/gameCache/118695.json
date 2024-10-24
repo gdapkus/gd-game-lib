@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:50:07.013Z",
+  "gameDetails": {
+    "name": "Riff Raff",
+    "type": "boardgame",
+    "description": "A dexterity game where players take turning loading wooden &quot;stuff&quot; onto a swaying wooden ship. Bottles, sailors, rats and other cargo are placed on the body of the ship and three yardarms that protrude from the mast.&#10;&#10;Each player has the same set of objects and a hand of cards numbered 1-10. Choose one card, then reveal it simultaneously with the other players. On your turn you place any piece you want onto the numbered space you chose. If the cargo is not balanced, the ship will sway to and fro, and one or more items may fall off the ship. If you tip pieces off the ship, you can save them by catching them, but whatever you don't catch is added to the pieces you need to get rid of. The first player to get rid of all his objects wins the game.&#10;&#10;Similar to:&#10;&#10;&#10;     Cargo Barjo&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/pSIv1EXJkkI7NIxpyeZGgg__original/img/hjjY0iQ2EmK5r2VVyRXxjI6EIbg=/0x0/filters:format(jpeg)/pic6460771.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pSIv1EXJkkI7NIxpyeZGgg__thumb/img/vCi2Me5Q0o7sf1VQQzkgUl3fAV4=/fit-in/200x150/filters:strip_icc()/pic6460771.jpg",
+    "link": "https://boardgamegeek.com/thing/118695",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "bestAtCount": "3",
+    "id": "118695"
+  }
+}

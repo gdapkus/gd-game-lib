@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:52:12.920Z",
+  "gameDetails": {
+    "name": "Werewolf",
+    "type": "boardgame",
+    "description": "Werewolf (also known as Mafia) takes place in a small town where a minority of the townsfolk hold a dangerous secret.&#10;&#10;Each player is secretly assigned a role - Werewolf, Villager, or Seer (a special Villager). There is also a Moderator who controls the flow of the game.&#10;&#10;The game alternates between night and day phases. At night, the Werewolves secretly choose a Villager to kill. Also, the Seer (if still alive) asks whether another player is a Werewolf or not. During the day, the Villager who was killed is revealed and is out of the game. The remaining Villagers then vote on the player they suspect is a Werewolf. That player reveals his/her role and is out of the game.&#10;&#10;Werewolves win when there are an equal number of Villagers and Werewolves. Villagers win when they have killed all Werewolves. Werewolf is a social game that requires no equipment to play, and can accommodate almost any large group of players.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/dbKLvMw--0rTKU5ShvZ79A__original/img/gxN0VrgnvVXk-Epp8F8nhpzhzvA=/0x0/filters:format(jpeg)/pic2453810.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dbKLvMw--0rTKU5ShvZ79A__thumb/img/yEhvq77CKOzj6MPQzoHcw-sQF1Y=/fit-in/200x150/filters:strip_icc()/pic2453810.jpg",
+    "link": "https://boardgamegeek.com/thing/925",
+    "minPlayers": "8",
+    "maxPlayers": "24",
+    "bestAtCount": "13",
+    "id": "925"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T06:08:28.874Z",
+  "gameDetails": {
+    "name": "Rolling Stock",
+    "type": "boardgame",
+    "description": "Rolling Stock is a card game about stock and company trading. Players are investors buying private companies in auctions, which they may later use for an IPO (to turn them into corporations) or sell to already existing corporations (to turn them into subsidiaries of that corporation). The majority share holder of a corporation controls its actions: issuing new shares, paying dividends, and buying more subsidiaries from other corporations, players, or an ominous foreign investor.&#10;&#10;The companies are transportation themed, starting with the early Prussian railroad. As more companies are bought, the scope of the game expands to Germany, later Europe, and ultimately even space. With expanding scope, older companies become less and less profitable until they have to be written off eventually, severely hitting the book value of their owner.&#10;&#10;As a pure card game, Rolling Stock has no game board to simulate actual transportation. Instead, networking effects are modeled by synergies between geographically adjacent companies that are subsidiaries of the same corporation. This simplistic model merely sets the stage for the trading of stocks and companies, which is the heart and soul of the game.&#10;&#10;Rolling Stock is vaguely inspired by the 18xx series of games but it is clearly not a part of it. Obviously, track building is missing entirely, but even the stock market with all its superficial similarities turns out to be fundamentally different.&#10;&#10;Compared to the 18xx series, Rolling Stock has extremely simple rules. Strategically, however, it is comparably deep and complex.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/v2sa71oYqeqc4Mgqiup0Yg__original/img/r6vXfjlPI_nQgPP7BNXRdnd0itQ=/0x0/filters:format(png)/pic1898221.png",
+    "thumbnail": "https://cf.geekdo-images.com/v2sa71oYqeqc4Mgqiup0Yg__thumb/img/F8nGVBfVsNGUgSpqV-z32ce5U1U=/fit-in/200x150/filters:strip_icc()/pic1898221.png",
+    "link": "https://boardgamegeek.com/thing/99630",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "bestAtCount": "3",
+    "id": "99630"
+  }
+}

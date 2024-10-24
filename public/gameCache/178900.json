@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:46:21.873Z",
+  "gameDetails": {
+    "name": "Codenames",
+    "type": "boardgame",
+    "description": "Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their codenames &mdash; single-word labels like &quot;disease&quot;, &quot;Germany&quot;, and &quot;carrot&quot;. Yes, carrot. It's a legitimate codename. Each spymaster wants their team to identify their agents first...without uncovering the assassin by mistake.&#10;&#10;In Codenames, two teams compete to see who can make contact with all of their agents first. Lay out 25 cards, each bearing a single word. The spymasters look at a card showing the identity of each card, then take turns clueing their teammates. A clue consists of a single word and a number, with the number suggesting how many cards in play have some association to the given clue word. The teammates then identify one agent they think is on their team; if they're correct, they can keep guessing up to the stated number of times; if the agent belongs to the opposing team or is an innocent bystander, the team's turn ends; and if they fingered the assassin, they lose the game.&#10;&#10;Spymasters continue giving clues until one team has identified all of their agents or the assassin has removed one team from play.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__original/img/gcX_EfjsRpB5fI4Ug4XV73G4jGI=/0x0/filters:format(jpeg)/pic2582929.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg",
+    "link": "https://boardgamegeek.com/thing/178900",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "bestAtCount": "6",
+    "id": "178900"
+  }
+}

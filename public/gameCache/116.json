@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T06:03:19.607Z",
+  "gameDetails": {
+    "name": "Guillotine",
+    "type": "boardgame",
+    "description": "The French Revolution is famous in part for the use of the guillotine to put nobles to death, and this is the macabre subject of this light card game.  As executioners pandering to the masses, the players are trying to behead the most popular nobles.  Each day the nobles are lined up and players take turns killing the ones at the front of the line until all the nobles are gone.  However, players are given cards which will manipulate the line order right before 'harvesting' heads, which is what makes the game interesting.  After three days of chopping, the highest total carries the day.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/9gdaUHNTcgv8RhFhG0kzBw__original/img/uJQubpcCxCE4G1pmM8akyrLAVRY=/0x0/filters:format(jpeg)/pic143139.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9gdaUHNTcgv8RhFhG0kzBw__thumb/img/9KfEtRGEfW5Q7Mv_0JbyKQ-oox0=/fit-in/200x150/filters:strip_icc()/pic143139.jpg",
+    "link": "https://boardgamegeek.com/thing/116",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "bestAtCount": "4",
+    "id": "116"
+  }
+}

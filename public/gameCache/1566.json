@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:50:40.324Z",
+  "gameDetails": {
+    "name": "Simply Cosmic",
+    "type": "boardgame",
+    "description": "The game that breaks its own rules...&#10;&#10;This is a lighter version of the Cosmic Encounter game. All of the same elements are there, they've simply reduced the number of alien races. The races and cards have been chosen for use in an introductory game.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/r9v7P-I-tnn051m23Xa9TQ__original/img/TJkW02J8kGEoCQvnFwk-Pf6tisg=/0x0/filters:format(jpeg)/pic291138.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/r9v7P-I-tnn051m23Xa9TQ__thumb/img/7IIw8cPkcrarfw62PCExqdjr8tk=/fit-in/200x150/filters:strip_icc()/pic291138.jpg",
+    "link": "https://boardgamegeek.com/thing/1566",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "bestAtCount": "4",
+    "id": "1566"
+  }
+}

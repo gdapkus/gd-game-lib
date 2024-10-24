@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:45:16.494Z",
+  "gameDetails": {
+    "name": "Alien Frontiers: Factions",
+    "type": "boardgameexpansion",
+    "description": "Alien Frontiers: Factions adds a number of items to the Alien Frontiers base game:&#10;&#10;&#10;     Ship and colony tokens for a fifth player.&#10;     Factions (thus the name), with each faction providing its owner a special ability and new orbital facilities under his control.&#10;     Agendas, which are hidden objectives that allow a player to earn bonus points at game's end or when the agenda is revealed in-game.&#10;     New Alien Tech cards, such as the Lunar Tunneler, which will allow its owner to pay one fuel to receive an extra ore when using the Lunar Mine. This card's discard power will send all ships docked at the Lunar Mine to the Maintenance Bay, which can be useful when the Mine is clogged with high-value ships.&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/0BKN-idv5W9BQrpplpcDfw__original/img/nPtMCdDBTRkc7zFFPmq2X1VBSls=/0x0/filters:format(png)/pic3360935.png",
+    "thumbnail": "https://cf.geekdo-images.com/0BKN-idv5W9BQrpplpcDfw__thumb/img/6IJcusguwrAxj4TuhIUB7-nB3yo=/fit-in/200x150/filters:strip_icc()/pic3360935.png",
+    "link": "https://boardgamegeek.com/thing/93193",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "bestAtCount": "3",
+    "id": "93193"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T06:09:51.508Z",
+  "gameDetails": {
+    "name": "Skip-Bo",
+    "type": "boardgame",
+    "description": "Each player is dealt a stockpile of 30 cards. The winner will be whoever manages to empty their stockpile first. Cards are played onto four shared building piles in numerical sequence from 1 to 12. On each turn, a player draws until they have five cards in their hand, and then plays cards from: their hand, a top card of their discard piles, or their stockpile. At the end of their turn, a player must discard onto one of their four personal discard piles. Strategy involves the organizing of cards into the discard piles, care in not setting up the next players for good plays, knowing when to play from which option, and especially the timing of playing a valuable &quot;Skip-bo&quot; wildcard.&#10;&#10;Skip-bo is based on Traditional Card Games: Spite and Malice.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/aaUJua2zRXA6lqbVbNcBGg__original/img/dWxG7nwxGBijXQ1849TFwtym06I=/0x0/filters:format(jpeg)/pic8204244.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aaUJua2zRXA6lqbVbNcBGg__thumb/img/81Ix-m3uliKZ43ouEhnOzUivMj4=/fit-in/200x150/filters:strip_icc()/pic8204244.jpg",
+    "link": "https://boardgamegeek.com/thing/1269",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "bestAtCount": "4",
+    "id": "1269"
+  }
+}

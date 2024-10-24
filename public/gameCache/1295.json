@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:49:47.152Z",
+  "gameDetails": {
+    "name": "Pente",
+    "type": "boardgame",
+    "description": "Pente is an abstract strategy game.  Players place glass markers on intersections of a 19-by-19 grid (the same as in Go).  The object of the game is to get five of your own markers in a row (4 with more than 2 players) or capture five pairs of your opponent's pieces.  The first to do either wins.  Capturing takes place when exactly two pieces are sandwiched between pieces of the opposite color. There are multiple variations of the game for greater challenge and complexity.  The 20th anniversary edition is a deluxe version of the game with a large color game instruction book, quality game board, and six sets of different colored glass markers that allows play with up to 6 players.&#10;&#10;Other five-in-a-row games include Go-Moku and Renju (which do not feature capturing), and Ninuki-Renju (which does).&#10;&#10;Similar to:&#10;&#10;&#10;    5ive Straight&#10;    Take 5&#10;    5 in a Row&#10;    Go-Moku&#10;    Renju&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/2aehMgvcnEh8TR-4kpAmyw__original/img/cmnlPbQ_Ek4K61lZ5Pc39svT3KM=/0x0/filters:format(jpeg)/pic1476333.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2aehMgvcnEh8TR-4kpAmyw__thumb/img/rdBwaswpZtKu4rmOu5-r5ZY2u_E=/fit-in/200x150/filters:strip_icc()/pic1476333.jpg",
+    "link": "https://boardgamegeek.com/thing/1295",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "bestAtCount": "2",
+    "id": "1295"
+  }
+}

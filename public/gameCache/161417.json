@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T06:08:08.222Z",
+  "gameDetails": {
+    "name": "Red7",
+    "type": "boardgame",
+    "description": "The rules of &quot;Red&quot; are simple: highest card wins! But &quot;Red&quot; is just one of seven games you'll be playing in Red7, and if you're not winning the current game at the end of your turn, you're out! The last person standing wins the round.&#10;&#10;The deck in Red7 is 49 cards: each of the colors of the rainbow numbered 1 to 7. A hand takes just a couple minutes!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/7zH6Kt5ebWEixjDGmHweNA__original/img/fABY4SjThfxj2NO1SL_G_FzbX7M=/0x0/filters:format(png)/pic2247258.png",
+    "thumbnail": "https://cf.geekdo-images.com/7zH6Kt5ebWEixjDGmHweNA__thumb/img/PVkJyJhCtzo1ZwKO4iuRaqUyKJc=/fit-in/200x150/filters:strip_icc()/pic2247258.png",
+    "link": "https://boardgamegeek.com/thing/161417",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "bestAtCount": "4",
+    "id": "161417"
+  }
+}

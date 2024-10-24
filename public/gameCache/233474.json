@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-21T04:44:16.004Z",
+  "gameDetails": {
+    "name": "Adrenaline: Chaos Cannon",
+    "type": "boardgameexpansion",
+    "description": "A weapon promo card for Adrenaline that was exclusively designed for Dice Tower and was included in one of the reward promo packs for their Season 13 fundraising campaign.&#10;&#10;Basic effect: Deal 1 damage and 1 mark to one target you can see. Deal 1 mark to a different target you can see; then you may teleport it to a randomly selected spawnpoint.&#10;&#10;Notes: You randomly select the destination by revealing and discarding the top card of the powerup deck. The teleport works like the effect of the Teleporter powerup. If you choose only one target, you either give it 1 damage and 1 mark, or you give it 1 mark and you may choose to teleport it.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/wtSZJH2O7mApV2uaSXb6Rw__original/img/N-ElOGrroCgKa24xbeNyBUSZjEk=/0x0/filters:format(jpeg)/pic3769244.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wtSZJH2O7mApV2uaSXb6Rw__thumb/img/-g1Ag5HBc2HOMm4TyLPRN5WDWCo=/fit-in/200x150/filters:strip_icc()/pic3769244.jpg",
+    "link": "https://boardgamegeek.com/thing/233474",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "bestAtCount": "4",
+    "id": "233474"
+  }
+}

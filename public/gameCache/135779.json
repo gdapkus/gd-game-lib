@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T06:01:15.830Z",
+  "gameDetails": {
+    "name": "A Fake Artist Goes to New York",
+    "type": "boardgame",
+    "description": "&#227;&#130;&#168;&#227;&#130;&#187;&#232;&#138;&#184;&#232;&#161;&#147;&#229;&#174;&#182;&#227;&#131;&#139;&#227;&#131;&#165;&#227;&#131;&#188;&#227;&#131;&#168;&#227;&#131;&#188;&#227;&#130;&#175;&#227;&#129;&#184;&#232;&#161;&#140;&#227;&#129;&#143; &ndash; which is pronounced as &quot;Ese Geijutsuka New York e Iku&quot; and can be translated as Fake Artist Goes to New York &ndash; is a party game for 5-10 players. Players take turns being the Question Master, whose role is to set a category, write a word within that category on dry erase cards, and hand those out to other players as artists. At the same time, one player will have only an &quot;X&quot; written on his card: they are the fake artist!&#10;&#10;Players will then go around the table twice, drawing one contiguous stroke each on a paper to draw the word established by the Question Master, then guess who the fake artist is. If the fake artist is not caught, both the fake artist and the Question Master earn points; if the fake artist is caught and cannot guess what the word is, the artists earn points.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/5Q5YHxJeVp6PAhfv5Ct0-g__original/img/yRNioltDOtjrTRXa0HHoTTCWNf8=/0x0/filters:format(png)/pic3678404.png",
+    "thumbnail": "https://cf.geekdo-images.com/5Q5YHxJeVp6PAhfv5Ct0-g__thumb/img/nqo8xhGEWnqXYDEvYcVpBpABBI4=/fit-in/200x150/filters:strip_icc()/pic3678404.png",
+    "link": "https://boardgamegeek.com/thing/135779",
+    "minPlayers": "5",
+    "maxPlayers": "10",
+    "bestAtCount": "6",
+    "id": "135779"
+  }
+}

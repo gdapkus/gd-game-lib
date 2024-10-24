@@ -1,0 +1,15 @@
+{
+  "timestamp": "2024-10-19T00:48:25.416Z",
+  "gameDetails": {
+    "name": "It's a Wonderful Kingdom",
+    "type": "boardgame",
+    "description": "It's a Wonderful Kingdom is a standalone solo or 2-player game in a Low-Fantasy universe. Inspired by the core mechanics of its predecessor &quot;It's a Wonderful World&quot;, this new game offers more interaction, a bluff mechanism and new challenges.&#10;&#10;The game is played using modules, each different and offering mechanical twists. Each game, players will choose one of the different modules to compete against each other. The game is divided into 4 rounds. Each round having 3 phases.&#10;&#10;Split &amp; Trap&#10;Players take turns offering their cards to one another in two areas in the center of the table.&#10;&#10;One player picks 2 cards from their hand and either places them in the same area or splits them between the two areas. The other player chooses an area and claims the card(s) in it. The players take turns repeating this step until both players have offered all of their cards. Each player has 2 Trap tokens which can be used to place cards face down, otherwise all cards are played face up.&#10;&#10;Planification&#10;Each player chooses which of the cards they have collected to build and which ones to recycle for immediate resources.&#10;&#10;Sequential Production&#10;Each player produces their Kingdom's resources sequentially. Since resources are produced in a specific order, it is important to plan ahead to optimize your production and development.&#10;&#10;At the end of the fourth round, the player with the most victory points wins the game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/YMJnUYqIXrOEiqVOqfhWQw__original/img/z6F_iWd82nXhxOkJGVr94qnzaxo=/0x0/filters:format(jpeg)/pic6929415.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YMJnUYqIXrOEiqVOqfhWQw__thumb/img/C5ASZG8YcdMK0PRFLTXRDAwn3s4=/fit-in/200x150/filters:strip_icc()/pic6929415.jpg",
+    "link": "https://boardgamegeek.com/thing/327711",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "bestAtCount": "2",
+    "id": "327711"
+  }
+}
