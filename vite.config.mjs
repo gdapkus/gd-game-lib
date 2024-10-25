@@ -37,6 +37,14 @@ export default defineConfig({
       },
     }),
   ],
+    optimizeDeps: {
+    exclude: [
+      'vuetify/lib/components/VCard/index.mjs',
+      'vuetify/lib/components/VKbd/index.mjs',
+      'vuetify/lib/components/VOverlay/index.mjs',
+      'vuetify/lib/components/VResponsive/index.mjs'
+    ], // Exclude specific Vuetify components from optimization
+  },
   define: {
     'process.env': {}, // Pass environment variables
   },
