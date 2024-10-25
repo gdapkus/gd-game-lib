@@ -13,8 +13,12 @@ const path = require('path');
 const fs = require('fs');
 // Constants
 const cacheDir = 'public/gameCache'; // Subdirectory for cache files
-const cacheDuration = 30 * 24 * 60 * 60 * 1000; // 30 days in milliseconds
+const bggUserId = process.env.BGG_USER_ID;
+const cacheFilePath = path.join(__dirname, `public/gameCache/gamesCache_${bggUserId}.json`);
+const collectionCachePath = path.join(__dirname, `public/gameCache/collectionCache_${bggUserId}.json`);
 
+let cacheDate = getTimeStamp(cacheFilePath);
+let collectionDate = getTimeStamp(collectionCachePath);
 
 // Test Route
 app.get('/test', (req, res) => {
@@ -128,43 +132,66 @@ app.get('/authorizeTrello', async (req, res) => {
 });
 
 
-// Serve game list API
+// Serve game list API with caching and set collectionDate
 app.get('/games', async (req, res) => {
   try {
-    const bggUserId = process.env.BGG_USER_ID;
-    const cacheFilePath = path.join(__dirname, `public/gameCache/collectionCache_${bggUserId}.json`);
+      console.log(`Cache Date: ${new Date(cacheDate).toISOString()}`);
+      console.log(`Collection Date: ${new Date(collectionDate).toISOString()}`);
+    // Check if cache is valid based on the collection timestamp
+    if (fs.existsSync(cacheFilePath) && cacheDate >= collectionDate) {
+      const cachedData = JSON.parse(fs.readFileSync(cacheFilePath, 'utf8'));
+      console.log('Serving games from cache');
+      return res.json({ games: cachedData.games, collectionDate: new Date(collectionDate).toISOString() });
+    }
 
-    // Read the cached game list JSON file
-    const collectionData = JSON.parse(fs.readFileSync(cacheFilePath, 'utf8'));
+    // If cache is not valid, read collection data and fetch game details
+    if (fs.existsSync(collectionCachePath)) {
+      const collectionData = JSON.parse(fs.readFileSync(collectionCachePath, 'utf8'));
+      collectionDate = new Date(collectionData.timestamp).getTime(); // Update collectionDate from the file
+      console.log('Building new Cache from Collection Data');
 
-    // Fetch game details for each game from the individual game JSON files
-    const gameDetails = collectionData.games.map(game => {
-      const gameDetailsFile = path.join(__dirname, `public/gameCache/${game.id}.json`);
-      if (fs.existsSync(gameDetailsFile)) {
-        const gameData = JSON.parse(fs.readFileSync(gameDetailsFile, 'utf8'));
-        return {
-          id: game.id,
-          name: gameData.gameDetails.name,
-          type: gameData.gameDetails.type,
-          thumbnail: gameData.gameDetails.thumbnail,
-          link: gameData.gameDetails.link,
-          minPlayers: gameData.gameDetails.minPlayers,
-          maxPlayers: gameData.gameDetails.maxPlayers,
-          bestAtCount: gameData.gameDetails.bestAtCount || 'N/A'
-        };
-      }
-      return null;
-    });
+      // Fetch game details for each game from the individual game JSON files
+      const gameDetails = collectionData.games.map(game => {
+        const gameDetailsFile = path.join(__dirname, `public/gameCache/${game.id}.json`);
+        if (fs.existsSync(gameDetailsFile)) {
+          const gameData = JSON.parse(fs.readFileSync(gameDetailsFile, 'utf8'));
+          return {
+            id: game.id,
+            name: gameData.gameDetails.name,
+            type: gameData.gameDetails.type,
+            lastmodified: game.lastmodified,
+            thumbnail: gameData.gameDetails.thumbnail,
+            link: gameData.gameDetails.link,
+            minPlayers: gameData.gameDetails.minPlayers,
+            maxPlayers: gameData.gameDetails.maxPlayers,
+            bestAtCount: gameData.gameDetails.bestAtCount || 'N/A'
+          };
+        }
+        return null;
+      });
 
-    // Filter out any games that couldn't be fetched properly
-    const filteredGames = gameDetails.filter(game => game !== null);
+      // Filter out any games that couldn't be fetched properly
+      const filteredGames = gameDetails.filter(game => game !== null);
 
-    res.json({ games: filteredGames });
+      // Save the fetched game list to cache with a timestamp
+	  cacheDate = new Date();
+      const cacheData = {
+        timestamp: cacheDate.toISOString(),
+        games: filteredGames
+      };
+      fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData), 'utf8');
+	  
+
+      return res.json({ games: filteredGames, collectionDate: new Date(collectionDate).toISOString() });
+    } else {
+      return res.status(500).json({ error: 'Collection cache not found.' });
+    }
   } catch (error) {
     console.error('Error fetching games:', error);
     res.status(500).json({ error: 'Failed to fetch games' });
   }
 });
+
 
 
 
@@ -199,12 +226,14 @@ async function loadCollection(userId) {
         id: game.$.objectid,
         name: game.name[0]._,
         image: game.image[0],
-        thumbnail: game.thumbnail,
-        numplays: game.numplays
+        thumbnail: game.thumbnail[0],
+        lastmodified: game.status[0].$.lastmodified,
+        numplays: game.numplays[0]
       }));
 
+      collectionDate = new Date();
       const cacheData = {
-        timestamp: new Date().toISOString(),
+        timestamp: collectionDate.toISOString(),
         games: games
       };
 
@@ -277,7 +306,14 @@ function wait(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-
+// Function to get the timestamp from the cache file
+function getTimeStamp(filePath) {
+  if (!fs.existsSync(filePath)) {
+    return null;
+  }
+  const fileData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  return new Date(fileData.timestamp).getTime();
+}
 
 
 const PORT = process.env.EXPRESS_PORT || 5000;
