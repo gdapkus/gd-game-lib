@@ -6,8 +6,19 @@
           <v-container>
             <!-- Header -->
             <v-app-bar app flat color="green">
-              <v-toolbar-title class="font-weight-black">My Game Library</v-toolbar-title>
-			<v-btn icon>
+              <div style="width: 24px;"></div>
+              <v-toolbar-item @click="reloadPage" style="cursor: pointer;">
+                <v-img src="/favicon.ico" height="48" width="48" contain></v-img>
+              </v-toolbar-item>
+              <v-toolbar-title
+                @click="reloadPage"
+                class="font-weight-black cursor-pointer"
+                style="font-size: 2rem;"
+              >
+                Game Library
+              </v-toolbar-title>
+              <v-spacer></v-spacer>
+              <v-btn icon>
                 <v-icon>mdi-cog-outline</v-icon>
                 <v-menu activator="parent">
                   <v-list>
@@ -20,10 +31,11 @@
                   </v-list>
                 </v-menu>
               </v-btn>
-            </v-app-bar> 
-			<v-snackbar v-model="snackbarVisible" location="top" :timeout="5000">
-  {{ snackbarMessage }}  <v-btn color="green" text @click="snackbarVisible = false">Close</v-btn>
-</v-snackbar>
+            </v-app-bar>
+            <v-snackbar v-model="snackbarVisible" location="top" :timeout="5000">
+              {{ snackbarMessage }}
+              <v-btn color="green" text @click="snackbarVisible = false">Close</v-btn>
+            </v-snackbar>
             <!-- Main content -->
             <v-main>
               <v-row class="mx-auto mt-6">
@@ -48,11 +60,15 @@
                     </template>
                     <template v-slot:item="{ item }">
                       <tr>
-                        <td class="v-data-table__td"  @click="showDropdown($event, item.id)">
+                        <td class="v-data-table__td" @click="showDropdown($event, item.id)">
                           <v-img :src="item.thumbnail" max-height="150px" contain class="my-3"></v-img>
                         </td>
-                        <td class="v-data-table__td"  @click="showDropdown($event, item.id)">{{ item.name }}</td>
-                        <td class="v-data-table__td">{{ item.minPlayers }} - {{ item.maxPlayers }}</td>
+                        <td class="v-data-table__td" @click="showDropdown($event, item.id)">
+                          {{ item.name }}
+                        </td>
+                        <td class="v-data-table__td">
+                          {{ item.minPlayers }} - {{ item.maxPlayers }}
+                        </td>
                         <td class="v-data-table__td">{{ item.bestAtCount }}</td>
                       </tr>
                     </template>
@@ -108,7 +124,7 @@
 </template>
 
 <script>
-import axios from 'axios'; 
+import axios from 'axios';
 
 export default {
   data() {
@@ -122,9 +138,8 @@ export default {
       selectedItemId: null, // Track ID of selected item
       trelloLists: [], // Store the fetched Trello lists
       trelloToken: null, // Trello token fetched from the cookies
-	  snackbarVisible: false, // Controls the visibility of the snackbar
-	  snackbarMessage: '',    // Message to display in the snackbar
-
+      snackbarVisible: false, // Controls the visibility of the snackbar
+      snackbarMessage: '', // Message to display in the snackbar
     };
   },
   computed: {
@@ -135,27 +150,23 @@ export default {
       return this.games.filter(
         game => game.type === 'boardgame' && game.name.toLowerCase().includes(this.search.toLowerCase())
       );
-    }
+    },
   },
   async created() {
     try {
       document.title = "My Game Library";
 
-        console.log('Logging1');
       // Fetch game data from the server-side API
       const response = await fetch('/api/games');
       if (response.ok) {
         const { games } = await response.json();
         this.games = games;
-        console.log('Games: ${gaes[1]');
       } else {
         console.error('Failed to load games:', response.statusText);
       }
 
-        console.log('Logging2');
       // Retrieve the Trello token from the cookies
       this.trelloToken = this.$cookies.get('BGGCard');
-    console.log('Retrieved Trello Token from Cookie:', this.trelloToken);
 
       // If Trello token exists, make an API call to fetch lists
       if (this.trelloToken) {
@@ -173,119 +184,107 @@ export default {
     }
   },
   methods: {
+    reloadPage() {
+      window.location.reload();
+    },
     goToGamePage(gameId) {
-		
-		      const game = this.games.find(g => g.id === gameId); // Find the game by ID
-			 
+      const game = this.games.find(g => g.id === gameId);
       window.open(game.link, '_blank');
     },
-authorizeTrello() {
-  const trelloKey = import.meta.env.VITE_TRELLO_KEY; 
-  const callbackUrl = encodeURIComponent(`${window.location.origin}/api/trelloCallback`);
+    authorizeTrello() {
+      const trelloKey = import.meta.env.VITE_TRELLO_KEY;
+      const callbackUrl = encodeURIComponent(`${window.location.origin}/api/trelloCallback`);
+      const authWindow = window.open(
+        `https://trello.com/1/authorize?expiration=never&key=${trelloKey}&scope=read,write&response_type=token&return_url=${callbackUrl}`,
+        'authWindow',
+        'width=600,height=800'
+      );
 
-  const authWindow = window.open(
-    `https://trello.com/1/authorize?expiration=never&key=${trelloKey}&scope=read,write&response_type=token&return_url=${callbackUrl}`,
-    'authWindow',
-    'width=600,height=800'
-  );
+      const pollForToken = setInterval(async () => {
+        try {
+          if (authWindow.closed) {
+            clearInterval(pollForToken);
+            this.trelloToken = this.$cookies.get('BGGCard');
 
-  const pollForToken = setInterval(async () => {
-    try {
-      if (authWindow.closed) {
-        clearInterval(pollForToken);
-        this.trelloToken = this.$cookies.get('BGGCard');
+            if (this.trelloToken) {
+              this.snackbarMessage = 'Token set successfully!';
+              this.snackbarVisible = true;
 
-        if (this.trelloToken) {
-          this.snackbarMessage = 'Token set successfully!';
-          this.snackbarVisible = true; // Show the snackbar for success
-
-          // Fetch Trello lists after the token is set successfully
-          try {
-            const response = await fetch(`/api/getTrelloLists?token=${this.trelloToken}`);
-            if (response.ok) {
-              this.trelloLists = await response.json();
-              console.log('Trello lists loaded successfully.');
+              try {
+                const response = await fetch(`/api/getTrelloLists?token=${this.trelloToken}`);
+                if (response.ok) {
+                  this.trelloLists = await response.json();
+                } else {
+                  this.snackbarMessage = 'Failed to load Trello lists';
+                  this.snackbarVisible = true;
+                }
+              } catch (error) {
+                this.snackbarMessage = 'Error fetching Trello lists';
+                this.snackbarVisible = true;
+              }
             } else {
-              console.error('Failed to load Trello lists:', response.statusText);
-              this.snackbarMessage = 'Failed to load Trello lists';
+              this.snackbarMessage = 'Token setting failed!';
               this.snackbarVisible = true;
             }
+          }
+        } catch (e) {
+          console.error('Error polling for token:', e);
+        }
+      }, 1000);
+    },
+    showDropdown(event, itemId) {
+      this.selectedItemId = itemId;
+      this.dropdownActivator = event.currentTarget;
+      this.dropdowns[itemId] = true;
+    },
+    async updateCollection() {
+      try {
+        this.snackbarMessage = 'Updating collection...';
+        this.snackbarVisible = true;
+        const response = await axios.get('/api/loadCollection');
+        if (response.status === 200) {
+          this.snackbarMessage = 'Collection updated successfully!';
+          try {
+            this.snackbarMessage = 'Caching new games...';
+            const detailsResponse = await axios.get('/api/loadDetails');
+            if (detailsResponse.status === 200) {
+              this.snackbarMessage = 'Games updated successfully!';
+            } else {
+              this.snackbarMessage = 'Failed to update games. Try again.';
+            }
           } catch (error) {
-            console.error('Error fetching Trello lists:', error);
-            this.snackbarMessage = 'Error fetching Trello lists';
+            this.snackbarMessage = `Error updating games: ${error.message}`;
+          } finally {
             this.snackbarVisible = true;
           }
         } else {
-          this.snackbarMessage = 'Token setting failed!';
-          this.snackbarVisible = true; // Show the snackbar for failure
+          this.snackbarMessage = 'Failed to update collection. Try again.';
         }
+      } catch (error) {
+        this.snackbarMessage = `Error updating collection: ${error.message}`;
+      } finally {
+        this.snackbarVisible = true;
       }
-    } catch (e) {
-      console.error('Error polling for token:', e);
-    }
-  }, 1000);
-},
-showDropdown(event, itemId) {
-
-  this.selectedItemId = itemId;
-  this.dropdownActivator = event.currentTarget;
-  this.dropdowns[itemId] = true;
-},
-
-async updateCollection() {
-    try {
-      this.snackbarMessage = 'Updating collection...';
-      this.snackbarVisible = true;
-
-      const response = await axios.get('/api/loadCollection');
-      if (response.status === 200) {
-        this.snackbarMessage = 'Collection updated successfully!';
-		    try {
-      this.snackbarMessage = 'Caching new games...';
-      this.snackbarVisible = true;
-
-      const response = await axios.get('/api/loadDetails');
-      if (response.status === 200) {
-        this.snackbarMessage = 'Games updated successfully!';
-      } else {
-        this.snackbarMessage = 'Failed to update games. Try again.';
-      }
-    } catch (error) {
-      console.error('Error updating collection:', error);
-      this.snackbarMessage = `Error updating games: ${error.message}`;
-    } finally {
-      this.snackbarVisible = true;
-    }
-      } else {
-        this.snackbarMessage = 'Failed to update collection. Try again.';
-      }
-    } catch (error) {
-      console.error('Error updating collection:', error);
-      this.snackbarMessage = `Error updating collection: ${error.message}`;
-    } finally {
-      this.snackbarVisible = true;
-    }
-  },
-  
+    },
     async addToTrello(gameId, listId) {
       try {
-		      const game = this.games.find(g => g.id === gameId); // Find the game by ID
-    const list = this.trelloLists.find(l => l.id === listId); // Find the list by ID
+        const game = this.games.find(g => g.id === gameId);
+        const list = this.trelloLists.find(l => l.id === listId);
 
-        const response = await axios.post('/api/createTrelloCard', {
+        await axios.post('/api/createTrelloCard', {
           listId: listId,
           gameId: gameId,
-          trelloToken: this.trelloToken
+          trelloToken: this.trelloToken,
         });
-    // Show success message
-    this.snackbarMessage = `${game.name} added to Trello list "${list.name}"`;
-    this.snackbarVisible = true;
+
+        this.snackbarMessage = `${game.name} added to Trello list "${list.name}"`;
+        this.snackbarVisible = true;
         this.dropdownVisible = false;
       } catch (error) {
         console.error('Error adding game to Trello:', error.response || error);
       }
-    }
-  }
+    },
+  },
 };
 </script>
 
