@@ -173,6 +173,9 @@ app.get('/games', async (req, res) => {
       // Filter out any games that couldn't be fetched properly
       const filteredGames = gameDetails.filter(game => game !== null);
 
+      // Sort games by lastmodified, newest to oldest
+      filteredGames.sort((a, b) => new Date(b.lastmodified) - new Date(a.lastmodified));
+
       // Save the fetched game list to cache with a timestamp
 	  cacheDate = new Date();
       const cacheData = {

@@ -48,15 +48,7 @@
               </v-row>
               <v-row class="mx-auto mb-6">
                 <v-col cols="12">
-                  <v-data-table :items="filteredGames" class="v-table--density-compact">
-                    <template v-slot:headers>
-                      <tr>
-                        <th class="v-data-table__th">Cover</th>
-                        <th class="v-data-table__th">Title</th>
-                        <th class="v-data-table__th">Player Range</th>
-                        <th class="v-data-table__th">Best At</th>
-                      </tr>
-                    </template>
+                  <v-data-table :headers="headers" :items="filteredGames" class="v-table--density-compact">
                     <template v-slot:item="{ item }">
                       <tr>
                         <td class="v-data-table__td" @click="showDropdown($event, item.id)">
@@ -65,10 +57,10 @@
                         <td class="v-data-table__td" @click="showDropdown($event, item.id)">
                           {{ item.name }}
                         </td>
-                        <td class="v-data-table__td">
+                        <td class="v-data-table__td" style="text-align: center">
                           {{ item.minPlayers }} - {{ item.maxPlayers }}
                         </td>
-                        <td class="v-data-table__td">{{ item.bestAtCount }}</td>
+                        <td class="v-data-table__td" style="text-align: center">{{ item.bestAtCount }}</td>
                       </tr>
                     </template>
                   </v-data-table>
@@ -139,8 +131,25 @@ export default {
       trelloToken: null, // Trello token fetched from the cookies
       snackbarVisible: false, // Controls the visibility of the snackbar
       snackbarMessage: '', // Message to display in the snackbar
+	  headers: [
+          { title: 'Cover'},
+		  {
+			  title: 'Title',
+			  key: 'name',
+			  sortRaw: (a, b) => {
+				  // Remove articles ("The", "A", "An") and trim for comparison
+				  const titleA = a.name.replace(/^(The|A|An)\s+/i, '').trim();
+				  const titleB = b.name.replace(/^(The|A|An)\s+/i, '').trim();
+				  
+				  return titleA.localeCompare(titleB, undefined, { sensitivity: 'base' });
+		  },
+      },
+          { title: 'Player Range', align: 'center'},
+          { title: 'Best At', align: 'center'},
+      ],
     };
   },
+
   computed: {
     filteredGames() {
       if (!this.search) {
