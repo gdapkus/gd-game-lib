@@ -17,7 +17,6 @@
               >
                 Game Library
               </v-toolbar-title>
-              <v-spacer></v-spacer>
               <v-btn icon>
                 <v-icon>mdi-cog-outline</v-icon>
                 <v-menu activator="parent">
