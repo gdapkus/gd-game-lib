@@ -206,15 +206,17 @@ export default {
       this.bggUsers = await bggUsersResponse.json();
 
 
-      // Check for a default user in the cookies
+      // Check for an active or default user in the cookies
+	  const activeUsername = this.$cookies.get('activeUser');
       const defaultUsername = this.$cookies.get('defaultUser');
-      const defaultUser = this.bggUsers.find(user => user.username === defaultUsername);
+	  const userToLoad = activeUsername || defaultUsername;
+      const savedUser = this.bggUsers.find(user => user.username === userToLoad);
 
-      if (defaultUser) {
+      if (savedUser) {
         // Set the saved default user if available
-        this.setUser(defaultUser);
+        this.setUser(savedUser);
       } else {
-        // Otherwise, set the first or second user as default
+        // Otherwise, set the first as default
         this.setUser(this.bggUsers[0]);
       }
 	  
@@ -301,12 +303,14 @@ export default {
 	  
       // If the "Set as default user" checkbox is checked, store in cookie
       if (this.setAsDefault) {
-        this.$cookies.set('defaultUser', user.username, '90d'); // Set cookie for 90 days
+        this.$cookies.set('defaultUser', user.username, '730d'); // Set cookie for 2ish years
+		this.$cookies.set('activeUser', user.username, 'session'); // Session cookie
 		this.setAsDefault = false; // Reset the checkbox state
 		this.snackbarMessage = `${user.name} is now the default user`;
 		this.snackbarVisible = true;
       } else {
-        this.snackbarMessage = `${user.name} is now the active user`;
+		this.$cookies.set('activeUser', user.username, 'session'); // Session cookie
+		this.snackbarMessage = `${user.name} is now the active user`;
         this.snackbarVisible = true;
 	  }
 	 	  

@@ -146,14 +146,6 @@ async function createTrelloCard(listId, gameId, trelloToken) {
 			});
 		console.log('Voted on the card.');
 
-        await axios.post(`https://api.trello.com/1/cards/${cardId}/labels`, {
-            name: 'Owned by Greg',
-            color: 'green',
-            key: process.env.TRELLO_KEY,
-            token: trelloToken
-        });
-        console.log("Label 'Owned by Greg' added to the card.");
-
         if (gameDetails.image) {
             await axios.post(`https://api.trello.com/1/cards/${cardId}/attachments`, {
                 url: gameDetails.image,
@@ -180,6 +172,35 @@ async function createTrelloCard(listId, gameId, trelloToken) {
             });
             console.log('Video link attached successfully.');
         }
+			
+		// Load BGG users from bggUsers.json to add labels
+		const bggUsers = JSON.parse(fs.readFileSync('config/bggUsers.json', 'utf8'));
+
+		// Check each user's collection for game ownership
+		for (const user of bggUsers) {
+			const sanitizedUserId = user.username.replace(/\s+/g, '_');
+			const collectionFilePath = `public/gameCache/collectionCache_${sanitizedUserId}.json`;
+      
+			// Check if the user's collection file exists
+			if (fs.existsSync(collectionFilePath)) {
+				const collectionData = JSON.parse(fs.readFileSync(collectionFilePath, 'utf8'));
+
+				// Check if the user owns the game
+				const ownsGame = collectionData.games.some(game => game.id === gameId);
+				if (ownsGame) {
+				// Add a label for each owner
+				const label = `Owned by ${user.name}`
+				await axios.post(`https://api.trello.com/1/cards/${cardId}/labels`, {
+					name: label,
+					color: user.color,
+					key: process.env.TRELLO_KEY,
+					token: trelloToken
+					});
+				console.log(`Label '${label}' added to the card.`);
+				}
+			}
+		}
+		
     } catch (error) {
         console.error('Error creating Trello card:', error);
     }

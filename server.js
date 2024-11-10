@@ -214,6 +214,7 @@ async function handleGamesRequest(bggUserId, res) {
 }
 
 
+
 //BGG data load routes
 //route to load  a collection for a user
 app.get('/loadCollection/:bggUserId', async (req, res) => {
@@ -237,8 +238,9 @@ app.get('/loadDetails/:bggUserId', async (req, res) => {
     let errors = [];
 
     for (const game of cachedCollection) {
-        if (!isGameDetailsCached(game.id)) {
-			console.log(`Caching Game ID:${game.id}`);
+		const isCached = isGameDetailsCached(game.id)
+		console.log(`Checking Game ID:${game.id}: ${isCached}`);
+        if (!isCached) {
             const { data, error } = await getGameDetails(game.id);
             if (error) {
                 errors.push({ id: game.id, name: game.name });
@@ -257,8 +259,9 @@ app.get('/loadDetails/:bggUserId', async (req, res) => {
 
 // function to save the BGG collection response to a local JSON cache
 async function loadCollection(userId) {
+    const sanitizedUserId = userId.replace(/\s+/g, '_');
   const collectionUrl = `https://boardgamegeek.com/xmlapi2/collection?username=${encodeURIComponent(userId)}&own=1`;
-    const cacheFilePath = path.join(__dirname, `public/gameCache/collectionCache_${userId}.json`);
+    const cacheFilePath = path.join(__dirname, `public/gameCache/collectionCache_${sanitizedUserId}.json`);
 
 
   const maxRetries = 2; // Set the number of retries
