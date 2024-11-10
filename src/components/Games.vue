@@ -15,7 +15,7 @@
                 class="font-weight-black cursor-pointer"
                 style="font-size: 2rem;"
               >
-                Game Library
+                {{ activeUser ? `${activeUser.name}'s Game Library` : 'Game Library' }}
               </v-toolbar-title>
               <v-btn icon>
                 <v-icon>mdi-cog-outline</v-icon>
@@ -24,6 +24,9 @@
                     <v-list-item @click="authorizeTrello">
                       <v-list-item-title>Authorize Trello</v-list-item-title>
                     </v-list-item>
+                    <v-list-item @click="switchUser">
+                      <v-list-item-title>Switch User</v-list-item-title>
+                    </v-list-item>
                     <v-list-item @click="updateCollection">
                       <v-list-item-title>Update Collection</v-list-item-title>
                     </v-list-item>
@@ -31,6 +34,37 @@
                 </v-menu>
               </v-btn>
             </v-app-bar>
+			
+<!-- Switch User Dialog -->
+<v-dialog v-model="userDialog" width="400" persistent>
+  <v-card>
+    <v-card-title class="headline">Select User</v-card-title>
+    <v-card-text>
+      <v-list>
+        <v-list-item v-for="user in bggUsers" :key="user.username" @click="selectUser(user)">
+          <template v-slot:prepend><v-avatar size="64">
+            <img :src="user.avatarUrl" alt="User Avatar" />
+          </v-avatar></template>
+          <v-list-item-content>
+            <v-list-item-title>{{ user.name }}</v-list-item-title>
+            <v-list-item-subtitle>{{ user.username }}</v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+      <!-- Checkbox for setting the default user -->
+      <v-checkbox
+        v-model="setAsDefault"
+        label="Set as default"
+        class="mt-4"
+		@change="toggleDefaultUser"
+      ></v-checkbox>
+    </v-card-text>
+    <v-card-actions>
+      <v-spacer></v-spacer>
+      <v-btn color="primary" @click="userDialog = false">Close</v-btn>
+    </v-card-actions>
+  </v-card>
+</v-dialog>
             <v-snackbar v-model="snackbarVisible" location="top" :timeout="5000">
               {{ snackbarMessage }}
               <v-btn color="green" text @click="snackbarVisible = false">Close</v-btn>
@@ -121,6 +155,8 @@ export default {
   data() {
     return {
       games: [],
+      bggUsers: [], // Initialize as an empty array to hold users
+      activeUser: [],
       search: '',
       dropdownVisible: false,
       dropdowns: {}, // Track visibility of dropdowns by game ID
@@ -131,6 +167,8 @@ export default {
       trelloToken: null, // Trello token fetched from the cookies
       snackbarVisible: false, // Controls the visibility of the snackbar
       snackbarMessage: '', // Message to display in the snackbar
+	  userDialog: false, // Ensures userDialog is available and initialized
+	  setAsDefault: false, // Initialize setting switch user as default to false
 	  headers: [
           { title: 'Cover'},
 		  {
@@ -162,16 +200,26 @@ export default {
   },
   async created() {
     try {
-      document.title = "My Game Library";
+	  
+      // Fetch BGG users and set the active user
+      const bggUsersResponse = await fetch(`/api/bgg-users`);
+      this.bggUsers = await bggUsersResponse.json();
 
-      // Fetch game data from the server-side API
-      const response = await fetch('/api/games');
-      if (response.ok) {
-        const { games } = await response.json();
-        this.games = games;
+
+      // Check for a default user in the cookies
+      const defaultUsername = this.$cookies.get('defaultUser');
+      const defaultUser = this.bggUsers.find(user => user.username === defaultUsername);
+
+      if (defaultUser) {
+        // Set the saved default user if available
+        this.setUser(defaultUser);
       } else {
-        console.error('Failed to load games:', response.statusText);
+        // Otherwise, set the first or second user as default
+        this.setUser(this.bggUsers[0]);
       }
+	  
+      // Fetch game data from the server-side API
+      await this.loadGames();
 
       // Retrieve the Trello token from the cookies
       this.trelloToken = this.$cookies.get('BGGCard');
@@ -240,7 +288,52 @@ export default {
         }
       }, 1000);
     },
-    showDropdown(event, itemId) {
+    switchUser() {
+      // Opens the dialog for switching users
+      this.userDialog = true;
+    },
+    async selectUser(user) {
+      // Updates the active user and reloads the game data
+      this.setUser(user);
+      this.userDialog = false; // Close the dialog
+ 
+      await this.loadGames();
+	  
+      // If the "Set as default user" checkbox is checked, store in cookie
+      if (this.setAsDefault) {
+        this.$cookies.set('defaultUser', user.username, '90d'); // Set cookie for 90 days
+		this.setAsDefault = false; // Reset the checkbox state
+		this.snackbarMessage = `${user.name} is now the default user`;
+		this.snackbarVisible = true;
+      } else {
+        this.snackbarMessage = `${user.name} is now the active user`;
+        this.snackbarVisible = true;
+	  }
+	 	  
+	  
+    },
+	toggleDefaultUser() {
+		console.log("Checkbox checked:", this.setAsDefault);
+	},
+    setUser(user) {
+      // Helper to set active user and title
+      this.activeUser = user;
+      document.title = `${user.name}'s Game Library`;
+    },
+  async loadGames() {
+    try {
+      const response = await fetch(`/api/games/${this.activeUser.username}`);
+      if (response.ok) {
+        const { games } = await response.json();
+        this.games = games;
+      } else {
+        console.error('Failed to load games:', response.statusText);
+      }
+    } catch (error) {
+      console.error('Error loading games:', error);
+    }
+  },
+	showDropdown(event, itemId) {
       this.selectedItemId = itemId;
       this.dropdownActivator = event.currentTarget;
       this.dropdowns[itemId] = true;
@@ -249,12 +342,12 @@ export default {
       try {
         this.snackbarMessage = 'Updating collection...';
         this.snackbarVisible = true;
-        const response = await axios.get('/api/loadCollection');
+        const response = await axios.get(`/api/loadCollection/${this.activeUser.username}`);
         if (response.status === 200) {
           this.snackbarMessage = 'Collection updated successfully!';
           try {
             this.snackbarMessage = 'Caching new games...';
-            const detailsResponse = await axios.get('/api/loadDetails');
+            const detailsResponse = await axios.get(`/api/loadDetails/${this.activeUser.username}`);
             if (detailsResponse.status === 200) {
               this.snackbarMessage = 'Games updated successfully!';
             } else {

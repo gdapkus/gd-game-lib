@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-21T04:43:18.945Z",
-  "gameDetails": {
-    "name": "7 Wonders Duel: The Messe Essen Promo Card",
-    "type": "boardgameexpansion",
-    "description": "The Messe Essen Convention Center is a Wonder for the 7 Wonders: Duel game. The completed Messe is worth 2 points at the end of the game.&#10;It also allows the player, in the moment when it's built, to take one card from the topmost row of the drafting structure (the line lying directly on the table), even if the card is still covered, and build it in their own city for free - only paying the price of the wonder.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/BRdNJUFy2ZYYjhpyQCp1IA__original/img/-Z3cJ0fC0j1mqeYlCZngWAUGAC0=/0x0/filters:format(png)/pic2703327.png",
-    "thumbnail": "https://cf.geekdo-images.com/BRdNJUFy2ZYYjhpyQCp1IA__thumb/img/qDFb67OTyNmmXVDmBYfACDGYnY4=/fit-in/200x150/filters:strip_icc()/pic2703327.png",
-    "link": "https://boardgamegeek.com/thing/186069",
-    "minPlayers": "2",
-    "maxPlayers": "2",
-    "bestAtCount": "2",
-    "id": "186069"
-  }
-}
+{"timestamp":"2024-11-09T19:46:43.873Z","gameDetails":{"id":"186069","name":"7 Wonders Duel: The Messe Essen Promo Card","type":"boardgameexpansion","description":"The Messe Essen Convention Center is a Wonder for the 7 Wonders: Duel game. The completed Messe is worth 2 points at the end of the game.&#10;It also allows the player, in the moment when it's built, to take one card from the topmost row of the drafting structure (the line lying directly on the table), even if the card is still covered, and build it in their own city for free - only paying the price of the wonder.&#10;&#10;","image":"https://cf.geekdo-images.com/BRdNJUFy2ZYYjhpyQCp1IA__original/img/-Z3cJ0fC0j1mqeYlCZngWAUGAC0=/0x0/filters:format(png)/pic2703327.png","thumbnail":"https://cf.geekdo-images.com/BRdNJUFy2ZYYjhpyQCp1IA__thumb/img/qDFb67OTyNmmXVDmBYfACDGYnY4=/fit-in/200x150/filters:strip_icc()/pic2703327.png","link":"https://boardgamegeek.com/thing/186069","minPlayers":"2","maxPlayers":"2","yearPublished":"2015","playingTime":"30","minPlayingTime":"30","maxPlayingTime":"30","bestAtCount":"2"}}

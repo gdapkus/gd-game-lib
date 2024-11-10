@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T00:52:19.544Z",
-  "gameDetails": {
-    "name": "You Robot",
-    "type": "boardgame",
-    "description": "Each team includes a scientist and his robot. The scientist must try and make their robot partner take a position, without saying anything, by showing them movement cards.&#10;&#10;The first team whose robot gets to the required position earns a point.&#10;&#10;The first team to 5 points wins.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/lnUMcrtMiBPF8NYyxUWWlg__original/img/cIjvO9n2B4E3zTyK9_JAE8wsWR4=/0x0/filters:format(jpeg)/pic493830.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/lnUMcrtMiBPF8NYyxUWWlg__thumb/img/vMYuCHThdVVgrxApwLFEOcDUGFU=/fit-in/200x150/filters:strip_icc()/pic493830.jpg",
-    "link": "https://boardgamegeek.com/thing/41054",
-    "minPlayers": "4",
-    "maxPlayers": "10",
-    "bestAtCount": "6",
-    "id": "41054"
-  }
-}
+{"timestamp":"2024-11-09T18:06:28.030Z","gameDetails":{"id":"41054","name":"You Robot","type":"boardgame","description":"Each team includes a scientist and his robot. The scientist must try and make their robot partner take a position, without saying anything, by showing them movement cards.&#10;&#10;The first team whose robot gets to the required position earns a point.&#10;&#10;The first team to 5 points wins.&#10;&#10;","image":"https://cf.geekdo-images.com/lnUMcrtMiBPF8NYyxUWWlg__original/img/cIjvO9n2B4E3zTyK9_JAE8wsWR4=/0x0/filters:format(jpeg)/pic493830.jpg","thumbnail":"https://cf.geekdo-images.com/lnUMcrtMiBPF8NYyxUWWlg__thumb/img/vMYuCHThdVVgrxApwLFEOcDUGFU=/fit-in/200x150/filters:strip_icc()/pic493830.jpg","link":"https://boardgamegeek.com/thing/41054","minPlayers":"4","maxPlayers":"10","yearPublished":"2009","playingTime":"20","minPlayingTime":"20","maxPlayingTime":"20","bestAtCount":"6"}}

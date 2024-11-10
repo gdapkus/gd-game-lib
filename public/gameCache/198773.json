@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T05:59:16.474Z",
-  "gameDetails": {
-    "name": "Codenames: Pictures",
-    "type": "boardgame",
-    "description": "What are these strange symbols on the map? They are code for locations where spies must contact secret agents!&#10;&#10;Two rival spymasters know the agent in each location. They deliver coded messages telling their field operatives where to go for clandestine meetings. Operatives must be clever. A decoding mistake could lead to an unpleasant encounter with an enemy agent &ndash; or worse, with the assassin! Both teams race to contact all their agents, but only one team can win.&#10;&#10;Codenames: Pictures differs from the original Codenames in that the agents are no longer represented by a single word, but by an image that contains multiple elements.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__original/img/i4FVjrk9TtmvVlVK7NtwRqgOxdQ=/0x0/filters:format(jpeg)/pic3476592.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__thumb/img/6-1EOESE196KVKw4xOJ5rge56j0=/fit-in/200x150/filters:strip_icc()/pic3476592.jpg",
-    "link": "https://boardgamegeek.com/thing/198773",
-    "minPlayers": "2",
-    "maxPlayers": "8",
-    "bestAtCount": "6",
-    "id": "198773"
-  }
-}
+{"timestamp":"2024-11-09T17:50:11.094Z","gameDetails":{"id":"198773","name":"Codenames: Pictures","type":"boardgame","description":"What are these strange symbols on the map? They are code for locations where spies must contact secret agents!&#10;&#10;Two rival spymasters know the agent in each location. They deliver coded messages telling their field operatives where to go for clandestine meetings. Operatives must be clever. A decoding mistake could lead to an unpleasant encounter with an enemy agent &ndash; or worse, with the assassin! Both teams race to contact all their agents, but only one team can win.&#10;&#10;Codenames: Pictures differs from the original Codenames in that the agents are no longer represented by a single word, but by an image that contains multiple elements.&#10;&#10;","image":"https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__original/img/i4FVjrk9TtmvVlVK7NtwRqgOxdQ=/0x0/filters:format(jpeg)/pic3476592.jpg","thumbnail":"https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__thumb/img/6-1EOESE196KVKw4xOJ5rge56j0=/fit-in/200x150/filters:strip_icc()/pic3476592.jpg","link":"https://boardgamegeek.com/thing/198773","minPlayers":"2","maxPlayers":"8","yearPublished":"2016","playingTime":"15","minPlayingTime":"15","maxPlayingTime":"15","bestAtCount":"6"}}

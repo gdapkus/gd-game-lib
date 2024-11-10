@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T06:05:07.819Z",
-  "gameDetails": {
-    "name": "Maracaibo",
-    "type": "boardgame",
-    "description": "Maracaibo, a strategy game for 1-4 players by Alexander Pfister, is set in the Caribbean during the 17th century. The players try to increase their influence in three nations in four rounds with a play time of 40 minutes per player.&#10;&#10;The players sail on a round course through the Caribbean, e.g., you have city tiles where you are able to perform various&nbsp;actions or deliver goods to. One special feature is an implemented quest mode over more and various tiles, which tells the player, who chase after it, a little story.&#10;&#10;As a player, you move with your ship around the course, managing it by using cards like in other games from Alexander Pfister.&#10;&#10;&#10;NOTE: The Spanish and Portuguese editions of Maracaibo contain La Armada mini-expansion packaged inside the base game's box.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__original/img/yhnCcq9UplffqjSCe08mjTFvgOM=/0x0/filters:format(jpeg)/pic4917407.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__thumb/img/lVlnhYyxlZb3WuKZJHLoJcFHEjs=/fit-in/200x150/filters:strip_icc()/pic4917407.jpg",
-    "link": "https://boardgamegeek.com/thing/276025",
-    "minPlayers": "1",
-    "maxPlayers": "4",
-    "bestAtCount": "3",
-    "id": "276025"
-  }
-}
+{"timestamp":"2024-11-09T17:56:42.869Z","gameDetails":{"id":"276025","name":"Maracaibo","type":"boardgame","description":"Maracaibo, a strategy game for 1-4 players by Alexander Pfister, is set in the Caribbean during the 17th century. The players try to increase their influence in three nations in four rounds with a play time of 40 minutes per player.&#10;&#10;The players sail on a round course through the Caribbean, e.g., you have city tiles where you are able to perform various&nbsp;actions or deliver goods to. One special feature is an implemented quest mode over more and various tiles, which tells the player, who chase after it, a little story.&#10;&#10;As a player, you move with your ship around the course, managing it by using cards like in other games from Alexander Pfister.&#10;&#10;&#10;NOTE: The Spanish and Portuguese editions of Maracaibo contain La Armada mini-expansion packaged inside the base game's box.&#10;&#10;","image":"https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__original/img/yhnCcq9UplffqjSCe08mjTFvgOM=/0x0/filters:format(jpeg)/pic4917407.jpg","thumbnail":"https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__thumb/img/lVlnhYyxlZb3WuKZJHLoJcFHEjs=/fit-in/200x150/filters:strip_icc()/pic4917407.jpg","link":"https://boardgamegeek.com/thing/276025","minPlayers":"1","maxPlayers":"4","yearPublished":"2019","playingTime":"120","minPlayingTime":"30","maxPlayingTime":"120","bestAtCount":"3"}}

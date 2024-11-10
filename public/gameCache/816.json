@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-21T04:36:10.124Z",
-  "gameDetails": {
-    "name": "2038: Tycoons of the Asteroid Belt",
-    "type": "boardgame",
-    "description": "2038 is a space mining adaptation of the 18xx series of games.  First, you have the ever important stock trading rounds followed by operating rounds where you try to deliver commodities mined from the asteroid belt.&#10;&#10;Instead of laying track, the players explore the asteroid belt and lay claims to various mining resources. During operation rounds, ships move from mine to mine limited only by their fuel and the players' refueling stations. Operation is thus more flexible than in most 18xx games, and the randomly generated map greatly increases replay value.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/XYZhd-2ub4ACjInlBypnnA__original/img/0MCgn_lcTgghG8-wmc8OSZ95Vlc=/0x0/filters:format(jpeg)/pic78280.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/XYZhd-2ub4ACjInlBypnnA__thumb/img/lKjGIjqp-idpea7on_ut-GTvLvs=/fit-in/200x150/filters:strip_icc()/pic78280.jpg",
-    "link": "https://boardgamegeek.com/thing/816",
-    "minPlayers": "3",
-    "maxPlayers": "6",
-    "bestAtCount": "4",
-    "id": "816"
-  }
-}
+{"timestamp":"2024-11-09T19:45:54.173Z","gameDetails":{"id":"816","name":"2038: Tycoons of the Asteroid Belt","type":"boardgame","description":"2038 is a space mining adaptation of the 18xx series of games.  First, you have the ever important stock trading rounds followed by operating rounds where you try to deliver commodities mined from the asteroid belt.&#10;&#10;Instead of laying track, the players explore the asteroid belt and lay claims to various mining resources. During operation rounds, ships move from mine to mine limited only by their fuel and the players' refueling stations. Operation is thus more flexible than in most 18xx games, and the randomly generated map greatly increases replay value.&#10;&#10;","image":"https://cf.geekdo-images.com/XYZhd-2ub4ACjInlBypnnA__original/img/0MCgn_lcTgghG8-wmc8OSZ95Vlc=/0x0/filters:format(jpeg)/pic78280.jpg","thumbnail":"https://cf.geekdo-images.com/XYZhd-2ub4ACjInlBypnnA__thumb/img/lKjGIjqp-idpea7on_ut-GTvLvs=/fit-in/200x150/filters:strip_icc()/pic78280.jpg","link":"https://boardgamegeek.com/thing/816","minPlayers":"3","maxPlayers":"6","yearPublished":"1995","playingTime":"360","minPlayingTime":"360","maxPlayingTime":"360","bestAtCount":"4"}}

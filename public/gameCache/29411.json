@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T00:46:00.890Z",
-  "gameDetails": {
-    "name": "Castle Knights",
-    "type": "boardgame",
-    "description": "The premise here is that all of the players are Knights working together to build three new towers before King Duncan returns home to his castle.&#10;&#10;Unfortunately, your only building tool is a bizarre device made of satin cord, wooden balls, and what appears to be an elastic ponytail holder.  (Clearly, the material culture of the Middle Ages is full of surprises!) You use this device to pick up, move, and deposit various building blocks and the wooden figures of the Prince, the Princess, and the Ghost who top the towers.&#10;&#10;Which towers you are required to build (i.e. what blocks in what order) are determined by drawing cards.  If you succeed in constructing the tower illustrated before the timer runs out, then you keep that card.  If you fail, King Duncan moves forward one space.  Collect three cards before he gets to the castle and you win.&#10;&#10;Ages 5 and up.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/wt5FqrU2KObQITk6sBqUfg__original/img/Mj9xGQ9OWkFRU0Vp0atHXUUj3Do=/0x0/filters:format(jpeg)/pic371164.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/wt5FqrU2KObQITk6sBqUfg__thumb/img/xNzTZPI3ZrT3wq9T3-I-VwGT1SY=/fit-in/200x150/filters:strip_icc()/pic371164.jpg",
-    "link": "https://boardgamegeek.com/thing/29411",
-    "minPlayers": "2",
-    "maxPlayers": "4",
-    "bestAtCount": "4",
-    "id": "29411"
-  }
-}
+{"timestamp":"2024-11-09T17:49:08.168Z","gameDetails":{"id":"29411","name":"Castle Knights","type":"boardgame","description":"The premise here is that all of the players are Knights working together to build three new towers before King Duncan returns home to his castle.&#10;&#10;Unfortunately, your only building tool is a bizarre device made of satin cord, wooden balls, and what appears to be an elastic ponytail holder.  (Clearly, the material culture of the Middle Ages is full of surprises!) You use this device to pick up, move, and deposit various building blocks and the wooden figures of the Prince, the Princess, and the Ghost who top the towers.&#10;&#10;Which towers you are required to build (i.e. what blocks in what order) are determined by drawing cards.  If you succeed in constructing the tower illustrated before the timer runs out, then you keep that card.  If you fail, King Duncan moves forward one space.  Collect three cards before he gets to the castle and you win.&#10;&#10;Ages 5 and up.&#10;&#10;","image":"https://cf.geekdo-images.com/wt5FqrU2KObQITk6sBqUfg__original/img/Mj9xGQ9OWkFRU0Vp0atHXUUj3Do=/0x0/filters:format(jpeg)/pic371164.jpg","thumbnail":"https://cf.geekdo-images.com/wt5FqrU2KObQITk6sBqUfg__thumb/img/xNzTZPI3ZrT3wq9T3-I-VwGT1SY=/fit-in/200x150/filters:strip_icc()/pic371164.jpg","link":"https://boardgamegeek.com/thing/29411","minPlayers":"2","maxPlayers":"4","yearPublished":"2007","playingTime":"15","minPlayingTime":"10","maxPlayingTime":"15","bestAtCount":"4"}}

@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T00:51:50.979Z",
-  "gameDetails": {
-    "name": "Train of Thought",
-    "type": "boardgame",
-    "description": "Train of Thought is a party word game. Players take turns trying to get opponents to guess a particular word, giving only a 3 word clue - and one of those words must be from a prior answer! For each clue given, each player may make 1 guess. If none are correct, the clue-giver creates another clue, using one of the guesses and up to 2 other words.&#10;&#10;When the word is correctly guessed, the guessing player and the clue giver each get one point, and the clue giver draws a new card and continues making clues. Get as many as you can in 2 minutes!&#10;&#10;Train of Thought really makes you think differently than other games in the genre. An excellent party game!&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/WYNaM8IfHAYoy8Os7zziRw__original/img/81yayaq5BW0ds8BaRAUVs6_MMEU=/0x0/filters:format(jpeg)/pic946896.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/WYNaM8IfHAYoy8Os7zziRw__thumb/img/0e_Ux6GTtGZlFY3liXZRiaBn7Kk=/fit-in/200x150/filters:strip_icc()/pic946896.jpg",
-    "link": "https://boardgamegeek.com/thing/56835",
-    "minPlayers": "2",
-    "maxPlayers": "7",
-    "bestAtCount": "4",
-    "id": "56835"
-  }
-}
+{"timestamp":"2024-11-09T18:05:10.128Z","gameDetails":{"id":"56835","name":"Train of Thought","type":"boardgame","description":"Train of Thought is a party word game. Players take turns trying to get opponents to guess a particular word, giving only a 3 word clue - and one of those words must be from a prior answer! For each clue given, each player may make 1 guess. If none are correct, the clue-giver creates another clue, using one of the guesses and up to 2 other words.&#10;&#10;When the word is correctly guessed, the guessing player and the clue giver each get one point, and the clue giver draws a new card and continues making clues. Get as many as you can in 2 minutes!&#10;&#10;Train of Thought really makes you think differently than other games in the genre. An excellent party game!&#10;&#10;","image":"https://cf.geekdo-images.com/WYNaM8IfHAYoy8Os7zziRw__original/img/81yayaq5BW0ds8BaRAUVs6_MMEU=/0x0/filters:format(jpeg)/pic946896.jpg","thumbnail":"https://cf.geekdo-images.com/WYNaM8IfHAYoy8Os7zziRw__thumb/img/0e_Ux6GTtGZlFY3liXZRiaBn7Kk=/fit-in/200x150/filters:strip_icc()/pic946896.jpg","link":"https://boardgamegeek.com/thing/56835","minPlayers":"2","maxPlayers":"7","yearPublished":"2011","playingTime":"20","minPlayingTime":"20","maxPlayingTime":"20","bestAtCount":"4"}}

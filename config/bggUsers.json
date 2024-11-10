@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Greg",
+    "username": "gdapkus",
+    "userid": 160268,
+    "altname": "gdapkus",
+	"color": "green",
+	"avatarUrl": "https://cf.geekdo-static.com/avatars/avatar_id196511.png"
+  },
+  {
+    "name": "Todd",
+    "username": "Beowulf",
+    "userid": 23225,
+    "altname": "beowulf",
+	"color": "orange",
+	"avatarUrl": "https://cf.geekdo-static.com/avatars/avatar_id135556.png"
+  },
+  {
+    "name": "Dave",
+    "username": "Gelatinous Goo",
+    "userid": 33831,
+    "altname": "gelatinous-goo",
+	"color": "purple",
+	"avatarUrl": "https://cf.geekdo-static.com/avatars/avatar_id196281.gif"
+  },
+  {
+    "name": "John",
+    "username": "Geniesse",
+    "userid": 29407,
+    "altname": "geniesse",
+	"color": "sky",
+	"avatarUrl": "https://cf.geekdo-static.com/avatars/avatar_id7934.jpg"
+  },
+  {
+    "name": "Paul",
+    "username": "saisaysplaygo",
+    "userid": 138138,
+    "altname": "saisaysplaygo",
+	"color": "red",
+	"avatarUrl": "https://cf.geekdo-static.com/avatars/avatar_id42580.jpg"
+  },
+  {
+    "name": "Al",
+    "username": "Lore",
+    "userid": 4954,
+    "altname": "lore",
+	"color": "yellow",
+	"avatarUrl": "https://cf.geekdo-static.com/avatars/avatar_id101556.jpg"
+  },
+  {
+    "name": "John",
+    "username": "Geniesse",
+    "userid": 29407,
+    "altname": "geniesse",
+	"color": "sky",
+	"avatarUrl": "https://cf.geekdo-static.com/avatars/avatar_id7934.jpg"
+  },
+  {
+    "name": "Megan",
+    "username": "bluelise",
+    "userid": 24876,
+    "altname": "bluelise",
+	"color": "blue",
+	"avatarUrl": "https://cf.geekdo-static.com/avatars/avatar_id42565.jpg"
+  }
+]

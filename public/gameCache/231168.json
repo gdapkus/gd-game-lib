@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-21T04:43:40.769Z",
-  "gameDetails": {
-    "name": "7 Wonders: Cities Anniversary Pack",
-    "type": "boardgameexpansion",
-    "description": "The 7 Wonders: Cities Anniversary Pack is a mini-expansion for 7 Wonders and 7 Wonders: Cities that contains fifteen new buildings, including a memorial, a customs office, a counterfeiter's office, and a smuggler's cache.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/hxXM4mQdzD6_8ArT9EJQog__original/img/o3YgVfXFuYZ6DbS74fOYKDvmSPQ=/0x0/filters:format(png)/pic3738474.png",
-    "thumbnail": "https://cf.geekdo-images.com/hxXM4mQdzD6_8ArT9EJQog__thumb/img/7KJ_pBoXlnGBwW7UC_qQJJ4wLL0=/fit-in/200x150/filters:strip_icc()/pic3738474.png",
-    "link": "https://boardgamegeek.com/thing/231168",
-    "minPlayers": "2",
-    "maxPlayers": "8",
-    "bestAtCount": "4",
-    "id": "231168"
-  }
-}
+{"timestamp":"2024-11-09T19:47:05.613Z","gameDetails":{"id":"231168","name":"7 Wonders: Cities Anniversary Pack","type":"boardgameexpansion","description":"The 7 Wonders: Cities Anniversary Pack is a mini-expansion for 7 Wonders and 7 Wonders: Cities that contains fifteen new buildings, including a memorial, a customs office, a counterfeiter's office, and a smuggler's cache.&#10;&#10;","image":"https://cf.geekdo-images.com/hxXM4mQdzD6_8ArT9EJQog__original/img/o3YgVfXFuYZ6DbS74fOYKDvmSPQ=/0x0/filters:format(png)/pic3738474.png","thumbnail":"https://cf.geekdo-images.com/hxXM4mQdzD6_8ArT9EJQog__thumb/img/7KJ_pBoXlnGBwW7UC_qQJJ4wLL0=/fit-in/200x150/filters:strip_icc()/pic3738474.png","link":"https://boardgamegeek.com/thing/231168","minPlayers":"2","maxPlayers":"8","yearPublished":"2017","playingTime":"40","minPlayingTime":"40","maxPlayingTime":"40","bestAtCount":"4"}}

@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T00:46:50.527Z",
-  "gameDetails": {
-    "name": "Daybreak",
-    "type": "boardgame",
-    "description": "Daybreak is a co-operative game about climate action. Each player controls a world power, deploying policies and technologies to both dismantle the engine of global heating and to build resilient societies that protect people from life-threatening crises.&#10;&#10;If the global temperature gets too high, or if too many people from any world power are in crisis, everyone loses. But if you work together to draw down global emissions to net-zero, you all win!&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__original/img/6umYavtw4Iw41gTtBZhNS7LrKIA=/0x0/filters:format(png)/pic7068528.png",
-    "thumbnail": "https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__thumb/img/7Y2W9IVJ3_YmOQfaoZz8XVPoUM0=/fit-in/200x150/filters:strip_icc()/pic7068528.png",
-    "link": "https://boardgamegeek.com/thing/334986",
-    "minPlayers": "1",
-    "maxPlayers": "4",
-    "bestAtCount": "2",
-    "id": "334986"
-  }
-}
+{"timestamp":"2024-11-09T17:51:16.562Z","gameDetails":{"id":"334986","name":"Daybreak","type":"boardgame","description":"Daybreak is a co-operative game about climate action. Each player controls a world power, deploying policies and technologies to both dismantle the engine of global heating and to build resilient societies that protect people from life-threatening crises.&#10;&#10;If the global temperature gets too high, or if too many people from any world power are in crisis, everyone loses. But if you work together to draw down global emissions to net-zero, you all win!&#10;&#10;","image":"https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__original/img/6umYavtw4Iw41gTtBZhNS7LrKIA=/0x0/filters:format(png)/pic7068528.png","thumbnail":"https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__thumb/img/7Y2W9IVJ3_YmOQfaoZz8XVPoUM0=/fit-in/200x150/filters:strip_icc()/pic7068528.png","link":"https://boardgamegeek.com/thing/334986","minPlayers":"1","maxPlayers":"4","yearPublished":"2023","playingTime":"120","minPlayingTime":"60","maxPlayingTime":"120","bestAtCount":"2"}}

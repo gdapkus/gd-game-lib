@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T00:47:45.591Z",
-  "gameDetails": {
-    "name": "Get Bit!",
-    "type": "boardgame",
-    "description": "&quot;You don't have to be faster than the shark, just faster than your friends!&quot;&#10;&#10;Get Bit! is a card game where players are competing to stay alive as the others are being eaten by the shark.&#10;&#10;The order of the swimmers is determined by simultaneously playing cards face-down then revealing the values. The number on each player's card determines position in line (higher numbers in front, lower numbers in back), however ties don't move.  The swimmer at the back loses a limb to the shark and is flung to the front of the line! The process is repeated until only two swimmers remain on the table. When this happens, the swimmer at the front of the line wins the game!&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/km1bBsWSyml95EFxcx5JWw__original/img/gd4oxx55xzh2vy5cDCcokTONNLA=/0x0/filters:format(png)/pic8104136.png",
-    "thumbnail": "https://cf.geekdo-images.com/km1bBsWSyml95EFxcx5JWw__thumb/img/O_LMwf86Ybtc-ThsPXMPJ0kDfkA=/fit-in/200x150/filters:strip_icc()/pic8104136.png",
-    "link": "https://boardgamegeek.com/thing/30539",
-    "minPlayers": "2",
-    "maxPlayers": "7",
-    "bestAtCount": "5",
-    "id": "30539"
-  }
-}
+{"timestamp":"2024-11-09T17:53:48.097Z","gameDetails":{"id":"30539","name":"Get Bit!","type":"boardgame","description":"&quot;You don't have to be faster than the shark, just faster than your friends!&quot;&#10;&#10;Get Bit! is a card game where players are competing to stay alive as the others are being eaten by the shark.&#10;&#10;The order of the swimmers is determined by simultaneously playing cards face-down then revealing the values. The number on each player's card determines position in line (higher numbers in front, lower numbers in back), however ties don't move.  The swimmer at the back loses a limb to the shark and is flung to the front of the line! The process is repeated until only two swimmers remain on the table. When this happens, the swimmer at the front of the line wins the game!&#10;&#10;","image":"https://cf.geekdo-images.com/km1bBsWSyml95EFxcx5JWw__original/img/gd4oxx55xzh2vy5cDCcokTONNLA=/0x0/filters:format(png)/pic8104136.png","thumbnail":"https://cf.geekdo-images.com/km1bBsWSyml95EFxcx5JWw__thumb/img/O_LMwf86Ybtc-ThsPXMPJ0kDfkA=/fit-in/200x150/filters:strip_icc()/pic8104136.png","link":"https://boardgamegeek.com/thing/30539","minPlayers":"2","maxPlayers":"7","yearPublished":"2007","playingTime":"20","minPlayingTime":"10","maxPlayingTime":"20","bestAtCount":"5"}}

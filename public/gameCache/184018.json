@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T00:49:25.005Z",
-  "gameDetails": {
-    "name": "Orléans: Neue Ortskarten N°2",
-    "type": "boardgameexpansion",
-    "description": "Orleans: Neue Ortskarten N&deg;2 (&quot;Place Tiles N&deg;2&quot;) is a mini expansion for Orl&eacute;ans that consists of three new place tiles: Barracks, Court, and Theatre.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/W8r04muuvh0tyB1cPf7UNA__original/img/ovkEJaPCJ57cgx3PCTE8JpEn88o=/0x0/filters:format(jpeg)/pic2713276.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/W8r04muuvh0tyB1cPf7UNA__thumb/img/47rOSSQDmtqhPMO-76Tmg5EJuYI=/fit-in/200x150/filters:strip_icc()/pic2713276.jpg",
-    "link": "https://boardgamegeek.com/thing/184018",
-    "minPlayers": "2",
-    "maxPlayers": "5",
-    "bestAtCount": "2",
-    "id": "184018"
-  }
-}
+{"timestamp":"2024-11-09T17:58:16.755Z","gameDetails":{"id":"184018","name":"Orléans: Neue Ortskarten N°2","type":"boardgameexpansion","description":"Orleans: Neue Ortskarten N&deg;2 (&quot;Place Tiles N&deg;2&quot;) is a mini expansion for Orl&eacute;ans that consists of three new place tiles: Barracks, Court, and Theatre.&#10;&#10;","image":"https://cf.geekdo-images.com/W8r04muuvh0tyB1cPf7UNA__original/img/ovkEJaPCJ57cgx3PCTE8JpEn88o=/0x0/filters:format(jpeg)/pic2713276.jpg","thumbnail":"https://cf.geekdo-images.com/W8r04muuvh0tyB1cPf7UNA__thumb/img/47rOSSQDmtqhPMO-76Tmg5EJuYI=/fit-in/200x150/filters:strip_icc()/pic2713276.jpg","link":"https://boardgamegeek.com/thing/184018","minPlayers":"2","maxPlayers":"5","yearPublished":"2015","playingTime":"0","minPlayingTime":"0","maxPlayingTime":"0","bestAtCount":"2"}}

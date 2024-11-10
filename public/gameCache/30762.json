@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T06:05:49.139Z",
-  "gameDetails": {
-    "name": "Mykerinos: The Nile",
-    "type": "boardgameexpansion",
-    "description": "Mykerinos: The Nile&#10;&#10;This Mykerinos add-on was made available at Essen 2007. It includes 6 new tiles and 4 tokens. The players will sail on the Nile and meet a new character, governor Greenwish.&#10;&#10;Now also available in Ystari Box (Rio Grande Games edition only)&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/KNOLjq7VgAqLLME1gY7RSg__original/img/QRL5b4kGoR-WIxN6c-ePit6wtV8=/0x0/filters:format(jpeg)/pic230764.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/KNOLjq7VgAqLLME1gY7RSg__thumb/img/iPUQQzaS0861FY9YmIFeqiaHRSo=/fit-in/200x150/filters:strip_icc()/pic230764.jpg",
-    "link": "https://boardgamegeek.com/thing/30762",
-    "minPlayers": "2",
-    "maxPlayers": "4",
-    "bestAtCount": "4",
-    "id": "30762"
-  }
-}
+{"timestamp":"2024-11-09T17:57:23.585Z","gameDetails":{"id":"30762","name":"Mykerinos: The Nile","type":"boardgameexpansion","description":"Mykerinos: The Nile&#10;&#10;This Mykerinos add-on was made available at Essen 2007. It includes 6 new tiles and 4 tokens. The players will sail on the Nile and meet a new character, governor Greenwish.&#10;&#10;Now also available in Ystari Box (Rio Grande Games edition only)&#10;&#10;","image":"https://cf.geekdo-images.com/KNOLjq7VgAqLLME1gY7RSg__original/img/QRL5b4kGoR-WIxN6c-ePit6wtV8=/0x0/filters:format(jpeg)/pic230764.jpg","thumbnail":"https://cf.geekdo-images.com/KNOLjq7VgAqLLME1gY7RSg__thumb/img/iPUQQzaS0861FY9YmIFeqiaHRSo=/fit-in/200x150/filters:strip_icc()/pic230764.jpg","link":"https://boardgamegeek.com/thing/30762","minPlayers":"2","maxPlayers":"4","yearPublished":"2007","playingTime":"45","minPlayingTime":"45","maxPlayingTime":"45","bestAtCount":"4"}}

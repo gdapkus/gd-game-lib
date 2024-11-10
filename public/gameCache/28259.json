@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T00:46:43.960Z",
-  "gameDetails": {
-    "name": "Cutthroat Caverns",
-    "type": "boardgame",
-    "description": "&quot;Without teamwork, you will never survive. Without betrayal, you&rsquo;ll never win.&quot;&#10;&#10;Cutthroat Caverns is played over 9 rounds, each with a random encounter.  Essentially a game of 'kill stealing'. Each round, any monster encountered will have a prestige value of 1 through 6.  The player that successfully jockeys for position and lands the killing blow gets the prestige value for the encounter.  Some encounters will not have a specific monster, such as a trap room for the heroes to pass through (and in this case, earning no prestige).  The surviving player with the most prestige after the 9 encounters is the winner.  If the players do not survive all 9 encounters, no one wins the game.&#10;&#10;A unique combination of cooperative game play and opportunistic backstabbing.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/38jw1p0ZcayPgLJuZyPVyA__original/img/AEziYekzku9n8R0CSxuHv1C7unQ=/0x0/filters:format(jpeg)/pic249004.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/38jw1p0ZcayPgLJuZyPVyA__thumb/img/dLfS2NrthAEMFa8A5-5Xd1jNZAg=/fit-in/200x150/filters:strip_icc()/pic249004.jpg",
-    "link": "https://boardgamegeek.com/thing/28259",
-    "minPlayers": "3",
-    "maxPlayers": "6",
-    "bestAtCount": "5",
-    "id": "28259"
-  }
-}
+{"timestamp":"2024-11-09T17:51:00.956Z","gameDetails":{"id":"28259","name":"Cutthroat Caverns","type":"boardgame","description":"&quot;Without teamwork, you will never survive. Without betrayal, you&rsquo;ll never win.&quot;&#10;&#10;Cutthroat Caverns is played over 9 rounds, each with a random encounter.  Essentially a game of 'kill stealing'. Each round, any monster encountered will have a prestige value of 1 through 6.  The player that successfully jockeys for position and lands the killing blow gets the prestige value for the encounter.  Some encounters will not have a specific monster, such as a trap room for the heroes to pass through (and in this case, earning no prestige).  The surviving player with the most prestige after the 9 encounters is the winner.  If the players do not survive all 9 encounters, no one wins the game.&#10;&#10;A unique combination of cooperative game play and opportunistic backstabbing.&#10;&#10;","image":"https://cf.geekdo-images.com/38jw1p0ZcayPgLJuZyPVyA__original/img/AEziYekzku9n8R0CSxuHv1C7unQ=/0x0/filters:format(jpeg)/pic249004.jpg","thumbnail":"https://cf.geekdo-images.com/38jw1p0ZcayPgLJuZyPVyA__thumb/img/dLfS2NrthAEMFa8A5-5Xd1jNZAg=/fit-in/200x150/filters:strip_icc()/pic249004.jpg","link":"https://boardgamegeek.com/thing/28259","minPlayers":"3","maxPlayers":"6","yearPublished":"2007","playingTime":"90","minPlayingTime":"90","maxPlayingTime":"90","bestAtCount":"5"}}

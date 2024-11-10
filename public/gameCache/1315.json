@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-21T04:44:16.037Z",
-  "gameDetails": {
-    "name": "Africa",
-    "type": "boardgame",
-    "description": "In Africa, players take on the role of explorers in uncharted Africa. The circular playing counters are placed upside down in random locations upon the various circles of the board. Each turn the player may elect to move his explorer to a revealed location anywhere on the board, or move twice, each turn moving 0, 1, or 2 adjacent revealed spaces. The explorer may then take an action (such as reveal an unrevealed tile, or move various revealed tiles to other locations). The tiles represent trade goods (of various sets), nomads, herds of animals, gold, diamonds, and monuments. When the 11th monument is revealed, the game ends. Players tally up their points and the player with the most points wins.&#10;&#10;This being a Knizia game, there are various methods of scoring the revealed tiles, including immediate points, delayed points, opportunity points, and end points.&#10;&#10;Awarded &quot;Best Family Game&quot; title by Games Magazine in 2002.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/dosYllTyuHcuajHuQqziTw__original/img/YiqBcOEWzLZuW_PK7Zl9NwMO7hg=/0x0/filters:format(jpeg)/pic9530.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/dosYllTyuHcuajHuQqziTw__thumb/img/8R9IFiCGNLQoyHxeVLw-FAS11fw=/fit-in/200x150/filters:strip_icc()/pic9530.jpg",
-    "link": "https://boardgamegeek.com/thing/1315",
-    "minPlayers": "2",
-    "maxPlayers": "5",
-    "bestAtCount": "3",
-    "id": "1315"
-  }
-}
+{"timestamp":"2024-11-09T19:48:24.197Z","gameDetails":{"id":"1315","name":"Africa","type":"boardgame","description":"In Africa, players take on the role of explorers in uncharted Africa. The circular playing counters are placed upside down in random locations upon the various circles of the board. Each turn the player may elect to move his explorer to a revealed location anywhere on the board, or move twice, each turn moving 0, 1, or 2 adjacent revealed spaces. The explorer may then take an action (such as reveal an unrevealed tile, or move various revealed tiles to other locations). The tiles represent trade goods (of various sets), nomads, herds of animals, gold, diamonds, and monuments. When the 11th monument is revealed, the game ends. Players tally up their points and the player with the most points wins.&#10;&#10;This being a Knizia game, there are various methods of scoring the revealed tiles, including immediate points, delayed points, opportunity points, and end points.&#10;&#10;Awarded &quot;Best Family Game&quot; title by Games Magazine in 2002.&#10;&#10;","image":"https://cf.geekdo-images.com/dosYllTyuHcuajHuQqziTw__original/img/YiqBcOEWzLZuW_PK7Zl9NwMO7hg=/0x0/filters:format(jpeg)/pic9530.jpg","thumbnail":"https://cf.geekdo-images.com/dosYllTyuHcuajHuQqziTw__thumb/img/8R9IFiCGNLQoyHxeVLw-FAS11fw=/fit-in/200x150/filters:strip_icc()/pic9530.jpg","link":"https://boardgamegeek.com/thing/1315","minPlayers":"2","maxPlayers":"5","yearPublished":"2001","playingTime":"60","minPlayingTime":"60","maxPlayingTime":"60","bestAtCount":"3"}}

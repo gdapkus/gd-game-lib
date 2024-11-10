@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-21T04:36:20.459Z",
-  "gameDetails": {
-    "name": "3 Wishes: More Genies! Promo Card",
-    "type": "boardgameexpansion",
-    "description": "Promo card for 3 Wishes, that was given out at Spiel '16 with a purchase of the base game. Counts as 4 points in yellow suit.&#10;&#10;Setup: Shuffle More Genies! into 3 Wishes. Place 3 cards face down in the middle instead of 2.&#10;&#10;Ability: Ignore the ability and points of your Super Power card at the end of the game.&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/iOKmZt_sDHXPJ3fZVNNgTg__original/img/BLNzNo2YHx5QF6h7BZXTIPqbwmA=/0x0/filters:format(jpeg)/pic3229450.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/iOKmZt_sDHXPJ3fZVNNgTg__thumb/img/VMTVEpMeqwWisSgcnJ9aNJUlGoc=/fit-in/200x150/filters:strip_icc()/pic3229450.jpg",
-    "link": "https://boardgamegeek.com/thing/211233",
-    "minPlayers": "3",
-    "maxPlayers": "5",
-    "bestAtCount": null,
-    "id": "211233"
-  }
-}
+{"timestamp":"2024-11-09T19:46:00.368Z","gameDetails":{"id":"211233","name":"3 Wishes: More Genies! Promo Card","type":"boardgameexpansion","description":"Promo card for 3 Wishes, that was given out at Spiel '16 with a purchase of the base game. Counts as 4 points in yellow suit.&#10;&#10;Setup: Shuffle More Genies! into 3 Wishes. Place 3 cards face down in the middle instead of 2.&#10;&#10;Ability: Ignore the ability and points of your Super Power card at the end of the game.&#10;&#10;","image":"https://cf.geekdo-images.com/iOKmZt_sDHXPJ3fZVNNgTg__original/img/BLNzNo2YHx5QF6h7BZXTIPqbwmA=/0x0/filters:format(jpeg)/pic3229450.jpg","thumbnail":"https://cf.geekdo-images.com/iOKmZt_sDHXPJ3fZVNNgTg__thumb/img/VMTVEpMeqwWisSgcnJ9aNJUlGoc=/fit-in/200x150/filters:strip_icc()/pic3229450.jpg","link":"https://boardgamegeek.com/thing/211233","minPlayers":"3","maxPlayers":"5","yearPublished":"2016","playingTime":"5","minPlayingTime":"3","maxPlayingTime":"5","bestAtCount":null}}

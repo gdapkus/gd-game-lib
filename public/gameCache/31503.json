@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T06:09:56.651Z",
-  "gameDetails": {
-    "name": "Slide 5",
-    "type": "boardgame",
-    "description": "Players arrange their cards on the playing surface building &ldquo;hills.&rdquo; Once a hill gets five cards high, the sixth card will cause an &ldquo;Avalanche&rdquo; and that player must take all of the cards in the row, leaving the sixth card to start a new hill.  This is the re-themed version of 6 Nimmt!&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/PJ_VsH4tMZjWJDt4vpL_4A__original/img/pxvAFqD_NYwB5zgkAmJpQY_RAzc=/0x0/filters:format(jpeg)/pic256707.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/PJ_VsH4tMZjWJDt4vpL_4A__thumb/img/dnwGUV5sjmBHHSqI-mRrFs3Gfrg=/fit-in/200x150/filters:strip_icc()/pic256707.jpg",
-    "link": "https://boardgamegeek.com/thing/31503",
-    "minPlayers": "2",
-    "maxPlayers": "10",
-    "bestAtCount": "5",
-    "id": "31503"
-  }
-}
+{"timestamp":"2024-11-09T18:02:00.771Z","gameDetails":{"id":"31503","name":"Slide 5","type":"boardgame","description":"Players arrange their cards on the playing surface building &ldquo;hills.&rdquo; Once a hill gets five cards high, the sixth card will cause an &ldquo;Avalanche&rdquo; and that player must take all of the cards in the row, leaving the sixth card to start a new hill.  This is the re-themed version of 6 Nimmt!&#10;&#10;","image":"https://cf.geekdo-images.com/PJ_VsH4tMZjWJDt4vpL_4A__original/img/pxvAFqD_NYwB5zgkAmJpQY_RAzc=/0x0/filters:format(jpeg)/pic256707.jpg","thumbnail":"https://cf.geekdo-images.com/PJ_VsH4tMZjWJDt4vpL_4A__thumb/img/dnwGUV5sjmBHHSqI-mRrFs3Gfrg=/fit-in/200x150/filters:strip_icc()/pic256707.jpg","link":"https://boardgamegeek.com/thing/31503","minPlayers":"2","maxPlayers":"10","yearPublished":"2007","playingTime":"30","minPlayingTime":"30","maxPlayingTime":"30","bestAtCount":"5"}}

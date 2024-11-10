@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-21T04:44:15.973Z",
-  "gameDetails": {
-    "name": "7 Wonders: Leaders – Wil",
-    "type": "boardgameexpansion",
-    "description": "A promo card for the International TableTop Day taking place on April 5, 2014, featuring Wil Wheaton.&#10;&#10;Rules:&#10;&#10;     Each opponent discards a Leader, face down.&#10;     The player with Wil&rsquo;s card takes all the discarded Leaders, chooses one and puts him into play for free. The remaining Leaders are discarded.&#10;     Each opponent draws a new Leader to replace the discarded one.&#10;&#10;&#10;Regeln:&#10;&#10;     Jeder Gegner legt einen seiner unausgespielten Leader verdeckt ab.&#10;     Der Spieler, der Wil ausgespielt hat, w&auml;hlt einen dieser Leader und spielt ihn oder sie kostenlos aus. Alle &uuml;brigen Leader kommen auf den Ablagestapel.&#10;     Jeder Gegner zieht einen neuen Leader um den so verlorenen zu ersetzen.&#10;&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/JwHlzdCiymZLrjqwt3ZbjA__original/img/sD2BsuFcj_TM36O6Dph3pLbPFjY=/0x0/filters:format(jpeg)/pic1975896.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/JwHlzdCiymZLrjqwt3ZbjA__thumb/img/cG_Nh546UT7Q3L0cI-6OPR7KJ8s=/fit-in/200x150/filters:strip_icc()/pic1975896.jpg",
-    "link": "https://boardgamegeek.com/thing/156119",
-    "minPlayers": "2",
-    "maxPlayers": "7",
-    "bestAtCount": "4",
-    "id": "156119"
-  }
-}
+{"timestamp":"2024-11-09T19:47:24.226Z","gameDetails":{"id":"156119","name":"7 Wonders: Leaders – Wil","type":"boardgameexpansion","description":"A promo card for the International TableTop Day taking place on April 5, 2014, featuring Wil Wheaton.&#10;&#10;Rules:&#10;&#10;     Each opponent discards a Leader, face down.&#10;     The player with Wil&rsquo;s card takes all the discarded Leaders, chooses one and puts him into play for free. The remaining Leaders are discarded.&#10;     Each opponent draws a new Leader to replace the discarded one.&#10;&#10;&#10;Regeln:&#10;&#10;     Jeder Gegner legt einen seiner unausgespielten Leader verdeckt ab.&#10;     Der Spieler, der Wil ausgespielt hat, w&auml;hlt einen dieser Leader und spielt ihn oder sie kostenlos aus. Alle &uuml;brigen Leader kommen auf den Ablagestapel.&#10;     Jeder Gegner zieht einen neuen Leader um den so verlorenen zu ersetzen.&#10;&#10;&#10;","image":"https://cf.geekdo-images.com/JwHlzdCiymZLrjqwt3ZbjA__original/img/sD2BsuFcj_TM36O6Dph3pLbPFjY=/0x0/filters:format(jpeg)/pic1975896.jpg","thumbnail":"https://cf.geekdo-images.com/JwHlzdCiymZLrjqwt3ZbjA__thumb/img/cG_Nh546UT7Q3L0cI-6OPR7KJ8s=/fit-in/200x150/filters:strip_icc()/pic1975896.jpg","link":"https://boardgamegeek.com/thing/156119","minPlayers":"2","maxPlayers":"7","yearPublished":"2014","playingTime":"40","minPlayingTime":"40","maxPlayingTime":"40","bestAtCount":"4"}}

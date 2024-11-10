@@ -1,15 +1,1 @@
-{
-  "timestamp": "2024-10-19T06:02:07.665Z",
-  "gameDetails": {
-    "name": "Frosthaven: Solo Scenarios",
-    "type": "boardgameexpansion",
-    "description": "Master all 16 of the Frosthaven classes with this all-new set of scenarios and item rewards. Each scenario is dedicated to a specific class and designed around their strengths and weaknesses to provide the ultimate challenge.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
-    "image": "https://cf.geekdo-images.com/2eMEJCVwg08WWhbRfqtKjA__original/img/Rurr_8h9iwV851tYSzDWWBfjqOY=/0x0/filters:format(jpeg)/pic5384217.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/2eMEJCVwg08WWhbRfqtKjA__thumb/img/r_o6cxlBUTVYzBW_yH7MMt7Hx_U=/fit-in/200x150/filters:strip_icc()/pic5384217.jpg",
-    "link": "https://boardgamegeek.com/thing/306151",
-    "minPlayers": "1",
-    "maxPlayers": "1",
-    "bestAtCount": "1",
-    "id": "306151"
-  }
-}
+{"timestamp":"2024-11-09T17:53:20.140Z","gameDetails":{"id":"306151","name":"Frosthaven: Solo Scenarios","type":"boardgameexpansion","description":"Master all 16 of the Frosthaven classes with this all-new set of scenarios and item rewards. Each scenario is dedicated to a specific class and designed around their strengths and weaknesses to provide the ultimate challenge.&#10;&#10;&mdash;description from the publisher&#10;&#10;","image":"https://cf.geekdo-images.com/2eMEJCVwg08WWhbRfqtKjA__original/img/Rurr_8h9iwV851tYSzDWWBfjqOY=/0x0/filters:format(jpeg)/pic5384217.jpg","thumbnail":"https://cf.geekdo-images.com/2eMEJCVwg08WWhbRfqtKjA__thumb/img/r_o6cxlBUTVYzBW_yH7MMt7Hx_U=/fit-in/200x150/filters:strip_icc()/pic5384217.jpg","link":"https://boardgamegeek.com/thing/306151","minPlayers":"1","maxPlayers":"1","yearPublished":"2022","playingTime":"0","minPlayingTime":"0","maxPlayingTime":"0","bestAtCount":"1"}}

@@ -54,7 +54,11 @@ async function getGameDetails(bggGameId) {
             link: `https://boardgamegeek.com/thing/${bggGameId}` || 'Error',
             minPlayers: game.minplayers[0].$.value || 'Error',
             maxPlayers: game.maxplayers[0].$.value || 'Error',
-            bestAtCount: bestAtCount
+            yearPublished: game.yearpublished ? game.yearpublished[0].$.value : 'N/A',
+            playingTime: game.playingtime ? game.playingtime[0].$.value : 'N/A',
+            minPlayingTime: game.minplaytime ? game.minplaytime[0].$.value : 'N/A',
+            maxPlayingTime: game.maxplaytime ? game.maxplaytime[0].$.value : 'N/A',
+           bestAtCount: bestAtCount
         };
 
         // Only store if there's no error
@@ -101,7 +105,10 @@ async function createTrelloCard(listId, gameId, trelloToken) {
         console.error(`Failed to get game details for game ID: ${gameId}`);
         return;
     }
-
+	
+	// Attempt to get instructional video link
+	const videoLink = await getInstructionalVideoLink(gameId);
+	
     try {
         const bestAtText = gameDetails.bestAtCount ? `, best:${gameDetails.bestAtCount}` : '';
         const cardTitle = `${gameDetails.name} (${gameDetails.minPlayers}-${gameDetails.maxPlayers}p${bestAtText})`;
@@ -164,8 +171,47 @@ async function createTrelloCard(listId, gameId, trelloToken) {
             });
             console.log('Game link attached successfully.');
         }
+		
+        if (videoLink) {
+            await axios.post(`https://api.trello.com/1/cards/${cardId}/attachments`, {
+                url: videoLink,
+                key: process.env.TRELLO_KEY,
+                token: trelloToken
+            });
+            console.log('Video link attached successfully.');
+        }
     } catch (error) {
         console.error('Error creating Trello card:', error);
+    }
+}
+
+/**
+ * Function to get the instructional video link for a game by its BGG ID
+ * @param {string} gameId - The BoardGameGeek game ID
+ * @returns {Promise<string|null>} - The YouTube link to the instructional video or null if not found
+ */
+async function getInstructionalVideoLink(gameId) {
+    try {
+        // Request to BGG video API to retrieve video data
+        const videoResponse = await axios.get(`https://api.geekdo.com/api/videos/overview`, {
+            params: {
+                objectid: gameId,
+                objecttype: 'thing'
+            }
+        });
+
+        // Access the instructional video directly
+        const instructionalVideo = videoResponse.data.videos.instructional;
+        if (instructionalVideo && instructionalVideo.videohost === "youtube" && instructionalVideo.extvideoid) {
+            // Construct and return the YouTube link
+            return `https://www.youtube.com/watch?v=${instructionalVideo.extvideoid}`;
+        }
+
+        // Return null if no instructional video is found
+        return null;
+    } catch (error) {
+        console.error(`Failed to fetch instructional video for Game ID ${gameId}:`, error);
+        return null;
     }
 }
 
