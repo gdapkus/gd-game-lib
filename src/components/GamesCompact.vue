@@ -13,9 +13,9 @@
               <v-toolbar-title
                 @click="reloadPage"
                 class="font-weight-black cursor-pointer"
-                style="font-size: 2rem;"
+                style="font-size: 18pt;"
               >
-                {{ activeUser ? `${activeUser.name}'s Game Library` : 'Game Library' }}
+                {{ activeUser ? `${activeUser.name}'s  Game Library` : 'Game Library' }}
               </v-toolbar-title>
               <v-btn icon>
                 <v-icon>mdi-cog-outline</v-icon>

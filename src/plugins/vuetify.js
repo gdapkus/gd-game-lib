@@ -16,4 +16,14 @@ export default createVuetify({
   theme: {
     defaultTheme: 'dark',
   },
+  display: {
+    mobileBreakpoint: 'xs',
+    thresholds: {
+      xs: 0,
+      sm: 600,
+      md: 540,
+      lg: 800,
+      xl: 1280,
+    },
+  },
 })
