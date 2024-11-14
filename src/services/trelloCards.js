@@ -27,39 +27,74 @@ async function getGameDetails(bggGameId) {
     // Query the BGG API for game details
     try {
         console.log(`Retrieving Game ID:${bggGameId}`);
-        const response = await axios.get(`https://boardgamegeek.com/xmlapi2/thing`, { params: { id: bggGameId } });
+        const response = await axios.get(`https://boardgamegeek.com/xmlapi2/thing?id=${bggGameId}&stats=1`);
         const result = await xml2js.parseStringPromise(response.data);
         const game = result.items.item[0];
         const gameName = Array.isArray(game.name) ? game.name[0].$.value : game.name.$.value;
         let bestAtCount = null;
         try {
-            const pollSummary = game['poll-summary'] ? game['poll-summary'].find(poll => poll.$.name === 'suggested_numplayers') : null;
+            // Access <poll-summary> and get <result name="bestwith">
+            const pollSummary = game['poll-summary']?.find(poll => poll.$.name === 'suggested_numplayers');
             if (pollSummary) {
                 const bestAtResult = pollSummary.result.find(res => res.$.name === 'bestwith');
                 if (bestAtResult && bestAtResult.$.value) {
-                    bestAtCount = bestAtResult.$.value.match(/\d+/) ? bestAtResult.$.value.match(/\d+/)[0] : null;
+                    // Extract all numbers (e.g., "2, 4") and convert to integers
+                    bestAtCount = bestAtResult.$.value.match(/\d+/g).map(Number);
                 }
             }
         } catch (err) {
             bestAtCount = null; // Set to null if any error occurs while parsing
         }
+		
+		// Find the board game rank specifically in the ranks section
+		const ranking = game.statistics[0].ratings[0].ranks[0].rank.find(rank => rank.$.name === 'boardgame');
+		const boardGameRank = ranking ? ranking.$.value : 'N/A';
+		
+// Extract mechanics, categories, and designers from the <link> elements
+const mechanics = [];
+const categories = [];
+const designers = [];
 
-        const gameDetails = {
+if (Array.isArray(game.link)) {
+    game.link.forEach(link => {
+        switch (link.$.type) {
+            case 'boardgamemechanic':
+                mechanics.push(link.$.value);
+                break;
+            case 'boardgamecategory':
+                categories.push(link.$.value);
+                break;
+            case 'boardgamedesigner':
+                designers.push(link.$.value);
+                break;
+        }
+    });
+}
+	
+		//set all game detail values
+		const gameDetails = {
 			id: bggGameId,
-            name: gameName || 'Error',
-            type: game.$.type || 'Error',
-            description: game.description[0] || 'Error',
-            image: game.image[0] || 'Error',
-            thumbnail: game.thumbnail[0] || 'Error',
-            link: `https://boardgamegeek.com/thing/${bggGameId}` || 'Error',
-            minPlayers: game.minplayers[0].$.value || 'Error',
-            maxPlayers: game.maxplayers[0].$.value || 'Error',
-            yearPublished: game.yearpublished ? game.yearpublished[0].$.value : 'N/A',
-            playingTime: game.playingtime ? game.playingtime[0].$.value : 'N/A',
-            minPlayingTime: game.minplaytime ? game.minplaytime[0].$.value : 'N/A',
-            maxPlayingTime: game.maxplaytime ? game.maxplaytime[0].$.value : 'N/A',
-           bestAtCount: bestAtCount
-        };
+			name: gameName || 'Error',
+			type: game.$?.type || 'Error',
+			description: game.description?.[0] || 'Error',
+			image: game.image?.[0] || 'Error',
+			thumbnail: game.thumbnail?.[0] || 'Error',
+			link: `https://boardgamegeek.com/thing/${bggGameId}`,
+			minPlayers: game.minplayers?.[0]?.$.value || 'Error',
+			maxPlayers: game.maxplayers?.[0]?.$.value || 'N/A',
+			yearPublished: game.yearpublished?.[0]?.$.value || 'N/A',
+			playingTime: game.playingtime?.[0]?.$.value || 'N/A',
+			minPlayingTime: game.minplaytime?.[0]?.$.value || 'N/A',
+			maxPlayingTime: game.maxplaytime?.[0]?.$.value || 'N/A',
+			bestAtCount: bestAtCount,
+			averageRating: game.statistics?.[0]?.ratings?.[0]?.average?.[0]?.$.value || 'N/A',
+			averageWeight: game.statistics?.[0]?.ratings?.[0]?.averageweight?.[0]?.$.value || 'N/A',
+			boardGameRank: boardGameRank || 'N/A',
+    mechanics: mechanics,   
+    categories: categories, 
+    designers: designers   
+		};
+
 
         // Only store if there's no error
         if (gameDetails.name !== 'Error') {

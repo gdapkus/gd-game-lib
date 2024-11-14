@@ -24,8 +24,8 @@
                     <v-list-item @click="authorizeTrello">
                       <v-list-item-title>Authorize Trello</v-list-item-title>
                     </v-list-item>
-                    <v-list-item @click="switchUser">
-                      <v-list-item-title>Switch User</v-list-item-title>
+                    <v-list-item @click="switchCollection">
+                      <v-list-item-title>Switch Collection</v-list-item-title>
                     </v-list-item>
                     <v-list-item @click="updateCollection">
                       <v-list-item-title>Update Collection</v-list-item-title>
@@ -34,41 +34,45 @@
                 </v-menu>
               </v-btn>
             </v-app-bar>
-			
-<!-- Switch User Dialog -->
-<v-dialog v-model="userDialog" width="400" persistent>
-  <v-card>
-    <v-card-title class="headline">Select User</v-card-title>
-    <v-card-text>
-      <v-list>
-        <v-list-item v-for="user in bggUsers" :key="user.username" @click="selectUser(user)">
-          <template v-slot:prepend><v-avatar size="64">
-            <img :src="user.avatarUrl" alt="User Avatar" />
-          </v-avatar></template>
-          <v-list-item-content>
-            <v-list-item-title>{{ user.name }}</v-list-item-title>
-            <v-list-item-subtitle>{{ user.username }}</v-list-item-subtitle>
-          </v-list-item-content>
-        </v-list-item>
-      </v-list>
-      <!-- Checkbox for setting the default user -->
-      <v-checkbox
-        v-model="setAsDefault"
-        label="Set as default"
-        class="mt-4"
-		@change="toggleDefaultUser"
-      ></v-checkbox>
-    </v-card-text>
-    <v-card-actions>
-      <v-spacer></v-spacer>
-      <v-btn color="primary" @click="userDialog = false">Close</v-btn>
-    </v-card-actions>
-  </v-card>
-</v-dialog>
+
+            <!-- Switch Collection Dialog -->
+            <v-dialog v-model="CollectionDialog" width="400" persistent>
+              <v-card>
+                <v-card-title class="headline">Select User</v-card-title>
+                <v-card-text>
+                  <v-list>
+                    <v-list-item v-for="user in bggUsers" :key="user.username" @click="selectUser(user)">
+                      <template v-slot:prepend>
+                        <v-avatar size="64">
+                          <img :src="user.avatarUrl" alt="User Avatar" />
+                        </v-avatar>
+                      </template>
+                      <v-list-item-content>
+                        <v-list-item-title>{{ user.name }}</v-list-item-title>
+                        <v-list-item-subtitle>{{ user.username }}</v-list-item-subtitle>
+                      </v-list-item-content>
+                    </v-list-item>
+                  </v-list>
+                  <v-checkbox
+                    v-model="setAsDefault"
+                    label="Set as default"
+                    class="mt-4"
+                    @change="toggleDefaultUser"
+                  ></v-checkbox>
+                </v-card-text>
+                <v-card-actions>
+                  <v-spacer></v-spacer>
+                  <v-btn color="primary" @click="CollectionDialog = false">Close</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-dialog>
+
+            <!-- Snackbar for notifications -->
             <v-snackbar v-model="snackbarVisible" location="top" :timeout="5000">
               {{ snackbarMessage }}
               <v-btn color="green" text @click="snackbarVisible = false">Close</v-btn>
             </v-snackbar>
+
             <!-- Main content -->
             <v-main>
               <v-row class="mx-auto mt-6">
@@ -76,7 +80,7 @@
                   <v-autocomplete
                     label="Search games"
                     v-model="search"
-                    :items="games.map(game => game.name)"
+                    :items="filteredGames.map(game => game.name)"
                   ></v-autocomplete>
                 </v-col>
               </v-row>
@@ -121,7 +125,6 @@
                   <v-menu offset-y activator="parent">
                     <template v-slot:default>
                       <v-list>
-                        <!-- Loop through fetched Trello lists -->
                         <v-list-item
                           v-for="list in trelloLists"
                           :key="list.id"
@@ -155,35 +158,33 @@ export default {
   data() {
     return {
       games: [],
-      bggUsers: [], // Initialize as an empty array to hold users
+      bggUsers: [],
       activeUser: [],
       search: '',
       dropdownVisible: false,
-      dropdowns: {}, // Track visibility of dropdowns by game ID
+      dropdowns: {},
       dropdownActivator: null,
       selectedItem: null,
-      selectedItemId: null, // Track ID of selected item
-      trelloLists: [], // Store the fetched Trello lists
-      trelloToken: null, // Trello token fetched from the cookies
-      snackbarVisible: false, // Controls the visibility of the snackbar
-      snackbarMessage: '', // Message to display in the snackbar
-	  userDialog: false, // Ensures userDialog is available and initialized
-	  setAsDefault: false, // Initialize setting switch user as default to false
-	  headers: [
-          { title: 'Cover'},
-		  {
-			  title: 'Title',
-			  key: 'name',
-			  sortRaw: (a, b) => {
-				  // Remove articles ("The", "A", "An") and trim for comparison
-				  const titleA = a.name.replace(/^(The|A|An)\s+/i, '').trim();
-				  const titleB = b.name.replace(/^(The|A|An)\s+/i, '').trim();
-				  
-				  return titleA.localeCompare(titleB, undefined, { sensitivity: 'base' });
-		  },
-      },
-          { title: 'Player Range', align: 'center'},
-          { title: 'Best At', align: 'center'},
+      selectedItemId: null,
+      trelloLists: [],
+      trelloToken: null,
+      snackbarVisible: false,
+      snackbarMessage: '',
+      CollectionDialog: false,
+      setAsDefault: false,
+      headers: [
+        { title: 'Cover' },
+        {
+          title: 'Title',
+          key: 'name',
+          sortRaw: (a, b) => {
+            const titleA = a.name.replace(/^(The|A|An)\\s+/i, '').trim();
+            const titleB = b.name.replace(/^(The|A|An)\\s+/i, '').trim();
+            return titleA.localeCompare(titleB, undefined, { sensitivity: 'base' });
+          },
+        },
+        { title: 'Player Range', align: 'center' },
+        { title: 'Best At', align: 'center' },
       ],
     };
   },
@@ -198,35 +199,26 @@ export default {
       );
     },
   },
+
   async created() {
     try {
-	  
-      // Fetch BGG users and set the active user
       const bggUsersResponse = await fetch(`/api/bgg-users`);
       this.bggUsers = await bggUsersResponse.json();
 
-
-      // Check for an active or default user in the cookies
-	  const activeUsername = this.$cookies.get('activeUser');
+      const activeUsername = this.$cookies.get('activeUser');
       const defaultUsername = this.$cookies.get('defaultUser');
-	  const userToLoad = activeUsername || defaultUsername;
+      const userToLoad = activeUsername || defaultUsername;
       const savedUser = this.bggUsers.find(user => user.username === userToLoad);
 
       if (savedUser) {
-        // Set the saved default user if available
         this.setUser(savedUser);
       } else {
-        // Otherwise, set the first as default
         this.setUser(this.bggUsers[0]);
       }
-	  
-      // Fetch game data from the server-side API
-      await this.loadGames();
 
-      // Retrieve the Trello token from the cookies
+      await this.loadGames();
       this.trelloToken = this.$cookies.get('BGGCard');
 
-      // If Trello token exists, make an API call to fetch lists
       if (this.trelloToken) {
         const trelloResponse = await fetch(`/api/getTrelloLists?token=${this.trelloToken}`);
         if (trelloResponse.ok) {
@@ -241,6 +233,7 @@ export default {
       console.error('Error fetching games or Trello lists:', error);
     }
   },
+
   methods: {
     reloadPage() {
       window.location.reload();
@@ -290,54 +283,48 @@ export default {
         }
       }, 1000);
     },
-    switchUser() {
-      // Opens the dialog for switching users
-      this.userDialog = true;
+    switchCollection() {
+      this.CollectionDialog = true;
     },
     async selectUser(user) {
-      // Updates the active user and reloads the game data
       this.setUser(user);
-      this.userDialog = false; // Close the dialog
- 
+      this.CollectionDialog = false;
+
       await this.loadGames();
-	  
-      // If the "Set as default user" checkbox is checked, store in cookie
+
       if (this.setAsDefault) {
-        this.$cookies.set('defaultUser', user.username, '730d'); // Set cookie for 2ish years
-		this.$cookies.set('activeUser', user.username, 'session'); // Session cookie
-		this.setAsDefault = false; // Reset the checkbox state
-		this.snackbarMessage = `${user.name} is now the default user`;
-		this.snackbarVisible = true;
-      } else {
-		this.$cookies.set('activeUser', user.username, 'session'); // Session cookie
-		this.snackbarMessage = `${user.name} is now the active user`;
+        this.$cookies.set('defaultUser', user.username, '730d');
+        this.$cookies.set('activeUser', user.username, 'session');
+        this.setAsDefault = false;
+        this.snackbarMessage = `${user.name}'s collection is now the default collection.`;
         this.snackbarVisible = true;
-	  }
-	 	  
-	  
+      } else {
+        this.$cookies.set('activeUser', user.username, 'session');
+        this.snackbarMessage = `Now viewing ${user.name}'s collection.`;
+        this.snackbarVisible = true;
+      }
     },
-	toggleDefaultUser() {
-		console.log("Checkbox checked:", this.setAsDefault);
-	},
+    toggleDefaultUser() {
+      console.log("Checkbox checked:", this.setAsDefault);
+    },
     setUser(user) {
-      // Helper to set active user and title
       this.activeUser = user;
       document.title = `${user.name}'s Game Library`;
     },
-  async loadGames() {
-    try {
-      const response = await fetch(`/api/games/${this.activeUser.username}`);
-      if (response.ok) {
-        const { games } = await response.json();
-        this.games = games;
-      } else {
-        console.error('Failed to load games:', response.statusText);
+    async loadGames() {
+      try {
+        const response = await fetch(`/api/games/${this.activeUser.username}`);
+        if (response.ok) {
+          const { games } = await response.json();
+          this.games = games;
+        } else {
+          console.error('Failed to load games:', response.statusText);
+        }
+      } catch (error) {
+        console.error('Error loading games:', error);
       }
-    } catch (error) {
-      console.error('Error loading games:', error);
-    }
-  },
-	showDropdown(event, itemId) {
+    },
+    showDropdown(event, itemId) {
       this.selectedItemId = itemId;
       this.dropdownActivator = event.currentTarget;
       this.dropdowns[itemId] = true;

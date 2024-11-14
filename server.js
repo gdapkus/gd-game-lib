@@ -1,5 +1,7 @@
 // server.js
-require('dotenv').config();
+require('dotenv').config({ path: '.env' });
+require('dotenv').config({ path: '.env.local' });
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const axios = require('axios');
@@ -174,6 +176,8 @@ async function handleGamesRequest(bggUserId, res) {
                 const gameDetailsFile = path.join(__dirname, `public/gameCache/${game.id}.json`);
                 if (fs.existsSync(gameDetailsFile)) {
                     const gameData = JSON.parse(fs.readFileSync(gameDetailsFile, 'utf8'));
+					const bestAtCount = Array.isArray(gameData.gameDetails.bestAtCount) ? gameData.gameDetails.bestAtCount : [];
+        const bestAtCountText = bestAtCount.length > 0 ? bestAtCount.join(', ') : 'N/A';
                     return {
                         id: game.id,
                         name: gameData.gameDetails.name,
@@ -183,7 +187,7 @@ async function handleGamesRequest(bggUserId, res) {
                         link: gameData.gameDetails.link,
                         minPlayers: gameData.gameDetails.minPlayers,
                         maxPlayers: gameData.gameDetails.maxPlayers,
-                        bestAtCount: gameData.gameDetails.bestAtCount || 'N/A'
+                        bestAtCount: bestAtCountText
                     };
                 }
                 return null;
@@ -231,65 +235,106 @@ app.get('/loadCollection/:bggUserId', async (req, res) => {
 
 
 //route to load  game details for alls games from a collection with 3-second delay between each entry
-app.get('/loadDetails/:bggUserId', async (req, res) => {
-    const { bggUserId } = req.params;
-    const cachedCollection = getCachedCollection(bggUserId);
-
-    let errors = [];
+app.get('/loadDetails/:bggUserName', async (req, res) => {
+    const { bggUserName } = req.params;
+    const cachedCollection = getCachedCollection(bggUserName);
 
     for (const game of cachedCollection) {
 		const isCached = isGameDetailsCached(game.id)
-		console.log(`Checking Game ID:${game.id}: ${isCached}`);
+//		console.log(`Checking Game ID:${game.id}: ${isCached}`);
         if (!isCached) {
-            const { data, error } = await getGameDetails(game.id);
-            if (error) {
-                errors.push({ id: game.id, name: game.name });
-            }
+            const data = await getGameDetails(game.id);
             await wait(3000); // wait 3 seconds before moving on to the next game
         }
     }
-
-    const stats = {
-        errors: errors
-    };
-
-    res.json(stats);
+    res.send('Game details loading process completed.');
 });
 
 
 // function to save the BGG collection response to a local JSON cache
-async function loadCollection(userId) {
-    const sanitizedUserId = userId.replace(/\s+/g, '_');
-  const collectionUrl = `https://boardgamegeek.com/xmlapi2/collection?username=${encodeURIComponent(userId)}&own=1`;
-    const cacheFilePath = path.join(__dirname, `public/gameCache/collectionCache_${sanitizedUserId}.json`);
-
+async function loadCollection(userName) {
+    const sanitizedUserName = userName.replace(/\s+/g, '_');
+	const collectionUrl = `https://boardgamegeek.com/xmlapi2/collection?username=${encodeURIComponent(userName)}&own=1`;
+    const cacheFilePath = path.join(__dirname, `public/gameCache/collectionCache_${sanitizedUserName}.json`);
+	const bggUsersFile = 'config/bggUsers.json';
+	const usersData = JSON.parse(fs.readFileSync(bggUsersFile, 'utf8'));
+	const user = usersData.find(user => user.username === userName);
+	const apiUrl = 'https://boardgamegeek.com/api/collections?objectid=';
 
   const maxRetries = 2; // Set the number of retries
   let retries = 0;
+    let cacheModified = false;
+
+    let cachedData = { games: [], timestamp: new Date().toISOString() };
+    if (fs.existsSync(cacheFilePath)) {
+        cachedData = JSON.parse(fs.readFileSync(cacheFilePath, 'utf8'));
+    }
+
+    const existingGamesMap = new Map(cachedData.games.map(game => [game.collid, game]));
+
 
   while (retries <= maxRetries) {
     try {
       const response = await axios.get(collectionUrl); // Fetch BGG collection
       const result = await xml2js.parseStringPromise(response.data); // Parse XML response
-      const games = result.items.item.map(game => ({
-        id: game.$.objectid,
-        name: game.name[0]._,
-        image: game.image[0],
-        thumbnail: game.thumbnail[0],
-        lastmodified: game.status[0].$.lastmodified,
-        numplays: game.numplays[0]
-      }));
+	  
+            // Use a `for...of` loop to handle asynchronous API calls sequentially
+            const newGamesList = [];
+            for (const game of result.items.item) {
+                const status = game.status[0].$;
+                const newGameData = {
+                    id: game.$.objectid,
+                    collid: game.$.collid,
+                    name: game.name[0]._,
+                    image: game.image[0],
+                    thumbnail: game.thumbnail[0],
+                    lastmodified: status.lastmodified,
+                    numplays: game.numplays[0],
+                    status: {
+                        own: status.own === '1',
+                        prevowned: status.prevowned === '1',
+                        fortrade: status.fortrade === '1',
+                        want: status.want === '1',
+                        wanttoplay: status.wanttoplay === '1',
+                        wanttobuy: status.wanttobuy === '1',
+                        wishlist: status.wishlist === '1',
+                        wishlistpriority: parseInt(status.wishlistpriority, 10) || null,
+                        preordered: status.preordered === '1'
+                    }
+                };
 
-      collectionDate = new Date();
+                const existingGame = existingGamesMap.get(newGameData.collid);
+                
+                if (!existingGame || existingGame.lastmodified !== newGameData.lastmodified) {
+                    cacheModified = true;
+
+                        // fetch `postdate`, `rating`, and `ratingTimestamp` for new items and in case Rating has changed
+						const detailsResponse = await axios.get(`${apiUrl}${newGameData.id}&objecttype=thing&userid=${user.userid}`);
+                        const matchingItem = detailsResponse.data.items.find(item => item.collid === newGameData.collid);
+                        if (matchingItem) {
+                            newGameData.postdate = matchingItem.postdate ? matchingItem.postdate.split('T')[0] : null;
+                            newGameData.rating = matchingItem.rating || null;
+                            newGameData.ratingTimestamp = matchingItem.rating_tstamp ? matchingItem.rating_tstamp.split('T')[0] : null;
+                        
+                    }
+                    newGamesList.push(newGameData);
+                } else {
+                    // If the game hasn't changed, keep the existing data
+                    newGamesList.push(existingGame);
+                }
+            }
+	
+	if (cacheModified) {
       const cacheData = {
-        timestamp: collectionDate.toISOString(),
-        games: games
+        timestamp: new Date().toISOString(),
+        games: newGamesList
       };
+	      // Write the updated cache to the file
+      fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData, null, 2));
+	}
 
-      // Write the cache to the file
-      fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData));
-
-      return 'Collection loaded successfully. You can now view the cached data.';
+	console.log(`Cache modified: ${cacheModified}`);
+      return cacheModified ? 'Collection loaded successfully. Refresh to view the cached data.' : 'No changes to collection.';
     } catch (error) {
       retries += 1;
       console.error(`Attempt ${retries} failed: ${error.message}`);
@@ -305,9 +350,9 @@ async function loadCollection(userId) {
 
 
 //function to load the cached collection from the json
-function getCachedCollection(userId) {
-    const sanitizedUserId = userId.replace(/\s+/g, '_');
-    const cacheFilePath = path.join(cacheDir, `collectionCache_${sanitizedUserId}.json`); 
+function getCachedCollection(userName) {
+    const sanitizedUserName = userName.replace(/\s+/g, '_');
+    const cacheFilePath = path.join(cacheDir, `collectionCache_${sanitizedUserName}.json`); 
 
     if (fs.existsSync(cacheFilePath)) {
         const cacheData = JSON.parse(fs.readFileSync(cacheFilePath, 'utf8'));
