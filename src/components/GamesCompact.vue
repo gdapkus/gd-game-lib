@@ -1,21 +1,18 @@
 <template>
   <v-app>
     <v-theme-provider theme="light">
-      <v-application>
-        <v-application__wrap>
           <v-container>
             <!-- Header -->
             <v-app-bar app flat color="green">
               <div style="width: 24px;"></div>
-              <v-toolbar-item @click="reloadPage" style="cursor: pointer;">
-                <v-img src="/favicon.ico" height="48" width="48" contain></v-img>
-              </v-toolbar-item>
+              <v-avatar @click="reloadPage" style="cursor: pointer;" size="48" image="/favicon.ico" rounded="0">
+              </v-avatar>
               <v-toolbar-title
                 @click="reloadPage"
                 class="font-weight-black cursor-pointer"
-                style="font-size: 18pt;"
+                style="font-size: 1.1rem;"
               >
-                {{ activeUser ? `${activeUser.name}'s  Game Library` : 'Game Library' }}
+                {{ activeUser ? `${activeUser.name}'s Game Library` : 'Game Library' }}
               </v-toolbar-title>
               <v-btn icon>
                 <v-icon>mdi-cog-outline</v-icon>
@@ -43,14 +40,12 @@
                   <v-list>
                     <v-list-item v-for="user in bggUsers" :key="user.username" @click="selectUser(user)">
                       <template v-slot:prepend>
-                        <v-avatar size="64">
+                        <v-avatar size="64" rounded="0">
                           <img :src="user.avatarUrl" alt="User Avatar" />
                         </v-avatar>
                       </template>
-                      <v-list-item-content>
                         <v-list-item-title>{{ user.name }}</v-list-item-title>
                         <v-list-item-subtitle>{{ user.username }}</v-list-item-subtitle>
-                      </v-list-item-content>
                     </v-list-item>
                   </v-list>
                   <v-checkbox
@@ -121,9 +116,7 @@
                 </v-list-item>
                 <v-list-item v-if="trelloToken">
                   <v-list-item-title>Add to Trello</v-list-item-title>
-                  <v-list-item-icon>
                     <v-icon>mdi-menu-down</v-icon>
-                  </v-list-item-icon>
                   <v-menu offset-y activator="parent">
                     <template v-slot:default>
                       <v-list>
@@ -147,8 +140,6 @@
               <a href="https://www.boardgamegeek.com/" target="bgg">BoardGameGeek.com</a>.
             </v-footer>
           </v-container>
-        </v-application__wrap>
-      </v-application>
     </v-theme-provider>
   </v-app>
 </template>

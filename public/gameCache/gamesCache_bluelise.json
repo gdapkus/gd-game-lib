@@ -1,1 +1,3725 @@
-{"timestamp":"2024-11-14T22:53:57.009Z","games":[{"id":"822","name":"Carcassonne","type":"boardgame","lastmodified":"2024-06-07 14:28:10","thumbnail":"https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__thumb/img/88274KiOg94wziybVHyW8AeOiXg=/fit-in/200x150/filters:strip_icc()/pic6544250.png","link":"https://boardgamegeek.com/thing/822","minPlayers":"2","maxPlayers":"5","bestAtCount":"2"},{"id":"410656","name":"The Last Lighthouse: Strange Shores","type":"boardgameexpansion","lastmodified":"2024-06-02 10:28:04","thumbnail":"https://cf.geekdo-images.com/fZov3MafZNIT6LHVB8v7aw__thumb/img/Lu_4qbq4p0qFLeBX4GouSWBwd_Y=/fit-in/200x150/filters:strip_icc()/pic8115469.png","link":"https://boardgamegeek.com/thing/410656","minPlayers":"1","maxPlayers":"1","bestAtCount":"N/A"},{"id":"410657","name":"The Last Lighthouse: Long Nights","type":"boardgameexpansion","lastmodified":"2024-06-02 10:28:01","thumbnail":"https://cf.geekdo-images.com/4du65qY6LRC-vRahSM76-A__thumb/img/JHD6xoVEfVqLOWUabssb8F4CMFo=/fit-in/200x150/filters:strip_icc()/pic8115468.png","link":"https://boardgamegeek.com/thing/410657","minPlayers":"1","maxPlayers":"1","bestAtCount":"1"},{"id":"378117","name":"The Last Lighthouse","type":"boardgame","lastmodified":"2024-06-02 10:27:41","thumbnail":"https://cf.geekdo-images.com/_Reifl4-lWnuepxut_b6uw__thumb/img/TRjtsKU5PJydxx-pkfhjvSTKiuw=/fit-in/200x150/filters:strip_icc()/pic7803070.png","link":"https://boardgamegeek.com/thing/378117","minPlayers":"1","maxPlayers":"1","bestAtCount":"1"},{"id":"383055","name":"The Royal Limited: Second Line","type":"boardgameexpansion","lastmodified":"2024-05-18 11:26:54","thumbnail":"https://cf.geekdo-images.com/ezVvh9wle4_KUISA2Gksbg__thumb/img/FTZzIbk8J-4IQIQlqc-TpHRxfgU=/fit-in/200x150/filters:strip_icc()/pic8107209.png","link":"https://boardgamegeek.com/thing/383055","minPlayers":"1","maxPlayers":"1","bestAtCount":"N/A"},{"id":"383054","name":"The Royal Limited: Murder On Board","type":"boardgameexpansion","lastmodified":"2024-05-18 11:26:41","thumbnail":"https://cf.geekdo-images.com/yS6oxWjm33bbTk9f6f6aew__thumb/img/0LxeyKdj1UydJGfGEnYEYlhDfIw=/fit-in/200x150/filters:strip_icc()/pic8107210.png","link":"https://boardgamegeek.com/thing/383054","minPlayers":"1","maxPlayers":"1","bestAtCount":"N/A"},{"id":"391086","name":"Everything Ever","type":"boardgame","lastmodified":"2024-04-02 14:30:20","thumbnail":"https://cf.geekdo-images.com/RUNCSL-F46NiJKGZEfGJcQ__thumb/img/89OB-7lClaJm4BbzxyczzWWYllA=/fit-in/200x150/filters:strip_icc()/pic7596302.png","link":"https://boardgamegeek.com/thing/391086","minPlayers":"2","maxPlayers":"10","bestAtCount":"4, 6"},{"id":"128462","name":"Cthulhu Gloom: Unpleasant Dreams","type":"boardgameexpansion","lastmodified":"2024-03-27 12:18:08","thumbnail":"https://cf.geekdo-images.com/Q9pjpgYBbeNbCfAmsu3eUA__thumb/img/N_4Sw_QBi6Njky9o98aS7EiCAf8=/fit-in/200x150/filters:strip_icc()/pic1379540.jpg","link":"https://boardgamegeek.com/thing/128462","minPlayers":"2","maxPlayers":"6","bestAtCount":"3, 4"},{"id":"109141","name":"Kingdom Builder: Capitol","type":"boardgameexpansion","lastmodified":"2024-03-27 12:17:50","thumbnail":"https://cf.geekdo-images.com/CpEESO-OMjezTPMVyeLddQ__thumb/img/KF0ha39I0cUrLUki0PyvAlvBTJM=/fit-in/200x150/filters:strip_icc()/pic1102422.jpg","link":"https://boardgamegeek.com/thing/109141","minPlayers":"2","maxPlayers":"4","bestAtCount":"4"},{"id":"137396","name":"Kingdom Builder: Crossroads","type":"boardgameexpansion","lastmodified":"2024-03-27 12:17:48","thumbnail":"https://cf.geekdo-images.com/rqpI-ulKugcZDqstHEXBow__thumb/img/wgOlz14Kotu3Hqmh-EDxO41mYKM=/fit-in/200x150/filters:strip_icc()/pic1550248.jpg","link":"https://boardgamegeek.com/thing/137396","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"122316","name":"Small World: Realms","type":"boardgameexpansion","lastmodified":"2024-03-27 12:17:28","thumbnail":"https://cf.geekdo-images.com/L2OVDTRECXkXObc5h75iMQ__thumb/img/s_Tijw_GwODEHDrS1oHyL4tEF1E=/fit-in/200x150/filters:strip_icc()/pic1263419.jpg","link":"https://boardgamegeek.com/thing/122316","minPlayers":"2","maxPlayers":"6","bestAtCount":"4, 5"},{"id":"5405","name":"Carcassonne: Expansion 2 – Traders & Builders","type":"boardgameexpansion","lastmodified":"2024-03-27 12:17:24","thumbnail":"https://cf.geekdo-images.com/BaBb91gSf9Lu7CA0Pa9sOg__thumb/img/wKxqmMudEz0HaM7MEDKLbTVa1qE=/fit-in/200x150/filters:strip_icc()/pic2659946.jpg","link":"https://boardgamegeek.com/thing/5405","minPlayers":"2","maxPlayers":"6","bestAtCount":"2, 3"},{"id":"84183","name":"Small World: Necromancer Island","type":"boardgameexpansion","lastmodified":"2024-03-27 12:17:20","thumbnail":"https://cf.geekdo-images.com/lhCDo5Dg7Nv8ZBOQKbBbfg__thumb/img/VhZ5bcD_2527K0hYK-cDBviEi24=/fit-in/200x150/filters:strip_icc()/pic817425.jpg","link":"https://boardgamegeek.com/thing/84183","minPlayers":"3","maxPlayers":"6","bestAtCount":"4"},{"id":"81618","name":"Small World: Be Not Afraid...","type":"boardgameexpansion","lastmodified":"2024-03-27 12:17:18","thumbnail":"https://cf.geekdo-images.com/XxDZujpe4AR6yBkCHOS2JA__thumb/img/8RmZYOboSYpwfBQ4ELq6TlJq6j0=/fit-in/200x150/filters:strip_icc()/pic1134493.jpg","link":"https://boardgamegeek.com/thing/81618","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"71818","name":"Small World: Tales and Legends","type":"boardgameexpansion","lastmodified":"2024-03-27 12:17:16","thumbnail":"https://cf.geekdo-images.com/IfhSwwtUnufE_4vTESepeQ__thumb/img/xOQhuhldN2Lio9l1Jh7WESlZe7Y=/fit-in/200x150/filters:strip_icc()/pic728313.jpg","link":"https://boardgamegeek.com/thing/71818","minPlayers":"2","maxPlayers":"5","bestAtCount":"4, 5"},{"id":"20247","name":"The Settlers of Catan: The Great River","type":"boardgameexpansion","lastmodified":"2024-03-27 12:17:14","thumbnail":"https://cf.geekdo-images.com/q1PVlv9lFb7Xh_cuxbkN1A__thumb/img/yG578uSd3CVoXh5n3qIXd7JQGnM=/fit-in/200x150/filters:strip_icc()/pic162701.jpg","link":"https://boardgamegeek.com/thing/20247","minPlayers":"3","maxPlayers":"6","bestAtCount":"3, 4"},{"id":"140934","name":"Arboretum","type":"boardgame","lastmodified":"2024-03-27 12:17:04","thumbnail":"https://cf.geekdo-images.com/XYOn10oXBrDqHySf0jvnyQ__thumb/img/X6V1M2nZOinTgwE0KIBfup_QrCw=/fit-in/200x150/filters:strip_icc()/pic4172124.png","link":"https://boardgamegeek.com/thing/140934","minPlayers":"2","maxPlayers":"4","bestAtCount":"2"},{"id":"332290","name":"Stardew Valley: The Board Game","type":"boardgame","lastmodified":"2024-03-27 12:17:00","thumbnail":"https://cf.geekdo-images.com/X1oNtZV5H5BxtxlsTGIsHA__thumb/img/wvQPqF45KlfnRB-Z4ESK9VXzZMM=/fit-in/200x150/filters:strip_icc()/pic6037615.png","link":"https://boardgamegeek.com/thing/332290","minPlayers":"1","maxPlayers":"4","bestAtCount":"2"},{"id":"117793","name":"Kingdom Builder: Nomads","type":"boardgameexpansion","lastmodified":"2024-03-27 12:15:48","thumbnail":"https://cf.geekdo-images.com/vU9Qz3FgABkPweg9uEJuyQ__thumb/img/JLkC1qZG2dbOml34u0R0xc_Xmik=/fit-in/200x150/filters:strip_icc()/pic1200165.jpg","link":"https://boardgamegeek.com/thing/117793","minPlayers":"2","maxPlayers":"5","bestAtCount":"3, 4"},{"id":"97786","name":"Small World Underground","type":"boardgame","lastmodified":"2024-03-27 12:15:39","thumbnail":"https://cf.geekdo-images.com/qFmyurPNiCM8UPtP38mQpg__thumb/img/wLG6hiX2QNkrZCG5bnZqLJB6Pio=/fit-in/200x150/filters:strip_icc()/pic979889.jpg","link":"https://boardgamegeek.com/thing/97786","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"158899","name":"Colt Express","type":"boardgame","lastmodified":"2024-03-27 12:15:15","thumbnail":"https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__thumb/img/zcjkqn_HYDIIyVAZaAxJIkurQRg=/fit-in/200x150/filters:strip_icc()/pic2869710.jpg","link":"https://boardgamegeek.com/thing/158899","minPlayers":"2","maxPlayers":"6","bestAtCount":"5, 6"},{"id":"352574","name":"Fit to Print","type":"boardgame","lastmodified":"2024-03-18 20:44:40","thumbnail":"https://cf.geekdo-images.com/MbLJUbvoRI_AS-KGfIkmNQ__thumb/img/c2yxjj2CSXC6Id97EIr3-H4Plpo=/fit-in/200x150/filters:strip_icc()/pic7161032.jpg","link":"https://boardgamegeek.com/thing/352574","minPlayers":"1","maxPlayers":"6","bestAtCount":"4"},{"id":"362976","name":"Beacon Patrol","type":"boardgame","lastmodified":"2024-03-18 20:44:20","thumbnail":"https://cf.geekdo-images.com/9hDNHVLmorkaytg2ztLM6w__thumb/img/2dUdMpeeHEbAFEM9rOJOmkf_kjs=/fit-in/200x150/filters:strip_icc()/pic7439416.jpg","link":"https://boardgamegeek.com/thing/362976","minPlayers":"1","maxPlayers":"4","bestAtCount":"2"},{"id":"311900","name":"Votes for Women","type":"boardgame","lastmodified":"2024-01-04 12:23:39","thumbnail":"https://cf.geekdo-images.com/RotpVPn98B5sDSS8VTzTJQ__thumb/img/WZ5C_84yftaJFU3oprFzDHIRgV0=/fit-in/200x150/filters:strip_icc()/pic6430938.jpg","link":"https://boardgamegeek.com/thing/311900","minPlayers":"1","maxPlayers":"4","bestAtCount":"2"},{"id":"195314","name":"Herbaceous","type":"boardgame","lastmodified":"2023-12-14 22:14:48","thumbnail":"https://cf.geekdo-images.com/0HHqYFhJvOwk8Z0Dt-EvTA__thumb/img/EwiBLR6QywbISk0aGe-Vya4zXws=/fit-in/200x150/filters:strip_icc()/pic7083274.jpg","link":"https://boardgamegeek.com/thing/195314","minPlayers":"1","maxPlayers":"4","bestAtCount":"4"},{"id":"288513","name":"Tranquility","type":"boardgame","lastmodified":"2023-12-14 22:14:26","thumbnail":"https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__thumb/img/8YdbYqiyOw64OzqvXpWGzHb2Xr0=/fit-in/200x150/filters:strip_icc()/pic6152802.png","link":"https://boardgamegeek.com/thing/288513","minPlayers":"1","maxPlayers":"5","bestAtCount":"2"},{"id":"352591","name":"The Royal Limited","type":"boardgame","lastmodified":"2023-10-20 10:33:14","thumbnail":"https://cf.geekdo-images.com/AMrQErlzUmsE8ac8qxGe7w__thumb/img/mNjJtAc0hnhMLt6yjNPAIrtjf-8=/fit-in/200x150/filters:strip_icc()/pic7422259.png","link":"https://boardgamegeek.com/thing/352591","minPlayers":"1","maxPlayers":"1","bestAtCount":"1"},{"id":"198773","name":"Codenames: Pictures","type":"boardgame","lastmodified":"2023-09-19 13:13:04","thumbnail":"https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__thumb/img/6-1EOESE196KVKw4xOJ5rge56j0=/fit-in/200x150/filters:strip_icc()/pic3476592.jpg","link":"https://boardgamegeek.com/thing/198773","minPlayers":"2","maxPlayers":"8","bestAtCount":"6"},{"id":"2842","name":"TransAmerica","type":"boardgame","lastmodified":"2022-12-20 09:07:50","thumbnail":"https://cf.geekdo-images.com/yyyoLviq8AJABj7T7V5pgg__thumb/img/J2InPiyNrRDiTLCNNvh1TZDJpOM=/fit-in/200x150/filters:strip_icc()/pic1178136.jpg","link":"https://boardgamegeek.com/thing/2842","minPlayers":"2","maxPlayers":"6","bestAtCount":"5, 6"},{"id":"224037","name":"Codenames: Duet","type":"boardgame","lastmodified":"2022-11-07 12:58:20","thumbnail":"https://cf.geekdo-images.com/0d1EaMVmAiIBROI2QstFSQ__thumb/img/J-thZd7Pbbh1CE8QHcvEE4w8FBE=/fit-in/200x150/filters:strip_icc()/pic3596681.jpg","link":"https://boardgamegeek.com/thing/224037","minPlayers":"2","maxPlayers":"2","bestAtCount":"2"},{"id":"46255","name":"Campaign Manager 2008","type":"boardgame","lastmodified":"2022-10-25 12:23:03","thumbnail":"https://cf.geekdo-images.com/w2AZs8NYbZyGIdjPI7B2WA__thumb/img/o5rmrdKnm4CVBJNqRQ0LawBRNvo=/fit-in/200x150/filters:strip_icc()/pic565079.jpg","link":"https://boardgamegeek.com/thing/46255","minPlayers":"2","maxPlayers":"2","bestAtCount":"2"},{"id":"173341","name":"Loopin' Chewie","type":"boardgame","lastmodified":"2022-07-25 15:39:41","thumbnail":"https://cf.geekdo-images.com/zIZD0L3xXX-jYSLgCRCsEw__thumb/img/PwNFRhKRMsUl-03tp39EBYrpjgk=/fit-in/200x150/filters:strip_icc()/pic2821272.jpg","link":"https://boardgamegeek.com/thing/173341","minPlayers":"2","maxPlayers":"3","bestAtCount":"3"},{"id":"37628","name":"Haggis","type":"boardgame","lastmodified":"2022-02-22 11:16:26","thumbnail":"https://cf.geekdo-images.com/wirPJ4tfSDafd-TNhVr7eA__thumb/img/7GeVUG6MUHjKYAOOofU2zaeuLUc=/fit-in/200x150/filters:strip_icc()/pic7663518.png","link":"https://boardgamegeek.com/thing/37628","minPlayers":"2","maxPlayers":"4","bestAtCount":"2"},{"id":"68942","name":"Munchkin: Marked For Death","type":"boardgameexpansion","lastmodified":"2022-02-22 11:15:57","thumbnail":"https://cf.geekdo-images.com/jE4Zq2F8IXygH11gN_NCYQ__thumb/img/7WJZVpjkPzYsg6Hy6e-fyiLTA8Y=/fit-in/200x150/filters:strip_icc()/pic2600704.jpg","link":"https://boardgamegeek.com/thing/68942","minPlayers":"2","maxPlayers":"6","bestAtCount":"4"},{"id":"92206","name":"Fluxx: BoardGameGeek Expansion","type":"boardgameexpansion","lastmodified":"2022-02-22 11:15:54","thumbnail":"https://cf.geekdo-images.com/Ib26Fe7hAEa9xftYkfi9tw__thumb/img/73HIFfT2SXckDTO7LObvPvZ2UxU=/fit-in/200x150/filters:strip_icc()/pic913985.jpg","link":"https://boardgamegeek.com/thing/92206","minPlayers":"2","maxPlayers":"6","bestAtCount":"N/A"},{"id":"80571","name":"Munchkin Reloaded!","type":"boardgameexpansion","lastmodified":"2022-02-22 11:15:52","thumbnail":"https://cf.geekdo-images.com/7rCeyARowlllpF_aA6P6Sg__thumb/img/KRRsz-K4eBW2FtkaAFxnKRwXars=/fit-in/200x150/filters:strip_icc()/pic813486.jpg","link":"https://boardgamegeek.com/thing/80571","minPlayers":"3","maxPlayers":"6","bestAtCount":"4"},{"id":"95234","name":"Cthulhu Gloom","type":"boardgame","lastmodified":"2022-02-22 11:15:48","thumbnail":"https://cf.geekdo-images.com/0NIPJMlzch7WpotTjqGykw__thumb/img/ujk5D2Jhrr2aEvR6coTP9ePAhRQ=/fit-in/200x150/filters:strip_icc()/pic1045316.jpg","link":"https://boardgamegeek.com/thing/95234","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"301628","name":"Codenames: Blizzard Edition","type":"boardgame","lastmodified":"2022-02-22 11:08:34","thumbnail":"https://cf.geekdo-images.com/DpDmqJnXlVEy8zvZpsq5-A__thumb/img/hxKPPxIowA-hW-O_lEw1-OThavI=/fit-in/200x150/filters:strip_icc()/pic5228682.jpg","link":"https://boardgamegeek.com/thing/301628","minPlayers":"2","maxPlayers":"8","bestAtCount":"8"},{"id":"334011","name":"A Gentle Rain","type":"boardgame","lastmodified":"2022-02-22 11:08:26","thumbnail":"https://cf.geekdo-images.com/EqqXUmjIuGspHNwt1UnDEQ__thumb/img/qKGfLe9Y83j2-UEzfRy1bIbNosI=/fit-in/200x150/filters:strip_icc()/pic7769466.png","link":"https://boardgamegeek.com/thing/334011","minPlayers":"1","maxPlayers":"1","bestAtCount":"1"},{"id":"180198","name":"Rolling America","type":"boardgame","lastmodified":"2022-02-22 11:08:11","thumbnail":"https://cf.geekdo-images.com/oxmhfPXiAZCnWQ2nBw2fpA__thumb/img/3OxxHpSUFHDMHAFHRJyKarTU12Y=/fit-in/200x150/filters:strip_icc()/pic2736928.jpg","link":"https://boardgamegeek.com/thing/180198","minPlayers":"1","maxPlayers":"99","bestAtCount":"2, 3"},{"id":"113289","name":"Snake Oil","type":"boardgame","lastmodified":"2022-02-22 11:07:50","thumbnail":"https://cf.geekdo-images.com/q-Sdv383LKSBIPOrSRb5Cg__thumb/img/IgIpwCXKODgKV152brI3nH5Rwag=/fit-in/200x150/filters:strip_icc()/pic7617053.jpg","link":"https://boardgamegeek.com/thing/113289","minPlayers":"3","maxPlayers":"10","bestAtCount":"5, 6"},{"id":"181304","name":"Mysterium","type":"boardgame","lastmodified":"2022-02-22 11:07:47","thumbnail":"https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__thumb/img/NAl-NrSAmWvklSVr3hKrSwiszNA=/fit-in/200x150/filters:strip_icc()/pic2601683.jpg","link":"https://boardgamegeek.com/thing/181304","minPlayers":"2","maxPlayers":"7","bestAtCount":"5, 6"},{"id":"178900","name":"Codenames","type":"boardgame","lastmodified":"2022-02-22 11:07:44","thumbnail":"https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg","link":"https://boardgamegeek.com/thing/178900","minPlayers":"2","maxPlayers":"8","bestAtCount":"6, 8"},{"id":"166384","name":"Spyfall","type":"boardgame","lastmodified":"2022-02-22 11:07:41","thumbnail":"https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__thumb/img/sPJVWjzGcEpiseZGdoD6HNR9nRI=/fit-in/200x150/filters:strip_icc()/pic2453926.jpg","link":"https://boardgamegeek.com/thing/166384","minPlayers":"3","maxPlayers":"8","bestAtCount":"6"},{"id":"160851","name":"Lanterns: The Harvest Festival","type":"boardgame","lastmodified":"2022-02-22 11:07:35","thumbnail":"https://cf.geekdo-images.com/JmY4nVWwW98qEn0NRbKdTw__thumb/img/qQuRUZQAineOCl4abLvZgPjnqTE=/fit-in/200x150/filters:strip_icc()/pic2372790.png","link":"https://boardgamegeek.com/thing/160851","minPlayers":"2","maxPlayers":"4","bestAtCount":"4"},{"id":"66171","name":"Dragonheart","type":"boardgame","lastmodified":"2022-02-22 11:07:11","thumbnail":"https://cf.geekdo-images.com/zfEBn2RLGIlvTHGE-pSsCQ__thumb/img/N2ZqQofBI2XhW9JRnJ-Vxb2AaXM=/fit-in/200x150/filters:strip_icc()/pic829248.jpg","link":"https://boardgamegeek.com/thing/66171","minPlayers":"2","maxPlayers":"2","bestAtCount":"2"},{"id":"5825","name":"Paris Paris","type":"boardgame","lastmodified":"2022-02-22 11:07:07","thumbnail":"https://cf.geekdo-images.com/FANN50qJ5O2kDm3E66NIwQ__thumb/img/0X6ASX3koTt4NNmZpMAYHjrxsH8=/fit-in/200x150/filters:strip_icc()/pic849528.jpg","link":"https://boardgamegeek.com/thing/5825","minPlayers":"2","maxPlayers":"4","bestAtCount":"2"},{"id":"147949","name":"One Night Ultimate Werewolf","type":"boardgame","lastmodified":"2022-02-22 11:06:57","thumbnail":"https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__thumb/img/ZgQsHsvdxXZr4DbMGUBSTArBp3o=/fit-in/200x150/filters:strip_icc()/pic1809823.jpg","link":"https://boardgamegeek.com/thing/147949","minPlayers":"3","maxPlayers":"10","bestAtCount":"6, 8"},{"id":"63888","name":"Innovation","type":"boardgame","lastmodified":"2022-02-22 11:06:47","thumbnail":"https://cf.geekdo-images.com/YBE-vyyYRANWO2NXSQQghg__thumb/img/GmRDNEKangi2w4daNGHCQiH5h_I=/fit-in/200x150/filters:strip_icc()/pic2966859.png","link":"https://boardgamegeek.com/thing/63888","minPlayers":"2","maxPlayers":"4","bestAtCount":"2"},{"id":"134453","name":"The Little Prince: Make Me a Planet","type":"boardgame","lastmodified":"2022-02-22 11:06:41","thumbnail":"https://cf.geekdo-images.com/qrSFj8YArH-rUAwpUaTpPw__thumb/img/S8jwzlcCFgk1UwU966TipcK0DQE=/fit-in/200x150/filters:strip_icc()/pic3083205.jpg","link":"https://boardgamegeek.com/thing/134453","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"5782","name":"Coloretto","type":"boardgame","lastmodified":"2022-02-22 11:06:37","thumbnail":"https://cf.geekdo-images.com/pd3qaiROSgTJ5js_0e4Nhw__thumb/img/SveyL9J1DT0hX4ucYWjRR6DMrbk=/fit-in/200x150/filters:strip_icc()/pic6653783.png","link":"https://boardgamegeek.com/thing/5782","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"66190","name":"New York","type":"boardgame","lastmodified":"2022-02-22 11:06:15","thumbnail":"https://cf.geekdo-images.com/RxSSHNFw-9do_xspRdOr4w__thumb/img/_hthJcbjJ2wVNTRo8US92uEhgjc=/fit-in/200x150/filters:strip_icc()/pic1118046.jpg","link":"https://boardgamegeek.com/thing/66190","minPlayers":"2","maxPlayers":"6","bestAtCount":"3"},{"id":"15987","name":"Arkham Horror","type":"boardgame","lastmodified":"2022-02-22 11:05:06","thumbnail":"https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__thumb/img/6VzhMMmGOxNTCHQ-8iFdn5vINis=/fit-in/200x150/filters:strip_icc()/pic175966.jpg","link":"https://boardgamegeek.com/thing/15987","minPlayers":"1","maxPlayers":"8","bestAtCount":"4"},{"id":"10547","name":"Betrayal at House on the Hill","type":"boardgame","lastmodified":"2022-02-22 11:04:53","thumbnail":"https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__thumb/img/EDOmDbRhLy4za2PHkJ5IbhNxZmk=/fit-in/200x150/filters:strip_icc()/pic5146864.png","link":"https://boardgamegeek.com/thing/10547","minPlayers":"3","maxPlayers":"6","bestAtCount":"5, 6"},{"id":"40692","name":"Small World","type":"boardgame","lastmodified":"2022-02-22 11:04:49","thumbnail":"https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__thumb/img/o3Bw9heVDJRgPYlI_PksCvLAgnM=/fit-in/200x150/filters:strip_icc()/pic428828.jpg","link":"https://boardgamegeek.com/thing/40692","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"35704","name":"Shadows over Camelot: Merlin's Company","type":"boardgameexpansion","lastmodified":"2022-02-22 11:04:46","thumbnail":"https://cf.geekdo-images.com/6kuoyObh3-Drc_jrprCEdw__thumb/img/KEKPRLkKsKZQaSCZhyHWpxfMyzg=/fit-in/200x150/filters:strip_icc()/pic602659.jpg","link":"https://boardgamegeek.com/thing/35704","minPlayers":"3","maxPlayers":"8","bestAtCount":"5, 8"},{"id":"15062","name":"Shadows over Camelot","type":"boardgame","lastmodified":"2022-02-22 11:04:43","thumbnail":"https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__thumb/img/QOG1zO0uvqxGTDF9V_OewVPMvNE=/fit-in/200x150/filters:strip_icc()/pic70547.jpg","link":"https://boardgamegeek.com/thing/15062","minPlayers":"3","maxPlayers":"7","bestAtCount":"5, 7"},{"id":"296345","name":"Sherlock Holmes Consulting Detective: The Baker Street Irregulars","type":"boardgame","lastmodified":"2022-02-22 11:03:59","thumbnail":"https://cf.geekdo-images.com/demwo7nCkIHbUcFohLwfsQ__thumb/img/1OnuuguBS4FcheU9o0XLTQoGKj8=/fit-in/200x150/filters:strip_icc()/pic5198810.jpg","link":"https://boardgamegeek.com/thing/296345","minPlayers":"1","maxPlayers":"8","bestAtCount":"2"},{"id":"118247","name":"Lucky Numbers","type":"boardgame","lastmodified":"2022-02-22 11:03:35","thumbnail":"https://cf.geekdo-images.com/254SXVeOngtdjf8SBFEUNg__thumb/img/p5QUKwH4OYDPwTj3H67qSLXTka0=/fit-in/200x150/filters:strip_icc()/pic5646606.jpg","link":"https://boardgamegeek.com/thing/118247","minPlayers":"1","maxPlayers":"4","bestAtCount":"3"},{"id":"233867","name":"Welcome To...","type":"boardgame","lastmodified":"2022-02-22 11:03:16","thumbnail":"https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__thumb/img/e3bCyIvM1IOGFYnKGj2jIn5mbKY=/fit-in/200x150/filters:strip_icc()/pic3761012.jpg","link":"https://boardgamegeek.com/thing/233867","minPlayers":"1","maxPlayers":"100","bestAtCount":"3, 4"},{"id":"245476","name":"CuBirds","type":"boardgame","lastmodified":"2022-02-22 11:03:02","thumbnail":"https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__thumb/img/EiGltQvI5VsmCSYYxjgD7kXY2eg=/fit-in/200x150/filters:strip_icc()/pic7491534.jpg","link":"https://boardgamegeek.com/thing/245476","minPlayers":"2","maxPlayers":"5","bestAtCount":"3"},{"id":"54043","name":"Jaipur","type":"boardgame","lastmodified":"2022-02-22 11:02:21","thumbnail":"https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__thumb/img/82vhODfpxIT03BzW4NkisJ5Unzs=/fit-in/200x150/filters:strip_icc()/pic5100947.jpg","link":"https://boardgamegeek.com/thing/54043","minPlayers":"2","maxPlayers":"2","bestAtCount":"2"},{"id":"331328","name":"Unsurmountable","type":"boardgame","lastmodified":"2022-02-22 11:02:13","thumbnail":"https://cf.geekdo-images.com/ONaHD5ZX_LnX2xdh0ClX_Q__thumb/img/895tpWUSEAbb1tf4ko0ZQWGxscY=/fit-in/200x150/filters:strip_icc()/pic6385752.png","link":"https://boardgamegeek.com/thing/331328","minPlayers":"1","maxPlayers":"1","bestAtCount":"1"},{"id":"13","name":"CATAN","type":"boardgame","lastmodified":"2022-02-12 17:53:19","thumbnail":"https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg","link":"https://boardgamegeek.com/thing/13","minPlayers":"3","maxPlayers":"4","bestAtCount":"4"},{"id":"346902","name":"Unsurmountable: Dual Peaks","type":"boardgameexpansion","lastmodified":"2022-01-02 20:13:09","thumbnail":"https://cf.geekdo-images.com/AtrgNW2TDgA_0oEF8nqOQQ__thumb/img/tKM-4Srq4j7s5j4i-AinjSMuHfA=/fit-in/200x150/filters:strip_icc()/pic6389817.png","link":"https://boardgamegeek.com/thing/346902","minPlayers":"1","maxPlayers":"1","bestAtCount":"1"},{"id":"346901","name":"Unsurmountable: Big Climb","type":"boardgameexpansion","lastmodified":"2022-01-02 20:12:50","thumbnail":"https://cf.geekdo-images.com/eaI6VFktgjjnVvSgy7qzfg__thumb/img/USRtQ0ZRI-P7v-smi_vrI1yfogk=/fit-in/200x150/filters:strip_icc()/pic6389816.png","link":"https://boardgamegeek.com/thing/346901","minPlayers":"1","maxPlayers":"1","bestAtCount":"1"},{"id":"98778","name":"Hanabi","type":"boardgame","lastmodified":"2021-12-17 18:56:56","thumbnail":"https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__thumb/img/amCeCcEKhYGbVtDvpvIMnu3qTg0=/fit-in/200x150/filters:strip_icc()/pic2007286.jpg","link":"https://boardgamegeek.com/thing/98778","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"221965","name":"The Fox in the Forest","type":"boardgame","lastmodified":"2021-12-17 15:21:30","thumbnail":"https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__thumb/img/nR2TKxtWOVJR1OHD6hAF05IHuOI=/fit-in/200x150/filters:strip_icc()/pic3496085.jpg","link":"https://boardgamegeek.com/thing/221965","minPlayers":"2","maxPlayers":"2","bestAtCount":"2"},{"id":"240196","name":"Betrayal Legacy","type":"boardgame","lastmodified":"2021-12-06 12:54:51","thumbnail":"https://cf.geekdo-images.com/F4-UGFUM3FfVLWsgBgpFLQ__thumb/img/qaqVSOIHvE3mPWEgX_lP7e-6yM0=/fit-in/200x150/filters:strip_icc()/pic4314964.jpg","link":"https://boardgamegeek.com/thing/240196","minPlayers":"3","maxPlayers":"5","bestAtCount":"5"},{"id":"228660","name":"Betrayal at Baldur's Gate","type":"boardgame","lastmodified":"2021-12-06 12:54:40","thumbnail":"https://cf.geekdo-images.com/O6TfqmDWCkJvZPZw6pcxpg__thumb/img/LqmZdde9lw05eGIfxYJZiF1DaYs=/fit-in/200x150/filters:strip_icc()/pic6552099.png","link":"https://boardgamegeek.com/thing/228660","minPlayers":"3","maxPlayers":"6","bestAtCount":"5"},{"id":"344682","name":"The Split","type":"boardgame","lastmodified":"2021-12-04 21:16:47","thumbnail":"https://cf.geekdo-images.com/sZtguqUekjg1xyYXWklNGQ__thumb/img/AS9NVRK6fNO0jpdxN-l5QTRaWqc=/fit-in/200x150/filters:strip_icc()/pic6352257.png","link":"https://boardgamegeek.com/thing/344682","minPlayers":"2","maxPlayers":"6","bestAtCount":"3"},{"id":"198452","name":"Betrayal at House on the Hill: Widow's Walk","type":"boardgameexpansion","lastmodified":"2016-12-25 21:45:20","thumbnail":"https://cf.geekdo-images.com/uFaPB9DYs2FUqQepaugnwg__thumb/img/z6z8daUO8zqOVFLyrNmgDEkX9aU=/fit-in/200x150/filters:strip_icc()/pic4084221.jpg","link":"https://boardgamegeek.com/thing/198452","minPlayers":"3","maxPlayers":"6","bestAtCount":"4, 6"},{"id":"29387","name":"Zombie Fluxx","type":"boardgame","lastmodified":"2015-08-06 09:09:06","thumbnail":"https://cf.geekdo-images.com/XzqgCgBYVc0a92ZqZ9NjXw__thumb/img/T1d9LzE-cyQSSEu6piQ0VSzgLHI=/fit-in/200x150/filters:strip_icc()/pic254239.jpg","link":"https://boardgamegeek.com/thing/29387","minPlayers":"2","maxPlayers":"6","bestAtCount":"4"},{"id":"164010","name":"Moriarty's Machinations","type":"boardgame","lastmodified":"2015-07-19 09:55:32","thumbnail":"https://cf.geekdo-images.com/wBQjkP58cKOZvYn8_bICSQ__thumb/img/yz8mROfIGUAukEdxRxMnef2SZ7E=/fit-in/200x150/filters:strip_icc()/pic7644554.jpg","link":"https://boardgamegeek.com/thing/164010","minPlayers":"5","maxPlayers":"10","bestAtCount":"5, 10"},{"id":"133473","name":"Sushi Go!","type":"boardgame","lastmodified":"2015-04-03 22:30:10","thumbnail":"https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__thumb/img/6XF493O0tSyLyZP5ArlcZrOTMXQ=/fit-in/200x150/filters:strip_icc()/pic1900075.jpg","link":"https://boardgamegeek.com/thing/133473","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"129622","name":"Love Letter","type":"boardgame","lastmodified":"2015-02-28 10:43:06","thumbnail":"https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__thumb/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg","link":"https://boardgamegeek.com/thing/129622","minPlayers":"2","maxPlayers":"4","bestAtCount":"4"},{"id":"131357","name":"Coup","type":"boardgame","lastmodified":"2013-12-07 10:58:54","thumbnail":"https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__thumb/img/vuR_0PCX1w2EkjO_LbchOHZPOwU=/fit-in/200x150/filters:strip_icc()/pic2016054.jpg","link":"https://boardgamegeek.com/thing/131357","minPlayers":"2","maxPlayers":"6","bestAtCount":"5"},{"id":"39206","name":"Tac Tac Jack","type":"boardgame","lastmodified":"2013-10-26 16:44:51","thumbnail":"https://cf.geekdo-images.com/6TG4QXV3JmLsln11f72XXQ__thumb/img/g2GglyKXfnWFJnjS057wW1Fpm7U=/fit-in/200x150/filters:strip_icc()/pic8499311.png","link":"https://boardgamegeek.com/thing/39206","minPlayers":"2","maxPlayers":"7","bestAtCount":"4"},{"id":"38159","name":"Ultimate Werewolf: Ultimate Edition","type":"boardgame","lastmodified":"2013-07-18 23:15:08","thumbnail":"https://cf.geekdo-images.com/PoIvN70fNYdwgeaap0CKqw__thumb/img/Xl_EuD2T09pr31MuKlfvPzvaspU=/fit-in/200x150/filters:strip_icc()/pic1849390.jpg","link":"https://boardgamegeek.com/thing/38159","minPlayers":"5","maxPlayers":"68","bestAtCount":"11, 16"},{"id":"1198","name":"SET","type":"boardgame","lastmodified":"2013-04-08 20:21:19","thumbnail":"https://cf.geekdo-images.com/uEtWO_Ag8OxbG6NkSZbH6A__thumb/img/wElABDsqOCR3YjI1nInQqeNa-Lk=/fit-in/200x150/filters:strip_icc()/pic7627182.png","link":"https://boardgamegeek.com/thing/1198","minPlayers":"1","maxPlayers":"20","bestAtCount":"3, 4"},{"id":"41114","name":"The Resistance","type":"boardgame","lastmodified":"2013-04-08 20:21:08","thumbnail":"https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__thumb/img/5lDn1W82rlLXtVG7nPIYR9Orn-4=/fit-in/200x150/filters:strip_icc()/pic2576459.jpg","link":"https://boardgamegeek.com/thing/41114","minPlayers":"5","maxPlayers":"10","bestAtCount":"7"},{"id":"43894","name":"Munchkin: Waiting For Santa","type":"boardgameexpansion","lastmodified":"2013-04-08 20:20:52","thumbnail":"https://cf.geekdo-images.com/GUc1XqoZBtI2uqfv_pyN0A__thumb/img/Q8qVYqJMUJQ1GormL53-TmDHv-4=/fit-in/200x150/filters:strip_icc()/pic499248.jpg","link":"https://boardgamegeek.com/thing/43894","minPlayers":"3","maxPlayers":"6","bestAtCount":"3, 4"},{"id":"42436","name":"Munchkin Fairy Dust","type":"boardgameexpansion","lastmodified":"2013-04-08 20:20:41","thumbnail":"https://cf.geekdo-images.com/IIdWFHWPgzS-vGOKuC1U4w__thumb/img/Iy21_154YwwI33gbkcZWb9M6X38=/fit-in/200x150/filters:strip_icc()/pic480525.jpg","link":"https://boardgamegeek.com/thing/42436","minPlayers":"3","maxPlayers":"6","bestAtCount":"4"},{"id":"37501","name":"Munchkin 7: More Good Cards","type":"boardgameexpansion","lastmodified":"2013-04-08 20:20:34","thumbnail":"https://cf.geekdo-images.com/P5q10pFDUb4w4xpsX-NZ4w__thumb/img/gf6aQTqMej1taZLJrHJtIrhoaEE=/fit-in/200x150/filters:strip_icc()/pic357527.jpg","link":"https://boardgamegeek.com/thing/37501","minPlayers":"3","maxPlayers":"6","bestAtCount":"3, 5"},{"id":"33493","name":"Munchkin 6: Demented Dungeons","type":"boardgameexpansion","lastmodified":"2013-04-08 20:20:31","thumbnail":"https://cf.geekdo-images.com/4iEPM57OZ95QVb2XidV9kA__thumb/img/jUAqCJf0J4tXMRHlbU77zKmYff4=/fit-in/200x150/filters:strip_icc()/pic1130548.jpg","link":"https://boardgamegeek.com/thing/33493","minPlayers":"3","maxPlayers":"6","bestAtCount":"4, 5"},{"id":"28327","name":"Munchkin 5: De-Ranged","type":"boardgameexpansion","lastmodified":"2013-04-08 20:20:25","thumbnail":"https://cf.geekdo-images.com/c24yJ4IDSDxo_gfUWH4fIQ__thumb/img/0Orvx8d09vBklYFPuzoyWBp0Oh4=/fit-in/200x150/filters:strip_icc()/pic2428687.jpg","link":"https://boardgamegeek.com/thing/28327","minPlayers":"3","maxPlayers":"6","bestAtCount":"4, 5"},{"id":"20660","name":"Munchkin 4: The Need for Steed","type":"boardgameexpansion","lastmodified":"2013-04-08 20:20:23","thumbnail":"https://cf.geekdo-images.com/tL5l1KEBOZDnQ7CvBwUGzA__thumb/img/mc4dIKqSL0tvyxVhdAqisSH8DzU=/fit-in/200x150/filters:strip_icc()/pic2428686.jpg","link":"https://boardgamegeek.com/thing/20660","minPlayers":"3","maxPlayers":"6","bestAtCount":"4, 5"},{"id":"6606","name":"Munchkin 3: Clerical Errors","type":"boardgameexpansion","lastmodified":"2013-04-08 20:20:22","thumbnail":"https://cf.geekdo-images.com/CQpxHBk-1l3mEwM7x6e_pA__thumb/img/lGx0Q9DfSgD83D4rCL416FAz5MI=/fit-in/200x150/filters:strip_icc()/pic2428681.jpg","link":"https://boardgamegeek.com/thing/6606","minPlayers":"3","maxPlayers":"6","bestAtCount":"4"},{"id":"3943","name":"Munchkin 2: Unnatural Axe","type":"boardgameexpansion","lastmodified":"2013-04-08 20:20:20","thumbnail":"https://cf.geekdo-images.com/aodU82mIunaDBUb8jC2RBQ__thumb/img/xOTsGgAcjmNdRqkOiph0sMr_9VA=/fit-in/200x150/filters:strip_icc()/pic2428682.jpg","link":"https://boardgamegeek.com/thing/3943","minPlayers":"3","maxPlayers":"6","bestAtCount":"4, 5"},{"id":"1927","name":"Munchkin","type":"boardgame","lastmodified":"2013-04-08 20:20:18","thumbnail":"https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__thumb/img/8hVkpMC5pDLr6ARI_4gI4N3aF5M=/fit-in/200x150/filters:strip_icc()/pic1871016.jpg","link":"https://boardgamegeek.com/thing/1927","minPlayers":"3","maxPlayers":"6","bestAtCount":"4"},{"id":"107529","name":"Kingdom Builder","type":"boardgame","lastmodified":"2013-02-18 17:25:15","thumbnail":"https://cf.geekdo-images.com/kJOP_BICVX-88sKqFRh9PQ__thumb/img/KwrWpSRncnCE0cEldldyVQ-0Cdk=/fit-in/200x150/filters:strip_icc()/pic1152359.jpg","link":"https://boardgamegeek.com/thing/107529","minPlayers":"2","maxPlayers":"4","bestAtCount":"4"},{"id":"128882","name":"The Resistance: Avalon","type":"boardgame","lastmodified":"2012-11-25 22:38:29","thumbnail":"https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__thumb/img/RKui79VjUbQAzTWaPu44ytupzDs=/fit-in/200x150/filters:strip_icc()/pic1398895.jpg","link":"https://boardgamegeek.com/thing/128882","minPlayers":"5","maxPlayers":"10","bestAtCount":"7, 8"},{"id":"91523","name":"Mondo","type":"boardgame","lastmodified":"2012-05-06 20:18:03","thumbnail":"https://cf.geekdo-images.com/DZiHZK3RAcM_kgfwJ8qPgg__thumb/img/39LIPWGEDRG5ZQPNFG-3c2tPRvg=/fit-in/200x150/filters:strip_icc()/pic1458279.jpg","link":"https://boardgamegeek.com/thing/91523","minPlayers":"1","maxPlayers":"4","bestAtCount":"4"},{"id":"2993","name":"Carcassonne: Expansion 1 – Inns & Cathedrals","type":"boardgameexpansion","lastmodified":"2011-12-24 19:23:20","thumbnail":"https://cf.geekdo-images.com/g9q--tONTL86x2D4NKiM8g__thumb/img/opBzVTp4iK4LfozCr3doTYGwTHE=/fit-in/200x150/filters:strip_icc()/pic2659943.jpg","link":"https://boardgamegeek.com/thing/2993","minPlayers":"2","maxPlayers":"6","bestAtCount":"2, 3"},{"id":"57070","name":"Small World: Grand Dames of Small World","type":"boardgameexpansion","lastmodified":"2011-08-07 21:56:03","thumbnail":"https://cf.geekdo-images.com/AQi975M9FTsqLoxPu1e8aA__thumb/img/7hZDxVUq6BJrIu7QJUkgNT6si7w=/fit-in/200x150/filters:strip_icc()/pic563283.jpg","link":"https://boardgamegeek.com/thing/57070","minPlayers":"2","maxPlayers":"5","bestAtCount":"4, 5"},{"id":"57072","name":"Small World: Cursed!","type":"boardgameexpansion","lastmodified":"2011-08-07 21:56:00","thumbnail":"https://cf.geekdo-images.com/hRDbH2HDLzrCmd9EZt1JGQ__thumb/img/h_TSvzqD7nOX25wvdG-fdV2Zyro=/fit-in/200x150/filters:strip_icc()/pic563285.jpg","link":"https://boardgamegeek.com/thing/57072","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"60054","name":"Small World: Leaders of Small World","type":"boardgameexpansion","lastmodified":"2010-10-04 15:51:59","thumbnail":"https://cf.geekdo-images.com/4UwRNg-iMgklr9-zGh3OgQ__thumb/img/fxKuFVM9HhgVwAf4MnzDDEtB-wM=/fit-in/200x150/filters:strip_icc()/pic589620.jpg","link":"https://boardgamegeek.com/thing/60054","minPlayers":"2","maxPlayers":"5","bestAtCount":"4"},{"id":"12039","name":"Once Upon a Time: Dark Tales","type":"boardgameexpansion","lastmodified":"2010-01-02 20:09:18","thumbnail":"https://cf.geekdo-images.com/BG23trfnTUnj7Jkfm4kJzw__thumb/img/lR2z3piVGcxbdXxKyxydXXj1faU=/fit-in/200x150/filters:strip_icc()/pic190907.jpg","link":"https://boardgamegeek.com/thing/12039","minPlayers":"2","maxPlayers":"6","bestAtCount":"4, 6"},{"id":"2807","name":"Catan: 5-6 Player Extension","type":"boardgameexpansion","lastmodified":"2009-02-16 02:27:00","thumbnail":"https://cf.geekdo-images.com/qGCU44UcimWPJ7BucwV1cg__thumb/img/ygwdrGve0mcSEpxFThbyS2b5RcU=/fit-in/200x150/filters:strip_icc()/pic2420287.jpg","link":"https://boardgamegeek.com/thing/2807","minPlayers":"5","maxPlayers":"6","bestAtCount":"5"},{"id":"1234","name":"Once Upon a Time: The Storytelling Card Game","type":"boardgame","lastmodified":"2009-02-16 02:26:01","thumbnail":"https://cf.geekdo-images.com/IHYBF2QWcZwlYfH4doj06Q__thumb/img/XkT-0Bj73aLec9BYdqWSqIpIKis=/fit-in/200x150/filters:strip_icc()/pic1494028.jpg","link":"https://boardgamegeek.com/thing/1234","minPlayers":"2","maxPlayers":"6","bestAtCount":"5, 6"},{"id":"25945","name":"Arkham Horror: The King in Yellow Expansion","type":"boardgameexpansion","lastmodified":"2009-02-16 02:21:01","thumbnail":"https://cf.geekdo-images.com/pfNqKrM-0NtxL2aCdfzwgg__thumb/img/msLVxhHV3WN-BoI5FKf5vAHj0Lo=/fit-in/200x150/filters:strip_icc()/pic222480.jpg","link":"https://boardgamegeek.com/thing/25945","minPlayers":"1","maxPlayers":"8","bestAtCount":"4"},{"id":"21059","name":"Arkham Horror: Dunwich Horror Expansion","type":"boardgameexpansion","lastmodified":"2009-02-16 02:19:56","thumbnail":"https://cf.geekdo-images.com/SD4sueZ3S8iL1RlZIq-u_A__thumb/img/RpKj-u4cqnpskpB_QEEpwdEEUA0=/fit-in/200x150/filters:strip_icc()/pic114495.jpg","link":"https://boardgamegeek.com/thing/21059","minPlayers":"1","maxPlayers":"8","bestAtCount":"4"}]}
+{
+  "timestamp": "2024-11-15T19:20:26.559Z",
+  "games": [
+    {
+      "id": "822",
+      "name": "Carcassonne",
+      "yearPublished": "2000",
+      "type": "boardgame",
+      "postdate": "2009-03-15 02:19:02",
+      "lastmodified": "2024-06-07 14:28:10",
+      "myrating": 7,
+      "numplays": "15",
+      "thumbnail": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__thumb/img/88274KiOg94wziybVHyW8AeOiXg=/fit-in/200x150/filters:strip_icc()/pic6544250.png",
+      "link": "https://boardgamegeek.com/thing/822",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.41053",
+      "averageWeight": "1.8909",
+      "boardGameRank": "231",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Enclosure",
+        "Map Addition",
+        "Pattern Building",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Medieval",
+        "Territory Building"
+      ],
+      "designers": [
+        "Klaus-Jürgen Wrede"
+      ]
+    },
+    {
+      "id": "410656",
+      "name": "The Last Lighthouse: Strange Shores",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2024-06-02 10:28:04",
+      "lastmodified": "2024-06-02 10:28:04",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/fZov3MafZNIT6LHVB8v7aw__thumb/img/Lu_4qbq4p0qFLeBX4GouSWBwd_Y=/fit-in/200x150/filters:strip_icc()/pic8115469.png",
+      "link": "https://boardgamegeek.com/thing/410656",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "N/A",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.25455",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Horror",
+        "Print & Play"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "410657",
+      "name": "The Last Lighthouse: Long Nights",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2024-06-02 10:28:01",
+      "lastmodified": "2024-06-02 10:28:01",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/4du65qY6LRC-vRahSM76-A__thumb/img/JHD6xoVEfVqLOWUabssb8F4CMFo=/fit-in/200x150/filters:strip_icc()/pic8115468.png",
+      "link": "https://boardgamegeek.com/thing/410657",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.21864",
+      "averageWeight": "1.6667",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Horror",
+        "Print & Play"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "378117",
+      "name": "The Last Lighthouse",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-06-02 10:27:41",
+      "lastmodified": "2024-06-02 10:27:41",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/_Reifl4-lWnuepxut_b6uw__thumb/img/TRjtsKU5PJydxx-pkfhjvSTKiuw=/fit-in/200x150/filters:strip_icc()/pic7803070.png",
+      "link": "https://boardgamegeek.com/thing/378117",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "7.35837",
+      "averageWeight": "1.5714",
+      "boardGameRank": "5181",
+      "mechanics": [
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Horror",
+        "Print & Play"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "383055",
+      "name": "The Royal Limited: Second Line",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2024-05-18 11:26:53",
+      "lastmodified": "2024-05-18 11:26:54",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/ezVvh9wle4_KUISA2Gksbg__thumb/img/FTZzIbk8J-4IQIQlqc-TpHRxfgU=/fit-in/200x150/filters:strip_icc()/pic8107209.png",
+      "link": "https://boardgamegeek.com/thing/383055",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "N/A",
+      "playingTime": "15",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "15",
+      "averageRating": "7.10417",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Trains"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "383054",
+      "name": "The Royal Limited: Murder On Board",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2024-05-18 11:26:41",
+      "lastmodified": "2024-05-18 11:26:41",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/yS6oxWjm33bbTk9f6f6aew__thumb/img/0LxeyKdj1UydJGfGEnYEYlhDfIw=/fit-in/200x150/filters:strip_icc()/pic8107210.png",
+      "link": "https://boardgamegeek.com/thing/383054",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "N/A",
+      "playingTime": "15",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "15",
+      "averageRating": "6.98519",
+      "averageWeight": "2.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Trains"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "391086",
+      "name": "Everything Ever",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2024-02-27 13:55:02",
+      "lastmodified": "2024-04-02 14:30:20",
+      "myrating": 6,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/RUNCSL-F46NiJKGZEfGJcQ__thumb/img/89OB-7lClaJm4BbzxyczzWWYllA=/fit-in/200x150/filters:strip_icc()/pic7596302.png",
+      "link": "https://boardgamegeek.com/thing/391086",
+      "minPlayers": "2",
+      "maxPlayers": "10",
+      "bestAtCount": "4, 6",
+      "playingTime": "60",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "60",
+      "averageRating": "6.29517",
+      "averageWeight": "1",
+      "boardGameRank": "11744",
+      "mechanics": [
+        "Hand Management"
+      ],
+      "categories": [
+        "Card Game",
+        "Party Game",
+        "Trivia"
+      ],
+      "designers": [
+        "Nathan Thornton"
+      ]
+    },
+    {
+      "id": "128462",
+      "name": "Cthulhu Gloom: Unpleasant Dreams",
+      "yearPublished": "2012",
+      "type": "boardgameexpansion",
+      "postdate": "2012-12-26 18:48:31",
+      "lastmodified": "2024-03-27 12:18:08",
+      "myrating": 4,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Q9pjpgYBbeNbCfAmsu3eUA__thumb/img/N_4Sw_QBi6Njky9o98aS7EiCAf8=/fit-in/200x150/filters:strip_icc()/pic1379540.jpg",
+      "link": "https://boardgamegeek.com/thing/128462",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "3, 4",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "6.77571",
+      "averageWeight": "2.4286",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Role Playing",
+        "Storytelling",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror"
+      ],
+      "designers": [
+        "Keith Baker"
+      ]
+    },
+    {
+      "id": "109141",
+      "name": "Kingdom Builder: Capitol",
+      "yearPublished": "2011",
+      "type": "boardgameexpansion",
+      "postdate": "2013-02-20 12:28:14",
+      "lastmodified": "2024-03-27 12:17:50",
+      "myrating": 7,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/CpEESO-OMjezTPMVyeLddQ__thumb/img/KF0ha39I0cUrLUki0PyvAlvBTJM=/fit-in/200x150/filters:strip_icc()/pic1102422.jpg",
+      "link": "https://boardgamegeek.com/thing/109141",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "6.92871",
+      "averageWeight": "1.7812",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Enclosure",
+        "Grid Movement",
+        "Modular Board",
+        "Network and Route Building"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Medieval",
+        "Territory Building"
+      ],
+      "designers": [
+        "Donald X. Vaccarino"
+      ]
+    },
+    {
+      "id": "137396",
+      "name": "Kingdom Builder: Crossroads",
+      "yearPublished": "2013",
+      "type": "boardgameexpansion",
+      "postdate": "2013-02-18 17:27:36",
+      "lastmodified": "2024-03-27 12:17:48",
+      "myrating": 7,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/rqpI-ulKugcZDqstHEXBow__thumb/img/wgOlz14Kotu3Hqmh-EDxO41mYKM=/fit-in/200x150/filters:strip_icc()/pic1550248.jpg",
+      "link": "https://boardgamegeek.com/thing/137396",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "7.58566",
+      "averageWeight": "2.3396",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Enclosure",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Modular Board",
+        "Network and Route Building",
+        "Pattern Building",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Medieval",
+        "Territory Building"
+      ],
+      "designers": [
+        "Donald X. Vaccarino"
+      ]
+    },
+    {
+      "id": "122316",
+      "name": "Small World: Realms",
+      "yearPublished": "2012",
+      "type": "boardgameexpansion",
+      "postdate": "2012-03-16 14:05:31",
+      "lastmodified": "2024-03-27 12:17:28",
+      "myrating": 5,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/L2OVDTRECXkXObc5h75iMQ__thumb/img/s_Tijw_GwODEHDrS1oHyL4tEF1E=/fit-in/200x150/filters:strip_icc()/pic1263419.jpg",
+      "link": "https://boardgamegeek.com/thing/122316",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 5",
+      "playingTime": "80",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "80",
+      "averageRating": "7.30604",
+      "averageWeight": "2.4156",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Dice Rolling",
+        "Modular Board",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Civilization",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Territory Building"
+      ],
+      "designers": [
+        "Philippe Keyaerts"
+      ]
+    },
+    {
+      "id": "5405",
+      "name": "Carcassonne: Expansion 2 – Traders & Builders",
+      "yearPublished": "2003",
+      "type": "boardgameexpansion",
+      "postdate": "2010-11-14 20:58:58",
+      "lastmodified": "2024-03-27 12:17:24",
+      "myrating": 7,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/BaBb91gSf9Lu7CA0Pa9sOg__thumb/img/wKxqmMudEz0HaM7MEDKLbTVa1qE=/fit-in/200x150/filters:strip_icc()/pic2659946.jpg",
+      "link": "https://boardgamegeek.com/thing/5405",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "2, 3",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.61627",
+      "averageWeight": "2.0592",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Set Collection",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "City Building",
+        "Medieval",
+        "Territory Building"
+      ],
+      "designers": [
+        "Klaus-Jürgen Wrede"
+      ]
+    },
+    {
+      "id": "84183",
+      "name": "Small World: Necromancer Island",
+      "yearPublished": "2010",
+      "type": "boardgameexpansion",
+      "postdate": "2010-10-18 12:54:39",
+      "lastmodified": "2024-03-27 12:17:20",
+      "myrating": 5,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/lhCDo5Dg7Nv8ZBOQKbBbfg__thumb/img/VhZ5bcD_2527K0hYK-cDBviEi24=/fit-in/200x150/filters:strip_icc()/pic817425.jpg",
+      "link": "https://boardgamegeek.com/thing/84183",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "80",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "80",
+      "averageRating": "6.7141",
+      "averageWeight": "2.1882",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Dice Rolling",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Civilization",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Territory Building"
+      ],
+      "designers": [
+        "Philippe Keyaerts"
+      ]
+    },
+    {
+      "id": "81618",
+      "name": "Small World: Be Not Afraid...",
+      "yearPublished": "2010",
+      "type": "boardgameexpansion",
+      "postdate": "2010-10-18 12:54:30",
+      "lastmodified": "2024-03-27 12:17:18",
+      "myrating": 5,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/XxDZujpe4AR6yBkCHOS2JA__thumb/img/8RmZYOboSYpwfBQ4ELq6TlJq6j0=/fit-in/200x150/filters:strip_icc()/pic1134493.jpg",
+      "link": "https://boardgamegeek.com/thing/81618",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "80",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "80",
+      "averageRating": "7.58763",
+      "averageWeight": "2.2705",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Dice Rolling",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Territory Building"
+      ],
+      "designers": [
+        "Philippe Keyaerts"
+      ]
+    },
+    {
+      "id": "71818",
+      "name": "Small World: Tales and Legends",
+      "yearPublished": "2010",
+      "type": "boardgameexpansion",
+      "postdate": "2010-10-18 12:54:18",
+      "lastmodified": "2024-03-27 12:17:16",
+      "myrating": 5,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/IfhSwwtUnufE_4vTESepeQ__thumb/img/xOQhuhldN2Lio9l1Jh7WESlZe7Y=/fit-in/200x150/filters:strip_icc()/pic728313.jpg",
+      "link": "https://boardgamegeek.com/thing/71818",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4, 5",
+      "playingTime": "80",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "80",
+      "averageRating": "7.22369",
+      "averageWeight": "2.1677",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Auction / Bidding",
+        "Dice Rolling",
+        "Events",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Territory Building"
+      ],
+      "designers": [
+        "Philippe Keyaerts",
+        "Laurent Verrier"
+      ]
+    },
+    {
+      "id": "20247",
+      "name": "The Settlers of Catan: The Great River",
+      "yearPublished": "2005",
+      "type": "boardgameexpansion",
+      "postdate": "2009-05-17 19:39:59",
+      "lastmodified": "2024-03-27 12:17:14",
+      "myrating": 6,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/q1PVlv9lFb7Xh_cuxbkN1A__thumb/img/yG578uSd3CVoXh5n3qIXd7JQGnM=/fit-in/200x150/filters:strip_icc()/pic162701.jpg",
+      "link": "https://boardgamegeek.com/thing/20247",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "3, 4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.07231",
+      "averageWeight": "1.8734",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Modular Board",
+        "Trading"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Negotiation"
+      ],
+      "designers": [
+        "Klaus Teuber",
+        "Guido Teuber"
+      ]
+    },
+    {
+      "id": "140934",
+      "name": "Arboretum",
+      "yearPublished": "2015",
+      "type": "boardgame",
+      "postdate": "2021-12-17 15:20:55",
+      "lastmodified": "2024-03-27 12:17:04",
+      "myrating": 7,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/XYOn10oXBrDqHySf0jvnyQ__thumb/img/X6V1M2nZOinTgwE0KIBfup_QrCw=/fit-in/200x150/filters:strip_icc()/pic4172124.png",
+      "link": "https://boardgamegeek.com/thing/140934",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.28422",
+      "averageWeight": "2.126",
+      "boardGameRank": "377",
+      "mechanics": [
+        "Hand Management",
+        "Pattern Building",
+        "Set Collection",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Card Game",
+        "Number"
+      ],
+      "designers": [
+        "Dan Cassar"
+      ]
+    },
+    {
+      "id": "332290",
+      "name": "Stardew Valley: The Board Game",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2021-11-10 10:31:07",
+      "lastmodified": "2024-03-27 12:17:00",
+      "myrating": 8,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/X1oNtZV5H5BxtxlsTGIsHA__thumb/img/wvQPqF45KlfnRB-Z4ESK9VXzZMM=/fit-in/200x150/filters:strip_icc()/pic6037615.png",
+      "link": "https://boardgamegeek.com/thing/332290",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "200",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "200",
+      "averageRating": "7.40245",
+      "averageWeight": "2.7037",
+      "boardGameRank": "1097",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Die Icon Resolution",
+        "Events",
+        "Point to Point Movement",
+        "Random Production",
+        "Solo / Solitaire Game",
+        "Variable Set-up",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Farming",
+        "Video Game Theme"
+      ],
+      "designers": [
+        "Eric Barone",
+        "Cole Medeiros"
+      ]
+    },
+    {
+      "id": "117793",
+      "name": "Kingdom Builder: Nomads",
+      "yearPublished": "2012",
+      "type": "boardgameexpansion",
+      "postdate": "2013-02-18 17:25:22",
+      "lastmodified": "2024-03-27 12:15:48",
+      "myrating": 7,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/vU9Qz3FgABkPweg9uEJuyQ__thumb/img/JLkC1qZG2dbOml34u0R0xc_Xmik=/fit-in/200x150/filters:strip_icc()/pic1200165.jpg",
+      "link": "https://boardgamegeek.com/thing/117793",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "3, 4",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "7.3395",
+      "averageWeight": "2.2419",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Enclosure",
+        "Grid Movement",
+        "Modular Board",
+        "Network and Route Building"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Medieval",
+        "Territory Building"
+      ],
+      "designers": [
+        "Donald X. Vaccarino"
+      ]
+    },
+    {
+      "id": "97786",
+      "name": "Small World Underground",
+      "yearPublished": "2011",
+      "type": "boardgame",
+      "postdate": "2011-05-15 20:32:46",
+      "lastmodified": "2024-03-27 12:15:39",
+      "myrating": 6,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/qFmyurPNiCM8UPtP38mQpg__thumb/img/wLG6hiX2QNkrZCG5bnZqLJB6Pio=/fit-in/200x150/filters:strip_icc()/pic979889.jpg",
+      "link": "https://boardgamegeek.com/thing/97786",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "90",
+      "averageRating": "7.23006",
+      "averageWeight": "2.592",
+      "boardGameRank": "586",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Dice Rolling",
+        "King of the Hill",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Fantasy",
+        "Fighting",
+        "Territory Building"
+      ],
+      "designers": [
+        "Philippe Keyaerts"
+      ]
+    },
+    {
+      "id": "158899",
+      "name": "Colt Express",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2015-12-08 21:21:28",
+      "lastmodified": "2024-03-27 12:15:15",
+      "myrating": 7,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__thumb/img/zcjkqn_HYDIIyVAZaAxJIkurQRg=/fit-in/200x150/filters:strip_icc()/pic2869710.jpg",
+      "link": "https://boardgamegeek.com/thing/158899",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "5, 6",
+      "playingTime": "40",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "40",
+      "averageRating": "7.09415",
+      "averageWeight": "1.8348",
+      "boardGameRank": "519",
+      "mechanics": [
+        "Action Queue",
+        "Hand Management",
+        "Memory",
+        "Programmed Movement",
+        "Take That",
+        "Turn Order: Progressive",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "American West",
+        "Fighting",
+        "Trains"
+      ],
+      "designers": [
+        "Christophe Raimbault"
+      ]
+    },
+    {
+      "id": "352574",
+      "name": "Fit to Print",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2023-08-13 14:13:27",
+      "lastmodified": "2024-03-18 20:44:40",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/MbLJUbvoRI_AS-KGfIkmNQ__thumb/img/c2yxjj2CSXC6Id97EIr3-H4Plpo=/fit-in/200x150/filters:strip_icc()/pic7161032.jpg",
+      "link": "https://boardgamegeek.com/thing/352574",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "7.39219",
+      "averageWeight": "2.0426",
+      "boardGameRank": "1248",
+      "mechanics": [
+        "Closed Drafting",
+        "End Game Bonuses",
+        "Grid Coverage",
+        "Pattern Building",
+        "Real-Time",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Tile Placement",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Animals",
+        "Puzzle",
+        "Real-time"
+      ],
+      "designers": [
+        "Peter McPherson"
+      ]
+    },
+    {
+      "id": "362976",
+      "name": "Beacon Patrol",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2023-10-05 09:30:30",
+      "lastmodified": "2024-03-18 20:44:20",
+      "myrating": null,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/9hDNHVLmorkaytg2ztLM6w__thumb/img/2dUdMpeeHEbAFEM9rOJOmkf_kjs=/fit-in/200x150/filters:strip_icc()/pic7439416.jpg",
+      "link": "https://boardgamegeek.com/thing/362976",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.17735",
+      "averageWeight": "1.3415",
+      "boardGameRank": "2534",
+      "mechanics": [
+        "Cooperative Game",
+        "Grid Movement",
+        "Modular Board",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Exploration",
+        "Nautical"
+      ],
+      "designers": [
+        "Torben Ratzlaff"
+      ]
+    },
+    {
+      "id": "311900",
+      "name": "Votes for Women",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2022-12-24 17:58:55",
+      "lastmodified": "2024-01-04 12:23:39",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/RotpVPn98B5sDSS8VTzTJQ__thumb/img/WZ5C_84yftaJFU3oprFzDHIRgV0=/fit-in/200x150/filters:strip_icc()/pic6430938.jpg",
+      "link": "https://boardgamegeek.com/thing/311900",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "75",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "75",
+      "averageRating": "7.64441",
+      "averageWeight": "2.3784",
+      "boardGameRank": "2828",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Campaign / Battle Card Driven",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Political",
+        "Post-Napoleonic"
+      ],
+      "designers": [
+        "Tory Brown"
+      ]
+    },
+    {
+      "id": "195314",
+      "name": "Herbaceous",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2023-07-08 09:07:56",
+      "lastmodified": "2023-12-14 22:14:48",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/0HHqYFhJvOwk8Z0Dt-EvTA__thumb/img/EwiBLR6QywbISk0aGe-Vya4zXws=/fit-in/200x150/filters:strip_icc()/pic7083274.jpg",
+      "link": "https://boardgamegeek.com/thing/195314",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "20",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "20",
+      "averageRating": "7.00651",
+      "averageWeight": "1.1988",
+      "boardGameRank": "1086",
+      "mechanics": [
+        "Push Your Luck",
+        "Set Collection",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Print & Play"
+      ],
+      "designers": [
+        "Eduardo Baraf",
+        "Steve Finn"
+      ]
+    },
+    {
+      "id": "288513",
+      "name": "Tranquility",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2021-05-17 09:47:39",
+      "lastmodified": "2023-12-14 22:14:26",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__thumb/img/8YdbYqiyOw64OzqvXpWGzHb2Xr0=/fit-in/200x150/filters:strip_icc()/pic6152802.png",
+      "link": "https://boardgamegeek.com/thing/288513",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "20",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "20",
+      "averageRating": "6.96544",
+      "averageWeight": "1.3523",
+      "boardGameRank": "1574",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Hand Management",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Card Game",
+        "Nautical",
+        "Number"
+      ],
+      "designers": [
+        "James Emmerson"
+      ]
+    },
+    {
+      "id": "352591",
+      "name": "The Royal Limited",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2022-07-25 15:35:31",
+      "lastmodified": "2023-10-20 10:33:14",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/AMrQErlzUmsE8ac8qxGe7w__thumb/img/mNjJtAc0hnhMLt6yjNPAIrtjf-8=/fit-in/200x150/filters:strip_icc()/pic7422259.png",
+      "link": "https://boardgamegeek.com/thing/352591",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "7.0877",
+      "averageWeight": "1.8",
+      "boardGameRank": "6066",
+      "mechanics": [
+        "Hand Management",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Print & Play",
+        "Trains"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "198773",
+      "name": "Codenames: Pictures",
+      "yearPublished": "2016",
+      "type": "boardgame",
+      "postdate": "2021-12-06 12:55:31",
+      "lastmodified": "2023-09-19 13:13:04",
+      "myrating": 6,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__thumb/img/6-1EOESE196KVKw4xOJ5rge56j0=/fit-in/200x150/filters:strip_icc()/pic3476592.jpg",
+      "link": "https://boardgamegeek.com/thing/198773",
+      "minPlayers": "2",
+      "maxPlayers": "8",
+      "bestAtCount": "6",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.18294",
+      "averageWeight": "1.2425",
+      "boardGameRank": "466",
+      "mechanics": [
+        "Communication Limits",
+        "Memory",
+        "Push Your Luck",
+        "Team-Based Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Deduction",
+        "Party Game",
+        "Spies / Secret Agents"
+      ],
+      "designers": [
+        "Vlaada Chvátil"
+      ]
+    },
+    {
+      "id": "2842",
+      "name": "TransAmerica",
+      "yearPublished": "2001",
+      "type": "boardgame",
+      "postdate": "2010-01-02 20:08:22",
+      "lastmodified": "2022-12-20 09:07:50",
+      "myrating": 9,
+      "numplays": "6",
+      "thumbnail": "https://cf.geekdo-images.com/yyyoLviq8AJABj7T7V5pgg__thumb/img/J2InPiyNrRDiTLCNNvh1TZDJpOM=/fit-in/200x150/filters:strip_icc()/pic1178136.jpg",
+      "link": "https://boardgamegeek.com/thing/2842",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "5, 6",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.68712",
+      "averageWeight": "1.3461",
+      "boardGameRank": "1416",
+      "mechanics": [
+        "Connections",
+        "Race",
+        "Score-and-Reset Game"
+      ],
+      "categories": [
+        "Trains"
+      ],
+      "designers": [
+        "Franz-Benno Delonge"
+      ]
+    },
+    {
+      "id": "224037",
+      "name": "Codenames: Duet",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2017-10-08 22:36:20",
+      "lastmodified": "2022-11-07 12:58:20",
+      "myrating": 7,
+      "numplays": "4",
+      "thumbnail": "https://cf.geekdo-images.com/0d1EaMVmAiIBROI2QstFSQ__thumb/img/J-thZd7Pbbh1CE8QHcvEE4w8FBE=/fit-in/200x150/filters:strip_icc()/pic3596681.jpg",
+      "link": "https://boardgamegeek.com/thing/224037",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "7.43031",
+      "averageWeight": "1.363",
+      "boardGameRank": "255",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Memory",
+        "Push Your Luck"
+      ],
+      "categories": [
+        "Card Game",
+        "Deduction",
+        "Spies / Secret Agents",
+        "Word Game"
+      ],
+      "designers": [
+        "Vlaada Chvátil",
+        "Scot Eaton"
+      ]
+    },
+    {
+      "id": "46255",
+      "name": "Campaign Manager 2008",
+      "yearPublished": "2009",
+      "type": "boardgame",
+      "postdate": "2022-10-25 12:23:03",
+      "lastmodified": "2022-10-25 12:23:03",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/w2AZs8NYbZyGIdjPI7B2WA__thumb/img/o5rmrdKnm4CVBJNqRQ0LawBRNvo=/fit-in/200x150/filters:strip_icc()/pic565079.jpg",
+      "link": "https://boardgamegeek.com/thing/46255",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "6.6336",
+      "averageWeight": "2.2118",
+      "boardGameRank": "2343",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Hand Management",
+        "Open Drafting",
+        "Simulation"
+      ],
+      "categories": [
+        "Card Game",
+        "Educational",
+        "Political"
+      ],
+      "designers": [
+        "Christian Leonhard",
+        "Jason Matthews"
+      ]
+    },
+    {
+      "id": "173341",
+      "name": "Loopin' Chewie",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2021-12-06 12:56:30",
+      "lastmodified": "2022-07-25 15:39:41",
+      "myrating": 5,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/zIZD0L3xXX-jYSLgCRCsEw__thumb/img/PwNFRhKRMsUl-03tp39EBYrpjgk=/fit-in/200x150/filters:strip_icc()/pic2821272.jpg",
+      "link": "https://boardgamegeek.com/thing/173341",
+      "minPlayers": "2",
+      "maxPlayers": "3",
+      "bestAtCount": "3",
+      "playingTime": "15",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "15",
+      "averageRating": "6.3344",
+      "averageWeight": "1",
+      "boardGameRank": "3621",
+      "mechanics": [
+        "Player Elimination"
+      ],
+      "categories": [
+        "Action / Dexterity",
+        "Aviation / Flight",
+        "Children's Game",
+        "Electronic",
+        "Movies / TV / Radio theme",
+        "Real-time"
+      ],
+      "designers": [
+        "(Uncredited)"
+      ]
+    },
+    {
+      "id": "37628",
+      "name": "Haggis",
+      "yearPublished": "2010",
+      "type": "boardgame",
+      "postdate": "2013-04-14 11:18:19",
+      "lastmodified": "2022-02-22 11:16:26",
+      "myrating": 5,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/wirPJ4tfSDafd-TNhVr7eA__thumb/img/7GeVUG6MUHjKYAOOofU2zaeuLUc=/fit-in/200x150/filters:strip_icc()/pic7663518.png",
+      "link": "https://boardgamegeek.com/thing/37628",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "7.01488",
+      "averageWeight": "2.1096",
+      "boardGameRank": "1161",
+      "mechanics": [
+        "Betting and Bluffing",
+        "Hand Management",
+        "Ladder Climbing"
+      ],
+      "categories": [
+        "Card Game"
+      ],
+      "designers": [
+        "Sean Ross (I)"
+      ]
+    },
+    {
+      "id": "68942",
+      "name": "Munchkin: Marked For Death",
+      "yearPublished": "2010",
+      "type": "boardgameexpansion",
+      "postdate": "2011-12-24 19:22:01",
+      "lastmodified": "2022-02-22 11:15:57",
+      "myrating": 4,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/jE4Zq2F8IXygH11gN_NCYQ__thumb/img/7WJZVpjkPzYsg6Hy6e-fyiLTA8Y=/fit-in/200x150/filters:strip_icc()/pic2600704.jpg",
+      "link": "https://boardgamegeek.com/thing/68942",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "6.65798",
+      "averageWeight": "1.9333",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Trading",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+      ],
+      "designers": [
+        "Andrew Hackard"
+      ]
+    },
+    {
+      "id": "92206",
+      "name": "Fluxx: BoardGameGeek Expansion",
+      "yearPublished": "2011",
+      "type": "boardgameexpansion",
+      "postdate": "2011-11-22 18:43:07",
+      "lastmodified": "2022-02-22 11:15:54",
+      "myrating": 4,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Ib26Fe7hAEa9xftYkfi9tw__thumb/img/73HIFfT2SXckDTO7LObvPvZ2UxU=/fit-in/200x150/filters:strip_icc()/pic913985.jpg",
+      "link": "https://boardgamegeek.com/thing/92206",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "N/A",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.3293",
+      "averageWeight": "1.4286",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Set Collection"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Andrew Looney"
+      ]
+    },
+    {
+      "id": "80571",
+      "name": "Munchkin Reloaded!",
+      "yearPublished": "2010",
+      "type": "boardgameexpansion",
+      "postdate": "2011-12-24 19:21:13",
+      "lastmodified": "2022-02-22 11:15:52",
+      "myrating": 4,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/7rCeyARowlllpF_aA6P6Sg__thumb/img/KRRsz-K4eBW2FtkaAFxnKRwXars=/fit-in/200x150/filters:strip_icc()/pic813486.jpg",
+      "link": "https://boardgamegeek.com/thing/80571",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.64774",
+      "averageWeight": "2.3077",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Trading",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "95234",
+      "name": "Cthulhu Gloom",
+      "yearPublished": "2011",
+      "type": "boardgame",
+      "postdate": "2011-08-19 22:08:24",
+      "lastmodified": "2022-02-22 11:15:48",
+      "myrating": 4,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/0NIPJMlzch7WpotTjqGykw__thumb/img/ujk5D2Jhrr2aEvR6coTP9ePAhRQ=/fit-in/200x150/filters:strip_icc()/pic1045316.jpg",
+      "link": "https://boardgamegeek.com/thing/95234",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "6.38253",
+      "averageWeight": "1.7901",
+      "boardGameRank": "3734",
+      "mechanics": [
+        "Hand Management",
+        "Storytelling",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Fantasy",
+        "Horror"
+      ],
+      "designers": [
+        "Keith Baker"
+      ]
+    },
+    {
+      "id": "301628",
+      "name": "Codenames: Blizzard Edition",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2021-05-29 10:58:48",
+      "lastmodified": "2022-02-22 11:08:34",
+      "myrating": 4,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/DpDmqJnXlVEy8zvZpsq5-A__thumb/img/hxKPPxIowA-hW-O_lEw1-OThavI=/fit-in/200x150/filters:strip_icc()/pic5228682.jpg",
+      "link": "https://boardgamegeek.com/thing/301628",
+      "minPlayers": "2",
+      "maxPlayers": "8",
+      "bestAtCount": "8",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "6.96429",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Communication Limits",
+        "Memory",
+        "Team-Based Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Deduction",
+        "Party Game",
+        "Video Game Theme",
+        "Word Game"
+      ],
+      "designers": [
+        "Vlaada Chvátil"
+      ]
+    },
+    {
+      "id": "334011",
+      "name": "A Gentle Rain",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2021-05-16 18:18:56",
+      "lastmodified": "2022-02-22 11:08:26",
+      "myrating": 8,
+      "numplays": "25",
+      "thumbnail": "https://cf.geekdo-images.com/EqqXUmjIuGspHNwt1UnDEQ__thumb/img/qKGfLe9Y83j2-UEzfRy1bIbNosI=/fit-in/200x150/filters:strip_icc()/pic7769466.png",
+      "link": "https://boardgamegeek.com/thing/334011",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.66483",
+      "averageWeight": "1.1458",
+      "boardGameRank": "2032",
+      "mechanics": [
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Puzzle"
+      ],
+      "designers": [
+        "Kevin Wilson"
+      ]
+    },
+    {
+      "id": "180198",
+      "name": "Rolling America",
+      "yearPublished": "2015",
+      "type": "boardgame",
+      "postdate": "2016-04-17 13:46:58",
+      "lastmodified": "2022-02-22 11:08:11",
+      "myrating": 6,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/oxmhfPXiAZCnWQ2nBw2fpA__thumb/img/3OxxHpSUFHDMHAFHRJyKarTU12Y=/fit-in/200x150/filters:strip_icc()/pic2736928.jpg",
+      "link": "https://boardgamegeek.com/thing/180198",
+      "minPlayers": "1",
+      "maxPlayers": "99",
+      "bestAtCount": "2, 3",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.33456",
+      "averageWeight": "1.5161",
+      "boardGameRank": "3669",
+      "mechanics": [
+        "Dice Rolling",
+        "Paper-and-Pencil",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Dice",
+        "Number",
+        "Puzzle"
+      ],
+      "designers": [
+        "Hisashi Hayashi"
+      ]
+    },
+    {
+      "id": "113289",
+      "name": "Snake Oil",
+      "yearPublished": "2010",
+      "type": "boardgame",
+      "postdate": "2015-10-07 20:39:46",
+      "lastmodified": "2022-02-22 11:07:50",
+      "myrating": 6,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/q-Sdv383LKSBIPOrSRb5Cg__thumb/img/IgIpwCXKODgKV152brI3nH5Rwag=/fit-in/200x150/filters:strip_icc()/pic7617053.jpg",
+      "link": "https://boardgamegeek.com/thing/113289",
+      "minPlayers": "3",
+      "maxPlayers": "10",
+      "bestAtCount": "5, 6",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "6.66495",
+      "averageWeight": "1.1383",
+      "boardGameRank": "2096",
+      "mechanics": [
+        "Acting",
+        "Hand Management",
+        "Player Judge",
+        "Storytelling"
+      ],
+      "categories": [
+        "Card Game",
+        "Humor",
+        "Party Game"
+      ],
+      "designers": [
+        "Jeff Ochs"
+      ]
+    },
+    {
+      "id": "181304",
+      "name": "Mysterium",
+      "yearPublished": "2015",
+      "type": "boardgame",
+      "postdate": "2015-10-07 20:32:03",
+      "lastmodified": "2022-02-22 11:07:47",
+      "myrating": 8,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__thumb/img/NAl-NrSAmWvklSVr3hKrSwiszNA=/fit-in/200x150/filters:strip_icc()/pic2601683.jpg",
+      "link": "https://boardgamegeek.com/thing/181304",
+      "minPlayers": "2",
+      "maxPlayers": "7",
+      "bestAtCount": "5, 6",
+      "playingTime": "42",
+      "minPlayingTime": "42",
+      "maxPlayingTime": "42",
+      "averageRating": "7.21008",
+      "averageWeight": "1.894",
+      "boardGameRank": "401",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Deduction",
+        "Finale Ending",
+        "Hand Management",
+        "Pattern Recognition",
+        "Storytelling",
+        "Variable Player Powers",
+        "Voting"
+      ],
+      "categories": [
+        "Deduction",
+        "Horror",
+        "Murder / Mystery",
+        "Party Game"
+      ],
+      "designers": [
+        "Oleksandr Nevskiy",
+        "Oleg Sidorenko"
+      ]
+    },
+    {
+      "id": "178900",
+      "name": "Codenames",
+      "yearPublished": "2015",
+      "type": "boardgame",
+      "postdate": "2015-10-07 20:24:42",
+      "lastmodified": "2022-02-22 11:07:44",
+      "myrating": 7,
+      "numplays": "18",
+      "thumbnail": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg",
+      "link": "https://boardgamegeek.com/thing/178900",
+      "minPlayers": "2",
+      "maxPlayers": "8",
+      "bestAtCount": "6, 8",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.53764",
+      "averageWeight": "1.2611",
+      "boardGameRank": "146",
+      "mechanics": [
+        "Communication Limits",
+        "Memory",
+        "Push Your Luck",
+        "Team-Based Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Deduction",
+        "Party Game",
+        "Spies / Secret Agents",
+        "Word Game"
+      ],
+      "designers": [
+        "Vlaada Chvátil"
+      ]
+    },
+    {
+      "id": "166384",
+      "name": "Spyfall",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2015-10-07 20:24:26",
+      "lastmodified": "2022-02-22 11:07:41",
+      "myrating": 6,
+      "numplays": "5",
+      "thumbnail": "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__thumb/img/sPJVWjzGcEpiseZGdoD6HNR9nRI=/fit-in/200x150/filters:strip_icc()/pic2453926.jpg",
+      "link": "https://boardgamegeek.com/thing/166384",
+      "minPlayers": "3",
+      "maxPlayers": "8",
+      "bestAtCount": "6",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.76458",
+      "averageWeight": "1.2374",
+      "boardGameRank": "985",
+      "mechanics": [
+        "Acting",
+        "Communication Limits",
+        "Memory",
+        "Role Playing",
+        "Roles with Asymmetric Information",
+        "Targeted Clues",
+        "Traitor Game",
+        "Voting"
+      ],
+      "categories": [
+        "Bluffing",
+        "Deduction",
+        "Humor",
+        "Party Game",
+        "Spies / Secret Agents"
+      ],
+      "designers": [
+        "Alexandr Ushan"
+      ]
+    },
+    {
+      "id": "160851",
+      "name": "Lanterns: The Harvest Festival",
+      "yearPublished": "2015",
+      "type": "boardgame",
+      "postdate": "2015-08-10 08:27:29",
+      "lastmodified": "2022-02-22 11:07:35",
+      "myrating": 7,
+      "numplays": "4",
+      "thumbnail": "https://cf.geekdo-images.com/JmY4nVWwW98qEn0NRbKdTw__thumb/img/qQuRUZQAineOCl4abLvZgPjnqTE=/fit-in/200x150/filters:strip_icc()/pic2372790.png",
+      "link": "https://boardgamegeek.com/thing/160851",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.86445",
+      "averageWeight": "1.5451",
+      "boardGameRank": "1006",
+      "mechanics": [
+        "Hand Management",
+        "Pattern Building",
+        "Set Collection",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy"
+      ],
+      "designers": [
+        "Christopher Chung"
+      ]
+    },
+    {
+      "id": "66171",
+      "name": "Dragonheart",
+      "yearPublished": "2010",
+      "type": "boardgame",
+      "postdate": "2014-05-24 20:08:09",
+      "lastmodified": "2022-02-22 11:07:11",
+      "myrating": 7,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/zfEBn2RLGIlvTHGE-pSsCQ__thumb/img/N2ZqQofBI2XhW9JRnJ-Vxb2AaXM=/fit-in/200x150/filters:strip_icc()/pic829248.jpg",
+      "link": "https://boardgamegeek.com/thing/66171",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.49556",
+      "averageWeight": "1.3537",
+      "boardGameRank": "2391",
+      "mechanics": [
+        "Hand Management"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Fantasy",
+        "Fighting"
+      ],
+      "designers": [
+        "Rüdiger Dorn"
+      ]
+    },
+    {
+      "id": "5825",
+      "name": "Paris Paris",
+      "yearPublished": "2003",
+      "type": "boardgame",
+      "postdate": "2014-05-24 20:08:00",
+      "lastmodified": "2022-02-22 11:07:07",
+      "myrating": 7,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/FANN50qJ5O2kDm3E66NIwQ__thumb/img/0X6ASX3koTt4NNmZpMAYHjrxsH8=/fit-in/200x150/filters:strip_icc()/pic849528.jpg",
+      "link": "https://boardgamegeek.com/thing/5825",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "6.19945",
+      "averageWeight": "1.9609",
+      "boardGameRank": "5110",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Network and Route Building"
+      ],
+      "categories": [
+        "Transportation",
+        "Travel"
+      ],
+      "designers": [
+        "Michael Schacht"
+      ]
+    },
+    {
+      "id": "147949",
+      "name": "One Night Ultimate Werewolf",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2014-01-16 19:46:48",
+      "lastmodified": "2022-02-22 11:06:57",
+      "myrating": 10,
+      "numplays": "54",
+      "thumbnail": "https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__thumb/img/ZgQsHsvdxXZr4DbMGUBSTArBp3o=/fit-in/200x150/filters:strip_icc()/pic1809823.jpg",
+      "link": "https://boardgamegeek.com/thing/147949",
+      "minPlayers": "3",
+      "maxPlayers": "10",
+      "bestAtCount": "6, 8",
+      "playingTime": "10",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "10",
+      "averageRating": "7.04998",
+      "averageWeight": "1.3767",
+      "boardGameRank": "620",
+      "mechanics": [
+        "Hidden Roles",
+        "Role Playing",
+        "Roles with Asymmetric Information",
+        "Traitor Game",
+        "Variable Player Powers",
+        "Voting"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Deduction",
+        "Horror",
+        "Party Game"
+      ],
+      "designers": [
+        "Ted Alspach",
+        "Akihisa Okui"
+      ]
+    },
+    {
+      "id": "63888",
+      "name": "Innovation",
+      "yearPublished": "2010",
+      "type": "boardgame",
+      "postdate": "2013-10-12 10:42:13",
+      "lastmodified": "2022-02-22 11:06:47",
+      "myrating": 7,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/YBE-vyyYRANWO2NXSQQghg__thumb/img/GmRDNEKangi2w4daNGHCQiH5h_I=/fit-in/200x150/filters:strip_icc()/pic2966859.png",
+      "link": "https://boardgamegeek.com/thing/63888",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "60",
+      "averageRating": "7.30229",
+      "averageWeight": "2.7642",
+      "boardGameRank": "383",
+      "mechanics": [
+        "Follow",
+        "Hand Management",
+        "Layering",
+        "Melding and Splaying",
+        "Take That",
+        "Tech Trees / Tech Tracks"
+      ],
+      "categories": [
+        "Card Game",
+        "Civilization"
+      ],
+      "designers": [
+        "Carl Chudyk"
+      ]
+    },
+    {
+      "id": "134453",
+      "name": "The Little Prince: Make Me a Planet",
+      "yearPublished": "2013",
+      "type": "boardgame",
+      "postdate": "2013-06-20 22:26:47",
+      "lastmodified": "2022-02-22 11:06:41",
+      "myrating": 8,
+      "numplays": "11",
+      "thumbnail": "https://cf.geekdo-images.com/qrSFj8YArH-rUAwpUaTpPw__thumb/img/S8jwzlcCFgk1UwU966TipcK0DQE=/fit-in/200x150/filters:strip_icc()/pic3083205.jpg",
+      "link": "https://boardgamegeek.com/thing/134453",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "25",
+      "minPlayingTime": "25",
+      "maxPlayingTime": "25",
+      "averageRating": "6.89326",
+      "averageWeight": "1.5722",
+      "boardGameRank": "1508",
+      "mechanics": [
+        "Open Drafting",
+        "Set Collection"
+      ],
+      "categories": [
+        "Novel-based",
+        "Territory Building"
+      ],
+      "designers": [
+        "Antoine Bauza",
+        "Bruno Cathala"
+      ]
+    },
+    {
+      "id": "5782",
+      "name": "Coloretto",
+      "yearPublished": "2003",
+      "type": "boardgame",
+      "postdate": "2013-06-08 20:48:28",
+      "lastmodified": "2022-02-22 11:06:37",
+      "myrating": 7,
+      "numplays": "9",
+      "thumbnail": "https://cf.geekdo-images.com/pd3qaiROSgTJ5js_0e4Nhw__thumb/img/SveyL9J1DT0hX4ucYWjRR6DMrbk=/fit-in/200x150/filters:strip_icc()/pic6653783.png",
+      "link": "https://boardgamegeek.com/thing/5782",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.98051",
+      "averageWeight": "1.2737",
+      "boardGameRank": "678",
+      "mechanics": [
+        "Open Drafting",
+        "Push Your Luck",
+        "Set Collection",
+        "Take That"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game"
+      ],
+      "designers": [
+        "Michael Schacht"
+      ]
+    },
+    {
+      "id": "66190",
+      "name": "New York",
+      "yearPublished": "2011",
+      "type": "boardgame",
+      "postdate": "2012-11-23 17:35:30",
+      "lastmodified": "2022-02-22 11:06:15",
+      "myrating": 7,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/RxSSHNFw-9do_xspRdOr4w__thumb/img/_hthJcbjJ2wVNTRo8US92uEhgjc=/fit-in/200x150/filters:strip_icc()/pic1118046.jpg",
+      "link": "https://boardgamegeek.com/thing/66190",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "3",
+      "playingTime": "60",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "60",
+      "averageRating": "6.64818",
+      "averageWeight": "2",
+      "boardGameRank": "5262",
+      "mechanics": [
+        "Hand Management",
+        "Open Drafting",
+        "Set Collection",
+        "Tile Placement"
+      ],
+      "categories": [
+        "City Building"
+      ],
+      "designers": [
+        "Dirk Henn"
+      ]
+    },
+    {
+      "id": "15987",
+      "name": "Arkham Horror",
+      "yearPublished": "2005",
+      "type": "boardgame",
+      "postdate": "2009-02-09 17:03:38",
+      "lastmodified": "2022-02-22 11:05:06",
+      "myrating": 8,
+      "numplays": "4",
+      "thumbnail": "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__thumb/img/6VzhMMmGOxNTCHQ-8iFdn5vINis=/fit-in/200x150/filters:strip_icc()/pic175966.jpg",
+      "link": "https://boardgamegeek.com/thing/15987",
+      "minPlayers": "1",
+      "maxPlayers": "8",
+      "bestAtCount": "4",
+      "playingTime": "240",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "240",
+      "averageRating": "7.23868",
+      "averageWeight": "3.5843",
+      "boardGameRank": "438",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Events",
+        "Finale Ending",
+        "Hand Management",
+        "Lose a Turn",
+        "Point to Point Movement",
+        "Role Playing",
+        "Solo / Solitaire Game",
+        "Stat Check Resolution",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Fighting",
+        "Horror",
+        "Novel-based"
+      ],
+      "designers": [
+        "Richard Launius",
+        "Kevin Wilson"
+      ]
+    },
+    {
+      "id": "10547",
+      "name": "Betrayal at House on the Hill",
+      "yearPublished": "2004",
+      "type": "boardgame",
+      "postdate": "2009-05-27 18:45:28",
+      "lastmodified": "2022-02-22 11:04:53",
+      "myrating": 7,
+      "numplays": "11",
+      "thumbnail": "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__thumb/img/EDOmDbRhLy4za2PHkJ5IbhNxZmk=/fit-in/200x150/filters:strip_icc()/pic5146864.png",
+      "link": "https://boardgamegeek.com/thing/10547",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "5, 6",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.02194",
+      "averageWeight": "2.3966",
+      "boardGameRank": "700",
+      "mechanics": [
+        "Dice Rolling",
+        "Map Addition",
+        "Modular Board",
+        "Player Elimination",
+        "Role Playing",
+        "Storytelling",
+        "Team-Based Game",
+        "Traitor Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Exploration",
+        "Horror",
+        "Miniatures"
+      ],
+      "designers": [
+        "Bruce Glassco",
+        "Rob Daviau",
+        "Bill McQuillan",
+        "Mike Selinker",
+        "Teeuwynn Woodruff"
+      ]
+    },
+    {
+      "id": "40692",
+      "name": "Small World",
+      "yearPublished": "2009",
+      "type": "boardgame",
+      "postdate": "2009-09-18 16:19:02",
+      "lastmodified": "2022-02-22 11:04:49",
+      "myrating": 7,
+      "numplays": "8",
+      "thumbnail": "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__thumb/img/o3Bw9heVDJRgPYlI_PksCvLAgnM=/fit-in/200x150/filters:strip_icc()/pic428828.jpg",
+      "link": "https://boardgamegeek.com/thing/40692",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "80",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "80",
+      "averageRating": "7.20453",
+      "averageWeight": "2.3482",
+      "boardGameRank": "371",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Dice Rolling",
+        "Hidden Victory Points",
+        "Increase Value of Unchosen Resources",
+        "Variable Player Powers",
+        "Variable Set-up",
+        "Victory Points as a Resource"
+      ],
+      "categories": [
+        "Fantasy",
+        "Fighting",
+        "Territory Building"
+      ],
+      "designers": [
+        "Philippe Keyaerts"
+      ]
+    },
+    {
+      "id": "35704",
+      "name": "Shadows over Camelot: Merlin's Company",
+      "yearPublished": "2008",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-09 17:04:38",
+      "lastmodified": "2022-02-22 11:04:46",
+      "myrating": 7,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/6kuoyObh3-Drc_jrprCEdw__thumb/img/KEKPRLkKsKZQaSCZhyHWpxfMyzg=/fit-in/200x150/filters:strip_icc()/pic602659.jpg",
+      "link": "https://boardgamegeek.com/thing/35704",
+      "minPlayers": "3",
+      "maxPlayers": "8",
+      "bestAtCount": "5, 8",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.4241",
+      "averageWeight": "2.5357",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Deduction",
+        "Expansion for Base-game",
+        "Medieval",
+        "Mythology"
+      ],
+      "designers": [
+        "Bruno Cathala",
+        "Serge Laget"
+      ]
+    },
+    {
+      "id": "15062",
+      "name": "Shadows over Camelot",
+      "yearPublished": "2005",
+      "type": "boardgame",
+      "postdate": "2009-02-09 17:04:27",
+      "lastmodified": "2022-02-22 11:04:43",
+      "myrating": 7,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__thumb/img/QOG1zO0uvqxGTDF9V_OewVPMvNE=/fit-in/200x150/filters:strip_icc()/pic70547.jpg",
+      "link": "https://boardgamegeek.com/thing/15062",
+      "minPlayers": "3",
+      "maxPlayers": "7",
+      "bestAtCount": "5, 7",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.10025",
+      "averageWeight": "2.5667",
+      "boardGameRank": "539",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Player Elimination",
+        "Semi-Cooperative Game",
+        "Set Collection",
+        "Team-Based Game",
+        "Traitor Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Bluffing",
+        "Deduction",
+        "Fantasy",
+        "Medieval",
+        "Mythology"
+      ],
+      "designers": [
+        "Bruno Cathala",
+        "Serge Laget"
+      ]
+    },
+    {
+      "id": "296345",
+      "name": "Sherlock Holmes Consulting Detective: The Baker Street Irregulars",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2021-10-18 10:23:54",
+      "lastmodified": "2022-02-22 11:03:59",
+      "myrating": 8,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/demwo7nCkIHbUcFohLwfsQ__thumb/img/1OnuuguBS4FcheU9o0XLTQoGKj8=/fit-in/200x150/filters:strip_icc()/pic5198810.jpg",
+      "link": "https://boardgamegeek.com/thing/296345",
+      "minPlayers": "1",
+      "maxPlayers": "8",
+      "bestAtCount": "2",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "8.22071",
+      "averageWeight": "2.2857",
+      "boardGameRank": "1158",
+      "mechanics": [
+        "Cooperative Game",
+        "Narrative Choice / Paragraph",
+        "Storytelling"
+      ],
+      "categories": [
+        "Deduction",
+        "Murder / Mystery",
+        "Novel-based"
+      ],
+      "designers": [
+        "Dave Neale"
+      ]
+    },
+    {
+      "id": "118247",
+      "name": "Lucky Numbers",
+      "yearPublished": "2012",
+      "type": "boardgame",
+      "postdate": "2021-09-24 23:08:58",
+      "lastmodified": "2022-02-22 11:03:35",
+      "myrating": 6,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/254SXVeOngtdjf8SBFEUNg__thumb/img/p5QUKwH4OYDPwTj3H67qSLXTka0=/fit-in/200x150/filters:strip_icc()/pic5646606.jpg",
+      "link": "https://boardgamegeek.com/thing/118247",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "6.36835",
+      "averageWeight": "1.1386",
+      "boardGameRank": "2834",
+      "mechanics": [
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Number"
+      ],
+      "designers": [
+        "Michael Schacht"
+      ]
+    },
+    {
+      "id": "233867",
+      "name": "Welcome To...",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2021-09-24 23:09:09",
+      "lastmodified": "2022-02-22 11:03:16",
+      "myrating": 7,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__thumb/img/e3bCyIvM1IOGFYnKGj2jIn5mbKY=/fit-in/200x150/filters:strip_icc()/pic3761012.jpg",
+      "link": "https://boardgamegeek.com/thing/233867",
+      "minPlayers": "1",
+      "maxPlayers": "100",
+      "bestAtCount": "3, 4",
+      "playingTime": "25",
+      "minPlayingTime": "25",
+      "maxPlayingTime": "25",
+      "averageRating": "7.52801",
+      "averageWeight": "1.8383",
+      "boardGameRank": "189",
+      "mechanics": [
+        "Bingo",
+        "Contracts",
+        "Paper-and-Pencil",
+        "Pattern Building",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "City Building"
+      ],
+      "designers": [
+        "Benoit Turpin"
+      ]
+    },
+    {
+      "id": "245476",
+      "name": "CuBirds",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2021-08-24 11:59:03",
+      "lastmodified": "2022-02-22 11:03:02",
+      "myrating": 7,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__thumb/img/EiGltQvI5VsmCSYYxjgD7kXY2eg=/fit-in/200x150/filters:strip_icc()/pic7491534.jpg",
+      "link": "https://boardgamegeek.com/thing/245476",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "6.92085",
+      "averageWeight": "1.3115",
+      "boardGameRank": "1093",
+      "mechanics": [
+        "Hand Management",
+        "Set Collection"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game"
+      ],
+      "designers": [
+        "Stefan Alexander"
+      ]
+    },
+    {
+      "id": "54043",
+      "name": "Jaipur",
+      "yearPublished": "2009",
+      "type": "boardgame",
+      "postdate": "2021-12-17 19:02:15",
+      "lastmodified": "2022-02-22 11:02:21",
+      "myrating": 8,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__thumb/img/82vhODfpxIT03BzW4NkisJ5Unzs=/fit-in/200x150/filters:strip_icc()/pic5100947.jpg",
+      "link": "https://boardgamegeek.com/thing/54043",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.48744",
+      "averageWeight": "1.4618",
+      "boardGameRank": "190",
+      "mechanics": [
+        "Hand Management",
+        "Hidden Victory Points",
+        "Market",
+        "Open Drafting",
+        "Score-and-Reset Game",
+        "Set Collection"
+      ],
+      "categories": [
+        "Card Game",
+        "Economic"
+      ],
+      "designers": [
+        "Sébastien Pauchon"
+      ]
+    },
+    {
+      "id": "331328",
+      "name": "Unsurmountable",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2022-01-02 20:12:11",
+      "lastmodified": "2022-02-22 11:02:13",
+      "myrating": 7,
+      "numplays": "7",
+      "thumbnail": "https://cf.geekdo-images.com/ONaHD5ZX_LnX2xdh0ClX_Q__thumb/img/895tpWUSEAbb1tf4ko0ZQWGxscY=/fit-in/200x150/filters:strip_icc()/pic6385752.png",
+      "link": "https://boardgamegeek.com/thing/331328",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.79619",
+      "averageWeight": "1.4194",
+      "boardGameRank": "3214",
+      "mechanics": [
+        "Chaining",
+        "Network and Route Building"
+      ],
+      "categories": [
+        "Card Game",
+        "Print & Play",
+        "Sports"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "CATAN",
+      "yearPublished": "1995",
+      "type": "boardgame",
+      "postdate": "2009-02-09 17:02:24",
+      "lastmodified": "2022-02-12 17:53:19",
+      "myrating": 7,
+      "numplays": "4",
+      "thumbnail": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg",
+      "link": "https://boardgamegeek.com/thing/13",
+      "minPlayers": "3",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.09646",
+      "averageWeight": "2.2901",
+      "boardGameRank": "564",
+      "mechanics": [
+        "Chaining",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Income",
+        "Modular Board",
+        "Negotiation",
+        "Network and Route Building",
+        "Race",
+        "Random Production",
+        "Trading",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Economic",
+        "Negotiation"
+      ],
+      "designers": [
+        "Klaus Teuber"
+      ]
+    },
+    {
+      "id": "346902",
+      "name": "Unsurmountable: Dual Peaks",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2022-01-02 20:13:08",
+      "lastmodified": "2022-01-02 20:13:09",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/AtrgNW2TDgA_0oEF8nqOQQ__thumb/img/tKM-4Srq4j7s5j4i-AinjSMuHfA=/fit-in/200x150/filters:strip_icc()/pic6389817.png",
+      "link": "https://boardgamegeek.com/thing/346902",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.02217",
+      "averageWeight": "1.3333",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Chaining",
+        "Network and Route Building"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Print & Play",
+        "Sports"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "346901",
+      "name": "Unsurmountable: Big Climb",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2022-01-02 20:12:50",
+      "lastmodified": "2022-01-02 20:12:50",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/eaI6VFktgjjnVvSgy7qzfg__thumb/img/USRtQ0ZRI-P7v-smi_vrI1yfogk=/fit-in/200x150/filters:strip_icc()/pic6389816.png",
+      "link": "https://boardgamegeek.com/thing/346901",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.04342",
+      "averageWeight": "1.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Chaining",
+        "Network and Route Building"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Print & Play",
+        "Sports"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "98778",
+      "name": "Hanabi",
+      "yearPublished": "2010",
+      "type": "boardgame",
+      "postdate": "2012-11-25 22:38:46",
+      "lastmodified": "2021-12-17 18:56:56",
+      "myrating": 7,
+      "numplays": "9",
+      "thumbnail": "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__thumb/img/amCeCcEKhYGbVtDvpvIMnu3qTg0=/fit-in/200x150/filters:strip_icc()/pic2007286.jpg",
+      "link": "https://boardgamegeek.com/thing/98778",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "25",
+      "minPlayingTime": "25",
+      "maxPlayingTime": "25",
+      "averageRating": "7.03792",
+      "averageWeight": "1.6879",
+      "boardGameRank": "544",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Hand Management",
+        "Memory",
+        "Ordering",
+        "Set Collection"
+      ],
+      "categories": [
+        "Card Game",
+        "Deduction",
+        "Memory"
+      ],
+      "designers": [
+        "Antoine Bauza"
+      ]
+    },
+    {
+      "id": "221965",
+      "name": "The Fox in the Forest",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2021-12-17 15:21:30",
+      "lastmodified": "2021-12-17 15:21:30",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__thumb/img/nR2TKxtWOVJR1OHD6hAF05IHuOI=/fit-in/200x150/filters:strip_icc()/pic3496085.jpg",
+      "link": "https://boardgamegeek.com/thing/221965",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.089",
+      "averageWeight": "1.5811",
+      "boardGameRank": "606",
+      "mechanics": [
+        "Hand Management",
+        "Trick-taking"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Joshua Buergel"
+      ]
+    },
+    {
+      "id": "240196",
+      "name": "Betrayal Legacy",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2021-12-06 12:54:51",
+      "lastmodified": "2021-12-06 12:54:51",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/F4-UGFUM3FfVLWsgBgpFLQ__thumb/img/qaqVSOIHvE3mPWEgX_lP7e-6yM0=/fit-in/200x150/filters:strip_icc()/pic4314964.jpg",
+      "link": "https://boardgamegeek.com/thing/240196",
+      "minPlayers": "3",
+      "maxPlayers": "5",
+      "bestAtCount": "5",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.67767",
+      "averageWeight": "2.8941",
+      "boardGameRank": "549",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Legacy Game",
+        "Line of Sight",
+        "Map Addition",
+        "Modular Board",
+        "Player Elimination",
+        "Role Playing",
+        "Roles with Asymmetric Information",
+        "Scenario / Mission / Campaign Game",
+        "Stat Check Resolution",
+        "Storytelling",
+        "Team-Based Game",
+        "Tile Placement",
+        "Traitor Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Exploration",
+        "Horror",
+        "Miniatures"
+      ],
+      "designers": [
+        "Rob Daviau",
+        "Noah Cohen",
+        "JR Honeycutt",
+        "Ryan Miller",
+        "Brian Neff",
+        "Andrew Veen"
+      ]
+    },
+    {
+      "id": "228660",
+      "name": "Betrayal at Baldur's Gate",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2021-12-06 12:54:40",
+      "lastmodified": "2021-12-06 12:54:40",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/O6TfqmDWCkJvZPZw6pcxpg__thumb/img/LqmZdde9lw05eGIfxYJZiF1DaYs=/fit-in/200x150/filters:strip_icc()/pic6552099.png",
+      "link": "https://boardgamegeek.com/thing/228660",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "5",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.07957",
+      "averageWeight": "2.5775",
+      "boardGameRank": "1345",
+      "mechanics": [
+        "Dice Rolling",
+        "Map Addition",
+        "Modular Board",
+        "Role Playing",
+        "Storytelling",
+        "Team-Based Game",
+        "Traitor Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Exploration",
+        "Fantasy",
+        "Miniatures"
+      ],
+      "designers": [
+        "Chris Dupuis",
+        "Mike Mearls"
+      ]
+    },
+    {
+      "id": "344682",
+      "name": "The Split",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2021-12-04 21:16:47",
+      "lastmodified": "2021-12-04 21:16:47",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/sZtguqUekjg1xyYXWklNGQ__thumb/img/AS9NVRK6fNO0jpdxN-l5QTRaWqc=/fit-in/200x150/filters:strip_icc()/pic6352257.png",
+      "link": "https://boardgamegeek.com/thing/344682",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "3",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "7.07895",
+      "averageWeight": "1",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Betting and Bluffing",
+        "End Game Bonuses",
+        "Push Your Luck"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game"
+      ],
+      "designers": [
+        "Michael Fox (II)"
+      ]
+    },
+    {
+      "id": "198452",
+      "name": "Betrayal at House on the Hill: Widow's Walk",
+      "yearPublished": "2016",
+      "type": "boardgameexpansion",
+      "postdate": "2016-12-25 21:45:20",
+      "lastmodified": "2016-12-25 21:45:20",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/uFaPB9DYs2FUqQepaugnwg__thumb/img/z6z8daUO8zqOVFLyrNmgDEkX9aU=/fit-in/200x150/filters:strip_icc()/pic4084221.jpg",
+      "link": "https://boardgamegeek.com/thing/198452",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 6",
+      "playingTime": "0",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "0",
+      "averageRating": "7.45355",
+      "averageWeight": "2.8",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board",
+        "Player Elimination",
+        "Role Playing",
+        "Storytelling",
+        "Team-Based Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Exploration",
+        "Horror",
+        "Miniatures"
+      ],
+      "designers": [
+        "Christopher Badell",
+        "Chad Brown",
+        "Rob Daviau",
+        "Chris Dupuis",
+        "Justin Gary",
+        "Aviva Schecterson",
+        "Mike Selinker",
+        "Liz Spain",
+        "Elisa Teague",
+        "Gaby Weidling"
+      ]
+    },
+    {
+      "id": "29387",
+      "name": "Zombie Fluxx",
+      "yearPublished": "2007",
+      "type": "boardgame",
+      "postdate": "2009-03-15 02:16:16",
+      "lastmodified": "2015-08-06 09:09:06",
+      "myrating": 5,
+      "numplays": "8",
+      "thumbnail": "https://cf.geekdo-images.com/XzqgCgBYVc0a92ZqZ9NjXw__thumb/img/T1d9LzE-cyQSSEu6piQ0VSzgLHI=/fit-in/200x150/filters:strip_icc()/pic254239.jpg",
+      "link": "https://boardgamegeek.com/thing/29387",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "40",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "40",
+      "averageRating": "5.98779",
+      "averageWeight": "1.4375",
+      "boardGameRank": "4600",
+      "mechanics": [
+        "Hand Management",
+        "Set Collection",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Zombies"
+      ],
+      "designers": [
+        "Andrew Looney"
+      ]
+    },
+    {
+      "id": "164010",
+      "name": "Moriarty's Machinations",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2015-02-28 10:32:08",
+      "lastmodified": "2015-07-19 09:55:32",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/wBQjkP58cKOZvYn8_bICSQ__thumb/img/yz8mROfIGUAukEdxRxMnef2SZ7E=/fit-in/200x150/filters:strip_icc()/pic7644554.jpg",
+      "link": "https://boardgamegeek.com/thing/164010",
+      "minPlayers": "5",
+      "maxPlayers": "10",
+      "bestAtCount": "5, 10",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.20976",
+      "averageWeight": "2",
+      "boardGameRank": "20093",
+      "mechanics": [
+        "Acting",
+        "Voting"
+      ],
+      "categories": [
+        "Bluffing",
+        "Deduction",
+        "Party Game"
+      ],
+      "designers": [
+        "Redbeard Duadikos"
+      ]
+    },
+    {
+      "id": "133473",
+      "name": "Sushi Go!",
+      "yearPublished": "2013",
+      "type": "boardgame",
+      "postdate": "2013-12-16 22:20:13",
+      "lastmodified": "2015-04-03 22:30:10",
+      "myrating": 7,
+      "numplays": "12",
+      "thumbnail": "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__thumb/img/6XF493O0tSyLyZP5ArlcZrOTMXQ=/fit-in/200x150/filters:strip_icc()/pic1900075.jpg",
+      "link": "https://boardgamegeek.com/thing/133473",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.99806",
+      "averageWeight": "1.1637",
+      "boardGameRank": "602",
+      "mechanics": [
+        "Closed Drafting",
+        "End Game Bonuses",
+        "Hand Management",
+        "Set Collection",
+        "Simultaneous Action Selection"
+      ],
+      "categories": [
+        "Card Game"
+      ],
+      "designers": [
+        "Phil Walker-Harding"
+      ]
+    },
+    {
+      "id": "129622",
+      "name": "Love Letter",
+      "yearPublished": "2012",
+      "type": "boardgame",
+      "postdate": "2012-11-09 00:09:30",
+      "lastmodified": "2015-02-28 10:43:06",
+      "myrating": 7,
+      "numplays": "10",
+      "thumbnail": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__thumb/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg",
+      "link": "https://boardgamegeek.com/thing/129622",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "7.22526",
+      "averageWeight": "1.1844",
+      "boardGameRank": "348",
+      "mechanics": [
+        "Deduction",
+        "Hand Management",
+        "Player Elimination",
+        "Score-and-Reset Game",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Deduction",
+        "Renaissance"
+      ],
+      "designers": [
+        "Seiji Kanai"
+      ]
+    },
+    {
+      "id": "131357",
+      "name": "Coup",
+      "yearPublished": "2012",
+      "type": "boardgame",
+      "postdate": "2013-04-08 20:18:36",
+      "lastmodified": "2013-12-07 10:58:54",
+      "myrating": 7,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__thumb/img/vuR_0PCX1w2EkjO_LbchOHZPOwU=/fit-in/200x150/filters:strip_icc()/pic2016054.jpg",
+      "link": "https://boardgamegeek.com/thing/131357",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "5",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.9817",
+      "averageWeight": "1.4091",
+      "boardGameRank": "668",
+      "mechanics": [
+        "Hidden Roles",
+        "Memory",
+        "Player Elimination",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Deduction",
+        "Party Game",
+        "Political"
+      ],
+      "designers": [
+        "Rikki Tahta"
+      ]
+    },
+    {
+      "id": "39206",
+      "name": "Tac Tac Jack",
+      "yearPublished": "2008",
+      "type": "boardgame",
+      "postdate": "2013-04-08 20:18:15",
+      "lastmodified": "2013-10-26 16:44:51",
+      "myrating": 8,
+      "numplays": "15",
+      "thumbnail": "https://cf.geekdo-images.com/6TG4QXV3JmLsln11f72XXQ__thumb/img/g2GglyKXfnWFJnjS057wW1Fpm7U=/fit-in/200x150/filters:strip_icc()/pic8499311.png",
+      "link": "https://boardgamegeek.com/thing/39206",
+      "minPlayers": "2",
+      "maxPlayers": "7",
+      "bestAtCount": "4",
+      "playingTime": "10",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "10",
+      "averageRating": "6.38639",
+      "averageWeight": "1.0377",
+      "boardGameRank": "2715",
+      "mechanics": [
+        "Physical Removal"
+      ],
+      "categories": [
+        "Action / Dexterity",
+        "Children's Game"
+      ],
+      "designers": [
+        "Justin Oh"
+      ]
+    },
+    {
+      "id": "38159",
+      "name": "Ultimate Werewolf: Ultimate Edition",
+      "yearPublished": "2008",
+      "type": "boardgame",
+      "postdate": "2011-06-21 02:59:01",
+      "lastmodified": "2013-07-18 23:15:08",
+      "myrating": 10,
+      "numplays": "31",
+      "thumbnail": "https://cf.geekdo-images.com/PoIvN70fNYdwgeaap0CKqw__thumb/img/Xl_EuD2T09pr31MuKlfvPzvaspU=/fit-in/200x150/filters:strip_icc()/pic1849390.jpg",
+      "link": "https://boardgamegeek.com/thing/38159",
+      "minPlayers": "5",
+      "maxPlayers": "68",
+      "bestAtCount": "11, 16",
+      "playingTime": "90",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "90",
+      "averageRating": "6.95513",
+      "averageWeight": "1.497",
+      "boardGameRank": "1440",
+      "mechanics": [
+        "Hidden Roles",
+        "Player Elimination",
+        "Role Playing",
+        "Roles with Asymmetric Information",
+        "Team-Based Game",
+        "Traitor Game",
+        "Voting"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Deduction",
+        "Horror",
+        "Murder / Mystery",
+        "Negotiation",
+        "Party Game"
+      ],
+      "designers": [
+        "Ted Alspach"
+      ]
+    },
+    {
+      "id": "1198",
+      "name": "SET",
+      "yearPublished": "1988",
+      "type": "boardgame",
+      "postdate": "2009-02-16 02:35:41",
+      "lastmodified": "2013-04-08 20:21:19",
+      "myrating": 7,
+      "numplays": "4",
+      "thumbnail": "https://cf.geekdo-images.com/uEtWO_Ag8OxbG6NkSZbH6A__thumb/img/wElABDsqOCR3YjI1nInQqeNa-Lk=/fit-in/200x150/filters:strip_icc()/pic7627182.png",
+      "link": "https://boardgamegeek.com/thing/1198",
+      "minPlayers": "1",
+      "maxPlayers": "20",
+      "bestAtCount": "3, 4",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.50053",
+      "averageWeight": "1.6558",
+      "boardGameRank": "1750",
+      "mechanics": [
+        "Pattern Recognition",
+        "Real-Time",
+        "Speed Matching"
+      ],
+      "categories": [
+        "Card Game",
+        "Puzzle"
+      ],
+      "designers": [
+        "Marsha J. Falco"
+      ]
+    },
+    {
+      "id": "41114",
+      "name": "The Resistance",
+      "yearPublished": "2009",
+      "type": "boardgame",
+      "postdate": "2011-11-22 18:38:19",
+      "lastmodified": "2013-04-08 20:21:08",
+      "myrating": 9,
+      "numplays": "9",
+      "thumbnail": "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__thumb/img/5lDn1W82rlLXtVG7nPIYR9Orn-4=/fit-in/200x150/filters:strip_icc()/pic2576459.jpg",
+      "link": "https://boardgamegeek.com/thing/41114",
+      "minPlayers": "5",
+      "maxPlayers": "10",
+      "bestAtCount": "7",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.20863",
+      "averageWeight": "1.591",
+      "boardGameRank": "405",
+      "mechanics": [
+        "Hidden Roles",
+        "Memory",
+        "Roles with Asymmetric Information",
+        "Simultaneous Action Selection",
+        "Team-Based Game",
+        "Traitor Game",
+        "Voting"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Deduction",
+        "Negotiation",
+        "Party Game",
+        "Print & Play",
+        "Science Fiction",
+        "Spies / Secret Agents"
+      ],
+      "designers": [
+        "Don Eskridge"
+      ]
+    },
+    {
+      "id": "43894",
+      "name": "Munchkin: Waiting For Santa",
+      "yearPublished": "2009",
+      "type": "boardgameexpansion",
+      "postdate": "2010-11-13 15:55:23",
+      "lastmodified": "2013-04-08 20:20:52",
+      "myrating": 5,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/GUc1XqoZBtI2uqfv_pyN0A__thumb/img/Q8qVYqJMUJQ1GormL53-TmDHv-4=/fit-in/200x150/filters:strip_icc()/pic499248.jpg",
+      "link": "https://boardgamegeek.com/thing/43894",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "3, 4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.61316",
+      "averageWeight": "1.8148",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Trading",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fighting",
+        "Humor",
+        "Mythology"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "42436",
+      "name": "Munchkin Fairy Dust",
+      "yearPublished": "2009",
+      "type": "boardgameexpansion",
+      "postdate": "2009-06-20 13:57:31",
+      "lastmodified": "2013-04-08 20:20:41",
+      "myrating": 5,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/IIdWFHWPgzS-vGOKuC1U4w__thumb/img/Iy21_154YwwI33gbkcZWb9M6X38=/fit-in/200x150/filters:strip_icc()/pic480525.jpg",
+      "link": "https://boardgamegeek.com/thing/42436",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.51108",
+      "averageWeight": "2.0333",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Trading",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fighting",
+        "Humor",
+        "Mythology"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "37501",
+      "name": "Munchkin 7: More Good Cards",
+      "yearPublished": "2008",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-16 00:52:28",
+      "lastmodified": "2013-04-08 20:20:34",
+      "myrating": 6,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/P5q10pFDUb4w4xpsX-NZ4w__thumb/img/gf6aQTqMej1taZLJrHJtIrhoaEE=/fit-in/200x150/filters:strip_icc()/pic357527.jpg",
+      "link": "https://boardgamegeek.com/thing/37501",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "3, 5",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.50761",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Trading",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "33493",
+      "name": "Munchkin 6: Demented Dungeons",
+      "yearPublished": "2008",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-16 00:52:18",
+      "lastmodified": "2013-04-08 20:20:31",
+      "myrating": 4,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/4iEPM57OZ95QVb2XidV9kA__thumb/img/jUAqCJf0J4tXMRHlbU77zKmYff4=/fit-in/200x150/filters:strip_icc()/pic1130548.jpg",
+      "link": "https://boardgamegeek.com/thing/33493",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 5",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.43421",
+      "averageWeight": "1.9136",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Open Drafting",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "28327",
+      "name": "Munchkin 5: De-Ranged",
+      "yearPublished": "2007",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-16 00:52:10",
+      "lastmodified": "2013-04-08 20:20:25",
+      "myrating": 6,
+      "numplays": "5",
+      "thumbnail": "https://cf.geekdo-images.com/c24yJ4IDSDxo_gfUWH4fIQ__thumb/img/0Orvx8d09vBklYFPuzoyWBp0Oh4=/fit-in/200x150/filters:strip_icc()/pic2428687.jpg",
+      "link": "https://boardgamegeek.com/thing/28327",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 5",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.57081",
+      "averageWeight": "1.8152",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Open Drafting",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "20660",
+      "name": "Munchkin 4: The Need for Steed",
+      "yearPublished": "2005",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-16 00:51:59",
+      "lastmodified": "2013-04-08 20:20:23",
+      "myrating": 6,
+      "numplays": "4",
+      "thumbnail": "https://cf.geekdo-images.com/tL5l1KEBOZDnQ7CvBwUGzA__thumb/img/mc4dIKqSL0tvyxVhdAqisSH8DzU=/fit-in/200x150/filters:strip_icc()/pic2428686.jpg",
+      "link": "https://boardgamegeek.com/thing/20660",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 5",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.52639",
+      "averageWeight": "1.8563",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Open Drafting",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "6606",
+      "name": "Munchkin 3: Clerical Errors",
+      "yearPublished": "2003",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-16 00:51:49",
+      "lastmodified": "2013-04-08 20:20:22",
+      "myrating": 6,
+      "numplays": "5",
+      "thumbnail": "https://cf.geekdo-images.com/CQpxHBk-1l3mEwM7x6e_pA__thumb/img/lGx0Q9DfSgD83D4rCL416FAz5MI=/fit-in/200x150/filters:strip_icc()/pic2428681.jpg",
+      "link": "https://boardgamegeek.com/thing/6606",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.44522",
+      "averageWeight": "1.8618",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Open Drafting",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "3943",
+      "name": "Munchkin 2: Unnatural Axe",
+      "yearPublished": "2002",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-16 00:51:41",
+      "lastmodified": "2013-04-08 20:20:20",
+      "myrating": 6,
+      "numplays": "5",
+      "thumbnail": "https://cf.geekdo-images.com/aodU82mIunaDBUb8jC2RBQ__thumb/img/xOTsGgAcjmNdRqkOiph0sMr_9VA=/fit-in/200x150/filters:strip_icc()/pic2428682.jpg",
+      "link": "https://boardgamegeek.com/thing/3943",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 5",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.41755",
+      "averageWeight": "1.801",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Open Drafting",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "1927",
+      "name": "Munchkin",
+      "yearPublished": "2001",
+      "type": "boardgame",
+      "postdate": "2009-02-16 00:51:31",
+      "lastmodified": "2013-04-08 20:20:18",
+      "myrating": 6,
+      "numplays": "5",
+      "thumbnail": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__thumb/img/8hVkpMC5pDLr6ARI_4gI4N3aF5M=/fit-in/200x150/filters:strip_icc()/pic1871016.jpg",
+      "link": "https://boardgamegeek.com/thing/1927",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "5.87233",
+      "averageWeight": "1.8115",
+      "boardGameRank": "6036",
+      "mechanics": [
+        "Hand Management",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+      ],
+      "designers": [
+        "Steve Jackson (I)"
+      ]
+    },
+    {
+      "id": "107529",
+      "name": "Kingdom Builder",
+      "yearPublished": "2011",
+      "type": "boardgame",
+      "postdate": "2012-11-25 22:39:44",
+      "lastmodified": "2013-02-18 17:25:15",
+      "myrating": 7,
+      "numplays": "8",
+      "thumbnail": "https://cf.geekdo-images.com/kJOP_BICVX-88sKqFRh9PQ__thumb/img/KwrWpSRncnCE0cEldldyVQ-0Cdk=/fit-in/200x150/filters:strip_icc()/pic1152359.jpg",
+      "link": "https://boardgamegeek.com/thing/107529",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "6.94044",
+      "averageWeight": "2.0606",
+      "boardGameRank": "717",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Chaining",
+        "Enclosure",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Modular Board",
+        "Network and Route Building",
+        "Pattern Building",
+        "Tile Placement",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Medieval",
+        "Territory Building"
+      ],
+      "designers": [
+        "Donald X. Vaccarino"
+      ]
+    },
+    {
+      "id": "128882",
+      "name": "The Resistance: Avalon",
+      "yearPublished": "2012",
+      "type": "boardgame",
+      "postdate": "2012-10-15 23:09:24",
+      "lastmodified": "2012-11-25 22:38:29",
+      "myrating": 9,
+      "numplays": "13",
+      "thumbnail": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__thumb/img/RKui79VjUbQAzTWaPu44ytupzDs=/fit-in/200x150/filters:strip_icc()/pic1398895.jpg",
+      "link": "https://boardgamegeek.com/thing/128882",
+      "minPlayers": "5",
+      "maxPlayers": "10",
+      "bestAtCount": "7, 8",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.50947",
+      "averageWeight": "1.7386",
+      "boardGameRank": "215",
+      "mechanics": [
+        "Finale Ending",
+        "Hidden Roles",
+        "Roles with Asymmetric Information",
+        "Simultaneous Action Selection",
+        "Team-Based Game",
+        "Traitor Game",
+        "Variable Player Powers",
+        "Voting"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Deduction",
+        "Fantasy",
+        "Medieval",
+        "Negotiation",
+        "Party Game",
+        "Spies / Secret Agents"
+      ],
+      "designers": [
+        "Don Eskridge"
+      ]
+    },
+    {
+      "id": "91523",
+      "name": "Mondo",
+      "yearPublished": "2011",
+      "type": "boardgame",
+      "postdate": "2011-12-09 00:45:40",
+      "lastmodified": "2012-05-06 20:18:03",
+      "myrating": 10,
+      "numplays": "13",
+      "thumbnail": "https://cf.geekdo-images.com/DZiHZK3RAcM_kgfwJ8qPgg__thumb/img/39LIPWGEDRG5ZQPNFG-3c2tPRvg=/fit-in/200x150/filters:strip_icc()/pic1458279.jpg",
+      "link": "https://boardgamegeek.com/thing/91523",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "6.47363",
+      "averageWeight": "1.7883",
+      "boardGameRank": "2915",
+      "mechanics": [
+        "Pattern Building",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Environmental",
+        "Puzzle",
+        "Real-time"
+      ],
+      "designers": [
+        "Michael Schacht"
+      ]
+    },
+    {
+      "id": "2993",
+      "name": "Carcassonne: Expansion 1 – Inns & Cathedrals",
+      "yearPublished": "2002",
+      "type": "boardgameexpansion",
+      "postdate": "2010-10-04 15:51:36",
+      "lastmodified": "2011-12-24 19:23:20",
+      "myrating": 6,
+      "numplays": "6",
+      "thumbnail": "https://cf.geekdo-images.com/g9q--tONTL86x2D4NKiM8g__thumb/img/opBzVTp4iK4LfozCr3doTYGwTHE=/fit-in/200x150/filters:strip_icc()/pic2659943.jpg",
+      "link": "https://boardgamegeek.com/thing/2993",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "2, 3",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.63734",
+      "averageWeight": "1.927",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "City Building",
+        "Medieval",
+        "Territory Building"
+      ],
+      "designers": [
+        "Klaus-Jürgen Wrede"
+      ]
+    },
+    {
+      "id": "57070",
+      "name": "Small World: Grand Dames of Small World",
+      "yearPublished": "2009",
+      "type": "boardgameexpansion",
+      "postdate": "2009-10-24 22:48:12",
+      "lastmodified": "2011-08-07 21:56:03",
+      "myrating": 6,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/AQi975M9FTsqLoxPu1e8aA__thumb/img/7hZDxVUq6BJrIu7QJUkgNT6si7w=/fit-in/200x150/filters:strip_icc()/pic563283.jpg",
+      "link": "https://boardgamegeek.com/thing/57070",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4, 5",
+      "playingTime": "80",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "80",
+      "averageRating": "7.40302",
+      "averageWeight": "2.1762",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Dice Rolling",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Territory Building"
+      ],
+      "designers": [
+        "Clay Blankenship",
+        "Blaise Hanczar",
+        "Michael Haverty",
+        "Philippe Keyaerts",
+        "Jörg Krismann",
+        "Jason Oman"
+      ]
+    },
+    {
+      "id": "57072",
+      "name": "Small World: Cursed!",
+      "yearPublished": "2009",
+      "type": "boardgameexpansion",
+      "postdate": "2009-10-24 22:48:25",
+      "lastmodified": "2011-08-07 21:56:00",
+      "myrating": 6,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/hRDbH2HDLzrCmd9EZt1JGQ__thumb/img/h_TSvzqD7nOX25wvdG-fdV2Zyro=/fit-in/200x150/filters:strip_icc()/pic563285.jpg",
+      "link": "https://boardgamegeek.com/thing/57072",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "80",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "80",
+      "averageRating": "7.46301",
+      "averageWeight": "2.2204",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Dice Rolling",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Territory Building"
+      ],
+      "designers": [
+        "Philippe Keyaerts",
+        "Paolo Mori",
+        "Leif Steiestol",
+        "Phil Walker-Harding"
+      ]
+    },
+    {
+      "id": "60054",
+      "name": "Small World: Leaders of Small World",
+      "yearPublished": "2009",
+      "type": "boardgameexpansion",
+      "postdate": "2009-11-19 16:20:32",
+      "lastmodified": "2010-10-04 15:51:59",
+      "myrating": 7,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/4UwRNg-iMgklr9-zGh3OgQ__thumb/img/fxKuFVM9HhgVwAf4MnzDDEtB-wM=/fit-in/200x150/filters:strip_icc()/pic589620.jpg",
+      "link": "https://boardgamegeek.com/thing/60054",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "80",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "80",
+      "averageRating": "6.55595",
+      "averageWeight": "1.9692",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Dice Rolling",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Civilization",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Territory Building"
+      ],
+      "designers": [
+        "Philippe Keyaerts",
+        "Michael Ormesher"
+      ]
+    },
+    {
+      "id": "12039",
+      "name": "Once Upon a Time: Dark Tales",
+      "yearPublished": "2004",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-09 17:03:14",
+      "lastmodified": "2010-01-02 20:09:18",
+      "myrating": 5,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/BG23trfnTUnj7Jkfm4kJzw__thumb/img/lR2z3piVGcxbdXxKyxydXXj1faU=/fit-in/200x150/filters:strip_icc()/pic190907.jpg",
+      "link": "https://boardgamegeek.com/thing/12039",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 6",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.80722",
+      "averageWeight": "1.4483",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Storytelling"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Party Game"
+      ],
+      "designers": [
+        "Richard Lambert",
+        "Andrew Rilstone",
+        "James Wallis"
+      ]
+    },
+    {
+      "id": "2807",
+      "name": "Catan: 5-6 Player Extension",
+      "yearPublished": "1996",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-09 17:02:49",
+      "lastmodified": "2009-02-16 02:27:00",
+      "myrating": 7,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/qGCU44UcimWPJ7BucwV1cg__thumb/img/ygwdrGve0mcSEpxFThbyS2b5RcU=/fit-in/200x150/filters:strip_icc()/pic2420287.jpg",
+      "link": "https://boardgamegeek.com/thing/2807",
+      "minPlayers": "5",
+      "maxPlayers": "6",
+      "bestAtCount": "5",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "6.97527",
+      "averageWeight": "2.3121",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Network and Route Building",
+        "Trading"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Negotiation"
+      ],
+      "designers": [
+        "Klaus Teuber"
+      ]
+    },
+    {
+      "id": "1234",
+      "name": "Once Upon a Time: The Storytelling Card Game",
+      "yearPublished": "1993",
+      "type": "boardgame",
+      "postdate": "2009-02-09 17:03:01",
+      "lastmodified": "2009-02-16 02:26:01",
+      "myrating": 7,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/IHYBF2QWcZwlYfH4doj06Q__thumb/img/XkT-0Bj73aLec9BYdqWSqIpIKis=/fit-in/200x150/filters:strip_icc()/pic1494028.jpg",
+      "link": "https://boardgamegeek.com/thing/1234",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "5, 6",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.36462",
+      "averageWeight": "1.3661",
+      "boardGameRank": "2263",
+      "mechanics": [
+        "Hand Management",
+        "Interrupts",
+        "Storytelling",
+        "Voting"
+      ],
+      "categories": [
+        "Card Game",
+        "Humor",
+        "Party Game",
+        "Real-time"
+      ],
+      "designers": [
+        "Richard Lambert",
+        "Andrew Rilstone",
+        "James Wallis"
+      ]
+    },
+    {
+      "id": "25945",
+      "name": "Arkham Horror: The King in Yellow Expansion",
+      "yearPublished": "2007",
+      "type": "boardgameexpansion",
+      "postdate": "2009-02-09 17:03:30",
+      "lastmodified": "2009-02-16 02:21:01",
+      "myrating": 5,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/pfNqKrM-0NtxL2aCdfzwgg__thumb/img/msLVxhHV3WN-BoI5FKf5vAHj0Lo=/fit-in/200x150/filters:strip_icc()/pic222480.jpg",
+      "link": "https://boardgamegeek.com/thing/25945",
+      "minPlayers": "1",
+      "maxPlayers": "8",
+      "bestAtCount": "4",
+      "playingTime": "240",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "240",
+      "averageRating": "7.61986",
+      "averageWeight": "3.2093",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Point to Point Movement",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fighting",
+        "Horror",
+        "Novel-based",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Robert Vaughn",
+        "Kevin Wilson"
+      ]
+    },
+    {
+      "id": "21059",
+      "name": "Arkham Horror: Dunwich Horror Expansion",
+      "yearPublished": "2006",
+      "type": "boardgameexpansion",
+      "postdate": "2008-12-31 03:15:28",
+      "lastmodified": "2009-02-16 02:19:56",
+      "myrating": 7,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/SD4sueZ3S8iL1RlZIq-u_A__thumb/img/RpKj-u4cqnpskpB_QEEpwdEEUA0=/fit-in/200x150/filters:strip_icc()/pic114495.jpg",
+      "link": "https://boardgamegeek.com/thing/21059",
+      "minPlayers": "1",
+      "maxPlayers": "8",
+      "bestAtCount": "4",
+      "playingTime": "240",
+      "minPlayingTime": "240",
+      "maxPlayingTime": "240",
+      "averageRating": "7.79756",
+      "averageWeight": "3.4926",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Point to Point Movement",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fighting",
+        "Horror",
+        "Novel-based",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Richard Launius",
+        "Kevin Wilson"
+      ]
+    }
+  ]
+}

@@ -177,17 +177,30 @@ async function handleGamesRequest(bggUserId, res) {
                 if (fs.existsSync(gameDetailsFile)) {
                     const gameData = JSON.parse(fs.readFileSync(gameDetailsFile, 'utf8'));
 					const bestAtCount = Array.isArray(gameData.gameDetails.bestAtCount) ? gameData.gameDetails.bestAtCount : [];
-        const bestAtCountText = bestAtCount.length > 0 ? bestAtCount.join(', ') : 'N/A';
+					const bestAtCountText = bestAtCount.length > 0 ? bestAtCount.join(', ') : 'N/A';
                     return {
                         id: game.id,
                         name: gameData.gameDetails.name,
+                        yearPublished: gameData.gameDetails.yearPublished,
                         type: gameData.gameDetails.type,
+                        postdate: game.postdate,
                         lastmodified: game.lastmodified,
+                        myrating: game.rating,
+                        numplays: game.numplays,
                         thumbnail: gameData.gameDetails.thumbnail,
                         link: gameData.gameDetails.link,
                         minPlayers: gameData.gameDetails.minPlayers,
                         maxPlayers: gameData.gameDetails.maxPlayers,
-                        bestAtCount: bestAtCountText
+                        bestAtCount: bestAtCountText,
+                        playingTime: gameData.gameDetails.playingTime,
+                        minPlayingTime: gameData.gameDetails.minPlayingTime,
+                        maxPlayingTime: gameData.gameDetails.maxPlayingTime,
+                        averageRating: gameData.gameDetails.averageRating,
+                        averageWeight: gameData.gameDetails.averageWeight,
+                        boardGameRank: gameData.gameDetails.boardGameRank,
+                        mechanics: gameData.gameDetails.mechanics,
+                        categories: gameData.gameDetails.categories,
+                        designers: gameData.gameDetails.designers,
                     };
                 }
                 return null;
@@ -205,7 +218,7 @@ async function handleGamesRequest(bggUserId, res) {
                 timestamp: cacheDate.toISOString(),
                 games: filteredGames
             };
-            fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData), 'utf8');
+            fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData, null, 2), 'utf8');
 
             return res.json({ games: filteredGames, collectionDate: new Date(collectionDate).toISOString() });
         } else {

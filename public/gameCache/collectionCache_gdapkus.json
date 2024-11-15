@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-14T19:23:18.232Z",
+  "timestamp": "2024-11-15T03:17:14.013Z",
   "games": [
     {
       "id": "3097",
@@ -2142,23 +2142,22 @@
       "name": "Cooper Island",
       "image": "https://cf.geekdo-images.com/YDY6ZHqdRyDMvpfQO_jV7A__original/img/A11s0hdDTIG32lwT3d_7NLMHmM0=/0x0/filters:format(jpeg)/pic4853982.jpg",
       "thumbnail": "https://cf.geekdo-images.com/YDY6ZHqdRyDMvpfQO_jV7A__thumb/img/AJf9NTVOgyXyntg2jjZW1FuR9aM=/fit-in/200x150/filters:strip_icc()/pic4853982.jpg",
-      "lastmodified": "2022-10-05 11:33:42",
+      "lastmodified": "2024-11-14 20:51:47",
       "numplays": "0",
       "status": {
         "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
-        "wanttoplay": false,
+        "wanttoplay": true,
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": false,
-        "lastmodified": "2022-10-05 11:33:42"
+        "preordered": false
       },
       "postdate": "2019-10-21 17:23:43",
       "rating": null,
-      "ratingTimestamp": null
+      "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
       "id": "289648",

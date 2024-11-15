@@ -102,7 +102,7 @@ if (Array.isArray(game.link)) {
                 timestamp: new Date().toISOString(),
                 gameDetails: gameDetails
             };
-            fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData));
+            fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData, null, 2));
         }
 
         return { data: gameDetails, error: null };

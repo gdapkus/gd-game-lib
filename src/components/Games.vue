@@ -1,15 +1,12 @@
 <template>
   <v-app>
     <v-theme-provider theme="light">
-      <v-application>
-        <v-application__wrap>
           <v-container>
             <!-- Header -->
             <v-app-bar app flat color="green">
               <div style="width: 24px;"></div>
-              <v-toolbar-item @click="reloadPage" style="cursor: pointer;">
-                <v-img src="/favicon.ico" height="48" width="48" contain></v-img>
-              </v-toolbar-item>
+              <v-avatar @click="reloadPage" style="cursor: pointer;" size="48" image="/favicon.ico" rounded="0">
+              </v-avatar>
               <v-toolbar-title
                 @click="reloadPage"
                 class="font-weight-black cursor-pointer"
@@ -43,14 +40,12 @@
                   <v-list>
                     <v-list-item v-for="user in bggUsers" :key="user.username" @click="selectUser(user)">
                       <template v-slot:prepend>
-                        <v-avatar size="64">
+                        <v-avatar size="64" rounded="0">
                           <img :src="user.avatarUrl" alt="User Avatar" />
                         </v-avatar>
                       </template>
-                      <v-list-item-content>
                         <v-list-item-title>{{ user.name }}</v-list-item-title>
                         <v-list-item-subtitle>{{ user.username }}</v-list-item-subtitle>
-                      </v-list-item-content>
                     </v-list-item>
                   </v-list>
                   <v-checkbox
@@ -92,15 +87,30 @@
                     <template v-slot:item="{ item }">
                       <tr>
                         <td class="v-data-table__td" @click="showDropdown($event, item.id)">
-                          <v-img :src="item.thumbnail" max-height="150px" contain class="my-3"></v-img>
+                          <v-img :src="item.thumbnail" max-height="120px" contain class="my-3"></v-img>
                         </td>
                         <td class="v-data-table__td" @click="showDropdown($event, item.id)">
-                          {{ item.name }}
+                          <span class="title-text">{{ item.name }}</span>
+						  <span class="year-text"> ({{ item.yearPublished }})</span><br>
+						  <span class="designer-text">{{ item.designers.join(', ') }}</span>
+                        </td>
+						<td class="v-data-table__td" style="text-align: center;">
+							<div class="hexagon" :style="getHexagonStyle(item.averageRating)">
+								<span class="hex-text">{{ formatRating(item.averageRating) }}</span>
+							</div>
+						</td>
+                        <td class="v-data-table__td" style="text-align: center">
+                          <div class="players-icon">{{ item.minPlayers }} - {{ item.maxPlayers }}</div>
                         </td>
                         <td class="v-data-table__td" style="text-align: center">
-                          {{ item.minPlayers }} - {{ item.maxPlayers }}
+                          <div class="meeple-icon">{{ item.bestAtCount }}</div>
                         </td>
-                        <td class="v-data-table__td" style="text-align: center">{{ item.bestAtCount }}</td>
+                        <td class="v-data-table__td" style="text-align: center">
+                          <div class="time-icon">{{ item.playingTime }}</div>
+                        </td>
+                        <td class="v-data-table__td" style="text-align: center">
+                          <div class="weight-icon">{{ formatWeight(item.averageWeight) }}</div>
+						</td>
                       </tr>
                     </template>
                   </v-data-table>
@@ -121,9 +131,7 @@
                 </v-list-item>
                 <v-list-item v-if="trelloToken">
                   <v-list-item-title>Add to Trello</v-list-item-title>
-                  <v-list-item-icon>
                     <v-icon>mdi-menu-down</v-icon>
-                  </v-list-item-icon>
                   <v-menu offset-y activator="parent">
                     <template v-slot:default>
                       <v-list>
@@ -147,8 +155,6 @@
               <a href="https://www.boardgamegeek.com/" target="bgg">BoardGameGeek.com</a>.
             </v-footer>
           </v-container>
-        </v-application__wrap>
-      </v-application>
     </v-theme-provider>
   </v-app>
 </template>
@@ -185,8 +191,11 @@ export default {
             return titleA.localeCompare(titleB, undefined, { sensitivity: 'base' });
           },
         },
-        { title: 'Player Range', align: 'center' },
-        { title: 'Best At', align: 'center' },
+        { title: 'Rating', width: '48px', align: 'center' },
+        { title: 'Player Range', width: '48px', align: 'center' },
+        { title: 'Best At', width: '48px', align: 'center' },
+        { title: 'Play Time', width: '48px', align: 'center' },
+        { title: 'Weight', width: '48px', align: 'center' },
       ],
     };
   },
@@ -285,6 +294,29 @@ export default {
         }
       }, 1000);
     },
+    getHexagonStyle(rating) {
+      if (rating <= 5) return { backgroundColor: 'rgb(255, 0, 0)' }; // Red for ≤ 5
+      if (rating >= 10) return { backgroundColor: 'rgb(0, 255, 0)' }; // Green for 10+
+      let color;
+      if (rating > 5 && rating <= 7.5) {
+        const t = (rating - 5) / 2.5;
+        const r = Math.round(255 * (1 - t));
+        const b = Math.round(255 * t);
+        color = `rgb(${r}, 0, ${b})`;
+      } else {
+        const t = (rating - 7.5) / 2.5;
+        const g = Math.round(255 * t);
+        const b = Math.round(255 * (1 - t));
+        color = `rgb(0, ${g}, ${b})`;
+      }
+      return { backgroundColor: color };
+    },
+    formatRating(rating) {
+      return rating ? parseFloat(rating).toFixed(1) : 'N/A';
+    },
+    formatWeight(weight) {
+      return weight ? parseFloat(weight).toFixed(1) : 'N/A';
+    },
     switchCollection() {
       this.CollectionDialog = true;
     },
@@ -382,8 +414,107 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 img {
   object-fit: cover;
+}
+.title-text {
+  font-size: 1.25rem; 
+  line-height: 1;
+}
+.designer-text {
+  font-size: .8rem; 
+  line-height: 0.8;
+  color: green;
+}
+.year-text {
+  font-size: .7rem; 
+  color: grey;
+}
+.hexagon {
+  position: relative;
+  width: 48px; /* Size of the hexagon */
+  height: 48px;
+  background-color: #ccc; /* Default background color */
+  clip-path: polygon(
+    50% 0%, 
+    100% 25%, 
+    100% 75%, 
+    50% 100%, 
+    0% 75%, 
+    0% 25%
+  ); /* Create a hexagon */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white; /* Text color */
+  font-weight: bold;
+  text-align: center;
+}
+
+.hex-text {
+  position: relative;
+  z-index: 2;
+  font-size: 0.9rem; /* Adjust font size */
+}
+.players-icon {
+  position: relative;
+  display: inline-block; 
+  width: 48px;
+  height: 48px;
+  margin: 0 auto;
+  background-image: url('@/assets/players.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  line-height: 48px;
+  text-align: center;
+  font-weight: bold;
+  color: #333;
+}
+.meeple-icon {
+  position: relative;
+  display: inline-block; 
+  width: 48px;
+  height: 48px;
+  margin: 0 auto;
+  background-image: url('@/assets/meeple.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  line-height: 48px;
+  text-align: center;
+  font-weight: bold;
+  color: #333;
+}
+.time-icon {
+  position: relative;
+  display: inline-block; 
+  width: 48px;
+  height: 48px;
+  margin: 0 auto;
+  background-image: url('@/assets/time.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  line-height: 48px;
+  text-align: center;
+  font-weight: bold;
+  color: #333;
+}
+.weight-icon {
+  position: relative;
+  display: inline-block; 
+  width: 48px;
+  height: 48px;
+  margin: 0 auto;
+  background-image: url('@/assets/weight.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  line-height: 32px;
+  text-align: center;
+  font-weight: bold;
+  color: #333;
 }
 </style>
