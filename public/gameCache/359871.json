@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-01-08T23:50:51.380Z",
+  "gameDetails": {
+    "id": "359871",
+    "name": "Arcs",
+    "type": "boardgame",
+    "description": "Arcs is a sharp sci-fi strategy game for 2&ndash;4 players, set in a dark yet silly universe. Players represent officials from a distant, decaying and neglectful Empire who are now free to vie for dominance whether through battle, gathering scarce resources or diplomatic intrigue. Ready yourself for dramatic twists and turns as you launch into this galactic struggle.&#10;&#10;A deck of cards in 4 suits with ranks from 1-7 (2-6 for less than 4 players) defines the action selection system. These cards a played in a trick-taking adjacent system to select actions, take the initiative and declare Ambitions. The 3 declared Ambitions are what will score in that deal. Timing is everything. Bad hands must be mitigated by careful card play and benefitting from other players' card play.&#10;&#10;Battles are resolved quickly with the attacker choosing their level of risk. The defenders must be prepared with adequate defensive ships and cards in their tableau.&#10;&#10;Each game contains a hundred wooden ships and agents, 18 custom engraved dice, a beautiful six-panel board, and tons of cards with over 60 pieces of unique art. The base game may be played without the optional Leaders and Lore cards (for an easier teach) or with them for a richer, fuller and asymmetric game. It is also the core of the campaign game (requiring the Blighted Reach Expansion), which provides an epic, more thematic experience.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__original/img/43ianMZOks7UHlZILx0VBRntOmM=/0x0/filters:format(png)/pic8145530.png",
+    "thumbnail": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__thumb/img/Ry-6KHwNgERWadyxs1X1_P3dMvY=/fit-in/200x150/filters:strip_icc()/pic8145530.png",
+    "link": "https://boardgamegeek.com/thing/359871",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.19789",
+    "averageWeight": "3.409",
+    "boardGameRank": "147",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Hand Management",
+      "Negotiation",
+      "Trick-taking",
+      "Turn Order: Claim Action",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Cole Wehrle"
+    ]
+  }
+}

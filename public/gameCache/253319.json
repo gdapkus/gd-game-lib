@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:51:20.004Z",
+  "gameDetails": {
+    "id": "253319",
+    "name": "Southern Pacific",
+    "type": "boardgame",
+    "description": "The Civil War is over, and it's time to get back to America's business: making money. The railroads are the place to do it, and the American Southwest is booming, with robber barons starting and funding railroads across Texas and beyond. Savvy investments will pay off handsomely, others not so much. What sort of dividends should be paid versus how much should be kept by the railroad for further expansion? Each railroad president must decide for themselves, keeping the shareholders happy or being forced out in a hostile takeover.&#10;&#10;In the luck-free game Southern Pacific, six railroads vie for dominance in Texas as they approach from Louisiana, Arkansas, and Oklahoma in the 1800s. The selling of shares finances these railroads, with the president of each railroad auctioning stock, building new track, acquiring existing track from other companies, or paying dividends. &quot;Bull market&quot; auctions at the end of each round can unexpectedly disrupt a president's control of a company. The game ends when one railroad has built all of its track or all stocks have been acquired. A stock earns dividends during the game, but has no value in the final scoring. In the end, whoever has the most cash in hand wins.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/3pXJVvasT-yrq2WO7aAqGg__original/img/W7KU04FN428iTeCFMY4N-E-Z874=/0x0/filters:format(jpeg)/pic8065992.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3pXJVvasT-yrq2WO7aAqGg__thumb/img/T-7A8GqETxyUmK6LBTlpy_MjHRs=/fit-in/200x150/filters:strip_icc()/pic8065992.jpg",
+    "link": "https://boardgamegeek.com/thing/253319",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.02944",
+    "averageWeight": "3",
+    "boardGameRank": "10830",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "John Bohrer"
+    ]
+  }
+}

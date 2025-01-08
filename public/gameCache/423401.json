@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-01-08T23:51:16.663Z",
+  "gameDetails": {
+    "id": "423401",
+    "name": "Minos: Dawn of the Bronze Age",
+    "type": "boardgame",
+    "description": "In the ancient realm of Crete, amidst the sun-drenched shores and labyrinthine corridors of Knossos, the fate of the Minoan civilization is yet to be determined. As a member of one of the four illustrious Minoan clans, your destiny beckons you to vie for the prestigious title of Minos, the ultimate leader of your people.&#10;&#10;But keep in mind - unlike the tumultuous conquests of other civilizations, the Minoans are renowned for their pursuit of peace and prosperity. In this captivating journey, the essence of your quest lies not in the clash of swords, but in the art of governance and the cultivation of your clan&rsquo;s unique identity.&#10;&#10;As leaders of Minoan clans players are in charge of the first European civilization. Build cities, monuments and other structures, open new trade routes, expand and fight off outsiders out of your land, plan your actions with your clan council, research and issue decrees so your actions will be more powerful than your opponents! You have only 4 rounds to prove you are worthy of the legendary Minos title.&#10;&#10;Draft and assign the dice to the programming board. With lower value dice you can secure stronger actions but the higher value dice will help you climb on the tracks and gain their benefits. During the action phase each player takes their dice in order from highest to lowest and performing the pre-planned actions. Players also build their tableau - each card has an instant effect and a triggered reward connected to the specific action or die value they can use to make the action more powerful. Moreover, twice in the game players get Victory Points for their civilization progress in the region.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/SScMT92rIP3K0NTK43z9IA__original/img/u5tzf8rU2TBzQVoroNdlbcdqynk=/0x0/filters:format(jpeg)/pic8265896.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SScMT92rIP3K0NTK43z9IA__thumb/img/YO9v3XH_SJE5ifQje2gin4wEBws=/fit-in/200x150/filters:strip_icc()/pic8265896.jpg",
+    "link": "https://boardgamegeek.com/thing/423401",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "150",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.70164",
+    "averageWeight": "3.6905",
+    "boardGameRank": "3574",
+    "mechanics": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Income",
+      "Movement Points",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Civilization",
+      "Dice",
+      "Economic",
+      "Mythology"
+    ],
+    "designers": [
+      "Stan Kordonskiy"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-01-08T23:52:45.258Z",
+  "gameDetails": {
+    "id": "5881",
+    "name": "Tet Offensive",
+    "type": "boardgame",
+    "description": "On January 30, 1968 the combined forces of the Viet Cong and the North Vietnamese Army launched a countrywide offensive directed at the major cities and towns of Vietnam.  The offensive was unprecedented in its scope and violence and would eventually prove to be the deciding battle of the war.&#10;&#10;Tet Offensive, in somewhat abstract terms, covers at the Operational  level all of the important events of the battle. Morale plays a major part of the game, in fact the way to win is by demoralizing your opponent.&#10;&#10;Included in the rules are variants, including a 4-player version, and historical commentaries and analysis.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/PKF_8SGc3_h7SBdXbXCNQw__original/img/sZOU8GfHpVXILnDc5v6A9zRjHiI=/0x0/filters:format(jpeg)/pic333700.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PKF_8SGc3_h7SBdXbXCNQw__thumb/img/M6iOx0PuebhQ18EBI65uxvCH0ks=/fit-in/200x150/filters:strip_icc()/pic333700.jpg",
+    "link": "https://boardgamegeek.com/thing/5881",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1991",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.04318",
+    "averageWeight": "2.7273",
+    "boardGameRank": "19745",
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Simulation"
+    ],
+    "categories": [
+      "Civil War",
+      "Modern Warfare",
+      "Vietnam War",
+      "Wargame"
+    ],
+    "designers": [
+      "Frank Chadwick"
+    ]
+  }
+}

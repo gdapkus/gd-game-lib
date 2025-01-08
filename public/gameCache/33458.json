@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-01-08T23:46:58.592Z",
+  "gameDetails": {
+    "id": "33458",
+    "name": "Carcassonne: Expansion 6 – Count, King & Robber",
+    "type": "boardgameexpansion",
+    "description": "The sixth large expansion to Carcassonne released in Europe by Hans im Gl&#195;&#188;ck is actually a compilation of three existing small expansions and a new one.  Before Z-Man Games picked up the Carcassonne license, this compilation was only available in the US from Rio Grande Games as part of the Big Box 2, or each small expansion was available individually.&#10;&#10;Part of the Carcassonne series.&#10;&#10;This compilation contains:&#10;&#10;    7 tiles out of Carcassonne: King & Scout (the King &amp; Scout tiles extending Carcassonne: Hunters and Gatherers are not included in this expansion)&#10;    Carcassonne: The Count of Carcassonne&#10;    Carcassonne: The River II&#10;    Carcassonne: The Cult, which was first made available in this compilation.&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/eTGI7r_ud_n2e0QjJg2F3g__original/img/vmUh80cSHUu8prgI57sBqzozXM4=/0x0/filters:format(jpeg)/pic4007858.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eTGI7r_ud_n2e0QjJg2F3g__thumb/img/oQjC8FKyOqBt9Vo2OTFJggpMLE0=/fit-in/200x150/filters:strip_icc()/pic4007858.jpg",
+    "link": "https://boardgamegeek.com/thing/33458",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.84284",
+    "averageWeight": "2.1923",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "City Building",
+      "Medieval"
+    ],
+    "designers": [
+      "Klaus-Jürgen Wrede"
+    ]
+  }
+}

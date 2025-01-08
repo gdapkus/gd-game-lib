@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-01-08T23:52:37.856Z",
+  "gameDetails": {
+    "id": "430307",
+    "name": "Escaping Extinction: Based on a True Story",
+    "type": "boardgame",
+    "description": "In Escaping Extinction, you take on the role of super-smart Dinos trying to build a rocket and survive extinction! Work together as a team to travel the world, searching for rocket parts described by your friend Dr. Velo C. Raptor. With a tile-based game board, you&rsquo;ll face a different layout every time you play &ndash; with special Earthquake cards changing it up mid-game! Can you make it to the safety of space before the Meteor touches down?&#10; HOW TO PLAY&#10;&#10;&#10;     Lay down the terrain tiles following the setup, set up each Dino's card and shuffle the different decks of cards. Remember the Meteor cards have a special way to shuffle! &#10;     Flip over the first Rocket Docket card, where Dr Raptor reveals where the next Rocket Part can be found. Each time you bring a Part back to the Oasis, the next card is flipped.&#10;     Taking turns, each Dino spends their 2 actions per round to move around the world, revealing tiles and collecting resources while searching for the Rocket Part.&#10;     Once each Dino has taken a turn, draw a Meteor card. These can help or hinder your mission. This is also how the Meteor gets closer to Earth, so don't waste time!&#10;     If an Earthquake gets drawn, it's time to shuffle the board around. These cards refresh the terrain tiles and change the world layout, so keep exploring&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/Lm67sw0WHjpnlb4c8rzdYA__original/img/nUSg6EsNwF0ftu0sxkbPKg5cbFw=/0x0/filters:format(jpeg)/pic8480167.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Lm67sw0WHjpnlb4c8rzdYA__thumb/img/QVcziaGEq3cu9wX7ALnSEz1jpvU=/fit-in/200x150/filters:strip_icc()/pic8480167.jpg",
+    "link": "https://boardgamegeek.com/thing/430307",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "7.3",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Events",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Exploration",
+      "Prehistoric",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Chris Armstrong",
+      "Jen Armstrong"
+    ]
+  }
+}

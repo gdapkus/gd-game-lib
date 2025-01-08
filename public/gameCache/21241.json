@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-01-08T23:46:53.913Z",
+  "gameDetails": {
+    "id": "21241",
+    "name": "Neuroshima Hex! 3.0",
+    "type": "boardgame",
+    "description": "Neuroshima Hex! is a strategy game set in the post-apocalyptic world of Neuroshima, a Polish role-playing game. Each player leads one of four armies: Borgo, Hegemonia (Hegemony), Moloch, and Posterunek (Outpost). Each army deck consists of 34 tiles: soldiers, support tiles, and special actions. You win when all enemy headquarters are destroyed or when your headquarters is the least damaged at the end of the game.&#10;&#10;The second edition of Neuroshima Hex!, released at Spiel 2007, had updated graphics and a new, larger board; a special expansion pack sold at the same time included the Neuroshima Hex! Doomsday Machine 1.0, a fifth army that could be used against any of the other ones.&#10;&#10;The first French edition of Neuroshima Hex!, released in 2008, included an additional four Mercenary tiles. The first English edition from Z-Man Games that same year includes the Mercenary tiles and the Mad Bomber tile.&#10;&#10;Neuroshima Hex! 3.0, released in 2013 from Z-Man Games, includes rule corrections, the Doomsday Machine army (for five armies in the NH base game), a solo variant with 55 puzzle cards that present you with challenging situations, and new three-player variants: Deathmatch; Deathmatch with scores; one player vs. a team; and a team match (with one player playing two armies).&#10;&#10; The game is also expanded by Unofficial Neuroshima Hex! expansions, available here on BGG.&#10;&#10;Note:  All base game and expansion armies in all versions/editions are functionally compatible!  The only differences between armies from e.g. 3.0 and 2.5 (or whatever) are art &amp; graphic design.&#10;&#10;Note:  There is no solitaire bot/AI/system to compete against.  The only options for &quot;solo&quot; play are soloing multiple factions yourself, or solving puzzles (like Chess checkmate problems) available in some editions and expansions.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/8KB-cVXjNmYA6xuw-lo6eg__original/img/Qifs0EDB048uO_ROk7yx7d6wdbY=/0x0/filters:format(jpeg)/pic1844819.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8KB-cVXjNmYA6xuw-lo6eg__thumb/img/zjrFK62DgQIbaYI_BkJdd1X_xi8=/fit-in/200x150/filters:strip_icc()/pic1844819.jpg",
+    "link": "https://boardgamegeek.com/thing/21241",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2006",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.38783",
+    "averageWeight": "2.6125",
+    "boardGameRank": "385",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Connections",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Player Elimination",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Collectible Components",
+      "Fighting",
+      "Puzzle",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Michał Oracz"
+    ]
+  }
+}

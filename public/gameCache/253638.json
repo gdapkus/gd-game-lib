@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-01-08T23:52:29.557Z",
+  "gameDetails": {
+    "id": "253638",
+    "name": "Heroes of Land, Air & Sea: Pestilence",
+    "type": "boardgameexpansion",
+    "description": "Expands Heroes of Land, Air &amp; Sea to support 7 players. Features a floating continent, held above the board with clear plastic stands, and a sunken continent, achieved by laying a transparent blue sheet over an existing island.&#10;&#10;Includes 2 new factions: the Birdfolk and the Merfolk, 20 new spell cards, 24 new exploration tokens, and components for a 7th player.&#10;&#10;-description from designer&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/Kbf0aqFzpW0kCdeuo3CGKQ__original/img/3BBW6yfHrkF3dFQYha4mZVK2xAE=/0x0/filters:format(jpeg)/pic4143139.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Kbf0aqFzpW0kCdeuo3CGKQ__thumb/img/Tag7cvH_84JO9yId38UbjJgoEVM=/fit-in/200x150/filters:strip_icc()/pic4143139.jpg",
+    "link": "https://boardgamegeek.com/thing/253638",
+    "minPlayers": "1",
+    "maxPlayers": "7",
+    "yearPublished": "2019",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.12779",
+    "averageWeight": "3.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Take That",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Medieval",
+      "Miniatures",
+      "Wargame"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

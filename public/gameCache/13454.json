@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:52:35.826Z",
+  "gameDetails": {
+    "id": "13454",
+    "name": "Playing With Pyramids",
+    "type": "boardgame",
+    "description": "Playing with Pyramids is a collection of rules for 12 games that can be played with the Icehouse pieces from Looney Labs.  Several of these games were submitted by fans of Icehouse, designed for use with the pyramids.  The games are mostly abstract, but the diversity of games included (analytical, inductive logic, dexterity, turn less, roll-and-move) means that most people will find something to interest them.  Since this book's publication, many more games have been created and posted online.&#10;&#10;The book contains rules to the following games:&#10;&#10;&#10;     Gnostica&#10;     Homeworlds&#10;     Icehouse&#10;     IceTowers&#10;     Martian Backgammon&#10;     Martian Chess&#10;     Pikemen&#10;     RAMbots&#10;     Thin Ice&#10;     Volcano&#10;     Zagami&#10;     Zendo&#10;&#10;&#10;Expands:&#10;&#10;    Icehouse&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/UcoEWAg7_yZI4_hCcIJSpA__original/img/yInTsXMPQxc0conNN5ZinJO1G4w=/0x0/filters:format(jpeg)/pic218468.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UcoEWAg7_yZI4_hCcIJSpA__thumb/img/NKETyncqRQgNCZ5JZ0NEvnf8ni0=/fit-in/200x150/filters:strip_icc()/pic218468.jpg",
+    "link": "https://boardgamegeek.com/thing/13454",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2002",
+    "playingTime": "60",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "7.36512",
+    "averageWeight": "2.3125",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Movement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Book",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "John Cooper",
+      "Jacob Davenport",
+      "Kory Heath",
+      "Andrew Looney",
+      "Kristin Looney"
+    ]
+  }
+}

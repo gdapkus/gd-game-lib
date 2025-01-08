@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-01-08T23:51:31.357Z",
+  "gameDetails": {
+    "id": "245487",
+    "name": "Orchard: 9 card solitaire game",
+    "type": "boardgame",
+    "description": "Orchard is a quick solitaire &quot;tile laying&quot; game that plays in under 10 minutes and that won the 2018 9-Card Nanogame Print and Play Design Contest. The aim of the game is to harvest fruit (score points) by playing cards so that their fruit trees overlap other trees already in the orchard that bear the same fruit. The more trees you can overlap, the more fruit you'll pick.&#10;&#10;There are 18 cards, of which you use 9 in any one game. For &quot;print and play&quot; you'll need 15 dice (5 each of three colours) to keep track of your increasing harvest, and two cubes to represent &quot;rotten&quot; fruit. These allow you to lay a card that you wouldn't otherwise be able to &mdash; but come with a points penalty, so you must decide if and when to play them.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/tAlkLzFCj-OusgaxQo7SxQ__original/img/QEz5rtHvpnZ_uGaBipjknwQ3gKI=/0x0/filters:format(png)/pic5159434.png",
+    "thumbnail": "https://cf.geekdo-images.com/tAlkLzFCj-OusgaxQo7SxQ__thumb/img/ePGNy1jSXaVuTx05OYcsOTubEjA=/fit-in/200x150/filters:strip_icc()/pic5159434.png",
+    "link": "https://boardgamegeek.com/thing/245487",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2018",
+    "playingTime": "10",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.28614",
+    "averageWeight": "1.181",
+    "boardGameRank": "1031",
+    "mechanics": [
+      "Layering",
+      "Melding and Splaying",
+      "Pattern Building",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Card Game",
+      "Dice",
+      "Farming",
+      "Print & Play"
+    ],
+    "designers": [
+      "Mark Tuck"
+    ]
+  }
+}

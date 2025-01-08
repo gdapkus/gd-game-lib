@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-01-08T23:46:55.474Z",
+  "gameDetails": {
+    "id": "240980",
+    "name": "Blood on the Clocktower",
+    "type": "boardgame",
+    "description": "In the quiet village of Ravenswood Bluff, &zwnj;a demon walks amongst you. During a hellish thunderstorm, on the stroke of midnight, there echoes a bone-chilling scream. The townsfolk rush to investigate and find the town storyteller murdered, their body impaled on the hands of the clocktower, blood dripping onto the cobblestones below. A Demon is on the loose, murdering by night and disguised in human form by day. Some have scraps of information. Others have abilities that fight the evil or protect the innocent. But the Demon and its evil minions are spreading lies to confuse and breed suspicion. Will the good townsfolk put the puzzle together in time to execute the true demon and save themselves? Or will evil overrun this once peaceful village?&#10;&#10;Blood on the Clocktower is a bluffing game with players on opposing teams of Good and Evil, overseen by a Storyteller player who conducts the action and makes crucial decisions. The goal of the game is to successfully deduce and execute the demons before they outnumber the townfolk.&#10;&#10;During a 'day' phase players socialize openly and whisper privately to trade knowledge or spread lies, culminating in a player's execution if a majority suspects them of being Evil. During a 'night' time, players close their eyes and are woken one at a time by the Storyteller to gather information, spread mischief, or kill.&#10;&#10;The Storyteller uses the game's intricate playing pieces to guide each game, leaving others free to play without a table or board. Players stay in the thick of the action to the very end even if their characters are killed, haunting Ravenswood Bluff as ghosts trying to win from beyond the grave. If you arrive late to a game, you can enter after it's started as a powerful Traveller character with unusual talents and questionable allegiances. Each character comes with their own special ability and no two players in a game are ever the same character.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__original/img/e7izEwSmnBPiErsIF6hlWbgybBE=/0x0/filters:format(jpeg)/pic7009391.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__thumb/img/cRCX-PIROiSFG5aLvwkn2O7tHsg=/fit-in/200x150/filters:strip_icc()/pic7009391.jpg",
+    "link": "https://boardgamegeek.com/thing/240980",
+    "minPlayers": "6",
+    "maxPlayers": "21",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      9,
+      12
+    ],
+    "averageRating": "8.34162",
+    "averageWeight": "3.0417",
+    "boardGameRank": "130",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Deduction",
+      "Hidden Roles",
+      "Negotiation",
+      "Prisoner's Dilemma",
+      "Rock-Paper-Scissors",
+      "Roles with Asymmetric Information",
+      "Team-Based Game",
+      "Variable Player Powers",
+      "Voting"
+    ],
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Horror",
+      "Murder / Mystery",
+      "Party Game"
+    ],
+    "designers": [
+      "Steven Medway"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-01-08T23:46:38.131Z",
+  "gameDetails": {
+    "id": "318307",
+    "name": "Holiday Hijinks #1: The Kringle Caper",
+    "type": "boardgame",
+    "description": "It's the crack of dawn on Christmas Day when the early morning silence is broken by a sudden &ldquo;Kerplunk!&rdquo; Something strange has dropped down the chimney! You race to the hearth to find a soot-covered envelope with &ldquo;URGENT&rdquo; scrawled across the front. Anxiously, you open the letter and discover a cryptic message. As you begin to read,  the air fills with the sound of Jingle bells and the sweet smell of peppermint. Just then, you are magically whisked away to the North Pole!  It seems that a dastardly crime has been committed and Santa needs your help to catch the ne'erdowells!  There's no time to wait, Santa is counting on you!  Are you ready to save Christmas?&#10;&#10;The Kringle Caper, title #1 in the Holiday Hijinks line, is an escape room style game in just 18 cards! As a group, you will solve a series of puzzles to unravel a mystery.&#10;&#10;When you have solved a puzzle, you will enter the answer into the companion web app (compatible with all smartphones and computers) and it will check whether you are correct. If you are, the app will tell you which card or cards to take next.&#10;&#10;The app also contains a graduated hint system, so if you get stuck you can get just a small hint about the current puzzle to get moving again without giving too much away.&#10;&#10;Puzzles may test your perception, wordplay, and lateral thinking. English language fluency is required. Knowledge of traditional Christmas topics is helpful, but that information is also provided in the app if you need it.&#10;&#10;Most groups take about an hour to solve the game. You can write on the cards to help solve puzzles, but this is not required (or you could use penny sleeves) and the game is otherwise non-destructable. So while you can't play again yourself, you could give the used game to someone else to play.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/4m4MM11VewzSZAgq_Wbo2A__original/img/02aLyAVtsAObkxrFmfV_Hsf7xJU=/0x0/filters:format(png)/pic6918874.png",
+    "thumbnail": "https://cf.geekdo-images.com/4m4MM11VewzSZAgq_Wbo2A__thumb/img/M05LGZTny0HZ20SyIqyskgMMg0o=/fit-in/200x150/filters:strip_icc()/pic6918874.png",
+    "link": "https://boardgamegeek.com/thing/318307",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.17803",
+    "averageWeight": "1.5",
+    "boardGameRank": "7780",
+    "mechanics": [
+      "Deduction",
+      "Finale Ending"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Puzzle"
+    ],
+    "designers": [
+      "Jonathan Chaffer"
+    ]
+  }
+}

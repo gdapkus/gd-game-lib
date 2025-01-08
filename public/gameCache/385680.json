@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:52:32.687Z",
+  "gameDetails": {
+    "id": "385680",
+    "name": "Path of Civilization",
+    "type": "boardgame",
+    "description": "Take the reins of your Civilization and make the choices that will make it the most prosperous. It doesn't matter which path you take, as long as it leads your people to glory. Research new technologies to improve your nation's Science, Military strength, Spirituality, Culture and Industrialization. Grow the greatest Philosophical current of humanity. Use your Philosophers to become one of its forerunners and thus decide its evolution. Send your Builders to create wonders from your territory that will outlive everything, even men. Grow your Population so that the most illustrious Leaders are born from it and change the world forever, even after their death. Develop your Military Legacy so that the name of your civilization is enough to make your opponents tremble. And if that is not enough, send your army to defeat even the most distant External Threat. Use your Sages and the knowledge of your civilization to solve the great Challenges of humanity that will mark its history.&#10;&#10;In Path of Civilization, from the very first second of the game you must make choices that will have repercussions until the end of the game. The game is played simultaneously and works with a simple card and resource management system. The diversity of its cards guarantees enormous variability.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/-x19nQIBHlfPsfJ8qFOVuA__original/img/DD_6h0G8IyC_dpVlyK6xH-hpDBc=/0x0/filters:format(jpeg)/pic7744081.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-x19nQIBHlfPsfJ8qFOVuA__thumb/img/Q7fmvhkOwy8c_1VmmNMKSAuOh_o=/fit-in/200x150/filters:strip_icc()/pic7744081.jpg",
+    "link": "https://boardgamegeek.com/thing/385680",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.26387",
+    "averageWeight": "2.76",
+    "boardGameRank": "1981",
+    "mechanics": [
+      "Events",
+      "Hand Management",
+      "Simultaneous Action Selection",
+      "Tech Trees / Tech Tracks",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Civilization"
+    ],
+    "designers": [
+      "Fabien Gridel"
+    ]
+  }
+}

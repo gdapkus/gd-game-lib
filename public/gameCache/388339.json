@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-01-08T23:46:57.013Z",
+  "gameDetails": {
+    "id": "388339",
+    "name": "Planta Nubo",
+    "type": "boardgame",
+    "description": "&quot;It was our darkest hour. The warnings, the desperate cries &hellip; Nobody wanted to hear them. Until it was almost too late. When almost only burned soil was left. We were not saved by ourselves. It was the trees. As if they knew what the hour has struck. They showed us what mattered. But we understood and embraced them. Now we know what to do and help. As good as we can. With those few technologies that we have left. With new natural technologies that we gained from the Arbors. Green energy and oxygen are needed to overgrow burned soil with live-giving greenery. To find hope in our new world of Overgrown &hellip;&quot;&#10;(Dr. Ayleen Espero, specialist on oxygen)&#10;&#10;In Planta Nubo players grow energy-rich flowers and plants in cloudy gardens &ndash; the treetops of the Arbors. Deliver them to bee-like airships which transport them to the biomass converters to be transformed into green energy. Sow woods on the freshly harvested soil. Energize helpful modules while your woods, your bots and the Arbor produce desperately needed oxygen. Make good use of your tools to perform actions and use your garden bot to help you grow flowers. Supply your platform bot with energy to use modules and operate Oxyfarms. Turn your Arbor into the best oxygen production facility! If you produce the most oxygen by the end of the game you win!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/FaQLuecDL7xhmQnRTdSqVw__original/img/zjWjia5i1C5V1Y8jHd-HuhV9LYA=/0x0/filters:format(jpeg)/pic8321325.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FaQLuecDL7xhmQnRTdSqVw__thumb/img/F5Z03e8L6L3ROsVrHamIlRLDKRE=/fit-in/200x150/filters:strip_icc()/pic8321325.jpg",
+    "link": "https://boardgamegeek.com/thing/388339",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.22636",
+    "averageWeight": "3.9167",
+    "boardGameRank": "3474",
+    "mechanics": [
+      "Action Drafting",
+      "Contracts",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Environmental",
+      "Farming"
+    ],
+    "designers": [
+      "Andreas Odendahl",
+      "Michael Keller (II)",
+      "Uwe Rosenberg"
+    ]
+  }
+}

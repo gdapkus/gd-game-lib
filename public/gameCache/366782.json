@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:52:54.598Z",
+  "gameDetails": {
+    "id": "366782",
+    "name": "Wildstyle",
+    "type": "boardgame",
+    "description": "Welcome to Wildstyle, where the city is your canvas and the streets belong to the people. Rock to the beat of your favorite pirate radio station while you and your crew tag the city. Make sure your rivals know where their turf ends and where yours begins. Watch out for the man though, because not everyone in the city appreciates your artistic endeavors and they might call the fuzz on you!&#10;&#10;The goal of the game is to tag locations across the city's districts with your crew's color. You'll do this by collecting sets of cards with matching location icons. Each time you collect a set of 3 cards that all have the same icon, you get to place a tag on a hex with that icon anywhere on the map.&#10;&#10;The game is played over 3 rounds and there are no turns! Once a round has started everyone takes their actions at the same time in any order they choose. There are 5 main actions:&#10;- Draw a card: Draw the top card from any draw pile into your hand.&#10;- Add to a set: Play a card from your hand or from the top of the share pile onto a set pile on your crew mat.&#10;- Share a card: Play a card from your hand onto a share pile that is empty or has the matching color or icon on top.&#10;- Complete a set: Clear a set of 3 cards from your crew mat and place a tag on a matching map hex.&#10;- Rush a set: Take a cop car token to clear an incomplete set and place a tag on a matching map hex.&#10;&#10;The end of the round is triggered either when all draw piles are empty or once only 1 player has tags remaining on their map. Each player gets 6 crew tags from the supply and another round commences. The game ends after 3 rounds and you'll score for objectives and for each map hex where you have a tag AND lose points for cop cars and solo tags. The crew with the most points wins!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/awz991frkKlKqBlnG-cOyQ__original/img/JmNDGrutGkczLML1xNx9AQ8EjP4=/0x0/filters:format(jpeg)/pic6959606.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/awz991frkKlKqBlnG-cOyQ__thumb/img/YeNzBsb7rSiSDCnXGEK6InSoZWk=/fit-in/200x150/filters:strip_icc()/pic6959606.jpg",
+    "link": "https://boardgamegeek.com/thing/366782",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.03873",
+    "averageWeight": "1.6667",
+    "boardGameRank": "11204",
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Real-Time",
+      "Set Collection"
+    ],
+    "categories": [
+      "Real-time"
+    ],
+    "designers": [
+      "Peter Ridgeway"
+    ]
+  }
+}

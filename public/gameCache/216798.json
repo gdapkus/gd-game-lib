@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-01-08T23:47:36.421Z",
+  "gameDetails": {
+    "id": "216798",
+    "name": "Telestrations: 6 Player Family Pack",
+    "type": "boardgame",
+    "description": "This is the family sized (4-6) player version of Telestrations.  Gameplay alternates between drawing an image based on your given word, or guessing a word based on the image you've been given.  The humor starts to come out when people misinterpret what they had, and the results become more and more outrageous.  &#10;Its like the old game of telephone with illustrations, hence the name.&#10;&#10;From the publisher:&#10;&quot;The Telestrations Family Pack is perfect for families or small groups of friends. Make hilarious memories with the ones you love or start all new friendships with the perfect ice-breaker game.&quot;&#10;&#10;&quot;Includes: 6 Erasable Color Coiled Sketch Books, 6 Dry Erase Markers, Over 800 total words &amp; phrases to sketch &amp; guess, 3 Clean up cloths, 1 Die&quot;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/DMWz1nkmaWQUVd22nVcVNQ__original/img/MpEbIaStgqrdvp9ERJI7TJ6Xs8s=/0x0/filters:format(jpeg)/pic4298146.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DMWz1nkmaWQUVd22nVcVNQ__thumb/img/0tepFqG9GvgoHG99h-Yvnjl0FKI=/fit-in/200x150/filters:strip_icc()/pic4298146.jpg",
+    "link": "https://boardgamegeek.com/thing/216798",
+    "minPlayers": "4",
+    "maxPlayers": "6",
+    "yearPublished": "2014",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "7.3318",
+    "averageWeight": "1",
+    "boardGameRank": "4107",
+    "mechanics": [
+      "Line Drawing",
+      "Paper-and-Pencil"
+    ],
+    "categories": [
+      "Humor",
+      "Party Game"
+    ],
+    "designers": []
+  }
+}

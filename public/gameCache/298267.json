@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-01-08T23:46:44.424Z",
+  "gameDetails": {
+    "id": "298267",
+    "name": "Mystery House: Adventures in a Box – Back to Tombstone",
+    "type": "boardgameexpansion",
+    "description": "A fearless and furious Indian tribe, fast and smoking guns, a gloomy mystery under the Western hot sun &mdash; all of this awaits in Back to Tombstone, a Western-themed adventure for the game Mystery House: Adventures in a Box.&#10;&#10;Solve all the riddles, and escape alive from the wild wild west.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/FUXTqL8qaBNcJkhvuTA0UQ__original/img/CwQRMlEo96H_FkbhtttOPkd5Tpo=/0x0/filters:format(jpeg)/pic5158893.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FUXTqL8qaBNcJkhvuTA0UQ__thumb/img/WQVV98GzGT2hWAlkTxjz_8vR4HQ=/fit-in/200x150/filters:strip_icc()/pic5158893.jpg",
+    "link": "https://boardgamegeek.com/thing/298267",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.71302",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Deduction",
+      "Expansion for Base-game",
+      "Murder / Mystery",
+      "Party Game",
+      "Real-time"
+    ],
+    "designers": [
+      "Antonio Tinto"
+    ]
+  }
+}

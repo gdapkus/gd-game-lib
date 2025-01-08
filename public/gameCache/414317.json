@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:47:17.449Z",
+  "gameDetails": {
+    "id": "414317",
+    "name": "Harmonies",
+    "type": "boardgame",
+    "description": "In Harmonies, build landscapes by placing colored tokens and create habitats for your animals. To earn the most points and win the game, incorporate the habitats in your landscapes wisely and have as many animals as you can settle there.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__original/img/_Rv8lSr3fC1oDRkrQleQW2H2yCs=/0x0/filters:format(png)/pic8026369.png",
+    "thumbnail": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__thumb/img/ln5eKAzhse2PIHvWn7bu-jiW_uk=/fit-in/200x150/filters:strip_icc()/pic8026369.png",
+    "link": "https://boardgamegeek.com/thing/414317",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "8.02022",
+    "averageWeight": "2",
+    "boardGameRank": "128",
+    "mechanics": [
+      "Open Drafting",
+      "Pattern Building",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Environmental"
+    ],
+    "designers": [
+      "Johan Benvenuto"
+    ]
+  }
+}

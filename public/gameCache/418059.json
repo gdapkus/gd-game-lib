@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-01-08T23:47:33.289Z",
+  "gameDetails": {
+    "id": "418059",
+    "name": "SETI: Search for Extraterrestrial Intelligence",
+    "type": "boardgame",
+    "description": "In SETI: Search for Extraterrestrial Intelligence, a eurogame for 1&ndash;4 players, you lead a scientific institution tasked with searching for traces of life beyond planet Earth. The game draws inspiration from current or emerging technologies and efforts in space exploration.&#10;&#10;Players will explore nearby planets and their moons by launching probes from Earth while taking advantage of ever-shifting planetary positions. Decide whether to land on their surface to collect valuable samples, or stay in orbit for a broader survey. Additionally, by directing your telescopes to gaze into distant star systems, you may detect traces of alien signals or undiscovered exoplanets, and collect promising data to examine and study back home.&#10;&#10;Back on Earth, you can invest in upgrading your equipment so you can analyze incoming data more efficiently, boost your telescope signal capacity, or increase your supply of resources&mdash;all to expand the scope of your search that could lead to a discovery of extraterrestrial life forms.&#10;&#10;You will also make use of over 200 cards to aid your efforts or focus your research in a particular direction for additional bonuses and rewards. Each card has unique effects and illustrations and depicts real-life technologies, projects, and discoveries (like the ISS, Large Hadron Collider, Perseverance rover, Voyager probe, and many more).&#10;&#10;Finding traces of extraterrestrial life is only a matter of time&mdash;utilize the resources you have at your disposal strategically and you may well end up being the one to make the biggest scientific contribution towards advancing our understanding of alien life within our galaxy.&#10;&#10;SETI: Search for Extraterrestrial Intelligence pays homage to space and planetary exploration, astronomy, the ongoing search for signs of life in the vastness of space, and efforts to understand the nature of life in the universe.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__original/img/28ob2JiASW8iX8XoVzp5Y25-h24=/0x0/filters:format(jpeg)/pic8160466.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__thumb/img/icamIZ4nP3HHH3vczZqTr1hQgKY=/fit-in/200x150/filters:strip_icc()/pic8160466.jpg",
+    "link": "https://boardgamegeek.com/thing/418059",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "160",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "160",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.37872",
+    "averageWeight": "3.7",
+    "boardGameRank": "433",
+    "mechanics": [
+      "End Game Bonuses",
+      "Income",
+      "Multi-Use Cards",
+      "Resource to Move",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Tomáš Holek"
+    ]
+  }
+}

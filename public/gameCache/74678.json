@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-01-08T23:51:20.516Z",
+  "gameDetails": {
+    "id": "74678",
+    "name": "West Riding Revisited",
+    "type": "boardgame",
+    "description": "West Riding Revisited is the result of ten years of further development of Han's original West Riding game and it plays very differently. No money is provided with WRR. This is part of Winsome's Essen 2010 set. (Taken from the Winsome Games homepage)&#10;&#10;This game fixes many of the &quot;down-time issues&quot; with West Riding. The theme is again the United Kingdom during the Industrial Revolution.&#10;&#10;Players follow the following turn squence to become the investor who has made the most money. The phases of a turn are: bid on shares, build track, trade shares (at two-to-one: two basic shares for a grouping share), pay dividends, and turn order. If the game ends, either by the game marker (a little wooden locomotive) reaching the end-of-game space OR if all six basic railways have the been finished. When the game is at its end, the Big Payoff begins, whereby players liquidate all of their holdings. The player with the most money wins.&#10;&#10;This game did away with the crayon aspect of its predecessor. Cubes are used to show expansion links. Some stocks also begin in the hands of &quot;dummy&quot; players. This results in the game opening not quite being so wide open. There is an advanced game variant that provides a variable starting setup if the basic game's opening becomes too scripted.&#10;&#10;The basic rail companies are: the Midland Railway (red), the London &amp; North Western Railway (black), the North Eastern Railway (brown), the Great Central Railway (blue), the Great Northern Railway (green), and the Lancashire &amp; Yorkshire Railway (yellow). There are eight of each of these shares. The grouping rail companies are: the London &amp; North Eastern Railway (orange) and the London, Midland, &amp; Scottish Railway (pink); both with 12 shares. (From Gameplay)&#10;Winsome Games' 2010 Essen Set&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/OIBNBf8Ll6vQgI-8dmdphg__original/img/vQ9Qmhi5S_ldQUYJACrVVgQ4ABE=/0x0/filters:format(png)/pic8211470.png",
+    "thumbnail": "https://cf.geekdo-images.com/OIBNBf8Ll6vQgI-8dmdphg__thumb/img/l-Sm3XYcAmtsePUSwO9ux9_5m14=/fit-in/200x150/filters:strip_icc()/pic8211470.png",
+    "link": "https://boardgamegeek.com/thing/74678",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2010",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.0628",
+    "averageWeight": "3.4",
+    "boardGameRank": "11591",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Economic",
+      "Trains"
+    ],
+    "designers": [
+      "Han Heidema"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:52:42.102Z",
+  "gameDetails": {
+    "id": "1590",
+    "name": "Stocks & Bonds",
+    "type": "boardgame",
+    "description": "Stocks &amp; Bonds will transport you to Wall Street.  You shrewdly invest in the game's 10 securities, buying and selling each year (each round) in an attempt to become the wealthiest stockholder in the game.  The game has a unique calculator which will tell you if you've had a Happy Monday or a Black Friday.&#10;&#10;Stocks &amp; Bonds is for two to eight players, teen through adult.  The bookshelf case contains a Stock Board, marker, dice, calculator, record sheets, situation cards, stock certificates and instructions.&#10;&#10;There are several different versions available, though the external boxes look the same.&#10;&#10;The original 1964 version in the 3M Bookshelf Series, with the block-style spine, has a single-sided market calculator, and requires that players pay $10 per transaction.  In the later version, with the filigree spine, the $10 per transaction is dropped, and the market calculator has a &quot;bear&quot; and a &quot;bull&quot; side.  Additionally, the later version has a &quot;margin&quot; variant that allows players to purchase stock on credit, but pay for a percentage of their credit.&#10;&#10;&#10;     reimplemented as Stock Market Guru&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/UsGNnwNDBSXpC9nZQ1laYw__original/img/_TeJY5YyKPg7jJ5HSM9nVpAXtxs=/0x0/filters:format(jpeg)/pic7028243.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UsGNnwNDBSXpC9nZQ1laYw__thumb/img/6ucbN7Dc13S8U_H_Ha_-CyNDqRs=/fit-in/200x150/filters:strip_icc()/pic7028243.jpg",
+    "link": "https://boardgamegeek.com/thing/1590",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "1964",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.77957",
+    "averageWeight": "2.025",
+    "boardGameRank": "11992",
+    "mechanics": [
+      "Commodity Speculation",
+      "Dice Rolling",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Economic"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

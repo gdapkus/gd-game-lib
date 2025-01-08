@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:46:41.254Z",
+  "gameDetails": {
+    "id": "269537",
+    "name": "Mystery House: Adventures in a Box",
+    "type": "boardgame",
+    "description": "Experience the thrill of an escape room in Mystery House: Adventures in a Box, which features a mix of technology and tradition. Play the game with this real 3D house where you can look in through the windows using a flashlight, giving you the experience of really exploring a dark, mysterious house. In this Escape Room type board game, you have to solve all the riddles you find inside to solve the mystery!&#10;&#10;At the beginning of the game, you insert enigma cards in the box top, building the house, and these cards will tell a story as they're revealed and resolved during play. You must search for clues in the house, looking through the windows in the rooms. An app drives you through the game and records the progress of your team and your playtime. With the app you can try to see items better, use items and enter codes, needed to solve the mystery.&#10;&#10;The base game includes an intro mystery and two adventures: &quot;Family Portrait&quot; and &quot;The Lord of the Labyrinth&quot;. All future expansions will use the same base game box and app as a game system.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/p64ete71GuhK-euYz1onqg__original/img/HZw-_YgmZy2rGE-2PazgMDORFZ4=/0x0/filters:format(jpeg)/pic4802033.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/p64ete71GuhK-euYz1onqg__thumb/img/nsHOeAy5gGB10ERXoudWZ1Mv-zo=/fit-in/200x150/filters:strip_icc()/pic4802033.jpg",
+    "link": "https://boardgamegeek.com/thing/269537",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.28861",
+    "averageWeight": "2.125",
+    "boardGameRank": "5444",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Deduction",
+      "Murder / Mystery",
+      "Party Game",
+      "Real-time"
+    ],
+    "designers": [
+      "Antonio Tinto"
+    ]
+  }
+}

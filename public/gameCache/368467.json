@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-01-08T23:46:28.717Z",
+  "gameDetails": {
+    "id": "368467",
+    "name": "Doomensions: Pop-Up Mystery Manor",
+    "type": "boardgame",
+    "description": "Investigators wanted they said... Safety guaranteed they said...&#10;&#10;As a newly commissioned paranormal investigator gather your thick scrapbook of evidence and pay a visit to the fully assembled, 8 room, 3D popup Mystery Manor -- no assembly required!  Secrets lie hidden in every dark corner, behind every closed door.  Making repeated exploration of the manor crucial to your investigation.&#10;&#10;Packed with clippings, foldouts, and other curious ephemera, your case file will guide you through your time at the Manor.  At key investigative milestones, your answer wheel will allow you to confirm your deductions before you return to the manor for more clues.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/ZX3O1Mx6LUBKDraLe0Noag__original/img/ivRCfkLp7FUICY0JJqKdM5y9yPY=/0x0/filters:format(jpeg)/pic8342861.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZX3O1Mx6LUBKDraLe0Noag__thumb/img/f0d2H_sQJoSQlKzUoBajrChFJZs=/fit-in/200x150/filters:strip_icc()/pic8342861.jpg",
+    "link": "https://boardgamegeek.com/thing/368467",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "600",
+    "minPlayingTime": "300",
+    "maxPlayingTime": "600",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.13036",
+    "averageWeight": "2.3333",
+    "boardGameRank": "14296",
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Puzzle"
+    ],
+    "designers": []
+  }
+}

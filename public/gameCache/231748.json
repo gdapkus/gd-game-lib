@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:47:06.406Z",
+  "gameDetails": {
+    "id": "231748",
+    "name": "Time Bomb Evolution",
+    "type": "boardgame",
+    "description": "&#227;&#130;&#191;&#227;&#130;&#164;&#227;&#131;&#160;&#227;&#131;&#156;&#227;&#131;&#160;&#227;&#130;&#168;&#227;&#131;&#156;&#227;&#131;&#170;&#227;&#131;&#165;&#227;&#131;&#188;&#227;&#130;&#183;&#227;&#131;&#167;&#227;&#131;&#179; (TimeBomb Evolution) is a game derived from TimeBomb.&#10;&#10;In the game, players are secretly assigned a role which is either a terrorist or a SWAT officer. Then cards are dealt to each player. They look at their cards and randomly place the cards face-down in front of them. SWATs win together if they deactivate the time bomb by revealing all of the SUCCESS cards.&#10;&#10;Each turn, a player chooses a card in front of another player and reveal it. If it is a SUCCESS card, SWATs get closer to winning. Otherwise it is a threat card, and its threat effect is activated according to its color. Terrorists win together if four threats of the same color are revealed.&#10;&#10;Players may discuss whose card should be revealed, but they should be noted that terrorists may be misleading SWATs.&#10;&#10;&bull;&bull;&bull;&#10;&#10;&#227;&#130;&#185;&#227;&#131;&#175;&#227;&#131;&#131;&#227;&#131;&#136;&#227;&#129;&#168;&#227;&#131;&#134;&#227;&#131;&#173;&#227;&#131;&#170;&#227;&#130;&#185;&#227;&#131;&#136;&#227;&#129;&#140;&#230;&#153;&#130;&#233;&#153;&#144;&#231;&#136;&#134;&#229;&#188;&#190;&#227;&#130;&#146;&#232;&#167;&#163;&#233;&#153;&#164;&#227;&#129;&#153;&#227;&#130;&#139;&#230;&#173;&#163;&#228;&#189;&#147;&#233;&#154;&#160;&#229;&#140;&#191;&#227;&#130;&#178;&#227;&#131;&#188;&#227;&#131;&#160;&#227;&#129;&#167;&#227;&#129;&#153;&#227;&#128;&#130;&#10;&#229;&#137;&#141;&#228;&#189;&#156;&#227;&#130;&#191;&#227;&#130;&#164;&#227;&#131;&#160;&#227;&#131;&#156;&#227;&#131;&#160;&#227;&#129;&#174;&#227;&#130;&#183;&#227;&#130;&#185;&#227;&#131;&#134;&#227;&#131;&#160;&#227;&#129;&#167;&#227;&#128;&#129;&#227;&#130;&#136;&#227;&#130;&#138;&#232;&#164;&#135;&#233;&#155;&#145;&#227;&#129;&#170;&#230;&#153;&#130;&#233;&#153;&#144;&#231;&#136;&#134;&#229;&#188;&#190;&#227;&#129;&#174;&#232;&#167;&#163;&#233;&#153;&#164;&#227;&#129;&#171;&#230;&#140;&#145;&#227;&#129;&#191;&#227;&#129;&#190;&#227;&#129;&#153;&#227;&#128;&#130;&#10;&#229;&#156;&#176;&#227;&#130;&#172;&#227;&#131;&#179;&#231;&#136;&#134;&#229;&#188;&#190;&#227;&#130;&#146;&#232;&#167;&#163;&#233;&#153;&#164;&#227;&#129;&#167;&#227;&#129;&#141;&#227;&#129;&#159;&#227;&#130;&#137;&#227;&#130;&#185;&#227;&#131;&#175;&#227;&#131;&#131;&#227;&#131;&#136;&#227;&#131;&#129;&#227;&#131;&#188;&#227;&#131;&#160;&#227;&#129;&#174;&#229;&#139;&#157;&#229;&#136;&#169;&#227;&#128;&#129;&#231;&#136;&#134;&#231;&#153;&#186;&#227;&#129;&#151;&#227;&#129;&#159;&#227;&#130;&#137;&#227;&#131;&#134;&#227;&#131;&#173;&#227;&#131;&#170;&#227;&#130;&#185;&#227;&#131;&#136;&#227;&#131;&#129;&#227;&#131;&#188;&#227;&#131;&#160;&#227;&#129;&#174;&#229;&#139;&#157;&#229;&#136;&#169;&#227;&#129;&#168;&#227;&#129;&#170;&#227;&#130;&#138;&#227;&#129;&#190;&#227;&#129;&#153;&#227;&#128;&#130;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/yU8CtWKysxxZ62nFT2uqPA__original/img/Rd0cVf7QGedurfnoVNuHZFPn634=/0x0/filters:format(jpeg)/pic5397704.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yU8CtWKysxxZ62nFT2uqPA__thumb/img/MwFdoRo42gwOmC5bdlx2PptSca8=/fit-in/200x150/filters:strip_icc()/pic5397704.jpg",
+    "link": "https://boardgamegeek.com/thing/231748",
+    "minPlayers": "4",
+    "maxPlayers": "6",
+    "yearPublished": "2016",
+    "playingTime": "30",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.76648",
+    "averageWeight": "1.5714",
+    "boardGameRank": "4487",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Deduction",
+      "Team-Based Game",
+      "Traitor Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "佐藤 雄介 (Yusuke Sato)"
+    ]
+  }
+}

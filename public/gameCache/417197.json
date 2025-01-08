@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-01-08T23:47:30.144Z",
+  "gameDetails": {
+    "id": "417197",
+    "name": "Rebirth",
+    "type": "boardgame",
+    "description": "Following a series of calamities that left civilization in shambles, societies around the world are being rebuilt anew in harmony with nature. Scotland lies in ruins and the ancient clans have taken it upon themselves to restore the land. As clan leaders you will compete for strategic control of the land by rebuilding its prestigious castles.&#10;&#10;Rebirth is a new, tile-laying game from Reiner Knizia. The game revitalizes this classic genre by combining Knizia&rsquo;s elegant mechanics with Mighty Boards&rsquo; evocative world building. The result is a eurogame with smooth gameplay, set in a lush and hopeful future.&#10;&#10;Each turn, players draw a tile from their supply and place it strategically on the board. These tiles represent your clan&rsquo;s contribution to rebuilding the land. Rebirth rewards strategic foresight and clever tactical play, with tougher decisions emerging over the course of the game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/tyv6lPMlyU7YIUztlILQYQ__original/img/KUY_vKJZenJVl0cv05Qkt-Gx-ao=/0x0/filters:format(png)/pic8587890.png",
+    "thumbnail": "https://cf.geekdo-images.com/tyv6lPMlyU7YIUztlILQYQ__thumb/img/_CXQQbXsewUlde4R22XCRApxZ5k=/fit-in/200x150/filters:strip_icc()/pic8587890.png",
+    "link": "https://boardgamegeek.com/thing/417197",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.81037",
+    "averageWeight": "2.093",
+    "boardGameRank": "1863",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Environmental",
+      "Fantasy",
+      "Farming",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

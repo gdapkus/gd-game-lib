@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-01-08T23:50:57.658Z",
+  "gameDetails": {
+    "id": "102151",
+    "name": "Colorado Midland",
+    "type": "boardgame",
+    "description": "Fabulous riches have been discovered in the nearly inaccessible Rocky Mountains. Gold and silver mines are opening in remote boomtowns, and the mine owners want men, equipment, and supplies to work the Mother Lode. Now, they say, is the time to build the rails through the Rockies! The sooner a railroad gets to a mine, the greater the profits for the mine owner before the mine is exhausted. The iron horse means money...and lots of it.&#10;&#10;In Colorado Midland, players are mine owners spurring the fledgling railroads through the daunting alpine terrain to the various booming mining districts. There is no luck during the game &mdash; just shared incentives and emergent alliances between players.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/kCoehoM7YJxuZgTirH8c5A__original/img/oK_gEEvEgwYGL17S2-yO-rSDetA=/0x0/filters:format(jpeg)/pic8065991.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kCoehoM7YJxuZgTirH8c5A__thumb/img/pGV9dMHLgaLVI28v56Z-r-dHrtE=/fit-in/200x150/filters:strip_icc()/pic8065991.jpg",
+    "link": "https://boardgamegeek.com/thing/102151",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.67619",
+    "averageWeight": "2.5833",
+    "boardGameRank": "9951",
+    "mechanics": [
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Economic",
+      "Trains"
+    ],
+    "designers": [
+      "John Bohrer"
+    ]
+  }
+}

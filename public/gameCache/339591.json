@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-01-08T23:47:23.751Z",
+  "gameDetails": {
+    "id": "339591",
+    "name": "Interstellar",
+    "type": "boardgame",
+    "description": "Aboard the Starship Exodus, players control seven spacefaring human-machine hybrids embarking on an epic pilgrimage to the stars. The journey will last many decades as you perform actions and place workers to develop technology for survival, terraforming, and colonization along the way. You must also battle many hardships like cancer, stress, or combat against gray goo, and mutineers in a delicate balancing act of tableaux management, decision making, and risky dice rolling. Entire sections of the ship are lost to erosion, lightning, desperation &ldquo;fryby&rdquo; star-diving, and foolhardy experiments. Players must negotiate risks and challenges together in a cooperative sense and survive the journey, but competitively, must have the most victory points to win.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/p2zzC8ZdzwtQVIGXdpK8QQ__original/img/yTmbrDpgzMgB4dzTfeVoVOuOjhc=/0x0/filters:format(png)/pic6380476.png",
+    "thumbnail": "https://cf.geekdo-images.com/p2zzC8ZdzwtQVIGXdpK8QQ__thumb/img/XxEDoBwhr0gEodoGMD8Bdxf4iXo=/fit-in/200x150/filters:strip_icc()/pic6380476.png",
+    "link": "https://boardgamegeek.com/thing/339591",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "240",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      3,
+      6
+    ],
+    "averageRating": "7.45145",
+    "averageWeight": "4.45",
+    "boardGameRank": "8528",
+    "mechanics": [
+      "Market",
+      "Melding and Splaying",
+      "Negotiation",
+      "Semi-Cooperative Game",
+      "Simulation",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Political",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Phil Eklund",
+      "Justin Grey"
+    ]
+  }
+}

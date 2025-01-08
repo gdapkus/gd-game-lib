@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-01-08T23:52:38.965Z",
+  "gameDetails": {
+    "id": "1708",
+    "name": "Stellar Conquest",
+    "type": "boardgame",
+    "description": "First published by Metagaming in 1975 (later as a boxed edition in 1979), Stellar Conquest is considered to be one of the first 4X (eXplore, eXploit, eXpand, eXterminate) board wargame. It plays four, but can be adapted for more players with the addition of extra sets of pieces. It is also possible to replace the deck of stars with random generation tables.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/xaUdsnlAql3H8IUvecbA1A__original/img/vEg1ANYbK4iPZjO4FIEs6lJ3JwY=/0x0/filters:format(jpeg)/pic243276.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xaUdsnlAql3H8IUvecbA1A__thumb/img/IkoIV1o9F58moS6juCswSQMrSgY=/fit-in/200x150/filters:strip_icc()/pic243276.jpg",
+    "link": "https://boardgamegeek.com/thing/1708",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1975",
+    "playingTime": "480",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "480",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.46932",
+    "averageWeight": "3.0395",
+    "boardGameRank": "5939",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Tech Trees / Tech Tracks",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic",
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "designers": [
+      "Howard Thompson"
+    ]
+  }
+}

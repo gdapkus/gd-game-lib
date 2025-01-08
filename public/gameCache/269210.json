@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:47:42.663Z",
+  "gameDetails": {
+    "id": "269210",
+    "name": "Twice as Clever!",
+    "type": "boardgame",
+    "description": "Doppelt so clever follows the model of 2018's Ganz sch&#195;&#182;n clever. Each turn the active player rolls six dice, chooses one of them to mark off a space on their scoring grid, places any dice with lower numbers aside, then re-rolls any remaining dice. The white die is a joker and can be used as any one of the other five colors. After the active player chooses at most three dice, then the other players each choose one of the set-aside dice for use on their scoring sheet.&#10;&#10;Doppelt so clever has five new dice-marking challenges and a new action beyond the re-roll and &quot;use one more die&quot; actions of the earlier game.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/5F4jkBIAbtkLJXOtvBjh3g__original/img/wnrJkPHJDbaT5nDbpjCxGIN5ZZE=/0x0/filters:format(jpeg)/pic8014068.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5F4jkBIAbtkLJXOtvBjh3g__thumb/img/1wKiUIxUBZpJaDRiRwHPCUrGZdk=/fit-in/200x150/filters:strip_icc()/pic8014068.jpg",
+    "link": "https://boardgamegeek.com/thing/269210",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.43186",
+    "averageWeight": "2.2865",
+    "boardGameRank": "432",
+    "mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Re-rolling and Locking",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Dice",
+      "Number"
+    ],
+    "designers": [
+      "Wolfgang Warsch"
+    ]
+  }
+}

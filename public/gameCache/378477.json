@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-01-08T23:46:22.421Z",
+  "gameDetails": {
+    "id": "378477",
+    "name": "Awkward Guests 2: The Berwick Cases",
+    "type": "boardgame",
+    "description": "Awkward Guests 2: The Berwick Cases is a title of the Awkward Guests series specifically for two players or teams. It is a dice, mystery and deduction game that challenges you to solve the murder of one of the Berwick twins... and to plan the murder of her sister.&#10;&#10;The games recreate the two murders of the Berwick sisters in different ways. The players take different roles in each case. In one they act as the mastermind PLOTTING how the murder occurred, and in the other as the investigator SOLVING the crime. The first investigator to correctly answer these questions first&#10;&#10;WHO killed Beatrice/Berenice Berwick?&#10;HOW did the murderer end her life?&#10;WHY did the murderer kill her?&#10;&#10;wins the game.&#10;&#10;In their turn, the investigator:&#10;&#10;&#10;     Rolls the query dice.&#10;     Places the results on the game board according to what information they wish to receive from their rival, the mastermind. They can then interrogate suspects, question the household staff, examine the crime scene, search for clues around the Berwick Mansions, and consult the police reports. &#10;     The mastermind reveals the requested information. With this information the investigator can draw conclusions and advance the case.&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/vTCNG0VlPMfkjvgPcdGiLQ__original/img/AUJZwfz9TB6hSb_x0ZhSIwZ4GI0=/0x0/filters:format(jpeg)/pic7310302.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vTCNG0VlPMfkjvgPcdGiLQ__thumb/img/Vgl2XLYSCY9-rEDuk__Pt5UjVBw=/fit-in/200x150/filters:strip_icc()/pic7310302.jpg",
+    "link": "https://boardgamegeek.com/thing/378477",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2023",
+    "playingTime": "40",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.86183",
+    "averageWeight": "2.4286",
+    "boardGameRank": "5605",
+    "mechanics": [
+      "Deduction",
+      "Dice Rolling",
+      "Hand Management",
+      "Re-rolling and Locking",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Deduction",
+      "Humor",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Ron Gonzalo García",
+      "Paz Navarro Moreno"
+    ]
+  }
+}

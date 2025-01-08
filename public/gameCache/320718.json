@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-01-08T23:46:34.977Z",
+  "gameDetails": {
+    "id": "320718",
+    "name": "Hidden Leaders",
+    "type": "boardgame",
+    "description": "The island of Oshra is in turmoil. Following the death of the Emperor, the conflict between the Hill Tribes and the Imperial Army escalated. While the Water People try to maintain balance between the old rivals, the Undead aim to escalate the war. All hope rests on the six children of the Emperor: Who of them will claim the throne?&#10;&#10;In Hidden Leaders, you take the role of one of six secret leaders, each of them is allied with two of the four factions/colors. By playing heroes into your tableau, either openly or secretly, you influence the outcome of the conflict.&#10;&#10;At the end of the game, one of the four factions will win:&#10;&#10;     Red leading &gt; Red victory&#10;     Green leading &gt; Green victory&#10;     Tie between Red &amp; Green &gt; Blue victory&#10;     Red &amp; Green in War Zone &gt; Black victory&#10;&#10;&#10;Each player who is aligned with the winning faction can claim the victory. However, they must have more heroes of this color than any competitor.&#10;&#10;Hidden Leaders is a quick, light strategy card game with direct player interaction. It combines tableau building and deduction elements with its unique winning mechanism. This is a game of great tension with no-down time, that&rsquo;s fast to learn. Its distinctive artwork and character names will make you smile.&#10;&#10;&mdash;description from designer&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__original/img/SP1CFuPlOKKOVtz66o1nKQwBS3o=/0x0/filters:format(jpeg)/pic5845169.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__thumb/img/3AcQZQ_MB1dJiQlQzcJMjDK637M=/fit-in/200x150/filters:strip_icc()/pic5845169.jpg",
+    "link": "https://boardgamegeek.com/thing/320718",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.76175",
+    "averageWeight": "1.8023",
+    "boardGameRank": "2071",
+    "mechanics": [
+      "Deduction",
+      "Hand Management",
+      "Hidden Roles",
+      "Take That",
+      "Track Movement",
+      "Tug of War"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Fantasy",
+      "Party Game"
+    ],
+    "designers": [
+      "Andreas Müller",
+      "Markus Müller (II)",
+      "Raphael Stocker"
+    ]
+  }
+}

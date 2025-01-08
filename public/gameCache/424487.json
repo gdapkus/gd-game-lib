@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:50:54.493Z",
+  "gameDetails": {
+    "id": "424487",
+    "name": "Arkham Horror: The Card Game – The Midwinter Gala: Scenario Pack",
+    "type": "boardgameexpansion",
+    "description": "It&rsquo;s a party to die for!&#10;&#10;It&rsquo;s the dead of winter, and Arkham&rsquo;s social elite have arrived in mist-shrouded Kingsport for an exquisite gala hosted by the enigmatic Lantern Club. Unfortunately, it doesn&rsquo;t take long before nightmarish creatures crash the festivities, and it falls to you to uncover the Club&rsquo;s dark schemes before Arkham&rsquo;s most powerful leaders all meet a terrible fate!&#10;&#10;In The Midwinter Gala, one to four investigators ally with a faction of their choice and work together to claim the powerful relic at the center of the Lantern Club&rsquo;s nefarious plot. The scenario can be played on its own or inserted into any campaign as a side-story, and it can also be played semi-competitively between multiple teams of investigators!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/48RGTVZoGbwde5TA9MDiOg__original/img/lVL9axUL3sJP8SLnHdzvzSmhOCs=/0x0/filters:format(png)/pic8308514.png",
+    "thumbnail": "https://cf.geekdo-images.com/48RGTVZoGbwde5TA9MDiOg__thumb/img/SH8aELI5vmmVFj-yIO9xefp2EQs=/fit-in/200x150/filters:strip_icc()/pic8308514.png",
+    "link": "https://boardgamegeek.com/thing/424487",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.18667",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Horror"
+    ],
+    "designers": [
+      "Jeremy Zwirn"
+    ]
+  }
+}

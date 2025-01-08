@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-01-08T23:47:11.109Z",
+  "gameDetails": {
+    "id": "230059",
+    "name": "Crossfire",
+    "type": "boardgame",
+    "description": "The Intel is solid. Raxxon will be transporting a VIP through a sector heavy with civilian traffic. This makes the mission a tricky one. You'll be working alone as they try to throw you off their tail. Don't be fooled. You need to get in and get the job done before the chance passes by. Just be sure to not get caught in the crossfire. Deception and negotiation are your greatest tools. Complete your mission, no matter the costs.&#10;&#10;Introducing Crossfire, a game in the world of Specter Ops. Emerson Matsuuchi has partnered with Plaid Hat Games again to take players back into the dystopian struggle between Raxxon and A.R.K. This time, players compete in two teams to either protect or assassinate a Raxxon VIP, while trying to determine whether other players at the table are who they really claim to be. The clock is ticking...&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/6bX0JWyEXFx7mXt_mCfiOw__original/img/hBeZDpruWs6xESEdUpOKdmrzngw=/0x0/filters:format(jpeg)/pic3621676.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6bX0JWyEXFx7mXt_mCfiOw__thumb/img/Nghcmqav6yPIpYg9kPeS-VZ7puk=/fit-in/200x150/filters:strip_icc()/pic3621676.jpg",
+    "link": "https://boardgamegeek.com/thing/230059",
+    "minPlayers": "5",
+    "maxPlayers": "10",
+    "yearPublished": "2017",
+    "playingTime": "10",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      8,
+      9
+    ],
+    "averageRating": "6.40387",
+    "averageWeight": "1.1905",
+    "boardGameRank": "4754",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Deduction",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Real-time",
+      "Science Fiction",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Emerson Matsuuchi"
+    ]
+  }
+}

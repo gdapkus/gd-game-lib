@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-01-08T23:51:25.143Z",
+  "gameDetails": {
+    "id": "373577",
+    "name": "Forage: A 9 card solitaire game",
+    "type": "boardgame",
+    "description": "Forage is the final instalment of the 9 card solitaire game trilogy (following Orchard and its sequel Grove).&#10;&#10;Its 18 cards show different types of woodland areas, where you'll find wild blackberries, sweet chestnuts and edible mushrooms. Some areas are split into two types which, together with the custom dice featuring hungry wood mice, offer new opportunities and different strategies to increase your harvest.&#10;&#10;The card backs have recipe challenges to provide a win/lose condition (as an alternative to the standard game's &lsquo;beat your own score&rsquo;) for those who prefer it, adding even more replayability.&#10;&#10;-description from designer&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/h5n-YxhR4u-Xly2rB7TaUA__original/img/f33Zl8hpDafkStZx8exwAcV0c18=/0x0/filters:format(png)/pic7807204.png",
+    "thumbnail": "https://cf.geekdo-images.com/h5n-YxhR4u-Xly2rB7TaUA__thumb/img/wX6xf4ffLAhnOFJC4rq8qaW4iV4=/fit-in/200x150/filters:strip_icc()/pic7807204.png",
+    "link": "https://boardgamegeek.com/thing/373577",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2024",
+    "playingTime": "10",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.14212",
+    "averageWeight": "1.25",
+    "boardGameRank": "5058",
+    "mechanics": [
+      "Melding and Splaying",
+      "Pattern Building",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Mark Tuck"
+    ]
+  }
+}

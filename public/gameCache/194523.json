@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-01-08T23:47:20.619Z",
+  "gameDetails": {
+    "id": "194523",
+    "name": "HMS Dolores",
+    "type": "boardgame",
+    "description": "Eric M. Lang and Bruno Faidutti have joined forces to create the ultimate prisoner's dilemma game. Do you cooperate and risk getting outsmarted by a greedy player? Or do you compete and risk losing everything?&#10;&#10;You are pirates who just looted a ship and must negotiate how to split the treasure. There are seven types of loot with values from 1 to 3. At the end of the game, you only score the treasure types you have the most and least of.&#10;&#10;On each turn, open four new treasures: two in front of you and two in front of your neighbour. Simultaneously decide how to split them. Choices:&#10;&#10;&#10;     Peace (I want the 2 in front of me)&#10;     War (I want them all)&#10;     First pick (I want just one, pick first)&#10;&#10;&#10;If both players choose peace, split the loot evenly. If both choose war, lose all treasure. If both choose first pick, lose all treasure and one of your gained treasure columns.&#10;&#10;The game continues until the Dawn Card is drawn. 15 minutes!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/pzgKGIhvkNAZ3M3xaWWwow__original/img/H1mS58WBr_ziPpT-iZI6wxwwjH0=/0x0/filters:format(jpeg)/pic3105314.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pzgKGIhvkNAZ3M3xaWWwow__thumb/img/LNpuYcJKdo8J8A9tJtK_SSOT854=/fit-in/200x150/filters:strip_icc()/pic3105314.jpg",
+    "link": "https://boardgamegeek.com/thing/194523",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.09102",
+    "averageWeight": "1.3462",
+    "boardGameRank": "5384",
+    "mechanics": [
+      "Prisoner's Dilemma",
+      "Rock-Paper-Scissors",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Negotiation",
+      "Pirates"
+    ],
+    "designers": [
+      "Bruno Faidutti",
+      "Eric M. Lang"
+    ]
+  }
+}

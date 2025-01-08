@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-01-08T23:52:23.296Z",
+  "gameDetails": {
+    "id": "1435",
+    "name": "4000 A.D.",
+    "type": "boardgame",
+    "description": "4000 A.D. is a multi-player, Strategic level, unique board-wargame set two thousand years in the future, when men have spread to the planets of other stars, hundreds of light-years from the Earth. An interstellar conflict between worlds is its subject.  The concept of star travel by hyper-space is the basis of its unique playing character.&#10;&#10;4000 A.D. is pure strategy of movement, with no dice-based, chance elements.  Two to four players may play independently or in alliance with others. Players use fleets of space ships to battle opposing fleets and to claim stars.&#10;&#10;Fleets move using a hidden hyper-space movement system based on the distance between stars. No logging of hidden movement is required; all tracking is done openly which adds an element of guesswork and tension as the question arises as to where opposing fleets in hyperspace are headed.&#10;&#10;Captured stars generate more ships.&#10;&#10;Victory is determined once the last player is eliminated.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/Cynv-l64eerE6cG8YV6RRw__original/img/GGtlEV3gKsckTfwLTKKY8wOPJEY=/0x0/filters:format(jpeg)/pic1027529.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Cynv-l64eerE6cG8YV6RRw__thumb/img/MXTFw-pQChksCNhTQhRFR76eecM=/fit-in/200x150/filters:strip_icc()/pic1027529.jpg",
+    "link": "https://boardgamegeek.com/thing/1435",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1972",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "5.47481",
+    "averageWeight": "2.1667",
+    "boardGameRank": "25539",
+    "mechanics": [
+      "Hidden Movement",
+      "Point to Point Movement",
+      "Secret Unit Deployment",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Earl Doherty"
+    ]
+  }
+}

@@ -1,6 +1,563 @@
 {
-  "timestamp": "2024-11-15T19:21:47.495Z",
+  "timestamp": "2025-01-08T23:48:13.465Z",
   "games": [
+    {
+      "id": "368467",
+      "name": "Doomensions: Pop-Up Mystery Manor",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2025-01-03 20:09:31",
+      "lastmodified": "2025-01-03 20:09:31",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/ZX3O1Mx6LUBKDraLe0Noag__thumb/img/f0d2H_sQJoSQlKzUoBajrChFJZs=/fit-in/200x150/filters:strip_icc()/pic8342861.jpg",
+      "link": "https://boardgamegeek.com/thing/368467",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 2",
+      "playingTime": "600",
+      "minPlayingTime": "300",
+      "maxPlayingTime": "600",
+      "averageRating": "7.13036",
+      "averageWeight": "2.3333",
+      "boardGameRank": "14296",
+      "mechanics": [
+        "Cooperative Game",
+        "Deduction",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Deduction",
+        "Murder / Mystery",
+        "Puzzle"
+      ],
+      "designers": []
+    },
+    {
+      "id": "221318",
+      "name": "Whistle Stop",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2024-12-28 16:53:56",
+      "lastmodified": "2024-12-28 16:53:56",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/lqMkVVt-crNAadXFzL1Rnw__thumb/img/HZAtWOABMFpGzvT3CIO64DD_L2Q=/fit-in/200x150/filters:strip_icc()/pic3472683.jpg",
+      "link": "https://boardgamegeek.com/thing/221318",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "75",
+      "minPlayingTime": "75",
+      "maxPlayingTime": "75",
+      "averageRating": "7.05011",
+      "averageWeight": "2.7558",
+      "boardGameRank": "1311",
+      "mechanics": [
+        "Action Points",
+        "Pick-up and Deliver",
+        "Set Collection",
+        "Tile Placement"
+      ],
+      "categories": [
+        "American West",
+        "Trains"
+      ],
+      "designers": [
+        "Scott Caputo"
+      ]
+    },
+    {
+      "id": "21241",
+      "name": "Neuroshima Hex! 3.0",
+      "yearPublished": "2006",
+      "type": "boardgame",
+      "postdate": "2024-12-28 16:53:38",
+      "lastmodified": "2024-12-28 16:53:38",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/8KB-cVXjNmYA6xuw-lo6eg__thumb/img/zjrFK62DgQIbaYI_BkJdd1X_xi8=/fit-in/200x150/filters:strip_icc()/pic1844819.jpg",
+      "link": "https://boardgamegeek.com/thing/21241",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.38783",
+      "averageWeight": "2.6125",
+      "boardGameRank": "385",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Connections",
+        "Grid Movement",
+        "Hand Management",
+        "Hexagon Grid",
+        "Line of Sight",
+        "Player Elimination",
+        "Solo / Solitaire Game",
+        "Team-Based Game",
+        "Tile Placement",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Collectible Components",
+        "Fighting",
+        "Puzzle",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Michał Oracz"
+      ]
+    },
+    {
+      "id": "232894",
+      "name": "Escape: The Curse of the Temple – Big Box Second Edition",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2024-12-28 16:51:41",
+      "lastmodified": "2024-12-28 16:51:41",
+      "myrating": null,
+      "numplays": "5",
+      "thumbnail": "https://cf.geekdo-images.com/qzfDpz26L9mXncFhlmvMfw__thumb/img/dyAZSoaVrhX9FVeSH6b6cwXDW4E=/fit-in/200x150/filters:strip_icc()/pic5968932.jpg",
+      "link": "https://boardgamegeek.com/thing/232894",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "5, 6",
+      "playingTime": "10",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "10",
+      "averageRating": "7.86577",
+      "averageWeight": "1.8571",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Adventure",
+        "Dice",
+        "Exploration",
+        "Real-time"
+      ],
+      "designers": [
+        "Kristian Amundsen Østby"
+      ]
+    },
+    {
+      "id": "318307",
+      "name": "Holiday Hijinks #1: The Kringle Caper",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2024-12-28 16:50:36",
+      "lastmodified": "2024-12-28 16:50:36",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/4m4MM11VewzSZAgq_Wbo2A__thumb/img/M05LGZTny0HZ20SyIqyskgMMg0o=/fit-in/200x150/filters:strip_icc()/pic6918874.png",
+      "link": "https://boardgamegeek.com/thing/318307",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.17803",
+      "averageWeight": "1.5",
+      "boardGameRank": "7780",
+      "mechanics": [
+        "Deduction",
+        "Finale Ending"
+      ],
+      "categories": [
+        "Card Game",
+        "Deduction",
+        "Puzzle"
+      ],
+      "designers": [
+        "Jonathan Chaffer"
+      ]
+    },
+    {
+      "id": "382828",
+      "name": "Blob Party",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2023-10-04 15:20:45",
+      "lastmodified": "2024-12-28 16:50:17",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/MEIuH-VkWimZLN6KnkjnXQ__thumb/img/IQaCQZ2cMaPVcfYgebGPTy4h2_8=/fit-in/200x150/filters:strip_icc()/pic7413486.jpg",
+      "link": "https://boardgamegeek.com/thing/382828",
+      "minPlayers": "4",
+      "maxPlayers": "8",
+      "bestAtCount": "6, 8",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.03246",
+      "averageWeight": "1",
+      "boardGameRank": "7919",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Party Game",
+        "Word Game"
+      ],
+      "designers": [
+        "Pam Walls"
+      ]
+    },
+    {
+      "id": "366468",
+      "name": "Mystery House: Adventures in a Box – The Secret of Pharaoh",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2024-10-07 16:34:38",
+      "lastmodified": "2024-12-28 16:49:36",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/xu25cjVrlldXPfxEWT1yMQ__thumb/img/8yEU-QCsRqEvMG6aBeqtrgJ4a1I=/fit-in/200x150/filters:strip_icc()/pic6958854.png",
+      "link": "https://boardgamegeek.com/thing/366468",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.04815",
+      "averageWeight": "1.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Vincent CORNETTE",
+        "Périnne Kurtz",
+        "Antonio Tinto"
+      ]
+    },
+    {
+      "id": "338829",
+      "name": "Mystery House: Adventures in a Box – The Lost Ship",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2024-10-07 16:34:35",
+      "lastmodified": "2024-12-28 16:49:31",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/cwg8ObFx8qTPX9TejZ2t1A__thumb/img/W0eKvKGillIFGEuK5Rg9KXhtpxI=/fit-in/200x150/filters:strip_icc()/pic6175797.png",
+      "link": "https://boardgamegeek.com/thing/338829",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "6.6869",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Adventure",
+        "Deduction",
+        "Expansion for Base-game",
+        "Party Game",
+        "Real-time",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Antonio Tinto"
+      ]
+    },
+    {
+      "id": "298267",
+      "name": "Mystery House: Adventures in a Box – Back to Tombstone",
+      "yearPublished": "2020",
+      "type": "boardgameexpansion",
+      "postdate": "2024-10-07 16:34:31",
+      "lastmodified": "2024-12-28 16:49:26",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/FUXTqL8qaBNcJkhvuTA0UQ__thumb/img/WQVV98GzGT2hWAlkTxjz_8vR4HQ=/fit-in/200x150/filters:strip_icc()/pic5158893.jpg",
+      "link": "https://boardgamegeek.com/thing/298267",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "6.71302",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Adventure",
+        "Deduction",
+        "Expansion for Base-game",
+        "Murder / Mystery",
+        "Party Game",
+        "Real-time"
+      ],
+      "designers": [
+        "Antonio Tinto"
+      ]
+    },
+    {
+      "id": "269537",
+      "name": "Mystery House: Adventures in a Box",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2024-10-07 16:34:28",
+      "lastmodified": "2024-12-28 16:49:21",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/p64ete71GuhK-euYz1onqg__thumb/img/nsHOeAy5gGB10ERXoudWZ1Mv-zo=/fit-in/200x150/filters:strip_icc()/pic4802033.jpg",
+      "link": "https://boardgamegeek.com/thing/269537",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "6.28861",
+      "averageWeight": "2.125",
+      "boardGameRank": "5444",
+      "mechanics": [
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Adventure",
+        "Deduction",
+        "Murder / Mystery",
+        "Party Game",
+        "Real-time"
+      ],
+      "designers": [
+        "Antonio Tinto"
+      ]
+    },
+    {
+      "id": "378477",
+      "name": "Awkward Guests 2: The Berwick Cases",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2024-04-24 20:12:00",
+      "lastmodified": "2024-12-28 16:49:15",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/vTCNG0VlPMfkjvgPcdGiLQ__thumb/img/Vgl2XLYSCY9-rEDuk__Pt5UjVBw=/fit-in/200x150/filters:strip_icc()/pic7310302.jpg",
+      "link": "https://boardgamegeek.com/thing/378477",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "40",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "40",
+      "averageRating": "7.86183",
+      "averageWeight": "2.4286",
+      "boardGameRank": "5605",
+      "mechanics": [
+        "Deduction",
+        "Dice Rolling",
+        "Hand Management",
+        "Re-rolling and Locking",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Deduction",
+        "Humor",
+        "Murder / Mystery"
+      ],
+      "designers": [
+        "Ron Gonzalo García",
+        "Paz Navarro Moreno"
+      ]
+    },
+    {
+      "id": "320718",
+      "name": "Hidden Leaders",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2024-12-27 23:13:54",
+      "lastmodified": "2024-12-27 23:13:54",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__thumb/img/3AcQZQ_MB1dJiQlQzcJMjDK637M=/fit-in/200x150/filters:strip_icc()/pic5845169.jpg",
+      "link": "https://boardgamegeek.com/thing/320718",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "40",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "40",
+      "averageRating": "6.76175",
+      "averageWeight": "1.8023",
+      "boardGameRank": "2071",
+      "mechanics": [
+        "Deduction",
+        "Hand Management",
+        "Hidden Roles",
+        "Take That",
+        "Track Movement",
+        "Tug of War"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Deduction",
+        "Fantasy",
+        "Party Game"
+      ],
+      "designers": [
+        "Andreas Müller",
+        "Markus Müller (II)",
+        "Raphael Stocker"
+      ]
+    },
+    {
+      "id": "369142",
+      "name": "Savernake Forest",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2024-12-17 22:30:00",
+      "lastmodified": "2024-12-17 22:30:01",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/pcsfpRyo6tz2r8kcFOkUbg__thumb/img/qJka-CnwzAy-GigqO8HAKZTGSUU=/fit-in/200x150/filters:strip_icc()/pic7676237.jpg",
+      "link": "https://boardgamegeek.com/thing/369142",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "40",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "40",
+      "averageRating": "7.10986",
+      "averageWeight": "1.303",
+      "boardGameRank": "2894",
+      "mechanics": [
+        "Map Addition",
+        "Open Drafting",
+        "Pattern Building",
+        "Tags",
+        "Tile Placement"
+      ],
+      "categories": [],
+      "designers": [
+        "Rodrigo Rego"
+      ]
+    },
+    {
+      "id": "388339",
+      "name": "Planta Nubo",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2023-09-07 12:26:09",
+      "lastmodified": "2024-12-17 22:29:19",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/FaQLuecDL7xhmQnRTdSqVw__thumb/img/F5Z03e8L6L3ROsVrHamIlRLDKRE=/fit-in/200x150/filters:strip_icc()/pic8321325.jpg",
+      "link": "https://boardgamegeek.com/thing/388339",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "7.22636",
+      "averageWeight": "3.9167",
+      "boardGameRank": "3474",
+      "mechanics": [
+        "Action Drafting",
+        "Contracts",
+        "Solo / Solitaire Game",
+        "Tile Placement",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Economic",
+        "Environmental",
+        "Farming"
+      ],
+      "designers": [
+        "Andreas Odendahl",
+        "Michael Keller (II)",
+        "Uwe Rosenberg"
+      ]
+    },
+    {
+      "id": "231748",
+      "name": "Time Bomb Evolution",
+      "yearPublished": "2016",
+      "type": "boardgame",
+      "postdate": "2024-11-30 17:32:37",
+      "lastmodified": "2024-11-30 17:32:37",
+      "myrating": null,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/yU8CtWKysxxZ62nFT2uqPA__thumb/img/MwFdoRo42gwOmC5bdlx2PptSca8=/fit-in/200x150/filters:strip_icc()/pic5397704.jpg",
+      "link": "https://boardgamegeek.com/thing/231748",
+      "minPlayers": "4",
+      "maxPlayers": "6",
+      "bestAtCount": "6",
+      "playingTime": "30",
+      "minPlayingTime": "25",
+      "maxPlayingTime": "30",
+      "averageRating": "6.76648",
+      "averageWeight": "1.5714",
+      "boardGameRank": "4487",
+      "mechanics": [
+        "Betting and Bluffing",
+        "Deduction",
+        "Team-Based Game",
+        "Traitor Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Spies / Secret Agents"
+      ],
+      "designers": [
+        "佐藤 雄介 (Yusuke Sato)"
+      ]
+    },
+    {
+      "id": "396655",
+      "name": "Quicksand",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2023-10-07 11:50:34",
+      "lastmodified": "2024-11-30 17:31:02",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/uB1MN7O5hEVlRPTxJUjiRw__thumb/img/c-RWaZ7ykU84doKGILG5GA0fY7I=/fit-in/200x150/filters:strip_icc()/pic7645237.jpg",
+      "link": "https://boardgamegeek.com/thing/396655",
+      "minPlayers": "1",
+      "maxPlayers": "7",
+      "bestAtCount": "2, 3",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.68637",
+      "averageWeight": "1.1111",
+      "boardGameRank": "6167",
+      "mechanics": [
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Real-time"
+      ],
+      "designers": [
+        "Hjalmar Hach",
+        "Lorenzo Silva"
+      ]
+    },
     {
       "id": "269511",
       "name": "Cooper Island",

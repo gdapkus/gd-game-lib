@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-01-08T23:46:25.541Z",
+  "gameDetails": {
+    "id": "382828",
+    "name": "Blob Party",
+    "type": "boardgame",
+    "description": "Blob Party is a co-operative party game in which players start as individuals and try to become one big blob by giving all the same answers! This description isn't just metaphorical. Each player starts with a small blob of dough and a googly eye. As you match with more and more other players, you merge blobs, growing larger and adding more googly eyes!&#10;&#10;Let's say the group starts with the category of &quot;Music&quot; and the word is &quot;Lightning&quot;. All players write an answer on a dry erase card matching their googly eye, maybe &quot;Bohemian Rhapsody&quot;, &quot;David Bowie&quot;, or &quot;Grease&quot;. Everyone reveals their answer, and anyone who wrote the same thing becomes a blob and works together for the rest of the game!&#10;&#10;A new category and word are revealed each round, with players and blobs again coming up with answers that ideally match with others. As the game continues, blobs and individuals merge until (hopefully!) everyone gives the same answer, becoming a Mega Blob and winning the game!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/MEIuH-VkWimZLN6KnkjnXQ__original/img/dD4wa4y1fsUnnb4r4moQiwDuqkM=/0x0/filters:format(jpeg)/pic7413486.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MEIuH-VkWimZLN6KnkjnXQ__thumb/img/IQaCQZ2cMaPVcfYgebGPTy4h2_8=/fit-in/200x150/filters:strip_icc()/pic7413486.jpg",
+    "link": "https://boardgamegeek.com/thing/382828",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2023",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "7.03246",
+    "averageWeight": "1",
+    "boardGameRank": "7919",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "Pam Walls"
+    ]
+  }
+}

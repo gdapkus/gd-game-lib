@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-01-08T23:51:03.949Z",
+  "gameDetails": {
+    "id": "184151",
+    "name": "Legend of the Five Rings: The Card Game",
+    "type": "boardgame",
+    "description": "Description from the publisher:&#10;&#10;Welcome to the realm of Rokugan: a land of samurai and mystics, mad dragons and divine beings &mdash; a land where honor is stronger than steel. Here, the clans serve the Emperor and engage in courtly deceptions and power plays, even as they wage war against each other and the evil forces that plague their realm. This is the world of Legend of the Five Rings!&#10;&#10;Legend of the Five Rings: The Card Game is a Living Card Game set in the world of Rokugan, the original setting for the Legend of the Five Rings collectible card game. To play a Living Card Game, players create individual decks of cards from a base game with a fixed set of cards; they can then add supplemental card packs to this game world, with each pack also having a fixed set of cards, in order to vary their game experience.&#10;&#10;While the connection of Legend of the Five Rings: The Card Game to Rokugan and the Colonies &mdash; as well as its pervasive themes of honor, nobility, magic, intrigue, duty, and warfare &mdash; should carry over from the original L5R CCG, Legend of the Five Rings: The Card Game is not compatible with that original game and will feature significant changes in the game mechanisms.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/nuHQ7Yf8ykd2xUm_p0PD-w__original/img/tywZJAf28E4gjG9iDn_F4NJCtZI=/0x0/filters:format(jpeg)/pic3763363.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nuHQ7Yf8ykd2xUm_p0PD-w__thumb/img/VWVFu9qjH2wYy4r-yztVAkritQM=/fit-in/200x150/filters:strip_icc()/pic3763363.jpg",
+    "link": "https://boardgamegeek.com/thing/184151",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2017",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.34972",
+    "averageWeight": "3.9925",
+    "boardGameRank": "1312",
+    "mechanics": [
+      "Action Points",
+      "Deck Construction",
+      "Hand Management",
+      "Secret Unit Deployment",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Collectible Components",
+      "Fantasy"
+    ],
+    "designers": [
+      "Brad Andres",
+      "Erik Dahlman (I)",
+      "Nate French",
+      "Tyler Parrott"
+    ]
+  }
+}

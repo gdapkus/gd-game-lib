@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-01-08T23:52:48.380Z",
+  "gameDetails": {
+    "id": "30957",
+    "name": "Tribune: Primus Inter Pares",
+    "type": "boardgame",
+    "description": "In ancient Rome, tribunes were highly esteemed individuals elected by the people to represent them politically and militarily.  In the board game Tribune: Primus Inter Pares, players take on the role of a powerful and ambitious patrician family.  By applying influences and manipulating controls over the various factions, they attempt to pave their way to victory in order to attain the high office of the tribune.&#10;&#10;From the mind of the highly acclaimed designer of Die Macher, Karl-Heinz Schmiel, the gameplay in Tribune  is a combination of worker placement and set collection.  Each round, the players take turns by positioning their followers on the board to garner cards, achieve objectives, and/or attempt to take over factions.  In order to gain control of a faction and to utilize its benefits, one must play a set of cards from that specific group.  That person will remain in command of the faction until someone else stages a successful take-over by having another set that is either of higher quantity or higher sum of values.&#10;&#10;Victory is achieved when a player has met the required number of objectives as specified on the victory condition card selected at the start of the game, which is dependent on the number of participants.  Alternatively, you can choose to forego the use of a condition card and play with the point-value option.  In this variant, the game ends when someone has collected a certain number of the faction markers, and the winner is the one with the highest scores as determined by the points assigned to each achievement.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/4M-gGQVY5MOtrOkkV8P6fQ__original/img/J8VHW_g2gEhiBt0W_efsALkt35E=/0x0/filters:format(jpeg)/pic413081.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4M-gGQVY5MOtrOkkV8P6fQ__thumb/img/sG_qGOhk9z6N0STHdQV4R3_akCI=/fit-in/200x150/filters:strip_icc()/pic413081.jpg",
+    "link": "https://boardgamegeek.com/thing/30957",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2007",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.21105",
+    "averageWeight": "2.8673",
+    "boardGameRank": "947",
+    "mechanics": [
+      "Auction / Bidding",
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Sudden Death Ending",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Ancient",
+      "Political"
+    ],
+    "designers": [
+      "Karl-Heinz Schmiel"
+    ]
+  }
+}

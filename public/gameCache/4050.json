@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-01-08T23:52:26.453Z",
+  "gameDetails": {
+    "id": "4050",
+    "name": "Fortress Europa",
+    "type": "boardgame",
+    "description": "Fortress Europa recreates the Allied campaign in Western Europe from D-Day to March 1945. The Allied player must select an invasion site and make a successful landing, break out of the beachhead, drive across France and push deep into Germany. The German player must prevent the Allied Invasion or else conduct an orderly withdrawal across France, constantly delaying the Allies, and then counter attacking in the winter.&#10;&#10;Fortress Europa is the successor to Avalon Hill&rsquo;s highly acclaimed Russian Campaign...The basic game is 37 turns long, but several scenarios are provided for those wishing a shorter game. In addition, Sudden Death Victory Conditions are included which shorten the basic game ...&#10;&#10;Fortress Europa  comes in an 8.5&rdquo; x 11.5&rdquo; x 2&rdquo; game box with a three part mounted 22&rdquo; x 24&rdquo; map board; 520 double-sided die cut cardboard counters; a 16-page rule booklet with rules for play; optional rules and scenarios; several cardstock player aids including German &amp; Allied Order of Battle charts; Aircraft Mission and Replacement Chart and a Time Record Chart; and one six sided die.&#10;&#10;Avalon Hill also published, separately, a Play By Mail (PBM) kit for Fortress Europa including two-page, pink instructions and double sided pages for the German and Allied Order of Battle Charts used for tracking play.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/-YIvz42Z1JX2EzniSu0ncg__original/img/zBC9qE8IjBSMSzZl0hy5NAfVEQg=/0x0/filters:format(png)/pic2094793.png",
+    "thumbnail": "https://cf.geekdo-images.com/-YIvz42Z1JX2EzniSu0ncg__thumb/img/16FcPRgZQg62f3VFsRBs8GajzQk=/fit-in/200x150/filters:strip_icc()/pic2094793.png",
+    "link": "https://boardgamegeek.com/thing/4050",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1978",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.68959",
+    "averageWeight": "3.1648",
+    "boardGameRank": "5252",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Sudden Death Ending",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "John Edwards",
+      "Richard Hamblen",
+      "Alan R. Moon"
+    ]
+  }
+}

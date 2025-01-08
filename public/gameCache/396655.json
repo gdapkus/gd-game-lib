@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-01-08T23:47:00.110Z",
+  "gameDetails": {
+    "id": "396655",
+    "name": "Quicksand",
+    "type": "boardgame",
+    "description": "Quicksand is a real-time co-operative game in which players work together to deactivate the &quot;Quicksand&quot;, a dangerous trap of gears and sand. You can't just race as quickly as possible, though, because you must avoid setting off the trap.&#10;&#10;To set up, choose one of the 20+ scenarios, then lay out the gear tiles in the specified path and place the appropriate sand timers &mdash; which have different amounts of sand in them &mdash; on the first gears of the path. (The path might have obstacles on it based on the particular scenario.) Gears feature both a color (orange, yellow, gray) and a shape (square, circle, crescent). Each player starts with a hand of three cards, with a card showing one of the three colors, one of the three shapes, or a sand timer.&#10;&#10;Once the game starts, players play a card in turn to try to advance the sand timers and keep them from running out, refilling their hand after they play. When you play a color or shape card, you flip all of the sand timers currently on this color/shape, advancing them one space on the path if that next space is empty. When you play a sand timer card, you flip any one timer, advancing it, if possible. (If no timers are on gears matching the played card, nothing happens.)&#10;&#10;If a sand timer runs out, flip it and place it next to the gear on which it was previously located. If someone plays a sand timer card, they can recover this timer by flipping and placing it back onto the gear &mdash; but only if that tile is empty. If a set-aside timer runs out again, players lose the game.&#10;&#10;Once a timer reaches the last open space on the path, played cards matching that gear's color/shape will flip it &mdash; and if it runs out, you lose the game with no chance of recovery. If the sand timers fill the final gear tiles on the path without this happening, you win!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/uB1MN7O5hEVlRPTxJUjiRw__original/img/Y0cYf4WeqDYxTjByylQ4n9w1N70=/0x0/filters:format(jpeg)/pic7645237.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uB1MN7O5hEVlRPTxJUjiRw__thumb/img/c-RWaZ7ykU84doKGILG5GA0fY7I=/fit-in/200x150/filters:strip_icc()/pic7645237.jpg",
+    "link": "https://boardgamegeek.com/thing/396655",
+    "minPlayers": "1",
+    "maxPlayers": "7",
+    "yearPublished": "2023",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.68637",
+    "averageWeight": "1.1111",
+    "boardGameRank": "6167",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Real-time"
+    ],
+    "designers": [
+      "Hjalmar Hach",
+      "Lorenzo Silva"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-01-08T23:46:52.330Z",
+  "gameDetails": {
+    "id": "271530",
+    "name": "Ankh'or",
+    "type": "boardgame",
+    "description": "Ankh'or is a quick-playing resource management game in which each player on their turn either collects three types of tokens (with an ankh being a supplemental resource) or buys a tile from a marketplace and adds this tile to their structure, trying to connect tiles of the same color or bearing the same scarab while doing so. By spending an ankh, you can shift tiles in the marketplace and change the cost and type of goods needed to purchase them.&#10;&#10;Each player's structure will have at most thirteen tiles, so don't wait too long to start building!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/Knb4fcoNLCpoO0GpcoPg3A__original/img/ReZBDUp313OSrecU6wh8UQL7Owc=/0x0/filters:format(jpeg)/pic5009116.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Knb4fcoNLCpoO0GpcoPg3A__thumb/img/xXWjsvCfCbYFnukrCuUmogb4kmc=/fit-in/200x150/filters:strip_icc()/pic5009116.jpg",
+    "link": "https://boardgamegeek.com/thing/271530",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.88406",
+    "averageWeight": "1.697",
+    "boardGameRank": "2981",
+    "mechanics": [
+      "Layering",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Mythology"
+    ],
+    "designers": [
+      "Frank Crittin",
+      "Grégoire Largey",
+      "Sébastien Pauchon"
+    ]
+  }
+}

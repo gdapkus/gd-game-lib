@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-01-08T23:51:14.308Z",
+  "gameDetails": {
+    "id": "422976",
+    "name": "Marvel Champions: The Card Game – Nightcrawler Hero Pack",
+    "type": "boardgameexpansion",
+    "description": "Shunned for his demonic appearance, Kurt Wagner&rsquo;s mutant heritage and gentle heart earned him a family in the X-Men. Now he uses his teleportation power and adventurous spirit to thwart injustice as the incredible Nightcrawler, and he&rsquo;s bamf-ing his way into your games of Marvel Champions: The Card Game! With his signature teleportation ability allowing him to perform incredible feats, Nightcrawler is a blast to play and a great asset to any team. Within this Hero Pack, you will find Nightcrawler, his fifteen signature cards, and a full assortment of Protection cards inviting you to shield your allies from harm. This pack also includes a bonus modular encounter set featuring the aptly-named Crazy Gang!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/la6fsVP5Up-yo2GDzy_htw__original/img/DGLN8rdFTgOuFi2PbMjmPMCXUvU=/0x0/filters:format(png)/pic8360865.png",
+    "thumbnail": "https://cf.geekdo-images.com/la6fsVP5Up-yo2GDzy_htw__thumb/img/1Wt6y73zQhhoCpoe84lGCmzjdBo=/fit-in/200x150/filters:strip_icc()/pic8360865.png",
+    "link": "https://boardgamegeek.com/thing/422976",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "8.39955",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck Construction",
+      "Hand Management",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game"
+    ],
+    "designers": []
+  }
+}

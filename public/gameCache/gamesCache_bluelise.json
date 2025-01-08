@@ -1,6 +1,158 @@
 {
-  "timestamp": "2024-11-15T19:20:26.559Z",
+  "timestamp": "2025-01-08T23:51:44.216Z",
   "games": [
+    {
+      "id": "373577",
+      "name": "Forage: A 9 card solitaire game",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-12-18 08:51:45",
+      "lastmodified": "2024-12-18 08:51:45",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/h5n-YxhR4u-Xly2rB7TaUA__thumb/img/wX6xf4ffLAhnOFJC4rq8qaW4iV4=/fit-in/200x150/filters:strip_icc()/pic7807204.png",
+      "link": "https://boardgamegeek.com/thing/373577",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "10",
+      "minPlayingTime": "5",
+      "maxPlayingTime": "10",
+      "averageRating": "7.14212",
+      "averageWeight": "1.25",
+      "boardGameRank": "5058",
+      "mechanics": [
+        "Melding and Splaying",
+        "Pattern Building",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Card Game",
+        "Print & Play"
+      ],
+      "designers": [
+        "Mark Tuck"
+      ]
+    },
+    {
+      "id": "245487",
+      "name": "Orchard: 9 card solitaire game",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2024-10-17 14:42:20",
+      "lastmodified": "2024-12-18 08:51:37",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/tAlkLzFCj-OusgaxQo7SxQ__thumb/img/ePGNy1jSXaVuTx05OYcsOTubEjA=/fit-in/200x150/filters:strip_icc()/pic5159434.png",
+      "link": "https://boardgamegeek.com/thing/245487",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "10",
+      "minPlayingTime": "5",
+      "maxPlayingTime": "10",
+      "averageRating": "7.28614",
+      "averageWeight": "1.181",
+      "boardGameRank": "1031",
+      "mechanics": [
+        "Layering",
+        "Melding and Splaying",
+        "Pattern Building",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Card Game",
+        "Dice",
+        "Farming",
+        "Print & Play"
+      ],
+      "designers": [
+        "Mark Tuck"
+      ]
+    },
+    {
+      "id": "329873",
+      "name": "Grove: 9 card solitaire game",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2024-10-17 14:42:11",
+      "lastmodified": "2024-12-18 08:51:27",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/9UMK8dvUyDuUYwaMh59Hvw__thumb/img/b7X6bWORWAiFfjnUh13W3jg9mtQ=/fit-in/200x150/filters:strip_icc()/pic5945719.png",
+      "link": "https://boardgamegeek.com/thing/329873",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "10",
+      "minPlayingTime": "5",
+      "maxPlayingTime": "10",
+      "averageRating": "7.59495",
+      "averageWeight": "1.3165",
+      "boardGameRank": "1135",
+      "mechanics": [
+        "Melding and Splaying",
+        "Pattern Building",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Card Game",
+        "Farming",
+        "Print & Play"
+      ],
+      "designers": [
+        "Mark Tuck"
+      ]
+    },
+    {
+      "id": "302425",
+      "name": "Unlock!: Mythic Adventures",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2024-12-09 19:16:32",
+      "lastmodified": "2024-12-09 19:16:32",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/WS1Rfg-PUi8XB00iMJresw__thumb/img/UMUl6bHBk_7IHFAzfxtC-SHE1Rg=/fit-in/200x150/filters:strip_icc()/pic5712544.jpg",
+      "link": "https://boardgamegeek.com/thing/302425",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.69433",
+      "averageWeight": "2.1667",
+      "boardGameRank": "1265",
+      "mechanics": [
+        "Cooperative Game",
+        "Pieces as Map",
+        "Real-Time",
+        "Storytelling"
+      ],
+      "categories": [
+        "Card Game",
+        "Exploration",
+        "Mythology",
+        "Puzzle",
+        "Real-time"
+      ],
+      "designers": [
+        "Cyril Demaegd",
+        "Jérémy Fraile",
+        "Vincent Goyat",
+        "Jeremy Koch",
+        "Périnne Kurtz",
+        "Arnaud Pincemaille",
+        "Yohan Servais"
+      ]
+    },
     {
       "id": "822",
       "name": "Carcassonne",

@@ -1,6 +1,45 @@
 {
-  "timestamp": "2024-11-15T19:20:44.935Z",
+  "timestamp": "2025-01-08T23:53:07.943Z",
   "games": [
+    {
+      "id": "430307",
+      "name": "Escaping Extinction: Based on a True Story",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-11-20 13:30:31",
+      "lastmodified": "2024-11-20 13:30:31",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Lm67sw0WHjpnlb4c8rzdYA__thumb/img/QVcziaGEq3cu9wX7ALnSEz1jpvU=/fit-in/200x150/filters:strip_icc()/pic8480167.jpg",
+      "link": "https://boardgamegeek.com/thing/430307",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "7.3",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Events",
+        "Modular Board",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Exploration",
+        "Prehistoric",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Chris Armstrong",
+        "Jen Armstrong"
+      ]
+    },
     {
       "id": "369548",
       "name": "After Us",

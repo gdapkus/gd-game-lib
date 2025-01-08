@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-01-08T23:47:07.960Z",
+  "gameDetails": {
+    "id": "34297",
+    "name": "The Climbers",
+    "type": "boardgame",
+    "description": "They gazed at the large structure of colorful blocks neatly stacked before them. The goal was simple: climb to the highest level possible. Getting there was more challenging than originally thought. Only one climber will make it to the top. Will it be you?&#10;&#10;Your goal is to climb to the highest level of the structure. To help with your climb, you may move and rotate blocks. Ladders can be used to climb large distances. Your blocking disk will prevent other players from using a specific block. Use your tools wisely and at the right time to make the best possible moves in your adventure to the top!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/-jNNNZAQzbALy2jZfp77lg__original/img/5TN3j3AI2o56UAty5ekjkZrxork=/0x0/filters:format(jpeg)/pic3582920.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-jNNNZAQzbALy2jZfp77lg__thumb/img/BNd77s-x_DP0ODz9j_Ld02zBOKU=/fit-in/200x150/filters:strip_icc()/pic3582920.jpg",
+    "link": "https://boardgamegeek.com/thing/34297",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2008",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.75812",
+    "averageWeight": "1.775",
+    "boardGameRank": "1888",
+    "mechanics": [
+      "Modular Board",
+      "Race",
+      "Three Dimensional Movement",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Holger Lanz"
+    ]
+  }
+}

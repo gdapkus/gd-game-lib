@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-01-08T23:52:51.493Z",
+  "gameDetails": {
+    "id": "1945",
+    "name": "Ultimatum",
+    "type": "boardgame",
+    "description": "Players battle for the Western, Communist, Neutralist and Oil Alliances to control the world in this world domination game set in the not-too-distant future.  Players collect money purchase troops and special action cards, even laser space stations and attempt to oust each other from crucial strategic locations on the board.  A game with an obvious lineage from Risk and other low complexity world domination games.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/OM_b4XRWawAvoS0PRZCodw__original/img/mLElR3Pa0Q0uAfpNsDNfnR6HpSM=/0x0/filters:format(jpeg)/pic1013096.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OM_b4XRWawAvoS0PRZCodw__thumb/img/0CnOB5Eon3rgB4KPrL-hijnIidU=/fit-in/200x150/filters:strip_icc()/pic1013096.jpg",
+    "link": "https://boardgamegeek.com/thing/1945",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "1985",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "5.784",
+    "averageWeight": "2.6667",
+    "boardGameRank": "20998",
+    "mechanics": [
+      "Area Movement"
+    ],
+    "categories": [
+      "Wargame"
+    ],
+    "designers": [
+      "Fred Bates"
+    ]
+  }
+}

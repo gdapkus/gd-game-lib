@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-01-08T23:51:17.403Z",
+  "gameDetails": {
+    "id": "345",
+    "name": "Prairie Railroads",
+    "type": "boardgame",
+    "description": "America is opening the Great Plains and America&rsquo;s railroads are forging ahead, across the Mississippi and going West as fast as they can. Hardy pioneers are building towns &amp; cities as they raise cattle and grow wheat &amp; other crops. The railroads are needed to carry this bounty to the hungry East. Six major railroads are funded by aggressive investors looking to get rich in this venture. The railroads vie for dominance in this expanding market, driving west.&#10;&#10;Players are investors and railroad Presidents in this struggle to capitalize this explosive market to the greatest extent possible. Balancing time vs money is critical in this game. The ability to react to organically growing markets increasing constantly adds a level of decision making where recognizing savvy opportunities&#10;is a key to success.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/TsANvTIYVbWAoG_kKHygLw__original/img/7Zna_wszSNj3kbXtdSZZtKSOwNk=/0x0/filters:format(jpeg)/pic8320074.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TsANvTIYVbWAoG_kKHygLw__thumb/img/wgAIznwoOq4hg8dAAPCIMU41Aoc=/fit-in/200x150/filters:strip_icc()/pic8320074.jpg",
+    "link": "https://boardgamegeek.com/thing/345",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "1999",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "6.87031",
+    "averageWeight": "3",
+    "boardGameRank": "13782",
+    "mechanics": [
+      "Network and Route Building",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Economic",
+      "Trains"
+    ],
+    "designers": [
+      "John Bohrer"
+    ]
+  }
+}

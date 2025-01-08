@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-01-08T23:47:14.246Z",
+  "gameDetails": {
+    "id": "425005",
+    "name": "Everdell Duo",
+    "type": "boardgame",
+    "description": "In Everdell Duo, you either compete against your single opponent or play co-operatively with another player to earn the most points. You accomplish this by placing workers to gather resources, then use those resources to play cards face up in front of you, creating your own woodland city.&#10;&#10;Cards may be played from your hand or from the face-up area on the board called the meadow. However, only cards touching the sun or moon token may be played from the meadow, and players move these tokens each time they perform a turn. Therefore, planning for and timing which cards you play is critical.&#10;&#10;Each game you try to achieve various events, the requirements of which differ from game to game, making certain cards and combinations more important to pursue.&#10;&#10;The game lasts for four seasons, then players add their scores to determine the winner. If you're playing co-operatively, check the requirements for the chapter you are playing to see whether you have won.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/RRBAoLAweDVP3iJ7qeqQKw__original/img/S8TYShAi-xEaF0c3DjbDmspR2xc=/0x0/filters:format(png)/pic8317636.png",
+    "thumbnail": "https://cf.geekdo-images.com/RRBAoLAweDVP3iJ7qeqQKw__thumb/img/zvhVpbsSBXoLr-vJLVExn7K_Cg0=/fit-in/200x150/filters:strip_icc()/pic8317636.png",
+    "link": "https://boardgamegeek.com/thing/425005",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.68644",
+    "averageWeight": "2.2",
+    "boardGameRank": "6632",
+    "mechanics": [
+      "Contracts",
+      "Cooperative Game",
+      "Income",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "City Building",
+      "Fantasy"
+    ],
+    "designers": [
+      "James A. Wilson",
+      "Clarissa A. Wilson"
+    ]
+  }
+}

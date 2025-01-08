@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-01-08T23:47:09.522Z",
+  "gameDetails": {
+    "id": "221318",
+    "name": "Whistle Stop",
+    "type": "boardgame",
+    "description": "With the driving of the golden spike in 1869, the first transcontinental railroad was completed in the United States &mdash; but really it was only the beginning of a rapid expansion of railways that would crisscross the entire country.&#10;&#10;In Whistle Stop, you make your way west across the country, using your fledgling railroad company to build routes, pick up valuable cargo, and deliver needed goods to growing towns, creating a network of whistle stops that you and your competitors can leverage as you continue to expand your networks. Along the way, you gain shares in other railroads and watch your reputation soar with each successful delivery before making a final push to complete long hauls to the boom towns of the West.&#10;&#10;This design is a new twist on pick-up-and-deliver games. As players move their trains west and pick up goods, they can deliver those goods to small towns to gain shares in railroads, or hold on to them for a bigger payout when they reach the west coast. At the same time, they try to optimize their actions (and gain extra ones), lay down new track tiles, block the other players, gather and use valuable whistles for special moves and abilities, and carefully manage their coal resources.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/lqMkVVt-crNAadXFzL1Rnw__original/img/hShzCnIkAaDKwxCYocoX_ANz6Gk=/0x0/filters:format(jpeg)/pic3472683.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lqMkVVt-crNAadXFzL1Rnw__thumb/img/HZAtWOABMFpGzvT3CIO64DD_L2Q=/fit-in/200x150/filters:strip_icc()/pic3472683.jpg",
+    "link": "https://boardgamegeek.com/thing/221318",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2017",
+    "playingTime": "75",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.05011",
+    "averageWeight": "2.7558",
+    "boardGameRank": "1311",
+    "mechanics": [
+      "Action Points",
+      "Pick-up and Deliver",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [
+      "American West",
+      "Trains"
+    ],
+    "designers": [
+      "Scott Caputo"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-01-08T23:47:01.695Z",
+  "gameDetails": {
+    "id": "284818",
+    "name": "Caylus 1303",
+    "type": "boardgame",
+    "description": "A classic game is back! As one of the first worker placement games, Caylus stands among the true board game classics of the 2000s. The original designers' team, together with the Space Cowboys, have now created a revamped version!&#10;&#10;The mechanisms of Caylus 1303 have been streamlined and modernized for an intense and shorter game. Don't be fooled, though, as the game has kept both its depth and ease of play while a lot of new features have been added:&#10;&#10;&#10;     Variability of the starting position for a virtual infinity of possibilities. No more pre-set strategies!&#10;     Characters with special abilities, with a wavering loyalty, offer their services to the players.&#10;     And of course, brand new graphics!&#10;&#10;&#10;The King calls you again, so it's time to go back to Caylus!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/AmDxG1Bbkr4cNC2d8XO-7A__original/img/uSNnBPq1V3LhogRIRdPHYj-8RDE=/0x0/filters:format(jpeg)/pic4978911.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AmDxG1Bbkr4cNC2d8XO-7A__thumb/img/MZ0JIjoGOhvDb8fG1IO8hn03768=/fit-in/200x150/filters:strip_icc()/pic4978911.jpg",
+    "link": "https://boardgamegeek.com/thing/284818",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.4313",
+    "averageWeight": "2.8571",
+    "boardGameRank": "979",
+    "mechanics": [
+      "Action Queue",
+      "Hidden Victory Points",
+      "Ownership",
+      "Take That",
+      "Turn Order: Claim Action",
+      "Turn Order: Pass Order",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Economic",
+      "Medieval"
+    ],
+    "designers": [
+      "William Attia"
+    ]
+  }
+}

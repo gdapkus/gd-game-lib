@@ -1,6 +1,1032 @@
 {
-  "timestamp": "2024-11-15T19:21:33.231Z",
+  "timestamp": "2025-01-08T23:50:11.384Z",
   "games": [
+    {
+      "id": "366013",
+      "name": "Heat: Pedal to the Metal",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2023-11-13 20:21:14",
+      "lastmodified": "2025-01-05 11:48:58",
+      "myrating": null,
+      "numplays": "15",
+      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__thumb/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+      "link": "https://boardgamegeek.com/thing/366013",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "5, 6",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "8.04809",
+      "averageWeight": "2.193",
+      "boardGameRank": "40",
+      "mechanics": [
+        "Catch the Leader",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Programmed Movement",
+        "Push Your Luck",
+        "Race",
+        "Simulation",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game",
+        "Track Movement",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Racing",
+        "Sports"
+      ],
+      "designers": [
+        "Asger Harding Granerud",
+        "Daniel Skjold Pedersen"
+      ]
+    },
+    {
+      "id": "418059",
+      "name": "SETI: Search for Extraterrestrial Intelligence",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-06-09 13:16:00",
+      "lastmodified": "2024-12-31 22:44:59",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__thumb/img/icamIZ4nP3HHH3vczZqTr1hQgKY=/fit-in/200x150/filters:strip_icc()/pic8160466.jpg",
+      "link": "https://boardgamegeek.com/thing/418059",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "160",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "160",
+      "averageRating": "8.37872",
+      "averageWeight": "3.7",
+      "boardGameRank": "433",
+      "mechanics": [
+        "End Game Bonuses",
+        "Income",
+        "Multi-Use Cards",
+        "Resource to Move",
+        "Solo / Solitaire Game",
+        "Turn Order: Progressive",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "291453",
+      "name": "SCOUT",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2023-10-05 11:44:38",
+      "lastmodified": "2024-12-27 16:07:11",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/cf0xxkevbwTGF3VUZymKjg__thumb/img/NUcMdmZ3_eA1YfIwL8iRgkZKaHw=/fit-in/200x150/filters:strip_icc()/pic6398727.png",
+      "link": "https://boardgamegeek.com/thing/291453",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.82197",
+      "averageWeight": "1.3554",
+      "boardGameRank": "101",
+      "mechanics": [
+        "Hand Management",
+        "Ladder Climbing",
+        "Score-and-Reset Game"
+      ],
+      "categories": [
+        "Card Game"
+      ],
+      "designers": [
+        "Kei Kajino (梶野 桂)"
+      ]
+    },
+    {
+      "id": "288558",
+      "name": "Chu Han",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2019-11-09 12:00:24",
+      "lastmodified": "2024-12-26 18:29:25",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/GBwBv0ax9_5lw1YOML0h6g__thumb/img/8f3HwPtpt7ATz4sYr0FzrYhaOpY=/fit-in/200x150/filters:strip_icc()/pic8001986.jpg",
+      "link": "https://boardgamegeek.com/thing/288558",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "25",
+      "minPlayingTime": "25",
+      "maxPlayingTime": "25",
+      "averageRating": "7.08532",
+      "averageWeight": "2.1429",
+      "boardGameRank": "7857",
+      "mechanics": [
+        "Events",
+        "Hand Management",
+        "Ladder Climbing",
+        "Multi-Use Cards"
+      ],
+      "categories": [
+        "Ancient",
+        "Card Game"
+      ],
+      "designers": [
+        "Thomas Lehmann"
+      ]
+    },
+    {
+      "id": "216798",
+      "name": "Telestrations: 6 Player Family Pack",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2024-12-25 17:43:19",
+      "lastmodified": "2024-12-25 17:43:19",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/DMWz1nkmaWQUVd22nVcVNQ__thumb/img/0tepFqG9GvgoHG99h-Yvnjl0FKI=/fit-in/200x150/filters:strip_icc()/pic4298146.jpg",
+      "link": "https://boardgamegeek.com/thing/216798",
+      "minPlayers": "4",
+      "maxPlayers": "6",
+      "bestAtCount": "6",
+      "playingTime": "20",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "20",
+      "averageRating": "7.3318",
+      "averageWeight": "1",
+      "boardGameRank": "4107",
+      "mechanics": [
+        "Line Drawing",
+        "Paper-and-Pencil"
+      ],
+      "categories": [
+        "Humor",
+        "Party Game"
+      ],
+      "designers": []
+    },
+    {
+      "id": "414317",
+      "name": "Harmonies",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-12-21 12:55:43",
+      "lastmodified": "2024-12-21 12:55:44",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__thumb/img/ln5eKAzhse2PIHvWn7bu-jiW_uk=/fit-in/200x150/filters:strip_icc()/pic8026369.png",
+      "link": "https://boardgamegeek.com/thing/414317",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 3",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "8.02022",
+      "averageWeight": "2",
+      "boardGameRank": "128",
+      "mechanics": [
+        "Open Drafting",
+        "Pattern Building",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Environmental"
+      ],
+      "designers": [
+        "Johan Benvenuto"
+      ]
+    },
+    {
+      "id": "414268",
+      "name": "Ticket to Ride Map Collection 8: Iberia & South Korea",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2024-04-26 16:16:18",
+      "lastmodified": "2024-12-20 18:47:11",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/CYhvGLiwveIAv2_vyhfSyA__thumb/img/PIDF3na-vlNfMK2eSoB5ymDTot0=/fit-in/200x150/filters:strip_icc()/pic8190698.jpg",
+      "link": "https://boardgamegeek.com/thing/414268",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.95503",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Network and Route Building",
+        "Open Drafting",
+        "Set Collection",
+        "Stock Holding"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Trains"
+      ],
+      "designers": [
+        "Alan R. Moon"
+      ]
+    },
+    {
+      "id": "347521",
+      "name": "Blitzkrieg!: World War Two in 20 Minutes",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2024-03-15 01:21:23",
+      "lastmodified": "2024-12-20 18:44:22",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/8Uxw0IhS_MGMS_02G_KnuQ__thumb/img/wQLEH6i0YjD0JXG86W3VQXTFHmU=/fit-in/200x150/filters:strip_icc()/pic6156946.jpg",
+      "link": "https://boardgamegeek.com/thing/347521",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "45",
+      "averageRating": "7.51814",
+      "averageWeight": "1.7368",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Kill Steal",
+        "Race",
+        "Solo / Solitaire Game",
+        "Take That",
+        "Tug of War"
+      ],
+      "categories": [
+        "Wargame",
+        "World War II"
+      ],
+      "designers": [
+        "Paolo Mori"
+      ]
+    },
+    {
+      "id": "342274",
+      "name": "Onitama: Light and Shadow",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2024-03-15 01:25:21",
+      "lastmodified": "2024-12-20 18:43:39",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/G-QCZ1EZ1rJbvxtvaER4oA__thumb/img/vHzyqMl5KTu14mvr64qL2gJx8Q8=/fit-in/200x150/filters:strip_icc()/pic6946703.jpg",
+      "link": "https://boardgamegeek.com/thing/342274",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "20",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "20",
+      "averageRating": "7.46443",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Grid Movement",
+        "Hand Management",
+        "Hidden Movement",
+        "Pattern Movement",
+        "Square Grid",
+        "Static Capture"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Ancient",
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Robert Geistlinger",
+        "Collin Meller",
+        "Bryan Pope",
+        "Shimpei Sato"
+      ]
+    },
+    {
+      "id": "247160",
+      "name": "Dinosaur Tea Party",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2024-03-15 01:24:15",
+      "lastmodified": "2024-12-20 18:42:47",
+      "myrating": null,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/x1i5n8m3cczz7WDQKVGWXw__thumb/img/L6R1wQ2TywGUJoqVe0tEx1TTSjs=/fit-in/200x150/filters:strip_icc()/pic4000020.jpg",
+      "link": "https://boardgamegeek.com/thing/247160",
+      "minPlayers": "3",
+      "maxPlayers": "5",
+      "bestAtCount": "4, 5",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "6.42669",
+      "averageWeight": "1.2083",
+      "boardGameRank": "3787",
+      "mechanics": [
+        "Memory",
+        "Pattern Recognition"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "Deduction",
+        "Humor",
+        "Memory",
+        "Party Game",
+        "Prehistoric"
+      ],
+      "designers": [
+        "Rob Daviau",
+        "JR Honeycutt",
+        "Justin D. Jacobson"
+      ]
+    },
+    {
+      "id": "269210",
+      "name": "Twice as Clever!",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2024-12-20 18:41:58",
+      "lastmodified": "2024-12-20 18:41:58",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/5F4jkBIAbtkLJXOtvBjh3g__thumb/img/1wKiUIxUBZpJaDRiRwHPCUrGZdk=/fit-in/200x150/filters:strip_icc()/pic8014068.jpg",
+      "link": "https://boardgamegeek.com/thing/269210",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.43186",
+      "averageWeight": "2.2865",
+      "boardGameRank": "432",
+      "mechanics": [
+        "Dice Rolling",
+        "Paper-and-Pencil",
+        "Re-rolling and Locking",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Dice",
+        "Number"
+      ],
+      "designers": [
+        "Wolfgang Warsch"
+      ]
+    },
+    {
+      "id": "299277",
+      "name": "Imperial Settlers: Rise of the Empire",
+      "yearPublished": "2020",
+      "type": "boardgameexpansion",
+      "postdate": "2023-09-21 17:35:49",
+      "lastmodified": "2024-12-20 18:39:32",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/mdUoVlnfKcdY9jjaDH-4ew__thumb/img/EemoVc_JcMTCBphWSqCEO05ef14=/fit-in/200x150/filters:strip_icc()/pic5191901.jpg",
+      "link": "https://boardgamegeek.com/thing/299277",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.36088",
+      "averageWeight": "2.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Closed Drafting",
+        "Contracts",
+        "Open Drafting",
+        "Scenario / Mission / Campaign Game",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Ancient",
+        "Card Game",
+        "City Building",
+        "Civilization"
+      ],
+      "designers": [
+        "Joanna Kijanka"
+      ]
+    },
+    {
+      "id": "351913",
+      "name": "Tiletum",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2023-01-11 12:28:53",
+      "lastmodified": "2024-12-20 18:38:02",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/DvvSoTrB3-UMEgz2rBraHg__thumb/img/TnJONz9KNXPJBQ42sorXuoUTlew=/fit-in/200x150/filters:strip_icc()/pic7533289.jpg",
+      "link": "https://boardgamegeek.com/thing/351913",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 3",
+      "playingTime": "100",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "100",
+      "averageRating": "7.90275",
+      "averageWeight": "3.4176",
+      "boardGameRank": "310",
+      "mechanics": [
+        "Action Drafting",
+        "Action Points",
+        "Contracts",
+        "Dice Rolling",
+        "End Game Bonuses",
+        "Point to Point Movement",
+        "Set Collection"
+      ],
+      "categories": [
+        "Renaissance"
+      ],
+      "designers": [
+        "Simone Luciani",
+        "Daniele Tascini"
+      ]
+    },
+    {
+      "id": "194523",
+      "name": "HMS Dolores",
+      "yearPublished": "2016",
+      "type": "boardgame",
+      "postdate": "2024-12-20 18:36:57",
+      "lastmodified": "2024-12-20 18:36:57",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/pzgKGIhvkNAZ3M3xaWWwow__thumb/img/LNpuYcJKdo8J8A9tJtK_SSOT854=/fit-in/200x150/filters:strip_icc()/pic3105314.jpg",
+      "link": "https://boardgamegeek.com/thing/194523",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "6.09102",
+      "averageWeight": "1.3462",
+      "boardGameRank": "5384",
+      "mechanics": [
+        "Prisoner's Dilemma",
+        "Rock-Paper-Scissors",
+        "Set Collection",
+        "Simultaneous Action Selection"
+      ],
+      "categories": [
+        "Card Game",
+        "Negotiation",
+        "Pirates"
+      ],
+      "designers": [
+        "Bruno Faidutti",
+        "Eric M. Lang"
+      ]
+    },
+    {
+      "id": "271530",
+      "name": "Ankh'or",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2024-12-20 18:36:17",
+      "lastmodified": "2024-12-20 18:36:17",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Knb4fcoNLCpoO0GpcoPg3A__thumb/img/xXWjsvCfCbYFnukrCuUmogb4kmc=/fit-in/200x150/filters:strip_icc()/pic5009116.jpg",
+      "link": "https://boardgamegeek.com/thing/271530",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.88406",
+      "averageWeight": "1.697",
+      "boardGameRank": "2981",
+      "mechanics": [
+        "Layering",
+        "Open Drafting",
+        "Pattern Building",
+        "Set Collection",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Mythology"
+      ],
+      "designers": [
+        "Frank Crittin",
+        "Grégoire Largey",
+        "Sébastien Pauchon"
+      ]
+    },
+    {
+      "id": "34297",
+      "name": "The Climbers",
+      "yearPublished": "2008",
+      "type": "boardgame",
+      "postdate": "2024-12-20 18:35:26",
+      "lastmodified": "2024-12-20 18:35:26",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/-jNNNZAQzbALy2jZfp77lg__thumb/img/BNd77s-x_DP0ODz9j_Ld02zBOKU=/fit-in/200x150/filters:strip_icc()/pic3582920.jpg",
+      "link": "https://boardgamegeek.com/thing/34297",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "6.75812",
+      "averageWeight": "1.775",
+      "boardGameRank": "1888",
+      "mechanics": [
+        "Modular Board",
+        "Race",
+        "Three Dimensional Movement",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy"
+      ],
+      "designers": [
+        "Holger Lanz"
+      ]
+    },
+    {
+      "id": "230059",
+      "name": "Crossfire",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2024-12-20 18:34:35",
+      "lastmodified": "2024-12-20 18:34:35",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/6bX0JWyEXFx7mXt_mCfiOw__thumb/img/Nghcmqav6yPIpYg9kPeS-VZ7puk=/fit-in/200x150/filters:strip_icc()/pic3621676.jpg",
+      "link": "https://boardgamegeek.com/thing/230059",
+      "minPlayers": "5",
+      "maxPlayers": "10",
+      "bestAtCount": "8, 9",
+      "playingTime": "10",
+      "minPlayingTime": "5",
+      "maxPlayingTime": "10",
+      "averageRating": "6.40387",
+      "averageWeight": "1.1905",
+      "boardGameRank": "4754",
+      "mechanics": [
+        "Betting and Bluffing",
+        "Deduction",
+        "Team-Based Game"
+      ],
+      "categories": [
+        "Bluffing",
+        "Deduction",
+        "Real-time",
+        "Science Fiction",
+        "Spies / Secret Agents"
+      ],
+      "designers": [
+        "Emerson Matsuuchi"
+      ]
+    },
+    {
+      "id": "339591",
+      "name": "Interstellar",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2023-10-16 16:04:16",
+      "lastmodified": "2024-12-17 22:23:56",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/p2zzC8ZdzwtQVIGXdpK8QQ__thumb/img/XxEDoBwhr0gEodoGMD8Bdxf4iXo=/fit-in/200x150/filters:strip_icc()/pic6380476.png",
+      "link": "https://boardgamegeek.com/thing/339591",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "3, 6",
+      "playingTime": "240",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "240",
+      "averageRating": "7.45145",
+      "averageWeight": "4.45",
+      "boardGameRank": "8528",
+      "mechanics": [
+        "Market",
+        "Melding and Splaying",
+        "Negotiation",
+        "Semi-Cooperative Game",
+        "Simulation",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Adventure",
+        "Exploration",
+        "Political",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Phil Eklund",
+        "Justin Grey"
+      ]
+    },
+    {
+      "id": "417197",
+      "name": "Rebirth",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-05-24 16:58:17",
+      "lastmodified": "2024-12-16 15:11:16",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/tyv6lPMlyU7YIUztlILQYQ__thumb/img/_CXQQbXsewUlde4R22XCRApxZ5k=/fit-in/200x150/filters:strip_icc()/pic8587890.png",
+      "link": "https://boardgamegeek.com/thing/417197",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "60",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "60",
+      "averageRating": "7.81037",
+      "averageWeight": "2.093",
+      "boardGameRank": "1863",
+      "mechanics": [
+        "Tile Placement"
+      ],
+      "categories": [
+        "Environmental",
+        "Fantasy",
+        "Farming",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Reiner Knizia"
+      ]
+    },
+    {
+      "id": "425005",
+      "name": "Everdell Duo",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2024-12-06 22:45:17",
+      "lastmodified": "2024-12-06 22:45:17",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/RRBAoLAweDVP3iJ7qeqQKw__thumb/img/zvhVpbsSBXoLr-vJLVExn7K_Cg0=/fit-in/200x150/filters:strip_icc()/pic8317636.png",
+      "link": "https://boardgamegeek.com/thing/425005",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.68644",
+      "averageWeight": "2.2",
+      "boardGameRank": "6632",
+      "mechanics": [
+        "Contracts",
+        "Cooperative Game",
+        "Income",
+        "Open Drafting",
+        "Scenario / Mission / Campaign Game",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Variable Set-up",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "City Building",
+        "Fantasy"
+      ],
+      "designers": [
+        "James A. Wilson",
+        "Clarissa A. Wilson"
+      ]
+    },
+    {
+      "id": "240980",
+      "name": "Blood on the Clocktower",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2023-09-23 17:57:48",
+      "lastmodified": "2024-11-29 08:49:30",
+      "myrating": null,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__thumb/img/cRCX-PIROiSFG5aLvwkn2O7tHsg=/fit-in/200x150/filters:strip_icc()/pic7009391.jpg",
+      "link": "https://boardgamegeek.com/thing/240980",
+      "minPlayers": "6",
+      "maxPlayers": "21",
+      "bestAtCount": "9, 12",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "8.34162",
+      "averageWeight": "3.0417",
+      "boardGameRank": "130",
+      "mechanics": [
+        "Betting and Bluffing",
+        "Deduction",
+        "Hidden Roles",
+        "Negotiation",
+        "Prisoner's Dilemma",
+        "Rock-Paper-Scissors",
+        "Roles with Asymmetric Information",
+        "Team-Based Game",
+        "Variable Player Powers",
+        "Voting"
+      ],
+      "categories": [
+        "Bluffing",
+        "Deduction",
+        "Horror",
+        "Murder / Mystery",
+        "Party Game"
+      ],
+      "designers": [
+        "Steven Medway"
+      ]
+    },
+    {
+      "id": "347305",
+      "name": "Inventions: Evolution of Ideas",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-11-25 19:16:44",
+      "lastmodified": "2024-11-25 19:17:30",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/aXqSKhZ-J7Xl-TTWRCEq4g__thumb/img/cO7RofS2qlfKTMdTxHM7IjWDN2g=/fit-in/200x150/filters:strip_icc()/pic7032801.jpg",
+      "link": "https://boardgamegeek.com/thing/347305",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "150",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "150",
+      "averageRating": "8.07577",
+      "averageWeight": "4.6738",
+      "boardGameRank": "921",
+      "mechanics": [
+        "Point to Point Movement",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Civilization",
+        "Industry / Manufacturing"
+      ],
+      "designers": [
+        "Vital Lacerda"
+      ]
+    },
+    {
+      "id": "25554",
+      "name": "Notre Dame",
+      "yearPublished": "2007",
+      "type": "boardgame",
+      "postdate": "2007-11-21 03:30:03",
+      "lastmodified": "2024-11-24 23:58:01",
+      "myrating": null,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/d1g8Yh14XHf63H3VOC93AA__thumb/img/DwCJeQSpNHs_cX8FfWwNlKqDRSQ=/fit-in/200x150/filters:strip_icc()/pic199316.jpg",
+      "link": "https://boardgamegeek.com/thing/25554",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "3, 4",
+      "playingTime": "75",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "75",
+      "averageRating": "7.31301",
+      "averageWeight": "2.7425",
+      "boardGameRank": "425",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Closed Drafting",
+        "Point to Point Movement"
+      ],
+      "categories": [
+        "Economic",
+        "Renaissance"
+      ],
+      "designers": [
+        "Stefan Feld"
+      ]
+    },
+    {
+      "id": "155987",
+      "name": "Abyss",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2024-11-23 18:55:31",
+      "lastmodified": "2024-11-23 18:55:31",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/O9nPs9wrCghDF4izqFtoGQ__thumb/img/v2bPSjIYCfD7ekFGQswrRLwkonY=/fit-in/200x150/filters:strip_icc()/pic1965255.jpg",
+      "link": "https://boardgamegeek.com/thing/155987",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.32581",
+      "averageWeight": "2.3218",
+      "boardGameRank": "411",
+      "mechanics": [
+        "Auction / Bidding",
+        "Hand Management",
+        "Memory",
+        "Open Drafting",
+        "Push Your Luck",
+        "Set Collection"
+      ],
+      "categories": [
+        "Card Game",
+        "Fantasy",
+        "Mythology",
+        "Nautical",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Bruno Cathala",
+        "Charles Chevallier"
+      ]
+    },
+    {
+      "id": "367966",
+      "name": "Endeavor: Deep Sea",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-11-23 14:18:45",
+      "lastmodified": "2024-11-23 14:18:45",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__thumb/img/7_DqsUgdrpbeLfkA2ko8bXhgpGw=/fit-in/200x150/filters:strip_icc()/pic6996584.jpg",
+      "link": "https://boardgamegeek.com/thing/367966",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.29712",
+      "averageWeight": "2.7928",
+      "boardGameRank": "883",
+      "mechanics": [
+        "Action Points",
+        "Chaining",
+        "Map Addition",
+        "Solo / Solitaire Game",
+        "Tech Trees / Tech Tracks"
+      ],
+      "categories": [
+        "Environmental",
+        "Exploration",
+        "Nautical"
+      ],
+      "designers": [
+        "Carl de Visser",
+        "Jarratt Gray"
+      ]
+    },
+    {
+      "id": "33458",
+      "name": "Carcassonne: Expansion 6 – Count, King & Robber",
+      "yearPublished": "2007",
+      "type": "boardgameexpansion",
+      "postdate": "2024-11-23 02:03:09",
+      "lastmodified": "2024-11-23 02:03:09",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/eTGI7r_ud_n2e0QjJg2F3g__thumb/img/oQjC8FKyOqBt9Vo2OTFJggpMLE0=/fit-in/200x150/filters:strip_icc()/pic4007858.jpg",
+      "link": "https://boardgamegeek.com/thing/33458",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "3",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "6.84284",
+      "averageWeight": "2.1923",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "City Building",
+        "Medieval"
+      ],
+      "designers": [
+        "Klaus-Jürgen Wrede"
+      ]
+    },
+    {
+      "id": "284818",
+      "name": "Caylus 1303",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2024-11-20 12:08:42",
+      "lastmodified": "2024-11-20 12:08:42",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/AmDxG1Bbkr4cNC2d8XO-7A__thumb/img/MZ0JIjoGOhvDb8fG1IO8hn03768=/fit-in/200x150/filters:strip_icc()/pic4978911.jpg",
+      "link": "https://boardgamegeek.com/thing/284818",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.4313",
+      "averageWeight": "2.8571",
+      "boardGameRank": "979",
+      "mechanics": [
+        "Action Queue",
+        "Hidden Victory Points",
+        "Ownership",
+        "Take That",
+        "Turn Order: Claim Action",
+        "Turn Order: Pass Order",
+        "Variable Player Powers",
+        "Variable Set-up",
+        "Worker Placement"
+      ],
+      "categories": [
+        "City Building",
+        "Economic",
+        "Medieval"
+      ],
+      "designers": [
+        "William Attia"
+      ]
+    },
+    {
+      "id": "271324",
+      "name": "It's a Wonderful World",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2024-08-27 15:34:04",
+      "lastmodified": "2024-11-17 10:39:42",
+      "myrating": null,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__thumb/img/T2ukKoCUNv2LMxg5GOlOb8WTzNI=/fit-in/200x150/filters:strip_icc()/pic4651175.jpg",
+      "link": "https://boardgamegeek.com/thing/271324",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "7.66281",
+      "averageWeight": "2.3237",
+      "boardGameRank": "163",
+      "mechanics": [
+        "Closed Drafting",
+        "End Game Bonuses",
+        "Hand Management",
+        "Income",
+        "Set Collection",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Civilization",
+        "Economic",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Frédéric Guérard"
+      ]
+    },
     {
       "id": "334485",
       "name": "Root: Riverfolk Hirelings Pack",
@@ -7950,162 +8976,6 @@
       ]
     },
     {
-      "id": "342274",
-      "name": "Onitama: Light and Shadow",
-      "yearPublished": "2022",
-      "type": "boardgameexpansion",
-      "postdate": "2024-03-15 01:25:21",
-      "lastmodified": "2024-03-15 01:25:21",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/G-QCZ1EZ1rJbvxtvaER4oA__thumb/img/vHzyqMl5KTu14mvr64qL2gJx8Q8=/fit-in/200x150/filters:strip_icc()/pic6946703.jpg",
-      "link": "https://boardgamegeek.com/thing/342274",
-      "minPlayers": "2",
-      "maxPlayers": "2",
-      "bestAtCount": "2",
-      "playingTime": "20",
-      "minPlayingTime": "15",
-      "maxPlayingTime": "20",
-      "averageRating": "7.46443",
-      "averageWeight": "2",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Grid Movement",
-        "Hand Management",
-        "Hidden Movement",
-        "Pattern Movement",
-        "Square Grid",
-        "Static Capture"
-      ],
-      "categories": [
-        "Abstract Strategy",
-        "Ancient",
-        "Expansion for Base-game"
-      ],
-      "designers": [
-        "Robert Geistlinger",
-        "Collin Meller",
-        "Bryan Pope",
-        "Shimpei Sato"
-      ]
-    },
-    {
-      "id": "247160",
-      "name": "Dinosaur Tea Party",
-      "yearPublished": "2018",
-      "type": "boardgame",
-      "postdate": "2024-03-15 01:24:15",
-      "lastmodified": "2024-03-15 01:24:16",
-      "myrating": null,
-      "numplays": "2",
-      "thumbnail": "https://cf.geekdo-images.com/x1i5n8m3cczz7WDQKVGWXw__thumb/img/L6R1wQ2TywGUJoqVe0tEx1TTSjs=/fit-in/200x150/filters:strip_icc()/pic4000020.jpg",
-      "link": "https://boardgamegeek.com/thing/247160",
-      "minPlayers": "3",
-      "maxPlayers": "5",
-      "bestAtCount": "4, 5",
-      "playingTime": "30",
-      "minPlayingTime": "15",
-      "maxPlayingTime": "30",
-      "averageRating": "6.42669",
-      "averageWeight": "1.2083",
-      "boardGameRank": "3787",
-      "mechanics": [
-        "Memory",
-        "Pattern Recognition"
-      ],
-      "categories": [
-        "Animals",
-        "Card Game",
-        "Deduction",
-        "Humor",
-        "Memory",
-        "Party Game",
-        "Prehistoric"
-      ],
-      "designers": [
-        "Rob Daviau",
-        "JR Honeycutt",
-        "Justin D. Jacobson"
-      ]
-    },
-    {
-      "id": "299277",
-      "name": "Imperial Settlers: Rise of the Empire",
-      "yearPublished": "2020",
-      "type": "boardgameexpansion",
-      "postdate": "2023-09-21 17:35:49",
-      "lastmodified": "2024-03-15 01:23:11",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/mdUoVlnfKcdY9jjaDH-4ew__thumb/img/EemoVc_JcMTCBphWSqCEO05ef14=/fit-in/200x150/filters:strip_icc()/pic5191901.jpg",
-      "link": "https://boardgamegeek.com/thing/299277",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "90",
-      "minPlayingTime": "45",
-      "maxPlayingTime": "90",
-      "averageRating": "7.36088",
-      "averageWeight": "2.5",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Closed Drafting",
-        "Contracts",
-        "Open Drafting",
-        "Scenario / Mission / Campaign Game",
-        "Take That",
-        "Variable Player Powers"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Ancient",
-        "Card Game",
-        "City Building",
-        "Civilization"
-      ],
-      "designers": [
-        "Joanna Kijanka"
-      ]
-    },
-    {
-      "id": "347521",
-      "name": "Blitzkrieg!: World War Two in 20 Minutes",
-      "yearPublished": "2021",
-      "type": "boardgame",
-      "postdate": "2024-03-15 01:21:23",
-      "lastmodified": "2024-03-15 01:21:24",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/8Uxw0IhS_MGMS_02G_KnuQ__thumb/img/wQLEH6i0YjD0JXG86W3VQXTFHmU=/fit-in/200x150/filters:strip_icc()/pic6156946.jpg",
-      "link": "https://boardgamegeek.com/thing/347521",
-      "minPlayers": "1",
-      "maxPlayers": "2",
-      "bestAtCount": "2",
-      "playingTime": "45",
-      "minPlayingTime": "20",
-      "maxPlayingTime": "45",
-      "averageRating": "7.51814",
-      "averageWeight": "1.7368",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Area Majority / Influence",
-        "Deck, Bag, and Pool Building",
-        "Hand Management",
-        "Kill Steal",
-        "Race",
-        "Solo / Solitaire Game",
-        "Take That",
-        "Tug of War"
-      ],
-      "categories": [
-        "Wargame",
-        "World War II"
-      ],
-      "designers": [
-        "Paolo Mori"
-      ]
-    },
-    {
       "id": "286985",
       "name": "Merchants Cove: The Innkeeper",
       "yearPublished": "2021",
@@ -10322,48 +11192,6 @@
       ]
     },
     {
-      "id": "366013",
-      "name": "Heat: Pedal to the Metal",
-      "yearPublished": "2022",
-      "type": "boardgame",
-      "postdate": "2023-11-13 20:21:14",
-      "lastmodified": "2023-11-13 20:21:14",
-      "myrating": null,
-      "numplays": "12",
-      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__thumb/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
-      "link": "https://boardgamegeek.com/thing/366013",
-      "minPlayers": "1",
-      "maxPlayers": "6",
-      "bestAtCount": "5, 6",
-      "playingTime": "60",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "60",
-      "averageRating": "8.04809",
-      "averageWeight": "2.193",
-      "boardGameRank": "40",
-      "mechanics": [
-        "Catch the Leader",
-        "Deck, Bag, and Pool Building",
-        "Hand Management",
-        "Programmed Movement",
-        "Push Your Luck",
-        "Race",
-        "Simulation",
-        "Simultaneous Action Selection",
-        "Solo / Solitaire Game",
-        "Track Movement",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Racing",
-        "Sports"
-      ],
-      "designers": [
-        "Asger Harding Granerud",
-        "Daniel Skjold Pedersen"
-      ]
-    },
-    {
       "id": "295770",
       "name": "Frosthaven",
       "yearPublished": "2022",
@@ -10411,38 +11239,6 @@
       ],
       "designers": [
         "Isaac Childres"
-      ]
-    },
-    {
-      "id": "291453",
-      "name": "SCOUT",
-      "yearPublished": "2019",
-      "type": "boardgame",
-      "postdate": "2023-10-05 11:44:38",
-      "lastmodified": "2023-11-13 19:13:51",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/cf0xxkevbwTGF3VUZymKjg__thumb/img/NUcMdmZ3_eA1YfIwL8iRgkZKaHw=/fit-in/200x150/filters:strip_icc()/pic6398727.png",
-      "link": "https://boardgamegeek.com/thing/291453",
-      "minPlayers": "2",
-      "maxPlayers": "5",
-      "bestAtCount": "4",
-      "playingTime": "15",
-      "minPlayingTime": "15",
-      "maxPlayingTime": "15",
-      "averageRating": "7.82197",
-      "averageWeight": "1.3554",
-      "boardGameRank": "101",
-      "mechanics": [
-        "Hand Management",
-        "Ladder Climbing",
-        "Score-and-Reset Game"
-      ],
-      "categories": [
-        "Card Game"
-      ],
-      "designers": [
-        "Kei Kajino (梶野 桂)"
       ]
     },
     {
@@ -11747,43 +12543,6 @@
       ],
       "designers": [
         "Christian Martinez"
-      ]
-    },
-    {
-      "id": "351913",
-      "name": "Tiletum",
-      "yearPublished": "2022",
-      "type": "boardgame",
-      "postdate": "2023-01-11 12:28:53",
-      "lastmodified": "2023-08-21 15:12:39",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/DvvSoTrB3-UMEgz2rBraHg__thumb/img/TnJONz9KNXPJBQ42sorXuoUTlew=/fit-in/200x150/filters:strip_icc()/pic7533289.jpg",
-      "link": "https://boardgamegeek.com/thing/351913",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "2, 3",
-      "playingTime": "100",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "100",
-      "averageRating": "7.90275",
-      "averageWeight": "3.4176",
-      "boardGameRank": "310",
-      "mechanics": [
-        "Action Drafting",
-        "Action Points",
-        "Contracts",
-        "Dice Rolling",
-        "End Game Bonuses",
-        "Point to Point Movement",
-        "Set Collection"
-      ],
-      "categories": [
-        "Renaissance"
-      ],
-      "designers": [
-        "Simone Luciani",
-        "Daniele Tascini"
       ]
     },
     {
@@ -21564,39 +22323,6 @@
       ],
       "designers": [
         "Wilko Manz"
-      ]
-    },
-    {
-      "id": "25554",
-      "name": "Notre Dame",
-      "yearPublished": "2007",
-      "type": "boardgame",
-      "postdate": "2007-11-21 03:30:03",
-      "lastmodified": "2022-02-11 19:39:32",
-      "myrating": null,
-      "numplays": "2",
-      "thumbnail": "https://cf.geekdo-images.com/d1g8Yh14XHf63H3VOC93AA__thumb/img/DwCJeQSpNHs_cX8FfWwNlKqDRSQ=/fit-in/200x150/filters:strip_icc()/pic199316.jpg",
-      "link": "https://boardgamegeek.com/thing/25554",
-      "minPlayers": "2",
-      "maxPlayers": "5",
-      "bestAtCount": "3, 4",
-      "playingTime": "75",
-      "minPlayingTime": "45",
-      "maxPlayingTime": "75",
-      "averageRating": "7.31301",
-      "averageWeight": "2.7425",
-      "boardGameRank": "425",
-      "mechanics": [
-        "Area Majority / Influence",
-        "Closed Drafting",
-        "Point to Point Movement"
-      ],
-      "categories": [
-        "Economic",
-        "Renaissance"
-      ],
-      "designers": [
-        "Stefan Feld"
       ]
     },
     {

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-01-08T23:46:47.569Z",
+  "gameDetails": {
+    "id": "338829",
+    "name": "Mystery House: Adventures in a Box – The Lost Ship",
+    "type": "boardgameexpansion",
+    "description": "You&rsquo;re on a distant planet, you see a spaceship in front of you, but no traces of life. Your oxygen is running low.&#10;You have no choice: you must enter!&#10;An apparently uncontrolled ship lost in the deep space and a mysterious Artificial Intelligence &mdash; all of this awaits in The Lost Ship, a SCI-FI themed adventure for Mystery House.&#10;&#10;Solve all the riddles, and  take back the control of the ship!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/cwg8ObFx8qTPX9TejZ2t1A__original/img/VH5oIB4Gb6CUrP1oRyz4NfRzKv0=/0x0/filters:format(png)/pic6175797.png",
+    "thumbnail": "https://cf.geekdo-images.com/cwg8ObFx8qTPX9TejZ2t1A__thumb/img/W0eKvKGillIFGEuK5Rg9KXhtpxI=/fit-in/200x150/filters:strip_icc()/pic6175797.png",
+    "link": "https://boardgamegeek.com/thing/338829",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2021",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.6869",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Deduction",
+      "Expansion for Base-game",
+      "Party Game",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Antonio Tinto"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-01-08T23:47:26.876Z",
+  "gameDetails": {
+    "id": "347305",
+    "name": "Inventions: Evolution of Ideas",
+    "type": "boardgame",
+    "description": "Since the dawn of time, humanity has sought new ideas, forever developing them into still newer concepts. Their genius made them stand out from the other animals. Each invention is a veritable evolutionary step. Humans' use of tools surpasses the efforts of all others, making Homo sapiens technologists since before historical records were invented.&#10;&#10;Inventions: Evolution of Ideas follows humanity's most noteworthy innovations and places the power of these technological developments in your hands to evolve your societies over the ages.&#10;&#10;In Inventions, cards simulate these new concepts. Cards are the ideas that eventually become inventions. Once they are invented, these technologies can be shared with the world, and everyone involved in the process spreads the exciting news, giving credit where credit is due. Developing these inventions progresses your society, advancing its technology, economy, and culture. You can even share with other societies, boosting the inventions' efficacy even more!&#10;&#10;Inventions is a tactical game, but you will do best by building these tactics around a long-term strategy. Each society's progress will be measured in Intellectual Property Points (IPP), and the player who has the most IPP has the strongest society and wins the game.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/aXqSKhZ-J7Xl-TTWRCEq4g__original/img/bAq5DDtsRdguPZjYcnI3VohQ0iw=/0x0/filters:format(jpeg)/pic7032801.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aXqSKhZ-J7Xl-TTWRCEq4g__thumb/img/cO7RofS2qlfKTMdTxHM7IjWDN2g=/fit-in/200x150/filters:strip_icc()/pic7032801.jpg",
+    "link": "https://boardgamegeek.com/thing/347305",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.07577",
+    "averageWeight": "4.6738",
+    "boardGameRank": "921",
+    "mechanics": [
+      "Point to Point Movement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Civilization",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Vital Lacerda"
+    ]
+  }
+}

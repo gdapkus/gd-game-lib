@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-01-08T23:47:39.545Z",
+  "gameDetails": {
+    "id": "414268",
+    "name": "Ticket to Ride Map Collection 8: Iberia & South Korea",
+    "type": "boardgameexpansion",
+    "description": "Ticket to Ride Map Collection 8: Iberia &amp; South Korea gives you the chance to set up rail networks on two peninsulas with wildly different settings.&#10;&#10;On the Iberian peninsula, players start the game by drafting six destination cards, then keeping four of them &mdash; a process they repeat before the train deck runs out the first time. While you're trying to fulfill those eight destination cards with only 35 trains, you can possibly pick up festival cards along the way. The deck is seeded with 54 festival cards, and when one is drawn, you place it next to the city on the game board. If you build a route that connects to one or two cities with festival cards, you choose one of those cities and collect all of the festival cards near it. The more you collect from a city, the more they're worth at game's end!&#10;&#10;In South Korea, you start the game as in Iberia by drafting six destination cards, then keeping four of them. All of the routes are grouped by color: blue in the northeast, yellow in the northwest, and so on. When you claim a route, you can also place one of your trains on the province mat on an empty space of the matching color showing the number of cards you played of that color; you can play more cards than required to claim a route should you want to place on a higher number. Additionally, each player has a set of &quot;express train&quot; cards (+1, +2, +3), and you can spend a card on your turn to either draw more train cards, draw more destination tickets, or claim a higher number on the province mat. At game's end, evaluate each color on the province mat, with the player (or players) with the highest sum of values claimed earning bonus points.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/CYhvGLiwveIAv2_vyhfSyA__original/img/SNGrdqRzlD6867t7Ar0ofPZnYWc=/0x0/filters:format(jpeg)/pic8190698.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CYhvGLiwveIAv2_vyhfSyA__thumb/img/PIDF3na-vlNfMK2eSoB5ymDTot0=/fit-in/200x150/filters:strip_icc()/pic8190698.jpg",
+    "link": "https://boardgamegeek.com/thing/414268",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.95503",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Network and Route Building",
+      "Open Drafting",
+      "Set Collection",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains"
+    ],
+    "designers": [
+      "Alan R. Moon"
+    ]
+  }
+}
