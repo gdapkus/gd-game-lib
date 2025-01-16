@@ -1,6 +1,43 @@
 {
-  "timestamp": "2025-01-08T23:50:11.384Z",
+  "timestamp": "2025-01-16T18:24:57.348Z",
   "games": [
+    {
+      "id": "351040",
+      "name": "Ready Set Bet",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2025-01-12 16:24:51",
+      "lastmodified": "2025-01-12 16:24:51",
+      "myrating": null,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/4ZCV2o_OiGha0bknXDTfdA__thumb/img/S3t6BJifjuZMOwfnUQ6lcdUx9RA=/fit-in/200x150/filters:strip_icc()/pic6678381.jpg",
+      "link": "https://boardgamegeek.com/thing/351040",
+      "minPlayers": "2",
+      "maxPlayers": "9",
+      "bestAtCount": "6, 8",
+      "playingTime": "60",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "60",
+      "averageRating": "7.56356",
+      "averageWeight": "1.3",
+      "boardGameRank": "480",
+      "mechanics": [
+        "Betting and Bluffing",
+        "Dice Rolling",
+        "Real-Time",
+        "Track Movement"
+      ],
+      "categories": [
+        "Animals",
+        "Party Game",
+        "Racing",
+        "Real-time",
+        "Sports"
+      ],
+      "designers": [
+        "John D. Clair"
+      ]
+    },
     {
       "id": "366013",
       "name": "Heat: Pedal to the Metal",

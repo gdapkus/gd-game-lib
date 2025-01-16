@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-01-16T18:23:54.467Z",
+  "gameDetails": {
+    "id": "287941",
+    "name": "Formosa Tea",
+    "type": "boardgame",
+    "description": "The sub-tropical climate and environment of Taiwan makes the island highly suitable for cultivating top quality tea. But it wasn't not until the 19th century after English businessman John Dodd discovered some amazing Oolong tea there that the Taiwanese tea business truly begin to bloom and &quot;Formosa Tea&quot; became world-reknowned.&#10;&#10;In Formosa Tea, players are tea farm owners competing to harvest the best tea leaves, improve their tea processing techniques, and produce tea of the highest quality for not only the domestic market but also for the international market. With the unique worker placement and worker advancement mechanisms, along with the tea dehydration and scenting processing, players must use their workers wisely to make the best tea in the market.&#10;&#10;A game of Formosa Tea is played in four rounds. In each round, players take turns to perform one of the five possible actions:&#10;&#10;&#10;    Send a worker to harvest tea leaves&#10;    Send a worker to a tea factory to  process tea leaves&#10;    Retrieve a worker from the tea factory after tea processing is completed&#10;    Send a worker to sell tea in the domestic market&#10;    Send a worker to sell tea to international merchants. &#10;&#10;&#10;After the end of the fourth round, the player who has the most prestige points wins!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/zUU7fyzcPmC5dJ9ovT90vQ__original/img/qhjkgE38WiKvIANM2vTrsdb_4-w=/0x0/filters:format(jpeg)/pic4928296.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zUU7fyzcPmC5dJ9ovT90vQ__thumb/img/X5Ls0TJfgBx0WZOa7Ak9FCu9qdg=/fit-in/200x150/filters:strip_icc()/pic4928296.jpg",
+    "link": "https://boardgamegeek.com/thing/287941",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.37985",
+    "averageWeight": "3.4359",
+    "boardGameRank": "3115",
+    "mechanics": [
+      "Contracts",
+      "Events",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Farming",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Chu-Lan Kao"
+    ]
+  }
+}

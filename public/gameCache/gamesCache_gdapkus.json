@@ -1,6 +1,41 @@
 {
-  "timestamp": "2025-01-08T23:48:13.465Z",
+  "timestamp": "2025-01-16T18:24:00.837Z",
   "games": [
+    {
+      "id": "287941",
+      "name": "Formosa Tea",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2024-10-10 01:21:15",
+      "lastmodified": "2025-01-16 12:23:19",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/zUU7fyzcPmC5dJ9ovT90vQ__thumb/img/X5Ls0TJfgBx0WZOa7Ak9FCu9qdg=/fit-in/200x150/filters:strip_icc()/pic4928296.jpg",
+      "link": "https://boardgamegeek.com/thing/287941",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "90",
+      "averageRating": "7.37985",
+      "averageWeight": "3.4359",
+      "boardGameRank": "3115",
+      "mechanics": [
+        "Contracts",
+        "Events",
+        "Tech Trees / Tech Tracks",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Farming",
+        "Industry / Manufacturing"
+      ],
+      "designers": [
+        "Chu-Lan Kao"
+      ]
+    },
     {
       "id": "368467",
       "name": "Doomensions: Pop-Up Mystery Manor",
