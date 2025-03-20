@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-03-20T05:11:33.074Z",
+  "gameDetails": {
+    "id": "406856",
+    "name": "Anno 1800: Die Erweiterung",
+    "type": "boardgameexpansion",
+    "description": "The expansion for Anno 1800 - The Board Game advances industrialization and offers new possibilities and combo moves. Innovation cards and gears increase efficiency, airships promote trade, expansion and influence, patents protect your own industries, and new contract cards open up entirely new strategies. The expansion includes a solo mode and is only playable with the base game. Discover Martin Wallace's Anno 1800 game now with even more possibilities and intense fun.&#10;&#10;&mdash;description from the publisher (translated)&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/NmsqpAilpmNbqu3676QO8A__original/img/q0T-9U4So3gwHJX3Z0YIZ6jZmi8=/0x0/filters:format(jpeg)/pic7988673.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NmsqpAilpmNbqu3676QO8A__thumb/img/9WgV-Mc3Sz3Rq4etFA7CEcjzKTo=/fit-in/200x150/filters:strip_icc()/pic7988673.jpg",
+    "link": "https://boardgamegeek.com/thing/406856",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.16296",
+    "averageWeight": "3.2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Race",
+      "Tech Trees / Tech Tracks",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "City Building",
+      "Economic",
+      "Industry / Manufacturing",
+      "Video Game Theme"
+    ],
+    "designers": [
+      "Martin Wallace"
+    ]
+  }
+}

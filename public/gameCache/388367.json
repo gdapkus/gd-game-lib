@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-03-20T05:11:58.252Z",
+  "gameDetails": {
+    "id": "388367",
+    "name": "Innovation Ultimate",
+    "type": "boardgame",
+    "description": "Innovation Ultimate is a box set containing Innovation and all five of its expansions, which includes a brand new expansion titled The Unseen. Many, many updates have been made to this edition. First, Age 11 has been added, representing the recent past and potential near future at the time of release. Lots of language and mechanics have been streamlined, and in particular, the expansions have all been heavily reworked to be more accessible and easy to include while playing.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/51zcHL2i540Ly4SE4RG82w__original/img/5kNli9B2qaejJ_5kicEuv6I3Vyc=/0x0/filters:format(png)/pic7560687.png",
+    "thumbnail": "https://cf.geekdo-images.com/51zcHL2i540Ly4SE4RG82w__thumb/img/k9p80iHoqjYTMYwzNlI9y3dDUlM=/fit-in/200x150/filters:strip_icc()/pic7560687.png",
+    "link": "https://boardgamegeek.com/thing/388367",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.7801",
+    "averageWeight": "2.9",
+    "boardGameRank": "4421",
+    "mechanics": [
+      "Hand Management",
+      "Layering",
+      "Melding and Splaying",
+      "Take That",
+      "Tech Trees / Tech Tracks",
+      "Variable Phase Order"
+    ],
+    "categories": [
+      "Card Game",
+      "Civilization"
+    ],
+    "designers": [
+      "Carl Chudyk"
+    ]
+  }
+}

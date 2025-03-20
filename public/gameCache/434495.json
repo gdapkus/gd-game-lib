@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-03-20T05:04:26.646Z",
+  "gameDetails": {
+    "id": "434495",
+    "name": "The Werewolves bEat Robbers' Horror",
+    "type": "boardgame",
+    "description": "In &quot;Wolf and Thief ,&quot; players are divided into a team of thieves who are after treasure and a team of werewolves who attack them, and compete to score points while concealing their identities.&#10;&#10;What kind of game is it?&#10;&#10;The concept is &quot;Werewolf game + trick-taking ,&quot; combining the two fun aspects.&#10;&#10;Each game, nine cards (seven cards in a five-player game) are dealt to each player. Among them, the player who has the &quot;Werewolf&quot; card and the player who has the &quot;Traitor&quot; card will fight as the Werewolf team . The other players will fight as the Thief team&#10;. However, it is not known which team each player is on before the game .&#10;It is only when a Werewolf card is played as cards are being played that a player is found to be a Werewolf.&#10;&#10;The 36 cards include 4 special cards that determine roles, as well as 15 &quot;treasure chest cards&quot; and 15 &quot;thief cards,&quot; numbered 1 to 15.&#10;The goal of the game is to get as many points as possible from your treasure chest cards if you are the thief (traitor), and to get as many points as possible from your thief cards if you are the werewolf.&#10;&#10;The game is played using a &quot;trick-taking&quot; system, with the player to the left of the dealer playing one card. From there, each player plays one card of their choice, going clockwise. This round is called a trick. The&#10;player who plays the highest number can take the card on the table , but the card opposite the type played by the dealer - Treasure Chest or Thief - is always stronger. In other words, the Thief 1 is stronger than the Treasure Chest 15 played by the dealer. Conversely, if the dealer plays the Thief, the Treasure Chest is stronger.&#10;The winner places the card they just took face down in front of them to score, then plays the next card, and the game ends when everyone has run out of cards. The team scores are added up and the player with the highest score wins.&#10;&#10;&#10;    For those who are knowledgeable: Unlike many trick-taking games, in &quot;The Wolf and the Thief,&quot; you are not obligated to play a card of the same suit as the first card played, even if you have it in your hand. However, there will be times when you still want to play a card of the same suit, and there will be some unique tactics.&#10;&#10;&#10;Here's the point!&#10;&#10;Who is on your team? At first, you're groping around in the dark, but as you watch who played what, you'll gradually begin to understand.&#10;&#10;For example, if there are many treasure chests in play, but someone plays a weak treasure chest card and loses, that person may not want the treasure chest - in other words, they may be a werewolf who wants the thief. Or&#10;, if you, a thief team player, play a strong card to take the treasure chest, but the person behind you plays a high-scoring treasure chest card, that person may have passed on you, meaning that they are both on the thief team.&#10;This is a game where you can enjoy the fun of the werewolf game, where you slowly deduce who is which role, through card play rather than conversation . The more you play it two or three times, the more interesting it becomes.&#10;&#10;The six special cards include the &quot; Werewolf &quot; and &quot; Traitor &quot; cards that determine the player's role, the &quot; Fortune Teller &quot; card that always wins unless the Werewolf steps forward , and the &quot; Dagger &quot; card that halves the player's points if the Werewolf takes it . Since all cards are dealt randomly each time, there will be times when you will have to think of strategies that don't exist in a normal Werewolf game, such as &quot;a Werewolf with a Dagger&quot; or &quot;a Fortune Teller who is a Traitor.&quot;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/8IcBUueYxFWMUQgUXZUQWQ__original/img/7uXG34K7PghsfVgu4N7RhQxF40Q=/0x0/filters:format(png)/pic8585748.png",
+    "thumbnail": "https://cf.geekdo-images.com/8IcBUueYxFWMUQgUXZUQWQ__thumb/img/6cn1xAdFzrc57K7oACgxXTfteaE=/fit-in/200x150/filters:strip_icc()/pic8585748.png",
+    "link": "https://boardgamegeek.com/thing/434495",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "6.46667",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deduction",
+      "Team-Based Game",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Kazuma Suzuki"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-03-20T05:12:01.420Z",
+  "gameDetails": {
+    "id": "295374",
+    "name": "Long Shot: The Dice Game",
+    "type": "boardgame",
+    "description": "This is your ticket to the track!&#10;&#10;In Long Shot: The Dice Game, you and up to seven other players will strategize and push your luck as the action unfolds in a tense race of eight horses. During the game you buy horses, place bets, influence race movement, and utilize special abilities. The roll of the dice determines which horses move and the options available each turn, so be ready to adapt your plans. Once three horses cross the finish line, earnings are totaled. While there are many ways to earn money during a horse race, only the player that makes the most money will be declared the winner. Will you play it safe, or risk it big on a long shot?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/j9RO81ihYw0_oPj6iqV_bA__original/img/-jPNsFg5d9uA7D4WGDIP3TNLHX4=/0x0/filters:format(jpeg)/pic6682376.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/j9RO81ihYw0_oPj6iqV_bA__thumb/img/iRomFjZ0oELmm1pBVtJrNwyl4nc=/fit-in/200x150/filters:strip_icc()/pic6682376.jpg",
+    "link": "https://boardgamegeek.com/thing/295374",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "yearPublished": "2022",
+    "playingTime": "25",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.58545",
+    "averageWeight": "1.9309",
+    "boardGameRank": "330",
+    "mechanics": [
+      "Bids As Wagers",
+      "Bingo",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Paper-and-Pencil",
+      "Solo / Solitaire Game",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Dice",
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Chris Handy (I)"
+    ]
+  }
+}

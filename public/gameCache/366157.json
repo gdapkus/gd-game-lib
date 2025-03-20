@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-03-20T05:12:07.734Z",
+  "gameDetails": {
+    "id": "366157",
+    "name": "Materia Prima: Alchemists and Pets",
+    "type": "boardgameexpansion",
+    "description": "Alka Sowa needs new heroes. Four undaunted alchemists face the challenge to become the head of the alchemists guild and fight the Inquisition. But they are not alone. Each of them has his own faithful companion. Because pets are man's best friends.&#10;&#10;The Alchemists and Pets expansion contains four alchemists and the four associated pets.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/Pa4zVo8Gmyb2p6GoS9qe0Q__original/img/L_PiJf-RuaNpqrNWxtsz90x9TTw=/0x0/filters:format(jpeg)/pic6950376.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Pa4zVo8Gmyb2p6GoS9qe0Q__thumb/img/8_33cBDpXovukuofCVlG93k-0II=/fit-in/200x150/filters:strip_icc()/pic6950376.jpg",
+    "link": "https://boardgamegeek.com/thing/366157",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "8.2",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Modular Board",
+      "Movement Points",
+      "Moving Multiple Units",
+      "Set Collection"
+    ],
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Fantasy",
+      "Medieval"
+    ],
+    "designers": [
+      "Florian Pfab"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-03-20T05:12:17.309Z",
+  "gameDetails": {
+    "id": "300906",
+    "name": "Materia Prima: The Inquisition Expansion",
+    "type": "boardgameexpansion",
+    "description": "Materia Prima places players in a medieval world where mysticism and science are inseparable in alchemy. In search of the philosopher's stone, recipes must be researched and resources mined. &#10;The Inquisition is a new power in Alka Sowa, in which state and religion are united. Its nobles and priests try to gain control over the continent by banishing or destroying alchemy and all its followers once and for all.  &#10;The Inquisition Expansion enhances the world of Materia Prima and includes a cooperative campaign, which can also be played solo, as well as the possibility to play with 5 or 6 alchemists.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/6IY8s40DcoQ_Lqmdqg9Jzg__original/img/WXvXameoeU2Q-1K-mc7FktTCC0M=/0x0/filters:format(jpeg)/pic5408296.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6IY8s40DcoQ_Lqmdqg9Jzg__thumb/img/jgvH3TarT8UJIbqf1XhpgNYppdQ=/fit-in/200x150/filters:strip_icc()/pic5408296.jpg",
+    "link": "https://boardgamegeek.com/thing/300906",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "8.9",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Medieval"
+    ],
+    "designers": [
+      "Florian Pfab"
+    ]
+  }
+}

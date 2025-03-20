@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-03-20T05:12:43.001Z",
+  "gameDetails": {
+    "id": "403441",
+    "name": "Windmill Valley",
+    "type": "boardgame",
+    "description": "It&rsquo;s the late 19th century, and more than 9000 windmills dot the landscape of the Netherlands, some of them purpose-built to dry the lowlands, called polders. In the polders between these windmills are fields filled with colorful tulips&mdash;the flower that once was a part of the turbulent history of the first financial bubble but is now simply a quintessential part of the Dutch landscape, especially on the famous Bloemen Route (or &ldquo;Flower Route&rdquo;).&#10;&#10;In Windmill Valley , a game inspired by the Bloemen Route, you and up to three players take on the role of tulip farmers and entrepreneurs. You will build and enhance your windmills, look for new tulip bulbs in foreign trades or among local vendors to buy and plant, and try to get an edge with hired help and lucrative contracts. Let your blooming fields make your competitors green with envy!&#10;&#10;During their turn, players choose the action by rotating the wheels on their windmill board. During the game they can:&#10;&#10;&#10;     Enhance their wheels, by adding enhancements, to build their engine&#10;     Plant tulips in their fields, which will score VP at the end of the game&#10;     Build windmills on the main board to activate rewards from adjacent fields&#10;     Hire helpers that provide bonuses for certain actions&#10;     Get contracts for endgame scoring&#10;     Visit the local market and conduct a foreign trade&#10;&#10;&#10;All in all, Windmill Valley is a lightweight game with quick turns, a smart action-selection mechanism, multiple options to build your engine, and a lovely setting.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/Z3mBHQuawFfI3ZTQ8Z64CA__original/img/clROt5s1-1JsDwFpXV2Ytu7Tg4A=/0x0/filters:format(jpeg)/pic7796391.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Z3mBHQuawFfI3ZTQ8Z64CA__thumb/img/Oo7FfbdgRd9GXJxb7-CMiU9jD9w=/fit-in/200x150/filters:strip_icc()/pic7796391.jpg",
+    "link": "https://boardgamegeek.com/thing/403441",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.78198",
+    "averageWeight": "3.0588",
+    "boardGameRank": "1075",
+    "mechanics": [
+      "End Game Bonuses",
+      "Market",
+      "Multi-Use Cards",
+      "Network and Route Building",
+      "Rondel",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Dani Garcia"
+    ]
+  }
+}

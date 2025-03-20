@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-03-20T05:12:39.873Z",
+  "gameDetails": {
+    "id": "241387",
+    "name": "The Valley of Alchemists: Ghost Expansion",
+    "type": "boardgameexpansion",
+    "description": "The Ghost Expansion allows for a 5-player game, as well as adding two new game modes! The first one - &ldquo;Companions&rdquo; - introduces direct player on player interaction as well as increasing the options available to players. The second game mode - &ldquo;Dragon Contest&rdquo; - introduces intense competition between players as they try to further their alchemy career while completing unique elixir sets which will award the highest-ranking player with a generous bonus.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/JDVayNFVy0AR8FTEB6PhIw__original/img/PWmayhh8XXWW_NH28cI-xhU0BnE=/0x0/filters:format(jpeg)/pic4934856.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JDVayNFVy0AR8FTEB6PhIw__thumb/img/tq1NqzS7V3ZyMn20SJhYUWJvV8w=/fit-in/200x150/filters:strip_icc()/pic4934856.jpg",
+    "link": "https://boardgamegeek.com/thing/241387",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": null,
+    "averageRating": "6.58333",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Kamil Langie"
+    ]
+  }
+}

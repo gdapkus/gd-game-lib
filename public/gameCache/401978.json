@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-03-20T05:08:09.897Z",
+  "gameDetails": {
+    "id": "401978",
+    "name": "Undaunted 2200: Callisto",
+    "type": "boardgame",
+    "description": "Jovian Moon Base - Callisto, 22nd Century AD: Tensions have arisen between the conglomerate of Earth's leading corporations that funded the base and the mining collective tasked with operating it. Protests have erupted, strikes been called, and contracts broken. Private security forces have been hired, industrial mining vehicles repurposed for combat, and long-disused military mechs reawoken. The battle for Callisto is about to begin: It's time to choose your side.&#10;&#10;Undaunted 2200: Callisto is a standalone game in the Undaunted series that adapts the core gameplay of previous games to a new science-fiction setting. Play across an illustrated map in two-player, four-player, and solo game modes. Navigate the barren lunar landscape, maneuver to seize dominant high-ground positions, and utilize your formidable mechs to gain control of Callisto and its precious resources.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/1QJDHy2SS91CMpv_-raDUw__original/img/cTG3cifWZ2IA-iBSdE_2NQ5Ohl0=/0x0/filters:format(jpeg)/pic7798985.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1QJDHy2SS91CMpv_-raDUw__thumb/img/BJ8FKRGCRJBMh4bUlzQgjDx__0k=/fit-in/200x150/filters:strip_icc()/pic7798985.jpg",
+    "link": "https://boardgamegeek.com/thing/401978",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.86992",
+    "averageWeight": "2.7619",
+    "boardGameRank": "3432",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Trevor Benjamin",
+      "David Thompson (I)"
+    ]
+  }
+}

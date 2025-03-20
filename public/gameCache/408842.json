@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-03-20T05:12:27.190Z",
+  "gameDetails": {
+    "id": "408842",
+    "name": "Mysticana: A Foundation Deck",
+    "type": "boardgame",
+    "description": "&#10;&#10;&#10;    &#10;        GAME SYSTEM&#10;&#10;    &#10;    &#10;         This entry is to allow for discussion/rating of the game system as a whole, and the foundation deck in general. It is not for a specific game.&#10;&#10;    &#10;&#10;&#10;&#10;Living elements interweave throughout the realm. A water guardian extinguishes a roaring wildfire that leaves behind unrecognizably scorched earth. The seared avatar of that earth rises and consumes the water of a dozen seas. With infinite variations on their eternal cycle, no element can ever reign supreme.Mysticana is a Foundation Deck: an 18-card deck that includes multiple core games using just the base cards with even more games added through small expansions. The deck features cards with 6 ranks across 3 suits (elements) which have a &ldquo;rock-paper-scissors&rdquo; hierarchy. While each game might make use of the deck&rsquo;s design in different ways, the flexible foundation enables new games to fit in seamlessly alongside previous entries.&#10;&#10;The base deck includes rules for three core games:&#10;&#10;     Nine Perils: a quick but puzzly solo game of arranging a sequence of events that will avert nine disasters.&#10;     Sorcerers&#039; Showdown: a game of outplaying your opponent, calculated risks, shrinking hands, and rising chaos.&#10;     The Path Ahead: a light game where players take turns guessing whether what lies ahead on the path is stronger or weaker than what they&rsquo;ve already encountered.&#10;&#10;&#10;&#10;Nine Perils&#10;&#10;The prophecy foretells nine great perils, warnings of coming doom. As a seer, you must peer into the future and find a path to avoid these perils.&#10;&#10;A solo-only game of limited information and anticipating the future to avert nine disasters using the Mysticana deck. Using your hand of cards (based on the difficulty chosen) play against the central timeline of 9 peril cards. Each turn you&rsquo;ll flip one of the peril cards in the timeline face-up, draw a new card into your hand, then play a single from your hand into a free space in a separate row below any peril card. After 9 turns, compare each peril&rsquo;s rank and element against the adajcent card&rsquo;s rank and element. Each of the perils must be successfully outmatched to win!&#10;&#10;Sorcerers&#039; Showdown&#10;&#10;Two sorcerers clash in battle, each spell and counterspell growing less predictable as they wear down.&#10;&#10;A dueling-like game for 2 players using the Mysticana deck. In the first round, players are dealt 8 cards and choose 6 to battle with, setting aside 2 to hold onto for the next round. The first player then plays a card to start a clash. The other player responds with a card of their own, matching the element if possible. The clash is evaluated by rank and element, with the winner capturing both cards. Should an Avatar (rank &#226;&#159;&#144;) win a clash, the winner steals a pair of previously captured cards from their opponent. Clashes are played and resolved until both players are out of cards. Should one player have all of the captured cards, they win! Otherwise, players take the 2 cards set aside at the beginning of the round and draw a hand size that is 1 card less than the previous round to continue the duel.&#10;&#10;The Path Ahead&#10;&#10;In every corner of the realm, travelers engage in a timeless game of deduction and chance.&#10;&#10;A guessing game for 2-4 players that uses the Mysticana deck. Each round, the active player guesses whether the next card drawn will be stronger or weaker than the currently showing card (accounting for rank and suit). A correct guess moves play to the next player; an incorrect guess earns a consequence card. These may count against the player&rsquo;s score if not used to make a set of matching consequences. At the end of each round, players add up any consequence cards they still hold and add it to their running score from previous rounds. The game is over when any player hits 20 points, with the lowest-scoring player the ultimate winner.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/yXrXPEK9KqsZlkDZrivXHg__original/img/0g18tjK9scFPEHUc6gX5ypl9DqE=/0x0/filters:format(png)/pic8174484.png",
+    "thumbnail": "https://cf.geekdo-images.com/yXrXPEK9KqsZlkDZrivXHg__thumb/img/rPaOSJxhDuCmLGQzFASXEv6qX_A=/fit-in/200x150/filters:strip_icc()/pic8174484.png",
+    "link": "https://boardgamegeek.com/thing/408842",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.32053",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Hand Management",
+      "Rock-Paper-Scissors",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Game System",
+      "Print & Play",
+      "Puzzle"
+    ],
+    "designers": [
+      "Dustin Dobson",
+      "Jamie Thul"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-03-20T05:04:23.540Z",
+  "gameDetails": {
+    "id": "420242",
+    "name": "VIVO",
+    "type": "boardgame",
+    "description": "Puppies dream of joining the prestigious &quot;VIVO Puppy Choir&quot;. You are a music school teacher who raises such puppies. Today is the day of the long-awaited entrance exam. In this year's entrance exam, puppies with &quot;energetic, loud singing voices&quot; and &quot;small, cute singing voices&quot; will be evaluated.&#10;&#10;VIVO is a trick-taking game where the follow format changes every trick! Find out which song the puppies will be tested on and send them out on stage so they can bring out their unique talents.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/bpwPbMlJskPwXVDObCU0lA__original/img/3Rm-Ls3UeDiuRzcSs5KMTYyRfRs=/0x0/filters:format(jpeg)/pic8175064.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bpwPbMlJskPwXVDObCU0lA__thumb/img/EppDHDrJsI3axO5_IZ1leRhoEz8=/fit-in/200x150/filters:strip_icc()/pic8175064.jpg",
+    "link": "https://boardgamegeek.com/thing/420242",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.29077",
+    "averageWeight": "1.5",
+    "boardGameRank": "8922",
+    "mechanics": [
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "LEO (レオ)"
+    ]
+  }
+}

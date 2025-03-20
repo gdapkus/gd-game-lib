@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-03-20T05:11:52.011Z",
+  "gameDetails": {
+    "id": "297693",
+    "name": "In the Hall of the Mountain King: Champions Mini-Expansion",
+    "type": "boardgameexpansion",
+    "description": "The noble effort to reclaim the mountain attracts heroes of trolldom. Each player gains a legendary troll champion which grants powerful benefits!&#10;&#10;(First available in the Deluxe Edition of the game for FREE, and later sold separately by the publisher.)&#10;&#10;Each game, 1 champion will remain undrafted. This champion will gain 1 item to become more enticing next time. When you draft a champion, you get all of the items it has accumulated while &quot;sitting on the bench&quot;.&#10;&#10;From the rule card: Champions can be used in Competitive play, Team play, and are compatible with Co-op and Solo play.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/tBNkZFHH8g5AzeierDFUlQ__original/img/OZp0qQjHdGBPXBVlo7gXA_XeNRg=/0x0/filters:format(png)/pic5155097.png",
+    "thumbnail": "https://cf.geekdo-images.com/tBNkZFHH8g5AzeierDFUlQ__thumb/img/2Qts8G9ZF8EA2EzyC76KgQFrJhM=/fit-in/200x150/filters:strip_icc()/pic5155097.png",
+    "link": "https://boardgamegeek.com/thing/297693",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.5594",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Jay Cormier",
+      "Graeme Jahns"
+    ]
+  }
+}

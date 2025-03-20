@@ -148,8 +148,12 @@ app.get('/games/:bggUserId', async (req, res) => {
 
 // Helper function to handle the games request logic
 async function handleGamesRequest(bggUserId, res) {
-    const cacheFilePath = path.join(__dirname, `public/gameCache/gamesCache_${bggUserId}.json`);
-    const collectionCachePath = path.join(__dirname, `public/gameCache/collectionCache_${bggUserId}.json`);
+    const sanitizedUserName = bggUserId.replace(/\s+/g, '_');
+    const cacheFilePath = path.join(__dirname, `public/gameCache/gamesCache_${sanitizedUserName}.json`);
+    const collectionCachePath = path.join(__dirname, `public/gameCache/collectionCache_${sanitizedUserName}.json`);
+	
+        console.log(`Cache Path: ${cacheFilePath}`);
+        console.log(`Collection Path: ${collectionCachePath}`);
 
     let cacheDate = getTimeStamp(cacheFilePath);
     let collectionDate = getTimeStamp(collectionCachePath);

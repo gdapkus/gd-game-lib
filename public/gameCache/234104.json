@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-03-20T05:12:36.742Z",
+  "gameDetails": {
+    "id": "234104",
+    "name": "The Valley of Alchemists",
+    "type": "boardgame",
+    "description": "Welcome to the Valley of Alchemists, a land in the heart of mountains, carved by a glacier thousands of years ago. Legends say that during its descent it gathered the most marvelous specimens of ancient life. When its descent had come to an end and the Sun finally thawed the formidable permafrost, a Valley full of wonders and mystic powers was revealed to the World.&#10;&#10;With time, Alchemists started to settle in this region, studying the marvelous properties of local wildlife. Years of experience and failed experiments brought them to the mastery of preparation of exquisite mixtures. Their skills grow with each newfound ingredient and acquired knowledge bear fruit in new mixtures. For the Valley hides much more undiscovered secrets.&#10;&#10;Each year, when Winter leaves the Valley and Mother Spring wakes the World to life anew, Alchemists arrange a slight contest of mixture preparation. There&rsquo;s no lack of mixture recipients and enthusiasts, and domesticated mystical beings ceaselessly spread the fruit of the hard alchemic work to the whole World.&#10;&#10;It is you, my dear Player, who will have the honor to take the role of one of the greatest Alchemists known to this World. Learn and strive for greatness, and maybe it will be you who wins the Spring contest and with it, the title of the best Alchemist in the Valley for the whole upcoming year.&#10;&#10;&#10;The game is made up of a series of player turns, that are played one by one, starting with the First Player and&#10;continuing clockwise.&#10;&#10;On their turn, a player can perform any 2 actions out of the 5 available ones; the chosen actions can be car-&#10;ried out in any order and combination. The same action type can be performed twice.&#10;&#10;1. Collecting the Ingredients&#10;2. Brewing the Decoctions&#10;3. Making Elixirs&#10;4. Rearranging the Elixirs&#10;5. Selling a Line of Elixirs&#10;&#10;During the game, the players collect ingredients, brew decoctions, and turn them into magic elixirs. The&#10;player with the most Experience Points (EP) at the end of the game becomes the winner. Points are gained&#10;over the course of the game and also once the game has finished.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/7LQBVsSZjBdPR8I6HVyidQ__original/img/UBmlebJwEnXFL7A3hj2yz1VTl6g=/0x0/filters:format(jpeg)/pic3761227.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7LQBVsSZjBdPR8I6HVyidQ__thumb/img/5yOX77W-qzHZDuhjSo8yCaHY7Ww=/fit-in/200x150/filters:strip_icc()/pic3761227.jpg",
+    "link": "https://boardgamegeek.com/thing/234104",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.11426",
+    "averageWeight": "2",
+    "boardGameRank": "9167",
+    "mechanics": [
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Fantasy"
+    ],
+    "designers": [
+      "Kamil Langie"
+    ]
+  }
+}

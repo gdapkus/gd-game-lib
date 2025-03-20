@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-03-20T05:12:30.359Z",
+  "gameDetails": {
+    "id": "420570",
+    "name": "Mysticana: Arcane Artifacts",
+    "type": "boardgameexpansion",
+    "description": "The world is full of long-forgotten items of power. Will you harness their enchantments or gamble on your own fortunes to prevail?&#10;&#10;Arcane Artifacts is a multiplayer 6-card expansion to the Mysticana deck. In this lightweight game of chance and skill, each player receives 2 cards and hopes to have the best combination for the round. After the initial deal, players may discard 1 of their cards to draw a replacement, then each player decides whether to stay in the play or resign for the round. Once all players have committed, a new card is flipped; this determines scoring for the round and also changes the value of each Avatar (rank &#226;&#159;&#144;). Players reveal their hands to see who holds the best score. Each round also features one of 12 Artifacts, which offer a bonus to the player's hand who meets their criteria most effectively. Rounds are cumulative, and the first player to win a round and have 30+ points is declared the final victor!&#10;&#10;&#10;Arcane Artifacts is a game of luck and skill to make the best hand using powerful artifacts.&#10;&#10;Mysticana is a Foundation Deck: an 18-card deck that includes multiple core games using just the base cards with even more games added through small expansions. The deck features cards with 6 ranks across 3 suits (elements) which have a &ldquo;rock-paper-scissors&rdquo; hierarchy. While each game might make use of the deck&rsquo;s design in different ways, the flexible foundation enables new games to fit in seamlessly alongside previous entries.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/4kNvY3YH2NEtrBISYUUf-Q__original/img/gQCuizrritNmZXhC7GoHTF_HO4o=/0x0/filters:format(png)/pic8224989.png",
+    "thumbnail": "https://cf.geekdo-images.com/4kNvY3YH2NEtrBISYUUf-Q__thumb/img/Ao6eH5yh13N06Q2och_TV2vnTc8=/fit-in/200x150/filters:strip_icc()/pic8224989.png",
+    "link": "https://boardgamegeek.com/thing/420570",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2024",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "6.65294",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Fantasy",
+      "Print & Play"
+    ],
+    "designers": [
+      "Dustin Dobson",
+      "Jamie Thul"
+    ]
+  }
+}

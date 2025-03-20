@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-03-20T05:04:20.353Z",
+  "gameDetails": {
+    "id": "367498",
+    "name": "Horizons of Spirit Island",
+    "type": "boardgame",
+    "description": "Horizons of Spirit Island features the core mechanisms of Spirit Island, but features a new double-sided game board with a streamlined set-up, punchboard components, and five new Spirits designed to be ideal for those playing a Spirit Island game for the first time. These new Spirits are compatible with all existing Spirit Island components, but to play with expansions like Jagged Earth, you would need a copy of Spirit Island itself.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/jQ9g8pqZZuchIX_Pv3bHRQ__original/img/3bufrC3AVthPgq80bD32sLS-TDs=/0x0/filters:format(jpeg)/pic6972881.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jQ9g8pqZZuchIX_Pv3bHRQ__thumb/img/jIVtfyieZGB3j6WkwZEo8yteeok=/fit-in/200x150/filters:strip_icc()/pic6972881.jpg",
+    "link": "https://boardgamegeek.com/thing/367498",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.16386",
+    "averageWeight": "3.5439",
+    "boardGameRank": "586",
+    "mechanics": [
+      "Action Retrieval",
+      "Area Majority / Influence",
+      "Automatic Resource Growth",
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Events",
+      "Hand Management",
+      "Modular Board",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Age of Reason",
+      "Environmental",
+      "Fantasy",
+      "Fighting",
+      "Mythology",
+      "Renaissance",
+      "Territory Building"
+    ],
+    "designers": [
+      "R. Eric Reuss"
+    ]
+  }
+}

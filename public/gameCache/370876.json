@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-03-20T05:12:20.677Z",
+  "gameDetails": {
+    "id": "370876",
+    "name": "Materia Prima: The Last Stand",
+    "type": "boardgameexpansion",
+    "description": "The weakened villagers cannot withstand the threat of the Inquisition much longer. They must get ready for the last great showdown to protect their homes.&#10;&#10;Dive deeper into the world of Alka Sowa. The expansion &quot;the Last Stand&quot; contains a mini-campaign, which consists of two full-length scenarios and offers some new gameplay mechanics.&#10;&#10;To play the expansion you need both Materia Prima - The Alchemists Guild and Materia Prima - The Inquisition.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/E2zExqTvMiM-TGqn6RMqrA__original/img/AdTiUpCG9ngJIWz3NBPkZUvptbk=/0x0/filters:format(jpeg)/pic7075335.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/E2zExqTvMiM-TGqn6RMqrA__thumb/img/EnHqrriODjBR7O2AtN2Q2PE0JdQ=/fit-in/200x150/filters:strip_icc()/pic7075335.jpg",
+    "link": "https://boardgamegeek.com/thing/370876",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "8.25",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Florian Pfab"
+    ]
+  }
+}

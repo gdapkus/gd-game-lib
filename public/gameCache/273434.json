@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-03-20T05:11:39.383Z",
+  "gameDetails": {
+    "id": "273434",
+    "name": "Antinomy: Solo Flare",
+    "type": "boardgameexpansion",
+    "description": "This expansion to Antinomy brings in solo with six new cards, and was provided at no extra charge to all backers of the Antinomy Kickstarter campaign.&#10;&#10;&mdash;user summary&#10;&#10;Breaking the laws of spacetime is not without consequences. Once powerful relics are being drained of their magic, and strange solar flares are interfering with your spellcasting. Can you gather the paradox crystals before the continuum is beyond repair?&#10;&#10;The new cards are:&#10;&#10;Depleted Relics (4)&#226;&#128;&#139;: You may use the number and object on these relics to travel as normal, but they do not have an element. They also may not be used to form paradoxes.&#10;&#10;Solar Flares (2)&#226;&#128;&#139;: These cards may never enter your hand. This means you cannot travel to their location, nor can you form a paradox that would require you to pick up a Solar Flare, including a potential game winning paradox. They may be discarded when new cards come out of the deck.&#10;&#10;&mdash;from the publisher&#10;&#10;In the Solo Flare single player version of the game you are still collecting Paradox Crystals in a manner similar to the base game.  Depending on the difficulty you choose, you will be aiming for 5-6 of  them. However, like all good games, there is a timer that creeps toward a loss condition in the form of a deck of cards. After all, without an opponent there are three cards (which would normally be the opponent&rsquo;s  hand) and the six new cards from the expansion that you mix together to  form a draw pile. If this pile is depleted, you immediately lose the  game. The unused staff card is set next to this deck with three crystals placed on it to serve as counters.&#10;&#10;On your turn, you remove a counter  from that staff card if you do not complete a Paradox. When the third  counter is removed, you draw the top card of the deck and replace any card in the Continuum with this card - but it must match at least one feature on the card. However, the card it replaces is removed from the  game. Which means you are reducing the number of possible Paradoxes you can form any time you remove a base game card.&#10;&#10;To further complicate matters, you  also draw a card off the top of this deck when you form a Paradox! Yes,  you read that right. When forming a Paradox you remove a card in your  hand from the game, draw the top card of the deck and place that into your hand, shuffle those three cards, and then place them into the  Continuum as the formation of your Paradox. The other way this deck can play cards is by skipping your entire turn. This allows you to draw the  top card of the deck and use it to replace a card in the Continuum, but it also does not remove a counter from the staff because you skipped your entire turn.&#10;&#10;&mdash;from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/aARVK8b5iRBvn7ASLDhjZA__original/img/_0cD3svr3BLONQ6RUiEaYKR5QQc=/0x0/filters:format(png)/pic7007080.png",
+    "thumbnail": "https://cf.geekdo-images.com/aARVK8b5iRBvn7ASLDhjZA__thumb/img/rLBSrZDJF5KBjtXFQi4wno2B4R8=/fit-in/200x150/filters:strip_icc()/pic7007080.png",
+    "link": "https://boardgamegeek.com/thing/273434",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2019",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.8417",
+    "averageWeight": "1.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Mike Mullins"
+    ]
+  }
+}

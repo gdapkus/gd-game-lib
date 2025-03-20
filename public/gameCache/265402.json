@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-03-20T05:11:48.900Z",
+  "gameDetails": {
+    "id": "265402",
+    "name": "In the Hall of the Mountain King",
+    "type": "boardgame",
+    "description": "Play as trolls rebuilding your abandoned kingdom under the mountain in In the Hall of the Mountain King. With muscle and magic, you'll unearth riches, dig out collapsed tunnels, and carve out great halls as you raise the toppled statues of your ancestors to their places of honor at the heart of the mountain. Gameplay is driven by the innovative cascading production system. Timing and tactics are key as you work to restore your home to its former glory and win the crown!&#10;&#10;Working on the same game board with the other players (but beginning at your own entrance), you'll dig a competing network of tunnels by spending increasingly valuable materials to lay polyomino tiles onto the map. You want to extend your tunnels to connect with buried gold and materials, with workshop locations that can transform resources, and especially with toppled statues. Statues are key to scoring, and you'll spend carts to move them through the tunnels to prime scoring locations near the heart of the mountain.&#10;&#10;A major aspect of the game is the cascading production. You begin with a line of four trolls, and every troll shows the combination of resources &mdash; gold, stone, iron, marble, carts, runes, and hammers &mdash; that it produces. When a new troll is hired, place it above two other trolls, forming a &quot;pyramid&quot;. The new troll activates, gaining its resources, and any trolls beneath it ALSO activate, gaining any resources that they have room to carry. In this way as you hire more trolls, you gain bigger and bigger windfalls of resources as the end of the game nears. The timing of your hiring turns versus your building turns is important as you try to maximize your cascades while making sure you get the trolls you want from the shared market and also stay competitive on the map.&#10;&#10;The game ends shortly after the last player hires their sixth troll, then the player with the most honor (earned for digging tunnels of increasing quality, for excavating great halls, and for moving statues closer to the heart of the mountain, especially onto matching pedestals) is crowned the Mountain King and wins!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/O85rGsVqqTfrFbcHQCIFHg__original/img/DhTYEiUShjAY599TQ9yQaJxpu9I=/0x0/filters:format(jpeg)/pic4421569.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/O85rGsVqqTfrFbcHQCIFHg__thumb/img/td7Xjx0NMeSUrBVm4fBoIweCxjA=/fit-in/200x150/filters:strip_icc()/pic4421569.jpg",
+    "link": "https://boardgamegeek.com/thing/265402",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.57115",
+    "averageWeight": "2.8453",
+    "boardGameRank": "643",
+    "mechanics": [
+      "Grid Coverage",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Team-Based Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Fantasy",
+      "Territory Building"
+    ],
+    "designers": [
+      "Jay Cormier",
+      "Graeme Jahns"
+    ]
+  }
+}

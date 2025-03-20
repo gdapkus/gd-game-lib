@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-03-20T05:09:55.526Z",
+  "gameDetails": {
+    "id": "424129",
+    "name": "Forest Shuffle: Woodland Edge",
+    "type": "boardgameexpansion",
+    "description": "Immerse yourself in the serene beauty of nature with Forest Shuffle: Woodland Edge.&#10;&#10;This expansion set for the beloved Forest Shuffle game introduces new flora and fauna, enhancing your strategic play with lush edge-of-the-forest habitats. Encounter diverse wildlife, discover hidden pathways, and manage your woodland resources to thrive.&#10;&#10;With stunning artwork and engaging mechanics, Woodland Edge brings the enchanting forest environment to life. A set of 36 cards is making every game session a captivating journey. Perfect for nature lovers and strategy enthusiasts alike, Forest Shuffle: Woodland Edge offers endless possibilities for exploration and adventure.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/JUyOlnQ036W55OVWCcOrUg__original/img/rmOjC6Sk6x0H3VIuQ4O-vSwdfOY=/0x0/filters:format(jpeg)/pic8357351.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JUyOlnQ036W55OVWCcOrUg__thumb/img/XikMAZGSh00X0G4j_xj3RNqbNnQ=/fit-in/200x150/filters:strip_icc()/pic8357351.jpg",
+    "link": "https://boardgamegeek.com/thing/424129",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.14257",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Chaining",
+      "End Game Bonuses",
+      "Hand Management",
+      "Layering",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Card Game",
+      "Educational",
+      "Environmental",
+      "Exploration",
+      "Territory Building"
+    ],
+    "designers": [
+      "Kosch"
+    ]
+  }
+}

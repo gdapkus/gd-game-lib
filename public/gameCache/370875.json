@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-03-20T05:12:14.178Z",
+  "gameDetails": {
+    "id": "370875",
+    "name": "Materia Prima: The Hunt Expansion",
+    "type": "boardgameexpansion",
+    "description": "Something is stirring in the shadows of the woods. There are rumours of a horrible creature that climbs through windows at night and snatches the little ones from their beds.&#10;&#10;Dive deeper into the world of Alka Sowa. The expansion &quot;the Hunt&quot; contains a mini-campaign, which consists of two full-length scenarios and offers some new gameplay mechanics.&#10;&#10;To play the expansion you need both Materia Prima - The Alchemists Guild and Materia Prima - The Inquisition.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/2AfzKJipPPWMCYgdB8hGfg__original/img/pzmN_wvsKgSAjIK36MgumxM3gYA=/0x0/filters:format(jpeg)/pic7075320.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2AfzKJipPPWMCYgdB8hGfg__thumb/img/z02DpnJyCo5ufaJ1uAqgfgeW4co=/fit-in/200x150/filters:strip_icc()/pic7075320.jpg",
+    "link": "https://boardgamegeek.com/thing/370875",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.8",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Florian Pfab"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-03-20T05:11:36.196Z",
+  "gameDetails": {
+    "id": "251441",
+    "name": "Antinomy",
+    "type": "boardgame",
+    "description": "/an-tin-uh-mee/ noun&#10;(A contradiction between two beliefs or conclusions that are in themselves reasonable; a paradox)&#10;&#10;As a Sorcerer, you have long sought ancient relics, imbued with magic. What unspeakable power can you unleash when you collect relics from anywhere in the spacetime continuum?&#10;&#10;Antinomy is a head to head battle of wits as 2 competing sorcerers in search of powerful Paradox Crystals. Play a single card from your hand using the color or symbol to dive into the past, or use the number to fly into the future. The card you land on gets swapped with the card you played allowing you to build up a winning hand.  Wherever you go, clever card play and a set of 3-of-a-kind cause paradoxes forming crystals of your own. Or confront your opponent in a Clash to wrest control of their crystals. Collecting 5 of these crystals will ensure your control over space and time. Do you have what it takes to wield the power of Antinomy?&#10;&#10;-description from publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/w2GaFp9XHlHS9AHeUZqBIQ__original/img/Zgoy7guiUcciw1JHi82sfovQDmQ=/0x0/filters:format(jpeg)/pic4551017.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/w2GaFp9XHlHS9AHeUZqBIQ__thumb/img/dku2SAzFCnICVRstCxhn8aBHAIo=/fit-in/200x150/filters:strip_icc()/pic4551017.jpg",
+    "link": "https://boardgamegeek.com/thing/251441",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2019",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.81403",
+    "averageWeight": "1.9286",
+    "boardGameRank": "4916",
+    "mechanics": [
+      "Hand Management",
+      "Race",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play",
+      "Science Fiction"
+    ],
+    "designers": [
+      "John Baluci"
+    ]
+  }
+}

@@ -1,6 +1,917 @@
 {
-  "timestamp": "2025-01-16T18:24:57.348Z",
+  "timestamp": "2025-03-20T05:30:52.804Z",
   "games": [
+    {
+      "id": "406856",
+      "name": "Anno 1800: Die Erweiterung",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-02-23 12:54:09",
+      "lastmodified": "2025-03-04 18:36:54",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/NmsqpAilpmNbqu3676QO8A__thumb/img/9WgV-Mc3Sz3Rq4etFA7CEcjzKTo=/fit-in/200x150/filters:strip_icc()/pic7988673.jpg",
+      "link": "https://boardgamegeek.com/thing/406856",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "8.16296",
+      "averageWeight": "3.2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "End Game Bonuses",
+        "Hand Management",
+        "Race",
+        "Tech Trees / Tech Tracks",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "City Building",
+        "Economic",
+        "Industry / Manufacturing",
+        "Video Game Theme"
+      ],
+      "designers": [
+        "Martin Wallace"
+      ]
+    },
+    {
+      "id": "63170",
+      "name": "1817",
+      "yearPublished": "2010",
+      "type": "boardgame",
+      "postdate": "2019-08-20 19:07:42",
+      "lastmodified": "2025-02-28 22:03:42",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/ljswtJbDAR_bcgSkF2PSOw__thumb/img/9_Xn-C2Z9pttuidHn4p0fr7Evgc=/fit-in/200x150/filters:strip_icc()/pic4895040.png",
+      "link": "https://boardgamegeek.com/thing/63170",
+      "minPlayers": "3",
+      "maxPlayers": "7",
+      "bestAtCount": "4, 5",
+      "playingTime": "540",
+      "minPlayingTime": "360",
+      "maxPlayingTime": "540",
+      "averageRating": "8.58704",
+      "averageWeight": "4.7843",
+      "boardGameRank": "1688",
+      "mechanics": [
+        "Auction / Bidding",
+        "Loans",
+        "Market",
+        "Network and Route Building",
+        "Ownership",
+        "Stock Holding",
+        "Tile Placement",
+        "Victory Points as a Resource"
+      ],
+      "categories": [
+        "Economic",
+        "Trains",
+        "Transportation"
+      ],
+      "designers": [
+        "Craig Bartell",
+        "Tim Flowers"
+      ]
+    },
+    {
+      "id": "63706",
+      "name": "11 nimmt!",
+      "yearPublished": "2010",
+      "type": "boardgame",
+      "postdate": "2011-03-30 10:45:01",
+      "lastmodified": "2025-02-28 22:01:03",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/OgaW40VSlThd-z7u7NWE3A__thumb/img/gzFC28W99Qv8aiTTlfP47ze02AQ=/fit-in/200x150/filters:strip_icc()/pic648725.jpg",
+      "link": "https://boardgamegeek.com/thing/63706",
+      "minPlayers": "2",
+      "maxPlayers": "7",
+      "bestAtCount": "4",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.32004",
+      "averageWeight": "1.2047",
+      "boardGameRank": "3919",
+      "mechanics": [
+        "Hand Management"
+      ],
+      "categories": [
+        "Card Game",
+        "Number"
+      ],
+      "designers": [
+        "Wolfgang Kramer"
+      ]
+    },
+    {
+      "id": "403441",
+      "name": "Windmill Valley",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-03-20 12:42:24",
+      "lastmodified": "2025-02-28 21:47:32",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Z3mBHQuawFfI3ZTQ8Z64CA__thumb/img/Oo7FfbdgRd9GXJxb7-CMiU9jD9w=/fit-in/200x150/filters:strip_icc()/pic7796391.jpg",
+      "link": "https://boardgamegeek.com/thing/403441",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.78198",
+      "averageWeight": "3.0588",
+      "boardGameRank": "1075",
+      "mechanics": [
+        "End Game Bonuses",
+        "Market",
+        "Multi-Use Cards",
+        "Network and Route Building",
+        "Rondel",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Economic",
+        "Farming"
+      ],
+      "designers": [
+        "Dani Garcia"
+      ]
+    },
+    {
+      "id": "8190",
+      "name": "The Bridges of Shangri-La",
+      "yearPublished": "2003",
+      "type": "boardgame",
+      "postdate": "2025-02-28 10:33:20",
+      "lastmodified": "2025-02-28 12:03:00",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/3Pq36HH-IdFQdMb3OHOVdA__thumb/img/ozv6GB7RBTZr0c3-sUs7BUcoV1M=/fit-in/200x150/filters:strip_icc()/pic265554.jpg",
+      "link": "https://boardgamegeek.com/thing/8190",
+      "minPlayers": "3",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "6.91464",
+      "averageWeight": "2.722",
+      "boardGameRank": "1797",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Map Reduction",
+        "Point to Point Movement",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Mythology",
+        "Novel-based",
+        "Territory Building",
+        "Travel"
+      ],
+      "designers": [
+        "Leo Colovini"
+      ]
+    },
+    {
+      "id": "241387",
+      "name": "The Valley of Alchemists: Ghost Expansion",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2018-01-17 19:53:28",
+      "lastmodified": "2025-02-25 10:38:18",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/JDVayNFVy0AR8FTEB6PhIw__thumb/img/tq1NqzS7V3ZyMn20SJhYUWJvV8w=/fit-in/200x150/filters:strip_icc()/pic4934856.jpg",
+      "link": "https://boardgamegeek.com/thing/241387",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "75",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "75",
+      "averageRating": "6.58333",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Pattern Building",
+        "Set Collection"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Kamil Langie"
+      ]
+    },
+    {
+      "id": "234104",
+      "name": "The Valley of Alchemists",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2018-01-17 19:52:35",
+      "lastmodified": "2025-02-25 10:37:07",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/7LQBVsSZjBdPR8I6HVyidQ__thumb/img/5yOX77W-qzHZDuhjSo8yCaHY7Ww=/fit-in/200x150/filters:strip_icc()/pic3761227.jpg",
+      "link": "https://boardgamegeek.com/thing/234104",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "75",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "75",
+      "averageRating": "7.11426",
+      "averageWeight": "2",
+      "boardGameRank": "9167",
+      "mechanics": [
+        "Pattern Building",
+        "Set Collection"
+      ],
+      "categories": [
+        "Fantasy"
+      ],
+      "designers": [
+        "Kamil Langie"
+      ]
+    },
+    {
+      "id": "402937",
+      "name": "Materia Prima: Transmutations",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-02-24 12:45:23",
+      "lastmodified": "2025-02-24 12:45:23",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/6hseDzxSfLfvsO8EoA7ONg__thumb/img/It99YXiAyNsJBNHYZ_JNgzEUWAc=/fit-in/200x150/filters:strip_icc()/pic7812632.jpg",
+      "link": "https://boardgamegeek.com/thing/402937",
+      "minPlayers": "0",
+      "maxPlayers": "0",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "7.75",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": []
+    },
+    {
+      "id": "370876",
+      "name": "Materia Prima: The Last Stand",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-02-24 12:43:23",
+      "lastmodified": "2025-02-24 12:43:23",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/E2zExqTvMiM-TGqn6RMqrA__thumb/img/EnHqrriODjBR7O2AtN2Q2PE0JdQ=/fit-in/200x150/filters:strip_icc()/pic7075335.jpg",
+      "link": "https://boardgamegeek.com/thing/370876",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.25",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Florian Pfab"
+      ]
+    },
+    {
+      "id": "370875",
+      "name": "Materia Prima: The Hunt Expansion",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-02-24 12:42:40",
+      "lastmodified": "2025-02-24 12:42:40",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/2AfzKJipPPWMCYgdB8hGfg__thumb/img/z02DpnJyCo5ufaJ1uAqgfgeW4co=/fit-in/200x150/filters:strip_icc()/pic7075320.jpg",
+      "link": "https://boardgamegeek.com/thing/370875",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.8",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Florian Pfab"
+      ]
+    },
+    {
+      "id": "370873",
+      "name": "Materia Prima: The Cult Expansion",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-02-24 12:42:09",
+      "lastmodified": "2025-02-24 12:42:09",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/_m_QVrwkM9g2WU8mBuF9tw__thumb/img/-pTeQDqXF3KpFeEztSLIf7utf00=/fit-in/200x150/filters:strip_icc()/pic7075330.jpg",
+      "link": "https://boardgamegeek.com/thing/370873",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.8",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Florian Pfab"
+      ]
+    },
+    {
+      "id": "366157",
+      "name": "Materia Prima: Alchemists and Pets",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2025-02-24 12:41:23",
+      "lastmodified": "2025-02-24 12:41:23",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Pa4zVo8Gmyb2p6GoS9qe0Q__thumb/img/8_33cBDpXovukuofCVlG93k-0II=/fit-in/200x150/filters:strip_icc()/pic6950376.jpg",
+      "link": "https://boardgamegeek.com/thing/366157",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "120",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "120",
+      "averageRating": "8.2",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Modular Board",
+        "Movement Points",
+        "Moving Multiple Units",
+        "Set Collection"
+      ],
+      "categories": [
+        "Adventure",
+        "Dice",
+        "Fantasy",
+        "Medieval"
+      ],
+      "designers": [
+        "Florian Pfab"
+      ]
+    },
+    {
+      "id": "300906",
+      "name": "Materia Prima: The Inquisition Expansion",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2020-11-10 11:15:23",
+      "lastmodified": "2025-02-24 12:34:44",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/6IY8s40DcoQ_Lqmdqg9Jzg__thumb/img/jgvH3TarT8UJIbqf1XhpgNYppdQ=/fit-in/200x150/filters:strip_icc()/pic5408296.jpg",
+      "link": "https://boardgamegeek.com/thing/300906",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.9",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Pick-up and Deliver",
+        "Scenario / Mission / Campaign Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Medieval"
+      ],
+      "designers": [
+        "Florian Pfab"
+      ]
+    },
+    {
+      "id": "265575",
+      "name": "Materia Prima: The Alchemists Guild",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2019-08-26 11:56:02",
+      "lastmodified": "2025-02-24 12:31:28",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/p04SVpkzyYoEwG2LCp2i-Q__thumb/img/ETEaDqFJx9ocZnwbmxk_EEbsIsA=/fit-in/200x150/filters:strip_icc()/pic4614053.jpg",
+      "link": "https://boardgamegeek.com/thing/265575",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.44704",
+      "averageWeight": "2.7857",
+      "boardGameRank": "9379",
+      "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Modular Board",
+        "Pick-up and Deliver",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Fantasy",
+        "Medieval"
+      ],
+      "designers": [
+        "Florian Pfab"
+      ]
+    },
+    {
+      "id": "293353",
+      "name": "Materia Prima: Promo Pack",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2020-11-10 11:15:28",
+      "lastmodified": "2025-02-24 12:31:02",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/2c8vZZlrpGoABnAec84X3w__thumb/img/iqTqK01OPWpa18I61moyNftQ6uI=/fit-in/200x150/filters:strip_icc()/pic5035119.jpg",
+      "link": "https://boardgamegeek.com/thing/293353",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Modular Board",
+        "Pick-up and Deliver",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Fantasy",
+        "Medieval"
+      ],
+      "designers": [
+        "Florian Pfab"
+      ]
+    },
+    {
+      "id": "388367",
+      "name": "Innovation Ultimate",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-02-23 17:54:09",
+      "lastmodified": "2025-02-23 17:54:09",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/51zcHL2i540Ly4SE4RG82w__thumb/img/k9p80iHoqjYTMYwzNlI9y3dDUlM=/fit-in/200x150/filters:strip_icc()/pic7560687.png",
+      "link": "https://boardgamegeek.com/thing/388367",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "8.7801",
+      "averageWeight": "2.9",
+      "boardGameRank": "4421",
+      "mechanics": [
+        "Hand Management",
+        "Layering",
+        "Melding and Splaying",
+        "Take That",
+        "Tech Trees / Tech Tracks",
+        "Variable Phase Order"
+      ],
+      "categories": [
+        "Card Game",
+        "Civilization"
+      ],
+      "designers": [
+        "Carl Chudyk"
+      ]
+    },
+    {
+      "id": "311193",
+      "name": "Anno 1800: The Board Game",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2025-02-23 12:52:26",
+      "lastmodified": "2025-02-23 12:52:26",
+      "myrating": null,
+      "numplays": "6",
+      "thumbnail": "https://cf.geekdo-images.com/B21RQfIBnt2A_CYq8iZvrg__thumb/img/CtIlRyLdXN0b3TC8nM_8KZCrlN8=/fit-in/200x150/filters:strip_icc()/pic6220821.jpg",
+      "link": "https://boardgamegeek.com/thing/311193",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "7.71979",
+      "averageWeight": "3.1241",
+      "boardGameRank": "288",
+      "mechanics": [
+        "End Game Bonuses",
+        "Hand Management",
+        "Race",
+        "Tech Trees / Tech Tracks",
+        "Variable Set-up",
+        "Worker Placement, Different Worker Types"
+      ],
+      "categories": [
+        "Card Game",
+        "City Building",
+        "Economic",
+        "Industry / Manufacturing",
+        "Napoleonic",
+        "Video Game Theme"
+      ],
+      "designers": [
+        "Martin Wallace"
+      ]
+    },
+    {
+      "id": "296636",
+      "name": "In the Hall of the Mountain King: Cursed Mountain",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-31 22:57:42",
+      "lastmodified": "2025-01-31 22:57:43",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/gZJSXWZT6oRNWEdL-bU9Lw__thumb/img/SHwmsvmrBHrvOSocDdEWexLGtoE=/fit-in/200x150/filters:strip_icc()/pic5134049.jpg",
+      "link": "https://boardgamegeek.com/thing/296636",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "1, 2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "7.08609",
+      "averageWeight": "2.7143",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Grid Movement",
+        "Modular Board",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Territory Building"
+      ],
+      "designers": [
+        "Jay Cormier",
+        "Graeme Jahns"
+      ]
+    },
+    {
+      "id": "297693",
+      "name": "In the Hall of the Mountain King: Champions Mini-Expansion",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-31 22:57:08",
+      "lastmodified": "2025-01-31 22:57:08",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/tBNkZFHH8g5AzeierDFUlQ__thumb/img/2Qts8G9ZF8EA2EzyC76KgQFrJhM=/fit-in/200x150/filters:strip_icc()/pic5155097.png",
+      "link": "https://boardgamegeek.com/thing/297693",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "7.5594",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Jay Cormier",
+        "Graeme Jahns"
+      ]
+    },
+    {
+      "id": "265402",
+      "name": "In the Hall of the Mountain King",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2025-01-31 22:56:30",
+      "lastmodified": "2025-01-31 22:56:30",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/O85rGsVqqTfrFbcHQCIFHg__thumb/img/td7Xjx0NMeSUrBVm4fBoIweCxjA=/fit-in/200x150/filters:strip_icc()/pic4421569.jpg",
+      "link": "https://boardgamegeek.com/thing/265402",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "3, 4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "7.57115",
+      "averageWeight": "2.8453",
+      "boardGameRank": "643",
+      "mechanics": [
+        "Grid Coverage",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Team-Based Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Fantasy",
+        "Territory Building"
+      ],
+      "designers": [
+        "Jay Cormier",
+        "Graeme Jahns"
+      ]
+    },
+    {
+      "id": "241",
+      "name": "Age of Exploration",
+      "yearPublished": "1994",
+      "type": "boardgame",
+      "postdate": "2025-01-21 12:51:33",
+      "lastmodified": "2025-01-21 12:51:33",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/eU7uho-OpmBXMGxNpYvjpg__thumb/img/dW--w2rZHnebLr5RKBEFtusyvHs=/fit-in/200x150/filters:strip_icc()/pic78069.jpg",
+      "link": "https://boardgamegeek.com/thing/241",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "1, 3",
+      "playingTime": "180",
+      "minPlayingTime": "180",
+      "maxPlayingTime": "180",
+      "averageRating": "6.02147",
+      "averageWeight": "2.85",
+      "boardGameRank": "13614",
+      "mechanics": [
+        "Area Movement",
+        "Push Your Luck",
+        "Simulation"
+      ],
+      "categories": [
+        "Exploration",
+        "Renaissance",
+        "Wargame"
+      ],
+      "designers": [
+        "Thomas Lehmann"
+      ]
+    },
+    {
+      "id": "420570",
+      "name": "Mysticana: Arcane Artifacts",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-13 02:16:51",
+      "lastmodified": "2025-01-13 02:16:51",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/4kNvY3YH2NEtrBISYUUf-Q__thumb/img/Ao6eH5yh13N06Q2och_TV2vnTc8=/fit-in/200x150/filters:strip_icc()/pic8224989.png",
+      "link": "https://boardgamegeek.com/thing/420570",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "N/A",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "6.65294",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Push Your Luck"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy",
+        "Print & Play"
+      ],
+      "designers": [
+        "Dustin Dobson",
+        "Jamie Thul"
+      ]
+    },
+    {
+      "id": "420569",
+      "name": "Mysticana: Cave of Djinns",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-13 02:16:24",
+      "lastmodified": "2025-01-13 02:16:24",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/qbfUodLVCowlwsRXZhyihA__thumb/img/At7kLoKILlPK0Sgn6vQEgFJ5MK8=/fit-in/200x150/filters:strip_icc()/pic8224975.png",
+      "link": "https://boardgamegeek.com/thing/420569",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.68537",
+      "averageWeight": "1.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Queue",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy",
+        "Print & Play"
+      ],
+      "designers": [
+        "Roshni Patel"
+      ]
+    },
+    {
+      "id": "408842",
+      "name": "Mysticana: A Foundation Deck",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-01-13 02:15:26",
+      "lastmodified": "2025-01-13 02:15:26",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/yXrXPEK9KqsZlkDZrivXHg__thumb/img/rPaOSJxhDuCmLGQzFASXEv6qX_A=/fit-in/200x150/filters:strip_icc()/pic8174484.png",
+      "link": "https://boardgamegeek.com/thing/408842",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.32053",
+      "averageWeight": "1",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Betting and Bluffing",
+        "Hand Management",
+        "Rock-Paper-Scissors",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Fantasy",
+        "Game System",
+        "Print & Play",
+        "Puzzle"
+      ],
+      "designers": [
+        "Dustin Dobson",
+        "Jamie Thul"
+      ]
+    },
+    {
+      "id": "273434",
+      "name": "Antinomy: Solo Flare",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-13 00:53:11",
+      "lastmodified": "2025-01-13 00:53:11",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/aARVK8b5iRBvn7ASLDhjZA__thumb/img/rLBSrZDJF5KBjtXFQi4wno2B4R8=/fit-in/200x150/filters:strip_icc()/pic7007080.png",
+      "link": "https://boardgamegeek.com/thing/273434",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.8417",
+      "averageWeight": "1.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Set Collection"
+      ],
+      "categories": [
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Mike Mullins"
+      ]
+    },
+    {
+      "id": "251441",
+      "name": "Antinomy",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2025-01-13 00:52:22",
+      "lastmodified": "2025-01-13 00:52:23",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/w2GaFp9XHlHS9AHeUZqBIQ__thumb/img/dku2SAzFCnICVRstCxhn8aBHAIo=/fit-in/200x150/filters:strip_icc()/pic4551017.jpg",
+      "link": "https://boardgamegeek.com/thing/251441",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.81403",
+      "averageWeight": "1.9286",
+      "boardGameRank": "4916",
+      "mechanics": [
+        "Hand Management",
+        "Race",
+        "Set Collection"
+      ],
+      "categories": [
+        "Card Game",
+        "Print & Play",
+        "Science Fiction"
+      ],
+      "designers": [
+        "John Baluci"
+      ]
+    },
     {
       "id": "351040",
       "name": "Ready Set Bet",
@@ -36,6 +947,112 @@
       ],
       "designers": [
         "John D. Clair"
+      ]
+    },
+    {
+      "id": "361177",
+      "name": "Long Shot: The Dice Game – Horse Set 6 (Jockey) Mini Expansion",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-12 16:17:26",
+      "lastmodified": "2025-01-12 16:17:35",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/BYxcwieQHrTPrgXSXZeMlw__thumb/img/6Ato52yVAVu1HMO3fbmxBkp_3M8=/fit-in/200x150/filters:strip_icc()/pic6968310.jpg",
+      "link": "https://boardgamegeek.com/thing/361177",
+      "minPlayers": "1",
+      "maxPlayers": "8",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "7.88644",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Chris Handy (I)"
+      ]
+    },
+    {
+      "id": "295374",
+      "name": "Long Shot: The Dice Game",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2024-12-31 12:58:06",
+      "lastmodified": "2025-01-12 16:16:18",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/j9RO81ihYw0_oPj6iqV_bA__thumb/img/iRomFjZ0oELmm1pBVtJrNwyl4nc=/fit-in/200x150/filters:strip_icc()/pic6682376.jpg",
+      "link": "https://boardgamegeek.com/thing/295374",
+      "minPlayers": "1",
+      "maxPlayers": "8",
+      "bestAtCount": "4, 5",
+      "playingTime": "25",
+      "minPlayingTime": "25",
+      "maxPlayingTime": "25",
+      "averageRating": "7.58545",
+      "averageWeight": "1.9309",
+      "boardGameRank": "330",
+      "mechanics": [
+        "Bids As Wagers",
+        "Bingo",
+        "Dice Rolling",
+        "End Game Bonuses",
+        "Paper-and-Pencil",
+        "Solo / Solitaire Game",
+        "Victory Points as a Resource"
+      ],
+      "categories": [
+        "Dice",
+        "Racing",
+        "Sports"
+      ],
+      "designers": [
+        "Chris Handy (I)"
+      ]
+    },
+    {
+      "id": "380917",
+      "name": "Concordia: Roma / Sicilia",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-12 15:30:14",
+      "lastmodified": "2025-01-12 15:30:14",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/6Scc710oJ0CF1fHXtsjH5A__thumb/img/foYs9KZqgR-Nsvr66pRwxXQ8N-I=/fit-in/200x150/filters:strip_icc()/pic7711474.jpg",
+      "link": "https://boardgamegeek.com/thing/380917",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "100",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "100",
+      "averageRating": "8.35204",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Retrieval",
+        "Deck, Bag, and Pool Building",
+        "End Game Bonuses",
+        "Hand Management",
+        "Hidden Victory Points",
+        "Movement Points",
+        "Set Collection",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Ancient",
+        "Economic",
+        "Nautical"
+      ],
+      "designers": [
+        "Mac Gerdts"
       ]
     },
     {
@@ -27055,46 +28072,6 @@
       ]
     },
     {
-      "id": "63170",
-      "name": "1817",
-      "yearPublished": "2010",
-      "type": "boardgame",
-      "postdate": "2019-08-20 19:07:42",
-      "lastmodified": "2021-12-17 14:09:38",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/ljswtJbDAR_bcgSkF2PSOw__thumb/img/9_Xn-C2Z9pttuidHn4p0fr7Evgc=/fit-in/200x150/filters:strip_icc()/pic4895040.png",
-      "link": "https://boardgamegeek.com/thing/63170",
-      "minPlayers": "3",
-      "maxPlayers": "7",
-      "bestAtCount": "4, 5",
-      "playingTime": "540",
-      "minPlayingTime": "360",
-      "maxPlayingTime": "540",
-      "averageRating": "8.58704",
-      "averageWeight": "4.7843",
-      "boardGameRank": "1688",
-      "mechanics": [
-        "Auction / Bidding",
-        "Loans",
-        "Market",
-        "Network and Route Building",
-        "Ownership",
-        "Stock Holding",
-        "Tile Placement",
-        "Victory Points as a Resource"
-      ],
-      "categories": [
-        "Economic",
-        "Trains",
-        "Transportation"
-      ],
-      "designers": [
-        "Craig Bartell",
-        "Tim Flowers"
-      ]
-    },
-    {
       "id": "4098",
       "name": "Age of Steam",
       "yearPublished": "2002",
@@ -32113,44 +33090,6 @@
       ]
     },
     {
-      "id": "293353",
-      "name": "Materia Prima: Promo Pack",
-      "yearPublished": "2019",
-      "type": "boardgameexpansion",
-      "postdate": "2020-11-10 11:15:28",
-      "lastmodified": "2020-11-10 11:15:28",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/2c8vZZlrpGoABnAec84X3w__thumb/img/iqTqK01OPWpa18I61moyNftQ6uI=/fit-in/200x150/filters:strip_icc()/pic5035119.jpg",
-      "link": "https://boardgamegeek.com/thing/293353",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "N/A",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "8",
-      "averageWeight": "0",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Dice Rolling",
-        "Grid Movement",
-        "Modular Board",
-        "Pick-up and Deliver",
-        "Take That",
-        "Variable Player Powers"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Adventure",
-        "Fantasy",
-        "Medieval"
-      ],
-      "designers": [
-        "Florian Pfab"
-      ]
-    },
-    {
       "id": "294819",
       "name": "Materia Prima: The Alchemists Seal Expansion",
       "yearPublished": "2020",
@@ -32179,43 +33118,6 @@
       ],
       "categories": [
         "Expansion for Base-game",
-        "Adventure",
-        "Fantasy",
-        "Medieval"
-      ],
-      "designers": [
-        "Florian Pfab"
-      ]
-    },
-    {
-      "id": "265575",
-      "name": "Materia Prima: The Alchemists Guild",
-      "yearPublished": "2020",
-      "type": "boardgame",
-      "postdate": "2019-08-26 11:56:02",
-      "lastmodified": "2020-11-10 11:15:10",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/p04SVpkzyYoEwG2LCp2i-Q__thumb/img/ETEaDqFJx9ocZnwbmxk_EEbsIsA=/fit-in/200x150/filters:strip_icc()/pic4614053.jpg",
-      "link": "https://boardgamegeek.com/thing/265575",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3, 4",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "7.44704",
-      "averageWeight": "2.7857",
-      "boardGameRank": "9379",
-      "mechanics": [
-        "Dice Rolling",
-        "Grid Movement",
-        "Modular Board",
-        "Pick-up and Deliver",
-        "Take That",
-        "Variable Player Powers"
-      ],
-      "categories": [
         "Adventure",
         "Fantasy",
         "Medieval"
@@ -109302,37 +110204,6 @@
       ],
       "designers": [
         "Ken Fisher"
-      ]
-    },
-    {
-      "id": "63706",
-      "name": "11 nimmt!",
-      "yearPublished": "2010",
-      "type": "boardgame",
-      "postdate": "2011-03-30 10:45:01",
-      "lastmodified": "2011-08-06 11:54:34",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/OgaW40VSlThd-z7u7NWE3A__thumb/img/gzFC28W99Qv8aiTTlfP47ze02AQ=/fit-in/200x150/filters:strip_icc()/pic648725.jpg",
-      "link": "https://boardgamegeek.com/thing/63706",
-      "minPlayers": "2",
-      "maxPlayers": "7",
-      "bestAtCount": "4",
-      "playingTime": "30",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "30",
-      "averageRating": "6.32004",
-      "averageWeight": "1.2047",
-      "boardGameRank": "3919",
-      "mechanics": [
-        "Hand Management"
-      ],
-      "categories": [
-        "Card Game",
-        "Number"
-      ],
-      "designers": [
-        "Wolfgang Kramer"
       ]
     },
     {

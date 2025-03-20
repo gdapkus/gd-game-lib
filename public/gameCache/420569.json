@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-03-20T05:12:33.470Z",
+  "gameDetails": {
+    "id": "420569",
+    "name": "Mysticana: Cave of Djinns",
+    "type": "boardgameexpansion",
+    "description": "For those who stumble into the Cave of Djinns, there is only one way out. Should you fail to solve the djinns&rsquo; riddles, you will surely suffer their wrath.&#10;&#10;Cave of Djinns is a solo-only 6-card expansion to the Mysticana deck. In this evolving puzzle, the player must solve the djinns&rsquo; riddles through careful card placement. Each of the 6 double-sided djinns are placed in a loose pyramid shape, with space around each djinn to play a card in each orthogonal direction. The player draws 2 cards and plays them both in sequence each turn. Each djinn shows a specific arrangement of cards around them which must be fulfilled to solve their riddle and earn an immediate one-time bonus. Solved djinns are covered by an adjacent Mysticana card. Complete all 6 riddles to escape the cave with wits intact!&#10;&#10;&#10;Cave of Djinns is a solo tile-laying puzzle with action-chaining.&#10;&#10;Mysticana is a Foundation Deck: an 18-card deck that includes multiple core games using just the base cards with even more games added through small expansions. The deck features cards with 6 ranks across 3 suits (elements) which have a &ldquo;rock-paper-scissors&rdquo; hierarchy. While each game might make use of the deck&rsquo;s design in different ways, the flexible foundation enables new games to fit in seamlessly alongside previous entries.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/qbfUodLVCowlwsRXZhyihA__original/img/huxfht6lRdtjcQmSAfeJTk4OF3E=/0x0/filters:format(png)/pic8224975.png",
+    "thumbnail": "https://cf.geekdo-images.com/qbfUodLVCowlwsRXZhyihA__thumb/img/At7kLoKILlPK0Sgn6vQEgFJ5MK8=/fit-in/200x150/filters:strip_icc()/pic8224975.png",
+    "link": "https://boardgamegeek.com/thing/420569",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2024",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.68537",
+    "averageWeight": "1.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Queue",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Fantasy",
+      "Print & Play"
+    ],
+    "designers": [
+      "Roshni Patel"
+    ]
+  }
+}

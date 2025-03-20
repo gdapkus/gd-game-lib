@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-03-20T05:11:45.676Z",
+  "gameDetails": {
+    "id": "380917",
+    "name": "Concordia: Roma / Sicilia",
+    "type": "boardgameexpansion",
+    "description": "Concordia: Roma/Sicilia is an expansion for Concordia that provides a double-sided game board for two different experiences:&#10;&#10;&#10;     In Roma, you build the eternal city with famous places like the Colosseum, Forum Romanum, Circus Maximus, or Pantheon. Send your colonist ships abroad to gather extra benefits.&#10;     On the island of Sicilia, coincidental eruptions of the volcano Etna may hit you. It's a new element of luck, but Sicilia can be played without that option as well.&#10;&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/6Scc710oJ0CF1fHXtsjH5A__original/img/gZMb7E4J-N-PUiGqP6jkeLO--Ik=/0x0/filters:format(jpeg)/pic7711474.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6Scc710oJ0CF1fHXtsjH5A__thumb/img/foYs9KZqgR-Nsvr66pRwxXQ8N-I=/fit-in/200x150/filters:strip_icc()/pic7711474.jpg",
+    "link": "https://boardgamegeek.com/thing/380917",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "100",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "100",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.35204",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Retrieval",
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Hand Management",
+      "Hidden Victory Points",
+      "Movement Points",
+      "Set Collection",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Ancient",
+      "Economic",
+      "Nautical"
+    ],
+    "designers": [
+      "Mac Gerdts"
+    ]
+  }
+}

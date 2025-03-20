@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-03-20T05:11:42.527Z",
+  "gameDetails": {
+    "id": "8190",
+    "name": "The Bridges of Shangri-La",
+    "type": "boardgame",
+    "description": "In Shangri-La, the mysterious and isolated utopia nestled high in the mountains, a strange struggle for dominance has begun. Once peaceful and neighborly, the Masters of the competing mountain-folk train their students and send them out across bridges to control neighboring villages. To take control of a village, the students must come together in uncomfortable alliances, regardless of their tribal origin. Eventually students become Masters themselves, train new students and expand to other villages.&#10;&#10;There is one thing each student must keep in mind as they travel from village to village -- the mystical powers of Shangri-La mysteriously cause the bridges to collapse, separating villages forever. One crucial question will decide the winner: who will control the most Masters of Shangri-La?&#10;&#10;Players take on the roles of leaders of a specific tribe. There is a battle raging over the empty villages of the land and players must quickly fill those villages with their tribal leaders. As players migrate tribal leaders from one village to the next, they must not become too weak or they risk losing leaders to opposing tribes. The ultimate object of the game is to have the most leaders on the board at the end of the game.&#10;It is an abstract game with many options and tense until the end.&#10;&#10;2004 Mensa Select&#10;&#10;Thematically, players are adding masters and students, and trying to have the students migrate to nearby villages to become masters.  Functionally, this is essentially a military game.  Players either spend their turn reinforcing a village (adding more tokens there) or invading a neighboring village (expanding influence if you have more total tokens than the victim).  The unique twist is that, after each invasion, the connecting bridge is removed.  So over the course of the game, attack options become more and more limited, until the game naturally comes to a conclusion.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/3Pq36HH-IdFQdMb3OHOVdA__original/img/QsdLGkoibPjDr9CIDOBa3V47-yU=/0x0/filters:format(jpeg)/pic265554.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3Pq36HH-IdFQdMb3OHOVdA__thumb/img/ozv6GB7RBTZr0c3-sUs7BUcoV1M=/fit-in/200x150/filters:strip_icc()/pic265554.jpg",
+    "link": "https://boardgamegeek.com/thing/8190",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2003",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.91464",
+    "averageWeight": "2.722",
+    "boardGameRank": "1797",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Map Reduction",
+      "Point to Point Movement",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Mythology",
+      "Novel-based",
+      "Territory Building",
+      "Travel"
+    ],
+    "designers": [
+      "Leo Colovini"
+    ]
+  }
+}

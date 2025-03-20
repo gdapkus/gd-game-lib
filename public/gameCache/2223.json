@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-03-20T05:09:58.691Z",
+  "gameDetails": {
+    "id": "2223",
+    "name": "UNO",
+    "type": "boardgame",
+    "description": "Players race to empty their hands and catch opposing players with cards left in theirs, which score points. In turns, players attempt to play a card by matching its color, number, or word to the topmost card on the discard pile. If unable to play, players draw a card from the draw pile, and if still unable to play, they pass their turn. Wild and special cards spice things up a bit.&#10;&#10;UNO is a commercial version of Crazy Eights, a public domain card game played with a standard deck of playing cards.&#10;&#10;This entry includes all themed versions of UNO that do not include new cards.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__original/img/fRfoyWezpQsumExNKVxf1cwtJfg=/0x0/filters:format(jpeg)/pic8204165.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__thumb/img/AUkAjClJAk3BX1vEpk7EasSh_44=/fit-in/200x150/filters:strip_icc()/pic8204165.jpg",
+    "link": "https://boardgamegeek.com/thing/2223",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "1971",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "5.46618",
+    "averageWeight": "1.1031",
+    "boardGameRank": "27982",
+    "mechanics": [
+      "Hand Management",
+      "Lose a Turn",
+      "Matching",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Children's Game",
+      "Comic Book / Strip",
+      "Movies / TV / Radio theme",
+      "Number"
+    ],
+    "designers": [
+      "Merle Robbins"
+    ]
+  }
+}

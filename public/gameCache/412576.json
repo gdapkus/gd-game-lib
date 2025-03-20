@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-03-20T05:09:52.424Z",
+  "gameDetails": {
+    "id": "412576",
+    "name": "Forest Shuffle: Alpine",
+    "type": "boardgameexpansion",
+    "description": "New cards are shuffled into the base game for even more diversity in Forest Shuffle adding even more variety to your gaming tables: Forest Shuffle Alpine&#10;&#10;Will you manage to lure the most valuable species into your forest? Because the following also applies above the tree line: depending on the number of players, cards are removed from the game before it begins.&#10;&#10;The first expansion of the tactical card game about the animals and the forest by designer Kosch scores with a deck of 36 new multifunctional cards, including two new tree species. Some of the cards bring a nice twist to the rules of the base game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/DHrlMA2XJr5T5IsO_X0Z3w__original/img/C0GOJ_wWW8s1wbMn6VTl74LRe18=/0x0/filters:format(jpeg)/pic7998961.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DHrlMA2XJr5T5IsO_X0Z3w__thumb/img/IlSD7ds4GhNqbljlvotFU3mJtDY=/fit-in/200x150/filters:strip_icc()/pic7998961.jpg",
+    "link": "https://boardgamegeek.com/thing/412576",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.21842",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Chaining",
+      "End Game Bonuses",
+      "Hand Management",
+      "Layering",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Set Collection",
+      "Tags"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Card Game",
+      "Educational",
+      "Environmental",
+      "Exploration",
+      "Territory Building"
+    ],
+    "designers": [
+      "Kosch"
+    ]
+  }
+}
