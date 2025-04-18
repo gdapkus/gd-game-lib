@@ -1,13 +1,87 @@
 {
-  "timestamp": "2025-03-20T05:08:25.355Z",
+  "timestamp": "2025-04-18T05:35:15.817Z",
   "games": [
+    {
+      "id": "266722",
+      "name": "Rumble Nation",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2025-03-06 14:43:15",
+      "lastmodified": "2025-04-18 00:33:32",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/B0V2pKNNy32oC53CC9b0NA__thumb/img/68fnH1Ag4zYhNfApOylboJDpf60=/fit-in/200x150/filters:strip_icc()/pic8828234.jpg",
+      "link": "https://boardgamegeek.com/thing/266722",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "40",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "40",
+      "averageRating": "7.45394",
+      "averageWeight": "1.8",
+      "boardGameRank": "1965",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area-Impulse",
+        "Dice Rolling",
+        "Once-Per-Game Abilities",
+        "Re-rolling and Locking"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Civil War",
+        "Dice",
+        "Medieval",
+        "Number",
+        "Territory Building"
+      ],
+      "designers": [
+        "Yogi Shinichi (与儀新一)"
+      ]
+    },
+    {
+      "id": "286690",
+      "name": "Shinjuku",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-10-10 01:11:34",
+      "lastmodified": "2025-04-18 00:33:23",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/ElImR83aR5O333fJBL1_zQ__thumb/img/9M8ZkgfKLO5MeYoeQtTYW7ASh5c=/fit-in/200x150/filters:strip_icc()/pic8279257.png",
+      "link": "https://boardgamegeek.com/thing/286690",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.58608",
+      "averageWeight": "2.4",
+      "boardGameRank": "9901",
+      "mechanics": [
+        "Hand Management",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Point to Point Movement"
+      ],
+      "categories": [
+        "Economic",
+        "Trains",
+        "Transportation"
+      ],
+      "designers": [
+        "Gary Kacmarcik"
+      ]
+    },
     {
       "id": "367498",
       "name": "Horizons of Spirit Island",
       "yearPublished": "2022",
       "type": "boardgame",
       "postdate": "2022-10-05 12:08:27",
-      "lastmodified": "2025-03-09 00:06:14",
+      "lastmodified": "2025-04-05 20:00:17",
       "myrating": null,
       "numplays": "0",
       "thumbnail": "https://cf.geekdo-images.com/jQ9g8pqZZuchIX_Pv3bHRQ__thumb/img/jIVtfyieZGB3j6WkwZEo8yteeok=/fit-in/200x150/filters:strip_icc()/pic6972881.jpg",
@@ -47,6 +121,43 @@
       ],
       "designers": [
         "R. Eric Reuss"
+      ]
+    },
+    {
+      "id": "367966",
+      "name": "Endeavor: Deep Sea",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-10-05 14:27:39",
+      "lastmodified": "2025-03-20 15:45:41",
+      "myrating": null,
+      "numplays": "5",
+      "thumbnail": "https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__thumb/img/7_DqsUgdrpbeLfkA2ko8bXhgpGw=/fit-in/200x150/filters:strip_icc()/pic6996584.jpg",
+      "link": "https://boardgamegeek.com/thing/367966",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.29712",
+      "averageWeight": "2.7928",
+      "boardGameRank": "883",
+      "mechanics": [
+        "Action Points",
+        "Chaining",
+        "Map Addition",
+        "Solo / Solitaire Game",
+        "Tech Trees / Tech Tracks"
+      ],
+      "categories": [
+        "Environmental",
+        "Exploration",
+        "Nautical"
+      ],
+      "designers": [
+        "Carl de Visser",
+        "Jarratt Gray"
       ]
     },
     {
@@ -775,43 +886,6 @@
       "designers": [
         "Chris Lawson",
         "Federico Vellani"
-      ]
-    },
-    {
-      "id": "367966",
-      "name": "Endeavor: Deep Sea",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2024-10-05 14:27:39",
-      "lastmodified": "2024-11-14 13:16:46",
-      "myrating": null,
-      "numplays": "2",
-      "thumbnail": "https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__thumb/img/7_DqsUgdrpbeLfkA2ko8bXhgpGw=/fit-in/200x150/filters:strip_icc()/pic6996584.jpg",
-      "link": "https://boardgamegeek.com/thing/367966",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "8.29712",
-      "averageWeight": "2.7928",
-      "boardGameRank": "883",
-      "mechanics": [
-        "Action Points",
-        "Chaining",
-        "Map Addition",
-        "Solo / Solitaire Game",
-        "Tech Trees / Tech Tracks"
-      ],
-      "categories": [
-        "Environmental",
-        "Exploration",
-        "Nautical"
-      ],
-      "designers": [
-        "Carl de Visser",
-        "Jarratt Gray"
       ]
     },
     {

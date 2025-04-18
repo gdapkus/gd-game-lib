@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-04-18T05:35:06.277Z",
+  "gameDetails": {
+    "id": "266722",
+    "name": "Rumble Nation",
+    "type": "boardgame",
+    "description": "Publisher's summary&#10;&#10;Rumble Nation &mdash; first released as &#229;&#164;&#169;&#228;&#184;&#139;&#233;&#179;&#180;&#229;&#139;&#149; (Tenka Meidou) &mdash; is an area control dice game and the 2018 Tokyo Game Market Awards Grand Prize winner.&#10;&#10;You are Warlords during the Sengoku Era, the Civil War. Aim for supremacy in Japan by contending for its 11 Castles.&#10;Three dice determine where the soldiers are deployed. Tactic cards are your trump to control the course of the war. Wisdom and luck are your keys for dominance.&#10;Sparks spray from one battle to another, setting the nation on fire. Keep an eye on the reinforcement chains or use them to your benefit and turn defeat into victory.&#10;- Contend for the 11 Castles in the nation.&#10;- Roll the dice to send out soldiers.&#10;- Aim for continuous victory with the reinforcements.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/B0V2pKNNy32oC53CC9b0NA__original/img/QOUNQ12U7Yn_4aV4aXzDgJsJchg=/0x0/filters:format(jpeg)/pic8828234.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/B0V2pKNNy32oC53CC9b0NA__thumb/img/68fnH1Ag4zYhNfApOylboJDpf60=/fit-in/200x150/filters:strip_icc()/pic8828234.jpg",
+    "link": "https://boardgamegeek.com/thing/266722",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.45394",
+    "averageWeight": "1.8",
+    "boardGameRank": "1965",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area-Impulse",
+      "Dice Rolling",
+      "Once-Per-Game Abilities",
+      "Re-rolling and Locking"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Civil War",
+      "Dice",
+      "Medieval",
+      "Number",
+      "Territory Building"
+    ],
+    "designers": [
+      "Yogi Shinichi (与儀新一)"
+    ]
+  }
+}

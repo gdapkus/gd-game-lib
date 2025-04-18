@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-04-18T05:33:14.004Z",
+  "gameDetails": {
+    "id": "413403",
+    "name": "Minecraft Explorers",
+    "type": "boardgame",
+    "description": "In Minecraft Explorers, players explore the blocky landscape together looking for hidden treasure.&#10;&#10;On your turn, you have action points to spend as you wish. You can explore different landscapes to discover what's on the back of a tile. Pickaxes and swords make some explorations easier, so perhaps you want to get them. Try to uncover the treasure you need to win.&#10;&#10;Ideally you can avoid monsters such as Zombies, Creepers, and Endermen because at the end of each turn, you must reveal a monster card, and if this monster is already in play, your group will be overrun and more monsters will appear. Face the horde bravely because as soon as the monster cards are used up, you lose the game. Do you best to fill your chests with treasure before that happens.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/J8mr0WGMyvaDqdZ8LV6DAA__original/img/pDVern2GMKfhDeH5q9MzbJaR6x0=/0x0/filters:format(jpeg)/pic7999813.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/J8mr0WGMyvaDqdZ8LV6DAA__thumb/img/Oubhh3m9-K6G1lpssRezLF903EU=/fit-in/200x150/filters:strip_icc()/pic7999813.jpg",
+    "link": "https://boardgamegeek.com/thing/413403",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.06162",
+    "averageWeight": "1.75",
+    "boardGameRank": "8352",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Fighting"
+    ],
+    "designers": [
+      "Matthew Dunstan"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-04-18T05:33:10.860Z",
+  "gameDetails": {
+    "id": "271554",
+    "name": "Bounce Battle",
+    "type": "boardgame",
+    "description": "Bounce Battle is beer pong with a bounce where players bounce ping pong balls into a cube to win a variety of battles. Game lovers of all ages familiar with beer pong and tic-tac-toe will instantly connect with the concept and potential of Bounce Battle.&#10;&#10;While contained in a small 6&rdquo; x 6&rdquo; x 6&rdquo; box, Bounce Battle packs a punch, incorporating many features of popular games like tic-tac-toe, beer pong, Skee-Ball, and H.O.R.S.E. (trick shot), among others.  Pick your battle and play close to your opponent at a table or on a floor.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/bK501357K3BJudapCl8jkQ__original/img/FV22Gz3CosQ0B-4H54ezuVih31U=/0x0/filters:format(jpeg)/pic4717977.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bK501357K3BJudapCl8jkQ__thumb/img/v8RITtvKLV_AuTq3QPddELThSL4=/fit-in/200x150/filters:strip_icc()/pic4717977.jpg",
+    "link": "https://boardgamegeek.com/thing/271554",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2013",
+    "playingTime": "15",
+    "minPlayingTime": "1",
+    "maxPlayingTime": "15",
+    "bestAtCount": null,
+    "averageRating": "6.46744",
+    "averageWeight": "1",
+    "boardGameRank": "19245",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity",
+      "Children's Game"
+    ],
+    "designers": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-04-18T05:35:09.559Z",
+  "gameDetails": {
+    "id": "286690",
+    "name": "Shinjuku",
+    "type": "boardgame",
+    "description": "In Shinjuku, a strategic network-building and pick-up-and-deliver board game, you build stores in Tokyo and the rail lines to connect them so that you can build the most successful shopping/rail conglomerate.&#10;&#10;Every turn, new customers arrive on the map looking to purchase one of four goods. On your turn, you choose two different actions from: (a) build a store, (b) expand your rail, (c) upgrade to a department store, (d) draw cards as income, or (e) move customers along the rail to stores.&#10;&#10;You start with a hand of four location cards and draw a new card each turn. The build, upgrade, and move actions require that you play a matching location card from your hand. Cards in your hand that match locations where you have previously built a store are wild and can be used to match any location.&#10;&#10;The game ends one round after the last customer has been placed, and victory goes to the player who acquires the most sets of customers.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/ElImR83aR5O333fJBL1_zQ__original/img/5-g1R3SmJC966r_heT_EDZaZMYg=/0x0/filters:format(png)/pic8279257.png",
+    "thumbnail": "https://cf.geekdo-images.com/ElImR83aR5O333fJBL1_zQ__thumb/img/9M8ZkgfKLO5MeYoeQtTYW7ASh5c=/fit-in/200x150/filters:strip_icc()/pic8279257.png",
+    "link": "https://boardgamegeek.com/thing/286690",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.58608",
+    "averageWeight": "2.4",
+    "boardGameRank": "9901",
+    "mechanics": [
+      "Hand Management",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Gary Kacmarcik"
+    ]
+  }
+}

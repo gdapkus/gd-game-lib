@@ -1,6 +1,1502 @@
 {
-  "timestamp": "2025-01-08T23:53:26.000Z",
+  "timestamp": "2025-04-18T05:32:58.559Z",
   "games": [
+    {
+      "id": "412576",
+      "name": "Forest Shuffle: Alpine",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-10 20:58:30",
+      "lastmodified": "2025-02-18 23:50:32",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/DHrlMA2XJr5T5IsO_X0Z3w__thumb/img/IlSD7ds4GhNqbljlvotFU3mJtDY=/fit-in/200x150/filters:strip_icc()/pic7998961.jpg",
+      "link": "https://boardgamegeek.com/thing/412576",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "8.21842",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Chaining",
+        "End Game Bonuses",
+        "Hand Management",
+        "Layering",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Set Collection",
+        "Tags"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Animals",
+        "Card Game",
+        "Educational",
+        "Environmental",
+        "Exploration",
+        "Territory Building"
+      ],
+      "designers": [
+        "Kosch"
+      ]
+    },
+    {
+      "id": "271460",
+      "name": "UNO Flip!",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2021-08-10 12:52:29",
+      "lastmodified": "2025-02-01 16:59:16",
+      "myrating": 4,
+      "numplays": "63",
+      "thumbnail": "https://cf.geekdo-images.com/8IO6sl0jN5IylDDRAOK8GQ__thumb/img/FNNjUKGi6KOAxkithC8seFipxPo=/fit-in/200x150/filters:strip_icc()/pic8214042.jpg",
+      "link": "https://boardgamegeek.com/thing/271460",
+      "minPlayers": "2",
+      "maxPlayers": "10",
+      "bestAtCount": "4",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.28126",
+      "averageWeight": "1.3",
+      "boardGameRank": "4091",
+      "mechanics": [
+        "Hand Management",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Number"
+      ],
+      "designers": [
+        "(Uncredited)"
+      ]
+    },
+    {
+      "id": "2223",
+      "name": "UNO",
+      "yearPublished": "1971",
+      "type": "boardgame",
+      "postdate": "2007-07-30 18:42:48",
+      "lastmodified": "2025-02-01 16:57:53",
+      "myrating": 4,
+      "numplays": "24",
+      "thumbnail": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__thumb/img/AUkAjClJAk3BX1vEpk7EasSh_44=/fit-in/200x150/filters:strip_icc()/pic8204165.jpg",
+      "link": "https://boardgamegeek.com/thing/2223",
+      "minPlayers": "2",
+      "maxPlayers": "10",
+      "bestAtCount": "4, 6",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "5.46618",
+      "averageWeight": "1.1031",
+      "boardGameRank": "27982",
+      "mechanics": [
+        "Hand Management",
+        "Lose a Turn",
+        "Matching",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Children's Game",
+        "Comic Book / Strip",
+        "Movies / TV / Radio theme",
+        "Number"
+      ],
+      "designers": [
+        "Merle Robbins"
+      ]
+    },
+    {
+      "id": "2223",
+      "name": "UNO",
+      "yearPublished": "1971",
+      "type": "boardgame",
+      "postdate": "2024-04-28 22:18:19",
+      "lastmodified": "2025-02-01 16:57:48",
+      "myrating": 4,
+      "numplays": "24",
+      "thumbnail": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__thumb/img/AUkAjClJAk3BX1vEpk7EasSh_44=/fit-in/200x150/filters:strip_icc()/pic8204165.jpg",
+      "link": "https://boardgamegeek.com/thing/2223",
+      "minPlayers": "2",
+      "maxPlayers": "10",
+      "bestAtCount": "4, 6",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "5.46618",
+      "averageWeight": "1.1031",
+      "boardGameRank": "27982",
+      "mechanics": [
+        "Hand Management",
+        "Lose a Turn",
+        "Matching",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Children's Game",
+        "Comic Book / Strip",
+        "Movies / TV / Radio theme",
+        "Number"
+      ],
+      "designers": [
+        "Merle Robbins"
+      ]
+    },
+    {
+      "id": "3076",
+      "name": "Puerto Rico",
+      "yearPublished": "2002",
+      "type": "boardgame",
+      "postdate": "2025-01-21 15:49:20",
+      "lastmodified": "2025-02-01 16:52:57",
+      "myrating": null,
+      "numplays": "9",
+      "thumbnail": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__thumb/img/5fLo89ChZH6Wzukk36bhZ-EpBS0=/fit-in/200x150/filters:strip_icc()/pic158548.jpg",
+      "link": "https://boardgamegeek.com/thing/3076",
+      "minPlayers": "3",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "150",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "150",
+      "averageRating": "7.9117",
+      "averageWeight": "3.2689",
+      "boardGameRank": "47",
+      "mechanics": [
+        "Action Drafting",
+        "End Game Bonuses",
+        "Follow",
+        "Hidden Victory Points",
+        "Increase Value of Unchosen Resources",
+        "Turn Order: Progressive",
+        "Variable Phase Order"
+      ],
+      "categories": [
+        "City Building",
+        "Economic",
+        "Farming"
+      ],
+      "designers": [
+        "Andreas Seyfarth"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Magic Realm",
+      "yearPublished": "1979",
+      "type": "boardgame",
+      "postdate": "2024-05-18 19:37:04",
+      "lastmodified": "2025-02-01 16:50:06",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/X-wQkavJHlZaUqlL1ClEsA__thumb/img/UIw4ZFZqMTqMlArymmHI591Gm-k=/fit-in/200x150/filters:strip_icc()/pic148345.jpg",
+      "link": "https://boardgamegeek.com/thing/22",
+      "minPlayers": "1",
+      "maxPlayers": "16",
+      "bestAtCount": "3, 4",
+      "playingTime": "240",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "240",
+      "averageRating": "7.29943",
+      "averageWeight": "4.5588",
+      "boardGameRank": "1654",
+      "mechanics": [
+        "Action Queue",
+        "Dice Rolling",
+        "Events",
+        "Modular Board",
+        "Paper-and-Pencil",
+        "Player Elimination",
+        "Point to Point Movement",
+        "Role Playing",
+        "Simultaneous Action Selection",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Adventure",
+        "Exploration",
+        "Fantasy",
+        "Fighting"
+      ],
+      "designers": [
+        "Richard Hamblen"
+      ]
+    },
+    {
+      "id": "130",
+      "name": "Iron Dragon",
+      "yearPublished": "1994",
+      "type": "boardgame",
+      "postdate": "2025-01-21 15:40:05",
+      "lastmodified": "2025-02-01 16:47:53",
+      "myrating": null,
+      "numplays": "30",
+      "thumbnail": "https://cf.geekdo-images.com/G4f3E6R7nrcpgtvAsYmazA__thumb/img/FSj9wLfqaHZUmndbf1RBw0M7dDs=/fit-in/200x150/filters:strip_icc()/pic3464926.jpg",
+      "link": "https://boardgamegeek.com/thing/130",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "3",
+      "playingTime": "240",
+      "minPlayingTime": "240",
+      "maxPlayingTime": "240",
+      "averageRating": "7.01386",
+      "averageWeight": "2.9267",
+      "boardGameRank": "2397",
+      "mechanics": [
+        "Crayon Rail System",
+        "Hexagon Grid",
+        "Multiple Maps",
+        "Network and Route Building",
+        "Pick-up and Deliver"
+      ],
+      "categories": [
+        "Fantasy",
+        "Trains",
+        "Transportation"
+      ],
+      "designers": [
+        "Darwin Bromley",
+        "Tom Wham"
+      ]
+    },
+    {
+      "id": "15512",
+      "name": "Incan Gold",
+      "yearPublished": "2005",
+      "type": "boardgame",
+      "postdate": "2008-09-04 11:51:54",
+      "lastmodified": "2025-02-01 16:47:12",
+      "myrating": 8,
+      "numplays": "33",
+      "thumbnail": "https://cf.geekdo-images.com/xPuQ_NYaoKWEUhugIDA3yA__thumb/img/osrBmn2JqDeBylg8bvqaVOCVGTI=/fit-in/200x150/filters:strip_icc()/pic8279658.jpg",
+      "link": "https://boardgamegeek.com/thing/15512",
+      "minPlayers": "3",
+      "maxPlayers": "8",
+      "bestAtCount": "6, 8",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.8376",
+      "averageWeight": "1.1075",
+      "boardGameRank": "866",
+      "mechanics": [
+        "Move Through Deck",
+        "Push Your Luck",
+        "Score-and-Reset Game",
+        "Simultaneous Action Selection"
+      ],
+      "categories": [
+        "Adventure",
+        "Bluffing",
+        "Exploration"
+      ],
+      "designers": [
+        "Bruno Faidutti",
+        "Alan R. Moon"
+      ]
+    },
+    {
+      "id": "234",
+      "name": "Hannibal: Rome vs. Carthage",
+      "yearPublished": "1996",
+      "type": "boardgame",
+      "postdate": "2007-07-30 18:25:27",
+      "lastmodified": "2025-02-01 16:43:10",
+      "myrating": 6,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/bqr3DAoxWUz1VeOCRk7gkw__thumb/img/Zy5cZ_cx2foRN8z-BsqDQaN2l90=/fit-in/200x150/filters:strip_icc()/pic706069.jpg",
+      "link": "https://boardgamegeek.com/thing/234",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "200",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "200",
+      "averageRating": "7.78206",
+      "averageWeight": "3.4549",
+      "boardGameRank": "415",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Events",
+        "Point to Point Movement",
+        "Simulation"
+      ],
+      "categories": [
+        "Ancient",
+        "Political",
+        "Wargame"
+      ],
+      "designers": [
+        "Mark Simonitch"
+      ]
+    },
+    {
+      "id": "234",
+      "name": "Hannibal: Rome vs. Carthage",
+      "yearPublished": "1996",
+      "type": "boardgame",
+      "postdate": "2024-07-08 16:47:25",
+      "lastmodified": "2025-02-01 16:43:01",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/bqr3DAoxWUz1VeOCRk7gkw__thumb/img/Zy5cZ_cx2foRN8z-BsqDQaN2l90=/fit-in/200x150/filters:strip_icc()/pic706069.jpg",
+      "link": "https://boardgamegeek.com/thing/234",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "200",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "200",
+      "averageRating": "7.78206",
+      "averageWeight": "3.4549",
+      "boardGameRank": "415",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Events",
+        "Point to Point Movement",
+        "Simulation"
+      ],
+      "categories": [
+        "Ancient",
+        "Political",
+        "Wargame"
+      ],
+      "designers": [
+        "Mark Simonitch"
+      ]
+    },
+    {
+      "id": "255708",
+      "name": "Trekking the National Parks: Second Edition",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2024-05-18 20:29:40",
+      "lastmodified": "2025-01-31 17:38:46",
+      "myrating": 6,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/peNOoXcF6cz-XSHzAeCx0A__thumb/img/Tmx9J7OEhN6ToX39jiIjluH_ycU=/fit-in/200x150/filters:strip_icc()/pic4214949.jpg",
+      "link": "https://boardgamegeek.com/thing/255708",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "3, 4",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.00414",
+      "averageWeight": "1.697",
+      "boardGameRank": "2822",
+      "mechanics": [
+        "Hand Management",
+        "Open Drafting",
+        "Point to Point Movement",
+        "Set Collection"
+      ],
+      "categories": [
+        "Educational",
+        "Environmental",
+        "Travel"
+      ],
+      "designers": [
+        "Charlie Bink"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "CATAN",
+      "yearPublished": "1995",
+      "type": "boardgame",
+      "postdate": "2025-01-21 15:56:55",
+      "lastmodified": "2025-01-31 17:34:19",
+      "myrating": 6,
+      "numplays": "16",
+      "thumbnail": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg",
+      "link": "https://boardgamegeek.com/thing/13",
+      "minPlayers": "3",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.09646",
+      "averageWeight": "2.2901",
+      "boardGameRank": "564",
+      "mechanics": [
+        "Chaining",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Income",
+        "Modular Board",
+        "Negotiation",
+        "Network and Route Building",
+        "Race",
+        "Random Production",
+        "Trading",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Economic",
+        "Negotiation"
+      ],
+      "designers": [
+        "Klaus Teuber"
+      ]
+    },
+    {
+      "id": "1829",
+      "name": "Risk 2210 A.D.",
+      "yearPublished": "2001",
+      "type": "boardgame",
+      "postdate": "2025-01-21 16:14:59",
+      "lastmodified": "2025-01-31 17:33:59",
+      "myrating": 5,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/_wzHtadbs-vK04J0pUO_Vg__thumb/img/000W_1Q6JzsQ1BdEniUbpPY85iU=/fit-in/200x150/filters:strip_icc()/pic8093633.jpg",
+      "link": "https://boardgamegeek.com/thing/1829",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4, 5",
+      "playingTime": "240",
+      "minPlayingTime": "240",
+      "maxPlayingTime": "240",
+      "averageRating": "6.68555",
+      "averageWeight": "2.7185",
+      "boardGameRank": "1726",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Auction / Bidding",
+        "Dice Rolling",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Science Fiction",
+        "Territory Building",
+        "Wargame"
+      ],
+      "designers": [
+        "Rob Daviau",
+        "Craig Van Ness"
+      ]
+    },
+    {
+      "id": "385680",
+      "name": "Path of Civilization",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2024-11-21 18:45:41",
+      "lastmodified": "2025-01-31 17:31:54",
+      "myrating": 8,
+      "numplays": "7",
+      "thumbnail": "https://cf.geekdo-images.com/-x19nQIBHlfPsfJ8qFOVuA__thumb/img/Q7fmvhkOwy8c_1VmmNMKSAuOh_o=/fit-in/200x150/filters:strip_icc()/pic7744081.jpg",
+      "link": "https://boardgamegeek.com/thing/385680",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.26387",
+      "averageWeight": "2.76",
+      "boardGameRank": "1981",
+      "mechanics": [
+        "Events",
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Tech Trees / Tech Tracks",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Civilization"
+      ],
+      "designers": [
+        "Fabien Gridel"
+      ]
+    },
+    {
+      "id": "380607",
+      "name": "Great Western Trail: New Zealand",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2023-10-05 16:30:31",
+      "lastmodified": "2025-01-31 17:13:47",
+      "myrating": 9,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/X4KaD6ADLW1ohOznNay7xg__thumb/img/iCWpe4ydO3Rtu6yBjn01eQ97xLc=/fit-in/200x150/filters:strip_icc()/pic7350809.png",
+      "link": "https://boardgamegeek.com/thing/380607",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "150",
+      "minPlayingTime": "75",
+      "maxPlayingTime": "150",
+      "averageRating": "8.5801",
+      "averageWeight": "3.9628",
+      "boardGameRank": "133",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Ownership",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Track Movement",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Animals",
+        "Economic"
+      ],
+      "designers": [
+        "Alexander Pfister"
+      ]
+    },
+    {
+      "id": "402511",
+      "name": "Monopoly: National Parks Special Edition",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2024-05-12 22:09:16",
+      "lastmodified": "2025-01-31 17:13:38",
+      "myrating": 3,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/SekJGx8SD8pou2GPn1HeVw__thumb/img/u3WRjZrEzhbKHEdqHeAqLNXXkaM=/fit-in/200x150/filters:strip_icc()/pic7764100.jpg",
+      "link": "https://boardgamegeek.com/thing/402511",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "N/A",
+      "playingTime": "180",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "180",
+      "averageRating": "4.2",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Auction / Bidding",
+        "Auction: English",
+        "Income",
+        "Loans",
+        "Lose a Turn",
+        "Ownership",
+        "Player Elimination",
+        "Roll / Spin and Move",
+        "Set Collection",
+        "Stock Holding",
+        "Track Movement",
+        "Trading"
+      ],
+      "categories": [
+        "Economic",
+        "Negotiation"
+      ],
+      "designers": []
+    },
+    {
+      "id": "424129",
+      "name": "Forest Shuffle: Woodland Edge",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-10 20:58:19",
+      "lastmodified": "2025-01-31 17:13:28",
+      "myrating": 6,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/JUyOlnQ036W55OVWCcOrUg__thumb/img/XikMAZGSh00X0G4j_xj3RNqbNnQ=/fit-in/200x150/filters:strip_icc()/pic8357351.jpg",
+      "link": "https://boardgamegeek.com/thing/424129",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "8.14257",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Chaining",
+        "End Game Bonuses",
+        "Hand Management",
+        "Layering",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Set Collection"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Animals",
+        "Card Game",
+        "Educational",
+        "Environmental",
+        "Exploration",
+        "Territory Building"
+      ],
+      "designers": [
+        "Kosch"
+      ]
+    },
+    {
+      "id": "855",
+      "name": "Java",
+      "yearPublished": "2000",
+      "type": "boardgame",
+      "postdate": "2025-01-21 16:03:21",
+      "lastmodified": "2025-01-21 17:03:31",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/xojY9ltzSnbkaZyZyDEbSQ__thumb/img/1As1k-e-VSw8vyahBugKYmhxbZs=/fit-in/200x150/filters:strip_icc()/pic427860.jpg",
+      "link": "https://boardgamegeek.com/thing/855",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "7.00668",
+      "averageWeight": "3.381",
+      "boardGameRank": "1415",
+      "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Layering",
+        "Tile Placement"
+      ],
+      "categories": [
+        "City Building"
+      ],
+      "designers": [
+        "Michael Kiesling",
+        "Wolfgang Kramer"
+      ]
+    },
+    {
+      "id": "226407",
+      "name": "Heroes of Land, Air & Sea: Order and Chaos",
+      "yearPublished": "2018",
+      "type": "boardgameexpansion",
+      "postdate": "2024-12-15 15:54:18",
+      "lastmodified": "2025-01-21 16:34:28",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/sKYRx1j_353m-kigMKbgLw__thumb/img/xgNp3Q176NL8dslOkZqwrOaJCtU=/fit-in/200x150/filters:strip_icc()/pic4147917.jpg",
+      "link": "https://boardgamegeek.com/thing/226407",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 6",
+      "playingTime": "180",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "180",
+      "averageRating": "8.13346",
+      "averageWeight": "3.6",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Betting and Bluffing",
+        "Deck, Bag, and Pool Building",
+        "Take That",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Medieval",
+        "Miniatures",
+        "Wargame"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "253638",
+      "name": "Heroes of Land, Air & Sea: Pestilence",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2024-12-15 15:54:32",
+      "lastmodified": "2025-01-21 16:34:13",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Kbf0aqFzpW0kCdeuo3CGKQ__thumb/img/Tag7cvH_84JO9yId38UbjJgoEVM=/fit-in/200x150/filters:strip_icc()/pic4143139.jpg",
+      "link": "https://boardgamegeek.com/thing/253638",
+      "minPlayers": "1",
+      "maxPlayers": "7",
+      "bestAtCount": "4",
+      "playingTime": "180",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "180",
+      "averageRating": "8.12779",
+      "averageWeight": "3.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Take That",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Medieval",
+        "Miniatures",
+        "Wargame"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "198830",
+      "name": "Heroes of Land, Air & Sea",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2019-09-10 15:48:18",
+      "lastmodified": "2025-01-21 16:33:55",
+      "myrating": 4,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/MAIDRapFcDC08pmZIBM7EQ__thumb/img/zk2EZaatlJdmd1Rk0tIgSwM4vco=/fit-in/200x150/filters:strip_icc()/pic3315057.png",
+      "link": "https://boardgamegeek.com/thing/198830",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "180",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "180",
+      "averageRating": "7.57657",
+      "averageWeight": "3.2843",
+      "boardGameRank": "889",
+      "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Card Play Conflict Resolution",
+        "Follow",
+        "Take That",
+        "Team-Based Game",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Miniatures",
+        "Wargame"
+      ],
+      "designers": [
+        "Scott Almes"
+      ]
+    },
+    {
+      "id": "1590",
+      "name": "Stocks & Bonds",
+      "yearPublished": "1964",
+      "type": "boardgame",
+      "postdate": "2024-12-15 15:35:15",
+      "lastmodified": "2025-01-21 16:32:55",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/UsGNnwNDBSXpC9nZQ1laYw__thumb/img/6ucbN7Dc13S8U_H_Ha_-CyNDqRs=/fit-in/200x150/filters:strip_icc()/pic7028243.jpg",
+      "link": "https://boardgamegeek.com/thing/1590",
+      "minPlayers": "2",
+      "maxPlayers": "8",
+      "bestAtCount": "4",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "5.77957",
+      "averageWeight": "2.025",
+      "boardGameRank": "11992",
+      "mechanics": [
+        "Commodity Speculation",
+        "Dice Rolling",
+        "Simulation",
+        "Simultaneous Action Selection",
+        "Stock Holding"
+      ],
+      "categories": [
+        "Economic"
+      ],
+      "designers": [
+        "(Uncredited)"
+      ]
+    },
+    {
+      "id": "1708",
+      "name": "Stellar Conquest",
+      "yearPublished": "1975",
+      "type": "boardgame",
+      "postdate": "2024-12-15 15:55:24",
+      "lastmodified": "2025-01-21 16:32:44",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/xaUdsnlAql3H8IUvecbA1A__thumb/img/IkoIV1o9F58moS6juCswSQMrSgY=/fit-in/200x150/filters:strip_icc()/pic243276.jpg",
+      "link": "https://boardgamegeek.com/thing/1708",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "480",
+      "minPlayingTime": "240",
+      "maxPlayingTime": "480",
+      "averageRating": "6.46932",
+      "averageWeight": "3.0395",
+      "boardGameRank": "5939",
+      "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Movement Points",
+        "Secret Unit Deployment",
+        "Simulation",
+        "Tech Trees / Tech Tracks",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Economic",
+        "Science Fiction",
+        "Space Exploration",
+        "Wargame"
+      ],
+      "designers": [
+        "Howard Thompson"
+      ]
+    },
+    {
+      "id": "12493",
+      "name": "Twilight Imperium: Third Edition",
+      "yearPublished": "2005",
+      "type": "boardgame",
+      "postdate": "2007-11-27 16:07:35",
+      "lastmodified": "2025-01-21 16:31:58",
+      "myrating": 5,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/MHeQQrbauUVsvh2QF6PMog__thumb/img/9dc8SjfrB38KrNsuHd_JZOXnwYk=/fit-in/200x150/filters:strip_icc()/pic4128153.jpg",
+      "link": "https://boardgamegeek.com/thing/12493",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "6",
+      "playingTime": "240",
+      "minPlayingTime": "180",
+      "maxPlayingTime": "240",
+      "averageRating": "7.79203",
+      "averageWeight": "4.2581",
+      "boardGameRank": "125",
+      "mechanics": [
+        "Action Points",
+        "Area-Impulse",
+        "Dice Rolling",
+        "Follow",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Increase Value of Unchosen Resources",
+        "Modular Board",
+        "Player Elimination",
+        "Tech Trees / Tech Tracks",
+        "Tile Placement",
+        "Trading",
+        "Variable Phase Order",
+        "Variable Player Powers",
+        "Voting"
+      ],
+      "categories": [
+        "Civilization",
+        "Negotiation",
+        "Political",
+        "Science Fiction",
+        "Space Exploration",
+        "Wargame"
+      ],
+      "designers": [
+        "Christian T. Petersen"
+      ]
+    },
+    {
+      "id": "26055",
+      "name": "Twilight Imperium: Second Edition",
+      "yearPublished": "2000",
+      "type": "boardgame",
+      "postdate": "2024-12-15 15:49:03",
+      "lastmodified": "2025-01-21 16:31:43",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/fmCFTyDytozn3eGHPwjBdA__thumb/img/wWuJOWGWZuqqVo-86WY5hMDTsyU=/fit-in/200x150/filters:strip_icc()/pic391418.jpg",
+      "link": "https://boardgamegeek.com/thing/26055",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "6",
+      "playingTime": "240",
+      "minPlayingTime": "240",
+      "maxPlayingTime": "240",
+      "averageRating": "6.88162",
+      "averageWeight": "3.463",
+      "boardGameRank": "4837",
+      "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Modular Board",
+        "Tile Placement",
+        "Trading",
+        "Variable Phase Order",
+        "Variable Player Powers",
+        "Voting"
+      ],
+      "categories": [
+        "Civilization",
+        "Negotiation",
+        "Political",
+        "Science Fiction",
+        "Space Exploration",
+        "Wargame"
+      ],
+      "designers": [
+        "Christian T. Petersen"
+      ]
+    },
+    {
+      "id": "1435",
+      "name": "4000 A.D.",
+      "yearPublished": "1972",
+      "type": "boardgame",
+      "postdate": "2024-12-15 15:49:35",
+      "lastmodified": "2025-01-21 16:31:23",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Cynv-l64eerE6cG8YV6RRw__thumb/img/MXTFw-pQChksCNhTQhRFR76eecM=/fit-in/200x150/filters:strip_icc()/pic1027529.jpg",
+      "link": "https://boardgamegeek.com/thing/1435",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "5.47481",
+      "averageWeight": "2.1667",
+      "boardGameRank": "25539",
+      "mechanics": [
+        "Hidden Movement",
+        "Point to Point Movement",
+        "Secret Unit Deployment",
+        "Team-Based Game"
+      ],
+      "categories": [
+        "Science Fiction",
+        "Wargame"
+      ],
+      "designers": [
+        "Earl Doherty"
+      ]
+    },
+    {
+      "id": "1945",
+      "name": "Ultimatum",
+      "yearPublished": "1985",
+      "type": "boardgame",
+      "postdate": "2024-12-15 15:50:26",
+      "lastmodified": "2025-01-21 16:31:12",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/OM_b4XRWawAvoS0PRZCodw__thumb/img/0CnOB5Eon3rgB4KPrL-hijnIidU=/fit-in/200x150/filters:strip_icc()/pic1013096.jpg",
+      "link": "https://boardgamegeek.com/thing/1945",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 6",
+      "playingTime": "180",
+      "minPlayingTime": "180",
+      "maxPlayingTime": "180",
+      "averageRating": "5.784",
+      "averageWeight": "2.6667",
+      "boardGameRank": "20998",
+      "mechanics": [
+        "Area Movement"
+      ],
+      "categories": [
+        "Wargame"
+      ],
+      "designers": [
+        "Fred Bates"
+      ]
+    },
+    {
+      "id": "5881",
+      "name": "Tet Offensive",
+      "yearPublished": "1991",
+      "type": "boardgame",
+      "postdate": "2024-12-15 15:50:53",
+      "lastmodified": "2025-01-21 16:30:49",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/PKF_8SGc3_h7SBdXbXCNQw__thumb/img/M6iOx0PuebhQ18EBI65uxvCH0ks=/fit-in/200x150/filters:strip_icc()/pic333700.jpg",
+      "link": "https://boardgamegeek.com/thing/5881",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "6.04318",
+      "averageWeight": "2.7273",
+      "boardGameRank": "19745",
+      "mechanics": [
+        "Area Movement",
+        "Dice Rolling",
+        "Simulation"
+      ],
+      "categories": [
+        "Civil War",
+        "Modern Warfare",
+        "Vietnam War",
+        "Wargame"
+      ],
+      "designers": [
+        "Frank Chadwick"
+      ]
+    },
+    {
+      "id": "4100",
+      "name": "Starfarers of Catan: 5-6 Player Expansion",
+      "yearPublished": "2001",
+      "type": "boardgameexpansion",
+      "postdate": "2025-01-21 16:30:35",
+      "lastmodified": "2025-01-21 16:30:35",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/r67XyVN2XBwfISPflEQe1Q__thumb/img/5alsDySsDrdZl65CtrLi9xNS-9k=/fit-in/200x150/filters:strip_icc()/pic12750.jpg",
+      "link": "https://boardgamegeek.com/thing/4100",
+      "minPlayers": "5",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "120",
+      "averageRating": "6.95698",
+      "averageWeight": "2.5949",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Trading"
+      ],
+      "categories": [
+        "Civilization",
+        "Expansion for Base-game",
+        "Exploration",
+        "Negotiation",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Klaus Teuber"
+      ]
+    },
+    {
+      "id": "1897",
+      "name": "The Starfarers of Catan",
+      "yearPublished": "1999",
+      "type": "boardgame",
+      "postdate": "2007-06-25 16:17:25",
+      "lastmodified": "2025-01-21 16:29:52",
+      "myrating": 4,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/gZC98WB4HjAnb5F-xy_8DQ__thumb/img/CPwsLtETOAamkRIMuzxbguQN11g=/fit-in/200x150/filters:strip_icc()/pic5054740.jpg",
+      "link": "https://boardgamegeek.com/thing/1897",
+      "minPlayers": "3",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "6.80146",
+      "averageWeight": "2.5828",
+      "boardGameRank": "1494",
+      "mechanics": [
+        "Hexagon Grid",
+        "Trading"
+      ],
+      "categories": [
+        "Exploration",
+        "Negotiation",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Klaus Teuber"
+      ]
+    },
+    {
+      "id": "1897",
+      "name": "The Starfarers of Catan",
+      "yearPublished": "1999",
+      "type": "boardgame",
+      "postdate": "2025-01-21 16:29:47",
+      "lastmodified": "2025-01-21 16:29:47",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/gZC98WB4HjAnb5F-xy_8DQ__thumb/img/CPwsLtETOAamkRIMuzxbguQN11g=/fit-in/200x150/filters:strip_icc()/pic5054740.jpg",
+      "link": "https://boardgamegeek.com/thing/1897",
+      "minPlayers": "3",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "6.80146",
+      "averageWeight": "2.5828",
+      "boardGameRank": "1494",
+      "mechanics": [
+        "Hexagon Grid",
+        "Trading"
+      ],
+      "categories": [
+        "Exploration",
+        "Negotiation",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Klaus Teuber"
+      ]
+    },
+    {
+      "id": "77130",
+      "name": "Sid Meier's Civilization: The Board Game",
+      "yearPublished": "2010",
+      "type": "boardgame",
+      "postdate": "2010-11-29 15:37:29",
+      "lastmodified": "2025-01-21 16:02:02",
+      "myrating": 4,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__thumb/img/2zIfpLPUFyuWfgqLTvtvrHa19Mg=/fit-in/200x150/filters:strip_icc()/pic798666.jpg",
+      "link": "https://boardgamegeek.com/thing/77130",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "240",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "240",
+      "averageRating": "7.37716",
+      "averageWeight": "3.8959",
+      "boardGameRank": "387",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Open Drafting",
+        "Rock-Paper-Scissors",
+        "Square Grid",
+        "Tech Trees / Tech Tracks",
+        "Trading",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "City Building",
+        "Civilization",
+        "Exploration",
+        "Negotiation",
+        "Video Game Theme"
+      ],
+      "designers": [
+        "Kevin Wilson"
+      ]
+    },
+    {
+      "id": "1261",
+      "name": "Medina",
+      "yearPublished": "2001",
+      "type": "boardgame",
+      "postdate": "2025-01-21 16:00:02",
+      "lastmodified": "2025-01-21 16:00:02",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/-jyGarDLb4vX2uiffkKLag__thumb/img/-4QmqonK07LZYwp2Q4Q8-H2weWI=/fit-in/200x150/filters:strip_icc()/pic580033.jpg",
+      "link": "https://boardgamegeek.com/thing/1261",
+      "minPlayers": "3",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.01715",
+      "averageWeight": "2.7762",
+      "boardGameRank": "1431",
+      "mechanics": [
+        "Grid Coverage",
+        "Square Grid",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Arabian",
+        "City Building",
+        "Post-Napoleonic"
+      ],
+      "designers": [
+        "Stefan Dorra"
+      ]
+    },
+    {
+      "id": "232",
+      "name": "Serenissima",
+      "yearPublished": "1996",
+      "type": "boardgame",
+      "postdate": "2025-01-21 15:59:12",
+      "lastmodified": "2025-01-21 15:59:12",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/JDu-gDsxSSL49NPK7tfipg__thumb/img/9N_wI7AtLR1qsSEq2MZI18nAA9Q=/fit-in/200x150/filters:strip_icc()/pic322925.jpg",
+      "link": "https://boardgamegeek.com/thing/232",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "6.85202",
+      "averageWeight": "3.0347",
+      "boardGameRank": "2181",
+      "mechanics": [
+        "Area Movement",
+        "Dice Rolling",
+        "Pick-up and Deliver",
+        "Trading",
+        "Turn Order: Auction"
+      ],
+      "categories": [
+        "Economic",
+        "Nautical",
+        "Renaissance"
+      ],
+      "designers": [
+        "Dominique Ehrhard",
+        "Duccio Vitale"
+      ]
+    },
+    {
+      "id": "325",
+      "name": "CATAN: Seafarers",
+      "yearPublished": "1997",
+      "type": "boardgameexpansion",
+      "postdate": "2007-06-23 23:26:58",
+      "lastmodified": "2025-01-21 15:58:14",
+      "myrating": 4,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/yO6X6iObEb7PtECKCagMKg__thumb/img/sADKPjQ9M3aZgwONMdYvPgmme6c=/fit-in/200x150/filters:strip_icc()/pic2420293.jpg",
+      "link": "https://boardgamegeek.com/thing/325",
+      "minPlayers": "3",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "7.1537",
+      "averageWeight": "2.3761",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Memory",
+        "Modular Board",
+        "Network and Route Building",
+        "Trading"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Exploration",
+        "Nautical",
+        "Negotiation"
+      ],
+      "designers": [
+        "Klaus Teuber"
+      ]
+    },
+    {
+      "id": "21882",
+      "name": "Blue Moon City",
+      "yearPublished": "2006",
+      "type": "boardgame",
+      "postdate": "2008-06-11 13:35:43",
+      "lastmodified": "2025-01-21 15:48:23",
+      "myrating": 5,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/1MRXcnaF8VqPaeIS6cEUDQ__thumb/img/sihUuUe4alBkHpkPdUSoDvri3Hs=/fit-in/200x150/filters:strip_icc()/pic4757841.jpg",
+      "link": "https://boardgamegeek.com/thing/21882",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "50",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "50",
+      "averageRating": "7.0378",
+      "averageWeight": "2.2897",
+      "boardGameRank": "838",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Set Collection"
+      ],
+      "categories": [
+        "City Building",
+        "Fantasy"
+      ],
+      "designers": [
+        "Reiner Knizia"
+      ]
+    },
+    {
+      "id": "503",
+      "name": "Through the Desert",
+      "yearPublished": "1998",
+      "type": "boardgame",
+      "postdate": "2007-04-27 04:19:36",
+      "lastmodified": "2025-01-21 15:46:09",
+      "myrating": 5,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/Rq_hJIAO7jDgIpAW943hJA__thumb/img/blKEV5US-j7v3VDceGF1CIUb-lE=/fit-in/200x150/filters:strip_icc()/pic7697747.jpg",
+      "link": "https://boardgamegeek.com/thing/503",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "7.1372",
+      "averageWeight": "2.1836",
+      "boardGameRank": "562",
+      "mechanics": [
+        "Chaining",
+        "Connections",
+        "Enclosure",
+        "Hexagon Grid",
+        "Hidden Victory Points",
+        "Network and Route Building"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Animals",
+        "Arabian"
+      ],
+      "designers": [
+        "Reiner Knizia"
+      ]
+    },
+    {
+      "id": "199",
+      "name": "Manhattan",
+      "yearPublished": "1994",
+      "type": "boardgame",
+      "postdate": "2025-01-21 15:44:53",
+      "lastmodified": "2025-01-21 15:44:53",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/J38tww49pGTsp3bmgEekkA__thumb/img/c_s6sLaYvcLGNOyLyF4rHGJkbMw=/fit-in/200x150/filters:strip_icc()/pic3573055.png",
+      "link": "https://boardgamegeek.com/thing/199",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "6.72746",
+      "averageWeight": "1.9242",
+      "boardGameRank": "1492",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Hand Management"
+      ],
+      "categories": [
+        "City Building"
+      ],
+      "designers": [
+        "Andreas Seyfarth"
+      ]
+    },
+    {
+      "id": "1334",
+      "name": "Entdecker: Exploring New Horizons",
+      "yearPublished": "2001",
+      "type": "boardgame",
+      "postdate": "2025-01-21 15:43:06",
+      "lastmodified": "2025-01-21 15:43:06",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/CbZfZ45j52YzOr8LMAFbAw__thumb/img/9ag51oTXuH52ldmjj87tExTY0Ho=/fit-in/200x150/filters:strip_icc()/pic174422.jpg",
+      "link": "https://boardgamegeek.com/thing/1334",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "6.4915",
+      "averageWeight": "2.4384",
+      "boardGameRank": "3158",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Modular Board",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Exploration",
+        "Nautical"
+      ],
+      "designers": [
+        "Klaus Teuber"
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Vinci",
+      "yearPublished": "1999",
+      "type": "boardgame",
+      "postdate": "2025-01-21 15:42:31",
+      "lastmodified": "2025-01-21 15:42:31",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/16rNX4_Zj2nUtfKP7d1Wxw__thumb/img/9LgknaiMCuT4jFlsyPO8j2I1U7E=/fit-in/200x150/filters:strip_icc()/pic168171.jpg",
+      "link": "https://boardgamegeek.com/thing/60",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "7.06647",
+      "averageWeight": "2.781",
+      "boardGameRank": "1216",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Increase Value of Unchosen Resources",
+        "Network and Route Building",
+        "Race",
+        "Static Capture",
+        "Take That",
+        "Variable Player Powers",
+        "Variable Set-up",
+        "Victory Points as a Resource"
+      ],
+      "categories": [
+        "Ancient",
+        "Civilization",
+        "Territory Building"
+      ],
+      "designers": [
+        "Philippe Keyaerts"
+      ]
+    },
     {
       "id": "366782",
       "name": "Wildstyle",
@@ -217,46 +1713,6 @@
       ]
     },
     {
-      "id": "1708",
-      "name": "Stellar Conquest",
-      "yearPublished": "1975",
-      "type": "boardgame",
-      "postdate": "2024-12-15 15:55:24",
-      "lastmodified": "2024-12-15 15:55:24",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/xaUdsnlAql3H8IUvecbA1A__thumb/img/IkoIV1o9F58moS6juCswSQMrSgY=/fit-in/200x150/filters:strip_icc()/pic243276.jpg",
-      "link": "https://boardgamegeek.com/thing/1708",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "4",
-      "playingTime": "480",
-      "minPlayingTime": "240",
-      "maxPlayingTime": "480",
-      "averageRating": "6.46932",
-      "averageWeight": "3.0395",
-      "boardGameRank": "5939",
-      "mechanics": [
-        "Dice Rolling",
-        "Grid Movement",
-        "Hexagon Grid",
-        "Movement Points",
-        "Secret Unit Deployment",
-        "Simulation",
-        "Tech Trees / Tech Tracks",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Economic",
-        "Science Fiction",
-        "Space Exploration",
-        "Wargame"
-      ],
-      "designers": [
-        "Howard Thompson"
-      ]
-    },
-    {
       "id": "179460",
       "name": "Stronghold: 2nd edition",
       "yearPublished": "2015",
@@ -289,129 +1745,6 @@
       ],
       "designers": [
         "Ignacy Trzewiczek"
-      ]
-    },
-    {
-      "id": "253638",
-      "name": "Heroes of Land, Air & Sea: Pestilence",
-      "yearPublished": "2019",
-      "type": "boardgameexpansion",
-      "postdate": "2024-12-15 15:54:32",
-      "lastmodified": "2024-12-15 15:54:32",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/Kbf0aqFzpW0kCdeuo3CGKQ__thumb/img/Tag7cvH_84JO9yId38UbjJgoEVM=/fit-in/200x150/filters:strip_icc()/pic4143139.jpg",
-      "link": "https://boardgamegeek.com/thing/253638",
-      "minPlayers": "1",
-      "maxPlayers": "7",
-      "bestAtCount": "4",
-      "playingTime": "180",
-      "minPlayingTime": "120",
-      "maxPlayingTime": "180",
-      "averageRating": "8.12779",
-      "averageWeight": "3.5",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Action Points",
-        "Area Majority / Influence",
-        "Take That",
-        "Variable Player Powers",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Exploration",
-        "Fantasy",
-        "Fighting",
-        "Medieval",
-        "Miniatures",
-        "Wargame"
-      ],
-      "designers": [
-        "Scott Almes"
-      ]
-    },
-    {
-      "id": "226407",
-      "name": "Heroes of Land, Air & Sea: Order and Chaos",
-      "yearPublished": "2018",
-      "type": "boardgameexpansion",
-      "postdate": "2024-12-15 15:54:18",
-      "lastmodified": "2024-12-15 15:54:18",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/sKYRx1j_353m-kigMKbgLw__thumb/img/xgNp3Q176NL8dslOkZqwrOaJCtU=/fit-in/200x150/filters:strip_icc()/pic4147917.jpg",
-      "link": "https://boardgamegeek.com/thing/226407",
-      "minPlayers": "1",
-      "maxPlayers": "6",
-      "bestAtCount": "4, 6",
-      "playingTime": "180",
-      "minPlayingTime": "120",
-      "maxPlayingTime": "180",
-      "averageRating": "8.13346",
-      "averageWeight": "3.6",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Action Points",
-        "Area Majority / Influence",
-        "Betting and Bluffing",
-        "Deck, Bag, and Pool Building",
-        "Take That",
-        "Variable Player Powers",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Exploration",
-        "Fantasy",
-        "Fighting",
-        "Medieval",
-        "Miniatures",
-        "Wargame"
-      ],
-      "designers": [
-        "Scott Almes"
-      ]
-    },
-    {
-      "id": "198830",
-      "name": "Heroes of Land, Air & Sea",
-      "yearPublished": "2018",
-      "type": "boardgame",
-      "postdate": "2019-09-10 15:48:18",
-      "lastmodified": "2024-12-15 15:53:11",
-      "myrating": 4,
-      "numplays": "1",
-      "thumbnail": "https://cf.geekdo-images.com/MAIDRapFcDC08pmZIBM7EQ__thumb/img/zk2EZaatlJdmd1Rk0tIgSwM4vco=/fit-in/200x150/filters:strip_icc()/pic3315057.png",
-      "link": "https://boardgamegeek.com/thing/198830",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "4",
-      "playingTime": "180",
-      "minPlayingTime": "120",
-      "maxPlayingTime": "180",
-      "averageRating": "7.57657",
-      "averageWeight": "3.2843",
-      "boardGameRank": "889",
-      "mechanics": [
-        "Action Points",
-        "Area Majority / Influence",
-        "Card Play Conflict Resolution",
-        "Follow",
-        "Take That",
-        "Team-Based Game",
-        "Variable Player Powers",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Exploration",
-        "Fantasy",
-        "Fighting",
-        "Miniatures",
-        "Wargame"
-      ],
-      "designers": [
-        "Scott Almes"
       ]
     },
     {
@@ -504,230 +1837,6 @@
       ]
     },
     {
-      "id": "12493",
-      "name": "Twilight Imperium: Third Edition",
-      "yearPublished": "2005",
-      "type": "boardgame",
-      "postdate": "2007-11-27 16:07:35",
-      "lastmodified": "2024-12-15 15:51:23",
-      "myrating": 5,
-      "numplays": "3",
-      "thumbnail": "https://cf.geekdo-images.com/MHeQQrbauUVsvh2QF6PMog__thumb/img/9dc8SjfrB38KrNsuHd_JZOXnwYk=/fit-in/200x150/filters:strip_icc()/pic4128153.jpg",
-      "link": "https://boardgamegeek.com/thing/12493",
-      "minPlayers": "3",
-      "maxPlayers": "6",
-      "bestAtCount": "6",
-      "playingTime": "240",
-      "minPlayingTime": "180",
-      "maxPlayingTime": "240",
-      "averageRating": "7.79203",
-      "averageWeight": "4.2581",
-      "boardGameRank": "125",
-      "mechanics": [
-        "Action Points",
-        "Area-Impulse",
-        "Dice Rolling",
-        "Follow",
-        "Grid Movement",
-        "Hexagon Grid",
-        "Increase Value of Unchosen Resources",
-        "Modular Board",
-        "Player Elimination",
-        "Tech Trees / Tech Tracks",
-        "Tile Placement",
-        "Trading",
-        "Variable Phase Order",
-        "Variable Player Powers",
-        "Voting"
-      ],
-      "categories": [
-        "Civilization",
-        "Negotiation",
-        "Political",
-        "Science Fiction",
-        "Space Exploration",
-        "Wargame"
-      ],
-      "designers": [
-        "Christian T. Petersen"
-      ]
-    },
-    {
-      "id": "5881",
-      "name": "Tet Offensive",
-      "yearPublished": "1991",
-      "type": "boardgame",
-      "postdate": "2024-12-15 15:50:53",
-      "lastmodified": "2024-12-15 15:50:53",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/PKF_8SGc3_h7SBdXbXCNQw__thumb/img/M6iOx0PuebhQ18EBI65uxvCH0ks=/fit-in/200x150/filters:strip_icc()/pic333700.jpg",
-      "link": "https://boardgamegeek.com/thing/5881",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "2",
-      "playingTime": "120",
-      "minPlayingTime": "120",
-      "maxPlayingTime": "120",
-      "averageRating": "6.04318",
-      "averageWeight": "2.7273",
-      "boardGameRank": "19745",
-      "mechanics": [
-        "Area Movement",
-        "Dice Rolling",
-        "Simulation"
-      ],
-      "categories": [
-        "Civil War",
-        "Modern Warfare",
-        "Vietnam War",
-        "Wargame"
-      ],
-      "designers": [
-        "Frank Chadwick"
-      ]
-    },
-    {
-      "id": "1945",
-      "name": "Ultimatum",
-      "yearPublished": "1985",
-      "type": "boardgame",
-      "postdate": "2024-12-15 15:50:26",
-      "lastmodified": "2024-12-15 15:50:26",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/OM_b4XRWawAvoS0PRZCodw__thumb/img/0CnOB5Eon3rgB4KPrL-hijnIidU=/fit-in/200x150/filters:strip_icc()/pic1013096.jpg",
-      "link": "https://boardgamegeek.com/thing/1945",
-      "minPlayers": "3",
-      "maxPlayers": "6",
-      "bestAtCount": "4, 6",
-      "playingTime": "180",
-      "minPlayingTime": "180",
-      "maxPlayingTime": "180",
-      "averageRating": "5.784",
-      "averageWeight": "2.6667",
-      "boardGameRank": "20998",
-      "mechanics": [
-        "Area Movement"
-      ],
-      "categories": [
-        "Wargame"
-      ],
-      "designers": [
-        "Fred Bates"
-      ]
-    },
-    {
-      "id": "1435",
-      "name": "4000 A.D.",
-      "yearPublished": "1972",
-      "type": "boardgame",
-      "postdate": "2024-12-15 15:49:35",
-      "lastmodified": "2024-12-15 15:49:36",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/Cynv-l64eerE6cG8YV6RRw__thumb/img/MXTFw-pQChksCNhTQhRFR76eecM=/fit-in/200x150/filters:strip_icc()/pic1027529.jpg",
-      "link": "https://boardgamegeek.com/thing/1435",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3, 4",
-      "playingTime": "90",
-      "minPlayingTime": "90",
-      "maxPlayingTime": "90",
-      "averageRating": "5.47481",
-      "averageWeight": "2.1667",
-      "boardGameRank": "25539",
-      "mechanics": [
-        "Hidden Movement",
-        "Point to Point Movement",
-        "Secret Unit Deployment",
-        "Team-Based Game"
-      ],
-      "categories": [
-        "Science Fiction",
-        "Wargame"
-      ],
-      "designers": [
-        "Earl Doherty"
-      ]
-    },
-    {
-      "id": "26055",
-      "name": "Twilight Imperium: Second Edition",
-      "yearPublished": "2000",
-      "type": "boardgame",
-      "postdate": "2024-12-15 15:49:03",
-      "lastmodified": "2024-12-15 15:49:03",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/fmCFTyDytozn3eGHPwjBdA__thumb/img/wWuJOWGWZuqqVo-86WY5hMDTsyU=/fit-in/200x150/filters:strip_icc()/pic391418.jpg",
-      "link": "https://boardgamegeek.com/thing/26055",
-      "minPlayers": "2",
-      "maxPlayers": "6",
-      "bestAtCount": "6",
-      "playingTime": "240",
-      "minPlayingTime": "240",
-      "maxPlayingTime": "240",
-      "averageRating": "6.88162",
-      "averageWeight": "3.463",
-      "boardGameRank": "4837",
-      "mechanics": [
-        "Dice Rolling",
-        "Hexagon Grid",
-        "Modular Board",
-        "Tile Placement",
-        "Trading",
-        "Variable Phase Order",
-        "Variable Player Powers",
-        "Voting"
-      ],
-      "categories": [
-        "Civilization",
-        "Negotiation",
-        "Political",
-        "Science Fiction",
-        "Space Exploration",
-        "Wargame"
-      ],
-      "designers": [
-        "Christian T. Petersen"
-      ]
-    },
-    {
-      "id": "1590",
-      "name": "Stocks & Bonds",
-      "yearPublished": "1964",
-      "type": "boardgame",
-      "postdate": "2024-12-15 15:35:15",
-      "lastmodified": "2024-12-15 15:35:15",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/UsGNnwNDBSXpC9nZQ1laYw__thumb/img/6ucbN7Dc13S8U_H_Ha_-CyNDqRs=/fit-in/200x150/filters:strip_icc()/pic7028243.jpg",
-      "link": "https://boardgamegeek.com/thing/1590",
-      "minPlayers": "2",
-      "maxPlayers": "8",
-      "bestAtCount": "4",
-      "playingTime": "60",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "60",
-      "averageRating": "5.77957",
-      "averageWeight": "2.025",
-      "boardGameRank": "11992",
-      "mechanics": [
-        "Commodity Speculation",
-        "Dice Rolling",
-        "Simulation",
-        "Simultaneous Action Selection",
-        "Stock Holding"
-      ],
-      "categories": [
-        "Economic"
-      ],
-      "designers": [
-        "(Uncredited)"
-      ]
-    },
-    {
       "id": "4050",
       "name": "Fortress Europa",
       "yearPublished": "1978",
@@ -765,40 +1874,6 @@
         "John Edwards",
         "Richard Hamblen",
         "Alan R. Moon"
-      ]
-    },
-    {
-      "id": "385680",
-      "name": "Path of Civilization",
-      "yearPublished": "2023",
-      "type": "boardgame",
-      "postdate": "2024-11-21 18:45:41",
-      "lastmodified": "2024-11-21 22:32:05",
-      "myrating": null,
-      "numplays": "5",
-      "thumbnail": "https://cf.geekdo-images.com/-x19nQIBHlfPsfJ8qFOVuA__thumb/img/Q7fmvhkOwy8c_1VmmNMKSAuOh_o=/fit-in/200x150/filters:strip_icc()/pic7744081.jpg",
-      "link": "https://boardgamegeek.com/thing/385680",
-      "minPlayers": "1",
-      "maxPlayers": "5",
-      "bestAtCount": "3",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "7.26387",
-      "averageWeight": "2.76",
-      "boardGameRank": "1981",
-      "mechanics": [
-        "Events",
-        "Hand Management",
-        "Simultaneous Action Selection",
-        "Tech Trees / Tech Tracks",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Civilization"
-      ],
-      "designers": [
-        "Fabien Gridel"
       ]
     },
     {
@@ -1008,43 +2083,6 @@
       "designers": [
         "Thomas M. Divoll",
         "John B. Reilly (I)"
-      ]
-    },
-    {
-      "id": "234",
-      "name": "Hannibal: Rome vs. Carthage",
-      "yearPublished": "1996",
-      "type": "boardgame",
-      "postdate": "2024-07-08 16:47:25",
-      "lastmodified": "2024-08-09 23:51:47",
-      "myrating": null,
-      "numplays": "1",
-      "thumbnail": "https://cf.geekdo-images.com/bqr3DAoxWUz1VeOCRk7gkw__thumb/img/Zy5cZ_cx2foRN8z-BsqDQaN2l90=/fit-in/200x150/filters:strip_icc()/pic706069.jpg",
-      "link": "https://boardgamegeek.com/thing/234",
-      "minPlayers": "2",
-      "maxPlayers": "2",
-      "bestAtCount": "2",
-      "playingTime": "200",
-      "minPlayingTime": "40",
-      "maxPlayingTime": "200",
-      "averageRating": "7.78206",
-      "averageWeight": "3.4549",
-      "boardGameRank": "415",
-      "mechanics": [
-        "Area Majority / Influence",
-        "Campaign / Battle Card Driven",
-        "Dice Rolling",
-        "Events",
-        "Point to Point Movement",
-        "Simulation"
-      ],
-      "categories": [
-        "Ancient",
-        "Political",
-        "Wargame"
-      ],
-      "designers": [
-        "Mark Simonitch"
       ]
     },
     {
@@ -2597,41 +3635,6 @@
       ],
       "designers": [
         "Craig Besinque"
-      ]
-    },
-    {
-      "id": "255708",
-      "name": "Trekking the National Parks: Second Edition",
-      "yearPublished": "2018",
-      "type": "boardgame",
-      "postdate": "2024-05-18 20:29:40",
-      "lastmodified": "2024-08-02 23:35:47",
-      "myrating": null,
-      "numplays": "1",
-      "thumbnail": "https://cf.geekdo-images.com/peNOoXcF6cz-XSHzAeCx0A__thumb/img/Tmx9J7OEhN6ToX39jiIjluH_ycU=/fit-in/200x150/filters:strip_icc()/pic4214949.jpg",
-      "link": "https://boardgamegeek.com/thing/255708",
-      "minPlayers": "2",
-      "maxPlayers": "5",
-      "bestAtCount": "3, 4",
-      "playingTime": "60",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "60",
-      "averageRating": "7.00414",
-      "averageWeight": "1.697",
-      "boardGameRank": "2822",
-      "mechanics": [
-        "Hand Management",
-        "Open Drafting",
-        "Point to Point Movement",
-        "Set Collection"
-      ],
-      "categories": [
-        "Educational",
-        "Environmental",
-        "Travel"
-      ],
-      "designers": [
-        "Charlie Bink"
       ]
     },
     {
@@ -6379,49 +7382,6 @@
       ]
     },
     {
-      "id": "22",
-      "name": "Magic Realm",
-      "yearPublished": "1979",
-      "type": "boardgame",
-      "postdate": "2024-05-18 19:37:04",
-      "lastmodified": "2024-08-02 23:09:18",
-      "myrating": null,
-      "numplays": "1",
-      "thumbnail": "https://cf.geekdo-images.com/X-wQkavJHlZaUqlL1ClEsA__thumb/img/UIw4ZFZqMTqMlArymmHI591Gm-k=/fit-in/200x150/filters:strip_icc()/pic148345.jpg",
-      "link": "https://boardgamegeek.com/thing/22",
-      "minPlayers": "1",
-      "maxPlayers": "16",
-      "bestAtCount": "3, 4",
-      "playingTime": "240",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "240",
-      "averageRating": "7.29943",
-      "averageWeight": "4.5588",
-      "boardGameRank": "1654",
-      "mechanics": [
-        "Action Queue",
-        "Dice Rolling",
-        "Events",
-        "Modular Board",
-        "Paper-and-Pencil",
-        "Player Elimination",
-        "Point to Point Movement",
-        "Role Playing",
-        "Simultaneous Action Selection",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Adventure",
-        "Exploration",
-        "Fantasy",
-        "Fighting"
-      ],
-      "designers": [
-        "Richard Hamblen"
-      ]
-    },
-    {
       "id": "3646",
       "name": "Luftwaffe: The Game of Aerial Combat Over Germany 1943-45",
       "yearPublished": "1970",
@@ -7830,43 +8790,6 @@
       ]
     },
     {
-      "id": "380607",
-      "name": "Great Western Trail: New Zealand",
-      "yearPublished": "2023",
-      "type": "boardgame",
-      "postdate": "2023-10-05 16:30:31",
-      "lastmodified": "2024-08-02 23:01:35",
-      "myrating": null,
-      "numplays": "1",
-      "thumbnail": "https://cf.geekdo-images.com/X4KaD6ADLW1ohOznNay7xg__thumb/img/iCWpe4ydO3Rtu6yBjn01eQ97xLc=/fit-in/200x150/filters:strip_icc()/pic7350809.png",
-      "link": "https://boardgamegeek.com/thing/380607",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "150",
-      "minPlayingTime": "75",
-      "maxPlayingTime": "150",
-      "averageRating": "8.5801",
-      "averageWeight": "3.9628",
-      "boardGameRank": "133",
-      "mechanics": [
-        "Deck, Bag, and Pool Building",
-        "Hand Management",
-        "Ownership",
-        "Set Collection",
-        "Solo / Solitaire Game",
-        "Track Movement",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Animals",
-        "Economic"
-      ],
-      "designers": [
-        "Alexander Pfister"
-      ]
-    },
-    {
       "id": "4915",
       "name": "Great War at Sea 2: The North & Baltic Seas",
       "yearPublished": "1998",
@@ -8031,46 +8954,6 @@
       "designers": [
         "Ulrich Blum"
       ]
-    },
-    {
-      "id": "402511",
-      "name": "Monopoly: National Parks Special Edition",
-      "yearPublished": "2020",
-      "type": "boardgame",
-      "postdate": "2024-05-12 22:09:16",
-      "lastmodified": "2024-08-02 23:01:01",
-      "myrating": null,
-      "numplays": "1",
-      "thumbnail": "https://cf.geekdo-images.com/SekJGx8SD8pou2GPn1HeVw__thumb/img/u3WRjZrEzhbKHEdqHeAqLNXXkaM=/fit-in/200x150/filters:strip_icc()/pic7764100.jpg",
-      "link": "https://boardgamegeek.com/thing/402511",
-      "minPlayers": "2",
-      "maxPlayers": "6",
-      "bestAtCount": "N/A",
-      "playingTime": "180",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "180",
-      "averageRating": "4.2",
-      "averageWeight": "0",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Auction / Bidding",
-        "Auction: English",
-        "Income",
-        "Loans",
-        "Lose a Turn",
-        "Ownership",
-        "Player Elimination",
-        "Roll / Spin and Move",
-        "Set Collection",
-        "Stock Holding",
-        "Track Movement",
-        "Trading"
-      ],
-      "categories": [
-        "Economic",
-        "Negotiation"
-      ],
-      "designers": []
     },
     {
       "id": "4404",
@@ -12600,40 +13483,6 @@
       ]
     },
     {
-      "id": "241",
-      "name": "Age of Exploration",
-      "yearPublished": "1994",
-      "type": "boardgame",
-      "postdate": "2024-08-02 18:23:06",
-      "lastmodified": "2024-08-02 18:57:28",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/eU7uho-OpmBXMGxNpYvjpg__thumb/img/dW--w2rZHnebLr5RKBEFtusyvHs=/fit-in/200x150/filters:strip_icc()/pic78069.jpg",
-      "link": "https://boardgamegeek.com/thing/241",
-      "minPlayers": "1",
-      "maxPlayers": "6",
-      "bestAtCount": "1, 3",
-      "playingTime": "180",
-      "minPlayingTime": "180",
-      "maxPlayingTime": "180",
-      "averageRating": "6.02147",
-      "averageWeight": "2.85",
-      "boardGameRank": "13614",
-      "mechanics": [
-        "Area Movement",
-        "Push Your Luck",
-        "Simulation"
-      ],
-      "categories": [
-        "Exploration",
-        "Renaissance",
-        "Wargame"
-      ],
-      "designers": [
-        "Thomas Lehmann"
-      ]
-    },
-    {
       "id": "2917",
       "name": "Age of Chivalry",
       "yearPublished": "1992",
@@ -16301,42 +17150,6 @@
       ]
     },
     {
-      "id": "15512",
-      "name": "Incan Gold",
-      "yearPublished": "2005",
-      "type": "boardgame",
-      "postdate": "2008-09-04 11:56:34",
-      "lastmodified": "2018-08-16 15:03:32",
-      "myrating": 6,
-      "numplays": "32",
-      "thumbnail": "https://cf.geekdo-images.com/xPuQ_NYaoKWEUhugIDA3yA__thumb/img/osrBmn2JqDeBylg8bvqaVOCVGTI=/fit-in/200x150/filters:strip_icc()/pic8279658.jpg",
-      "link": "https://boardgamegeek.com/thing/15512",
-      "minPlayers": "3",
-      "maxPlayers": "8",
-      "bestAtCount": "6, 8",
-      "playingTime": "30",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "30",
-      "averageRating": "6.8376",
-      "averageWeight": "1.1075",
-      "boardGameRank": "866",
-      "mechanics": [
-        "Move Through Deck",
-        "Push Your Luck",
-        "Score-and-Reset Game",
-        "Simultaneous Action Selection"
-      ],
-      "categories": [
-        "Adventure",
-        "Bluffing",
-        "Exploration"
-      ],
-      "designers": [
-        "Bruno Faidutti",
-        "Alan R. Moon"
-      ]
-    },
-    {
       "id": "22545",
       "name": "Age of Empires III: The Age of Discovery",
       "yearPublished": "2007",
@@ -16371,43 +17184,6 @@
       ],
       "designers": [
         "Glenn Drover"
-      ]
-    },
-    {
-      "id": "234",
-      "name": "Hannibal: Rome vs. Carthage",
-      "yearPublished": "1996",
-      "type": "boardgame",
-      "postdate": "2007-07-30 18:25:27",
-      "lastmodified": "2018-08-16 15:02:44",
-      "myrating": 6,
-      "numplays": "1",
-      "thumbnail": "https://cf.geekdo-images.com/bqr3DAoxWUz1VeOCRk7gkw__thumb/img/Zy5cZ_cx2foRN8z-BsqDQaN2l90=/fit-in/200x150/filters:strip_icc()/pic706069.jpg",
-      "link": "https://boardgamegeek.com/thing/234",
-      "minPlayers": "2",
-      "maxPlayers": "2",
-      "bestAtCount": "2",
-      "playingTime": "200",
-      "minPlayingTime": "40",
-      "maxPlayingTime": "200",
-      "averageRating": "7.78206",
-      "averageWeight": "3.4549",
-      "boardGameRank": "415",
-      "mechanics": [
-        "Area Majority / Influence",
-        "Campaign / Battle Card Driven",
-        "Dice Rolling",
-        "Events",
-        "Point to Point Movement",
-        "Simulation"
-      ],
-      "categories": [
-        "Ancient",
-        "Political",
-        "Wargame"
-      ],
-      "designers": [
-        "Mark Simonitch"
       ]
     },
     {
