@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-02T06:36:26.921Z",
+  "gameDetails": {
+    "id": "439508",
+    "name": "Marvel Champions: The Card Game – Silk Hero Pack",
+    "type": "boardgameexpansion",
+    "description": "After being bitten by the same radioactive spider as Peter Parker and gaining similar spider powers, Cindy Moon spent years of her life isolated in a bunker to protect the Earth from the ravenous spider-hunters known as the Inheritors. Finally freed from that bunker, Cindy now fights crime on the streets of New York as both an investigative journalist and the web-slinging superhero, Silk, and she&rsquo;s swinging into your games of Marvel Champions: The Card Game! With her enhanced senses and quick reflexes letting her learn her enemies&rsquo; moves on the fly, Silk is a versatile hero who can adapt to any situation. Within this hero pack, you will find Silk, her fifteen signature cards, and a full assortment of Protection cards to aid you in keeping your allies safe. This pack also includes a bonus modular encounter set featuring Atlas of the Thunderbolts!&#10;&#10;Anyone looking to take on the agents of A.I.M. will want to add the Silk Hero Pack to their collection! This expansion comes with a 40-card pre-built deck, giving you the chance to start playing from the moment you open the box.&#10;&#10;Not a standalone expansion. A copy of the Marvel Champions: The Card Game core set is required to play.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/QkRGz6PO3D-mYSMojB5uOw__original/img/QSaG4xkPysx37QcwSPOohnb7iJg=/0x0/filters:format(png)/pic8828107.png",
+    "thumbnail": "https://cf.geekdo-images.com/QkRGz6PO3D-mYSMojB5uOw__small/img/jFHx5g6W1dctlAyoTalY5lnKBh0=/fit-in/200x150/filters:strip_icc()/pic8828107.png",
+    "link": "https://boardgamegeek.com/thing/439508",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "8.19311",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Chaining",
+      "Deck Construction",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Math",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Michael Boggs",
+      "Caleb Grace"
+    ]
+  }
+}

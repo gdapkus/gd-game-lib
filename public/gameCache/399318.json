@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-02T06:33:12.510Z",
+  "gameDetails": {
+    "id": "399318",
+    "name": "JOYRIDE DUEL: Next Gen",
+    "type": "boardgame",
+    "description": "JOYRIDE DUEL: Next Gen is an stand-alone two-player game of electric head-to-head racing. Tactically plan your route, push your luck to take corners at speed. and crash into your rival to knock them off course. This is the full Joyride experience in a smaller footprint.&#10;&#10;Next Gen includes 2 unique cars, 4 powerful items, and 12 tracks across 2 maps, all of which are compatible with any other Joyride game. Tracks in this version can accommodate 3 players with the addition of a car from any other set.&#10;&#10;Cars: &#10;&#10;    The Electric &ndash; robotic control that comes at a price.&#10;    The Learner &ndash; an instructor&rsquo;s assistance when your driving is too risky.&#10;&#10;&#10;Maps&#10;&#10;    The Driving School &ndash; wind through chicanes on different lines every lap.&#10;    The Warehouse &ndash; dodge the attacks of the security bots.&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/00yYWNtiL4-RkqDmRSao_A__original/img/UQrp3StrW6YJvNVfaD8ulVRd2-U=/0x0/filters:format(jpeg)/pic8244594.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/00yYWNtiL4-RkqDmRSao_A__small/img/EPZxUVHGfMbzNKSjo_CFOH-u-GI=/fit-in/200x150/filters:strip_icc()/pic8244594.jpg",
+    "link": "https://boardgamegeek.com/thing/399318",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.67843",
+    "averageWeight": "2",
+    "boardGameRank": "9621",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Turn Order: Stat-Based",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Racing"
+    ],
+    "designers": [
+      "Duncan Molloy",
+      "Pete Ward"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-02T06:35:49.121Z",
+  "gameDetails": {
+    "id": "1278",
+    "name": "Dutch InterCity",
+    "type": "boardgame",
+    "description": "Holland means business. Since the days of the Dutch East India company, Dutch traders have demonstrated their savvy business prowess internationally. Now it is time for The Netherlands to build their railroads. Instead of competing with the British, French, Italians &amp; Germans, they are competing with the best of the best, other Dutch investors. There is no luck in this short, ruthless game, just shrewd, astute investments that will bring vast wealth. Making money is the goal of this game. Make the most and you win.&#10;&#10;Dutch Intercity is for 3-6 players and takes less than an hour. Players invest their starting capital in railroad stocks and then the Directors of the railroads build track. Dividends are paid at the end of every track building round and then more railroad stock is offered to the investors. The wisest investors will come out on top.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/mkqZ_ZLOOKh-u1ht6d4CkA__original/img/CRlWBnyHrlwGMbPYOwlsKe79BZg=/0x0/filters:format(png)/pic7780116.png",
+    "thumbnail": "https://cf.geekdo-images.com/mkqZ_ZLOOKh-u1ht6d4CkA__small/img/dZzvNswD6VjzOrqftrUeEgpqCVo=/fit-in/200x150/filters:strip_icc()/pic7780116.png",
+    "link": "https://boardgamegeek.com/thing/1278",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1999",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.99191",
+    "averageWeight": "2.6667",
+    "boardGameRank": "7362",
+    "mechanics": [
+      "Auction / Bidding",
+      "Simultaneous Action Selection",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Trains"
+    ],
+    "designers": [
+      "Han Heidema"
+    ]
+  }
+}

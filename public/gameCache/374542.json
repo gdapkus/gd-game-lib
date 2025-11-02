@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-08-28T19:17:44.634Z",
+  "gameDetails": {
+    "id": "374542",
+    "name": "Planepita",
+    "type": "boardgame",
+    "description": "Planepita is a dexterity game where players flick discs onto a central playing area. Discs in inner rings are worth more points than discs on outer rings.&#10;&#10;One side of the discs is magnetic, as is the board.  After a player flicks their disc, they may turn it face down, so that the eye of the piece is not visible and the disc is more firmly attached to the board.  A face up disc is more valuable than a secure face down disc.&#10;&#10;However, after all players have flicked their discs, any discs that are face up in the same ring as a neutral piece are removed from the board.  Then, by ring, players score points for having the most value of discs present.&#10;&#10;The player with the most points after 4 rounds wins.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/MIyukZdI6ROZ-ceCqudt0w__original/img/rLFa0SwsDEi7zsHquHUsxrhbcYg=/0x0/filters:format(png)/pic9048723.png",
+    "thumbnail": "https://cf.geekdo-images.com/MIyukZdI6ROZ-ceCqudt0w__thumb/img/8LcHcd1JD_M1G3P3FC6Q5kwx3xM=/fit-in/200x150/filters:strip_icc()/pic9048723.png",
+    "link": "https://boardgamegeek.com/thing/374542",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.1037",
+    "averageWeight": "1.5714",
+    "boardGameRank": "10907",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Flicking"
+    ],
+    "categories": [
+      "Action / Dexterity"
+    ],
+    "designers": [
+      "Eisuke Fujinawa (藤縄英佑)",
+      "Kazunori Hori (堀和紀)"
+    ]
+  }
+}

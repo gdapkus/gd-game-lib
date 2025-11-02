@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-02T06:35:55.393Z",
+  "gameDetails": {
+    "id": "412737",
+    "name": "Earthborne Rangers: Moments on the Path",
+    "type": "boardgameexpansion",
+    "description": "Moments on the Path adds new cards to the path deck in the form of ephemeral moments, narrative choices, and attachments.&#10;&#10;The cards in this expansion capture fleeting moments in time--moments like catching the scent of flowers on the breeze, hearing a tree fall somewhere in the distance, or encountering a predator with unique characteristics--adding texture to the emergent narrative.&#10;&#10;Contains 30 unique cards.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/jY-GuqXoHt0IGULqKNrc3A__original/img/lOmH1AvIbiKmipResbRdhq62fyM=/0x0/filters:format(png)/pic8014067.png",
+    "thumbnail": "https://cf.geekdo-images.com/jY-GuqXoHt0IGULqKNrc3A__small/img/VF2zNQ1Gzn2aDD-5QzMOtPZxJ8w=/fit-in/200x150/filters:strip_icc()/pic8014067.png",
+    "link": "https://boardgamegeek.com/thing/412737",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "8.2619",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Cooperative Game",
+      "Move Through Deck",
+      "Narrative Choice / Paragraph",
+      "Role Playing",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Environmental",
+      "Exploration",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Davi Paulino"
+    ]
+  }
+}

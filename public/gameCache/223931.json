@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-02T06:37:56.022Z",
+  "gameDetails": {
+    "id": "223931",
+    "name": "Sherlock Holmes Consulting Detective: Carlton House & Queen's Park",
+    "type": "boardgame",
+    "description": "Welcome to the Carlton House. Enjoy the luxury and solve the murders! How about a stroll in beautiful Queen's Park? Beware dogs and the occasional crime scene&hellip;&#10;&#10;Return to the streets of Victorian London, but also venture into brand new locations in the latest installment in the Sherlock Holmes Consulting Detective line: Carlton House &amp; Queen's Park! Like the previously released The Thames Murders and Other Cases, Carlton House &amp; Queen's Park introduces ten exciting cases, each one drawing players deep into the world of Sherlock Holmes. Among these cases includes two classic, long out-of-print expansions which are now revised and updated. Whether you're playing solo or with up to eight possible players, you need your wits about you to solve the cases and beat Holmes himself!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/g9Y8cisx4RqmiFgVqONYxg__original/img/m_dxitgQJeA6wEBUyCEe1YL6skU=/0x0/filters:format(jpeg)/pic4484880.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/g9Y8cisx4RqmiFgVqONYxg__small/img/L4I7VOTAxN_2D0thjrSQ_09HoBw=/fit-in/200x150/filters:strip_icc()/pic4484880.jpg",
+    "link": "https://boardgamegeek.com/thing/223931",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "yearPublished": "2017",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.74856",
+    "averageWeight": "2.2609",
+    "boardGameRank": "1584",
+    "mechanics": [
+      "Cooperative Game",
+      "Narrative Choice / Paragraph",
+      "Storytelling"
+    ],
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Novel-based",
+      "Post-Napoleonic",
+      "Puzzle",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Thomas Cauët",
+      "Raymond Edwards",
+      "Suzanne Goldberg",
+      "Gary Grady"
+    ]
+  }
+}

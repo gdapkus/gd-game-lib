@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-02T06:38:02.553Z",
+  "gameDetails": {
+    "id": "265377",
+    "name": "Welcome To...: Halloween Thematic Neighborhood",
+    "type": "boardgameexpansion",
+    "description": "Thematic Neighborhood Sheet Packs serve as refill packs for the base game. They are more than just some pretty decorations for the neighborhood. These packs come with new ways to score as well! Each pack comes with 3 associated city plan cards.&#10;&#10;WELCOME TO... HALLOWEEN!&#10;In this spooky neighborhood when players build houses they get to choose a trick or a treat, circling either a ghost or a candy. The first player to reach a certain amount of ghosts or candies can declare it to use the bonus. Once used, it's no longer available to other players; who will then cross the bonus off. Only 1 ghost and 1 candy bonus per player!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/vkkyiHwMY8tqtqWdcUI7qQ__original/img/n13OJbX99GfdGh4VZc62KxD_N0Y=/0x0/filters:format(jpeg)/pic4622455.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vkkyiHwMY8tqtqWdcUI7qQ__small/img/on0jLWU27bShVXspwY330cEjX1I=/fit-in/200x150/filters:strip_icc()/pic4622455.jpg",
+    "link": "https://boardgamegeek.com/thing/265377",
+    "minPlayers": "1",
+    "maxPlayers": "100",
+    "yearPublished": "2019",
+    "playingTime": "25",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      2,
+      6
+    ],
+    "averageRating": "7.41573",
+    "averageWeight": "1.8",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Bingo",
+      "Contracts",
+      "Paper-and-Pencil",
+      "Pattern Building",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "City Building",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Benoit Turpin"
+    ]
+  }
+}

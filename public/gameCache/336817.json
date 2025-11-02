@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-02T06:26:42.783Z",
+  "gameDetails": {
+    "id": "336817",
+    "name": "Lost Ruins of Arnak: Saxophone Promo Card",
+    "type": "boardgameexpansion",
+    "description": "A promo card originally available through Game Boy Geek's 2021 Kickstarter campaign.&#10;Text on the card: Use the effect on the silver side of any or all [Assistant Tile] available on the supply board.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/OIr1Qi3q3A06dJLT_Wq2bg__original/img/dDL-qSKz-_6U-yjy5q4VMElEabc=/0x0/filters:format(jpeg)/pic6122981.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OIr1Qi3q3A06dJLT_Wq2bg__small/img/U1iksCnsHfm2HIgHCgSOpf8RBV0=/fit-in/200x150/filters:strip_icc()/pic6122981.jpg",
+    "link": "https://boardgamegeek.com/thing/336817",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.97774",
+    "averageWeight": "2.2857",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Move Through Deck",
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Resource to Move",
+      "Tile Placement",
+      "Turn Order: Progressive",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Ancient",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": []
+  }
+}

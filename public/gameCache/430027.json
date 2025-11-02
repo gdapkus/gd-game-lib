@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-02T06:26:49.138Z",
+  "gameDetails": {
+    "id": "430027",
+    "name": "SETI: Search for Extraterrestrial Intelligence – Pluto Promo Card",
+    "type": "boardgameexpansion",
+    "description": "A promo card representing Pluto. It reads:&#10;&#10;If you have a probe in the outermost ring, you may use a satellite or lander action to place that probe on Pluto.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/euyc0xp54KtsC0CtptJm_Q__original/img/cnf76WT7v8SGZMAnVz2zU9CJZ0w=/0x0/filters:format(png)/pic8461755.png",
+    "thumbnail": "https://cf.geekdo-images.com/euyc0xp54KtsC0CtptJm_Q__small/img/yiK_qDdp8_PKGE6rsviEM2hZsqw=/fit-in/200x150/filters:strip_icc()/pic8461755.png",
+    "link": "https://boardgamegeek.com/thing/430027",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "160",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "160",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.12845",
+    "averageWeight": "1.4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "End Game Bonuses",
+      "Income",
+      "Multi-Use Cards",
+      "Resource to Move",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Tomáš Holek"
+    ]
+  }
+}

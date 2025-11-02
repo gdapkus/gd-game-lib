@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-02T06:36:01.705Z",
+  "gameDetails": {
+    "id": "420087",
+    "name": "Flip 7",
+    "type": "boardgame",
+    "description": "Flip over cards one by one without flipping the same number twice.&#10;&#10;Sound easy? Think again! This isn't just any deck of cards&hellip; In Flip 7 there's only one 1 card, two 2's, three 3&rsquo;s, etc plus a bunch of special cards that can score you extra points, give you a second chance, or freeze you or your opponents in your tracks.&#10;&#10;Are you the type of player to play it safe and bank points before you bust, or are you going to risk it all and go for the bonus points by flipping over seven in a row? Press your luck meets strategy in this addictive card game that's sure to be the greatest card game you&rsquo;ve ever played!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/YrQxEB9Ef0kQorRApzG5vQ__original/img/hK6k-x_GYfooemrkkRuF0bTvKxE=/0x0/filters:format(jpeg)/pic8780246.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YrQxEB9Ef0kQorRApzG5vQ__small/img/_dNNsSelyw9qUEOIXBRt6PE_1us=/fit-in/200x150/filters:strip_icc()/pic8780246.jpg",
+    "link": "https://boardgamegeek.com/thing/420087",
+    "minPlayers": "3",
+    "maxPlayers": "18",
+    "yearPublished": "2024",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "7.20441",
+    "averageWeight": "1.0425",
+    "boardGameRank": "621",
+    "mechanics": [
+      "Interrupts",
+      "Push Your Luck",
+      "Score-and-Reset Game",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Number",
+      "Party Game"
+    ],
+    "designers": [
+      "Eric Olsen"
+    ]
+  }
+}

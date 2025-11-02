@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-02T06:35:36.498Z",
+  "gameDetails": {
+    "id": "448054",
+    "name": "Arkham Horror: The Card Game – Film Fatale: Scenario Pack",
+    "type": "boardgameexpansion",
+    "description": "Lights, camera, action!&#10;&#10;It&rsquo;s the golden age of silent filmmaking, with instant classics popping up on the silver screen left and right. But when an ambitious new producer unwittingly releases accursed horrors upon three different film sets, it&rsquo;s up to our intrepid investigators to fix things before the credits roll on the entire production!&#10;&#10;In Film Fatale, one to four investigators ham it up in Hollywood&rsquo;s Lot C, where three troubled film sets are host to several bizarre and dangerous events. As spacetime warps and fiction becomes reality, you&rsquo;ll find yourselves negotiating with alien Saturnites, fleeing from hungry dinosaurs, and warding off bloodthirsty vampires as you try to wrap up this thrilling mystery. The scenario can be played on its own or inserted into any campaign as a side-story.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/FghV6acSWH-FIEQ820joMg__original/img/KnN9yuE55_G_570UnyCFa-ieY1s=/0x0/filters:format(png)/pic9017646.png",
+    "thumbnail": "https://cf.geekdo-images.com/FghV6acSWH-FIEQ820joMg__small/img/LbR2khoXnc8R6kTLbu0rLcQaifM=/fit-in/200x150/filters:strip_icc()/pic9017646.png",
+    "link": "https://boardgamegeek.com/thing/448054",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "8.46154",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Horror"
+    ],
+    "designers": [
+      "Josiah Harrist",
+      "Nicholas Kory",
+      "Waleed Ma'arouf"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-02T06:37:59.207Z",
+  "gameDetails": {
+    "id": "204305",
+    "name": "Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures",
+    "type": "boardgame",
+    "description": "Sherlock Holmes Consulting Detective: Jack the Ripper &amp; West End Adventures is a standalone expansion to Sherlock Holmes Consulting Detective with updated graphics that features ten more cases to be solved in Sherlock Holmes' Victorian-era London, England. A &quot;London Directory&quot;, map, and newspaper archives are included with the cases.&#10;&#10;Included are six independent &quot;West End Adventures&quot; cases (redesigned and updated from the 1995 expansion), and a series of four new cases based on the Jack the Ripper murders.&#10;&#10;Jack the Ripper Cases:&#10;&#10;      Mary Ann Nichols&#10;      Annie Chapman&#10;      Elizabeth Stride, Catherine Eddowes&#10;      Mary Jane Kelly&#10;&#10;&#10;West End Adventures:&#10;&#10;      The Strange Case of Dr. Goldfire&#10;      The Murder of Sherlock Holmes&#10;      A Case of Identity&#10;      The Death of a Transylvanian Count&#10;      A Royal Huggermugger at the Savage Club&#10;      A Simple Case of Murder&#10;&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/o3B4ld2Nz9e7wQuRhxJBDw__original/img/z6PE755XxEt8AdNJAlVJnMQoMHs=/0x0/filters:format(jpeg)/pic3238299.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/o3B4ld2Nz9e7wQuRhxJBDw__small/img/bYTNTaCtTbEBVmjcyMcyekgIFio=/fit-in/200x150/filters:strip_icc()/pic3238299.jpg",
+    "link": "https://boardgamegeek.com/thing/204305",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "yearPublished": "2016",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.55613",
+    "averageWeight": "2.2079",
+    "boardGameRank": "529",
+    "mechanics": [
+      "Cooperative Game",
+      "Narrative Choice / Paragraph",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Novel-based",
+      "Post-Napoleonic",
+      "Puzzle",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Suzanne Goldberg",
+      "Gary Grady",
+      "Jérôme Ropert"
+    ]
+  }
+}

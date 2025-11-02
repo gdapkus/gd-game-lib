@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-11-02T06:35:52.262Z",
+  "gameDetails": {
+    "id": "354291",
+    "name": "Earthborne Rangers: Legacy of the Ancestors",
+    "type": "boardgameexpansion",
+    "description": "A campaign expansion, includes a full playset over 250 new Ranger and Valley cards and 1 campaign guide.&#10;&#10;Legacy of the Ancestors features a new story arc that utilizes both the cards and map from the core set as well as the new cards and new maps from the campaign expansion. In it, you&rsquo;ll journey beyond, above, and below the Valley to explore strange new places and forge new paths.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/_DaxNmfqGs-JRdim7yK__g__original/img/X45bAtGL-43Z_MPv2-X4iLNI9F4=/0x0/filters:format(jpeg)/pic7937431.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_DaxNmfqGs-JRdim7yK__g__small/img/pRy_pemGvAgwSwQfYoErkEyKQfc=/fit-in/200x150/filters:strip_icc()/pic7937431.jpg",
+    "link": "https://boardgamegeek.com/thing/354291",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.48088",
+    "averageWeight": "3.6667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Cooperative Game",
+      "Deck Construction",
+      "Hand Management",
+      "Move Through Deck",
+      "Narrative Choice / Paragraph",
+      "Role Playing",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Environmental",
+      "Expansion for Base-game",
+      "Exploration",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Luke Eddy",
+      "Andrew Fischer",
+      "Brooks Flugaur-Leavitt",
+      "Andrew Navaro",
+      "Davi Paulino",
+      "Adam Sadler",
+      "Brady Sadler"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-02T06:26:45.960Z",
+  "gameDetails": {
+    "id": "265256",
+    "name": "PUSH",
+    "type": "boardgame",
+    "description": "Push your luck...But not too far! Rack up points by playing cards to the stacks - but watch out!  You can't repeat a color or number.  Choose when to stop and score the best stack or push your luck and go for more!&#10;&#10;Card Distribution:&#10;&#10;     5 colors - red, blue, yellow, green, purple (90 total)&#10;     Each color has numbers from 1 to 6 with 3 of each number (total of 18 cards per color)&#10;     18 roll cards&#10;     12 switch cards&#10;&#10;&#10;Total cards: 120 (90 colored + 18 roll + 12 switch)&#10;&#10;Card Size: 2-1/2&quot; x 3-1/2&quot; (63mm x 89mm) - Magic the Gathering/Pokemon sized&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/6mcfJ0qM9BW-tVi8ylg_uQ__original/img/oMn0Ds3_LQjE_fjZ1ilPXFMalFo=/0x0/filters:format(jpeg)/pic5197222.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6mcfJ0qM9BW-tVi8ylg_uQ__small/img/IzNmUL12MrsMorQv_kJdANO7Vtg=/fit-in/200x150/filters:strip_icc()/pic5197222.jpg",
+    "link": "https://boardgamegeek.com/thing/265256",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2018",
+    "playingTime": "25",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.80869",
+    "averageWeight": "1.0462",
+    "boardGameRank": "2076",
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Card Game",
+      "Number"
+    ],
+    "designers": [
+      "Prospero Hall",
+      "Brian Kirk"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-02T06:36:11.253Z",
+  "gameDetails": {
+    "id": "439816",
+    "name": "Lost Ruins of Arnak: Twisted Paths",
+    "type": "boardgameexpansion",
+    "description": "Twisted Paths is the final major addition to the world of Arnak. Its highlight is a new double-sided map, bigger than the one in the base game, that features two new research tracks, each with unique mechanisms and components.&#10;&#10;On the map, you can choose to explore its daytime side and scale the white stone of the Owl Temple. It uses unique new temple tiles that, if combined together, can become extra idol slots, and a third research token, a lantern, that brings even stronger research rewards. You can also brave the night and journey through the dark caverns of the Spider Temple. This side uses a new resource, dark tablets, used to invoke mysterious altars and place artifacts directly onto the research track to be used when ascending the track. But beware&mdash;using the dark tablets can give you strong rewards, but also cost you points should you become too ambitious!&#10;&#10;In addition to the two new maps, the expansion also contains new guardians, sites, and assistants. It also brings some solo content&mdash;Rival tiles for the new maps, as well as Purple Rival tiles and Rival Objectives, two mini expansions we&rsquo;ve previously released online as print-and-play.&#10;&#10;Lost Ruins of Arnak: Twisted Paths was previously included in the Adventure Chest, a limited-edition storage box with an original insert designed by CGE.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/LnwY556xbt_3qHIISdG46Q__original/img/b0DOafq2klre5cY0GcBNWfEs1gQ=/0x0/filters:format(jpeg)/pic9094312.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LnwY556xbt_3qHIISdG46Q__small/img/EeFk0zSWBTyxrKHsfeudqNuOrXU=/fit-in/200x150/filters:strip_icc()/pic9094312.jpg",
+    "link": "https://boardgamegeek.com/thing/439816",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      1,
+      3
+    ],
+    "averageRating": "8.78224",
+    "averageWeight": "3.4706",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck Construction",
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Exploration"
+    ],
+    "designers": [
+      "Elwen",
+      "Mín"
+    ]
+  }
+}

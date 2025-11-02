@@ -1,6 +1,324 @@
 {
-  "timestamp": "2025-04-18T05:35:15.817Z",
+  "timestamp": "2025-11-02T06:33:34.785Z",
   "games": [
+    {
+      "id": "429863",
+      "name": "Covenant",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-10-24 18:55:18",
+      "lastmodified": "2025-11-02 01:31:53",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/4XkIFGbIAXtA-pDb6nlvsg__small/img/uQ9etIk8_uvoJuVA9ZzTtNYORKg=/fit-in/200x150/filters:strip_icc()/pic8968542.jpg",
+      "link": "https://boardgamegeek.com/thing/429863",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "100",
+      "minPlayingTime": "100",
+      "maxPlayingTime": "100",
+      "averageRating": "8.07779",
+      "averageWeight": "3.4",
+      "boardGameRank": "6736",
+      "mechanics": [
+        "Action Points",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Worker Placement",
+        "Zone of Control"
+      ],
+      "categories": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "designers": [
+        "Germán P. Millán"
+      ]
+    },
+    {
+      "id": "330579",
+      "name": "Raising Chicago",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2024-10-08 18:52:26",
+      "lastmodified": "2025-11-02 01:31:42",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/cPO2ofKnXr9jbfEdyWxEmw__small/img/o--fxNAx57R04k9zfrZ21oUMUyk=/fit-in/200x150/filters:strip_icc()/pic7974473.jpg",
+      "link": "https://boardgamegeek.com/thing/330579",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 3",
+      "playingTime": "120",
+      "minPlayingTime": "75",
+      "maxPlayingTime": "120",
+      "averageRating": "7.37513",
+      "averageWeight": "3.875",
+      "boardGameRank": "9878",
+      "mechanics": [
+        "Investment",
+        "Tile Placement"
+      ],
+      "categories": [
+        "City Building",
+        "Economic",
+        "Territory Building"
+      ],
+      "designers": [
+        "Matt Wolfe"
+      ]
+    },
+    {
+      "id": "440540",
+      "name": "Take Time",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-10-25 14:03:01",
+      "lastmodified": "2025-11-02 01:31:23",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/h6Bg4PZkapMB-fYfugoBrw__small/img/VZJFm572UpCvVpityT6iywOmlQU=/fit-in/200x150/filters:strip_icc()/pic8751380.png",
+      "link": "https://boardgamegeek.com/thing/440540",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.77547",
+      "averageWeight": "1.6667",
+      "boardGameRank": "3904",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Scenario / Mission / Campaign Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Puzzle"
+      ],
+      "designers": [
+        "Alexi Piovesan",
+        "Julien Prothière"
+      ]
+    },
+    {
+      "id": "424621",
+      "name": "Joyride: Unleashed",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-10-31 05:03:45",
+      "lastmodified": "2025-11-02 01:30:20",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/-DIEPC0qs7N1up5J5L7Knw__small/img/oVvG7_7IgykOSuEJJ06AMBL6uKs=/fit-in/200x150/filters:strip_icc()/pic8306708.jpg",
+      "link": "https://boardgamegeek.com/thing/424621",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.91028",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Race",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Racing"
+      ],
+      "designers": [
+        "Duncan Molloy",
+        "Pete Ward"
+      ]
+    },
+    {
+      "id": "424622",
+      "name": "Joyride: High Seas",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-10-31 05:03:54",
+      "lastmodified": "2025-11-02 01:30:13",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/k7WMpDlSJ9MumfAhX_SLsw__small/img/GEzztqbgsRtWD3yWcIgxI9ujMOY=/fit-in/200x150/filters:strip_icc()/pic8306707.jpg",
+      "link": "https://boardgamegeek.com/thing/424622",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.75864",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Race",
+        "Take That",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Racing"
+      ],
+      "designers": [
+        "Duncan Molloy",
+        "Pete Ward"
+      ]
+    },
+    {
+      "id": "399318",
+      "name": "JOYRIDE DUEL: Next Gen",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-10-31 05:02:40",
+      "lastmodified": "2025-11-02 01:30:03",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/00yYWNtiL4-RkqDmRSao_A__small/img/EPZxUVHGfMbzNKSjo_CFOH-u-GI=/fit-in/200x150/filters:strip_icc()/pic8244594.jpg",
+      "link": "https://boardgamegeek.com/thing/399318",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "40",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "40",
+      "averageRating": "7.67843",
+      "averageWeight": "2",
+      "boardGameRank": "9621",
+      "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Race",
+        "Turn Order: Stat-Based",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Racing"
+      ],
+      "designers": [
+        "Duncan Molloy",
+        "Pete Ward"
+      ]
+    },
+    {
+      "id": "362986",
+      "name": "Tribes of the Wind",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2022-10-07 15:02:15",
+      "lastmodified": "2025-07-04 11:11:05",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/G_moxnKfgJ4w_NGmr9T6Lg__thumb/img/YBNaQ6O-D_ej8czfA3okABmfQjg=/fit-in/200x150/filters:strip_icc()/pic6871609.jpg",
+      "link": "https://boardgamegeek.com/thing/362986",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "90",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "90",
+      "averageRating": "7.37376",
+      "averageWeight": "2.6458",
+      "boardGameRank": "1334",
+      "mechanics": [
+        "Closed Drafting",
+        "Contracts",
+        "End Game Bonuses",
+        "Grid Coverage",
+        "Hand Management",
+        "Movement Points",
+        "Neighbor Scope",
+        "Race",
+        "Set Collection",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Card Game",
+        "Civilization",
+        "Environmental"
+      ],
+      "designers": [
+        "Joachim Thôme"
+      ]
+    },
+    {
+      "id": "152237",
+      "name": "Pairs",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2025-06-29 19:15:03",
+      "lastmodified": "2025-07-02 11:19:47",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/-6Hzw9SmWRz69EEYdzKAzA__thumb/img/3M5FmFCWCzqxRzytsJZiEf80fGs=/fit-in/200x150/filters:strip_icc()/pic2618391.jpg",
+      "link": "https://boardgamegeek.com/thing/152237",
+      "minPlayers": "2",
+      "maxPlayers": "8",
+      "bestAtCount": "5, 6",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.32706",
+      "averageWeight": "1.1346",
+      "boardGameRank": "3494",
+      "mechanics": [
+        "Push Your Luck",
+        "Score-and-Reset Game",
+        "Single Loser Game"
+      ],
+      "categories": [
+        "Card Game"
+      ],
+      "designers": [
+        "James Ernest",
+        "Paul Peterson",
+        "Heinrich Glumpler"
+      ]
+    },
+    {
+      "id": "374542",
+      "name": "Planepita",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2025-07-02 11:18:33",
+      "lastmodified": "2025-07-02 11:19:21",
+      "myrating": null,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/MIyukZdI6ROZ-ceCqudt0w__thumb/img/8LcHcd1JD_M1G3P3FC6Q5kwx3xM=/fit-in/200x150/filters:strip_icc()/pic9048723.png",
+      "link": "https://boardgamegeek.com/thing/374542",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "7.1037",
+      "averageWeight": "1.5714",
+      "boardGameRank": "10907",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Flicking"
+      ],
+      "categories": [
+        "Action / Dexterity"
+      ],
+      "designers": [
+        "Eisuke Fujinawa (藤縄英佑)",
+        "Kazunori Hori (堀和紀)"
+      ]
+    },
     {
       "id": "266722",
       "name": "Rumble Nation",
@@ -3227,47 +3545,6 @@
       ],
       "designers": [
         "Dan Cassar"
-      ]
-    },
-    {
-      "id": "362986",
-      "name": "Tribes of the Wind",
-      "yearPublished": "2022",
-      "type": "boardgame",
-      "postdate": "2022-10-07 15:02:15",
-      "lastmodified": "2024-01-05 05:00:17",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/G_moxnKfgJ4w_NGmr9T6Lg__thumb/img/YBNaQ6O-D_ej8czfA3okABmfQjg=/fit-in/200x150/filters:strip_icc()/pic6871609.jpg",
-      "link": "https://boardgamegeek.com/thing/362986",
-      "minPlayers": "2",
-      "maxPlayers": "5",
-      "bestAtCount": "3",
-      "playingTime": "90",
-      "minPlayingTime": "40",
-      "maxPlayingTime": "90",
-      "averageRating": "7.37376",
-      "averageWeight": "2.6458",
-      "boardGameRank": "1334",
-      "mechanics": [
-        "Closed Drafting",
-        "Contracts",
-        "End Game Bonuses",
-        "Grid Coverage",
-        "Hand Management",
-        "Movement Points",
-        "Neighbor Scope",
-        "Race",
-        "Set Collection",
-        "Tile Placement"
-      ],
-      "categories": [
-        "Card Game",
-        "Civilization",
-        "Environmental"
-      ],
-      "designers": [
-        "Joachim Thôme"
       ]
     },
     {

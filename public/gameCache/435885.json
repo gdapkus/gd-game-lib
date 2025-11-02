@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-11-02T06:26:39.621Z",
+  "gameDetails": {
+    "id": "435885",
+    "name": "Kollide",
+    "type": "boardgame",
+    "description": "Don't let the magnets Kollide! Kollide is the game of magnetic attraction &mdash; you'll have to place your magnets carefully within the battlefield without letting them link up! As the tension builds, each move becomes more critical. Test the limits of nature with Kollide!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/GKoEVOWXGSUOeXjyFj7ToQ__original/img/k2kLM93gqJGhWw1e3X9jvf2AvQo=/0x0/filters:format(jpeg)/pic8618271.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GKoEVOWXGSUOeXjyFj7ToQ__small/img/q4J-kaQV1hHT6asShbW_bGP9FiM=/fit-in/200x150/filters:strip_icc()/pic8618271.jpg",
+    "link": "https://boardgamegeek.com/thing/435885",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "5.65278",
+    "averageWeight": "1",
+    "boardGameRank": "24634",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity"
+    ],
+    "designers": []
+  }
+}

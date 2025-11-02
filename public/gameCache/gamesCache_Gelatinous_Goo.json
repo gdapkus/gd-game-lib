@@ -1,6 +1,748 @@
 {
-  "timestamp": "2025-03-20T05:39:52.138Z",
+  "timestamp": "2025-11-02T06:40:08.005Z",
   "games": [
+    {
+      "id": "439816",
+      "name": "Lost Ruins of Arnak: Twisted Paths",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-03-14 17:55:34",
+      "lastmodified": "2025-09-05 19:27:11",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/LnwY556xbt_3qHIISdG46Q__small/img/EeFk0zSWBTyxrKHsfeudqNuOrXU=/fit-in/200x150/filters:strip_icc()/pic9094312.jpg",
+      "link": "https://boardgamegeek.com/thing/439816",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 3",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "8.78224",
+      "averageWeight": "3.4706",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck Construction",
+        "Deck, Bag, and Pool Building",
+        "Open Drafting",
+        "Solo / Solitaire Game",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Exploration"
+      ],
+      "designers": [
+        "Elwen",
+        "Mín"
+      ]
+    },
+    {
+      "id": "447650",
+      "name": "Marvel Champions: The Card Game – Trickster Takeover Scenario Pack",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-08-28 11:37:08",
+      "lastmodified": "2025-09-05 17:06:56",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/5T_bbPq1gTBD9bkEcYGt8A__small/img/GLqhnKFe9c6qHZSoPu4WL9NAncg=/fit-in/200x150/filters:strip_icc()/pic9017638.png",
+      "link": "https://boardgamegeek.com/thing/447650",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "8.10727",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Comic Book / Strip"
+      ],
+      "designers": [
+        "Michael Boggs"
+      ]
+    },
+    {
+      "id": "448054",
+      "name": "Arkham Horror: The Card Game – Film Fatale: Scenario Pack",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-09-05 17:06:31",
+      "lastmodified": "2025-09-05 17:06:31",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/FghV6acSWH-FIEQ820joMg__small/img/LbR2khoXnc8R6kTLbu0rLcQaifM=/fit-in/200x150/filters:strip_icc()/pic9017646.png",
+      "link": "https://boardgamegeek.com/thing/448054",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.46154",
+      "averageWeight": "4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Horror"
+      ],
+      "designers": [
+        "Josiah Harrist",
+        "Nicholas Kory",
+        "Waleed Ma'arouf"
+      ]
+    },
+    {
+      "id": "426008",
+      "name": "Marvel Champions: The Card Game – Magneto Hero Pack",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-08-28 11:37:39",
+      "lastmodified": "2025-08-28 11:37:39",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/yCMCWxOCsnAT5lrcKPYwfQ__small/img/P0HMZf04QS33sXzuPh3nkhW__cA=/fit-in/200x150/filters:strip_icc()/pic8360863.png",
+      "link": "https://boardgamegeek.com/thing/426008",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.46187",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Collectible Components",
+        "Comic Book / Strip"
+      ],
+      "designers": []
+    },
+    {
+      "id": "430260",
+      "name": "Marvel Champions: The Card Game – Agents of S.H.I.E.L.D.",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-08-28 11:37:36",
+      "lastmodified": "2025-08-28 11:37:37",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/0-M8lF8gp0RjCy0-U2wWtQ__small/img/K-IHdeOMZRIWM2Gne2crwfZ1RkE=/fit-in/200x150/filters:strip_icc()/pic8891218.jpg",
+      "link": "https://boardgamegeek.com/thing/430260",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "8.60253",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Collectible Components",
+        "Comic Book / Strip"
+      ],
+      "designers": [
+        "Tony Fanchi"
+      ]
+    },
+    {
+      "id": "446592",
+      "name": "Marvel Champions: The Card Game – Falcon Hero Pack",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-07-12 17:55:34",
+      "lastmodified": "2025-07-12 17:55:34",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Wt0cavpVWl0qBYjs7g-PYg__small/img/TJXe_7EOLgM10TzemJHlg--S3xA=/fit-in/200x150/filters:strip_icc()/pic8933248.png",
+      "link": "https://boardgamegeek.com/thing/446592",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "120",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "120",
+      "averageRating": "8.18298",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck Construction",
+        "Events",
+        "Multi-Use Cards"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Nate French",
+        "Caleb Grace"
+      ]
+    },
+    {
+      "id": "446593",
+      "name": "Marvel Champions: The Card Game – Winter Soldier Hero Pack",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-07-12 17:55:30",
+      "lastmodified": "2025-07-12 17:55:30",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/TsTqq2e4U7lzXl9xb_VZAQ__small/img/X6BqhJWGY4IIF52rBTB8LZrqQaA=/fit-in/200x150/filters:strip_icc()/pic8933267.png",
+      "link": "https://boardgamegeek.com/thing/446593",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "120",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "120",
+      "averageRating": "8.56382",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck Construction",
+        "Events",
+        "Multi-Use Cards"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Nate French",
+        "Caleb Grace"
+      ]
+    },
+    {
+      "id": "428880",
+      "name": "Arkham Horror: The Card Game – The Drowned City: Investigator Expansion",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-07-12 17:54:44",
+      "lastmodified": "2025-07-12 17:54:44",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/EozYG4PZNpZ3vWyys6LMtA__small/img/RE8tRtpRUCm5IkC3B0u4yEz3GTA=/fit-in/200x150/filters:strip_icc()/pic8641090.png",
+      "link": "https://boardgamegeek.com/thing/428880",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "180",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "180",
+      "averageRating": "8.94103",
+      "averageWeight": "3.6667",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Josiah Harrist",
+        "Waleed Ma'arouf"
+      ]
+    },
+    {
+      "id": "152237",
+      "name": "Pairs",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2025-06-29 20:38:09",
+      "lastmodified": "2025-06-29 20:39:59",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/-6Hzw9SmWRz69EEYdzKAzA__thumb/img/3M5FmFCWCzqxRzytsJZiEf80fGs=/fit-in/200x150/filters:strip_icc()/pic2618391.jpg",
+      "link": "https://boardgamegeek.com/thing/152237",
+      "minPlayers": "2",
+      "maxPlayers": "8",
+      "bestAtCount": "5, 6",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.32706",
+      "averageWeight": "1.1346",
+      "boardGameRank": "3494",
+      "mechanics": [
+        "Push Your Luck",
+        "Score-and-Reset Game",
+        "Single Loser Game"
+      ],
+      "categories": [
+        "Card Game"
+      ],
+      "designers": [
+        "James Ernest",
+        "Paul Peterson",
+        "Heinrich Glumpler"
+      ]
+    },
+    {
+      "id": "336794",
+      "name": "Galaxy Trucker (Second Edition)",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2021-12-26 15:23:11",
+      "lastmodified": "2025-06-15 18:40:47",
+      "myrating": null,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/1gQABuftAVgk1qshkMyDEw__small/img/Ovni6sWuvyfj9LWn-hnHzpCELF8=/fit-in/200x150/filters:strip_icc()/pic6125184.jpg",
+      "link": "https://boardgamegeek.com/thing/336794",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "7.41735",
+      "averageWeight": "2.2845",
+      "boardGameRank": "630",
+      "mechanics": [
+        "Dice Rolling",
+        "Events",
+        "Real-Time",
+        "Relative Movement",
+        "Tile Placement",
+        "Track Movement"
+      ],
+      "categories": [
+        "Adventure",
+        "Aviation / Flight",
+        "Dice",
+        "Humor",
+        "Real-time",
+        "Science Fiction",
+        "Space Exploration",
+        "Transportation"
+      ],
+      "designers": [
+        "Vlaada Chvátil"
+      ]
+    },
+    {
+      "id": "420087",
+      "name": "Flip 7",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-06-15 18:40:20",
+      "lastmodified": "2025-06-15 18:40:20",
+      "myrating": null,
+      "numplays": "8",
+      "thumbnail": "https://cf.geekdo-images.com/YrQxEB9Ef0kQorRApzG5vQ__small/img/_dNNsSelyw9qUEOIXBRt6PE_1us=/fit-in/200x150/filters:strip_icc()/pic8780246.jpg",
+      "link": "https://boardgamegeek.com/thing/420087",
+      "minPlayers": "3",
+      "maxPlayers": "18",
+      "bestAtCount": "5, 6",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "7.20441",
+      "averageWeight": "1.0425",
+      "boardGameRank": "621",
+      "mechanics": [
+        "Interrupts",
+        "Push Your Luck",
+        "Score-and-Reset Game",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Number",
+        "Party Game"
+      ],
+      "designers": [
+        "Eric Olsen"
+      ]
+    },
+    {
+      "id": "412737",
+      "name": "Earthborne Rangers: Moments on the Path",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2024-02-06 23:05:51",
+      "lastmodified": "2025-06-13 11:35:19",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/jY-GuqXoHt0IGULqKNrc3A__small/img/VF2zNQ1Gzn2aDD-5QzMOtPZxJ8w=/fit-in/200x150/filters:strip_icc()/pic8014067.png",
+      "link": "https://boardgamegeek.com/thing/412737",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.2619",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Cooperative Game",
+        "Move Through Deck",
+        "Narrative Choice / Paragraph",
+        "Role Playing",
+        "Solo / Solitaire Game",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Environmental",
+        "Exploration",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Davi Paulino"
+      ]
+    },
+    {
+      "id": "400328",
+      "name": "Earthborne Rangers: Stewards of the Valley",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2024-02-06 23:05:46",
+      "lastmodified": "2025-06-13 11:35:03",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/X6cXdv8ZY3IVlHCrHsqAOg__small/img/XWJoBEiL0Gj8oCivk0kU1qhbmmY=/fit-in/200x150/filters:strip_icc()/pic7932606.jpg",
+      "link": "https://boardgamegeek.com/thing/400328",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.61806",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Move Through Deck",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Card Game",
+        "Environmental",
+        "Exploration",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Davi Paulino"
+      ]
+    },
+    {
+      "id": "354291",
+      "name": "Earthborne Rangers: Legacy of the Ancestors",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2023-11-18 11:14:59",
+      "lastmodified": "2025-06-13 11:34:54",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/_DaxNmfqGs-JRdim7yK__g__small/img/pRy_pemGvAgwSwQfYoErkEyKQfc=/fit-in/200x150/filters:strip_icc()/pic7937431.jpg",
+      "link": "https://boardgamegeek.com/thing/354291",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.48088",
+      "averageWeight": "3.6667",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Move Through Deck",
+        "Narrative Choice / Paragraph",
+        "Role Playing",
+        "Solo / Solitaire Game",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Adventure",
+        "Card Game",
+        "Environmental",
+        "Expansion for Base-game",
+        "Exploration",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Luke Eddy",
+        "Andrew Fischer",
+        "Brooks Flugaur-Leavitt",
+        "Andrew Navaro",
+        "Davi Paulino",
+        "Adam Sadler",
+        "Brady Sadler"
+      ]
+    },
+    {
+      "id": "439508",
+      "name": "Marvel Champions: The Card Game – Silk Hero Pack",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-05-04 15:03:05",
+      "lastmodified": "2025-05-04 15:03:05",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/QkRGz6PO3D-mYSMojB5uOw__small/img/jFHx5g6W1dctlAyoTalY5lnKBh0=/fit-in/200x150/filters:strip_icc()/pic8828107.png",
+      "link": "https://boardgamegeek.com/thing/439508",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 2",
+      "playingTime": "120",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "120",
+      "averageRating": "8.19311",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Chaining",
+        "Deck Construction",
+        "Scenario / Mission / Campaign Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Math",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Michael Boggs",
+        "Caleb Grace"
+      ]
+    },
+    {
+      "id": "438671",
+      "name": "Marvel Champions: The Card Game – Black Panther Hero Pack",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-05-04 15:02:40",
+      "lastmodified": "2025-05-04 15:02:40",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/iQpHEvhT_NKyY-j6z1U_Rw__small/img/jLf4DN_ht9zuE8MyY4jBFqroIAI=/fit-in/200x150/filters:strip_icc()/pic8828101.png",
+      "link": "https://boardgamegeek.com/thing/438671",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 2",
+      "playingTime": "120",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "120",
+      "averageRating": "8.09144",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Deck Construction",
+        "Events",
+        "Multi-Use Cards"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Nate French",
+        "Caleb Grace"
+      ]
+    },
+    {
+      "id": "428879",
+      "name": "Arkham Horror: The Card Game – The Drowned City: Campaign Expansion",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-05-04 15:02:04",
+      "lastmodified": "2025-05-04 15:02:04",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/Cg0pbDdySDtnaf4U3LrCPg__small/img/jkJ0dZgXoFM9p17pxv_cEPMvqBc=/fit-in/200x150/filters:strip_icc()/pic8426424.png",
+      "link": "https://boardgamegeek.com/thing/428879",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "180",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "180",
+      "averageRating": "7.79929",
+      "averageWeight": "3.4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Josiah Harrist",
+        "Nicholas Kory",
+        "Waleed Ma'arouf"
+      ]
+    },
+    {
+      "id": "406652",
+      "name": "Compile: Main 1",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-10-26 02:27:40",
+      "lastmodified": "2025-04-30 16:47:12",
+      "myrating": null,
+      "numplays": "4",
+      "thumbnail": "https://cf.geekdo-images.com/KMSUmBs9elKj4qBMxGVFgw__small/img/3WDRoqcgMnl-Xd-KBnXkZdpVdPc=/fit-in/200x150/filters:strip_icc()/pic8778267.png",
+      "link": "https://boardgamegeek.com/thing/406652",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "7.91458",
+      "averageWeight": "2.3095",
+      "boardGameRank": "943",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Card Play Conflict Resolution",
+        "Deck Construction",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Race"
+      ],
+      "categories": [
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "1278",
+      "name": "Dutch InterCity",
+      "yearPublished": "1999",
+      "type": "boardgame",
+      "postdate": "2023-10-20 16:33:53",
+      "lastmodified": "2025-04-30 16:46:53",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/mkqZ_ZLOOKh-u1ht6d4CkA__small/img/dZzvNswD6VjzOrqftrUeEgpqCVo=/fit-in/200x150/filters:strip_icc()/pic7780116.png",
+      "link": "https://boardgamegeek.com/thing/1278",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "6.99191",
+      "averageWeight": "2.6667",
+      "boardGameRank": "7362",
+      "mechanics": [
+        "Auction / Bidding",
+        "Simultaneous Action Selection",
+        "Stock Holding"
+      ],
+      "categories": [
+        "Trains"
+      ],
+      "designers": [
+        "Han Heidema"
+      ]
+    },
+    {
+      "id": "425071",
+      "name": "The Lord of the Rings: The Card Game – The Return of the King: Saga Expansion",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2024-07-18 15:51:40",
+      "lastmodified": "2025-04-30 16:46:47",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/1QUhJWwCmW1xAYS4Jz9uVg__small/img/UcJQuKCmAeLGccvzMfRF2ailQaY=/fit-in/200x150/filters:strip_icc()/pic8962301.jpg",
+      "link": "https://boardgamegeek.com/thing/425071",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "8.83333",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Cooperative Game",
+        "Deck Construction",
+        "Events",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Novel-based"
+      ],
+      "designers": [
+        "Nate French",
+        "Caleb Grace"
+      ]
+    },
     {
       "id": "401978",
       "name": "Undaunted 2200: Callisto",

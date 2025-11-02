@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-02T06:36:23.778Z",
+  "gameDetails": {
+    "id": "426008",
+    "name": "Marvel Champions: The Card Game – Magneto Hero Pack",
+    "type": "boardgameexpansion",
+    "description": "Formerly the X-Men&rsquo;s greatest foe, Erik Lehnsherr&mdash;better known as Magneto&mdash;renounced his villainous ways and took up his friend Xavier&rsquo;s dream of peaceful coexistence between mutants and humans. Now, he fights alongside the X-Men as a hero in his own right, and he&rsquo;s commanding his way into your games of Marvel Champions: The Card Game! With his iconic power over magnetism allowing him to pull his signature cards from his deck every turn, Magneto is a versatile and powerful hero that can sway the battle in your favor. Within this Hero Pack, you will find Magneto, his fifteen signature cards, and a full assortment of Leadership cards inviting you to command your allies in battle. This pack also includes a bonus modular encounter set featuring the notorious Hellfire Club!&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/yCMCWxOCsnAT5lrcKPYwfQ__original/img/GF2xqCdl2Akgqd474p2FYlqvsrw=/0x0/filters:format(png)/pic8360863.png",
+    "thumbnail": "https://cf.geekdo-images.com/yCMCWxOCsnAT5lrcKPYwfQ__small/img/P0HMZf04QS33sXzuPh3nkhW__cA=/fit-in/200x150/filters:strip_icc()/pic8360863.png",
+    "link": "https://boardgamegeek.com/thing/426008",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "8.46187",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck Construction",
+      "Hand Management",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Collectible Components",
+      "Comic Book / Strip"
+    ],
+    "designers": []
+  }
+}

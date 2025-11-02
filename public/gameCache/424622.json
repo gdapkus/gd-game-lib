@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-02T06:33:15.646Z",
+  "gameDetails": {
+    "id": "424622",
+    "name": "Joyride: High Seas",
+    "type": "boardgameexpansion",
+    "description": "With the Joyride: High Seas expansion,&#10;&#10;&#10;    Be a menace on the track with the Pirate Van, stealing items from other racers then fleeing the scene at speed.&#10;    Use the Harpoon to reposition other cars at a distance, or drop the Anchor for a high-stakes emergency brake.&#10;    Place boost strips around the track to give racers a surge of speed whether they like it or not! &#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/k7WMpDlSJ9MumfAhX_SLsw__original/img/LEn8LVj25RNu-1uBxOlpZp3sGSc=/0x0/filters:format(jpeg)/pic8306707.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/k7WMpDlSJ9MumfAhX_SLsw__small/img/GEzztqbgsRtWD3yWcIgxI9ujMOY=/fit-in/200x150/filters:strip_icc()/pic8306707.jpg",
+    "link": "https://boardgamegeek.com/thing/424622",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "7.75864",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Take That",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Racing"
+    ],
+    "designers": [
+      "Duncan Molloy",
+      "Pete Ward"
+    ]
+  }
+}

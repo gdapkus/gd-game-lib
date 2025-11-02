@@ -1,14 +1,526 @@
 {
-  "timestamp": "2025-04-18T05:32:58.559Z",
+  "timestamp": "2025-11-02T06:27:13.136Z",
   "games": [
+    {
+      "id": "430027",
+      "name": "SETI: Search for Extraterrestrial Intelligence – Pluto Promo Card",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-05-08 08:57:10",
+      "lastmodified": "2025-10-21 21:08:39",
+      "myrating": 7,
+      "numplays": "3",
+      "thumbnail": "https://cf.geekdo-images.com/euyc0xp54KtsC0CtptJm_Q__small/img/yiK_qDdp8_PKGE6rsviEM2hZsqw=/fit-in/200x150/filters:strip_icc()/pic8461755.png",
+      "link": "https://boardgamegeek.com/thing/430027",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "160",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "160",
+      "averageRating": "8.12845",
+      "averageWeight": "1.4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "End Game Bonuses",
+        "Income",
+        "Multi-Use Cards",
+        "Resource to Move",
+        "Solo / Solitaire Game",
+        "Turn Order: Progressive",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "435885",
+      "name": "Kollide",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-06-11 18:27:27",
+      "lastmodified": "2025-10-21 21:07:57",
+      "myrating": 4,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/GKoEVOWXGSUOeXjyFj7ToQ__small/img/q4J-kaQV1hHT6asShbW_bGP9FiM=/fit-in/200x150/filters:strip_icc()/pic8618271.jpg",
+      "link": "https://boardgamegeek.com/thing/435885",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "90",
+      "averageRating": "5.65278",
+      "averageWeight": "1",
+      "boardGameRank": "24634",
+      "mechanics": [],
+      "categories": [
+        "Action / Dexterity"
+      ],
+      "designers": []
+    },
+    {
+      "id": "265256",
+      "name": "PUSH",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2025-04-27 15:36:30",
+      "lastmodified": "2025-10-21 21:07:43",
+      "myrating": 4,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/6mcfJ0qM9BW-tVi8ylg_uQ__small/img/IzNmUL12MrsMorQv_kJdANO7Vtg=/fit-in/200x150/filters:strip_icc()/pic5197222.jpg",
+      "link": "https://boardgamegeek.com/thing/265256",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "25",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "25",
+      "averageRating": "6.80869",
+      "averageWeight": "1.0462",
+      "boardGameRank": "2076",
+      "mechanics": [
+        "Dice Rolling",
+        "Open Drafting",
+        "Push Your Luck"
+      ],
+      "categories": [
+        "Card Game",
+        "Number"
+      ],
+      "designers": [
+        "Prospero Hall",
+        "Brian Kirk"
+      ]
+    },
+    {
+      "id": "294612",
+      "name": "Unlock!: Epic Adventures",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2024-05-18 19:59:10",
+      "lastmodified": "2025-10-21 21:06:22",
+      "myrating": 7,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/NNVWKOGOKLIkjXvhZKA_Dg__thumb/img/IepFDkC6ngdTCAosPTFwvpLvohc=/fit-in/200x150/filters:strip_icc()/pic5009100.jpg",
+      "link": "https://boardgamegeek.com/thing/294612",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.71117",
+      "averageWeight": "2.1579",
+      "boardGameRank": "898",
+      "mechanics": [
+        "Cooperative Game",
+        "Real-Time",
+        "Scenario / Mission / Campaign Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Exploration",
+        "Puzzle",
+        "Real-time"
+      ],
+      "designers": [
+        "Mathieu Casnin",
+        "Mathieu Cassin",
+        "Cyril Demaegd",
+        "Guilaine Didier",
+        "Gabriel Durnerin",
+        "Luna Marie",
+        "Théo Rivière"
+      ]
+    },
+    {
+      "id": "359029",
+      "name": "Nekojima",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2024-04-30 16:32:48",
+      "lastmodified": "2025-10-21 21:02:23",
+      "myrating": 7,
+      "numplays": "9",
+      "thumbnail": "https://cf.geekdo-images.com/_HROmDrsHuVpvHVyXpyl6Q__thumb/img/tUgGbmzOP27H2Vhjop_drDkS8m4=/fit-in/200x150/filters:strip_icc()/pic7344964.jpg",
+      "link": "https://boardgamegeek.com/thing/359029",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "7.26034",
+      "averageWeight": "1.0667",
+      "boardGameRank": "2261",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Single Loser Game",
+        "Solo / Solitaire Game",
+        "Stacking and Balancing"
+      ],
+      "categories": [
+        "Action / Dexterity",
+        "Party Game"
+      ],
+      "designers": [
+        "David Carmona",
+        "Karen Nguyen"
+      ]
+    },
+    {
+      "id": "396948",
+      "name": "Age of Steam Deluxe: Expansion Volume IV",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2023-10-19 22:51:48",
+      "lastmodified": "2025-10-21 20:59:36",
+      "myrating": 8,
+      "numplays": "2",
+      "thumbnail": "https://cf.geekdo-images.com/q3XbFwRvi9coqC7ubP5umg__thumb/img/r4uRYoHr1rD1zMyjhlEirhPTUbI=/fit-in/200x150/filters:strip_icc()/pic8403649.png",
+      "link": "https://boardgamegeek.com/thing/396948",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "N/A",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "8.02941",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Auction / Bidding",
+        "Catch the Leader",
+        "Connections",
+        "Loans",
+        "Network and Route Building",
+        "Selection Order Bid",
+        "Tile Placement",
+        "Turn Order: Auction"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Economic",
+        "Trains",
+        "Transportation"
+      ],
+      "designers": [
+        "Ted Alspach",
+        "John Bohrer",
+        "Randal Lloyd",
+        "Dylan D. Phillips"
+      ]
+    },
+    {
+      "id": "152237",
+      "name": "Pairs",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2025-06-28 15:06:57",
+      "lastmodified": "2025-06-28 15:06:57",
+      "myrating": null,
+      "numplays": "18",
+      "thumbnail": "https://cf.geekdo-images.com/-6Hzw9SmWRz69EEYdzKAzA__thumb/img/3M5FmFCWCzqxRzytsJZiEf80fGs=/fit-in/200x150/filters:strip_icc()/pic2618391.jpg",
+      "link": "https://boardgamegeek.com/thing/152237",
+      "minPlayers": "2",
+      "maxPlayers": "8",
+      "bestAtCount": "5, 6",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.32706",
+      "averageWeight": "1.1346",
+      "boardGameRank": "3494",
+      "mechanics": [
+        "Push Your Luck",
+        "Score-and-Reset Game",
+        "Single Loser Game"
+      ],
+      "categories": [
+        "Card Game"
+      ],
+      "designers": [
+        "James Ernest",
+        "Paul Peterson",
+        "Heinrich Glumpler"
+      ]
+    },
+    {
+      "id": "341254",
+      "name": "Lost Ruins of Arnak: Expedition Leaders",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2024-04-17 22:51:05",
+      "lastmodified": "2025-05-08 08:59:59",
+      "myrating": 7,
+      "numplays": "4",
+      "thumbnail": "https://cf.geekdo-images.com/U4aoXbKATU7YbA8bAT73FQ__thumb/img/g0aac2-OQvMbEPXv1vIvSumPmkA=/fit-in/200x150/filters:strip_icc()/pic6253876.png",
+      "link": "https://boardgamegeek.com/thing/341254",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "8.70331",
+      "averageWeight": "3.1176",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Open Drafting",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Ancient",
+        "Exploration",
+        "Travel"
+      ],
+      "designers": [
+        "Elwen",
+        "Mín"
+      ]
+    },
+    {
+      "id": "336817",
+      "name": "Lost Ruins of Arnak: Saxophone Promo Card",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2025-05-08 08:59:20",
+      "lastmodified": "2025-05-08 08:59:20",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/OIr1Qi3q3A06dJLT_Wq2bg__small/img/U1iksCnsHfm2HIgHCgSOpf8RBV0=/fit-in/200x150/filters:strip_icc()/pic6122981.jpg",
+      "link": "https://boardgamegeek.com/thing/336817",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "7.97774",
+      "averageWeight": "2.2857",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Move Through Deck",
+        "Once-Per-Game Abilities",
+        "Open Drafting",
+        "Resource to Move",
+        "Tile Placement",
+        "Turn Order: Progressive",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Ancient",
+        "Exploration",
+        "Travel"
+      ],
+      "designers": []
+    },
+    {
+      "id": "312484",
+      "name": "Lost Ruins of Arnak",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2022-03-07 00:31:21",
+      "lastmodified": "2025-05-08 08:58:48",
+      "myrating": 9,
+      "numplays": "42",
+      "thumbnail": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__thumb/img/J8SVmGOJXZGxNjkT3xYNQU7Haxg=/fit-in/200x150/filters:strip_icc()/pic5674958.jpg",
+      "link": "https://boardgamegeek.com/thing/312484",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "8.07188",
+      "averageWeight": "2.922",
+      "boardGameRank": "29",
+      "mechanics": [
+        "Contracts",
+        "Deck, Bag, and Pool Building",
+        "Market",
+        "Multi-Use Cards",
+        "Once-Per-Game Abilities",
+        "Resource to Move",
+        "Solo / Solitaire Game",
+        "Turn Order: Progressive",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Adventure",
+        "Ancient",
+        "Exploration",
+        "Fantasy",
+        "Travel"
+      ],
+      "designers": [
+        "Elwen",
+        "Mín"
+      ]
+    },
+    {
+      "id": "418059",
+      "name": "SETI: Search for Extraterrestrial Intelligence",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-04-17 18:26:54",
+      "lastmodified": "2025-05-08 08:58:01",
+      "myrating": 9,
+      "numplays": "12",
+      "thumbnail": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__thumb/img/icamIZ4nP3HHH3vczZqTr1hQgKY=/fit-in/200x150/filters:strip_icc()/pic8160466.jpg",
+      "link": "https://boardgamegeek.com/thing/418059",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "160",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "160",
+      "averageRating": "8.37872",
+      "averageWeight": "3.7",
+      "boardGameRank": "433",
+      "mechanics": [
+        "End Game Bonuses",
+        "Income",
+        "Multi-Use Cards",
+        "Resource to Move",
+        "Solo / Solitaire Game",
+        "Turn Order: Progressive",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "263918",
+      "name": "Cartographers",
+      "yearPublished": "2019",
+      "type": "boardgame",
+      "postdate": "2025-01-31 16:15:52",
+      "lastmodified": "2025-04-26 19:02:40",
+      "myrating": 7,
+      "numplays": "14",
+      "thumbnail": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE=/fit-in/200x150/filters:strip_icc()/pic4397932.png",
+      "link": "https://boardgamegeek.com/thing/263918",
+      "minPlayers": "1",
+      "maxPlayers": "100",
+      "bestAtCount": "3, 4",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.59002",
+      "averageWeight": "1.8769",
+      "boardGameRank": "156",
+      "mechanics": [
+        "Bingo",
+        "End Game Bonuses",
+        "Grid Coverage",
+        "Paper-and-Pencil",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Fantasy",
+        "Territory Building"
+      ],
+      "designers": [
+        "Jordy Adan"
+      ]
+    },
+    {
+      "id": "421374",
+      "name": "Landmarks",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-01-31 17:29:33",
+      "lastmodified": "2025-04-26 19:01:05",
+      "myrating": 6,
+      "numplays": "6",
+      "thumbnail": "https://cf.geekdo-images.com/lWsfPuN_lBnHs6gGgP-qtA__thumb/img/8-wv3nol4TgxC4QDxrz7fXy2AL0=/fit-in/200x150/filters:strip_icc()/pic8268411.png",
+      "link": "https://boardgamegeek.com/thing/421374",
+      "minPlayers": "2",
+      "maxPlayers": "10",
+      "bestAtCount": "2, 4",
+      "playingTime": "20",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "20",
+      "averageRating": "6.9811",
+      "averageWeight": "1.4",
+      "boardGameRank": "5018",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Word Game"
+      ],
+      "designers": [
+        "Rodrigo Rego",
+        "Danilo Valente"
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Can't Stop",
+      "yearPublished": "1980",
+      "type": "boardgame",
+      "postdate": "2013-06-28 16:37:15",
+      "lastmodified": "2025-04-26 19:00:33",
+      "myrating": 6,
+      "numplays": "33",
+      "thumbnail": "https://cf.geekdo-images.com/nMitZr9Lu4Ux7LLqBy7Z8A__thumb/img/mLHWOFfdxrWljImkFZ2ulIhHt7A=/fit-in/200x150/filters:strip_icc()/pic6875169.png",
+      "link": "https://boardgamegeek.com/thing/41",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.92059",
+      "averageWeight": "1.146",
+      "boardGameRank": "767",
+      "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Race"
+      ],
+      "categories": [
+        "Dice"
+      ],
+      "designers": [
+        "Sid Sackson"
+      ]
+    },
     {
       "id": "412576",
       "name": "Forest Shuffle: Alpine",
       "yearPublished": "2024",
       "type": "boardgameexpansion",
       "postdate": "2025-01-10 20:58:30",
-      "lastmodified": "2025-02-18 23:50:32",
-      "myrating": null,
+      "lastmodified": "2025-04-17 18:30:03",
+      "myrating": 7,
       "numplays": "1",
       "thumbnail": "https://cf.geekdo-images.com/DHrlMA2XJr5T5IsO_X0Z3w__thumb/img/IlSD7ds4GhNqbljlvotFU3mJtDY=/fit-in/200x150/filters:strip_icc()/pic7998961.jpg",
       "link": "https://boardgamegeek.com/thing/412576",
@@ -43,6 +555,66 @@
       "designers": [
         "Kosch"
       ]
+    },
+    {
+      "id": "413403",
+      "name": "Minecraft Explorers",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-04-11 13:39:38",
+      "lastmodified": "2025-04-17 18:28:38",
+      "myrating": 5,
+      "numplays": "1",
+      "thumbnail": "https://cf.geekdo-images.com/J8mr0WGMyvaDqdZ8LV6DAA__thumb/img/Oubhh3m9-K6G1lpssRezLF903EU=/fit-in/200x150/filters:strip_icc()/pic7999813.jpg",
+      "link": "https://boardgamegeek.com/thing/413403",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 2",
+      "playingTime": "60",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "60",
+      "averageRating": "7.06162",
+      "averageWeight": "1.75",
+      "boardGameRank": "8352",
+      "mechanics": [
+        "Action Points",
+        "Cooperative Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Exploration",
+        "Fighting"
+      ],
+      "designers": [
+        "Matthew Dunstan"
+      ]
+    },
+    {
+      "id": "271554",
+      "name": "Bounce Battle",
+      "yearPublished": "2013",
+      "type": "boardgame",
+      "postdate": "2025-04-06 22:58:03",
+      "lastmodified": "2025-04-06 22:58:03",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/bK501357K3BJudapCl8jkQ__thumb/img/v8RITtvKLV_AuTq3QPddELThSL4=/fit-in/200x150/filters:strip_icc()/pic4717977.jpg",
+      "link": "https://boardgamegeek.com/thing/271554",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "N/A",
+      "playingTime": "15",
+      "minPlayingTime": "1",
+      "maxPlayingTime": "15",
+      "averageRating": "6.46744",
+      "averageWeight": "1",
+      "boardGameRank": "19245",
+      "mechanics": [],
+      "categories": [
+        "Action / Dexterity",
+        "Children's Game"
+      ],
+      "designers": []
     },
     {
       "id": "271460",
@@ -3453,47 +4025,6 @@
       ],
       "designers": [
         "Thomas Cauët"
-      ]
-    },
-    {
-      "id": "294612",
-      "name": "Unlock!: Epic Adventures",
-      "yearPublished": "2019",
-      "type": "boardgame",
-      "postdate": "2024-05-18 19:59:10",
-      "lastmodified": "2024-08-02 23:37:36",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/NNVWKOGOKLIkjXvhZKA_Dg__thumb/img/IepFDkC6ngdTCAosPTFwvpLvohc=/fit-in/200x150/filters:strip_icc()/pic5009100.jpg",
-      "link": "https://boardgamegeek.com/thing/294612",
-      "minPlayers": "1",
-      "maxPlayers": "6",
-      "bestAtCount": "2",
-      "playingTime": "60",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "60",
-      "averageRating": "7.71117",
-      "averageWeight": "2.1579",
-      "boardGameRank": "898",
-      "mechanics": [
-        "Cooperative Game",
-        "Real-Time",
-        "Scenario / Mission / Campaign Game"
-      ],
-      "categories": [
-        "Card Game",
-        "Exploration",
-        "Puzzle",
-        "Real-time"
-      ],
-      "designers": [
-        "Mathieu Casnin",
-        "Mathieu Cassin",
-        "Cyril Demaegd",
-        "Guilaine Didier",
-        "Gabriel Durnerin",
-        "Luna Marie",
-        "Théo Rivière"
       ]
     },
     {
@@ -13205,49 +13736,6 @@
       ],
       "designers": [
         "Ted Alspach"
-      ]
-    },
-    {
-      "id": "396948",
-      "name": "Age of Steam Deluxe: Expansion Volume IV",
-      "yearPublished": "2024",
-      "type": "boardgameexpansion",
-      "postdate": "2023-10-19 22:51:48",
-      "lastmodified": "2024-08-02 18:57:48",
-      "myrating": null,
-      "numplays": "0",
-      "thumbnail": "https://cf.geekdo-images.com/q3XbFwRvi9coqC7ubP5umg__thumb/img/r4uRYoHr1rD1zMyjhlEirhPTUbI=/fit-in/200x150/filters:strip_icc()/pic8403649.png",
-      "link": "https://boardgamegeek.com/thing/396948",
-      "minPlayers": "1",
-      "maxPlayers": "6",
-      "bestAtCount": "N/A",
-      "playingTime": "120",
-      "minPlayingTime": "120",
-      "maxPlayingTime": "120",
-      "averageRating": "8.02941",
-      "averageWeight": "0",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Auction / Bidding",
-        "Catch the Leader",
-        "Connections",
-        "Loans",
-        "Network and Route Building",
-        "Selection Order Bid",
-        "Tile Placement",
-        "Turn Order: Auction"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Economic",
-        "Trains",
-        "Transportation"
-      ],
-      "designers": [
-        "Ted Alspach",
-        "John Bohrer",
-        "Randal Lloyd",
-        "Dylan D. Phillips"
       ]
     },
     {

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-02T06:23:41.768Z",
+  "gameDetails": {
+    "id": "429863",
+    "name": "Covenant",
+    "type": "boardgame",
+    "description": "The Dwarven King has issued an order to the houses of each clan. It is imperative to reclaim Karrak-c&uuml;m-Kazar, the sacred mountain, ancestral home of the Dwarves since the first Age of the Beard. For too long it has been occupied by the poison of the dark lords, with their creatures defiling the halls that once housed the noblest of all Dwarves. The insult cannot last any longer. The Dwarves return to the mountain.&#10;&#10;Covenant is played in turns over three ages. During their turn, players will assign the Dwarves of their clan to different tasks that will allow them to explore the ancient halls of the ancestors and drive out their enemies while rebuilding their ancestral home. Your dwarf tokens and tools will allow you to do all kinds of actions: dig into the mountain, defeat the enemies that live there, and build all kinds of buildings that will bring the legendary dwarf city back to life. At the end of the game, the clan that has accumulated the most glory will take the recognition of the monarch and the victory.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/4XkIFGbIAXtA-pDb6nlvsg__original/img/poJ-o9gvMirUyEz7PjrwLH7w6PU=/0x0/filters:format(jpeg)/pic8968542.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4XkIFGbIAXtA-pDb6nlvsg__small/img/uQ9etIk8_uvoJuVA9ZzTtNYORKg=/fit-in/200x150/filters:strip_icc()/pic8968542.jpg",
+    "link": "https://boardgamegeek.com/thing/429863",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "100",
+    "minPlayingTime": "100",
+    "maxPlayingTime": "100",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.07779",
+    "averageWeight": "3.4",
+    "boardGameRank": "6736",
+    "mechanics": [
+      "Action Points",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Worker Placement",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "designers": [
+      "Germán P. Millán"
+    ]
+  }
+}

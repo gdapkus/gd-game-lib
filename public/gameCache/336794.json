@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-02T06:36:04.849Z",
+  "gameDetails": {
+    "id": "336794",
+    "name": "Galaxy Trucker (Second Edition)",
+    "type": "boardgame",
+    "description": "In the fast and goofy family game Galaxy Trucker, players begin by simultaneously rummaging through the common warehouse, frantically trying to grab the most useful component tiles to build their spaceship &mdash; all in real-time.&#10;&#10;Once the ships are launched, players encounter dangerous situations while vying for financial opportunities, each hoping to gain the most valuable cargo and finish with as much of their ship still intact as possible. Of course, that's easier said than done since many hazards will send pieces of your ship, your cargo, and your crew hurling into the depths of space.&#10;&#10;The goal is to survive the trek &mdash; hopefully with at least some of your crew and ship intact &mdash; and have at least one credit by the end of the game. (Profit, yay!) Players earn credits by delivering goods, defeating pirates, having the best-looking ship, and reaching their destination before the others.&#10;&#10;This version of Galaxy Trucker is a relaunch of the original 2007 release by Vlaada Chv&aacute;til that features new art, more ship tiles, tweaked card effects, and streamlined gameplay that consists of only a single flight through space. That said, should you want a longer, more challenging experience, you can play a three-flight game known as the &quot;Transgalactic Trek&quot;.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/1gQABuftAVgk1qshkMyDEw__original/img/7GY1ZXeZkWkWki5QLAbfdX-EGp0=/0x0/filters:format(jpeg)/pic6125184.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1gQABuftAVgk1qshkMyDEw__small/img/Ovni6sWuvyfj9LWn-hnHzpCELF8=/fit-in/200x150/filters:strip_icc()/pic6125184.jpg",
+    "link": "https://boardgamegeek.com/thing/336794",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.41735",
+    "averageWeight": "2.2845",
+    "boardGameRank": "630",
+    "mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Real-Time",
+      "Relative Movement",
+      "Tile Placement",
+      "Track Movement"
+    ],
+    "categories": [
+      "Adventure",
+      "Aviation / Flight",
+      "Dice",
+      "Humor",
+      "Real-time",
+      "Science Fiction",
+      "Space Exploration",
+      "Transportation"
+    ],
+    "designers": [
+      "Vlaada Chvátil"
+    ]
+  }
+}

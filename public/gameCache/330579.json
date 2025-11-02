@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-02T06:23:44.935Z",
+  "gameDetails": {
+    "id": "330579",
+    "name": "Raising Chicago",
+    "type": "boardgame",
+    "description": "During the 19th century, the elevation of the Chicago area was just a few feet higher than the shoreline of Lake Michigan. For many years, there was little or no naturally occurring drainage from the city surface, and this lack of drainage caused unpleasant living conditions. Standing water harbored pathogens that caused numerous epidemics including typhoid fever and dysentery, culminating in the 1854 outbreak of cholera that killed six percent of the city's population. The crisis forced the city to take the drainage problem seriously. In 1856, engineer Ellis S. Chesbrough drafted a plan for the installation of a citywide sewerage system and submitted it to the city council, which adopted the plan.&#10;&#10;However, due to the minimal elevation above the lake, the sewer could not be built underground and had to be built at street level. The city council then decided to implement a radical idea: Prevented from digging down, they instead decreed the buildings of the city would be raised to allow the new sewer system to be hidden under the new street level. Representing one of the four companies that were created to tackle the problem of raising the buildings of Chicago, it's up to you to gather resources, take on the most attractive projects, and help solve the sanitation crisis of the city.&#10;&#10;On your turn in Raising Chicago, you place a tile on a resource slot associated with one of five building projects, then claim the resource you covered. After all players have placed tiles, each project is evaluated. The winning player pays resources to complete the project, claims the project reward, then places all of their tiles associated with that project as levels underneath the building onto a space on the board. Players earn points for placing buildings cleverly, doing the most work in a ward, and meeting the demands of council people.&#10;&#10;Only the most successful player will win, so play strategically to prove you can raise buildings the best in Raising Chicago!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/cPO2ofKnXr9jbfEdyWxEmw__original/img/I9tVuXoqSaVgXgOtKba96vKLA0k=/0x0/filters:format(jpeg)/pic7974473.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/cPO2ofKnXr9jbfEdyWxEmw__small/img/o--fxNAx57R04k9zfrZ21oUMUyk=/fit-in/200x150/filters:strip_icc()/pic7974473.jpg",
+    "link": "https://boardgamegeek.com/thing/330579",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.37513",
+    "averageWeight": "3.875",
+    "boardGameRank": "9878",
+    "mechanics": [
+      "Investment",
+      "Tile Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Economic",
+      "Territory Building"
+    ],
+    "designers": [
+      "Matt Wolfe"
+    ]
+  }
+}

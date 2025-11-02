@@ -4,8 +4,6 @@ const xml2js = require('xml2js');
 const fs = require('fs');
 const path = require('path');
 
-const bggApiToken = process.env.BGG_API_TOKEN;
-
 // Constants
 const cacheDir = './public/gameCache'; // Subdirectory for cache files
 const cacheDuration = 30 * 24 * 60 * 60 * 1000; // 30 days in milliseconds
@@ -29,9 +27,7 @@ async function getGameDetails(bggGameId) {
     // Query the BGG API for game details
     try {
         console.log(`Retrieving Game ID:${bggGameId}`);
-        const response = await axios.get(`https://boardgamegeek.com/xmlapi2/thing?id=${bggGameId}&stats=1`, {
-            headers: bggApiToken ? { Authorization: `Bearer ${bggApiToken}` } : {}
-        });
+        const response = await axios.get(`https://boardgamegeek.com/xmlapi2/thing?id=${bggGameId}&stats=1`);
         const result = await xml2js.parseStringPromise(response.data);
         const game = result.items.item[0];
         const gameName = Array.isArray(game.name) ? game.name[0].$.value : game.name.$.value;

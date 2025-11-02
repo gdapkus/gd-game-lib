@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-02T06:36:14.396Z",
+  "gameDetails": {
+    "id": "430260",
+    "name": "Marvel Champions: The Card Game – Agents of S.H.I.E.L.D.",
+    "type": "boardgameexpansion",
+    "description": "Heroes come in all shapes and sizes. Some can fly, some can shoot energy from their hands, and some are just really, really strong. But there are some heroes who don&rsquo;t wear capes, heroes who stay out of the spotlight, working tirelessly behind the scenes to keep the world safe from covert threats. These are the agents of S.H.I.E.L.D.&#10;&#10;It&rsquo;s the beginning of a brand-new wave of Marvel Champions: The Card Game! As the game&rsquo;s eighth campaign expansion, Agents of S.H.I.E.L.D. brings a number of classic S.H.I.E.L.D. characters to the table, including two new playable heroes, Maria Hill and Nick Fury, each of whom comes with a pre-built deck ready to play from the get-go. Take on covert threats from the forces of A.I.M. while also working to expose the traitor within your own agency. This expansion includes five brand-new scenarios, each of which can be played individually or as part of a larger campaign.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/0-M8lF8gp0RjCy0-U2wWtQ__original/img/3SGMzmOAGl-eBpKVxZJSudhPxr4=/0x0/filters:format(jpeg)/pic8891218.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0-M8lF8gp0RjCy0-U2wWtQ__small/img/K-IHdeOMZRIWM2Gne2crwfZ1RkE=/fit-in/200x150/filters:strip_icc()/pic8891218.jpg",
+    "link": "https://boardgamegeek.com/thing/430260",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.60253",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Deck Construction",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Collectible Components",
+      "Comic Book / Strip"
+    ],
+    "designers": [
+      "Tony Fanchi"
+    ]
+  }
+}

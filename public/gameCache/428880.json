@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-02T06:35:42.774Z",
+  "gameDetails": {
+    "id": "428880",
+    "name": "Arkham Horror: The Card Game – The Drowned City: Investigator Expansion",
+    "type": "boardgameexpansion",
+    "description": "The people of Arkham have weathered many threats. Eldritch horrors, dark cults, and ghoulish hauntings have plagued the city for years, and each incident was resolved by brave investigators from all walks of life. But now, Arkham faces its greatest threat to date, and it falls to our intrepid investigators to come together and ensure the city&rsquo;s survival.&#10;&#10;The Drowned City Investigator Expansion features six new investigators for Arkham Horror: The Card Game and adds a trove of new player cards and options for deckbuilding, including brand-new &ldquo;Specialist&rdquo; cards that play off investigators&rsquo; traits. Protect the vulnerable as the trawler, Marion Tavares; draw inspiration from horrors as the poet, Lucius Galloway; fend off monsters with a hail of bullets as the gangster, Micheal McGlen; blur the line between science and mysticism as the parapsychologist, Agatha Crane; control your fate with prophetic visions as the writer, Gloria Goldberg; and come prepared to weather any storm as the lawyer, George Barnaby.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/EozYG4PZNpZ3vWyys6LMtA__original/img/AuNM6qBSDDRDGoQhoskGXABes2U=/0x0/filters:format(png)/pic8641090.png",
+    "thumbnail": "https://cf.geekdo-images.com/EozYG4PZNpZ3vWyys6LMtA__small/img/RE8tRtpRUCm5IkC3B0u4yEz3GTA=/fit-in/200x150/filters:strip_icc()/pic8641090.png",
+    "link": "https://boardgamegeek.com/thing/428880",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "180",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.94103",
+    "averageWeight": "3.6667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Josiah Harrist",
+      "Waleed Ma'arouf"
+    ]
+  }
+}

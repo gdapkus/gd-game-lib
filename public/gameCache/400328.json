@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-02T06:35:58.549Z",
+  "gameDetails": {
+    "id": "400328",
+    "name": "Earthborne Rangers: Stewards of the Valley",
+    "type": "boardgameexpansion",
+    "description": "The Stewards of the Valley adds a new Ranger background set, a new specialty set, and it deepens the card pools of each of the background and specialty sets from the Earthborne Rangers core game, giving you even more options for character creation and variability.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/X6cXdv8ZY3IVlHCrHsqAOg__original/img/vU52DTRnfPigRyiGQSfVu5_ONlw=/0x0/filters:format(jpeg)/pic7932606.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X6cXdv8ZY3IVlHCrHsqAOg__small/img/XWJoBEiL0Gj8oCivk0kU1qhbmmY=/fit-in/200x150/filters:strip_icc()/pic7932606.jpg",
+    "link": "https://boardgamegeek.com/thing/400328",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "8.61806",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Cooperative Game",
+      "Deck Construction",
+      "Hand Management",
+      "Move Through Deck",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Card Game",
+      "Environmental",
+      "Exploration",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Davi Paulino"
+    ]
+  }
+}

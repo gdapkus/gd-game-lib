@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-02T06:33:18.784Z",
+  "gameDetails": {
+    "id": "424621",
+    "name": "Joyride: Unleashed",
+    "type": "boardgameexpansion",
+    "description": "Joyride: Unleashed introduces the dreaded Beetle-Gator, a mutant beast that wreaks havoc as it scurries across the track.&#10;&#10;&#10;    Safari 4x4 is on the hunt - a car with incredible cornering flexibility but only at very low speeds.&#10;    Balance the odds with Gum Traps that force your opponents to slow down too!&#10;    Four mini-obstacles to help design your own tracks.&#10;&#10;&#10;Every element is fully compatible with Joyride: Survival of the Fastest and Joyride Duel: Next Gen.&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/-DIEPC0qs7N1up5J5L7Knw__original/img/9EaWtOlUJHk4KZc365zSfHJUwfo=/0x0/filters:format(jpeg)/pic8306708.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-DIEPC0qs7N1up5J5L7Knw__small/img/oVvG7_7IgykOSuEJJ06AMBL6uKs=/fit-in/200x150/filters:strip_icc()/pic8306708.jpg",
+    "link": "https://boardgamegeek.com/thing/424621",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "7.91028",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Racing"
+    ],
+    "designers": [
+      "Duncan Molloy",
+      "Pete Ward"
+    ]
+  }
+}

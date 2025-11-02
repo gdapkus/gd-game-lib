@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-02T06:35:39.648Z",
+  "gameDetails": {
+    "id": "428879",
+    "name": "Arkham Horror: The Card Game – The Drowned City: Campaign Expansion",
+    "type": "boardgameexpansion",
+    "description": "It was supposed to be one last job. At the behest of shadowy antiquarian Randall Tillinghast&mdash;who presents them with an offer they can&rsquo;t refuse&mdash;our investigators travel to the South Pacific and the vast, alien city of R&rsquo;lyeh. However, the more they explore, the more terrors they discover, and as a looming sense of dread grows, they find themselves&mdash;and all of Arkham&mdash;faced with a colossal threat.&#10;&#10;The time has come. Cthulhu has awakened, and Arkham will never be the same.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/Cg0pbDdySDtnaf4U3LrCPg__original/img/g_xNeP8_fHu8TlEAvDzR9ZRutE8=/0x0/filters:format(png)/pic8426424.png",
+    "thumbnail": "https://cf.geekdo-images.com/Cg0pbDdySDtnaf4U3LrCPg__small/img/jkJ0dZgXoFM9p17pxv_cEPMvqBc=/fit-in/200x150/filters:strip_icc()/pic8426424.png",
+    "link": "https://boardgamegeek.com/thing/428879",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "180",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.79929",
+    "averageWeight": "3.4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Josiah Harrist",
+      "Nicholas Kory",
+      "Waleed Ma'arouf"
+    ]
+  }
+}

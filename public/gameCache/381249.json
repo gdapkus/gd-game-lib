@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-02T06:37:52.849Z",
+  "gameDetails": {
+    "id": "381249",
+    "name": "Rebel Princess",
+    "type": "boardgame",
+    "description": "Snow White, The Little Mermaid, Cinderella, and many other fairy tale princesses are celebrating a five-day party. The prince charmings, who have not been invited, will try to infiltrate the ball to propose marriage to the girls. As a princess, you have to avoid marriage proposals and remain single and independent after the celebrations.&#10;&#10;Rebel Princess takes place over five rounds, representing the five days of a party, and each round has a special rule that makes each game totally different. The general mechanisms are those of trick-taking games, in which each player plays a numbered card into each trick, following one of the four suits in the game. The player with the highest number of the suit that started the trick takes all the cards of that trick &mdash; but that's not necessarily good as players want to avoid taking cards with prince charmings, who each bring one marriage proposal, aside from the enchanted frog who brings five proposals. The player with the fewest marriage proposals after five rounds wins.&#10;&#10;Importantly, each player assumes the role of a different fairy tale princess and has a special ability that they can use once per round.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/HuWvVU2tcff-vu3EjPtk6Q__original/img/K2Fopgt-7pfYCu8jtlrcWJ92yeU=/0x0/filters:format(jpeg)/pic7605211.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HuWvVU2tcff-vu3EjPtk6Q__small/img/O50Jyvp_CPWRBdYidjQedORzwqc=/fit-in/200x150/filters:strip_icc()/pic7605211.jpg",
+    "link": "https://boardgamegeek.com/thing/381249",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "40",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.40471",
+    "averageWeight": "1.8769",
+    "boardGameRank": "1313",
+    "mechanics": [
+      "Events",
+      "Trick-taking",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Daniel Byrne",
+      "José Gerardo Guerrero",
+      "Kevin Peláez",
+      "Tirso Virgós"
+    ]
+  }
+}

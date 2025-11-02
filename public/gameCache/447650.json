@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-02T06:36:30.064Z",
+  "gameDetails": {
+    "id": "447650",
+    "name": "Marvel Champions: The Card Game – Trickster Takeover Scenario Pack",
+    "type": "boardgameexpansion",
+    "description": "This 78-card scenario pack &mdash;guest designed by former Marvel Champions designer Michael Boggs&mdash; slinks into the scene with two brand-new scenarios featuring the Enchantress and Loki, two conniving villains with a ton of tricks up their sleeves.&#10;&#10;In addition to being able to play these scenarios in the traditional standalone way, the Loki, God of Lies scenario can also be played in a brand-new Epic Multiplayer Mode, a Marvel Champions first! Also included is a special modular encounter set featuring enthralled minions you can recruit to your side.&#10;&#10;Can you survive this brutal battle of wits?&#10;&#10;&mdash;description from publisher&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/5T_bbPq1gTBD9bkEcYGt8A__original/img/KfNIq4MMg1uQdGSODCMmYX1c0xk=/0x0/filters:format(png)/pic9017638.png",
+    "thumbnail": "https://cf.geekdo-images.com/5T_bbPq1gTBD9bkEcYGt8A__small/img/GLqhnKFe9c6qHZSoPu4WL9NAncg=/fit-in/200x150/filters:strip_icc()/pic9017638.png",
+    "link": "https://boardgamegeek.com/thing/447650",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.10727",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck Construction",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip"
+    ],
+    "designers": [
+      "Michael Boggs"
+    ]
+  }
+}

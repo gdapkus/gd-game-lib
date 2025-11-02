@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-02T06:36:08.066Z",
+  "gameDetails": {
+    "id": "425071",
+    "name": "The Lord of the Rings: The Card Game – The Return of the King: Saga Expansion",
+    "type": "boardgameexpansion",
+    "description": "While Frodo, Sam, and Gollum journeyed through the glades of Ithilien, Aragorn and his companions fought the battle of Helm&rsquo;s Deep and rode to the wreck of Isengard to deal with the traitor, Saruman. After obtaining a Palant&iacute;r from that encounter, Aragorn learned much of the Enemy&rsquo;s movements, and now he and his companions must ride to the aid of Gondor while the Ring-bearer draws ever closer to Mount Doom&hellip;&#10;&#10;Fantasy Flight Games is proud to announce The Return of the King, the final repackaged expansion for The Lord of the Rings: The Card Game! This expansion combines all of the contents from The Flame of the West and The Mountain of Fire.&#10;&#10;Experience the conclusion of the journey to destroy the One Ring in this epic expansion. This expansion contains six scenarios that recreate the adventures featured in the third part of the legendary The Lord of the Rings saga. In this box, you&rsquo;ll also find over 60 hero and player cards, which can be used to build or enhance your decks for any The Lord of the Rings: The Card Game scenario or campaign.&#10;&#10;&mdash;description from the publisher's website&#10;&#10;",
+    "image": "https://cf.geekdo-images.com/1QUhJWwCmW1xAYS4Jz9uVg__original/img/oEkO7see1IkL0zU3KXsbUQzAK2g=/0x0/filters:format(jpeg)/pic8962301.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1QUhJWwCmW1xAYS4Jz9uVg__small/img/UcJQuKCmAeLGccvzMfRF2ailQaY=/fit-in/200x150/filters:strip_icc()/pic8962301.jpg",
+    "link": "https://boardgamegeek.com/thing/425071",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "8.83333",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Automatic Resource Growth",
+      "Cooperative Game",
+      "Deck Construction",
+      "Events",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Card Game",
+      "Collectible Components",
+      "Fantasy",
+      "Novel-based"
+    ],
+    "designers": [
+      "Nate French",
+      "Caleb Grace"
+    ]
+  }
+}
