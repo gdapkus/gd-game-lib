@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-06T04:14:20.026Z",
+  "gameDetails": {
+    "id": "424911",
+    "name": "Pirates of Maracaibo: Commanders",
+    "type": "boardgameexpansion",
+    "description": "After cruising the Caribbean in search of fame and treasure as a privateer in Pirates of Maracaibo a new challenge awaits you with the Commanders expansion!\n\nWith your expertise, you now represent a notorious ship commander, whose special abilities bring even more tactical finesse to the game. In addition, you can now equip your ship with cannons to gain access to the fortifications of certain islands - because there are riches to be found too!\n\nNew explorer boards, cards, and rum trading take Pirates of Maracaibo to a whole new level. Hoist the anchor, the final voyage begins!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/K8PSv2MatpF2voLFgoetNw__original/img/0teQn_9rJSynGAtnXpYiYOV2tWo=/0x0/filters:format(jpeg)/pic8312006.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/K8PSv2MatpF2voLFgoetNw__small/img/nWwQyprf11cX1kCQdac08bXa8G4=/fit-in/200x150/filters:strip_icc()/pic8312006.jpg",
+    "link": "https://boardgamegeek.com/thing/424911",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.22407",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Increase Value of Unchosen Resources",
+      "Multi-Use Cards",
+      "Pieces as Map",
+      "Race",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Nautical",
+      "Pirates"
+    ],
+    "designers": [
+      "Ralph Bienert",
+      "Ryan Hendrickson",
+      "Alexander Pfister"
+    ]
+  }
+}

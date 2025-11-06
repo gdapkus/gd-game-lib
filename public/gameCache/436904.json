@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-06T04:13:00.750Z",
+  "gameDetails": {
+    "id": "436904",
+    "name": "Heat: Tunnel Vision",
+    "type": "boardgameexpansion",
+    "description": "The roar of powerful engines bursts from the dark mouth of the Pyrenean tunnel just moments before gleaming cars streak past. One mistake could mean certain destruction, but the lure of the Spanish Grand Prix keeps the drivers focused and aggressive.\n\nHeat: Tunnel Vision introduces two new racing tracks. The Spanish Grand Prix takes your car through treacherous tunnels, forcing you to trust your instincts in the semi-dark. The Netherlands track allows you to open your engine to full throttle before throwing you into a succession of treacherous corners.\n\nTake part in the 1965 Championship season and install the new Front Wing upgrade to draft off the other drivers and charge to victory.\n\nThis second expansion brings chicanes and tunnels for more technical and high-intensity races, front wing upgrade cards, and new event cards, in addition to expanding the player count to seven (or eight with the Heavy Rain expansion).\n\n",
+    "image": "https://cf.geekdo-images.com/ez01nzXEqZgLn0lx714eqA__original/img/T5g0_z266YqhJzy2RKn61G4cqqU=/0x0/filters:format(jpeg)/pic8647210.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ez01nzXEqZgLn0lx714eqA__small/img/sw29GPWLzh7y3edW8CPqw258wFo=/fit-in/200x150/filters:strip_icc()/pic8647210.jpg",
+    "link": "https://boardgamegeek.com/thing/436904",
+    "minPlayers": "1",
+    "maxPlayers": "7",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "8.18824",
+    "averageWeight": "2.2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Catch the Leader",
+      "Hand Management",
+      "Push Your Luck",
+      "Race",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Asger Harding Granerud",
+      "Daniel Skjold Pedersen"
+    ]
+  }
+}

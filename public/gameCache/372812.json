@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-06T04:12:13.044Z",
+  "gameDetails": {
+    "id": "372812",
+    "name": "Deal with the Devil: The Bureaucrat Promo Inquisitor",
+    "type": "boardgameexpansion",
+    "description": "Promo card given to anyone whom bought the game directly from CGE at Spiel 2022. It was also part of launch kit that brick and mortar stores could pre-order before the release.\n\nThis inquisitor will give you minus 6 VP, but + 1VP for each coin on the bribe track.\n\n",
+    "image": "https://cf.geekdo-images.com/zl-BZfaesoOFQEwErYlS7w__original/img/SHxxgJkWafVkyDe0bVjZY4P-07E=/0x0/filters:format(jpeg)/pic7527655.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zl-BZfaesoOFQEwErYlS7w__small/img/auueUxpULmmfW7PxVT5VhYBGsqM=/fit-in/200x150/filters:strip_icc()/pic7527655.jpg",
+    "link": "https://boardgamegeek.com/thing/372812",
+    "minPlayers": "4",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "150",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "150",
+    "bestAtCount": null,
+    "averageRating": "7",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deduction",
+      "Events",
+      "Income",
+      "Loans",
+      "Trading",
+      "Voting"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "City Building",
+      "Deduction",
+      "Fantasy",
+      "Medieval"
+    ],
+    "designers": [
+      "Matúš Kotry"
+    ]
+  }
+}

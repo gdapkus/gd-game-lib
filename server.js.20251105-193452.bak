@@ -15,7 +15,6 @@ const path = require('path');
 const fs = require('fs');
 // Constants
 const cacheDir = 'public/gameCache'; // Subdirectory for cache files
-const FALLBACK_IMAGE_URL = 'https://boardgamegeek.com/image/1657689';
 
 const bggUsersPath = path.join(__dirname, 'config', 'bggUsers.json');
 const bggUsers = JSON.parse(fs.readFileSync(bggUsersPath, 'utf8'));
@@ -341,38 +340,30 @@ async function loadCollection(userName) {
             // Use a `for...of` loop to handle asynchronous API calls sequentially
             const newGamesList = [];
             for (const game of items) {
-                const existingGame = existingGamesMap.get(game.$.collid);
-                const status = (Array.isArray(game.status) && game.status[0] && game.status[0].$) || {};
-                const nameValue = readNodeText(game.name, existingGame?.name || 'Unknown title');
-                const imageValue = readNodeText(game.image, existingGame?.image || FALLBACK_IMAGE_URL);
-                const thumbnailValue = readNodeText(game.thumbnail, existingGame?.thumbnail || FALLBACK_IMAGE_URL);
-                const numPlaysValue = readNodeText(game.numplays, existingGame?.numplays || '0');
-
-                if (!Array.isArray(game.image) || !game.image.length || !Array.isArray(game.thumbnail) || !game.thumbnail.length) {
-                    console.warn(`Missing artwork for ${nameValue} (${game.$.objectid}); using fallback image.`);
-                }
-
+                const status = game.status[0].$;
                 const newGameData = {
                     id: game.$.objectid,
                     collid: game.$.collid,
-                    name: nameValue,
-                    image: imageValue,
-                    thumbnail: thumbnailValue,
-                    lastmodified: status.lastmodified || existingGame?.lastmodified || new Date().toISOString(),
-                    numplays: numPlaysValue,
+                    name: game.name[0]._,
+                    image: game.image[0],
+                    thumbnail: game.thumbnail[0],
+                    lastmodified: status.lastmodified,
+                    numplays: game.numplays[0],
                     status: {
-                        own: status.own === '1' || existingGame?.status?.own || false,
-                        prevowned: status.prevowned === '1' || existingGame?.status?.prevowned || false,
-                        fortrade: status.fortrade === '1' || existingGame?.status?.fortrade || false,
-                        want: status.want === '1' || existingGame?.status?.want || false,
-                        wanttoplay: status.wanttoplay === '1' || existingGame?.status?.wanttoplay || false,
-                        wanttobuy: status.wanttobuy === '1' || existingGame?.status?.wanttobuy || false,
-                        wishlist: status.wishlist === '1' || existingGame?.status?.wishlist || false,
-                        wishlistpriority: typeof status.wishlistpriority === 'string' ? parseInt(status.wishlistpriority, 10) || null : existingGame?.status?.wishlistpriority || null,
-                        preordered: status.preordered === '1' || existingGame?.status?.preordered || false
+                        own: status.own === '1',
+                        prevowned: status.prevowned === '1',
+                        fortrade: status.fortrade === '1',
+                        want: status.want === '1',
+                        wanttoplay: status.wanttoplay === '1',
+                        wanttobuy: status.wanttobuy === '1',
+                        wishlist: status.wishlist === '1',
+                        wishlistpriority: parseInt(status.wishlistpriority, 10) || null,
+                        preordered: status.preordered === '1'
                     }
                 };
 
+                const existingGame = existingGamesMap.get(newGameData.collid);
+                
                 if (!existingGame || existingGame.lastmodified !== newGameData.lastmodified) {
                     cacheModified = true;
 
@@ -436,25 +427,6 @@ async function loadCollection(userName) {
   }
 }
 
-
-function readNodeText(node, fallback = null) {
-    if (!Array.isArray(node) || node.length === 0) {
-        return fallback;
-    }
-    const first = node[0];
-    if (typeof first === 'string') {
-        return first;
-    }
-    if (first && typeof first === 'object') {
-        if (typeof first._ === 'string') {
-            return first._;
-        }
-        if (first.$ && typeof first.$.value === 'string') {
-            return first.$.value;
-        }
-    }
-    return fallback;
-}
 
 //function to load the cached collection from the json
 function getCachedCollection(userName) {

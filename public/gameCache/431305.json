@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-06T04:12:57.534Z",
+  "gameDetails": {
+    "id": "431305",
+    "name": "Great Western Trail: El Paso",
+    "type": "boardgame",
+    "description": "El Paso at the end of the 19th century: Five railroad companies have connected the Sun City to their network and made it a major hub for the cattle trade. Ranchers from the surrounding parts of Texas and Mexico drive their cattle into the city to send them on their long journey to the north, east, and west of the United States.\n\nIn Great Western Trail: El Paso, you take on the role of the ranchers of that time and bring your best cattle to El Paso to earn money and victory points. Hire more cowboys, builders, and engineers to get closer to your goals:\n\n\n     Buy cattle to increase the value of your herd!\n     Construct buildings to unlock more actions!\n     Participate in the expansion of the railroad and secure the most attractive contracts!\n\n\nEl Paso is mechanically based on its predecessors in the Great Western Trail trilogy. It can serve as an introduction to the series and is the perfect game for game nights when there is not enough time for its big brothers!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/R1kmXnKY2XNTibnw0mfUYQ__original/img/7jhfw-BFquzxgRy3zrIfQAVcM6A=/0x0/filters:format(jpeg)/pic8522248.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/R1kmXnKY2XNTibnw0mfUYQ__small/img/bRPBjc1ca-Br8ld3wFiGEkVNzO4=/fit-in/200x150/filters:strip_icc()/pic8522248.jpg",
+    "link": "https://boardgamegeek.com/thing/431305",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.0718",
+    "averageWeight": "2.8723",
+    "boardGameRank": "2588",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Ownership",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Animals"
+    ],
+    "designers": [
+      "Johannes Krenner",
+      "Alexander Pfister"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-06T04:14:39.068Z",
+  "gameDetails": {
+    "id": "317274",
+    "name": "Sushi Go Party!: Inari Promo",
+    "type": "boardgameexpansion",
+    "description": "Inari is an appetizer pack included for free with purchases of Sushi Go Party! at conventions and also sold separately.\n\nInari has white, green, and mixed Inari cards, allowing the player to multiply rice icons x seaweed icons for points.\n\nThis promo has eight cards plus one rules tile.\n\n",
+    "image": "https://cf.geekdo-images.com/jPNaAEnBkDZ4GewX8cf1JQ__original/img/G9ouZEPOsbB70N6NwAqoU_yXUfA=/0x0/filters:format(jpeg)/pic8250895.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jPNaAEnBkDZ4GewX8cf1JQ__small/img/HKVXb81R_TxEKZf0-yONXdN6X0M=/fit-in/200x150/filters:strip_icc()/pic8250895.jpg",
+    "link": "https://boardgamegeek.com/thing/317274",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2020",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      8
+    ],
+    "averageRating": "7.68931",
+    "averageWeight": "1.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Party Game"
+    ],
+    "designers": [
+      "Phil Walker-Harding"
+    ]
+  }
+}

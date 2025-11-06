@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-06T04:14:35.888Z",
+  "gameDetails": {
+    "id": "434870",
+    "name": "Shallow Regrets",
+    "type": "boardgame",
+    "description": "Strange fish swim beneath your boat. Things with too many eyes, too many teeth. These eldritch anomalies are worth a small fortune, provided you&rsquo;ve got a dauntless heart and an iron stomach.\n\nShallow Regrets is the leaner cousin of  Deep Regrets. Pull up unsettling curiosities in this strategic horror fishing game. Who knows what strange creatures lurk below the water's surface?\n\nEach turn, the active player reels in 2 fish from the shoal(s) of their choice. They may choose one to keep in their boat. Unkept fish return to the shoals. Each fish has a strength value: to keep it, the player must have a number of hooks in their previously caught fish to meet the strength value. Most fish have otherworldly abilities that impact play. These can be used by exhausting the fish, turning it sideways to show that its ability has been used.\n\nWhen all the fish have been caught all players tally up the total value of their caught fish. Some fish are considered foul, and whoever caught the most foul fish takes a scoring penalty for their poor efforts. The fisher with the highest total wins the game!\n\n",
+    "image": "https://cf.geekdo-images.com/doymdy9lSftznRpufRMg_g__original/img/45aAXkRO9hrS8Wddf_YYCTLwNMQ=/0x0/filters:format(png)/pic8652897.png",
+    "thumbnail": "https://cf.geekdo-images.com/doymdy9lSftznRpufRMg_g__small/img/6Bn-pshmYqtK53_YV8LVqMLhNsU=/fit-in/200x150/filters:strip_icc()/pic8652897.png",
+    "link": "https://boardgamegeek.com/thing/434870",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "2025",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.20928",
+    "averageWeight": "1.5",
+    "boardGameRank": "8341",
+    "mechanics": [
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Push Your Luck",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Horror",
+      "Nautical",
+      "Print & Play"
+    ],
+    "designers": [
+      "Judson Cowan"
+    ]
+  }
+}

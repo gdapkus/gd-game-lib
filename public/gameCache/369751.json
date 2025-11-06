@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-06T04:14:32.686Z",
+  "gameDetails": {
+    "id": "369751",
+    "name": "Sagrada Artisans",
+    "type": "boardgame",
+    "description": "Will your family&rsquo;s stained-glass legacy stand the test of time? In Sagrada: Artisans you&rsquo;ll compete as rival families, each chronicling your construction of the cathedral&rsquo;s windows over a campaign spanning generations.\n\nGain powerful abilities and unlock wondrous new tools that you&rsquo;ll carry through the campaign...and beyond. By carefully drafting dice and coloring in spaces to most cleverly meet each window&rsquo;s restrictions and objectives, you will be victorious!\n\n",
+    "image": "https://cf.geekdo-images.com/A8e29LAMkGeOi9CKWJojmg__original/img/DthIkn6EGYFrZ8e6zF3Z_pUadKw=/0x0/filters:format(png)/pic7040694.png",
+    "thumbnail": "https://cf.geekdo-images.com/A8e29LAMkGeOi9CKWJojmg__small/img/f7-y6MjveYDri80y7rNEG_khQvI=/fit-in/200x150/filters:strip_icc()/pic7040694.png",
+    "link": "https://boardgamegeek.com/thing/369751",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.75006",
+    "averageWeight": "2.4",
+    "boardGameRank": "2488",
+    "mechanics": [
+      "Grid Coverage",
+      "Legacy Game",
+      "Open Drafting",
+      "Paper-and-Pencil",
+      "Pattern Building",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "categories": [
+      "Puzzle"
+    ],
+    "designers": [
+      "Adrian Adamescu",
+      "Daryl Andrews"
+    ]
+  }
+}

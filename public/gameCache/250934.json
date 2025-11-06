@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-06T04:14:48.495Z",
+  "gameDetails": {
+    "id": "250934",
+    "name": "Sushi Go Party!: Sukeroku Promo",
+    "type": "boardgameexpansion",
+    "description": "Sukoeroku is an appetizer pack included for free with purchases of Sushi Go Party! at conventions and also sold separately.\n\nSukeroku has Futomaki cards and Inari cards, both granting 2 points a piece. If, during scoring, a player has a pair of each type they gain 6 points (3 points each) instead.\n\n&mdash;user summary\n\nThis promo has eight cards plus one rules tile.\n\n",
+    "image": "https://cf.geekdo-images.com/0elylkeVncmrs6-l4EXM7A__original/img/9d6rTwxOfy3CUQF4YSQobfKML30=/0x0/filters:format(jpeg)/pic8250893.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0elylkeVncmrs6-l4EXM7A__small/img/wraZTnFv8lM47nhTaQJdwNDK0vw=/fit-in/200x150/filters:strip_icc()/pic8250893.jpg",
+    "link": "https://boardgamegeek.com/thing/250934",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2017",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      8
+    ],
+    "averageRating": "7.53789",
+    "averageWeight": "1.2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Party Game"
+    ],
+    "designers": [
+      "Phil Walker-Harding"
+    ]
+  }
+}

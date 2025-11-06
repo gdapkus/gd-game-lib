@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-06T04:13:45.187Z",
+  "gameDetails": {
+    "id": "439777",
+    "name": "Oath: Clockwork Adversaries",
+    "type": "boardgameexpansion",
+    "description": "Explore a brand-new and fully-featured solo mode that adapts to you as you play it. Face a wide range of adversaries that will follow you from generation to generation as you attempt to guide the course of history\n\n\n    Unlock solo-specific content and face challenges as Chancellor, Citizen, or Exile\n    Easily jump between solo and multiplayer games\n    Fully compatible with Oath and the upcoming New Foundations expansion\n\n\n&mdash;description from the publisher\n\n",
+    "image": "https://boardgamegeek.com/image/1657689",
+    "thumbnail": "https://boardgamegeek.com/image/1657689",
+    "link": "https://boardgamegeek.com/thing/439777",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2025",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "0",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Cole Wehrle"
+    ]
+  }
+}

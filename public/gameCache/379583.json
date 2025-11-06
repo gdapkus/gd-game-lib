@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-06T04:13:57.928Z",
+  "gameDetails": {
+    "id": "379583",
+    "name": "Patterns",
+    "type": "boardgame",
+    "description": "Patterns: A Mandala Game is another area-control design by Trevor Benjamin and Brett J. Gilbert. Patterns draws you in as you take turns swapping tiles from the large mandala at your table. Each player tries to mark contiguous colored areas as territory. Start by spreading the unique tea towel play mat first and creating a mandala by all but 2 out of 54 colorful mandala tiles. Whoever claims most point in the end, wins.\n\n",
+    "image": "https://cf.geekdo-images.com/g5_HfJefHU0LgOAPBcRcWg__original/img/2MwD5wCyJslPwknuioaEtd9RMLo=/0x0/filters:format(jpeg)/pic7744587.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/g5_HfJefHU0LgOAPBcRcWg__small/img/AIh6uCrsaqCISFjumTI5dTD8jKk=/fit-in/200x150/filters:strip_icc()/pic7744587.jpg",
+    "link": "https://boardgamegeek.com/thing/379583",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2023",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.64357",
+    "averageWeight": "1.8421",
+    "boardGameRank": "4013",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Connections",
+      "Pattern Building",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Puzzle"
+    ],
+    "designers": [
+      "Trevor Benjamin",
+      "Brett J. Gilbert"
+    ]
+  }
+}

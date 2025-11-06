@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-06T04:12:06.652Z",
+  "gameDetails": {
+    "id": "328271",
+    "name": "Core Worlds: Nemesis",
+    "type": "boardgameexpansion",
+    "description": "Core Worlds: Nemesis is the official solo version of the Core Worlds deck-building game. Play against the AI-driven Nemesis Empire during your bid to conquer the Core Worlds. The Nemesis is represented by a special deck of cards that simulates play against a human player, including anticipating which worlds the Nemesis is targeting in each sector and which Core Worlds the Nemesis is planning to conquer as it drafts cards throughout the game.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/SsVldI1l5-0aKYOd-84CpQ__original/img/PbsFQsKHFDF4agMUAwzTirkqZzs=/0x0/filters:format(jpeg)/pic6411169.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SsVldI1l5-0aKYOd-84CpQ__small/img/o4359WEHQm8BOElderrxCt9rB-w=/fit-in/200x150/filters:strip_icc()/pic6411169.jpg",
+    "link": "https://boardgamegeek.com/thing/328271",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2021",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.95051",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Hand Management",
+      "Open Drafting",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Civilization",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Andrew Parks"
+    ]
+  }
+}

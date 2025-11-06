@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-06T04:13:03.916Z",
+  "gameDetails": {
+    "id": "420089",
+    "name": "Hedge Mage",
+    "type": "boardgame",
+    "description": "In Hedge Mage, you build a hedge maze of polyominoes to prevent your rival from stealing your gnomes, while simultaneously navigating your other neighbor's maze to nab their gnomes.\n\nIn this puzzly combination of polyomino placement and tactical movement, these moderately powered wizards have only two powers: grow shrubs, and animate garden gnomes. To sneak into your neighboring mage's yard to yoink their gnomes, while keeping another rival mage from snagging yours, it's going to take both powers you've got. Harness your horticulture magic to gather the greatest gnome collection!\n\nIn more detail, each player builds their hedge maze piece by piece at the same time. By using clever placement, you'll both hinder your rival's mages and gain movement points each round. Each player uses their movement points to maneuver their mages through their rival's maze in order to awaken each gnome according to specific enchantment cards. If all ten hedge cards have been revealed, or if a player has rescued all gnomes from their rival's board, the game ends and you move on to scoring. Whoever has the most points wins!\n\n",
+    "image": "https://cf.geekdo-images.com/aQnlCiv_X0GlYDFExng4EQ__original/img/KhUxMVfORLtTcHbJTJXqiM2hZ7M=/0x0/filters:format(png)/pic8223768.png",
+    "thumbnail": "https://cf.geekdo-images.com/aQnlCiv_X0GlYDFExng4EQ__small/img/3copFCOhkKhCVHMCpFXOvuec3hk=/fit-in/200x150/filters:strip_icc()/pic8223768.png",
+    "link": "https://boardgamegeek.com/thing/420089",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "6.78462",
+    "averageWeight": "2.5",
+    "boardGameRank": "16144",
+    "mechanics": [
+      "Grid Movement",
+      "Movement Points",
+      "Moving Multiple Units",
+      "Pick-up and Deliver",
+      "Simultaneous Action Selection",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Maze",
+      "Miniatures",
+      "Territory Building"
+    ],
+    "designers": [
+      "Connor Wake"
+    ]
+  }
+}

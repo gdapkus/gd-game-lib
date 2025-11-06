@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-06T04:12:48.020Z",
+  "gameDetails": {
+    "id": "419195",
+    "name": "Fishing",
+    "type": "boardgame",
+    "description": "In Fishing, you try to catch as many tricks as possible over eight rounds, with each card you catch being worth 1 point. You then use your caught cards for the next round &mdash; and if you didn't catch enough tricks to fill your hand, you'll draw fresh cards from the ocean stack, which will introduce new cards for you fishers to fight over.\n\nIn more detail, at the start of each round, you have 8-13 cards in hand, depending on the player count and the round. In the first round, the cards go from 1-10 in four colors. Standard trick-taking rules apply, with players needing to follow the color led and the highest card of the led suit winning the trick.\n\nNew cards come into play from the ocean stack in waves, with higher-value cards in the four colors, a green trump suit from 1-16, 0 cards that let you snag a card from the trick, and special-powered buoy cards that can always be played into a trick regardless of what you have in hand. With buoys, you can steal the lead or determine which color must lead the next trick, force players to pass cards or lose points; you can even steal all other cards in a trick, ideally netting yourself huge fish for use next round.\n\nAt the end of each round, score 1 point for each card you caught. Whoever lands the most points after eight rounds wins.\n\n",
+    "image": "https://cf.geekdo-images.com/LjqYcVKq6YrQ0rJ4H4Lusg__original/img/REAXkcbA-CtHuDU0BVNYsHUdyJM=/0x0/filters:format(png)/pic8149442.png",
+    "thumbnail": "https://cf.geekdo-images.com/LjqYcVKq6YrQ0rJ4H4Lusg__small/img/mzUGdFOVFxq6kJfm41QTRvnxQSw=/fit-in/200x150/filters:strip_icc()/pic8149442.png",
+    "link": "https://boardgamegeek.com/thing/419195",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.2922",
+    "averageWeight": "1.8654",
+    "boardGameRank": "1338",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Nautical"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

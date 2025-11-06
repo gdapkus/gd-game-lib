@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-06T04:12:19.366Z",
+  "gameDetails": {
+    "id": "129423",
+    "name": "Descent: Journeys in the Dark (Second Edition) – Lair of the Wyrm",
+    "type": "boardgameexpansion",
+    "description": "Game description from the publisher:\n\nDescent: Journeys in the Dark (Second Edition) - Lair of the Wyrm introduces five new quests that can be played individually or used to supplement a larger campaign. With inventive objectives like rescuing survivors from a burning inn and protecting valuable ore from a greedy ettin, the Quest Guide in Lair of the Wyrm delivers fresh new challenges to your adventures.\n\nWhat's more, Lair of the Wyrm brings two new heroes to the fight against the forces of evil. Reynhart the Worthy is a fearless warrior whose prowess in combat means he rarely makes mistakes. He can reroll misses once per attack, helping to ensure that every strike is righteous and true. Meanwhile, High Mage Quellen is a master of body and mind, and is able to quickly recover from exertions that would devastate lesser men. Quellen has developed the ability to feed off the fatigue of those around him, gaining strength where his fellows fail.\n\nBut even as the heroes of Terrinoth gain new allies and tactics, their great enemy silently grows in sinister power. In addition to the Wyrm Queen herself, a fearsome Dragon Lord lieutenant seemingly formed from solidified flame, the Overlord gains two new monsters: mischievous and destructive Fire Imps, and flying Hybrid Sentinels...half-dragon monstrosities with a cruel penchant for preying on the weak. The Overlord's new advantages are not limited to his minions, however. His new available class, Punisher, specializes in making heroes pay for every inch they advance. With abilities like Trading Pains and Exploit Weakness, the Punisher class will make the hero players flinch with fear every time something seems to go their way.\n\nAlso integrates with Road to Legend app (Android, Apple iOS, and Steam).\n\n",
+    "image": "https://cf.geekdo-images.com/AfHXuADUvHLuwqVOjofcVw__original/img/8rDidPVUtgk10ilFF10ySamCRdk=/0x0/filters:format(jpeg)/pic1406139.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AfHXuADUvHLuwqVOjofcVw__small/img/f3bIS797z-tJM5KtJ1a2CaO5Jng=/fit-in/200x150/filters:strip_icc()/pic1406139.jpg",
+    "link": "https://boardgamegeek.com/thing/129423",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.88885",
+    "averageWeight": "3.0625",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Role Playing",
+      "Team-Based Game",
+      "Variable Phase Order"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Dice",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Miniatures"
+    ],
+    "designers": [
+      "Adam Sadler",
+      "Brady Sadler"
+    ]
+  }
+}

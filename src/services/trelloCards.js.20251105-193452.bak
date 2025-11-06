@@ -8,7 +8,6 @@ const bggApiToken = process.env.BGG_API_TOKEN;
 
 // Constants
 const cacheDir = './public/gameCache'; // Subdirectory for cache files
-const FALLBACK_IMAGE_URL = 'https://boardgamegeek.com/image/1657689';
 const cacheDuration = 30 * 24 * 60 * 60 * 1000; // 30 days in milliseconds
 
 
@@ -82,8 +81,8 @@ if (Array.isArray(game.link)) {
 			name: gameName || 'Error',
 			type: game.$?.type || 'Error',
 			description: game.description?.[0] || 'Error',
-			image: game.image?.[0] || FALLBACK_IMAGE_URL,
-			thumbnail: game.thumbnail?.[0] || FALLBACK_IMAGE_URL,
+			image: game.image?.[0] || 'Error',
+			thumbnail: game.thumbnail?.[0] || 'Error',
 			link: `https://boardgamegeek.com/thing/${bggGameId}`,
 			minPlayers: game.minplayers?.[0]?.$.value || 'Error',
 			maxPlayers: game.maxplayers?.[0]?.$.value || 'N/A',

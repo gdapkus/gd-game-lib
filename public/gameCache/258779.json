@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-11-06T04:14:26.338Z",
+  "gameDetails": {
+    "id": "258779",
+    "name": "Planet Unknown",
+    "type": "boardgame",
+    "description": "Our planet has run out of resources, and we are forced to move. We have discovered a series of planets and sent our rovers to test their environment with the hope of colonization. Our rovers have confirmed 1-6 viable colonization options.\n\nPlanet Unknown is a competitive game for 1-6 players in which players attempt to develop the best planet. Each round, each player places one polyomino-shaped, dual-resource tile on their planet. Each resource represents the infrastructure needed to support life on the planet. Every tile placement is important to cover your planet efficiently and also to build up your planet's engine. After placing the tile, players do two actions associated with the two infrastructure types on the tile. Some tile placements trigger \"meteors\" that make all planets harder to develop and prevent them from scoring points in the meteor's row and column.\n\nPlanet Unknown innovates on the popular polyomino trend by allowing simultaneous, yet strategic turn-based play via the Lazy S.U.S.A.N. space station in the center of the table.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/3HkjDovk8Yr2wMumcSUGog__original/img/hl_WEzG4mKaEW_7qrZf-sPxXMpI=/0x0/filters:format(jpeg)/pic4843622.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3HkjDovk8Yr2wMumcSUGog__small/img/4pF1oDpvn1VR3rbvW88xLK86xmA=/fit-in/200x150/filters:strip_icc()/pic4843622.jpg",
+    "link": "https://boardgamegeek.com/thing/258779",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "80",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "80",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.76975",
+    "averageWeight": "2.2508",
+    "boardGameRank": "171",
+    "mechanics": [
+      "End Game Bonuses",
+      "Events",
+      "Grid Coverage",
+      "Grid Movement",
+      "Hidden Victory Points",
+      "Map Addition",
+      "Neighbor Scope",
+      "Network and Route Building",
+      "Open Drafting",
+      "Pattern Building",
+      "Rondel",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Sudden Death Ending",
+      "Tags",
+      "Tech Trees / Tech Tracks",
+      "Tile Placement",
+      "Turn Order: Progressive",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "City Building",
+      "Industry / Manufacturing",
+      "Puzzle",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "designers": [
+      "Ryan Lambert",
+      "Adam Rehberg"
+    ]
+  }
+}

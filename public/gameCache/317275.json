@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-06T04:14:42.199Z",
+  "gameDetails": {
+    "id": "317275",
+    "name": "Sushi Go Party!: Pickled Ginger Promo",
+    "type": "boardgameexpansion",
+    "description": "Pickled Ginger﻿ is a Special type card that awards points for collecting unique nigiri.\n\nThis promo has three cards plus one rules tile.\n\n",
+    "image": "https://cf.geekdo-images.com/_vFqEFIRfglgFDUukwi0WQ__original/img/uP7IOAl4eUB6JzTgw8r-Q2D1dYk=/0x0/filters:format(jpeg)/pic8250896.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_vFqEFIRfglgFDUukwi0WQ__small/img/x-SefIxqoeyNWMcDQE4KcZZJLPU=/fit-in/200x150/filters:strip_icc()/pic8250896.jpg",
+    "link": "https://boardgamegeek.com/thing/317275",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2020",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      8
+    ],
+    "averageRating": "7.57018",
+    "averageWeight": "1.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Party Game"
+    ],
+    "designers": [
+      "Phil Walker-Harding"
+    ]
+  }
+}

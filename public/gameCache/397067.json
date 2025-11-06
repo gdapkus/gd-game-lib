@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-06T04:13:54.727Z",
+  "gameDetails": {
+    "id": "397067",
+    "name": "Obsession: Characters Expansion",
+    "type": "boardgameexpansion",
+    "description": "A strange Dowager lives outside of Derby in a sprawling manor distastefully done up like a Scottish castle. More distasteful yet is that her estate is simply crawling with odd characters, refugees from around Europe and eccentric, if pedigreed, characters from closer to home. Respectable people shun the great lady for her appalling taste in acquaintances, but one must confess that her rabble is spectacularly interesting...\n\nThe Characters expansion for Obsession brings thematic new personalities to Derbyshire who provide unique actions for managing your country estate: Constable Bucket, a fair hand at running off all manner of unsavoury guests; a Mr. Higbee who can find domestic help in a pinch (&ldquo;References? I am sure they are here somewhere&hellip;&rdquo;); the wise Reverend Grantly, a dispenser of sage advice; and an Eccentric Dowager Marchioness, who will connect you with a Prussian major, Swedish noble, and a Russian count as quick as a wink.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/C9QYHzZehraLO2aQXPk85Q__original/img/_84SH3RId0SQFTpBu3FgY04RNFo=/0x0/filters:format(jpeg)/pic7655454.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/C9QYHzZehraLO2aQXPk85Q__small/img/VVj6CM-VchhqYe9dQKvk0mKZPsg=/fit-in/200x150/filters:strip_icc()/pic7655454.jpg",
+    "link": "https://boardgamegeek.com/thing/397067",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2024",
+    "playingTime": "180",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "180",
+    "bestAtCount": null,
+    "averageRating": "8.36789",
+    "averageWeight": "3.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Post-Napoleonic"
+    ],
+    "designers": [
+      "Dan Hallagan"
+    ]
+  }
+}

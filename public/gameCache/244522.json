@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-06T04:14:54.933Z",
+  "gameDetails": {
+    "id": "244522",
+    "name": "That's Pretty Clever!",
+    "type": "boardgame",
+    "description": "Choose your dice cleverly in Ganz sch&ouml;n clever (German for \"That's Pretty Clever\") to enter them into the matching colored areas on your score sheet, putting together tricky chain-scoring opportunities, and racking up the points! The dice you don't use are as important as those you do, because every die with a lower value than the chosen one can be used by the other players, keeping everyone in the game at all times.\n\n",
+    "image": "https://cf.geekdo-images.com/u1EZSUC5n8k4g4OFPkn3ow__original/img/e4QJiofBkd18ZffIURPyqNWrhxk=/0x0/filters:format(jpeg)/pic8014078.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/u1EZSUC5n8k4g4OFPkn3ow__small/img/mOfaidSnvnq2gHEQuAsYTLyIQQQ=/fit-in/200x150/filters:strip_icc()/pic8014078.jpg",
+    "link": "https://boardgamegeek.com/thing/244522",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.55763",
+    "averageWeight": "1.8562",
+    "boardGameRank": "197",
+    "mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Re-rolling and Locking",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Dice",
+      "Number"
+    ],
+    "designers": [
+      "Wolfgang Warsch"
+    ]
+  }
+}

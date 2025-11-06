@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-06T04:14:29.501Z",
+  "gameDetails": {
+    "id": "393509",
+    "name": "Planet Unknown: Supermoon",
+    "type": "boardgameexpansion",
+    "description": "The meteor strikes have caused great damage. We&rsquo;ve gathered as much wreckage as possible so please use the salvage carefully. Complete the primary objective and build the planet that will preserve humanity. Expand your developments onto the Supermoon in case the meteorite hazards get out of hand. Planet Unknown is a polyomino tile-laying game that mixes tile-placement, engine-building, simultaneous play, and resource and rover management for a unique and competitive gameplay experience. Supermoon is the first expansion.\n\nSUPERMOON SUPERPUZZLE\nA new decision point has been created. Place your tile on your moon or onto your planet. The moon comes equipped with a 3d satellite mini to help clear meteorites in a unique way. You could even choose to deploy a rover on your moon. Tile selection, tile placement, and meteorite cleanup will be the key to mastering this new puzzle.\n\nEXTENDED GAMEPLAY\nThe net effect of the Supermoon expansion will be games that take roughly 5 simultaneous turns longer, extending your gameplay from ~65 minutes to ~80 minutes. This extension allows new strategies to emerge and players must challenge existing assumptions about Planet Unknown retain to their winning edge.\n\nSALVAGE TILES\nA supply of salvage tiles will be available to each player. Each salvage tile is a split polyomino, salvaged from the recent meteor showers, and always has one resource and one meteorite. Instead of drafting from the S.U.S.A.N., you may choose to place any two of your salvage tiles placing them together or apart.\n\nNEW PLANET AND CORPORATION\nWith the recent meteor shower, a new corporation has assembled from the wreckage. Mix and match the new planet and corporation content to create even more asymmetric pairings in Planet Unknown.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/1Z9CyClFHtpWI_q5q78Vug__original/img/pNZQV3oE6-vPrsAIwNma-nyKuZs=/0x0/filters:format(jpeg)/pic7602926.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1Z9CyClFHtpWI_q5q78Vug__small/img/rhE51WFcj_1uM4PaTUaPal6wg24=/fit-in/200x150/filters:strip_icc()/pic7602926.jpg",
+    "link": "https://boardgamegeek.com/thing/393509",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "80",
+    "minPlayingTime": "65",
+    "maxPlayingTime": "80",
+    "bestAtCount": [
+      2,
+      6
+    ],
+    "averageRating": "7.69477",
+    "averageWeight": "2.5714",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Multiple Maps",
+      "Open Drafting",
+      "Tile Placement",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Puzzle",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "designers": [
+      "Ryan Lambert",
+      "Adam Rehberg"
+    ]
+  }
+}

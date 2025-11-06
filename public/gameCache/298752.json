@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-06T04:13:13.361Z",
+  "gameDetails": {
+    "id": "298752",
+    "name": "It's a Wonderful World: War or Peace",
+    "type": "boardgameexpansion",
+    "description": "This expansion is a campaign allowing players to live an adventure scripted in 5 scenarios which brings, collectively during the game, players to make choices that will tip the story towards Peace or World War.\n\nAt the start of a game, players open an envelope containing the story, the special rules of the scenario and the extra cards for this scenario. Then, at the end of the game, each player receives different rewards depending on whether they won or lost and according to their own choices during the game (depending on the scenario).\n\nThus, each one builds their Heritage over the 5 scenarios. The winner of the campaign is the one who wins the last scenario.\n\nThe campaign offers 6 scenarios in all because there is a branch, depending on the choice of players in scenario 4.\n\nDuring the campaign and after the campaign, the players will unlock cards which can come to enrich the basic game definitively. The Heritage campaigns therefore offer players to live a story and gradually unlock a mini-extension to the base game offering a new mechanic, a bit like a Legacy, but totally replayable because there is no alteration of equipment.\n\nThe campaign is also playable solo.\n\nIncluded in the Kickstarter Heritage edition of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/ToHfrBwIrS2JgfdMqn01zA__original/img/s2BVL87_A9TVM04OfacRGqfnyXw=/0x0/filters:format(jpeg)/pic5684929.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ToHfrBwIrS2JgfdMqn01zA__small/img/LgkO1QPt3lpGxcternivkR1as-s=/fit-in/200x150/filters:strip_icc()/pic5684929.jpg",
+    "link": "https://boardgamegeek.com/thing/298752",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.77039",
+    "averageWeight": "2.4091",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Civilization",
+      "Economic",
+      "Expansion for Base-game",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Benoit Bannier",
+      "Frédéric Guérard"
+    ]
+  }
+}

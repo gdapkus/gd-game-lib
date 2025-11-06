@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-06T04:14:01.061Z",
+  "gameDetails": {
+    "id": "373701",
+    "name": "Pax Hispanica",
+    "type": "boardgame",
+    "description": "You are a Spanish, English, French, Dutch, or Courish lad with a life goal to become a great courtier, emancipator, or pirate of the Caribbean. It&rsquo;s the 17th century, so the decadent Spanish crown owns everything, the inquisition hears everyone, the black market is everywhere, and nowhere is safe from the pillaging of the buccaneers. You sail annually among the islands to transport, plunder, smuggle, or ambush boatloads of silver, pearls, gems, and priceless relics intended to finance the ambitions of the crown.\n\nThis is an asymmetrical game of ship battles and treachery. The mechanics are similar to other Pax games, with a Tableau, Market, blind Auction, and 4 different career choices and victories. The future of the Spanish Main will be set by the choices you make.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/5vBPv-QU-yGxMPHhKHA4nQ__original/img/-GPq3SYEum4_F-3B1dl1OHS_tzs=/0x0/filters:format(jpeg)/pic7208510.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5vBPv-QU-yGxMPHhKHA4nQ__small/img/8jcBW6lhB2H5GYWUfDEgMI_h0R0=/fit-in/200x150/filters:strip_icc()/pic7208510.jpg",
+    "link": "https://boardgamegeek.com/thing/373701",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.37183",
+    "averageWeight": "4.28",
+    "boardGameRank": "5425",
+    "mechanics": [
+      "Area Movement",
+      "Auction / Bidding",
+      "Push Your Luck",
+      "Rock-Paper-Scissors",
+      "Secret Unit Deployment"
+    ],
+    "categories": [
+      "Economic",
+      "Nautical",
+      "Negotiation",
+      "Pirates"
+    ],
+    "designers": [
+      "Phil Eklund"
+    ]
+  }
+}

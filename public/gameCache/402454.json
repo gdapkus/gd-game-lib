@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-06T04:13:16.529Z",
+  "gameDetails": {
+    "id": "402454",
+    "name": "Kutná Hora: The City of Silver – Land Rights Compact Promo Card",
+    "type": "boardgameexpansion",
+    "description": "A new event card that was given out to those people that pre-ordered Kutn&aacute; Hora: The City of Silver, or bought the game at SPIEL '23. Its effects are as follows:\n\nAdvance the tax counter by one, advance the ore deck by one, and advance the population deck by one.\nAt the end of the round, lose 1 reputation for each plot marker you have in Kutn&aacute; Hora.\n\n",
+    "image": "https://cf.geekdo-images.com/8b-Ki5k0mxP5fqSZ-9_COg__original/img/w6TdcnnCCZ1iEvojNhbGSBk8noo=/0x0/filters:format(png)/pic7780941.png",
+    "thumbnail": "https://cf.geekdo-images.com/8b-Ki5k0mxP5fqSZ-9_COg__small/img/Zf0XWqtNlyZtcgTLEF4k8nEB2dk=/fit-in/200x150/filters:strip_icc()/pic7780941.png",
+    "link": "https://boardgamegeek.com/thing/402454",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.36018",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Market",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "City Building",
+      "Economic",
+      "Medieval",
+      "Territory Building"
+    ],
+    "designers": [
+      "Ondřej Bystroň",
+      "Petr Čáslava",
+      "Pavel Jarosch"
+    ]
+  }
+}

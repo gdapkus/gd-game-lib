@@ -15,7 +15,6 @@ const path = require('path');
 const fs = require('fs');
 // Constants
 const cacheDir = 'public/gameCache'; // Subdirectory for cache files
-const FALLBACK_IMAGE_URL = 'https://boardgamegeek.com/image/1657689';
 
 const bggUsersPath = path.join(__dirname, 'config', 'bggUsers.json');
 const bggUsers = JSON.parse(fs.readFileSync(bggUsersPath, 'utf8'));
@@ -281,7 +280,6 @@ async function loadCollection(userName) {
 	const bggApiToken = process.env.BGG_API_TOKEN;
 
   const maxRetries = 2; // Set the number of retries
-  const retryDelays = [10000, 30000]; // Retry delays: 10s then 30s
   let retries = 0;
     let cacheModified = false;
 
@@ -291,88 +289,42 @@ async function loadCollection(userName) {
     }
 
     const existingGamesMap = new Map(cachedData.games.map(game => [game.collid, game]));
-    let lastResponseData = null;
 
 
   while (retries <= maxRetries) {
     try {
-      lastResponseData = null;
-      const attempt = retries + 1;
-      console.log(`Requesting owned games from BGG for ${userName} (attempt ${attempt})`);
       const response = await axios.get(collectionUrl, {
 		headers: bggApiToken ? { Authorization: `Bearer ${bggApiToken}` } : {}
 	  }); // Fetch BGG collection
-      console.log(`BGG response for ${userName} (attempt ${attempt}): status ${response.status}`);
-      if (typeof response.data === 'string') {
-        const preview = response.data.slice(0, 200).replace(/\s+/g, ' ').trim();
-        console.log(`BGG response snippet: ${preview}${response.data.length > 200 ? '…' : ''}`);
-      } else {
-        console.log(`BGG response keys: ${Object.keys(response.data)}`);
-      }
-      lastResponseData = response.data;
-
-      const isQueued = response.status === 202 || (typeof response.data === 'string' && response.data.includes('Your request for this collection has been accepted'));
-      if (isQueued) {
-        retries += 1;
-        if (retries > maxRetries) {
-          throw new Error(`Collection still queued after ${retries} attempts.`);
-        }
-        const delay = retryDelays[Math.min(retries - 1, retryDelays.length - 1)];
-        console.warn(`BGG collection request queued for ${userName}; requested file delayed, waiting ${delay / 1000}s before retry ${retries}`);
-        await wait(delay);
-        continue;
-      }
-
       const result = await xml2js.parseStringPromise(response.data); // Parse XML response
-      const items = result.items && result.items.item ? result.items.item : null;
-      if (!Array.isArray(items) || items.length === 0) {
-        retries += 1;
-        if (retries > maxRetries) {
-          throw new Error(`Collection response missing items after ${retries} attempts.`);
-        }
-        const delay = retryDelays[Math.min(retries - 1, retryDelays.length - 1)];
-        const queueMessage = Array.isArray(result.message) ? result.message.join(' ').trim() : 'Collection not ready yet';
-        console.warn(`BGG collection response for ${userName} missing items (${queueMessage}); requested file delayed, waiting ${delay / 1000}s before retry ${retries}`);
-        await wait(delay);
-        continue;
-      }
-      console.log(`Received ${items.length} owned games from BGG for ${userName}`);
 	  
             // Use a `for...of` loop to handle asynchronous API calls sequentially
             const newGamesList = [];
-            for (const game of items) {
-                const existingGame = existingGamesMap.get(game.$.collid);
-                const status = (Array.isArray(game.status) && game.status[0] && game.status[0].$) || {};
-                const nameValue = readNodeText(game.name, existingGame?.name || 'Unknown title');
-                const imageValue = readNodeText(game.image, existingGame?.image || FALLBACK_IMAGE_URL);
-                const thumbnailValue = readNodeText(game.thumbnail, existingGame?.thumbnail || FALLBACK_IMAGE_URL);
-                const numPlaysValue = readNodeText(game.numplays, existingGame?.numplays || '0');
-
-                if (!Array.isArray(game.image) || !game.image.length || !Array.isArray(game.thumbnail) || !game.thumbnail.length) {
-                    console.warn(`Missing artwork for ${nameValue} (${game.$.objectid}); using fallback image.`);
-                }
-
+            for (const game of result.items.item) {
+                const status = game.status[0].$;
                 const newGameData = {
                     id: game.$.objectid,
                     collid: game.$.collid,
-                    name: nameValue,
-                    image: imageValue,
-                    thumbnail: thumbnailValue,
-                    lastmodified: status.lastmodified || existingGame?.lastmodified || new Date().toISOString(),
-                    numplays: numPlaysValue,
+                    name: game.name[0]._,
+                    image: game.image[0],
+                    thumbnail: game.thumbnail[0],
+                    lastmodified: status.lastmodified,
+                    numplays: game.numplays[0],
                     status: {
-                        own: status.own === '1' || existingGame?.status?.own || false,
-                        prevowned: status.prevowned === '1' || existingGame?.status?.prevowned || false,
-                        fortrade: status.fortrade === '1' || existingGame?.status?.fortrade || false,
-                        want: status.want === '1' || existingGame?.status?.want || false,
-                        wanttoplay: status.wanttoplay === '1' || existingGame?.status?.wanttoplay || false,
-                        wanttobuy: status.wanttobuy === '1' || existingGame?.status?.wanttobuy || false,
-                        wishlist: status.wishlist === '1' || existingGame?.status?.wishlist || false,
-                        wishlistpriority: typeof status.wishlistpriority === 'string' ? parseInt(status.wishlistpriority, 10) || null : existingGame?.status?.wishlistpriority || null,
-                        preordered: status.preordered === '1' || existingGame?.status?.preordered || false
+                        own: status.own === '1',
+                        prevowned: status.prevowned === '1',
+                        fortrade: status.fortrade === '1',
+                        want: status.want === '1',
+                        wanttoplay: status.wanttoplay === '1',
+                        wanttobuy: status.wanttobuy === '1',
+                        wishlist: status.wishlist === '1',
+                        wishlistpriority: parseInt(status.wishlistpriority, 10) || null,
+                        preordered: status.preordered === '1'
                     }
                 };
 
+                const existingGame = existingGamesMap.get(newGameData.collid);
+                
                 if (!existingGame || existingGame.lastmodified !== newGameData.lastmodified) {
                     cacheModified = true;
 
@@ -404,24 +356,6 @@ async function loadCollection(userName) {
 	console.log(`Cache modified: ${cacheModified}`);
       return cacheModified ? 'Collection loaded successfully. Refresh to view the cached data.' : 'No changes to collection.';
     } catch (error) {
-      if (error && typeof error.message === 'string' && error.message.includes("Cannot read properties of undefined (reading '0')")) {
-        if (lastResponseData) {
-          try {
-            const rawResponseDir = path.join(cacheDir, 'rawResponses');
-            fs.mkdirSync(rawResponseDir, { recursive: true });
-            const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
-            const rawFilePath = path.join(rawResponseDir, `collection_${sanitizedUserName}_${timestamp}.xml`);
-            const serializedData = typeof lastResponseData === 'string'
-              ? lastResponseData
-              : JSON.stringify(lastResponseData, null, 2);
-            fs.writeFileSync(rawFilePath, serializedData, 'utf8');
-            console.error(`Saved raw BGG response to ${rawFilePath}`);
-          } catch (fileError) {
-            console.error(`Failed to save raw BGG response: ${fileError.message}`);
-          }
-        }
-        throw error;
-      }
       retries += 1;
       console.error(`Attempt ${retries} failed: ${error.message}`);
 
@@ -429,32 +363,11 @@ async function loadCollection(userName) {
         throw new Error(`Failed to load BGG collection after ${retries} attempts.`);
       }
 
-      const delay = retryDelays[Math.min(retries - 1, retryDelays.length - 1)];
-      console.warn(`Waiting ${delay / 1000}s before retry ${retries} for ${userName}`);
-      await wait(delay);
+      await wait(5000); // Wait for 5 seconds before retrying
     }
   }
 }
 
-
-function readNodeText(node, fallback = null) {
-    if (!Array.isArray(node) || node.length === 0) {
-        return fallback;
-    }
-    const first = node[0];
-    if (typeof first === 'string') {
-        return first;
-    }
-    if (first && typeof first === 'object') {
-        if (typeof first._ === 'string') {
-            return first._;
-        }
-        if (first.$ && typeof first.$.value === 'string') {
-            return first.$.value;
-        }
-    }
-    return fallback;
-}
 
 //function to load the cached collection from the json
 function getCachedCollection(userName) {

@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-06T04:13:41.985Z",
+  "gameDetails": {
+    "id": "291572",
+    "name": "Oath",
+    "type": "boardgame",
+    "description": "In Oath, one to six players guide the course of history in an ancient land. Players might take the role of agents bolstering the old order or scheme to bring the kingdom to ruin. The consequences of one game will ripple through those that follow, changing what resources and actions future players may have at their disposal and even altering the game's core victory condition.\n\nIf a player seizes control by courting anarchy and distrust, future players will have to contend with a land overrun by thieves and petty warlords. In a later game, a warlord might attempt to found a dynasty, creating a line of rulers that might last generations or be crushed by the rise of a terrible, arcane cult.\n\nIn Oath, there are no fancy production tricks, app-assisted mechanisms or production gimmicks. The game can be reset at any time and doesn't require the same play group from one game to the next. A player might use the fully-featured solo mode to play several generations during the week and then use that same copy of the game for Saturday game-night with friends. There are no scripted narratives or predetermined end points. The history embedded in each copy of Oath will grow to be as unique as the players who helped build it.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/gTxav_KKQK1rDg-XuCjCSA__original/img/lG-iXVzDlfFrD6VPggvg2WQ7228=/0x0/filters:format(jpeg)/pic5164812.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gTxav_KKQK1rDg-XuCjCSA__small/img/tFTOAKG5aDXxYfNRmJNmfyxH83M=/fit-in/200x150/filters:strip_icc()/pic5164812.jpg",
+    "link": "https://boardgamegeek.com/thing/291572",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2021",
+    "playingTime": "150",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.72649",
+    "averageWeight": "4.1175",
+    "boardGameRank": "331",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Modular Board",
+      "Negotiation",
+      "Scenario / Mission / Campaign Game",
+      "Storytelling",
+      "Take That",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic",
+      "Fantasy",
+      "Negotiation",
+      "Political",
+      "Territory Building",
+      "Wargame"
+    ],
+    "designers": [
+      "Cole Wehrle"
+    ]
+  }
+}

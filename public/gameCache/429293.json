@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-06T04:13:19.678Z",
+  "gameDetails": {
+    "id": "429293",
+    "name": "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game",
+    "type": "boardgame",
+    "description": "The Fellowship of the Ring: Trick-Taking Game is a co-operative card game that plays out over eighteen chapters that lead players through the events of the novel The Fellowship of the Ring. The chapters can be played in any order, but ideally you play them in sequence.\n\nIn each chapter, each player takes a different character role &mdash; Frodo, Gandalf, Sam, Pippin, Farmer Maggot, etc. &mdash; and each character has a condition that must be met in order to pass the chapter and advance in the story. Frodo needs to capture ring cards, for example, while Pippin wants to take as few tricks as possible. As you advance through the chapters, new characters, items, and challenges are introduced to the game.\n\nThe deck consists of 37 cards, with one card being set aside as \"lost\" each hand. Whoever is dealt the One Ring becomes Frodo, then other players choose from the available characters based on their hand. The One Ring is the game's only trump card, but initially rings can't be led until someone plays one off-suit.\n\nIn the two-player game, one hand of cards is dealt to a dummy player, with some cards being face up and others face down. This dummy is assigned a character, and one of the human players will play cards for it based on which cards are free to be played.\n\nIn the solitaire game, one player plays four hands of face-up cards, with each hand being assigned a character and only a few cards being available at a time. After you play a trick, deal each hand a new card.\n\n",
+    "image": "https://cf.geekdo-images.com/uC4N_3kQdoHefNPesAHCzQ__original/img/ohKFXmrxtaOPqJyiIMaABIy-WjU=/0x0/filters:format(png)/pic8437787.png",
+    "thumbnail": "https://cf.geekdo-images.com/uC4N_3kQdoHefNPesAHCzQ__small/img/hLjGKsIwJP43656LEnehjFVRzDE=/fit-in/200x150/filters:strip_icc()/pic8437787.png",
+    "link": "https://boardgamegeek.com/thing/429293",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.95571",
+    "averageWeight": "1.963",
+    "boardGameRank": "262",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Scenario / Mission / Campaign Game",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Fantasy",
+      "Novel-based"
+    ],
+    "designers": [
+      "Bryan Bornmueller"
+    ]
+  }
+}

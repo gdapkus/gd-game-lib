@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-06T04:12:54.379Z",
+  "gameDetails": {
+    "id": "419192",
+    "name": "Free Ride USA",
+    "type": "boardgame",
+    "description": "During the 1950s, the network of railway lines in USA was modernized because of new diesel locomotives. This allowed people to travel to the major cities to visit beautiful old and new structures worth to see.\n\nIn Free Ride USA, you are taking charge of rebuilding the railway lines and carry passengers to the cities. Your railway lines and state-owned railway lines are free of charge, while you must pay fellow players to convert their lines into state-owned railway lines.\n\nChoose travel routes from an open display of city cards and gain additional coins for the long east-west connections. Visit as many different cities of America as possible to gain the most victory points.\n\nFree Ride USA also offers a difficult solo challenge!\n\n",
+    "image": "https://cf.geekdo-images.com/fmGA8ucbDMSWOttWDZ9m3Q__original/img/ehlohyymY_3alztNfkGRwMqzu1I=/0x0/filters:format(png)/pic8143602.png",
+    "thumbnail": "https://cf.geekdo-images.com/fmGA8ucbDMSWOttWDZ9m3Q__small/img/ZTH62sBdEPSJ_X6x8ou1e7QIjJg=/fit-in/200x150/filters:strip_icc()/pic8143602.png",
+    "link": "https://boardgamegeek.com/thing/419192",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.38865",
+    "averageWeight": "2.4",
+    "boardGameRank": "6556",
+    "mechanics": [
+      "Connections",
+      "Contracts",
+      "Movement Points",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Solo / Solitaire Game",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Trains",
+      "Transportation",
+      "Travel"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-theme-provider theme="light">
+    <v-theme-provider theme="dark">
           <v-container>
             <!-- Header -->
             <v-app-bar app flat color="green">
@@ -647,7 +647,6 @@ img {
   line-height: 48px;
   text-align: center;
   font-weight: bold;
-  color: #333;
 }
 .meeple-icon {
   position: relative;
@@ -662,7 +661,6 @@ img {
   line-height: 48px;
   text-align: center;
   font-weight: bold;
-  color: #333;
 }
 .time-icon {
   position: relative;
@@ -677,7 +675,7 @@ img {
   line-height: 48px;
   text-align: center;
   font-weight: bold;
-  color: #333;
+  color: #fff;
 }
 .weight-icon {
   position: relative;
@@ -692,7 +690,6 @@ img {
   line-height: 32px;
   text-align: center;
   font-weight: bold;
-  color: #333;
 }
 .player-count-group {
   display: flex;
@@ -710,4 +707,5 @@ img {
   background-color: #e8f5e9;
   color: #1b5e20;
 }
+
 </style>

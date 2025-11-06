@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-06T04:13:32.434Z",
+  "gameDetails": {
+    "id": "378284",
+    "name": "MATRX GIPF",
+    "type": "boardgame",
+    "description": "MATRX GIPF features the basic elements of GIPF combined with the move options from DVONN, P&Uuml;NCT, Z&Egrave;RTZ, YINSH, and TAMSK, opening up completely new tactical options that need to be mastered.\n\nMATRX GIPF can also be used as an expansion for GIPF.\n\nNote: You cannot play original GIPF with MATRX GIPF by itself, because MATRX GIPF has a different board and does not have enough GIPF pieces needed to play GIPF.\n\n",
+    "image": "https://cf.geekdo-images.com/n3G8Qao8jW_WATgyJPt7cw__original/img/elGVjwgUrlh7_dsUdcMDwLBzUOI=/0x0/filters:format(png)/pic8021105.png",
+    "thumbnail": "https://cf.geekdo-images.com/n3G8Qao8jW_WATgyJPt7cw__small/img/MFeNLeyPhM2_yjED6P--oyj8DjM=/fit-in/200x150/filters:strip_icc()/pic8021105.png",
+    "link": "https://boardgamegeek.com/thing/378284",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.00978",
+    "averageWeight": "3.5",
+    "boardGameRank": "14118",
+    "mechanics": [
+      "Grid Movement",
+      "Pattern Building"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Kris Burm"
+    ]
+  }
+}

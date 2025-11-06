@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-11-06T04:13:26.023Z",
+  "gameDetails": {
+    "id": "430008",
+    "name": "Lost Ruins of Arnak: Rat Promo Card",
+    "type": "boardgameexpansion",
+    "description": "Promo originally given at the CGE booth during Spiel '24. Later available on CGE website.\n\nCard action: \"Return a placed worker from a campsite to your board\"\n\n",
+    "image": "https://cf.geekdo-images.com/zAgHDG-ZtNKiPjI3JAaKLQ__original/img/ppUj356WeNv8wngnQueKnI9BVtA=/0x0/filters:format(jpeg)/pic8529528.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zAgHDG-ZtNKiPjI3JAaKLQ__small/img/dYvDyNaWOtoqaes0XJWn3AsNGfg=/fit-in/200x150/filters:strip_icc()/pic8529528.jpg",
+    "link": "https://boardgamegeek.com/thing/430008",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "8.30012",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": []
+  }
+}

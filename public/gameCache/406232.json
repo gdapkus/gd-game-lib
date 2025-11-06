@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-06T04:13:07.054Z",
+  "gameDetails": {
+    "id": "406232",
+    "name": "How to Save a World",
+    "type": "boardgame",
+    "description": "As one of the leading scientific researchers in the galaxy, you're in high demand. You've spent the last two years on Alarria, a small terrestrial planet several light-years from Earth. You've been studying the diverse indigenous fauna, and your field research has already yielded some incredible results. However, your days as a simple scientific researcher are about to end.\n\nAn asteroid roughly the size of a small country has been picked up on radar hurtling towards Alarria &mdash; a planet killer. Your research work has been put on hold as the greatest minds on the planet have been recruited to develop plans. Time is running out as each second brings the asteroid closer to Alarria. Where will you focus your efforts? Which plan has the best chance to succeed? There's no time to waste. If something isn't done soon, the planet itself might cease to exist. Three distinct plans have been set into motion, each with a razor thin chance of succeeding:\n\n\n    A powerful laser is tracking the asteroid's approach and will fire as soon as it comes within range in hopes of reducing it to a mere pebble.\n    An energy shield might be just enough to deflect the approaching asteroid, altering its course and saving Alarria.\n    In a final desperate attempt to preserve some of the unique species of the planet, an evacuation plan has been ordered. The nearby forest moon, Fortuna, has been tested and can support life, and thankfully it's out of the blast zone. You just need to move as many of the species as possible before impact.\n\n\nHow to Save a World is a worker-placement game with hand-building and resource management. Each turn, you assign workers to perform critical tasks or spend action cards to help advance your goals. At the end of each round, the projects will be assessed and the asteroid will move ever closer. Can you make the right decisions to avert disaster in this competitive science-fiction game?\n\n&mdash;description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/KbfYkCQaOQ9cyPZfFCdLAg__original/img/sKu8pFDj7UqSvW7jRdAJfyB4O6U=/0x0/filters:format(jpeg)/pic7887130.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KbfYkCQaOQ9cyPZfFCdLAg__small/img/IksBWrRazKFMSrA_BzwlYuFXrxc=/fit-in/200x150/filters:strip_icc()/pic7887130.jpg",
+    "link": "https://boardgamegeek.com/thing/406232",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.69526",
+    "averageWeight": "3.2222",
+    "boardGameRank": "5010",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Science Fiction"
+    ],
+    "designers": [
+      "Yuval Grinspun"
+    ]
+  }
+}

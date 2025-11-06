@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-06T02:34:12.469Z",
+  "gameDetails": {
+    "id": "422042",
+    "name": "Tea Garden",
+    "type": "boardgame",
+    "description": "As the proud owner of one of the tea gardens in the the Chinese Yunnan region, your mission in Tea Garden is to cultivate and expand your empire by establishing new tea gardens along the serene river valley. Tea leaves are your most prized asset, with six grades of tea quality and each region producing a different quality of tea. Transform your fresh, vibrant green tea leaves through fermentation, elevating them to rich, aromatic brown leaves that grow in quality &mdash; and value! &mdash; as they mature.\n\nHarness the power of your deck of cards to orchestrate up to four main actions each game round. The strength of these cards is important for performing the chosen action; the higher the strength, the better the effects you will achieve. With your cards, you will build new tea gardens, acquire new cards, trade your tea with eager caravans, ferment your tea leaves, and harvest more tea. Couple your main actions with the power of secondary actions to navigate the river, produce tea cups, or practice tea studies at the university.\n\n",
+    "image": "https://cf.geekdo-images.com/LIIX8JddEnTiwVV_cQ-mCA__original/img/6gQqWfyD1yZHfPi_4kBYfmaaczs=/0x0/filters:format(jpeg)/pic8238877.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LIIX8JddEnTiwVV_cQ-mCA__small/img/Gz04y-9W33ODQ2VxlpuVxahf7lM=/fit-in/200x150/filters:strip_icc()/pic8238877.jpg",
+    "link": "https://boardgamegeek.com/thing/422042",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.57153",
+    "averageWeight": "3.029",
+    "boardGameRank": "2259",
+    "mechanics": [
+      "Automatic Resource Growth",
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses"
+    ],
+    "categories": [
+      "Ancient",
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Tomáš Holek"
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-02T06:33:34.785Z",
+  "timestamp": "2025-11-06T03:22:07.877Z",
   "games": [
     {
       "id": "429863",
@@ -7,7 +7,7 @@
       "yearPublished": "2025",
       "type": "boardgame",
       "postdate": "2025-10-24 18:55:18",
-      "lastmodified": "2025-11-02 01:31:53",
+      "lastmodified": "2025-11-05 21:15:28",
       "myrating": null,
       "numplays": "0",
       "thumbnail": "https://cf.geekdo-images.com/4XkIFGbIAXtA-pDb6nlvsg__small/img/uQ9etIk8_uvoJuVA9ZzTtNYORKg=/fit-in/200x150/filters:strip_icc()/pic8968542.jpg",
@@ -34,6 +34,40 @@
       ],
       "designers": [
         "Germán P. Millán"
+      ]
+    },
+    {
+      "id": "422042",
+      "name": "Tea Garden",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-10-05 23:39:59",
+      "lastmodified": "2025-11-05 20:32:53",
+      "myrating": null,
+      "numplays": "0",
+      "thumbnail": "https://cf.geekdo-images.com/LIIX8JddEnTiwVV_cQ-mCA__small/img/Gz04y-9W33ODQ2VxlpuVxahf7lM=/fit-in/200x150/filters:strip_icc()/pic8238877.jpg",
+      "link": "https://boardgamegeek.com/thing/422042",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "120",
+      "averageRating": "7.57153",
+      "averageWeight": "3.029",
+      "boardGameRank": "2259",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Deck, Bag, and Pool Building",
+        "End Game Bonuses"
+      ],
+      "categories": [
+        "Ancient",
+        "Economic",
+        "Farming"
+      ],
+      "designers": [
+        "Tomáš Holek"
       ]
     },
     {

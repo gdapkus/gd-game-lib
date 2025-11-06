@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-06T04:13:29.222Z",
+  "gameDetails": {
+    "id": "330677",
+    "name": "Lost Ruins of Arnak: Soothsayer's Runes Promo Card",
+    "type": "boardgameexpansion",
+    "description": "Originally available as part of Pack C from the Dice Tower 2021 Kickstarter campaign. Later, available as part of the 2023 Game Boy Geek Season 11 Kickstarter.\n\nText on the card: Choose an opponent&rsquo;s deck. Pick any card from the deck and copy its effect. Then place their card on top of their deck.\n\n",
+    "image": "https://cf.geekdo-images.com/NqpbIJEJSPAjm30O9QGXLQ__original/img/5_dzEiDNGzebivUVlLb41FXrwAY=/0x0/filters:format(jpeg)/pic5969167.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NqpbIJEJSPAjm30O9QGXLQ__small/img/cWTmla7j0lPOWXoApIf4HMPWXD0=/fit-in/200x150/filters:strip_icc()/pic5969167.jpg",
+    "link": "https://boardgamegeek.com/thing/330677",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.95452",
+    "averageWeight": "1.75",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Move Through Deck",
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Resource to Move",
+      "Tile Placement",
+      "Turn Order: Progressive",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Ancient",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": []
+  }
+}

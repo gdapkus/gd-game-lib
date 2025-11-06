@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-06T04:13:38.784Z",
+  "gameDetails": {
+    "id": "242301",
+    "name": "Mystic Vale: Conclave",
+    "type": "boardgameexpansion",
+    "description": "Mystic Vale: Conclave provides the ideal storage solution designed to hold all of the previous releases, with room to spare for future expansions! The new Equinox mechanic allows players to greatly speed up gameplay and can even scale up to 6&ndash;player games with the two additional starter decks provided. The new conclaves grant players the option to customize the starting decks of advancements and vales, creating a new play experience each game. Unique totem cards imbue players with awesome abilities they can use each turn, to truly feel the power of Gaia&rsquo;s blessing. Spirit counters provide a way for players to track their spirit symbols during their turn.\n\n",
+    "image": "https://cf.geekdo-images.com/TPGU9AXaQIbQO7Bn3GqTPg__original/img/A6VadD8ienCGggUPktl_1Ls1UZI=/0x0/filters:format(jpeg)/pic4017300.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TPGU9AXaQIbQO7Bn3GqTPg__small/img/l4mIiuJ9C9v-rUJ4q5Bw_BtVlOU=/fit-in/200x150/filters:strip_icc()/pic4017300.jpg",
+    "link": "https://boardgamegeek.com/thing/242301",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2018",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.63388",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Passed Action Token",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "John D. Clair"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-06T04:12:51.196Z",
+  "gameDetails": {
+    "id": "438402",
+    "name": "Forest Shuffle: Dartmoor",
+    "type": "boardgame",
+    "description": "Forest Shuffle: Dartmoor is a stand-alone game within the Forest Shuffle family and introduces a brand new habitat and features new species with new abilities and bonuses to explore. As in the earlier original Forest Shuffle, in Forest Shuffle: Dartmoor players compete to build the most valuable environment by placing trees and shrubs, then attracting species to these locations to create an ecologically balanced habitat for flora and fauna.\n\nWhat's new in Dartmoor is the introduction of TERRAIN cards that are played horizontally and serve as a home or feeding ground for different species than trees or shrubs. Due to the nature of the terrain, species can only be placed above and below a terrain card. Deer and other species stay clear from bogs or peat areas in the moorland. They need their drink, but won't feel safe at dwells or next to rivulets. So players have to be watch out, where to place their species.\n\nLike its predecessor, Forest Shuffle: Dartmoor comes with a unique back side: Each of the 180 cards of the deck can be placed face down, creating a bog, if the action allows it. The caves in Forest Shuffle: Dartmoor now will be drafted at the beginning of the game and offer asymmetrical starting conditions. On top, the number of tree symbols has been reduced from eight to six to enable bonuses more easily.\n\nThe game mechanism stays untouched: To start, each player has six cards in hand, with cards depicting either a particular type of tree, shrub or terrain or two moor dwellers (animal, plants), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.  On a turn, either draw two cards &mdash; whether face down from the deck or face up from the clearing &mdash; and add them to your hand, or play a card from your hand by discarding other cards to pay the cost, then putting that first card into play. In the end, the player with the highest score wins.\n\n",
+    "image": "https://cf.geekdo-images.com/2mV8_A8ly2uTpifT-PnA_g__original/img/y06uWsSIw5rMZDXuJDBA8BJcZ-A=/0x0/filters:format(jpeg)/pic9058775.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2mV8_A8ly2uTpifT-PnA_g__small/img/5hTbGVieOOlhrmgYJERulNc-HE8=/fit-in/200x150/filters:strip_icc()/pic9058775.jpg",
+    "link": "https://boardgamegeek.com/thing/438402",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.61632",
+    "averageWeight": "2.2353",
+    "boardGameRank": "2969",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Layering",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Set Collection",
+      "Tags"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Educational",
+      "Environmental"
+    ],
+    "designers": [
+      "Kosch"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-06T04:11:57.132Z",
+  "gameDetails": {
+    "id": "314014",
+    "name": "Civilization: A New Dawn – Terra Incognita",
+    "type": "boardgameexpansion",
+    "description": "Beyond the borders of your fledgling civilization, the great unknown awaits - a land of vast open spaces, a map sparsely decorated with sketches of fantastic creatures, and a note saying, \"Here are dragons\". As you progress through the ages, your civilization will spread to these lands and meet other emerging nations. But only if you first venture into the unknown as brave explorers.\n\nThis expansion is packed with new material and new possibilities that will expand the boundaries of your civilization. With Terra Incognita, you now have the opportunity to explore your surroundings, explore new landscapes, and make the game board dynamic as you play. Your cities will develop new districts that will give you new abilities. New forms of government offer you advantages, and the battle is redefined with more armies. Ten new leaders will also allow you to double the number of civilizations you can play. With Terra Incognita, up to five players can now build their own civilizations and discover new areas, making the expansion an essential addition to Civilization: A New Dawn!\n\n",
+    "image": "https://cf.geekdo-images.com/Yk8fBiciaK-dDLXtdongKg__original/img/K-2-1w-BdDoUlm-Bh4XGc8e6tmo=/0x0/filters:format(jpeg)/pic5966575.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Yk8fBiciaK-dDLXtdongKg__small/img/83pBACiv1TOn9bgrRn0jyfMWE7Q=/fit-in/200x150/filters:strip_icc()/pic5966575.jpg",
+    "link": "https://boardgamegeek.com/thing/314014",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.22133",
+    "averageWeight": "3.6269",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Civilization"
+    ],
+    "designers": [
+      "Tony Fanchi"
+    ]
+  }
+}

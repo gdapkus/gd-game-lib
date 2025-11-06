@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-06T04:14:16.882Z",
+  "gameDetails": {
+    "id": "438585",
+    "name": "Pillars of Heracles: Epic Expansion",
+    "type": "boardgameexpansion",
+    "description": "The Epic Expansion adds the following to the base game of Pillars of Heracles: \n\n     The 5th player expansion (as miniatures)\n     The Trading Monopolies expansion: shape powerful trading routes, influence resource markets, and engage in strategic commerce at any player count. This expansion enhances deck-building, adds more depth, complexity, and variability, and ensures that players stay fully engaged, even during other players' turns. \n     Rome city-state tile\n\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/7sFnCtPxILntw7JEIePzQA__original/img/aMggqHyhjToRgQy6J7Bv36pllrU=/0x0/filters:format(jpeg)/pic8685817.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7sFnCtPxILntw7JEIePzQA__small/img/Pp7Bbd3BIDHsmk2t-OyHq_iio1U=/fit-in/200x150/filters:strip_icc()/pic8685817.jpg",
+    "link": "https://boardgamegeek.com/thing/438585",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "150",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "150",
+    "bestAtCount": null,
+    "averageRating": "7.84615",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Deck, Bag, and Pool Building",
+      "Rondel",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "City Building",
+      "Civilization",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Tamás Oláh"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-11-06T04:12:16.210Z",
+  "gameDetails": {
+    "id": "104162",
+    "name": "Descent: Journeys in the Dark (Second Edition)",
+    "type": "boardgame",
+    "description": "In Descent: Journeys in the Dark (Second Edition), one player takes on the role of the treacherous overlord, and up to four other players take on the roles of courageous heroes. During each game, the heroes embark on quests and venture into dangerous caves, ancient ruins, dark dungeons, and cursed forests to battle monsters, earn riches, and attempt to stop the overlord from carrying out his vile plot. Featuring double-sided modular board pieces, countless hero and skill combinations, and an immersive story-driven campaign, Descent: Journeys in the Dark (Second Edition) transports heroes to a vibrant fantasy realm where they must stand together against an ancient evil.\n\nWith danger lurking in every shadow, combat is a necessity. For such times, Descent: Journeys in the Dark (Second Edition) uses a unique dice-based system. Players build their dice pools according to their character's abilities and weapons, and each die in the pool contributes to an attack in different ways. Surges, special symbols that appear on most dice, also let you trigger special effects to make the most of your attacks. And with the horrors awaiting you beneath the surface, you'll need every advantage you can take...\n\nCompared to the first edition of Descent: Journeys in the Dark, this game features:\n\n\n     Simpler rules for determining line of sight \n     Faster setup of each encounter\n     Defense dice to mitigate the tendency to \"math out\" attacks\n     Shorter quests with plenty of natural stopping points\n     Cards that list necessary statistics, conditions, and effects\n     A new mechanism for controlling the overlord powers\n     Enhanced hero selection and creation process\n     Experience system to allow for hero growth and development\n     Out-of-the-box campaign system\n\n\n",
+    "image": "https://cf.geekdo-images.com/ZN2rpiJ19lg5DZk_iYMMkQ__original/img/E7OjZXGfe2Vfj2qis30aXetbQJQ=/0x0/filters:format(jpeg)/pic1180640.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZN2rpiJ19lg5DZk_iYMMkQ__small/img/C6XETjkjDq3zebWc7-Rf_WKh2ak=/fit-in/200x150/filters:strip_icc()/pic1180640.jpg",
+    "link": "https://boardgamegeek.com/thing/104162",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.60606",
+    "averageWeight": "3.2146",
+    "boardGameRank": "218",
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Line of Sight",
+      "Map Addition",
+      "Modular Board",
+      "Movement Points",
+      "Multiple Maps",
+      "Once-Per-Game Abilities",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Miniatures"
+    ],
+    "designers": [
+      "Daniel Clark (I)",
+      "Corey Konieczka",
+      "Adam Sadler",
+      "Kevin Wilson"
+    ]
+  }
+}

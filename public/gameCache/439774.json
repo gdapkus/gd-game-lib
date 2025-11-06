@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-11-06T04:13:48.384Z",
+  "gameDetails": {
+    "id": "439774",
+    "name": "Oath: Denizen Deck",
+    "type": "boardgameexpansion",
+    "description": "A new deck with over 50 unique denizen cards, which you can use to seed a new chronicle or add to the archive of an existing chronicle.\n\n&mdash;description from the publisher\n\nThe Denizen Deck was included for free with every pledge level of the Kickstarter campaign for Oath: New Foundations.\n\n",
+    "image": "https://boardgamegeek.com/image/1657689",
+    "thumbnail": "https://boardgamegeek.com/image/1657689",
+    "link": "https://boardgamegeek.com/thing/439774",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "0",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Cole Wehrle"
+    ]
+  }
+}

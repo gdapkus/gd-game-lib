@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-06T04:11:50.747Z",
+  "gameDetails": {
+    "id": "180341",
+    "name": "Abyss: Kraken",
+    "type": "boardgameexpansion",
+    "description": "The Smugglers Guild settled in the heart of the giant sea creatures cemetery, in the darkest depths of the Deep kingdom. In this disconcerting necropolis, with the help of mysterious Krakens, representatives of Guilds are trading NEBULIS, wonderful black pearls, that are the unofficial currency of the realm. That's money stained with blood. They accelerate your way to power, but be careful, because those who are caught with possession face a terrible fate!\n\nAbyss: Kraken is the first expansion for Abyss.\n\nWhen playing with the Kraken expansion, the base game rules don't change, although new elements are added:\n\n7 New Allies cards\n18 New Lord cards\n3 Sentinel tokens\n6 New location tiles\n25 Loot cards\n25 Black pearls (the Nebulis)\n1 Kraken figure\n1 transparent cup\n1 Rulebook\n\n",
+    "image": "https://cf.geekdo-images.com/Fqhhum0OznP3tGEdsxJfvQ__original/img/LvKQyQ3m-rc_DHUMW-2GaeHAQoo=/0x0/filters:format(jpeg)/pic2621048.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Fqhhum0OznP3tGEdsxJfvQ__small/img/OxDHTRhxhC06gm1WdmZvu9vyJXk=/fit-in/200x150/filters:strip_icc()/pic2621048.jpg",
+    "link": "https://boardgamegeek.com/thing/180341",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.66427",
+    "averageWeight": "2.4754",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Hand Management",
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Fantasy",
+      "Mythology",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Bruno Cathala",
+      "Charles Chevallier"
+    ]
+  }
+}

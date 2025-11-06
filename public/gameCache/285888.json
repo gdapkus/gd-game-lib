@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-06T04:12:32.081Z",
+  "gameDetails": {
+    "id": "285888",
+    "name": "Dominion: Church Promo Card",
+    "type": "boardgameexpansion",
+    "description": "This card was designed to commemorate the victors of the \"Jubil&auml;umsmeisterschaft\" (Anniversary Championship), organized in 2018 in Germany and Austria to celebrate ten years of Dominion.\n\nText:\n\n\n\n    \n        Church (Action-Duration - Cost 3 [coin])\n\n    \n    \n        +1 Action\nSet aside up to 3 cards from your hand face down. At the start of your next turn, put them into your hand, then you may trash a card from your hand.\n\n    \n\n\nPart of the Dominion series.\n\n",
+    "image": "https://cf.geekdo-images.com/Gn2QPJ2ByXZGTjQbBH2ntw__original/img/QhxIshG5bh2ZZOKUJ3O-outxHnA=/0x0/filters:format(jpeg)/pic4882185.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Gn2QPJ2ByXZGTjQbBH2ntw__small/img/y5xUS_FBxQ5cFQzPh_UuovEsqLs=/fit-in/200x150/filters:strip_icc()/pic4882185.jpg",
+    "link": "https://boardgamegeek.com/thing/285888",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.91146",
+    "averageWeight": "2.1429",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Donald X. Vaccarino"
+    ]
+  }
+}

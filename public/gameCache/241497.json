@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-06T04:14:51.655Z",
+  "gameDetails": {
+    "id": "241497",
+    "name": "Terraforming Mars: BGG User-Created Corporation Pack",
+    "type": "boardgameexpansion",
+    "description": "Terraforming Mars: BGG User-Created Corporation Pack is a promo for Terraforming Mars consisting of three corporations created by users of BGG. They were chosen as winners of a contest hosted on BGG, where users submitted over 400 corporation ideas.\n\nThe winning corporations included in this pack are:\n\n\n     Arcadian Communities (designed by TheUbiquitous) \n     Splice Tactical Genomics (designed by Acleveralias)\n     Recyclon (designed by Dragonborn110)\n\n\n",
+    "image": "https://cf.geekdo-images.com/ZeVo9iwiUlYw2p_fk6JaHA__original/img/SteZ1RvsR_hNaiFDTK7rzGwbVNk=/0x0/filters:format(jpeg)/pic3952751.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZeVo9iwiUlYw2p_fk6JaHA__small/img/2tYMaCI8CLoBYQ08txrA625NNdY=/fit-in/200x150/filters:strip_icc()/pic3952751.jpg",
+    "link": "https://boardgamegeek.com/thing/241497",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.97903",
+    "averageWeight": "3.0556",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Economic",
+      "Environmental",
+      "Industry / Manufacturing",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

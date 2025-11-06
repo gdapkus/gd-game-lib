@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-06T04:15:10.847Z",
+  "gameDetails": {
+    "id": "372544",
+    "name": "Wonderland's War: Shards of Madness",
+    "type": "boardgameexpansion",
+    "description": "The denizens of Wonderland are choking on the ever so serious business of war. The Cheshire Cat offers them a madness fix in the form of corrupted shards. These Wonderlandians and their artifacts offer powerful rewards, but at what cost? Will you risk looking into the chaotic grin of the cheshire? Will you drink the Hatter's mercurial tea?\n\nAn all-new 35-card expansion!\nIncludes in The Shards of Madness:\n- 24 Wonderlandian Cards\n- 10 Quest Cards\n- 1 Battle Marker Card\n- 8 10x Shard cardboard Tokens\n\nWonderlandian Cards\nThe new Wonderlandian cards are focused on giving, gaining and discarding Shards during the War phase. These cards allow players to risk gaining more shards for strong boosts, as well as new ways to discard shards, or give them to other players. The contest for who will gain the extra Madness chip at the end of the next Tea Party now starts in the War Phase.\n\nLeader Quests & Double Feats\nThe two new quest types allow players more ways to score questing points. Leader quests can be completed in any region, granted that your Leader is present. The double Feat quests have two feats that can be completed, giving players more reason to enter the fray in different regions.\n\nStarting Battle Reward\nThe Entombed Sword now not only marks where the starting battle will occur, but grants a strong bonus to the winner of that battle. This double-sided card gives more texture to your choice of where to send your supporters and which battles you will attempt to win each round.\n\nThe Shards of Madness expansion offers a full set of new Wonderlandian cards that emphasize and enhance Shards as a resource, new Quest types that will push your strategy in new directions, and a Starting Battle reward that adds incentive to win in the first battle region.\n\n",
+    "image": "https://cf.geekdo-images.com/Op0t8H2CubZg2EJw7-GzxQ__original/img/_AZYsfpHqOz0LlepjLCJi1VfQrw=/0x0/filters:format(jpeg)/pic7946621.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Op0t8H2CubZg2EJw7-GzxQ__small/img/wtWvDzN3eBCcXm39TeJ4QgrZj9g=/fit-in/200x150/filters:strip_icc()/pic7946621.jpg",
+    "link": "https://boardgamegeek.com/thing/372544",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "125",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "125",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "8.1317",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Open Drafting",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Ben Eisner",
+      "Tim Eisner",
+      "Ian Moss"
+    ]
+  }
+}

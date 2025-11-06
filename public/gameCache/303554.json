@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-06T04:15:04.560Z",
+  "gameDetails": {
+    "id": "303554",
+    "name": "Winter Kingdom",
+    "type": "boardgame",
+    "description": "Winter Kingdom features seven, double-sided hexagonal map tiles that are randomly arranged into the playing area. After that, three scoring conditions, one economy card (showing how players earn money), and one twist card are dealt, giving the unique features of the game. Each player is dealt five ability cards and one terrain card.\n\nOn your turn, you must place three houses in the terrain depicted on your terrain card. If possible, you must place the houses next to previously placed houses. (If not possible, they may be placed anywhere that matches the terrain on the card.) You also start the game with a limited number of forts, which can replace any house and which count as two pieces.\n\nAfter placing houses, you may use your gold to make one purchase, either paying the cost to put one ability card into play or paying an additional cost on a previously placed ability to upgrade it. Once purchased, the ability may be used once per turn for the rest of the game. You start the game with a little gold to buy abilities and can earn more gold based on the economy card in play for that game.\n\nThe game ends once one player is out of both houses and forts. Players score based on the criteria of the scoring cards for that game; in addition, whoever has the most houses next to each castle scores 3 additional points. The player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/TSuYOT_8INwrGIUe7gymVw__original/img/f17bXdt55ORk0mJX_2EMrUW7-Po=/0x0/filters:format(jpeg)/pic5309968.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TSuYOT_8INwrGIUe7gymVw__small/img/LM3bJ6dbyCknWWn3SCQx4OkJhaU=/fit-in/200x150/filters:strip_icc()/pic5309968.jpg",
+    "link": "https://boardgamegeek.com/thing/303554",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.32268",
+    "averageWeight": "2.6389",
+    "boardGameRank": "2888",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Chaining",
+      "Enclosure",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Modular Board",
+      "Network and Route Building",
+      "Pattern Building",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Medieval",
+      "Territory Building"
+    ],
+    "designers": [
+      "Donald X. Vaccarino"
+    ]
+  }
+}

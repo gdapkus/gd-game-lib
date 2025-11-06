@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-06T04:14:23.182Z",
+  "gameDetails": {
+    "id": "252929",
+    "name": "Planet",
+    "type": "boardgame",
+    "description": "The spark of life is about to jump from your hands to spread out in the world. Deploy your mountain ranges and your deserts, spread out your oceans and your glaciers. Handle wisely your continents to form environments suitable for the apparition of animal life and maybe you'll manage to create the most densely populated planet!\n\nIn Planet, each player receives a planet core without anything on it. Each turn, players choose a tile with mountain/ice/forest/desert on it and place it on the planet. Then the player who fulfills the most conditions for the appearance of certain animals gains its card.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/bTE1oeN-8Y-RdSpjR0b-2A__original/img/u-ZcZzzK3CLQZZJ-SlHjmSJHzwE=/0x0/filters:format(png)/pic4199323.png",
+    "thumbnail": "https://cf.geekdo-images.com/bTE1oeN-8Y-RdSpjR0b-2A__small/img/72I7C1n3SD0nxifUrB6A24tuIxw=/fit-in/200x150/filters:strip_icc()/pic4199323.png",
+    "link": "https://boardgamegeek.com/thing/252929",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.63749",
+    "averageWeight": "1.5948",
+    "boardGameRank": "1819",
+    "mechanics": [
+      "Open Drafting",
+      "Tile Placement",
+      "Turn Order: Progressive"
+    ],
+    "categories": [
+      "Environmental",
+      "Puzzle",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Urtis Šulinskas"
+    ]
+  }
+}

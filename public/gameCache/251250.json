@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-06T04:14:45.359Z",
+  "gameDetails": {
+    "id": "251250",
+    "name": "Sushi Go Party!: Sake Promo",
+    "type": "boardgameexpansion",
+    "description": "Sake is an 'special' pack included for free with purchases of Sushi Go Party! at conventions and also sold separately.\n\nSake grants 3 points towards scoring if played, but forces you to choose your next drafted card randomly from those that are passed to you.\n\nThis promo has three cards plus one rules tile.\n\n",
+    "image": "https://cf.geekdo-images.com/EYyc949PlDQUo2-Iu5FhJA__original/img/zBS8iNimk2obN0AcD9jiaLd6B-s=/0x0/filters:format(jpeg)/pic8250894.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EYyc949PlDQUo2-Iu5FhJA__small/img/zPo1Q4TsfDqgnnAQEVSz5-pOsTc=/fit-in/200x150/filters:strip_icc()/pic8250894.jpg",
+    "link": "https://boardgamegeek.com/thing/251250",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2017",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      8
+    ],
+    "averageRating": "7.63541",
+    "averageWeight": "1.2857",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Party Game"
+    ],
+    "designers": [
+      "Phil Walker-Harding"
+    ]
+  }
+}

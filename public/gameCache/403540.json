@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-06T04:12:22.520Z",
+  "gameDetails": {
+    "id": "403540",
+    "name": "Dice Realms: Trade Expansion",
+    "type": "boardgameexpansion",
+    "description": "As realms recover from the Great Plague, trade resumes, universities are founded, and merchant houses flourish. Can you build the most prosperous realm while contending with fate?\n\nDice Realms: Trade Expansion adds a new die type, 9 more die faces, 5 lines of related die faces, and 8 events that modify the fate die, representing the tumultuous late medieval world. New co-operative and solo play options, as well as recommended set-ups, are also provided.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/NjMUXX62712XS5STxnMhOg__original/img/XouvTSaUP2h20vwz149Rk9ekKes=/0x0/filters:format(jpeg)/pic9040507.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NjMUXX62712XS5STxnMhOg__small/img/Rjvb-g3ySMLT3CtymdZE4Sy3Pg4=/fit-in/200x150/filters:strip_icc()/pic9040507.jpg",
+    "link": "https://boardgamegeek.com/thing/403540",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "8.16071",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Dice",
+      "Medieval"
+    ],
+    "designers": [
+      "Thomas Lehmann"
+    ]
+  }
+}

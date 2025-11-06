@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-06T04:14:58.108Z",
+  "gameDetails": {
+    "id": "297566",
+    "name": "Treasure Island: Captain Silver – Revenge Island",
+    "type": "boardgameexpansion",
+    "description": "After a first adventure full of twists and turns, Captain Silver takes shelter on an island he knows well: Revenge Island! Unfortunately, an English garrison controls the area, and soon after having concealed a precious treasure, Silver ends up in jail once again.\n\nWith a new island to discover and a new \"The Tricks of Silver\" module that includes new cards for Long John Silver &mdash; corrupt soldiers, worrying weather, a ghost twin... &mdash; it's up to you to overcome his tricks and achieve your goals before he escapes from the English jails!\n\nIn addition to the new module for Captain Silver, the Treasure Island: Captain Silver &ndash; Revenge Island expansion contains new immersive components and two new maps: Revenge Island, and an original re-interpretation of the existing map.\n\n&mdash;description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/YDKf2M9DmoPb_Iy1lpYkNg__original/img/SEX4rPM5-tuzMeTHW9127ryDRGo=/0x0/filters:format(jpeg)/pic5146761.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YDKf2M9DmoPb_Iy1lpYkNg__small/img/gHald_B_IX9dk-p_aPVf9CIBkTs=/fit-in/200x150/filters:strip_icc()/pic5146761.jpg",
+    "link": "https://boardgamegeek.com/thing/297566",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.62907",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Line Drawing",
+      "Measurement Movement",
+      "Secret Unit Deployment",
+      "Storytelling",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Expansion for Base-game",
+      "Exploration",
+      "Novel-based",
+      "Pirates"
+    ],
+    "designers": [
+      "Marc Paquien"
+    ]
+  }
+}

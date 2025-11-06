@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-06T04:12:44.828Z",
+  "gameDetails": {
+    "id": "360617",
+    "name": "Findorff",
+    "type": "boardgame",
+    "description": "Findorff is one of the 23 districts of Bremen, the hometown of Friedemann Friese. Findorff has three &ldquo;F&rdquo;s and is named after J&uuml;rgen Christian Findorff (1720-1792), who was responsible for draining and surveying the bog in the north of Bremen, for extracting the peat, and for populating the bog with residents.\n\nIn Findorff, the game, you build up the district of Findorff in the period from 1803 to 1916. Historically, six major railway stations stood in Findorff during this period to connect to Hannover, Hamburg, Oldenburg, and Bremerhaven. While they were all later replaced by a single big main train station, you raise another three new rail stations at one of the two main roadbeds. Besides using boats on the peat canal, this small railway  helped to transport even more peat from the bog in the north of Bremen to Findorff. During the first half of the 19th Century, peat was the most important commodity for heating the houses and for supplying energy to the industry. In the late 19th century (and in the game), peat lost its importance once when replaced by the energy-rich coal.\n\nFindorff offers an economic engine builder with a resource market for peat known from Power Grid and an innovative resource management required when building rail tracks and houses in Findorff. Your focus is on raising the right combination of the 25 historical structures from the period of 1803-1916. Do you raise the Chair Pipes Factory or the Slaughterhouse to gain a lot of thalers, or smaller structures like Schools, the Beer Hall, or the Peat Skipper Shelter to win the game in small steps. You can even profit from the high mortality rate of this period by running a Cemetery.\n\nOnly by adapting your strategy to your structures you honor Mr. Findorff, and win the game when the roadbed to Hamburg is finished.\n\nFindorff offers a challenging solo game as well.\n\n",
+    "image": "https://cf.geekdo-images.com/gTHdRuOkCiMMAlQRitenrQ__original/img/i8tmHRi3-tGuh2DFCfYe-bwZdRY=/0x0/filters:format(jpeg)/pic7019514.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gTHdRuOkCiMMAlQRitenrQ__small/img/c16A-lgBAOniNjlA94BF4BT4WDw=/fit-in/200x150/filters:strip_icc()/pic7019514.jpg",
+    "link": "https://boardgamegeek.com/thing/360617",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "75",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.00637",
+    "averageWeight": "2.7188",
+    "boardGameRank": "3828",
+    "mechanics": [
+      "Hand Management",
+      "Income",
+      "Market",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "City Building",
+      "Economic",
+      "Industry / Manufacturing",
+      "Napoleonic",
+      "Post-Napoleonic",
+      "Trains"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

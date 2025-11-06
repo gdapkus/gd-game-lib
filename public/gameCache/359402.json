@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-06T04:11:53.902Z",
+  "gameDetails": {
+    "id": "359402",
+    "name": "Ahoy",
+    "type": "boardgame",
+    "description": "Ahoy is a lightly asymmetrical game where two to four players take the roles of swashbucklers and soldiers seeking Fame on the high seas.\n\nOne player controls the Bluefin Squadron, a company of sharks and their toothy friends, who patrol these waters and keep order with shot and sword. Another player controls the Mollusk Union, an alliance of undersea creatures and their comrades-in-arms, who fight to reclaim their ancestral home. In games with more people, some players control Smugglers, maverick captains who run blockades to smuggle luxuries and essentials, delivering them to those with the most need&mdash;or the most coin. Explore the seas. As you play, you&rsquo;ll make a unique map full of treasure troves, dangerous wreckage, and mighty sea currents, using deluxe double-layer region tiles.\n\nFeaturing development from the same team that brought you Root and Oath, Ahoy offers deep, interactive gameplay in a fast-playing and easy-to-learn design with a colorful setting brought to life by Kyle Ferrin's gorgeous illustrations.\n\n",
+    "image": "https://cf.geekdo-images.com/yHPkYCQixecmdL9Sabj6kQ__original/img/DxD2mODd6VeiC7nVTFUFL7URgtk=/0x0/filters:format(png)/pic6946121.png",
+    "thumbnail": "https://cf.geekdo-images.com/yHPkYCQixecmdL9Sabj6kQ__small/img/8qyAzZxMu7QYM3gqMSYex9IFpO0=/fit-in/200x150/filters:strip_icc()/pic6946121.png",
+    "link": "https://boardgamegeek.com/thing/359402",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.2886",
+    "averageWeight": "2.8738",
+    "boardGameRank": "1341",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Fantasy",
+      "Nautical",
+      "Pirates"
+    ],
+    "designers": [
+      "Greg Loring-Albright"
+    ]
+  }
+}

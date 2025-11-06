@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-11-06T04:13:22.836Z",
+  "gameDetails": {
+    "id": "349330",
+    "name": "Lost Ruins of Arnak: Alicorn Promo Card",
+    "type": "boardgameexpansion",
+    "description": "A promo card originally available through SPIEL 2021.\nLater available as part of the Game Boy Geek Season 10 Kickstarter and Man vs Meeple Season 4 Kickstarter.\n\nThe card was created by CGE as a tribute to celebrate the 25th anniversary of Kulkmann&rsquo;s G@mebox (www.boardgame.de). The Alicorn is a reference to the G@mebox&rsquo; unicorn logo.\n\nText on the card: Then turn the guardian face down without using its boon.\n\n",
+    "image": "https://cf.geekdo-images.com/YwnOF0v99lXcSRNVFdvEYw__original/img/26GwlofK4VDf8Motjh8VkGYfhag=/0x0/filters:format(png)/pic8014304.png",
+    "thumbnail": "https://cf.geekdo-images.com/YwnOF0v99lXcSRNVFdvEYw__small/img/sx2mWe600Dm6Zpy02Be6-p-c2fU=/fit-in/200x150/filters:strip_icc()/pic8014304.png",
+    "link": "https://boardgamegeek.com/thing/349330",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.89613",
+    "averageWeight": "1.75",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Open Drafting"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure"
+    ],
+    "designers": []
+  }
+}

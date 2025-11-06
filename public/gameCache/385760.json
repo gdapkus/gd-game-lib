@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-06T04:12:41.682Z",
+  "gameDetails": {
+    "id": "385760",
+    "name": "Faiyum: Privileges",
+    "type": "boardgameexpansion",
+    "description": "With the new privileges gain onetime and permanent advantages to do even more for the good of Faiyum.\n\nThis first expansion for Faiyum offers privileges, that you keep separate from the cards in your hand.\n\nThe permanent effects change or add to the effects of your action cards, while onetime effects usually offer actions you can use once in addition during your turns.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/fFa5Ycd82KuGJuDLLZTDXw__original/img/AekxyA2v30E-L1zBGTi0p9wuWIQ=/0x0/filters:format(jpeg)/pic7468262.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fFa5Ycd82KuGJuDLLZTDXw__small/img/j2RKR0cINOi5QwYtp_YO8OSt36U=/fit-in/200x150/filters:strip_icc()/pic7468262.jpg",
+    "link": "https://boardgamegeek.com/thing/385760",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "140",
+    "minPlayingTime": "110",
+    "maxPlayingTime": "140",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.55082",
+    "averageWeight": "2.9",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Retrieval",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Hexagon Grid",
+      "Move Through Deck",
+      "Network and Route Building",
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Ancient",
+      "City Building",
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

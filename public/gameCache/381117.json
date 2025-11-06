@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-06T04:12:25.748Z",
+  "gameDetails": {
+    "id": "381117",
+    "name": "Doggerland",
+    "type": "boardgame",
+    "description": "Doggerland was a landmass that connected Great Britain to mainland Europe that disappeared under the North Sea after the last ice age. Humans lived on these fertile lands where multiple resources and animals were found.\n\nIn Doggerland, you play a clan at around 15,000 BCE. Your goal is to expand your clan in order to leave a trace of its existence for centuries to come. Players increase their population, make crafts, paint murals in caves, raise megaliths for the gods, and (most of all) survive the rigors of the seasons. To do this, they explore the surrounding territory and adapt to the resources at their disposal. The territory differs in each game, thanks to modular tiles.\n\nEach round, players program their actions, then carry them out. These actions vary, based on available resources, abundance or scarcity around their villages, and also based on the actions of other players. As time passes, resources run out, and clans must migrate to find what they need for their development and survival.\n\nIn each clan, there is a leader who brings bonuses, and a shaman who allows powerful and unique actions thanks to knowledge and magic. After 6-8 seasons, the clan with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/yNqt6FGQpKXpqycXMIo9nQ__original/img/vNhxJFsFIaJyiKI2RnlZSR6Qum0=/0x0/filters:format(jpeg)/pic8159521.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yNqt6FGQpKXpqycXMIo9nQ__small/img/C3EM1cEtne8HrKV6-R1X8inbMbs=/fit-in/200x150/filters:strip_icc()/pic8159521.jpg",
+    "link": "https://boardgamegeek.com/thing/381117",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.74358",
+    "averageWeight": "3.2889",
+    "boardGameRank": "3301",
+    "mechanics": [
+      "Programmed Movement",
+      "Tile Placement",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Prehistoric"
+    ],
+    "designers": [
+      "Laurent Guilbert",
+      "Jérôme Daniel Snowrchoff"
+    ]
+  }
+}
