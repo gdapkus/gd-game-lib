@@ -27,6 +27,9 @@
                     <v-list-item @click="updateCollection">
                       <v-list-item-title>Update Collection</v-list-item-title>
                     </v-list-item>
+                    <v-list-item @click="filtersDialog = true">
+                      <v-list-item-title>Filter Games</v-list-item-title>
+                    </v-list-item>
                   </v-list>
                 </v-menu>
               </v-btn>
@@ -62,6 +65,67 @@
               </v-card>
             </v-dialog>
 
+            <v-dialog v-model="filtersDialog" width="320">
+              <v-card class="filters-card">
+                <v-card-title class="headline filter-header">Filters</v-card-title>
+                <v-card-text>
+                  <v-radio-group
+                    v-model="selectedPlayerCount"
+                    inline
+                    hide-details
+                    class="player-count-group"
+                    @update:model-value="handlePlayerCountChange"
+                  >
+                    <template #label>
+                      <span class="text-subtitle-1 font-weight-bold mb-2">Player Count</span>
+                    </template>
+                    <v-radio
+                      v-for="option in playerCountOptions"
+                      :key="option.label"
+                      :label="option.label"
+                      :value="option.value"
+                      density="comfortable"
+                      class="player-count-radio"
+                    ></v-radio>
+                  </v-radio-group>
+                  <v-switch
+                    v-model="bestAtOnly"
+                    label="Best At only"
+                    :disabled="selectedPlayerCount === null"
+                    color="success"
+                  ></v-switch>
+                  <v-divider class="my-4"></v-divider>
+                  <div class="text-subtitle-1 font-weight-bold mb-2">
+                    Weight Range
+                  </div>
+                  <v-range-slider
+                    v-model="weightRange"
+                    :min="1"
+                    :max="5"
+                    :step="0.1"
+                    thumb-label="always"
+                    color="success"
+                    class="weight-slider"
+                  ></v-range-slider>
+                  <v-divider class="my-4"></v-divider>
+                  <v-switch
+                    v-model="includeExpansions"
+                    label="Include Expansions"
+                    color="success"
+                  >
+                    <template #label>
+                      <span class="text-subtitle-2">Include Expansions</span>
+                    </template>
+                  </v-switch>
+                </v-card-text>
+                <v-card-actions>
+                  <v-btn variant="text" @click="resetFilters">Reset Filters</v-btn>
+                  <v-spacer></v-spacer>
+                  <v-btn color="primary" @click="filtersDialog = false">Close</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-dialog>
+
             <!-- Snackbar for notifications -->
             <v-snackbar v-model="snackbarVisible" location="top" :timeout="5000">
               {{ snackbarMessage }}
@@ -92,10 +156,14 @@
                         <td class="v-data-table__td" @click="showDropdown($event, item.id)">
                           {{ item.name }}
                         </td>
-                        <td class="v-data-table__td" style="text-align: center">
-                          {{ item.minPlayers }} - {{ item.maxPlayers }}
+                        <td class="v-data-table__td rating-cell">
+                          <div class="hexagon" :style="getHexagonStyle(item.averageRating)">
+                            <span class="hex-text">{{ formatRating(item.averageRating) }}</span>
+                          </div>
                         </td>
-                        <td class="v-data-table__td" style="text-align: center">{{ item.bestAtCount }}</td>
+                        <td class="v-data-table__td time-cell">
+                          <div class="time-icon">{{ item.playingTime }}</div>
+                        </td>
                       </tr>
                     </template>
                   </v-data-table>
@@ -154,6 +222,19 @@ export default {
       bggUsers: [],
       activeUser: [],
       search: '',
+      includeExpansions: false,
+      selectedPlayerCount: null,
+      bestAtOnly: false,
+      weightRange: [1, 5],
+      playerCountOptions: [
+        { label: '1', value: 1 },
+        { label: '2', value: 2 },
+        { label: '3', value: 3 },
+        { label: '4', value: 4 },
+        { label: '5', value: 5 },
+        { label: '6+', value: '6+' },
+        { label: 'All', value: null },
+      ],
       dropdownVisible: false,
       dropdowns: {},
       dropdownActivator: null,
@@ -164,6 +245,7 @@ export default {
       snackbarVisible: false,
       snackbarMessage: '',
       CollectionDialog: false,
+      filtersDialog: false,
       setAsDefault: false,
       headers: [
         { title: 'Cover' },
@@ -176,20 +258,108 @@ export default {
             return titleA.localeCompare(titleB, undefined, { sensitivity: 'base' });
           },
         },
-        { title: 'Player Range', align: 'center' },
-        { title: 'Best At', align: 'center' },
+        { title: 'Rating', key: 'averageRating', align: 'center' },
+        { title: 'Play Time', key: 'playingTime', align: 'center' },
       ],
     };
   },
 
   computed: {
     filteredGames() {
-      if (!this.search) {
-        return this.games.filter(game => game.type === 'boardgame');
-      }
-      return this.games.filter(
-        game => game.type === 'boardgame' && game.name.toLowerCase().includes(this.search.toLowerCase())
-      );
+      const allowedTypes = this.includeExpansions
+        ? ['boardgame', 'boardgameexpansion']
+        : ['boardgame'];
+      const searchTerm = this.search ? this.search.toLowerCase() : '';
+      const selectedCount = this.selectedPlayerCount;
+      const enforceBestAt = this.bestAtOnly && selectedCount !== null;
+      const [minWeight, maxWeight] = Array.isArray(this.weightRange)
+        ? this.weightRange
+        : [1, 5];
+
+      const parseBestAtCounts = value => {
+        if (!value) {
+          return [];
+        }
+        return value
+          .toString()
+          .split(/[,/]/)
+          .map(part => part.trim())
+          .filter(Boolean)
+          .map(part => {
+            if (/^\d+\+$/.test(part)) {
+              return { value: Number(part.replace('+', '')), plus: true };
+            }
+            const numeric = Number(part);
+            return Number.isNaN(numeric) ? null : { value: numeric, plus: false };
+          })
+          .filter(Boolean);
+      };
+
+      const matchesPlayerSelection = game => {
+        if (selectedCount === null) {
+          return true;
+        }
+
+        const minPlayers = Number(game.minPlayers);
+        const maxPlayers = Number(game.maxPlayers);
+
+        if (Number.isNaN(minPlayers) || Number.isNaN(maxPlayers)) {
+          return false;
+        }
+
+        if (selectedCount === '6+') {
+          if (maxPlayers < 6) {
+            return false;
+          }
+          if (enforceBestAt) {
+            const bestAtValues = parseBestAtCounts(game.bestAtCount);
+            return bestAtValues.some(entry =>
+              entry.plus ? entry.value >= 6 : entry.value >= 6
+            );
+          }
+          return true;
+        }
+
+        const target = Number(selectedCount);
+        if (target < minPlayers || target > maxPlayers) {
+          return false;
+        }
+
+        if (!enforceBestAt) {
+          return true;
+        }
+
+        const bestAtValues = parseBestAtCounts(game.bestAtCount);
+        return bestAtValues.some(entry => {
+          if (entry.plus) {
+            return target >= entry.value;
+          }
+          return entry.value === target;
+        });
+      };
+
+      return this.games.filter(game => {
+        if (!allowedTypes.includes(game.type)) {
+          return false;
+        }
+
+        if (!matchesPlayerSelection(game)) {
+          return false;
+        }
+
+        if (searchTerm && !game.name.toLowerCase().includes(searchTerm)) {
+          return false;
+        }
+
+        const weight = Number(game.averageWeight);
+        if (!Number.isNaN(weight)) {
+          if (weight < minWeight || weight > maxWeight) {
+            return false;
+          }
+        }
+
+        return true;
+      });
     },
   },
 
@@ -228,8 +398,39 @@ export default {
   },
 
   methods: {
+    handlePlayerCountChange(value) {
+      if (value === null) {
+        this.bestAtOnly = false;
+      }
+    },
+    getHexagonStyle(rating) {
+      if (rating <= 5) return { backgroundColor: 'rgb(255, 0, 0)' };
+      if (rating >= 10) return { backgroundColor: 'rgb(0, 255, 0)' };
+      let color;
+      if (rating > 5 && rating <= 7.5) {
+        const t = (rating - 5) / 2.5;
+        const r = Math.round(255 * (1 - t));
+        const b = Math.round(255 * t);
+        color = `rgb(${r}, 0, ${b})`;
+      } else {
+        const t = (rating - 7.5) / 2.5;
+        const g = Math.round(255 * t);
+        const b = Math.round(255 * (1 - t));
+        color = `rgb(0, ${g}, ${b})`;
+      }
+      return { backgroundColor: color };
+    },
+    formatRating(rating) {
+      return rating ? parseFloat(rating).toFixed(1) : 'N/A';
+    },
     reloadPage() {
       window.location.reload();
+    },
+    resetFilters() {
+      this.includeExpansions = false;
+      this.selectedPlayerCount = null;
+      this.bestAtOnly = false;
+      this.weightRange = [1, 5];
     },
     goToGamePage(gameId) {
       const game = this.games.find(g => g.id === gameId);
@@ -376,5 +577,67 @@ export default {
 <style>
 img {
   object-fit: cover;
+}
+.hexagon {
+  position: relative;
+  width: 38px;
+  height: 38px;
+  background-color: #ccc;
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.hex-text {
+  position: relative;
+  z-index: 2;
+  font-size: 0.80rem;
+}
+.time-icon {
+  position: relative;
+  display: inline-block;
+  width: 38px;
+  height: 38px;
+  margin: 0 auto;
+  background-image: url('@/assets/time.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  line-height: 38px;
+  text-align: center;
+  font-size: 0.72rem;
+  font-weight: bold;
+  color: #333;
+}
+.rating-cell,
+.time-cell {
+  text-align: center;
+  padding: 0px 0px;
+  width: 20px;
+}
+.filters-card {
+  background-color: #f5faf5;
+}
+</style>
+
+<style scoped>
+.player-count-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.player-count-radio {
+  margin: 0;
+}
+.weight-slider {
+  margin: 0 8px;
+    transform: translateY(+50%);
+}
+.filter-header {
+  background-color: #e8f5e9;
+  color: #1b5e20;
 }
 </style>

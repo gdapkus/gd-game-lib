@@ -67,7 +67,7 @@
 
             <v-dialog v-model="filtersDialog" width="360">
               <v-card>
-                <v-card-title class="headline filter-header">Filters</v-card-title>
+                <v-card-title class="headline">Filters</v-card-title>
                 <v-card-text>
                   <v-radio-group
                     v-model="selectedPlayerCount"
@@ -115,8 +115,7 @@
                   >
                     <template #label>
                       <span class="text-subtitle-2">Include Expansions</span>
-                    </template>
-				  </v-switch>
+                    </template></v-switch>
                 </v-card-text>
                 <v-card-actions>
                   <v-btn variant="text" @click="resetFilters">Reset Filters</v-btn>
@@ -704,10 +703,8 @@ img {
 }
 .weight-slider {
   margin: 0 8px;
-    transform: translateY(+50%);
 }
-.filter-header {
-  background-color: #e8f5e9;
-  color: #1b5e20;
+.weight-slider {
+  margin: 0 8px;
 }
 </style>

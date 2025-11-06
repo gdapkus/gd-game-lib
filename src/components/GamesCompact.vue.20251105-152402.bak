@@ -10,7 +10,7 @@
               <v-toolbar-title
                 @click="reloadPage"
                 class="font-weight-black cursor-pointer"
-                style="font-size: 2rem;"
+                style="font-size: 1.1rem;"
               >
                 {{ activeUser ? `${activeUser.name}'s Game Library` : 'Game Library' }}
               </v-toolbar-title>
@@ -26,9 +26,6 @@
                     </v-list-item>
                     <v-list-item @click="updateCollection">
                       <v-list-item-title>Update Collection</v-list-item-title>
-                    </v-list-item>
-                    <v-list-item @click="filtersDialog = true">
-                      <v-list-item-title>Filter Games</v-list-item-title>
                     </v-list-item>
                   </v-list>
                 </v-menu>
@@ -65,67 +62,6 @@
               </v-card>
             </v-dialog>
 
-            <v-dialog v-model="filtersDialog" width="360">
-              <v-card>
-                <v-card-title class="headline filter-header">Filters</v-card-title>
-                <v-card-text>
-                  <v-radio-group
-                    v-model="selectedPlayerCount"
-                    inline
-                    hide-details
-                    class="player-count-group"
-                    @update:model-value="handlePlayerCountChange"
-                  >
-                    <template #label>
-                      <span class="text-subtitle-1 font-weight-bold">Player Count</span>
-                    </template>
-                    <v-radio
-                      v-for="option in playerCountOptions"
-                      :key="option.label"
-                      :label="option.label"
-                      :value="option.value"
-                      density="comfortable"
-                      class="player-count-radio"
-                    ></v-radio>
-                  </v-radio-group>
-                  <v-switch
-                    v-model="bestAtOnly"
-                    label="Best At only"
-                    :disabled="selectedPlayerCount === null"
-                    color="success"
-                  ></v-switch>
-                  <v-divider class="my-4"></v-divider>
-                  <div class="text-subtitle-1 font-weight-bold mb-2">
-                    Weight Range
-                  </div>
-                  <v-range-slider
-                    v-model="weightRange"
-                    :min="1"
-                    :max="5"
-                    :step="0.1"
-                    thumb-label="always"
-                    color="success"
-                    class="weight-slider"
-                  ></v-range-slider>
-                  <v-divider class="my-4"></v-divider>
-                  <v-switch
-                    v-model="includeExpansions"
-                    label="Include Expansions"
-                    color="success"
-                  >
-                    <template #label>
-                      <span class="text-subtitle-2">Include Expansions</span>
-                    </template>
-				  </v-switch>
-                </v-card-text>
-                <v-card-actions>
-                  <v-btn variant="text" @click="resetFilters">Reset Filters</v-btn>
-                  <v-spacer></v-spacer>
-                  <v-btn color="primary" @click="filtersDialog = false">Close</v-btn>
-                </v-card-actions>
-              </v-card>
-            </v-dialog>
-
             <!-- Snackbar for notifications -->
             <v-snackbar v-model="snackbarVisible" location="top" :timeout="5000">
               {{ snackbarMessage }}
@@ -151,30 +87,15 @@
                     <template v-slot:item="{ item }">
                       <tr>
                         <td class="v-data-table__td" @click="showDropdown($event, item.id)">
-                          <v-img :src="item.thumbnail" max-height="120px" contain class="my-3"></v-img>
+                          <v-img :src="item.thumbnail" max-height="150px" contain class="my-3"></v-img>
                         </td>
                         <td class="v-data-table__td" @click="showDropdown($event, item.id)">
-                          <span class="title-text">{{ item.name }}</span>
-						  <span class="year-text"> ({{ item.yearPublished }})</span><br>
-						  <span class="designer-text">{{ item.designers.join(', ') }}</span>
-                        </td>
-						<td class="v-data-table__td" style="text-align: center;">
-							<div class="hexagon" :style="getHexagonStyle(item.averageRating)">
-								<span class="hex-text">{{ formatRating(item.averageRating) }}</span>
-							</div>
-						</td>
-                        <td class="v-data-table__td" style="text-align: center">
-                          <div class="players-icon">{{ item.minPlayers }} - {{ item.maxPlayers }}</div>
+                          {{ item.name }}
                         </td>
                         <td class="v-data-table__td" style="text-align: center">
-                          <div class="meeple-icon">{{ item.bestAtCount }}</div>
+                          {{ item.minPlayers }} - {{ item.maxPlayers }}
                         </td>
-                        <td class="v-data-table__td" style="text-align: center">
-                          <div class="time-icon">{{ item.playingTime }}</div>
-                        </td>
-                        <td class="v-data-table__td" style="text-align: center">
-                          <div class="weight-icon">{{ formatWeight(item.averageWeight) }}</div>
-						</td>
+                        <td class="v-data-table__td" style="text-align: center">{{ item.bestAtCount }}</td>
                       </tr>
                     </template>
                   </v-data-table>
@@ -233,19 +154,6 @@ export default {
       bggUsers: [],
       activeUser: [],
       search: '',
-      includeExpansions: false,
-      selectedPlayerCount: null,
-      bestAtOnly: false,
-      weightRange: [1, 5],
-      playerCountOptions: [
-        { label: '1', value: 1 },
-        { label: '2', value: 2 },
-        { label: '3', value: 3 },
-        { label: '4', value: 4 },
-        { label: '5', value: 5 },
-        { label: '6+', value: '6+' },
-        { label: 'All', value: null },
-      ],
       dropdownVisible: false,
       dropdowns: {},
       dropdownActivator: null,
@@ -256,7 +164,6 @@ export default {
       snackbarVisible: false,
       snackbarMessage: '',
       CollectionDialog: false,
-      filtersDialog: false,
       setAsDefault: false,
       headers: [
         { title: 'Cover' },
@@ -269,111 +176,20 @@ export default {
             return titleA.localeCompare(titleB, undefined, { sensitivity: 'base' });
           },
         },
-        { title: 'Rating', key: 'averageRating', width: '48px', align: 'center' },
-        { title: 'Player Range', key: 'minPlayers', width: '48px', align: 'center' },
-        { title: 'Best At', key: 'bestAtCount', width: '48px', align: 'center' },
-        { title: 'Play Time', key: 'playingTime', width: '48px', align: 'center' },
-        { title: 'Weight', key: 'averageWeight', width: '48px', align: 'center' },
+        { title: 'Player Range', align: 'center' },
+        { title: 'Best At', align: 'center' },
       ],
     };
   },
 
   computed: {
     filteredGames() {
-      const allowedTypes = this.includeExpansions
-        ? ['boardgame', 'boardgameexpansion']
-        : ['boardgame'];
-      const searchTerm = this.search ? this.search.toLowerCase() : '';
-      const selectedCount = this.selectedPlayerCount;
-      const enforceBestAt = this.bestAtOnly && selectedCount !== null;
-      const [minWeight, maxWeight] = Array.isArray(this.weightRange)
-        ? this.weightRange
-        : [1, 5];
-
-      const parseBestAtCounts = value => {
-        if (!value) {
-          return [];
-        }
-        return value
-          .toString()
-          .split(/[,/]/)
-          .map(part => part.trim())
-          .filter(Boolean)
-          .map(part => {
-            if (/^\d+\+$/.test(part)) {
-              return { value: Number(part.replace('+', '')), plus: true };
-            }
-            const numeric = Number(part);
-            return Number.isNaN(numeric) ? null : { value: numeric, plus: false };
-          })
-          .filter(Boolean);
-      };
-
-      const matchesPlayerSelection = game => {
-        if (selectedCount === null) {
-          return true;
-        }
-
-        const minPlayers = Number(game.minPlayers);
-        const maxPlayers = Number(game.maxPlayers);
-
-        if (Number.isNaN(minPlayers) || Number.isNaN(maxPlayers)) {
-          return false;
-        }
-
-        if (selectedCount === '6+') {
-          if (maxPlayers < 6) {
-            return false;
-          }
-          if (enforceBestAt) {
-            const bestAtValues = parseBestAtCounts(game.bestAtCount);
-            return bestAtValues.some(entry =>
-              entry.plus ? entry.value >= 6 : entry.value >= 6
-            );
-          }
-          return true;
-        }
-
-        const target = Number(selectedCount);
-        if (target < minPlayers || target > maxPlayers) {
-          return false;
-        }
-
-        if (!enforceBestAt) {
-          return true;
-        }
-
-        const bestAtValues = parseBestAtCounts(game.bestAtCount);
-        return bestAtValues.some(entry => {
-          if (entry.plus) {
-            return target >= entry.value;
-          }
-          return entry.value === target;
-        });
-      };
-
-      return this.games.filter(game => {
-        if (!allowedTypes.includes(game.type)) {
-          return false;
-        }
-
-        if (!matchesPlayerSelection(game)) {
-          return false;
-        }
-
-        if (searchTerm && !game.name.toLowerCase().includes(searchTerm)) {
-          return false;
-        }
-
-        const weight = Number(game.averageWeight);
-        if (!Number.isNaN(weight)) {
-          if (weight < minWeight || weight > maxWeight) {
-            return false;
-          }
-        }
-
-        return true;
-      });
+      if (!this.search) {
+        return this.games.filter(game => game.type === 'boardgame');
+      }
+      return this.games.filter(
+        game => game.type === 'boardgame' && game.name.toLowerCase().includes(this.search.toLowerCase())
+      );
     },
   },
 
@@ -412,17 +228,6 @@ export default {
   },
 
   methods: {
-    handlePlayerCountChange(value) {
-      if (value === null) {
-        this.bestAtOnly = false;
-      }
-    },
-    resetFilters() {
-      this.includeExpansions = false;
-      this.selectedPlayerCount = null;
-      this.bestAtOnly = false;
-      this.weightRange = [1, 5];
-    },
     reloadPage() {
       window.location.reload();
     },
@@ -470,29 +275,6 @@ export default {
           console.error('Error polling for token:', e);
         }
       }, 1000);
-    },
-    getHexagonStyle(rating) {
-      if (rating <= 5) return { backgroundColor: 'rgb(255, 0, 0)' }; // Red for ≤ 5
-      if (rating >= 10) return { backgroundColor: 'rgb(0, 255, 0)' }; // Green for 10+
-      let color;
-      if (rating > 5 && rating <= 7.5) {
-        const t = (rating - 5) / 2.5;
-        const r = Math.round(255 * (1 - t));
-        const b = Math.round(255 * t);
-        color = `rgb(${r}, 0, ${b})`;
-      } else {
-        const t = (rating - 7.5) / 2.5;
-        const g = Math.round(255 * t);
-        const b = Math.round(255 * (1 - t));
-        color = `rgb(0, ${g}, ${b})`;
-      }
-      return { backgroundColor: color };
-    },
-    formatRating(rating) {
-      return rating ? parseFloat(rating).toFixed(1) : 'N/A';
-    },
-    formatWeight(weight) {
-      return weight ? parseFloat(weight).toFixed(1) : 'N/A';
     },
     switchCollection() {
       this.CollectionDialog = true;
@@ -591,123 +373,8 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 img {
   object-fit: cover;
-}
-.title-text {
-  font-size: 1.25rem; 
-  line-height: 1;
-}
-.designer-text {
-  font-size: .8rem; 
-  line-height: 0.8;
-  color: green;
-}
-.year-text {
-  font-size: .7rem; 
-  color: grey;
-}
-.hexagon {
-  position: relative;
-  width: 48px; /* Size of the hexagon */
-  height: 48px;
-  background-color: #ccc; /* Default background color */
-  clip-path: polygon(
-    50% 0%, 
-    100% 25%, 
-    100% 75%, 
-    50% 100%, 
-    0% 75%, 
-    0% 25%
-  ); /* Create a hexagon */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white; /* Text color */
-  font-weight: bold;
-  text-align: center;
-}
-
-.hex-text {
-  position: relative;
-  z-index: 2;
-  font-size: 0.9rem; /* Adjust font size */
-}
-.players-icon {
-  position: relative;
-  display: inline-block; 
-  width: 48px;
-  height: 48px;
-  margin: 0 auto;
-  background-image: url('@/assets/players.svg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  line-height: 48px;
-  text-align: center;
-  font-weight: bold;
-  color: #333;
-}
-.meeple-icon {
-  position: relative;
-  display: inline-block; 
-  width: 48px;
-  height: 48px;
-  margin: 0 auto;
-  background-image: url('@/assets/meeple.svg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  line-height: 48px;
-  text-align: center;
-  font-weight: bold;
-  color: #333;
-}
-.time-icon {
-  position: relative;
-  display: inline-block; 
-  width: 48px;
-  height: 48px;
-  margin: 0 auto;
-  background-image: url('@/assets/time.svg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  line-height: 48px;
-  text-align: center;
-  font-weight: bold;
-  color: #333;
-}
-.weight-icon {
-  position: relative;
-  display: inline-block; 
-  width: 48px;
-  height: 48px;
-  margin: 0 auto;
-  background-image: url('@/assets/weight.svg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  line-height: 32px;
-  text-align: center;
-  font-weight: bold;
-  color: #333;
-}
-.player-count-group {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-.player-count-radio {
-  margin: 0;
-}
-.weight-slider {
-  margin: 0 8px;
-    transform: translateY(+50%);
-}
-.filter-header {
-  background-color: #e8f5e9;
-  color: #1b5e20;
 }
 </style>
