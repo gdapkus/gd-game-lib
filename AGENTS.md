@@ -22,3 +22,6 @@ Existing commits are short, imperative lines (e.g., `Library Update Goo fix`); c
 
 ## Security & Configuration Tips
 Secrets and API keys belong in a local `.env` consumed by `dotenv` in `server.js`; never commit them. Update `config/bggUsers.json` only with sanitized user IDs, and document any new external endpoints touched by scrapers to keep operators aware of rate limits.
+
+## Working Notes
+- Next focus: plan the migration of cached JSON files (collections, game details) into a SQL database so the server/API can query fresh data without relying on `public/gameCache`.
