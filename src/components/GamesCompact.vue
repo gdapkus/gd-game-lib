@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-theme-provider theme="light">
+    <v-theme-provider theme="dark">
           <v-container>
             <!-- Header -->
             <v-app-bar app flat color="green">
@@ -611,6 +611,7 @@ img {
   font-size: 0.72rem;
   font-weight: bold;
   color: #333;
+  filter: invert(1);
 }
 .rating-cell,
 .time-cell {

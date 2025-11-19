@@ -647,6 +647,8 @@ img {
   line-height: 48px;
   text-align: center;
   font-weight: bold;
+  color: #333;
+  filter: invert(1);
 }
 .meeple-icon {
   position: relative;
@@ -675,7 +677,8 @@ img {
   line-height: 48px;
   text-align: center;
   font-weight: bold;
-  color: #fff;
+  color: #333;
+  filter: invert(1);
 }
 .weight-icon {
   position: relative;
@@ -690,6 +693,8 @@ img {
   line-height: 32px;
   text-align: center;
   font-weight: bold;
+  color: #333;
+  filter: invert(1);
 }
 .player-count-group {
   display: flex;
