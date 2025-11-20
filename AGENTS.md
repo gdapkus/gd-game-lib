@@ -25,3 +25,9 @@ Secrets and API keys belong in a local `.env` consumed by `dotenv` in `server.js
 
 ## Working Notes
 - Next focus: plan the migration of cached JSON files (collections, game details) into a SQL database so the server/API can query fresh data without relying on `public/gameCache`.
+- Azure SQL tables created (users/games/collections + mechanics/categories/designers); env vars split (`DBSERVER`, `DBPORT`, `GAMELIBDB`, `DBUSER_ID`, `DBPASS`) to build connection string in code; upcoming task is wiring `server.js` to query SQL instead of filesystem caches.
+
+## Agent Safety Rules
+- Do not modify files without first showing the planned change/diff and getting explicit approval.
+- Make a backup copy of any file before editing (e.g., `server.js.bak`) unless it already exists.
+- Default to read-only commands; only write when the user has approved a specific edit.
