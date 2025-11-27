@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T19:31:33.324Z",
+  "gameDetails": {
+    "id": "256251",
+    "name": "Black Orchestra: Conspirator Pack #2",
+    "type": "boardgameexpansion",
+    "description": "Conspirator Pack #2 includes 4 new conspirators for Black Orchestra.\n\n- above description from publisher\n\nIncludes:\nHans von Dohnanyi - Abwehr - Lawyer and Abwehr agent\nRudolf Christoph von Gersdorff - Wehrmacht - Intelligence Liaison\nWessel Freytag von Loringhoven - Wehrmacht - Colonel High Command\nWolf-Heinrich Graf von Helldorff - Civilian - Chief of Police\n\n",
+    "image": "https://cf.geekdo-images.com/XGuDVepV1gNq3wnEoQEmCA__original/img/6pJJUSC8FjYdLTJmAj0srbo23Nc=/0x0/filters:format(png)/pic6446156.png",
+    "thumbnail": "https://cf.geekdo-images.com/XGuDVepV1gNq3wnEoQEmCA__small/img/YLbMJdV-K41dKHonjXHG1CDdTYQ=/fit-in/200x150/filters:strip_icc()/pic6446156.png",
+    "link": "https://boardgamegeek.com/thing/256251",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.67897",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Push Your Luck",
+      "Set Collection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Spies / Secret Agents",
+      "World War II"
+    ],
+    "designers": [
+      "Philip duBarry"
+    ]
+  }
+}

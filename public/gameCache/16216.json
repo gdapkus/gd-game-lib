@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:50:43.372Z",
+  "gameDetails": {
+    "id": "16216",
+    "name": "Carcassonne: The Discovery",
+    "type": "boardgame",
+    "description": "The Discovery is a stand-alone Carcassonne game.\n\nThe inhabitants of Carcassonne have discovered a new region far away from their homeland - one that consists of meadows, mountains and seas. The followers, of which each player only has four (with a fifth for the scoring track) get placed as robbers (in the mountains), seafarers (on the seas) or explorers (on the meadows). On a player's turn, they must place a tile and may then place a follower on it.\n\nAs in the original game, tiles may only be placed so that identical landscape types match up. A follower may only be placed when no other follower has been placed there yet. When the follower is removed, however, then the size of the region in which the follower is located brings points - regardless of whether the region has been closed off or not, although closed off regions score considerably more points. There's also an additional rule that lets mountainous regions increase in value, even if they've already been completed.\n\nThis is a distinctly simpler version of Carcassonne than the original. This was the goal during the development of the game. It should have simpler rules, but offer greater strategic depth. What is interesting about the game is that regions aren't scored automatically any more (when they are closed off), this is a decision left to the player (the removing of the follower). Since the regions can only get more valuable, this ensures many agonizing decisions.\n\n(From Gamewire and Spielbox)\n\nThis game is part of the Carcassonne series.\n\n",
+    "image": "https://cf.geekdo-images.com/v33XDn-IOU1gRw4pJ5tflQ__original/img/m1UaK2ISzchgAfNM4mSb4UNqMVA=/0x0/filters:format(jpeg)/pic134384.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/v33XDn-IOU1gRw4pJ5tflQ__small/img/jsfl0tbloSR49xZKpHEM94WDrQY=/fit-in/200x150/filters:strip_icc()/pic134384.jpg",
+    "link": "https://boardgamegeek.com/thing/16216",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2005",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.48062",
+    "averageWeight": "1.9367",
+    "boardGameRank": "3278",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Exploration",
+      "Medieval",
+      "Territory Building"
+    ],
+    "designers": [
+      "Leo Colovini",
+      "Klaus-Jürgen Wrede"
+    ]
+  }
+}

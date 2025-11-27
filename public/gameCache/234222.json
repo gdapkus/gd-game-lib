@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:32:31.630Z",
+  "gameDetails": {
+    "id": "234222",
+    "name": "Tramways: the Heart of Commerce",
+    "type": "boardgameexpansion",
+    "description": "This is the second set of mini expansions for Tramways.\n\nIt contains:\n\n     2 new modular boards with a new type of land &mdash; the rivers\n     10 blue discs for a new actions during the action phase\n     5 Ticket inspectors\n\n\nThis expansion is released in a blue cover flap.\n\n",
+    "image": "https://cf.geekdo-images.com/t0w3h_S4Kht5PDNTC3qa2w__original/img/3y1CNOQdCgqf4r2ZNePnrmfpyy4=/0x0/filters:format(jpeg)/pic3713926.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/t0w3h_S4Kht5PDNTC3qa2w__small/img/frZEKSNrnG_xk9klkBnWDWuo5Pc=/fit-in/200x150/filters:strip_icc()/pic3713926.jpg",
+    "link": "https://boardgamegeek.com/thing/234222",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2017",
+    "playingTime": "180",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "180",
+    "bestAtCount": null,
+    "averageRating": "7.61167",
+    "averageWeight": "3.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Network and Route Building",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Alban Viard"
+    ]
+  }
+}

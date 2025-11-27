@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:31:53.056Z",
+  "gameDetails": {
+    "id": "232394",
+    "name": "Spirit Island: Promo Pack 1",
+    "type": "boardgameexpansion",
+    "description": "Two promo Spirits for Spirit Island, printed as part of the initial Kickstarter. Includes two Spirit Mats and eight Unique Power cards. When in print, it is available directly from Greater Than Games.\n\nHeart of the Wildfire is a joyous Spirit of fire, destruction, and (maybe eventually) renewal. Mechanically, it's high-complexity, extreme-offense, and blights the land as it spreads.\n\nSerpent Slumbering Beneath the Island is a slow-to-wake primal Spirit of the deep, deep earth. Mechanically, it's high-complexity and slow-developing with huge late-game payoffs.\n\nBoth spirits were released separately in Germany as: \n\n     Spirit Island: Seele des Flächenbrands\n     Spirit Island: Unter der Insel schlummernde Schlange\n\n\n",
+    "image": "https://cf.geekdo-images.com/FV8X1IeL5ejAXnzt5unNZg__original/img/1yAy4WrwCyhtAvfv2SqgM1z6wLk=/0x0/filters:format(jpeg)/pic3726021.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FV8X1IeL5ejAXnzt5unNZg__small/img/39EHX_H-wvPUbiY8jFrvNQK9zAA=/fit-in/200x150/filters:strip_icc()/pic3726021.jpg",
+    "link": "https://boardgamegeek.com/thing/232394",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.89228",
+    "averageWeight": "4.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Open Drafting",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Mythology",
+      "Territory Building"
+    ],
+    "designers": [
+      "R. Eric Reuss"
+    ]
+  }
+}

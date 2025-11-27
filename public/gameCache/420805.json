@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:24:15.842Z",
+  "gameDetails": {
+    "id": "420805",
+    "name": "Black Forest",
+    "type": "boardgame",
+    "description": "In Black Forest, you start out with a small domain in need of new buildings and livestock. You&rsquo;ll travel from village to village, to enlist the aid of the best specialists.  Exploiting the abilities of these specialists lets you collect resources, lay out new landscape tiles (e.g. ponds and fields), and build a variety of buildings, which come in four types. Choose the right buildings, place landscapes, fire up your glass production, and expand your domain.\n\nUwe Rosenberg&rsquo;s resource wheels, made famous in Glass Road (2013), return in Black Forest. Two resource wheels on your tableau help you keep track of your resources and production. Black Forest continues the story - as the name suggests &mdash; in the Black Forest. Among others, the main difference between the two games is the use of worker placement in Black Forest  instead of simultaneous action selection.\n\nA wide selection of buildings and their different effects offer many different paths to victory.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/zyc92pV4Mn2G6HCegMGPWQ__original/img/39E8tEi-2NbBcXmduY5XHF1GeBU=/0x0/filters:format(jpeg)/pic8194217.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zyc92pV4Mn2G6HCegMGPWQ__small/img/eBQt7m5f9RtsZfBgCNhJER6f5CA=/fit-in/200x150/filters:strip_icc()/pic8194217.jpg",
+    "link": "https://boardgamegeek.com/thing/420805",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.59735",
+    "averageWeight": "3.1951",
+    "boardGameRank": "1143",
+    "mechanics": [
+      "Automatic Resource Growth",
+      "End Game Bonuses",
+      "Once-Per-Game Abilities",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Economic",
+      "Industry / Manufacturing",
+      "Medieval"
+    ],
+    "designers": [
+      "Tido Lorenz",
+      "Uwe Rosenberg"
+    ]
+  }
+}

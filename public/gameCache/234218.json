@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:48:16.966Z",
+  "gameDetails": {
+    "id": "234218",
+    "name": "Agricola: Artifex Deck",
+    "type": "boardgameexpansion",
+    "description": "Agricola: Artifex Deck contains 120 occupation and minor improvement cards for use with the revised edition of Agricola.\n\n",
+    "image": "https://cf.geekdo-images.com/YNpz4y7RIr9ri-qd42zGbw__original/img/zF-c_iO1m7tNrnyiC5oiYStXFyU=/0x0/filters:format(png)/pic3812254.png",
+    "thumbnail": "https://cf.geekdo-images.com/YNpz4y7RIr9ri-qd42zGbw__small/img/Bzx7FmWcsGlLjDkF4jT1_Jb2Xuc=/fit-in/200x150/filters:strip_icc()/pic3812254.png",
+    "link": "https://boardgamegeek.com/thing/234218",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "8.1714",
+    "averageWeight": "3.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Enclosure",
+      "Hand Management",
+      "Open Drafting",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Uwe Rosenberg"
+    ]
+  }
+}

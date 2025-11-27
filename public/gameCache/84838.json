@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:05:36.737Z",
+  "gameDetails": {
+    "id": "84838",
+    "name": "Yomi (Second Edition)",
+    "type": "boardgame",
+    "description": "Yomi (second edition) updates the original Yomi game with slight rule modifications and balance tweaks, in addition to adding ten new characters.\n\nYomi is a fighting game in card form in which physical dexterity is replaced by hand management skills. Just like in a fighting game, you have to know your character, know the matchup, and know your opponent. Each character has a deck that follows the same conventions as deck of playing cards. This makes it easy to learn the contents of your deck: numbered cards are normal moves, face cards are special moves, and aces are super moves.\n\nYomi is a competitive card game specifically designed and balanced to hold up to tournament play with many years of playtesting and tournaments behind it. It tests the skills of valuation and Yomi. Valuation refers to your ability to judge the relative value of moves (or cards) as they change over the course of the game. Yomi, the game's title, refers to your ability to \"read\" the patterns that your opponent unconsciously falls into. It's designed for high level play to be as interesting as possible and as balanced as possible.\n\nGame Modes\n\n     1v1, the main mode\n     2v2 Team Battle, inspired by video games such as Marvel vs Capcom\n     A solo mode to learn basic proficiency against an automated opponent\n     A 3v3 mode (can be played as 1v1 with multiple characters) inspired by video games such as King of Fighters\n\n\nGameplay\n\n     Each player shuffles their deck and draws an opening hand of seven cards.\n     Turns are simultaneous and players draw one card per turn.\n     Each player plays a combat card face down, then reveals the cards simultaneously.\n     Resolve combat. Blocking an attack lets you draw a card; hitting with an attack or throw allows you to combo more cards from your hand; dodging an attack lets you hit back with a single move.\n     Bluff phase. After it's resolved who won combat, but before any combos are played, the player who might get hit by a combo can play a facedown Joker or bluff card. After the attacker finishes their combo, reveal that facedown card. If it's a Joker, the combo does no damage. If it's a non-Joker card, the combo does full damage as usual.\n     Power up: Players can discard pairs, 3-of-a-kinds, or 4-of-a-kinds to search their decks for Aces (super moves). Also, if they performed any chain combos (straights of sequential normal attacks, such as a 2,3,4,5) that turn, they can also search for Aces.\n\n\nThe game ends when one player is reduced to 0 life, or when one player draws the last card of their deck. In that case, time is out and the player with the highest life wins.\n\nNote: This item contains:\nYomi Starter Set: Grave versus Jaina\nYomi: Midori versus Setsuki\n\n",
+    "image": "https://cf.geekdo-images.com/8r8mysKNrkBLGNi85tJGUQ__original/img/1IGXvf0Mh7J-3dPmCUBC6zC5SRE=/0x0/filters:format(png)/pic2380276.png",
+    "thumbnail": "https://cf.geekdo-images.com/8r8mysKNrkBLGNi85tJGUQ__small/img/gc21jQHlHaLjpesto8YHk-Kg7cY=/fit-in/200x150/filters:strip_icc()/pic2380276.png",
+    "link": "https://boardgamegeek.com/thing/84838",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.4145",
+    "averageWeight": "2.7353",
+    "boardGameRank": "4121",
+    "mechanics": [
+      "Hand Management",
+      "Rock-Paper-Scissors",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting",
+      "Print & Play"
+    ],
+    "designers": [
+      "David Sirlin"
+    ]
+  }
+}

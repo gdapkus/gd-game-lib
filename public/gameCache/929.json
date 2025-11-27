@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:54:50.688Z",
+  "gameDetails": {
+    "id": "929",
+    "name": "The Great Dalmuti",
+    "type": "boardgame",
+    "description": "A light card game where players gain status by going out first.\n\nThe 80-card commercial deck contains cards ranked from 12 to 1, along with two Jesters. Each card bears a number, which is not only its rank, but also tells you how many of that card exist in the deck. In other words, there are twelve 12s, eleven 11s, four 4s and a single card ranked 1. The lower the number, the better the rank.\n\nThe deck is dealt out to all players and the object is to get rid of your cards as fast as possible. The hand begins with one person playing one or more card to the center of the table. The cards played must all be of the same rank (although Jesters are wild, and may be played with any other cards). Each player in turn must now either play the same number of cards of a better rank, or pass. Play continues around the table until everyone has passed; at that point, the cards are cleared and whoever played the last set of cards leads the next round. After everyone has gone out, the players are ranked. For example, the person who first got rid of all his cards becomes The Great Dalmuti. Players change seat position to represent the new hierarchy and begin another round.  The Great Dalmuti is generally played for many rounds.\n\nIt is a commercial version of the traditional playing card game President (based on the Chinese game Zheng Shangyou), which has also been reimagined as:\n\n\n    Dilbert: Corporate Shuffle\n    Pyramid Card \n    Scum: The Food Chain Game \n    Deathtrap Dungeon: Card Game\n\n\n",
+    "image": "https://cf.geekdo-images.com/LVCXyZpkL6rPsouhWV3noA__original/img/t1NuvuH7uYwAnPYtrxRBqqQao8o=/0x0/filters:format(jpeg)/pic711236.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LVCXyZpkL6rPsouhWV3noA__small/img/ZScqw6npTeeVpl1zdawrNEYPwwE=/fit-in/200x150/filters:strip_icc()/pic711236.jpg",
+    "link": "https://boardgamegeek.com/thing/929",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "1995",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      6,
+      7
+    ],
+    "averageRating": "6.59517",
+    "averageWeight": "1.2847",
+    "boardGameRank": "1796",
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing"
+    ],
+    "categories": [
+      "Card Game",
+      "Medieval"
+    ],
+    "designers": [
+      "Richard Garfield"
+    ]
+  }
+}

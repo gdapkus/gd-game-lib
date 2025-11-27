@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:53:28.599Z",
+  "gameDetails": {
+    "id": "404041",
+    "name": "FLOWERS",
+    "type": "boardgame",
+    "description": "Can you make fields of cards bloom in a single color while respecting the number limits?\n\nFLOWERS consists of a 108-card deck, with cards coming in four colors and values 1-4. Each player starts with a random card in their play area, and the remaining cards are divided into stacks, with one being face down and the others having the top card face up.\n\nOn a turn, draw a card from the top of any stack, then either place it adjacent to a card already in your field or on top of a card in your field. If you draw a face-up card, flip the next card in the stack face up. When a player takes the last card from a stack, they place it, then the game ends.\n\nAt game's end, every 4 in your field must be part of a group of exactly four 4s, and the same goes for every 3 and 2 in your field. Each 1 must not be adjacent to another 1. Any cards that violate these rules are removed from your field (including any covered cards), and you lose 1 point for each card removed. Then, for each group of colored cards in your field that contains at least five adjacent cards, score 1 point for each of these cards. Finally, if a card with a butterfly is adjacent to a card of the same color as the butterfly, score 1 point for that card. Whoever has the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/h4spxwmyggLNmb46Bbg4Lg__original/img/LDpmig3KBXHeOKcK1b6Gb_IkiYU=/0x0/filters:format(png)/pic7810232.png",
+    "thumbnail": "https://cf.geekdo-images.com/h4spxwmyggLNmb46Bbg4Lg__small/img/r7pp6o6smuoKSMEwtmYfmC3xHpc=/fit-in/200x150/filters:strip_icc()/pic7810232.png",
+    "link": "https://boardgamegeek.com/thing/404041",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "20",
+    "minPlayingTime": "7",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.26233",
+    "averageWeight": "1.3043",
+    "boardGameRank": "5851",
+    "mechanics": [
+      "Connections",
+      "Pattern Building",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Number"
+    ],
+    "designers": [
+      "Paul-Henri Argiot"
+    ]
+  }
+}

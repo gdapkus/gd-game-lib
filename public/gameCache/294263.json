@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T19:31:58.898Z",
+  "gameDetails": {
+    "id": "294263",
+    "name": "EOS: Island of Angels",
+    "type": "boardgame",
+    "description": "In ancient times, powerful angels held strong against the demonic creatures crawling out of the abyss on the Island of EOS. One day, though, they were tricked: The angelic guardians were turned into stone and demons flood the world ever since.\n\nEons later, a captain named Kareem found a petrified angel on a remote rock off the shores of an island. Kareem managed to awake the angel Leanas, who told him about the island of EOS and gifted him with immortality. In return, Kareem swore an oath: To awake Leanas' brothers and sisters, who were still petrified on EOS. Together they would fight back the demons, forcing them to return to the abyss they came from and freeing the world of their dark powers once again.\n\nEOS: Island of Angels is an engine-building board game for 2-5 players, which also includes some worker placement mechanisms. Players hire a unique, asymmetrical crew and set sail to the island of EOS, to free the angels of old and leave their mark on this mythical world's chronicle. Be wary though: While exploring the ocean, vicious demons will attack the ships and crews. Fighting them and their powerful demon lords will bring players glory and help restore the angels' power. Through awakening angels, players can gain powerful blessings that pose as an advantage to their strategy, while demons sabotage the ship, resulting in disadvantages.\n\nFinding the perfect balance between progressing on their journey and fighting demons while improving their ship and crew is key for players to gain the most victory points.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/Dx4Lr6K8DaQeGRg1cMRk7A__original/img/MPjdT-0EmvcbHtmN1KCMCqI_jpo=/0x0/filters:format(jpeg)/pic5972602.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Dx4Lr6K8DaQeGRg1cMRk7A__small/img/niSdngBXqcPaN39V891vH4dTyBc=/fit-in/200x150/filters:strip_icc()/pic5972602.jpg",
+    "link": "https://boardgamegeek.com/thing/294263",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "150",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.55777",
+    "averageWeight": "3.2692",
+    "boardGameRank": "4312",
+    "mechanics": [
+      "Open Drafting",
+      "Point to Point Movement",
+      "Roles with Asymmetric Information",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Exploration",
+      "Fantasy",
+      "Nautical"
+    ],
+    "designers": [
+      "Till Bröstl",
+      "Felix Mertikat"
+    ]
+  }
+}

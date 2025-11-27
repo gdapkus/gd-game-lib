@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:53:53.052Z",
+  "gameDetails": {
+    "id": "140603",
+    "name": "Francis Drake",
+    "type": "boardgame",
+    "description": "Game description from the publisher:\n\nReturn to a bustling Plymouth Harbor in 1572 as an aspiring Elizabethan captain making preparations for three exciting voyages to the Spanish Main in search of fame and fortune! As captains, players will have to plan their missions and provision their ships accordingly.\n\nFrancis Drake is a race to see who can set sail and reach the Spanish Main first. The riches of the Aztec and Inca Empires await these swashbuckling captains. Many tough decisions must be made before each voyage:\n\n\n    How many crew members, guns, and trade goods will be needed?\n    What supplies will be needed to reach deep into the Caribbean?\n    Will a stronger galleon be needed to attack the treasure fleets?\n    Can special charts from the Spanish Admiral and Governor help?\n    Will the Queen or rich investors back the voyage?\n    What information can the informer give?\n    Will Drake himself be available to guide the voyage?\n    Who will get the use of the Golden Hind?\n\n\nEach new voyage has its own challenges to overcome, but the captured gold, silver, and jewels should greatly please the Queen. Get ready for the voyage of a lifetime!\n\n",
+    "image": "https://cf.geekdo-images.com/oYDRG315rTkMJG9ZFwQpTQ__original/img/Cn19RxMSKMquYu2XCdHb4uUyl9Y=/0x0/filters:format(jpeg)/pic3182129.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oYDRG315rTkMJG9ZFwQpTQ__small/img/lAgPi8DttoNwVvdGNkJx4ywyRB4=/fit-in/200x150/filters:strip_icc()/pic3182129.jpg",
+    "link": "https://boardgamegeek.com/thing/140603",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2013",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.37366",
+    "averageWeight": "2.9035",
+    "boardGameRank": "731",
+    "mechanics": [
+      "Order Counters",
+      "Push Your Luck",
+      "Secret Unit Deployment",
+      "Set Collection",
+      "Turn Order: Time Track",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Bluffing",
+      "Exploration",
+      "Nautical",
+      "Pirates",
+      "Renaissance"
+    ],
+    "designers": [
+      "Peter Hawes"
+    ]
+  }
+}

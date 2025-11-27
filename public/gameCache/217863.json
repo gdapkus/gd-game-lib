@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:08:35.425Z",
+  "gameDetails": {
+    "id": "217863",
+    "name": "Unauthorized",
+    "type": "boardgame",
+    "description": "Unauthorized is a 6-12 player, thirty-minute, social deduction-style game about life around the underground church. Players are assigned public role cards that give them an unique ability to influence the other players. A player's loyalty is determined by the experience cards they hold in their hand. As their cards change, their loyalty may shift. The object of the game is to influence a majority of players to join your side (state or church). The church players must also have at least one player not imprisoned.\n\nUnauthorized is unique from other social deduction games in a few ways. First, the player's loyalty may change during the game. Second, the mechanisms do not require a player to lie to effectively play the game. Third, to our knowledge this is the first game about an underground church. The game does not focus on theology, but does replicate the tension of living in an underground movement under heavy persecution from an oppressive government.\n\n",
+    "image": "https://cf.geekdo-images.com/30PyBCGhCfmbrZ0if_t6oA__original/img/geZhSPt1wI_MdHrBx5bQBWvrxbU=/0x0/filters:format(jpeg)/pic3368603.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/30PyBCGhCfmbrZ0if_t6oA__small/img/tAwnrLHWPvFZ6_dHDknCHkZAkJI=/fit-in/200x150/filters:strip_icc()/pic3368603.jpg",
+    "link": "https://boardgamegeek.com/thing/217863",
+    "minPlayers": "6",
+    "maxPlayers": "12",
+    "yearPublished": "2017",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": null,
+    "averageRating": "6.02727",
+    "averageWeight": "2",
+    "boardGameRank": "23117",
+    "mechanics": [
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Deduction",
+      "Party Game"
+    ],
+    "designers": [
+      "Patrick Lysaght"
+    ]
+  }
+}

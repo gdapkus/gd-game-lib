@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:17:11.916Z",
+  "gameDetails": {
+    "id": "2076",
+    "name": "Gulf Strike",
+    "type": "boardgame",
+    "description": "Gulf Strike was designed to be the state of the art in Land, Air, and Sea modern simulation. Since its original release, Gulf Strike has shown its ability to simulate the changing character of the Gulf Wars from the Iran-Iraq war to the Iraqi invasion of Kuwait and its potential aftermath. In fact the original 1983 edition correctly anticipated the type and character of units the United States would send to the region in the event of a crisis. Seven complete scenarios cover the recent history of the region, plus the current Desert Shield operation, and portray the multitude of alliances possible to counter threats arising in numerous quarters. Complete air, land, and sea orders of battle for several dozen nations allow you to fight each conflict to its unpredictable and often startling conclusion.\n\n",
+    "image": "https://cf.geekdo-images.com/MGwZeYmzl4yZ5-E-KeZ4hQ__original/img/E9iWUeTf1v3_UIhzb4i7E_QJ2os=/0x0/filters:format(jpeg)/pic147586.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MGwZeYmzl4yZ5-E-KeZ4hQ__small/img/OuTDYPI6h1ZEG0lSLuwwu3_wV44=/fit-in/200x150/filters:strip_icc()/pic147586.jpg",
+    "link": "https://boardgamegeek.com/thing/2076",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1983",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.70499",
+    "averageWeight": "4.3647",
+    "boardGameRank": "6975",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Ratio / Combat Results Table",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "Modern Warfare",
+      "Political",
+      "Wargame"
+    ],
+    "designers": [
+      "Mark Herman"
+    ]
+  }
+}

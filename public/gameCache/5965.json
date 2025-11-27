@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:59:26.276Z",
+  "gameDetails": {
+    "id": "5965",
+    "name": "October War: Doctrine and Tactics in the Yom Kippur Conflict, 1973",
+    "type": "boardgame",
+    "description": "Strategy & Tactics magazine #61.\n\nThis game is a tactical simulation of combat in the Middle East during the 1973 Yom Kippur War.  The game included a map, 200 counters representing Israeli and Arab forces, and a 12-page rulebook.\n\nEight scenarios and two campaign games (which link multiple scenarios) are included for play.  Victory conditions vary depending on the scenario. (e.g.- Victory in 'The Battle of Gamala' scenario is based on victory points; in 'Peled's Counterattack', victory is based on capturing Hill 6 on the map)\n\nExtensive designer's notes and combat examples are included in the rulebook.\n\n",
+    "image": "https://cf.geekdo-images.com/hhrk-WokO392p8pT4TMEsg__original/img/J30yFBIToMkuVu4Pk1GSozPkcMg=/0x0/filters:format(jpeg)/pic219649.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hhrk-WokO392p8pT4TMEsg__small/img/UL11kiCWigoqEl7xlOgHlfw1nS4=/fit-in/200x150/filters:strip_icc()/pic219649.jpg",
+    "link": "https://boardgamegeek.com/thing/5965",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1977",
+    "playingTime": "600",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "600",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.90753",
+    "averageWeight": "2.88",
+    "boardGameRank": "9340",
+    "mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Movement Points",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "Modern Warfare",
+      "Wargame"
+    ],
+    "designers": [
+      "Irad B. Hardy"
+    ]
+  }
+}

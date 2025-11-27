@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:05:32.310Z",
+  "gameDetails": {
+    "id": "266460",
+    "name": "Yinzi",
+    "type": "boardgame",
+    "description": "China experienced the greatest economic expansion in its history during the Ming dynasty (1368&ndash;1644). The silver trade between the Americas and Europe and onward to China had a profound effect on the world economy &ndash; it may be considered the beginning of a global economy.\n\nIn China, social mobility led to the growing of cities, especially in the lower Yangtze area, which was at that time responsible for the main production of wheat for the whole country. In addition to wheat and rice, other crops like tea, fruits, and sugarcane were grown on a large scale. Immigrating peasants changed their profession to become merchants and artisans. Many people from the countryside were employed in private or state run factories, producing commodities like paper, porcelain, refined sugar, or silk textiles.\n\nTrade and commerce thrived in this liberalized economy and was aided by the construction of canals, roads, and bridges by the Ming government. Ming China saw the rise of several merchant clans, who owned large amounts of wealth.\n\nIn Yinzi &mdash; \"y&iacute;nzi\" meaning \"silver\" &mdash; the players represent merchant clans developing parts of China in the late Ming period in the early 17th century along the last 200 km of the Yangtze river before it reaches the China Sea.\n\nThe players plant crops, sell goods to the rural or urban markets, develop raw materials, build and upgrade factories, and sell their goods to ships already waiting in the port. In order to reach the port, the players need to improve their river transport capabilities along the Yangtze.\n\n",
+    "image": "https://cf.geekdo-images.com/9NH9TLeVaY9k5R8v3Tl_0w__original/img/hH0_5bDfyE0XldBT0V8zV59zPKA=/0x0/filters:format(jpeg)/pic4437886.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9NH9TLeVaY9k5R8v3Tl_0w__small/img/ozHXN3TdUvf0XM0icsm4Du8bl9g=/fit-in/200x150/filters:strip_icc()/pic4437886.jpg",
+    "link": "https://boardgamegeek.com/thing/266460",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "180",
+    "minPlayingTime": "100",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.43972",
+    "averageWeight": "4.2128",
+    "boardGameRank": "4956",
+    "mechanics": [
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Farming",
+      "Industry / Manufacturing",
+      "Transportation"
+    ],
+    "designers": [
+      "Costa",
+      "Rôla"
+    ]
+  }
+}

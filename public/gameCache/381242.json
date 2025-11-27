@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T19:57:37.976Z",
+  "gameDetails": {
+    "id": "381242",
+    "name": "Dog Park: New Tricks",
+    "type": "boardgameexpansion",
+    "description": "Your business as a local dog walker is booming! In Dog Park: New Tricks there are more dogs to walk - including rescues! - more places in the park to explore, and you&rsquo;ve even hired a specialist trainer to help you expand your enterprise.\n\nWith your trainer&rsquo;s help, all the pups in your kennel have the potential to learn exciting skills, and even old dogs can learn new tricks! With locations opening up in the park too, there is much to explore&hellip;\n\nDog Park: New Tricks adds three major elements to the Dog Park board game: Multi-breed dogs, Trick training, and Super Locations. You are still trying to become the most accomplished walker by earning the most Reputation, but now you have more layers of strategy to explore and use to your advantage.\n\nThis expansion also adds a fifth player, which can be played with or without New Tricks.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/lZUyXO0FpFRyrzu5lmp31w__original/img/2tCBe6jDr82KcyMOPuvGDr8f02o=/0x0/filters:format(png)/pic7371890.png",
+    "thumbnail": "https://cf.geekdo-images.com/lZUyXO0FpFRyrzu5lmp31w__small/img/Y2W4TSaas_DdHRY84TmzfT33tMk=/fit-in/200x150/filters:strip_icc()/pic7371890.png",
+    "link": "https://boardgamegeek.com/thing/381242",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      1,
+      3
+    ],
+    "averageRating": "7.45924",
+    "averageWeight": "2.2857",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Point to Point Movement",
+      "Set Collection",
+      "Track Movement",
+      "Variable Set-up",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "Lottie Hazell",
+      "Jack Hazell"
+    ]
+  }
+}

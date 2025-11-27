@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T19:57:33.705Z",
+  "gameDetails": {
+    "id": "394005",
+    "name": "Darwin's Journey: Scenarios Mini-Expansion",
+    "type": "boardgameexpansion",
+    "description": "This mini-expansion includes scenarios card that provides the player with a crafted game experience. Instead of randomly choosing components during setup, players will use specifically designed set of components which will lead the experience in a particular direction.\n\nIncluded inside Darwin's Journey: Collector's Edition and was available as an add-on during the Kickstarter campaign for those backing at the base game only pledge level.\n\n",
+    "image": "https://cf.geekdo-images.com/JtDEP15xKtAD2sYZgFdC-A__original/img/n_KwrBd8RzfI8uLCjWuVPoNTfj8=/0x0/filters:format(jpeg)/pic7704036.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JtDEP15xKtAD2sYZgFdC-A__small/img/nRsVV_hDyOHdFPMMD468bSKBv1A=/fit-in/200x150/filters:strip_icc()/pic7704036.jpg",
+    "link": "https://boardgamegeek.com/thing/394005",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "8.01463",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone"
+    ]
+  }
+}

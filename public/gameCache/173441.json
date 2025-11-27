@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:50:19.070Z",
+  "gameDetails": {
+    "id": "173441",
+    "name": "Bring Your Own Book",
+    "type": "boardgame",
+    "description": "Your old favorite book is now your new favorite game! In Bring Your Own Book, players take turns drawing prompts from the deck, then race to find the best phrase in their own book that satisfies the prompt. What's the tastiest &ldquo;name for a candy bar&rdquo; in that history textbook you're reading for school? How quickly can you find &ldquo;lyrics from a country western song&rdquo; in your dog-training guide? What kind of &ldquo;advice for graduating seniors&rdquo; will appear in your anthology of limericks?\n\nIn more detail, everyone has their own book and sits in a circle. The cards are placed face down, and the starting player has a one-minute timer. The starting player takes the top card off the deck, picks a prompt, and reads it aloud. Everyone except the Picker searches their book for text to match the prompt, sequential text of any length: a single word, half of a sentence, a whole sentence, multiple sentences, etc.\n\nThe first Seeker to find matching text announces \"I've got it\" and starts the timer. When the timer runs out (or every Seeker announces \"I've got it\"), each Seeker reads what they've found. Seekers who didn't find text in time open to a random page and read a random sentence from it. The Picker chooses their favorite submission and awards the card to that Reader. After each round, the person to the left of the last Picker starts the next round. Once any player holds three cards, everyone passes their book to the player on their left. This happens any time a player reaches three cards during the game. Thus, it can happen as many times as there are players.\n\nThe game proceeds until one player has collected the required number of cards and wins: with 5-7 players the first to 4 cards win; with 3-4 players the first to 5 cards win.\n\n",
+    "image": "https://cf.geekdo-images.com/EqFkUeRXRbxe8fNYg4xUhw__original/img/xCAYqzRYTq5v7KWW3E1aAARJRWU=/0x0/filters:format(jpeg)/pic3048463.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EqFkUeRXRbxe8fNYg4xUhw__small/img/cnot3DIBtNYoqDvUDmXKZfkq5wU=/fit-in/200x150/filters:strip_icc()/pic3048463.jpg",
+    "link": "https://boardgamegeek.com/thing/173441",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2015",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.75215",
+    "averageWeight": "1.0952",
+    "boardGameRank": "4375",
+    "mechanics": [
+      "Hand Management",
+      "Player Judge",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "Matthew Moore"
+    ]
+  }
+}

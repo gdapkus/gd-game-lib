@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:08:13.130Z",
+  "gameDetails": {
+    "id": "146816",
+    "name": "Sanssouci",
+    "type": "boardgame",
+    "description": "Your task in the tile-laying game Sanssouci is to create a flower garden for the world-famous Sanssouci Palace. Competing against up to three other landscape architects, you'll have your own garden layout game board on which you'll build rose gardens and vineyard terraces, labyrinths and fountains &ndash; but not just anywhere, mind you. No, the landscapers must meet certain building requirements, and unfortunately you won't always have at hand everything that you might need.\n\nIn game terms, each player has a personal garden that's divided into rows and columns; each row shows a color, while each column shows one of nine garden elements, such as the wells or a pavilion. Players start with one noble at the top of each column. A shared tile supply board has five rows &ndash; with colored spaces matching the colors on each player board &ndash; and two columns, which are unlabeled. At the start of the game, ten tiles are placed on this supply board; each tile depicts one of the nine garden elements.\n\nEach turn, a player plays one of his two cards in hand, which determines the tile he can take from the supply, e.g. take a pavilion tile, take a tile from the red or gray spaces, etc. The player has only a single card that lets him take any tile &ndash; but if he plays a card showing a garden element that isn't present, then he can instead take any tile! The player must place this tile on his player board in the column that matches the image on the tile and the row that matches the color from which the tile was taken. If this space is already filled, he flips the tile to show the gardener on the other side, then places this tile on any free space in the same row or the same column. After placing the tile, he may move one of his nobles along a path of placed tiles as long as the noble ends up in the same column in which it started, but on a lower row. The player scores points equal to the row reached.\n\nThe player then refills the supply and draws a new card. The game ends after 18 rounds. Each player then receives bonus points for each completed row and column. Furthermore, each player has received two order cards at the start of the game, each of which shows one of the nine columns; each player receives bonus points for the row reached by the noble in that column. The player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/h0c3EJJ9VnqCX5x1FNT1VQ__original/img/-eAVptKufWiH0F9cpY_xoinEM6w=/0x0/filters:format(png)/pic5226861.png",
+    "thumbnail": "https://cf.geekdo-images.com/h0c3EJJ9VnqCX5x1FNT1VQ__small/img/sentovAbz5Gl6FOJxUT0s1EQ8e0=/fit-in/200x150/filters:strip_icc()/pic5226861.png",
+    "link": "https://boardgamegeek.com/thing/146816",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.1088",
+    "averageWeight": "2.1026",
+    "boardGameRank": "1930",
+    "mechanics": [
+      "Hand Management",
+      "Pattern Building",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Age of Reason",
+      "Puzzle"
+    ],
+    "designers": [
+      "Michael Kiesling"
+    ]
+  }
+}

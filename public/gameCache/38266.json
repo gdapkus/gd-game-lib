@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:29:07.004Z",
+  "gameDetails": {
+    "id": "38266",
+    "name": "Kriegbot",
+    "type": "boardgame",
+    "description": "Kriegbot, the future of robotic combat vehicles.  Secretly outfit your robot with weapons like railguns, EMP blasters, and chainsaws.  Add a couple of systems like targeting computers, incendiary munitions, or radar.  Mount all of this hardware on a unique chassis, like a hovercraft or a helicopter, and then team up and battle it out with other kriegbots on a tactical terrain map.  \n Kriegbot is a game for 2 to 6 players, which takes an hour or two to play. It is designed by Matt Eklund of Sierra Madre Games. It comes with rules and technology background, 6 plastic robot figures, 40 plastic markers, 92 color design cards, 6 color vehicle templates, 3 special dice, and 1 color map.\n\n",
+    "image": "https://cf.geekdo-images.com/XVWir1UI-ntgYyikvz_XpQ__original/img/5Th_bjNBFPw9XvzvK9kBVKxzKrQ=/0x0/filters:format(jpeg)/pic370557.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XVWir1UI-ntgYyikvz_XpQ__small/img/4pOnhpraTkmEj8i2XKpAKMR3rHY=/fit-in/200x150/filters:strip_icc()/pic370557.jpg",
+    "link": "https://boardgamegeek.com/thing/38266",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2008",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "7.23571",
+    "averageWeight": "2.7059",
+    "boardGameRank": "13999",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Movement Points",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Fighting",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Matt Eklund"
+    ]
+  }
+}

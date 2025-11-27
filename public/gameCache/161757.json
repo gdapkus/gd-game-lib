@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:07:46.215Z",
+  "gameDetails": {
+    "id": "161757",
+    "name": "New Salem",
+    "type": "boardgame",
+    "description": "New Salem is a hidden-identity, drafting, deduction, and set-collection game in which players are 17th-century founders of New Salem, where they hope to escape from the pestilence-filled streets of Salem during the infamous witch trials.\n\nRighteous players need to keep the witches at bay and construct specific types of buildings while witches add pestilence to the new town without detection. If the righteous players can keep pestilence at a minimum, the one who scored the most victory points will win, but if there is too much pestilence, the witch who was the most evil will win.\n\n",
+    "image": "https://cf.geekdo-images.com/6z-wDARw-cNyUdp0ke1ExQ__original/img/FByFs5wKMFeLlHto1mEv-KcybzY=/0x0/filters:format(jpeg)/pic2852933.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6z-wDARw-cNyUdp0ke1ExQ__small/img/mLyQZ3c93VuZ7ZIg7m7pogZRb-Y=/fit-in/200x150/filters:strip_icc()/pic2852933.jpg",
+    "link": "https://boardgamegeek.com/thing/161757",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2015",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.26842",
+    "averageWeight": "1.7037",
+    "boardGameRank": "7456",
+    "mechanics": [
+      "Closed Drafting",
+      "Set Collection",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "City Building",
+      "Deduction"
+    ],
+    "designers": [
+      "Brian Henk",
+      "Clayton Skancke"
+    ]
+  }
+}

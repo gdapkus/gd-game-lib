@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-25T18:21:47.800Z",
+  "gameDetails": {
+    "id": "220980",
+    "name": "Solstice",
+    "type": "boardgame",
+    "description": "The ruling house of the empire is in decline and in their weakness an opportunity presents itself. The throne is within the grasp of any rival faction bold and cunning enough to grab power for themselves.\n\nHowever, this is a nuanced conflict, one where diplomacy cuts just as sharply as the weapons of an army, but half as so as the assassin&rsquo;s blade. There are wheels within wheels and machinations beyond your view.\n\nPlayers represent powerful houses, each seeking to be in ascent of the throne. Every player has the same six cards, which provide Strength, Favor, Victory Points, and bonuses. Unfortunately, the path forward is shrouded in fog, forcing players to manage the uncertainty of the times.\n\nEvery round, players draft a hand of cards, choosing a mix of their cards, their opponents&rsquo;, and powerful Events. The key is building a viable strategy with your own cards and events, while denying key cards from your opponents. Then, cards are played face down one at a time to the Planets. Limited information about each card is disclosed. Players are forced to make decisions with imperfect information gained during the draft and by reading your opponents. Finally, the cards are revealed and resolved. In most cases, players want to be the Strongest or Favored faction to score Victory Points.\n\n",
+    "image": "https://cf.geekdo-images.com/Evw3cMHabMzDLFFjBssITA__original/img/2o5p6ZuVo4yh2SvVRL9OTZnvWZk=/0x0/filters:format(jpeg)/pic3440442.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Evw3cMHabMzDLFFjBssITA__small/img/KdDDowxlZ8SeqEBIAT8Pugmp3C0=/fit-in/200x150/filters:strip_icc()/pic3440442.jpg",
+    "link": "https://boardgamegeek.com/thing/220980",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "45",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.3585",
+    "averageWeight": "2.5",
+    "boardGameRank": "20581",
+    "mechanics": [
+      "Open Drafting",
+      "Secret Unit Deployment"
+    ],
+    "categories": [
+      "Card Game",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Grant Rodiek"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:10:58.823Z",
+  "gameDetails": {
+    "id": "78750",
+    "name": "Kaispeicher",
+    "type": "boardgameexpansion",
+    "description": "Game description from the publisher:\n\nWith Kaispeicher, there will be even more to do between the warehouses and channels of The Speicherstadt. This expansion adds new wares and cards to the game, including not only new buildings, orders and ships, but also several actions that will allow you to gain an advantage or make life difficult for your opponents. There is also a new figure for each player, which &ndash; in conjunction with the new auction mechanism &ndash; will add a whole new level of tactical options.\n\nThis expansion includes 25 real metal coins, bringing even more life to the busy port city of Hamburg!\n\n",
+    "image": "https://cf.geekdo-images.com/9bGj_UYT7hQSSpnY12UZ8Q__original/img/uOjqwVA-qmN6fWB1qtAht6d5R2Y=/0x0/filters:format(jpeg)/pic1259007.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9bGj_UYT7hQSSpnY12UZ8Q__small/img/De_mJUborjr7uU9x912gnlCZciQ=/fit-in/200x150/filters:strip_icc()/pic1259007.jpg",
+    "link": "https://boardgamegeek.com/thing/78750",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.48656",
+    "averageWeight": "2.5185",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Set Collection"
+    ],
+    "categories": [
+      "Bluffing",
+      "Economic",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Stefan Feld"
+    ]
+  }
+}

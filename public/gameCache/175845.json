@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:48:48.750Z",
+  "gameDetails": {
+    "id": "175845",
+    "name": "Arcade",
+    "type": "boardgame",
+    "description": "A skirmish game for 2 players by N&eacute;stor Romeral Andr&eacute;s.\n\nPlayer, welcome to the Arcade.\n\nYour orders: Command your tank squadron and destroy the enemy. Navigate the labyrinthine arena, and blast the hostile tanks while protecting your own. This is a tactical test of skill. Lose all three tanks, and it's GAME OVER; but if you win, you might just see your initials in the high score list.\n\n",
+    "image": "https://cf.geekdo-images.com/kGX7vezsxHHm-zSvHtKssQ__original/img/K3J1_9qjhL7-nxDnIL-K-m51vlQ=/0x0/filters:format(png)/pic2523763.png",
+    "thumbnail": "https://cf.geekdo-images.com/kGX7vezsxHHm-zSvHtKssQ__small/img/RbQu6O_vmesyP9WHjo-DwONcUjI=/fit-in/200x150/filters:strip_icc()/pic2523763.png",
+    "link": "https://boardgamegeek.com/thing/175845",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2015",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.68537",
+    "averageWeight": "2.5714",
+    "boardGameRank": "16588",
+    "mechanics": [
+      "Dice Rolling",
+      "Modular Board",
+      "Simulation"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Video Game Theme"
+    ],
+    "designers": [
+      "Néstor Romeral Andrés"
+    ]
+  }
+}

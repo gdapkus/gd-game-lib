@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:29:54.318Z",
+  "gameDetails": {
+    "id": "128898",
+    "name": "New Amsterdam",
+    "type": "boardgame",
+    "description": "Nieuw Amsterdam was founded by the Dutch West Indies Company in order to encourage the lucrative beaver pelt trade with the local Native American hunters along the Hudson River. To establish a trading post there, they needed a town and a fort, which was built on the tip of Manhattan Island. To encourage European patrons &ndash; that is, settlers of means or noble birth &ndash; to populate the colony, they granted them both land and indentured servants. The patrons became the lords of a new feudal system not unlike that seen in Europe.\n\nIn Nieuw Amsterdam, players are those patrons, and they bid on action lots in order to build businesses, work land for both food and building materials, compete in elections, ship furs to the Old World, and trade with the Lenape Indians &ndash; a process that gets more complicated as players claim more land and push the Lenape camps farther up the Hudson River.\n\n",
+    "image": "https://cf.geekdo-images.com/mMmRH6YwxreJUIvfpO-aZg__original/img/vNT7MPFV0DpuZe1NGpGkLgfsPY8=/0x0/filters:format(jpeg)/pic1781109.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mMmRH6YwxreJUIvfpO-aZg__small/img/q8Rf-7kDjB5f90IE2NFafybesL0=/fit-in/200x150/filters:strip_icc()/pic1781109.jpg",
+    "link": "https://boardgamegeek.com/thing/128898",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.02098",
+    "averageWeight": "3.2222",
+    "boardGameRank": "2770",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Auction: Once Around",
+      "Set Collection",
+      "Turn Order: Auction"
+    ],
+    "categories": [
+      "Economic",
+      "Renaissance"
+    ],
+    "designers": [
+      "Jeffrey D. Allers"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:13:26.184Z",
+  "gameDetails": {
+    "id": "2633",
+    "name": "DOG",
+    "type": "boardgame",
+    "description": "Dog has similarities to the Pachisi / Sorry! family of games, but with a few noticeable twists. The game mechanics is similar to TAC, Super Tock 4, Super Tock 6, Tock 6, Super Tock 8, and Partners\n\nThe object of the game is to move your tokens from home to the target area as quickly as possible, moving them in a clockwise direction along the course according to the value of the cards. Whichever team first places all eight of its tokens in the target area wins.\n\nThe first twist in Dog is that play is based on a hand of cards held by each player, with the start player and the quantity of cards cycling on successive hands from six cards to two, then resetting to five, then progressing back to two. Card values range from 1-13, with a number of special actions represented.\n\nThe second twist is that Dog is a partnership game, with the players winning or losing as a team, which adds a significant level of strategy and tactics to the game. Partners trade one card at the beginning of each round, and once one player from a partnership has completed his group, his plays now assist his partner.\n\nCompact Dog is a travel version of Dog that's limited to four players instead of allowing for play with either four or six players, as in the full game.\n\n",
+    "image": "https://cf.geekdo-images.com/7MfFQAkv7c7kWBlO8gvi4w__original/img/gmGRwiy2Q7fZoiFLjsraXwXcvRI=/0x0/filters:format(jpeg)/pic395076.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7MfFQAkv7c7kWBlO8gvi4w__small/img/lQOBjsrb94zOVnr16F03f5k3hiE=/fit-in/200x150/filters:strip_icc()/pic395076.jpg",
+    "link": "https://boardgamegeek.com/thing/2633",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1997",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.33722",
+    "averageWeight": "1.431",
+    "boardGameRank": "4076",
+    "mechanics": [
+      "Hand Management",
+      "Movement Points",
+      "Race",
+      "Take That",
+      "Team-Based Game",
+      "Track Movement"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

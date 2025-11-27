@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:02:06.485Z",
+  "gameDetails": {
+    "id": "119432",
+    "name": "Snowdonia",
+    "type": "boardgame",
+    "description": "The peaks of Snowdonia rise before you, encased in mist, their summits barely visible. The highest is Snowdon (Wyddfa) herself at 1,085 metres. The year is 1894, and the Snowdon Mountain Tramroad and Hotels Company Limited has been formed to build a branch line from Llanberis to the summit. You can scarcely believe it's possible!\n\nIn Snowdonia, players represent work gangs providing labour for the construction of the Snowdon Mountain Railway. Unlike other train games you will have to excavate your way up a mountain side, as well as make and lay the track, construct viaducts and stations. All this in competition with the weather of the Welsh mountains (and the game itself)!\n\nYou may be assisted by a train (though that's not always best) and you'll be able to collect essential materials from the Stock Yard. You will obtain special work contracts that give you bonuses.\n\nCan you contribute more than the other players to the magnificence of the Snowdon Mountain Railway?\n\n",
+    "image": "https://cf.geekdo-images.com/04SK6RPEqcArT_g8wHH2TA__original/img/NoGoAZPF6DQ_GQoBEXD7rnI2Lvk=/0x0/filters:format(jpeg)/pic1430858.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/04SK6RPEqcArT_g8wHH2TA__small/img/9Ih7C267B9XzDU_z5tFHTF94Dh0=/fit-in/200x150/filters:strip_icc()/pic1430858.jpg",
+    "link": "https://boardgamegeek.com/thing/119432",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.30677",
+    "averageWeight": "2.9934",
+    "boardGameRank": "814",
+    "mechanics": [
+      "Events",
+      "Hand Management",
+      "Open Drafting",
+      "Turn Order: Claim Action",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Trains"
+    ],
+    "designers": [
+      "Tony Boydell"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:32:42.753Z",
+  "gameDetails": {
+    "id": "63167",
+    "name": "Undermining",
+    "type": "boardgame",
+    "description": "In Undermining, players dig for resources on an alien world, making the best of the actions available to them to achieve short term goals (such as obtaining particular resources) while upgrading their Universal Mining Vehicles&mdash;UMVees&mdash;and fulfilling contracts in the long term. To win, you need to earn more \"star bucks\" than anyone else, and you earn those by completing contracts, upgrading vehicles, finding alien technologies and having resources on hand at the end of the game.\n\nUpgrading your UMVee also provides it with special abilities that can come in handy throughout the game.\n\nUndermining is a highly interactive game, with player actions sometimes benefiting and sometimes impacting the future actions of others. Competition for resources is important, of course, but using open tunnel spaces to get where you need to go&mdash;and blocking those spaces from opponents&mdash;is also key. Players can still move through other UMVees, but doing so costs battery power, and managing your batteries&mdash;which allow extra actions&mdash;is another important aspect of playing well.\n\nUndermining comes with a double-sided game board, with player interaction being significantly different from one side to the other. With a random layout of resources, UMVee upgrades, contract variability, and one-off special bonuses from the finding of alien technology, no two games of Undermining are ever the same.\n\n",
+    "image": "https://cf.geekdo-images.com/waxOKvc1smlGRqarTf6etQ__original/img/8IqNpAWB9EvCecFfzYfyPI38xb4=/0x0/filters:format(jpeg)/pic1069095.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/waxOKvc1smlGRqarTf6etQ__small/img/03zJTco941Pgg6wCuthqbDHylwk=/fit-in/200x150/filters:strip_icc()/pic1069095.jpg",
+    "link": "https://boardgamegeek.com/thing/63167",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.37813",
+    "averageWeight": "1.8406",
+    "boardGameRank": "5749",
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "Grid Movement",
+      "Pick-up and Deliver",
+      "Set Collection"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Space Exploration",
+      "Transportation"
+    ],
+    "designers": [
+      "Matt Tolman"
+    ]
+  }
+}

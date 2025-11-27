@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:25:03.211Z",
+  "gameDetails": {
+    "id": "33150",
+    "name": "Cranium WOW",
+    "type": "boardgame",
+    "description": "Cranium WOW includes an all new gameboard, 600 new cards with 15 fun activities (we promise), a 10-sided die (the 9-sided die just wasn't working), a tub of lovely, lovely cranium clay, a timer, pads, pencils, 4 new character movers with custom hats and hairdos, and sass.  Cranium is a roll and move game with four distinct decks of cards that have the players perform, answer trivia, sculpt, and use their knowledge of popular culture to advance through the board to the center.  It is a very fun game and is designed for adults, or people who are \"adult-like\".\n\n",
+    "image": "https://cf.geekdo-images.com/ppRwu-ewf_yHfHH0Bn4--A__original/img/2o9x6CpAjMZp3Sl520EpOgzCd58=/0x0/filters:format(jpeg)/pic336770.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ppRwu-ewf_yHfHH0Bn4--A__small/img/Kc7kka3aHBmYQ1G96emW9Te4AQs=/fit-in/200x150/filters:strip_icc()/pic336770.jpg",
+    "link": "https://boardgamegeek.com/thing/33150",
+    "minPlayers": "4",
+    "maxPlayers": "99",
+    "yearPublished": "2007",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      8,
+      12,
+      16
+    ],
+    "averageRating": "6.0698",
+    "averageWeight": "1.375",
+    "boardGameRank": "7340",
+    "mechanics": [
+      "Acting",
+      "Line Drawing",
+      "Paper-and-Pencil",
+      "Roll / Spin and Move",
+      "Singing",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Movies / TV / Radio theme",
+      "Party Game",
+      "Trivia",
+      "Word Game"
+    ],
+    "designers": [
+      "Whit Alexander",
+      "Richard Tait"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:52:02.838Z",
+  "gameDetails": {
+    "id": "60015",
+    "name": "Dectana",
+    "type": "boardgame",
+    "description": "Dectana is a game of finding and defending the most valuable territories on a board made of cards. You will need to grow an army of pyramids, make best use of your hand of cards, and even invoke the powers of the board itself. Can you retain your stake at victory against your opponents&rsquo; competing endeavors?\n\nDectana reimplements the Icehouse games Zarcana and Gnostica (which use Tarot cards) for use with the Decktet. As in Zarcana and Gnostica, cards are played to create an abstract network of territories.  Players use card powers from their hand or the board to manipulate their pyramid minions.  The four suits of the Tarot are replaced with the six suits of the Decktet, making for more and different suit powers.  The endgame is triggered when someone hoards, then discards, three Aces.\n\nComplete rules and player aids available at:\nhttp://ceruleansgames.tripod.com/dectana.htm\n\n",
+    "image": "https://cf.geekdo-images.com/AyO6LX3FnAvjzjP16GT_sw__original/img/8VUdPceOdQHf16vlkDYlJy_EE70=/0x0/filters:format(jpeg)/pic613298.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AyO6LX3FnAvjzjP16GT_sw__small/img/yZYIRoCBEE2UFdDtk-ysPgsVBsI=/fit-in/200x150/filters:strip_icc()/pic613298.jpg",
+    "link": "https://boardgamegeek.com/thing/60015",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2009",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.3875",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Modular Board"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play",
+      "Territory Building"
+    ],
+    "designers": [
+      "Ryan Hackel"
+    ]
+  }
+}

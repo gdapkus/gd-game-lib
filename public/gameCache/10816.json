@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:49:58.827Z",
+  "gameDetails": {
+    "id": "10816",
+    "name": "Blackjack",
+    "type": "boardgame",
+    "description": "Blackjack originated in French casinos around 1700 where it was called \"vingt-et-un\" and has been played in the U.S. since the 1800's.\n\nBlackjack is played with a standard deck of 52 playing cards. In a Casino, usually six (6) or eight (8) decks of cards are shuffled together and placed in a card shoe for distribution.  The player must wager before any cards are dealt. He does this by placing his bet in front of his table position. Next, the dealer deals two cards to each of the players and two to himself. (One of the dealer's cards is dealt face up, one is dealt face down). Face cards count as ten, ace counts as one or 11, and all other cards are counted at their face value.\n\nA blackjack occurs if the player's first two cards are an ace and a ten or face card. This is usually a winning hand, although if the dealer also has a blackjack, it is a tie. A winning blackjack pays the player three to two.\n\nThe aim of the game is get a total close to - but not over - 21 and have that total be more than the dealer's total.\n\nThe dealer must draw on 16 and stand on 17. (A dealer total of 17 including an ace, or \"soft 17\", must be drawn to in some games and must stand in others).\n\nPontoon is a similar game, but there are some small rules variations. For example, the dealer wins on ties and both of their cards are dealt face down.\n\n",
+    "image": "https://cf.geekdo-images.com/hDixWez4o3x9D0f4pVl5bA__original/img/dB051FZ06gGOag8V90J8mtOkBNI=/0x0/filters:format(jpeg)/pic163405.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hDixWez4o3x9D0f4pVl5bA__small/img/qsaFz6USaPwkUx7dPosoGWags9w=/fit-in/200x150/filters:strip_icc()/pic163405.jpg",
+    "link": "https://boardgamegeek.com/thing/10816",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "1700",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "4.7913",
+    "averageWeight": "1.4491",
+    "boardGameRank": "29564",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Card Game",
+      "Number"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

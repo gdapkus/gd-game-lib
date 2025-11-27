@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:33:03.111Z",
+  "gameDetails": {
+    "id": "2316",
+    "name": "X-Bugs",
+    "type": "boardgame",
+    "description": "The History:\nIn the famous Roswell crash, the alien crew died, but some alien insects survived... and at the moment they're ready to conquer the world!\nBut during the cold war, US and Soviet scientists studied a solution: genetically modified earth insects, strong enough to deal with the menace!\nThe battle is going to begin!\n\nThe Game:\nthe game is based on the classic tiddlywinks: every army has three \"bases\" which have to be defended, and various \"soldier insects\" (winks) with various shapes, dimensions, and special abilities.\nAn \"insect\" is captured when an opponent \"insect\" stop over it. A \"base\" is captured the second time an opponent \"insect\" stop over it.\nThree 6-sided creature dice for every army are rolled every turn, and dictates which kinds of insects can move. When you lose a base, you lose a die and therefore some mobility. When you lose the second base, you're out of the game.\n\nThere are six armies, but only four were published in the United States. The game is sold in boxes containing two armies, and each army is separately available in two colors so identical forces can face each other:\n- USArthropods Vs. Flyborgs\n- Sovietoptera Vs. Chitinians\n- Samurachnids Vs. Bifids (not published in the US as of 8/2007)\n\nEach set has enough pieces for two players; by combining sets up to 12 can play.\n\nAbout special abilities: some insects can mimetize, some can move twice, other can shoot some weapons like missiles or acid spits (represented by winks, too)...\n\nBTW, the Italian name for \"Tiddlywinks\" is \"il gioco della pulce\", which means \"the game of the flea\".\n\nReimplemented as Micro Mutants: Evolution\n\n",
+    "image": "https://cf.geekdo-images.com/RlYP4QUzO8Eum3IYFZ6rdQ__original/img/5KmzrGLIqBGlPjOXscTP4klrX3U=/0x0/filters:format(jpeg)/pic12778.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RlYP4QUzO8Eum3IYFZ6rdQ__small/img/bXerMSvy5MIvSDm1wUD1fUWVA2k=/fit-in/200x150/filters:strip_icc()/pic12778.jpg",
+    "link": "https://boardgamegeek.com/thing/2316",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2001",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.34437",
+    "averageWeight": "1.3433",
+    "boardGameRank": "7258",
+    "mechanics": [
+      "Dice Rolling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Fighting"
+    ],
+    "designers": [
+      "Marco Maggi",
+      "Francesco Nepitello"
+    ]
+  }
+}

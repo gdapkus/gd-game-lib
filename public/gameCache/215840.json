@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:52:55.272Z",
+  "gameDetails": {
+    "id": "215840",
+    "name": "EXIT: The Game – The Forbidden Castle",
+    "type": "boardgame",
+    "description": "The castle is the highlight of the hike, but hardly have the hikers entered the old walls, when the squeaky doors close. Escape appears impossible &mdash; but strange hints may lead players in a new direction. Can they solve the riddles and find the way to freedom?\n\nExit: The Game &ndash; The Forbidden Castle is a puzzle game modeled after escape rooms.\n\n",
+    "image": "https://cf.geekdo-images.com/9rVXzuVqnFkF9WQbk8Y1qg__original/img/lsJzLJvVxbsJi_We49KW09hx_4o=/0x0/filters:format(jpeg)/pic3663362.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9rVXzuVqnFkF9WQbk8Y1qg__small/img/Z6EauUoGg3nN0Rcl5UoBsiEufbg=/fit-in/200x150/filters:strip_icc()/pic3663362.jpg",
+    "link": "https://boardgamegeek.com/thing/215840",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.77884",
+    "averageWeight": "3.2188",
+    "boardGameRank": "1896",
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction"
+    ],
+    "categories": [
+      "Deduction",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Inka Brand",
+      "Markus Brand"
+    ]
+  }
+}

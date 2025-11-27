@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:27:37.387Z",
+  "gameDetails": {
+    "id": "438442",
+    "name": "Feya's Swamp",
+    "type": "boardgame",
+    "description": "In Feya's Swamp, you take on the role of a clan of swamp dwellers aiming to become the most prosperous in the area. To succeed, you need to adapt to your surroundings by finding the best fishing and settlement spots, as well as choosing the right trading partners. You can also venture into nearby abandoned temples where powerful deities lie in wait to be awakened.\n\nThe game takes place over four rounds, with each round consisting of three phases: the income phase, the turn phase, and the maintenance phase. During the turn phase, you use unique characters to position your clan's workers in order to take various actions that help you gain victory points and gain advantages over the other players.\n\nYou take actions by moving your boats across the swamp, and these actions include fishing, trading with other clans, exploring abandoned temples in Feya, and building new settlements that will enhance your clan's abilities. Some actions don't require moving through the swamp, such as improving your navigation, which increases your boat speed; hosting festivals where each clan contributes fish to earn victory points; or building new cult spaces that bring prestige to the small islands that form in the swamp.\n\nThe main objective is to become the clan that contributes the most to the development of Feya, and to achieve this, you will also need to meet the variable goals specific to each game session.\n\nFeya's Swamp includes an advanced mode in which each clan has unique abilities that introduce a certain level of asymmetry in the game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/lxzo9PekKd4TRyBUlLH7Yw__original/img/5ofkerciKc8XsWYgejw3xTK0AkE=/0x0/filters:format(png)/pic8703614.png",
+    "thumbnail": "https://cf.geekdo-images.com/lxzo9PekKd4TRyBUlLH7Yw__small/img/1cEL93SEH6KEoO7CAlde9Sqi12s=/fit-in/200x150/filters:strip_icc()/pic8703614.png",
+    "link": "https://boardgamegeek.com/thing/438442",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "100",
+    "minPlayingTime": "80",
+    "maxPlayingTime": "100",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.71113",
+    "averageWeight": "3.0769",
+    "boardGameRank": "7217",
+    "mechanics": [
+      "Area Movement",
+      "End Game Bonuses",
+      "Hexagon Grid",
+      "Income",
+      "Roles with Asymmetric Information",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Fantasy",
+      "Territory Building"
+    ],
+    "designers": [
+      "Helge Ostertag",
+      "Anselm Ostertag"
+    ]
+  }
+}

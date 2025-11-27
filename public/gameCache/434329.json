@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T19:57:33.381Z",
+  "gameDetails": {
+    "id": "434329",
+    "name": "Darwin's Journey: Oceania",
+    "type": "boardgameexpansion",
+    "description": "In Darwin's Journey: Oceania, Charles Darwin ventures into the Pacific islands, captivated by their untamed beauty and unique life forms. Amid breathtaking discoveries, he faces setbacks and challenges that test his resolve, from harsh environments to the unpredictability of uncharted territory. As Darwin delves deeper into these natural wonders, his journey becomes a testament to the interconnectedness of life and the boundless curiosity that drives human exploration.\n\nPlayers will venture into a freshly designed island map, showcasing sixteen unique specimens inspired by Oceania. This expansion brings reimagined player boards with distinct bonuses and introduces a revamped main board filled with new features including, Post Office, University, Village Campsites. Silver Villages, Golden Villages, and Map Lens Locations.\n\nThe new Hazard Track mechanic transforms gameplay by introducing hazards that increase the difficulty of exploration and discovery. Players accumulate hazards that may trigger end-of-round penalties for everyone affected. However, the player with the highest hazard level receives a one-time bonus that can be strategically used during the game, creating a risk-versus-reward dynamic.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/Onzq0n_0KWoWxrBRQMrdxg__original/img/wi-n28_3cjWnTtD0YmNZx8p3Ghc=/0x0/filters:format(png)/pic8583996.png",
+    "thumbnail": "https://cf.geekdo-images.com/Onzq0n_0KWoWxrBRQMrdxg__small/img/zvgU0f0tXG9NgTQiIRd7jpq1UIQ=/fit-in/200x150/filters:strip_icc()/pic8583996.png",
+    "link": "https://boardgamegeek.com/thing/434329",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "6.95714",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Contracts",
+      "Ownership",
+      "Point to Point Movement",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Turn Order: Stat-Based",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone"
+    ]
+  }
+}

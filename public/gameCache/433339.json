@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:31:19.883Z",
+  "gameDetails": {
+    "id": "433339",
+    "name": "6 nimmt! Baron Oxx",
+    "type": "boardgame",
+    "description": "6 nimmt! Baron Oxx features gameplay similar to 6 nimmt!, with players trying to avoid taking cards in order to keep their score low.\n\nEach player has a hand of cards, and five rows of cards are started on the table with a single random card from the deck. Each card is numbered and features one or more colored bullheads. Each turn, players simultaneously choose a card from their hand, then reveal it. Whoever revealed the lowest card adds it to a row in which the last card features a bullhead of the same color; if several rows feature a matching bullhead, the player chooses the row. As soon as a row has six cards or at least six bullheads of the same color, whoever added the most recent card to that row claims all other cards in it. Baron Oxx is a special character that shows all colors, meaning you can play it on any row...but it can also cost you many points.\n\nOnce all players have placed a card, from low value to high, you all reveal another card. After all the cards have been played, whoever has the lowest score wins.\n\n",
+    "image": "https://cf.geekdo-images.com/J7rsZnOYY1Bzc11UjdZSNg__original/img/hCSpwzNjpBoXQ3z4McCvy9OV53M=/0x0/filters:format(jpeg)/pic8548496.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/J7rsZnOYY1Bzc11UjdZSNg__small/img/Dux3bkMry27alEJWHZ_g9irY5Ww=/fit-in/200x150/filters:strip_icc()/pic8548496.jpg",
+    "link": "https://boardgamegeek.com/thing/433339",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.18095",
+    "averageWeight": "1",
+    "boardGameRank": "7338",
+    "mechanics": [
+      "Hand Management",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ]
+  }
+}

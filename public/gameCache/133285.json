@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:03:21.702Z",
+  "gameDetails": {
+    "id": "133285",
+    "name": "Tin Goose",
+    "type": "boardgame",
+    "description": "Tin Goose is a game about the early years of commercial air travel. Beginning as a regional operation with just an airmail route and a \"tin goose\" (the Ford Trimotor), players build an airline empire through the 1930s and 40s. As the game progresses, planes improve, being safer and more fuel efficient while having a longer range. Companies become more organized and shed their early inefficiencies. The stakes of a disaster &mdash; crashes, strikes, and oil shocks &mdash; get higher.\n\nA deck of 96 cards includes all of the planes and events that enter the game. Of these, only about 36 are played in any given session, and all of those exist in players' hands at the outset. The result is a game of \"calamities\" with more planning and less luck: A skillful player seeing high bids on the safest planes may guess several bidders are holding crash cards.\n\nTin Goose is a business game that features a balance between greed and fear, without random events. It's designed by Matt Calkins, who previously designed Sekigahara: The Unification of Japan, and will be available in print from Rio Grande Games and digitally in the Apple iTunes store.\n\n",
+    "image": "https://cf.geekdo-images.com/Mh9pAZ8RiFQIHNkjaHC9eA__original/img/AQmaZWiqE2CiKZvpfbSW7kWnFzo=/0x0/filters:format(jpeg)/pic2625316.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Mh9pAZ8RiFQIHNkjaHC9eA__small/img/uZuJK5U0xDZRAHvcVZYkIwGAOgU=/fit-in/200x150/filters:strip_icc()/pic2625316.jpg",
+    "link": "https://boardgamegeek.com/thing/133285",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2016",
+    "playingTime": "150",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.97588",
+    "averageWeight": "2.9444",
+    "boardGameRank": "4759",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Economic"
+    ],
+    "designers": [
+      "Matt Calkins"
+    ]
+  }
+}

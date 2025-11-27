@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:31:57.451Z",
+  "gameDetails": {
+    "id": "292900",
+    "name": "Squaring Circleville",
+    "type": "boardgame",
+    "description": "Established in 1810, Circleville, Ohio derives its name from the circular portion of a large Hopewell earthwork upon which it was built. The Circleville earthworks, as described in 1772, comprised an 1,100-foot diameter circle connected to a 900-foot square. Town director Daniel Dreisbach plotted the town directly atop the earthworks, integrating the town plan into the landscape. An octagonal courthouse stood directly in the center of the circular road system in the center of town.\n\nTo the dismay of Dreisbach, however, the people of Circleville hated the circular roads. People complained that the round roads forced everyone to build on oddly-shaped lots and caused confusion. By the mid-1830s, enough dissatisfaction arose with Circleville's unique radial concentric road layout that the townsfolk petitioned the State Assembly to change it.\n\nThe Circleville Squaring Company, authorized in 1837, undertook a project to convert the \"peculiar\" town plan into a more conventional grid. Circleville occupies a unique place in the history of American town planning as one of the earliest examples of urban redevelopment in the United States.\n\nIn Squaring Circleville, you work for the Circleville Squaring Company to manage the process of deconstructing and reconstructing the town of Circleville. You will move around the courthouse rondel getting permits to perform work, such as deconstructing and constructing roads and demolishing and building structures.\n\nAs the game proceeds, you become more experienced and are able to do an amazing amount of work in the same amount of time. In the end, only one player will be recognized as the best at \"squaring the circle\" and wins.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/UEbxipES7Fr4u9SdkUFG5w__original/img/4OdVaQBSWUFPtnMJxacOOBeVP3I=/0x0/filters:format(jpeg)/pic6079056.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UEbxipES7Fr4u9SdkUFG5w__small/img/fylM2FaNYw0lykYjiR-Tk8cFkRA=/fit-in/200x150/filters:strip_icc()/pic6079056.jpg",
+    "link": "https://boardgamegeek.com/thing/292900",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.10185",
+    "averageWeight": "3.125",
+    "boardGameRank": "6777",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Rondel"
+    ],
+    "categories": [
+      "City Building"
+    ],
+    "designers": [
+      "Matt Wolfe"
+    ]
+  }
+}

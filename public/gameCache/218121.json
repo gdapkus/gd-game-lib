@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T19:57:36.018Z",
+  "gameDetails": {
+    "id": "218121",
+    "name": "Dice Hospital",
+    "type": "boardgame",
+    "description": "In Dice Hospital, a worker placement game, players must treat as many patients as possible to appease the local authorities! Players use their hospital staff to treat patients on their personal hospital player boards. However, players may also call in specialist staff to react to certain situations that arise to score more points with the authorities! The game uses worker placement mechanics for the staff, dice as the patients where low scores indicate low health and a personal player board of actions to treat patients. The player with the highest reputation wins the game!\n\n",
+    "image": "https://cf.geekdo-images.com/V6m5SH45BlP6t7-HuGWA-w__original/img/b3B7VSa1WYqfIZhuAj1ClZM9GFg=/0x0/filters:format(jpeg)/pic3562670.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/V6m5SH45BlP6t7-HuGWA-w__small/img/R_6kq0mu1RY7RJVvtI9hRClqpNY=/fit-in/200x150/filters:strip_icc()/pic3562670.jpg",
+    "link": "https://boardgamegeek.com/thing/218121",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.09852",
+    "averageWeight": "2.3312",
+    "boardGameRank": "926",
+    "mechanics": [
+      "Action Drafting",
+      "Action Points",
+      "Dice Rolling",
+      "Hexagon Grid",
+      "I Cut, You Choose",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Phase Order",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Dice",
+      "Medical"
+    ],
+    "designers": [
+      "Stan Kordonskiy",
+      "Mike Nudd"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T20:13:40.996Z",
+  "gameDetails": {
+    "id": "422674",
+    "name": "Saltfjord",
+    "type": "boardgame",
+    "description": "The generations before you have relied on harvesting the oceans. But as the 19th century ends, change and opportunity reach your fishing village in northern Norway. In Saltfjord, you must decide if you will expand your settlement with new buildings, send your boat to collect fish, engage in trade, or pioneer new technologies to make everyday life easier. How will you shape the destiny of your village?\n\nSaltfjord is set in a Norwegian fishing village, and is loosely based on the dice drafting mechanisms from \"Santa Maria\", but the game has otherwise been completely redesigned and expanded with new elements.\n\nOver three rounds, players draft dice to activate buildings in their settlement. This provides resources as well as activating actions such as sending out your fishing boat, advancing along the various technology tracks, completing trade orders, or erecting new buildings.  Each player's player board shows a grid. When you draft a die, you activate all buildings in the row or column corresponding to that die. By erecting buildings in your settlement, each die can activate more buildings.\n\nThe technology tracks unlock special abilities, such as upgrading your fishing boat. And fishing is an important part of daily life in Saltfjord.\n\nTo add to the replayability, the game has lots of variable elements in the set-up, such as what special abilities and end scoring tiles are available.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/yl84ULuBdp57YQ8E42B-iQ__original/img/UCLqtiTEf0QZlzokAWMHjKul01E=/0x0/filters:format(jpeg)/pic8257140.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yl84ULuBdp57YQ8E42B-iQ__small/img/qOgxJjlduQAIwaFb47tCkFSi89E=/fit-in/200x150/filters:strip_icc()/pic8257140.jpg",
+    "link": "https://boardgamegeek.com/thing/422674",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.85043",
+    "averageWeight": "3.0462",
+    "boardGameRank": "1311",
+    "mechanics": [
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Income",
+      "Open Drafting",
+      "Set Collection",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "City Building",
+      "Dice",
+      "Farming",
+      "Nautical"
+    ],
+    "designers": [
+      "Kristian Amundsen Østby",
+      "Eilif Svensson"
+    ]
+  }
+}

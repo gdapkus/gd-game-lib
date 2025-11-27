@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T20:29:11.502Z",
+  "gameDetails": {
+    "id": "4174",
+    "name": "Lifeboat",
+    "type": "boardgame",
+    "description": "Adrift in uncharted waters, six people share a tiny lifeboat. As the supplies run low, they discover that some barrels are filled with jewels and art treasures instead of water or hardtack. Greed mixes with love and hatred as the passengers take sides. Will you help row, and thus have a hand in guiding the boat's course? Try to shove your way into the quartermaster's seat? Start a fight to grab some loot? Or just bide your time until you can nudge your enemy overboard into shark-infested waters?\n\nLifeboat is a fast-paced card game of intrigue and survival. Players vie for the highest score when the boat reaches land &mdash; a seemingly simple matter of surviving with the most treasure. But each player has a secret love and a secret enemy among the passengers, and no one knows when landfall will occur.\n\nEach round of the game represents one day at sea as you row, bully, or jockey for a favorable seat on the lifeboat and for a favorable share of the treasures that float by. Players try to control provisions, use bribes and weapons, and combat the weather in the ultimate game of survival.\n\nYou win by having the most points at the end of the game. You&rsquo;ll score various amounts of points:\n&bull; If you are still alive\n&bull; If the player you secretly love is still alive\n&bull; If the player you secretly hate is dead\n&bull; If you have Treasure cards in your possession and your body is in the boat (dead or alive)\n\n",
+    "image": "https://cf.geekdo-images.com/3TqZjiMveplU3C6D-zWu4g__original/img/3FiIGTBYyBeo_NMKsOkPz0jKCnM=/0x0/filters:format(jpeg)/pic236080.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3TqZjiMveplU3C6D-zWu4g__small/img/iWlHLWNCsOJ4ti7jq68qSAR5thw=/fit-in/200x150/filters:strip_icc()/pic236080.jpg",
+    "link": "https://boardgamegeek.com/thing/4174",
+    "minPlayers": "4",
+    "maxPlayers": "6",
+    "yearPublished": "2002",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.29836",
+    "averageWeight": "1.7513",
+    "boardGameRank": "3432",
+    "mechanics": [
+      "Hand Management",
+      "Move Through Deck",
+      "Open Drafting",
+      "Player Elimination",
+      "Secret Unit Deployment",
+      "Set Collection",
+      "Take That",
+      "Team-Based Game",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Humor",
+      "Nautical",
+      "Negotiation",
+      "Party Game",
+      "Travel"
+    ],
+    "designers": [
+      "Jeff Siadek"
+    ]
+  }
+}

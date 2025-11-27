@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:55:26.405Z",
+  "gameDetails": {
+    "id": "7779",
+    "name": "Heart of Oak: Naval Miniatures Rules for the Age of Fighting Sail",
+    "type": "boardgame",
+    "description": "Complete naval miniatures rules for the age of sail covering the years 1755 to 1815. Also included are cut-apart ship counters for those who do not wish to use detailed naval miniatures.\n\nHeart of Oak covers all aspects of naval combat and tactics in depth and even details how the sailing ships actually worked with their environment. The effects of wind direction and strength of the wind are carefully explained to make for a more detailed and accurate simulation. Crews must deal with sail handling to maneuver into combat.'\n\nA first edition was printed in 1978 with a second edition printed in 1983. The FGU edition was printed in conjunction with their Privateers & Gentlemen role playing game.\n\n",
+    "image": "https://cf.geekdo-images.com/iES1kDEcSPaPvQmlFE7spw__original/img/ZnABbjuUdogdIvvbHx7Oj3wgFz8=/0x0/filters:format(jpeg)/pic31726.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iES1kDEcSPaPvQmlFE7spw__small/img/-MDmLCaVZp01cvNjoK_-GZfU_3g=/fit-in/200x150/filters:strip_icc()/pic31726.jpg",
+    "link": "https://boardgamegeek.com/thing/7779",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1978",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.4283",
+    "averageWeight": "3.6667",
+    "boardGameRank": "14429",
+    "mechanics": [
+      "Bias",
+      "Dice Rolling",
+      "Measurement Movement",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "American Revolutionary War",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Nautical",
+      "Wargame"
+    ],
+    "designers": [
+      "Walter Jon Williams"
+    ]
+  }
+}

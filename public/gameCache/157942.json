@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:02:58.955Z",
+  "gameDetails": {
+    "id": "157942",
+    "name": "Teratozoic",
+    "type": "boardgame",
+    "description": "The nations of mankind created horrifying new weapons to wage war with one another&mdash;genetically engineered monsters whose traits could be altered and combined to overcome any opponent. Unfortunately, humanity was no match for its own creations and armies of terrifying monsters were soon out of control in their destruction of civilization. In their final global nuclear strike, humanity accomplished two things: They wiped themselves out, and they created a highly mutagenic environment where the monsters could thrive.\n\nThis is the world at the start of Teratozoic, a light deck-building game. (From greek: terato-, of or relating to monsters, -zoic, of a (specified) era, or having a (specified) animal mode of existence.) Each player has their own deck of monster parts (their gene pool), and will attempt to make the best of the mutations they draw from a common deck to come out on top in the battle for survival. At first the monsters will be more random mutation than representative of a stable gene pool (players will draw most of the cards for each hand from the common deck), but by the time players reach the Teratozoic Era, their monsters will be built entirely from the best traits they've been able to retain each generation.\n\nThe dominant species in this new era (the final winner of the game) will be the one with the most robust gene pool&mdash;the player who can create the biggest, most impressive monsters at the end of the Teratozoic Era.\n\n",
+    "image": "https://cf.geekdo-images.com/R8dIQIrklLNYpua_rpkIzA__original/img/337rER5746JlC3-7Z9sRsMLpnso=/0x0/filters:format(jpeg)/pic1994219.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/R8dIQIrklLNYpua_rpkIzA__small/img/GaYkeTMNpYahg9VyPTstROoqDTA=/fit-in/200x150/filters:strip_icc()/pic1994219.jpg",
+    "link": "https://boardgamegeek.com/thing/157942",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2014",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "5.6727",
+    "averageWeight": "1.8",
+    "boardGameRank": "25254",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Pattern Building"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Teel McClanahan, III"
+    ]
+  }
+}

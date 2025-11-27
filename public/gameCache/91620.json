@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:59:42.317Z",
+  "gameDetails": {
+    "id": "91620",
+    "name": "Pastiche",
+    "type": "boardgame",
+    "description": "A world of beautiful colors comes alive in Pastiche as players choose commission cards picturing 34 of the finest European art works of the past six centuries. Players score their commissions by mixing primary colors through clever tile placement and recreating the palette of colors used by the masters who created these works. Explore the paintings, palettes, and pasts of the artists in this unique and challenging game for the whole family.\n\nWhile placing hexagonal pieces to gain palette (color) cards, players become familiar with the different color combinations that produce the many hues of an artist&rsquo;s palette, all listed on the Player Reference Card. Players also learn to recognize many great artists and their works as they complete commissions.\n\nAn \"International Edition\" of Pastiche was released in late 2011.\n\n",
+    "image": "https://cf.geekdo-images.com/j6fLzqAQTN4yoWE7R1emHA__original/img/AMOabZb5zW1EHRLZuv6_HFR89Hw=/0x0/filters:format(jpeg)/pic1067034.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/j6fLzqAQTN4yoWE7R1emHA__small/img/VEVoHDMwTbqCE84K1zfPlZuWiAY=/fit-in/200x150/filters:strip_icc()/pic1067034.jpg",
+    "link": "https://boardgamegeek.com/thing/91620",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.81295",
+    "averageWeight": "2.2517",
+    "boardGameRank": "2547",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Tile Placement",
+      "Trading"
+    ],
+    "categories": [
+      "Educational",
+      "Renaissance"
+    ],
+    "designers": [
+      "Sean MacDonald"
+    ]
+  }
+}

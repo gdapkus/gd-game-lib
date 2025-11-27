@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T19:31:28.901Z",
+  "gameDetails": {
+    "id": "300664",
+    "name": "Arkwright: The Card Game",
+    "type": "boardgame",
+    "description": "In the late 18th century, the Industrial Revolution starts. The first factories were founded by businessmen like Richard Arkwright, who ran the first factory for spinning wool with machines like the \"Spinning Jenny\" and the water frame.\n\nIn \"Arkwright: The Card Game\", you run a business and will employ workers in your different factories to produce and sell goods. The more workers, the more goods that can be sold &mdash; but be prepared for crises and some stiff competition.\n\nThe game is played over three decades (1770/1780/1790), split up into four rounds per decade. On your turn, you play new cards from your hand to open factories and upgrade existing ones, select improvements, improve factory quality, build machines, and employ new workers. You can also pay money to improve your shareholdings, and take out loans if you require more money for production costs. After the actions phase, you can improve your abilities by advancing your development markers on your player board, or take one of the available development cards.\n\nThen, the production phase starts, where every player who owns a factory of the current good produces those goods. The market fluctuates with the general demand, so the demand may be lower than the value of your current good, lowering your profit. Workers must be paid, and machines need regular maintenance, so you can possibly lose money instead of turning a profit. Selling enough of one good improves your share value, and there are bonuses for having the highest appeal. Lastly, if you can&rsquo;t sell your goods to the home market, you can ship them overseas or store them for future rounds.\n\nAfter the final round of the last decade, the game ends. Players then sell all goods left in their storehouses, reduce the number of shares they hold by the number of loans they took, and reduce their share value based on their personal shipping track. Each player then multiplies the number of their shares by their share value to determine their end score. The player with the highest end score wins the game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/8idwh3TfQ5FWGaMExD5HRw__original/img/B1k6WF1u1t4JFMLfF4BgTsAlvuI=/0x0/filters:format(jpeg)/pic5408665.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8idwh3TfQ5FWGaMExD5HRw__small/img/x0jHHNTOBBwxhRXNGUzMpvGRXGI=/fit-in/200x150/filters:strip_icc()/pic5408665.jpg",
+    "link": "https://boardgamegeek.com/thing/300664",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "100",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "100",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.85036",
+    "averageWeight": "3.9677",
+    "boardGameRank": "3983",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Loans",
+      "Market",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Player Elimination",
+      "Simulation",
+      "Stock Holding",
+      "Tech Trees / Tech Tracks",
+      "Turn Order: Stat-Based",
+      "Variable Set-up",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Card Game",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Stefan Risthaus"
+    ]
+  }
+}

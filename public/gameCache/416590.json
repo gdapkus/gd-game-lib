@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:38:42.041Z",
+  "gameDetails": {
+    "id": "416590",
+    "name": "Unfathomable: From the Abyss",
+    "type": "boardgameexpansion",
+    "description": "In From the Abyss, a new expansion for Unfathomable, the SS Atlantica and its journey to Boston are submerged in even deeper peril. New, horrifying monsters emerge from the depths of the Atlantic Ocean to assail the ship, and the waters of the ocean itself have grown violent enough to sweep the passengers overboard. New treacheries are here to sabotage the ship, and with the mythos deck doubling in size, fresh dangers will threaten the Atlantica at every turn.\n\nFortunately, the humans aboard this ship have some new tools at their disposal. In addition to eight new playable characters, players now have access to ally cards that move around the ship independently and help keep it afloat. New prelude cards can alter the conditions at the start of the game, providing even more variety so that no two games ever play out the same way. With new skills, items, and the brand-new boon cards, the struggle for the SS Atlantica has never been this fierce!\n\nA new expansion for Unfathomable, featuring expanded content and several new mechanics:\n\n    Rescuing passengers now grants players access to allies, who can provide aid to the humans in all sorts of useful ways.\n    Three new monsters known as &ldquo;horrors&rdquo;&mdash;the Shoggoth, the Drowned Spirit, and the Grasping Tendril&mdash;assail the ship, each of them incredibly dangerous and difficult to defeat.\n    New prelude cards come in three different varieties and change the conditions at the start of the game, adding unfathomable levels of replayability.\n    With additional playable characters, items, skills, and more, this expansion builds upon the base game to bring players more of everything that makes Unfathomable such a thrill to play!\n\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/WmiOlt9YijkQQ_DrkPv_HQ__original/img/-_xRgDnaiH-S9dW_jOq6MA5lGCU=/0x0/filters:format(jpeg)/pic8081905.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WmiOlt9YijkQQ_DrkPv_HQ__small/img/sjtyVWEEsWaC_G5O7jlbxG3v9EY=/fit-in/200x150/filters:strip_icc()/pic8081905.jpg",
+    "link": "https://boardgamegeek.com/thing/416590",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2024",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "8.20507",
+    "averageWeight": "3.6",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Movement",
+      "Hand Management",
+      "Hidden Roles",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Bluffing",
+      "Deduction",
+      "Fantasy",
+      "Horror",
+      "Novel-based"
+    ],
+    "designers": [
+      "Alexandar Ortloff-Tang"
+    ]
+  }
+}

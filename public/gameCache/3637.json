@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:18:10.918Z",
+  "gameDetails": {
+    "id": "3637",
+    "name": "Triplanetary",
+    "type": "boardgame",
+    "description": "Set in the 21st century, the map depicts the inner Solar system out to Jupiter.  Scenarios involve racing, pirating, invasions, and a few others.\n\nMovement involves vector mechanics.  Players plot courses using a grease pencil on the map and use fuel to accelerate a maximum of one each turn.  Planets and moons are used to modify the trajectory.\n\nThere are a limited number of ships.  Most are limited in fuel, so making efficient use of gravity is important to reaching a destination.\n\n2nd edition came out in 1981.  A 3rd edition was released in 2018 by Steve Jackson Games.\n\nIt is fairly easy to extend the game to much more than 3 players, although the board can become cluttered with ship trails (the game is sorta like Crayon Rails in this respect).\n\n",
+    "image": "https://cf.geekdo-images.com/9lcxyzzWnauKoAfcpUeNBw__original/img/VzepfnoNYLDePieDUrzo6FyPQJE=/0x0/filters:format(jpeg)/pic4172329.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9lcxyzzWnauKoAfcpUeNBw__small/img/uwKbGIipYc7kEqPfp8ghCGE3mdo=/fit-in/200x150/filters:strip_icc()/pic4172329.jpg",
+    "link": "https://boardgamegeek.com/thing/3637",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "1973",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.03379",
+    "averageWeight": "2.32",
+    "boardGameRank": "8820",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "John Harshman",
+      "Marc W. Miller"
+    ]
+  }
+}

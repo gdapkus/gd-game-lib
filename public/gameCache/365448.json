@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T19:33:34.223Z",
+  "gameDetails": {
+    "id": "365448",
+    "name": "Darwin's Journey: Fireland Expansion",
+    "type": "boardgameexpansion",
+    "description": "The Fireland Expansion includes a new map and alternative board layout with new mechanisms and additional content. It contains:\n\n\n     4 Wooden ships\n     4 Wooden explorers\n     4 coloured wooden discs\n     4 Special Action tiles\n     2 Player Objective tiles\n     2 Crew Cards\n     21 Adventure Cards (land and ocean)\n     20 wooden Adventure tokens\n     4 Adventure Player Aid cards\n     6 Observation score tokens\n     6 Time tiles\n     8 cardboard Time seals\n\n\n",
+    "image": "https://cf.geekdo-images.com/9XeS-P2Ju413DNo5TGkjOQ__original/img/TegtI0DyMRyckB8riY1DPWoRaPs=/0x0/filters:format(png)/pic6924771.png",
+    "thumbnail": "https://cf.geekdo-images.com/9XeS-P2Ju413DNo5TGkjOQ__small/img/hOMRa3WCLUB76X4SbYn3I5FJxhI=/fit-in/200x150/filters:strip_icc()/pic6924771.png",
+    "link": "https://boardgamegeek.com/thing/365448",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.2719",
+    "averageWeight": "4.1143",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Point to Point Movement",
+      "Set Collection",
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone"
+    ]
+  }
+}

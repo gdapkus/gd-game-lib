@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:50:50.091Z",
+  "gameDetails": {
+    "id": "5072",
+    "name": "Carrom",
+    "type": "boardgame",
+    "description": "Carrom is most easily described as \"finger pool\". On a 29\" x 29\" wooden board, players flick a large weighted disc (the striker) at smaller wooden discs (the carrom-men). The goal is to sink your 9 carrom-men (black or white), as well as the red Queen, in the four corner pockets. The first player or team to accomplish this collects points for the round (commonly called a \"board\"). A standard game of Carrom continues until one player has 25 points or 8 boards have been completed.\n\nCarrom is typically played with powder, and some variations of the game use cues.  The most widely played form of 'proper' Carrom is supported by a world wide set of rules known as The Laws of Carrom, and are available from the International Carrom Federation.\n\nCarrom bears similarities to Pool and Crokinole, but is a fascinating game in its own right with varied strategies and techniques. No one knows exactly where the game originated. It could have come from Bangladesh, Burma, Egypt, or Ethiopia, but most believe it originated in India. The Oxford English Dictionary notes the first use of the word Carrom in English was in the late 1770's - corresponding to the expansion of the British in India through the East India Company.\n\nAlso see American Carrom and the European games in a similar vein, Korona and H-ring spel.\n\n",
+    "image": "https://cf.geekdo-images.com/8Pm4BavHvdYDZO9iI_TnIw__original/img/uuD4UwnDR6xs7UL2cjiXSBTl6GU=/0x0/filters:format(png)/pic5512196.png",
+    "thumbnail": "https://cf.geekdo-images.com/8Pm4BavHvdYDZO9iI_TnIw__small/img/tXFtKAb7O4Z2X617p3lgTE6rjUA=/fit-in/200x150/filters:strip_icc()/pic5512196.png",
+    "link": "https://boardgamegeek.com/thing/5072",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "0",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.1013",
+    "averageWeight": "1.4621",
+    "boardGameRank": "2049",
+    "mechanics": [
+      "Flicking",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Action / Dexterity"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

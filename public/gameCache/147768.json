@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:36:44.534Z",
+  "gameDetails": {
+    "id": "147768",
+    "name": "Five Cucumbers",
+    "type": "boardgame",
+    "description": "Five Cucumbers is a trick-taking game with the goal of NOT winning the last trick!\n\nIt's not easy. You have two choices on your turn: Take over a trick by playing a equal or higher card or you must play your lowest card. It is not enough to keep a low card in your hand for the last trick as you will also need some high cards for taking over key tricks.\n\nThe player who wins the final (seventh) trick screwed up and must take cucumbers. Each player collects their cucumbers at the end of a round, and if a player has more than five cucumbers, he is out of the game; five cucumbers is the most you can have! In this way more and more players are excluded from the game until the final two are playing for victory!\n\nFive Cucumbers is a modern variant of the trick-taking game Cucumber (Agurk, Gurka), which is well-known primarily in Scandinavia. We are excited to bring you our new version!\n\n",
+    "image": "https://cf.geekdo-images.com/Qf7z4uq4BFyk68g8e5N_aQ__original/img/22G-bDWPce36ycLGQ82FwR-mPSo=/0x0/filters:format(jpeg)/pic3517680.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Qf7z4uq4BFyk68g8e5N_aQ__small/img/a3s1mPUTzK42FO66awHi17-L2mo=/fit-in/200x150/filters:strip_icc()/pic3517680.jpg",
+    "link": "https://boardgamegeek.com/thing/147768",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2013",
+    "playingTime": "25",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "5.94815",
+    "averageWeight": "1.3",
+    "boardGameRank": "6694",
+    "mechanics": [
+      "Ladder Climbing",
+      "Player Elimination",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

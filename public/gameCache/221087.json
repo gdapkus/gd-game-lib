@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T19:33:20.995Z",
+  "gameDetails": {
+    "id": "221087",
+    "name": "British vs Pirates: Reinforcements Add-on",
+    "type": "boardgameexpansion",
+    "description": "This add-on adds reinforcements for both the British and Pirates factions with more ships and captain cards.\n\nIncludes:\n\n     2 Pirate Ship Cards\n     2 Pirate Ship Miniatures\n     1 Pirate Captain Card\n\n\n\n     2 British Ship Cards\n     2 British Ship Miniatures\n     1 British Captain Card\n\n\n\n     12 D6 Dice\n\n\n",
+    "image": "https://cf.geekdo-images.com/lF9stZ1K6rCnsmKRaF0Hhw__original/img/hLg_J4RiHEOquhRCj6XNxTiwstg=/0x0/filters:format(jpeg)/pic3447479.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lF9stZ1K6rCnsmKRaF0Hhw__small/img/R-R45K1khoPtXo_b-zBSJrRZ5lc=/fit-in/200x150/filters:strip_icc()/pic3447479.jpg",
+    "link": "https://boardgamegeek.com/thing/221087",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "7.25",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Modular Board"
+    ],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Apollo Randall"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:11:37.897Z",
+  "gameDetails": {
+    "id": "266122",
+    "name": "Madeira: Expansion",
+    "type": "boardgameexpansion",
+    "description": "Madeira Expansion \nMadeira will never be the same. With this modular expansion you can add new challenges to your game of Madeira. You may combine the modules in any way you choose to and personalize your gaming experience. One thing is for sure, no game will ever be the same and the challenge will increase. Do you have what it takes?\n\nModule #1 New Beginning - 24 Starting Tiles\nModule #2 Capitanias - 24 Capitania Cards\nModule #3 King's Demands - 30 Unique Crown's Requests \nModule #4 New Roles - 5 New Characters, Pirate Meeple, Pirate Ship, Corsair Die, 10 special tiles\n\n--original publisher's description\n\n",
+    "image": "https://cf.geekdo-images.com/iUZZANgTKVUxHu4f7QF2qw__original/img/sT0acG4CGhCNIRkIUm20U3xBnFg=/0x0/filters:format(jpeg)/pic4432400.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iUZZANgTKVUxHu4f7QF2qw__small/img/VX90LgfEOu05zQH-ZEA8-cIdqvQ=/fit-in/200x150/filters:strip_icc()/pic4432400.jpg",
+    "link": "https://boardgamegeek.com/thing/266122",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "0",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": null,
+    "averageRating": "4.41667",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Dice",
+      "Economic",
+      "Farming",
+      "Nautical"
+    ],
+    "designers": [
+      "Nuno Bizarro Sentieiro",
+      "Paulo Soledade"
+    ]
+  }
+}

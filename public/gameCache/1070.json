@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:01:41.801Z",
+  "gameDetails": {
+    "id": "1070",
+    "name": "Shadows in the Forest",
+    "type": "boardgame",
+    "description": "You are deep in a dark, ancient forest with only your lantern to guide you. Tall, looming trees cast shadows all around. Off in the distance you hear a faint rustling sound and your heart begins to race. Could the legend be true? Will you finally discover the creatures who hide in the forest shadows?\n\nShadows in the Forest is a thrilling, immersive play experience that brings a distinctive twist to game night - you play it in the dark! One player moves the lantern around in search of Shadowlings, mysterious creatures who avoid the light. The lantern illuminates the forest and trees, casting real shadows on the game board. The rest of the players work together, strategically moving their Shadowlings to stay out of the light in this innovative board game for kids and families.\n\nIf one of the Shadowlings is hit by a beam of light, he is enchanted and can no longer move. The other Shadowlings will try to free him again. To do this, they have to wait until the light has moved far enough away so that another dwarf can reach him in the shadows.\n\nThe Shadowlings all want to meet under a tree while the lantern tries to cast a spell on all of them. Who will win?\n\n",
+    "image": "https://cf.geekdo-images.com/mjIUbLqz2Ge6LHBkT0Ej3Q__original/img/Lag1Kza0hoynwBiLz20mbAEbtB8=/0x0/filters:format(jpeg)/pic4684918.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mjIUbLqz2Ge6LHBkT0Ej3Q__small/img/xXlrI0vfVR0VolaZcjKWzdPyoV4=/fit-in/200x150/filters:strip_icc()/pic4684918.jpg",
+    "link": "https://boardgamegeek.com/thing/1070",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "1985",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.03375",
+    "averageWeight": "1.1064",
+    "boardGameRank": "6712",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Cooperative Game",
+      "Roll / Spin and Move",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Children's Game",
+      "Fantasy",
+      "Party Game"
+    ],
+    "designers": [
+      "Walter Kraul"
+    ]
+  }
+}

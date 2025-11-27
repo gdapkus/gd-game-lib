@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:16:32.448Z",
+  "gameDetails": {
+    "id": "337525",
+    "name": "Skulls of Sedlec: Poets",
+    "type": "boardgameexpansion",
+    "description": "Poets is a 6-card expansion that shuffles into the game, adds the ability to play with a 4th player and is fully compatible with the solo expansion, Skulls of Sedlec: Monstrance, as well.\n\nThis expansion to Skulls of Sedlec adds a new type of skull: the Poets. Poets want to be next to forlorn Romantics. They score points per adjacent, non-scoring Romantic.  For those that can't seem to pair up the romantics, you might split them up on purpose now to get the most points out of your poets.\n\nAdding in the expansion is easy, just shuffle in the expansion cards to the base game and play.\n\n",
+    "image": "https://cf.geekdo-images.com/Po_yFyehs352-j3bF4NDeA__original/img/mFz6PBj9bJDayM5D25l3TfjeEB0=/0x0/filters:format(png)/pic6493422.png",
+    "thumbnail": "https://cf.geekdo-images.com/Po_yFyehs352-j3bF4NDeA__small/img/wwKMpqJhIodVpZucTuBy9tw9MJ8=/fit-in/200x150/filters:strip_icc()/pic6493422.png",
+    "link": "https://boardgamegeek.com/thing/337525",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.60795",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Dustin Dobson"
+    ]
+  }
+}

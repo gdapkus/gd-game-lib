@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:17:00.804Z",
+  "gameDetails": {
+    "id": "203754",
+    "name": "Statecraft: The Political Card Game – Extreme Policies Pack",
+    "type": "boardgameexpansion",
+    "description": "A set of 10 incendiary and controversial policies from around the world. Extreme Policies are shuffled and one is dealt to each player at the start of the game. Extreme Policies have very large ideology points in some areas but also have negative ideology points in others.\n\nPlease note that the Extreme Policies Pack would likely not be appropriate for a younger audience, most workplaces or family gatherings.\n\n",
+    "image": "https://cf.geekdo-images.com/oumZZcxu-r07u1yUCQY4qg__original/img/g-xWv1KWTsHGKwLoj8ynlu8fbsE=/0x0/filters:format(png)/pic4982921.png",
+    "thumbnail": "https://cf.geekdo-images.com/oumZZcxu-r07u1yUCQY4qg__small/img/gcyu7i-KLQ3mc6HDA6GrhlU06XU=/fit-in/200x150/filters:strip_icc()/pic4982921.png",
+    "link": "https://boardgamegeek.com/thing/203754",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "6.05556",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Queue",
+      "Hand Management",
+      "Pattern Building",
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Political"
+    ],
+    "designers": [
+      "Peter Blenkharn"
+    ]
+  }
+}

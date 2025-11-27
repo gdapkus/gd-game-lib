@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:56:20.214Z",
+  "gameDetails": {
+    "id": "281259",
+    "name": "The Isle of Cats",
+    "type": "boardgame",
+    "description": "The Isle of Cats is a competitive, medium-weight, card-drafting, polyomino cat-placement board game.\n\nIn the game, you are citizens of Squalls End on a rescue mission to The Isle of Cats and must rescue as many cats as possible before the evil Lord Vesh arrives. Each cat is represented by a unique tile and belongs to a family, you must find a way to make them all fit on your boat while keeping families together. You will also need to manage resources as you:\n\n\n     Explore the island (by drafting cards)\n     Rescue cats\n     Find treasures\n     Befriend Oshax\n     Study ancient lessons\n\n\nEach lesson you collect gives you another personal way of scoring points, and 38 unique lessons are available. Complete lessons, fill your boat, and keep cat families together to score points, and the player with the most points after five rounds wins.\n\n",
+    "image": "https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__original/img/pKq-l1Ms78olHwMbZYMa_x6m-fM=/0x0/filters:format(jpeg)/pic4781085.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__small/img/gENtMHYJDff6XaGGOYw9oSZShCs=/fit-in/200x150/filters:strip_icc()/pic4781085.jpg",
+    "link": "https://boardgamegeek.com/thing/281259",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.63112",
+    "averageWeight": "2.355",
+    "boardGameRank": "184",
+    "mechanics": [
+      "Closed Drafting",
+      "Grid Coverage",
+      "Hidden Victory Points",
+      "Income",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Tile Placement",
+      "Turn Order: Stat-Based"
+    ],
+    "categories": [
+      "Animals",
+      "Fantasy",
+      "Nautical",
+      "Pirates",
+      "Puzzle"
+    ],
+    "designers": [
+      "Frank West"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:02:43.248Z",
+  "gameDetails": {
+    "id": "64583",
+    "name": "SWAT!",
+    "type": "boardgame",
+    "description": "Description: Those pesky bugs just keep coming at you! Your job is to SWAT them right when they score the most points. But be quick or your fellow players will SWAT them first.\n\nSWAT! is about capturing cards. A dealer turns over cards one-by-one, until someone decides he wants the exposed cards and hits the colorful \"SWAT!\" board. That player then becomes the dealer and the same process continues until all players have \"swatted\" three times or the deck runs out. Your challenge is to remember what you have already swatted and decide how far you can push your luck before another player swats the stack. The artwork is fun, imaginative and might get a little bit under your skin!\n\n",
+    "image": "https://cf.geekdo-images.com/a_qClB6si_dngxAA2LYdZA__original/img/LMk3C60XKJ4KvhzAcH1Qcd7AxW8=/0x0/filters:format(jpeg)/pic638027.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/a_qClB6si_dngxAA2LYdZA__small/img/e0KARniJz38y94UKPv7Wf_qSg-Y=/fit-in/200x150/filters:strip_icc()/pic638027.jpg",
+    "link": "https://boardgamegeek.com/thing/64583",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "yearPublished": "2010",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.12799",
+    "averageWeight": "1.125",
+    "boardGameRank": "12005",
+    "mechanics": [
+      "Memory",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Real-time"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

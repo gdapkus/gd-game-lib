@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:27:21.251Z",
+  "gameDetails": {
+    "id": "472",
+    "name": "DungeonQuest",
+    "type": "boardgame",
+    "description": "Players explore the ruins of Castle Dragonfire trying to reach the treasure chamber in the center of the dungeon and escape alive with as much treasure as possible. A limited number of turns before the game ends puts pressure on players to take risks and score rewards because anyone left in the dungeon when time runs out dies! A tile-laying system creates the maze-like dungeon and ensures that no two games are ever exactly the same.\n\nOriginally published in Sweden as Drakborgen (Dragon Keep) in 1985 by Alga, a subsidiary of BRIO AB. Sold in Norway (Skatten i borgen) and Denmark (Drageborgen). Licenced to Germany (Schmidt Spiele) as Drachenhort, to Great Britain (Games Workshop) as DungeonQuest. A 2nd edition named Drakborgen Legenden was released in 2002 (never released outside Sweden). The game was re-licensed to FFG in 2010, who released the 3rd edition the same year. See the family entry for more information.\n\nExpanded by:\n\n    Drakborgen II (the Swedish expansion that upon Games Workshop's British release was split into the two below:)\n    Heroes for Dungeonquest\n    Dungeonquest: Catacombs\n\n\nRe-implemented by:\n\n    Drakborgen Legenden\n    DungeonQuest (Third Edition)\n    DungeonQuest: Revised Edition\n\n\n",
+    "image": "https://cf.geekdo-images.com/Fj9TR_aSKK5KUi1KTmc9eA__original/img/NcygNshb8fwKgOQHgjVw4_iXZoY=/0x0/filters:format(jpeg)/pic184398.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Fj9TR_aSKK5KUi1KTmc9eA__small/img/B3bqTeGfH7oxqUP0DlNz77nvXsw=/fit-in/200x150/filters:strip_icc()/pic184398.jpg",
+    "link": "https://boardgamegeek.com/thing/472",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "1985",
+    "playingTime": "60",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.7832",
+    "averageWeight": "1.9242",
+    "boardGameRank": "2353",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Rock-Paper-Scissors",
+      "Role Playing",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy"
+    ],
+    "designers": [
+      "Jakob Bonds",
+      "Dan Glimne"
+    ]
+  }
+}

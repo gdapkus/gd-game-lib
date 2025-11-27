@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:16:20.568Z",
+  "gameDetails": {
+    "id": "4228",
+    "name": "1918: Storm in the West",
+    "type": "boardgame",
+    "description": "\"1918: Storm in the West\" is a two-player wargame that simulates the last nine months of the Great War on the Western front, from the German Stosstruppen-led offensives of the spring, to the final allied \"Big Push\" in the fall.  Players step into the shoes of the military high command of their nation or Alliance.\n\nThe German player at first must attempt to gain ground, perhaps even knocking the Allies out, through offensive action, before going over to a defense strong enough to contain the enemy counteroffensive.  The Allied player must grimly hold against the Teutonic onslaught, then counterattack and push them back far enough to break Germany's will to fight.\n\nOriginally published in Command magazine #16 May-Jun 1992\n\nContents:\n\n     Rules\n     Map\n     163 counters\n\n\n",
+    "image": "https://cf.geekdo-images.com/0q8dMyX5QxBXmgzyM3qAgw__original/img/Q6bhpELFzal3nVYJojEzkWCo7uQ=/0x0/filters:format(jpeg)/pic13304.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0q8dMyX5QxBXmgzyM3qAgw__small/img/aRESiHx73mS3o2yUMX4fXSRGWCU=/fit-in/200x150/filters:strip_icc()/pic13304.jpg",
+    "link": "https://boardgamegeek.com/thing/4228",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1992",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.73512",
+    "averageWeight": "2.6667",
+    "boardGameRank": "8963",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Ratio / Combat Results Table"
+    ],
+    "categories": [
+      "Wargame",
+      "World War I"
+    ],
+    "designers": [
+      "Ted Raicer"
+    ]
+  }
+}

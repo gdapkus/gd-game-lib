@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:49:27.488Z",
+  "gameDetails": {
+    "id": "1473",
+    "name": "Barbarians: 70 BC - 260 AD",
+    "type": "boardgame",
+    "description": "Barbarians recreates the situation along the Rhine-Danube frontier of the Roman Empire in the years 70 BC to 260 AD.\n\nThe game has 32 scenarios which can be played solitaire or by 2 players. Some scenarios can be adapted for play by 3 or 4 players. Scenarios range in playing time from 2 to 20 hours.\n\nIt has an 8 page rulebook and is a straight forward UGO/IGO hex and counter war game. It is very much the unofficial expansion to Caesar's Legions. The rules are 99% similar to Caesar's Legions.\n\nEnemies of Rome depicted in the game include Roman Rebels, Germans, Britons, Pannonians, Gauls, Batavii, Sarmations (Roxolanni and Iazyges), Goths, Vandals, Bastarnae and Dacians.\n\nIn the Designer Notes Keith Poulter acknowledges:\n\n\"The point of departure for the design was a fine game originally published under the title Eagles, and subsequently by Avalon Hill as Caesar's Legions.\"\n\nIn the Designer Notes Keith Poulter asked for feedback on the game as:\n\n\"Such feedback will be valuable, as we planned multi-scenario expansion kits (7 additional maps in all) covering western and southern Gaul, Spain, and Britain.\"\n\nThese expansions were never published.\n\nHowever, a related game (by different designers) using the Caeser's Legions system is Caesar in Gaul.\n\n",
+    "image": "https://cf.geekdo-images.com/N0YrFxR7kKceo_tYErnBMw__original/img/l32qFMrpkwvVNlo1adz1kRhhPSk=/0x0/filters:format(jpeg)/pic558643.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/N0YrFxR7kKceo_tYErnBMw__small/img/8NytXcQjSyGIhn3j9IY_A9Du24Y=/fit-in/200x150/filters:strip_icc()/pic558643.jpg",
+    "link": "https://boardgamegeek.com/thing/1473",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "1994",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "5.38936",
+    "averageWeight": "2.8462",
+    "boardGameRank": "26138",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Simulation",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Ancient",
+      "Wargame"
+    ],
+    "designers": [
+      "Keith Poulter"
+    ]
+  }
+}

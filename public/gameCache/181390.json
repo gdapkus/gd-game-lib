@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:50:27.899Z",
+  "gameDetails": {
+    "id": "181390",
+    "name": "Buttons",
+    "type": "boardgame",
+    "description": "Buttons is a clever dice game with a press-your-luck element. The players take turns rolling the dice and placing buttons on their board. Although only one person rolls the dice at a time, everyone can profit from the dice roll and also place a button. But be careful! The fuller the board, the riskier it becomes to play. Then it's a case of getting out in time so as not to lose your buttons!\n\nButtons is played over several rounds. In every round, the goal of the players is to place buttons on the spaces. At the end of a round, players score for the buttons they've placed; each set of three gives them a star, which is placed on the player board. The first player to have either twelve stars or five stars in a row wins!\n\n",
+    "image": "https://cf.geekdo-images.com/hwGmT4C8DLpUZ14H941mOw__original/img/FnNT0lhXaA1QCdER_fCVF_asAgQ=/0x0/filters:format(jpeg)/pic2622715.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hwGmT4C8DLpUZ14H941mOw__small/img/B2VBUQfzW5pRg0Q4EnJLP_yxHGs=/fit-in/200x150/filters:strip_icc()/pic2622715.jpg",
+    "link": "https://boardgamegeek.com/thing/181390",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.58533",
+    "averageWeight": "1.1333",
+    "boardGameRank": "20802",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "categories": [
+      "Dice"
+    ],
+    "designers": [
+      "Benjamin Schwer"
+    ]
+  }
+}

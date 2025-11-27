@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:17:38.887Z",
+  "gameDetails": {
+    "id": "1209",
+    "name": "Pax Britannica: The Colonial Era 1880 to the Great War",
+    "type": "boardgame",
+    "description": "Pax Britannica is a Victorian Era multi player wargame of empire, diplomacy, and global confrontation. The Great Powers of United Kingdom, France, the US, Germany, Austria-Hungary, Italy, Russia, and Japan vie throughout the world for the wealth and esteem conferred by vast colonial holdings in the far-flung corners of the Earth. Each player maneuvers his administrative and military assets to establish control over the choicest and most strategic areas, keeping a wary eye toward encroaching opponents whose colonial ambitions are every bit as great. Conflict between national wills is more often resolved through peaceful negotiation than through war; but when national honor is too severely tried, war can occur- on a scale that threatens to evolve into the War to End All Wars!\n\nTime scale = 4 years per turn; Map scale = abstract; Unit scale = Corps/Fleet, Division/Task Force, Regiment/Squadron; Playing time = approx 4 to 7 hours.\n\n",
+    "image": "https://cf.geekdo-images.com/DbMKVxP7zzLmco5cjV77hg__original/img/3Injc_D8rb_Zbz7P9cWU-52t_lQ=/0x0/filters:format(jpeg)/pic235239.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DbMKVxP7zzLmco5cjV77hg__small/img/vOufVZOp9L6RIadSCslAAXmCYqg=/fit-in/200x150/filters:strip_icc()/pic235239.jpg",
+    "link": "https://boardgamegeek.com/thing/1209",
+    "minPlayers": "4",
+    "maxPlayers": "7",
+    "yearPublished": "1985",
+    "playingTime": "300",
+    "minPlayingTime": "300",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      7
+    ],
+    "averageRating": "6.74123",
+    "averageWeight": "3.8529",
+    "boardGameRank": "4691",
+    "mechanics": [
+      "Dice Rolling",
+      "Movement Points",
+      "Point to Point Movement",
+      "Simulation",
+      "Voting"
+    ],
+    "categories": [
+      "Negotiation",
+      "Political",
+      "Post-Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "Greg Costikyan"
+    ]
+  }
+}

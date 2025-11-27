@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:07:36.325Z",
+  "gameDetails": {
+    "id": "109932",
+    "name": "Miskatonic School for Girls",
+    "type": "boardgame",
+    "description": "Miskatonic School for Girls is the first deck-building game in which you get to build your opponent's deck. This unique feature creates a totally different play dynamic from other deck building games.\n\nMSFG has players assuming the roles of rival houses at Miskatonic. Each house has a healthy level of sanity (20) at the beginning of the game. As the game goes on, that precious sanity will slowly be torn away by the faculty of the school. In order to combat the bad teaching methods of the Great Old Ones, the students of the house need to band together!\n\nDuring your turn, you'll buy your new friends with friendship points and use nightmare points to send faculty after the rival houses. Eventually, those Faculty will end up in a player's hand, where they will hold class, teaching your innocent students about the horrors around them. This has a detrimental effect on your house's sanity.\n\nDue to the overwhelming power of the dark truth, it's just a matter of time before your house goes completely bonkers. The last house left with any sanity wins!\n\n",
+    "image": "https://cf.geekdo-images.com/h7N5ep1Cj1fmYEaQuKBaEA__original/img/awPym4Eg1VYwVtMHowWKoQ6N-Yg=/0x0/filters:format(jpeg)/pic1169666.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/h7N5ep1Cj1fmYEaQuKBaEA__small/img/hl1fn8_XLN78lHJBlhGKZXx0I4M=/fit-in/200x150/filters:strip_icc()/pic1169666.jpg",
+    "link": "https://boardgamegeek.com/thing/109932",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.54213",
+    "averageWeight": "1.9123",
+    "boardGameRank": "26895",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Card Game",
+      "Horror",
+      "Humor"
+    ],
+    "designers": [
+      "Luke Peterschmidt"
+    ]
+  }
+}

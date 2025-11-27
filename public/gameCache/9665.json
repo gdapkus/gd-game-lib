@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:29:29.201Z",
+  "gameDetails": {
+    "id": "9665",
+    "name": "Lunch Money: Sticks and Stones",
+    "type": "boardgameexpansion",
+    "description": "This 55-card expansion set is designed to be mixed in with the original Lunch Money card game. New weapons like Chunk, basic attacks like Spank and Evil Eye, defenses like Backlash and Hide, and specialty cards like Tantrum, Cooties, and Wedgy make Lunch Money: Sticks & Stones a necessity for every Lunch Money fan.\n\nExpands\n\n    Lunch Money\n\n\n",
+    "image": "https://cf.geekdo-images.com/lPFaN-t4lUcB4ZPgFsRJ_g__original/img/bNJnp93o8Goi8ldBYa7mUkDjJeE=/0x0/filters:format(jpeg)/pic178937.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lPFaN-t4lUcB4ZPgFsRJ_g__small/img/07CG3MvxDcmDKTsi21xCKb6P0ks=/fit-in/200x150/filters:strip_icc()/pic178937.jpg",
+    "link": "https://boardgamegeek.com/thing/9665",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2004",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "6.22627",
+    "averageWeight": "1.6286",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Fighting"
+    ],
+    "designers": [
+      "Charlie Wiedman"
+    ]
+  }
+}

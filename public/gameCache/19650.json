@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:00:09.618Z",
+  "gameDetails": {
+    "id": "19650",
+    "name": "Il Principe",
+    "type": "boardgame",
+    "description": "An auction game where income and resources are automatically gained at the beginning of each turn.  Then the money is used to bid on more resources, then the resources can either be used (along with money) to build cities, or \"displayed\" to qualifying for \"roles\" (like political appointments) which gain influence/VP-graft plus a special power such as income boost, resource boost, VP-boost, or resource re-display.\n\nBuilding a city gains the player VP but also gives VP to the opponent(s) with matching role/graft color.\n\nThe board does triple duty, containing the scoring track, a map of some part of Italy, and staging area for the \"role\" tiles.\n\n",
+    "image": "https://cf.geekdo-images.com/Nu5diPuiBFRSCcW582mV9g__original/img/ICHmV92dsaYjGPui4Vjk9kbz898=/0x0/filters:format(jpeg)/pic159502.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Nu5diPuiBFRSCcW582mV9g__small/img/mtg3Ing6WUA5hLP8CghXaWfR9lo=/fit-in/200x150/filters:strip_icc()/pic159502.jpg",
+    "link": "https://boardgamegeek.com/thing/19650",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2005",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.41871",
+    "averageWeight": "2.8366",
+    "boardGameRank": "4524",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "City Building",
+      "Renaissance"
+    ],
+    "designers": [
+      "Emanuele Ornella"
+    ]
+  }
+}

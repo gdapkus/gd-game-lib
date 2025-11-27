@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:54:48.302Z",
+  "gameDetails": {
+    "id": "24843",
+    "name": "Graenaland",
+    "type": "boardgame",
+    "description": "In 982, a Viking jarl called Erik the Red sailed from the western coast of Iceland and discovered a new land. He named it Graenaland, a green land. Four years later the first colonists arrived to Greanaland and founded settlements that lasted more than four centuries.\n\nTake the role of one of the jarls leading their clans to the new home. You have to settle the coast and to agree with your neighbors on how to distribute the spare resources the land is giving away. As Eric wants no fights amongst Vikings, any conflicts are solving by voting. You could improve your position in order to gain more votes; however, you can also try to be righteous and to keep good relations with all your neighbors. Cooperating with them, you can fertilize and improve the land easier than when struggling for influence; just keep your position strong enough for the case something goes wrong.\n\nAt first glance, it might remind you just another settler-like game &ndash; there are tiles of different terrains, there are villages and other buildings built on the tiles, and there are resources produced to build more of them. However, Graenaland uses these elements by very unusual way, and offers brand new player interaction.\n\nThe main difference is that villages produce no resources; the tile produces them. They remain placed next to the tile, until players agree how to distribute them. Every village on the tile gives one vote to its owner, as well as the traveling heroes just visiting the tile &ndash; and you need more than half of the votes total for your proposal how to distribute the resources.\n\nA tile produces only one resource per turn, no matter how many villages of how many players is built on it. Building more villages on the same tile strengthens your position here; however, if another player does the same, you both are spending lots of efforts and resources struggling for still the one resource card. May be it would be wise to live in peace instead. If you are able to come to an agreement, you can take turns taking the resource. You can vote together in the case an intruder appears. You can build some improvements on the tile together, increasing its resource production. You can spread your villages to other tiles and let your hero travel where it is more needed, rather than struggling for influence on this tile.\n\nIf you trust each other, you can work much more efficiently. However: does your neighbor deserve your trust? What if he returns with his hero unexpectedly, and confiscates the whole harvest of several turns? What if he builds another village here instead of the improvement he promised? And especially &ndash; what would you do if you get such an opportunity yourself? \nThe game mechanics &ndash; simultaneous movement of heroes, small anomalies in player roles (one player has special role every turn), and decent randomness and uncertainty in resource harvesting (each terrain produces resources of more types, with different probabilities) lead to enough interesting asymmetric situations, and it is up to you whether you take any advantage you have, or whether you try to appear fair and righteous to the others instead. As the others take it in to account when searching for partners for their deals.\n\n",
+    "image": "https://cf.geekdo-images.com/5d82sDNmdfmeqNggLolIfg__original/img/2-Ax40pP08mRGMRuYouSQvMf0Zk=/0x0/filters:format(jpeg)/pic150184.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5d82sDNmdfmeqNggLolIfg__small/img/0KsEssRMPKpjqMFxeuGvFMT_oXg=/fit-in/200x150/filters:strip_icc()/pic150184.jpg",
+    "link": "https://boardgamegeek.com/thing/24843",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2006",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.68095",
+    "averageWeight": "3.0222",
+    "boardGameRank": "5092",
+    "mechanics": [
+      "Modular Board",
+      "Team-Based Game",
+      "Voting"
+    ],
+    "categories": [
+      "Civilization",
+      "Medieval"
+    ],
+    "designers": [
+      "Vlaada Chvátil"
+    ]
+  }
+}

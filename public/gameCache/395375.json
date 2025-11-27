@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T19:31:29.077Z",
+  "gameDetails": {
+    "id": "395375",
+    "name": "Art Society",
+    "type": "boardgame",
+    "description": "Art Society is an art collection game with easy to learn rules.\n\nIn Art Society, you are an art connoisseur trying to impress your peers by putting together the most fashionable art collection of them all! \nBid on the hottest works of art, then arrange them on your drawing room wall into a tastefully curated gallery that&rsquo;s the envy of the local art scene.\n\nBut beware! Fashion is fleeting, and trends are difficult to predict. The paintings that you and your fellow collectors do not buy will eventually make their way to the museum, changing the worth of your collection.\n\nIn the end, whose wall will be the talk of town?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/_-kTI7KnJp7PmbZ5ISS5RQ__original/img/zi_ULxc-unXwKj4zaXYA-MN-EO8=/0x0/filters:format(png)/pic7628025.png",
+    "thumbnail": "https://cf.geekdo-images.com/_-kTI7KnJp7PmbZ5ISS5RQ__small/img/H3TFSGSRkKVomJuBPQArc92BDtA=/fit-in/200x150/filters:strip_icc()/pic7628025.png",
+    "link": "https://boardgamegeek.com/thing/395375",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.4917",
+    "averageWeight": "1.8625",
+    "boardGameRank": "1104",
+    "mechanics": [
+      "Auction / Bidding",
+      "Auction: Sealed Bid",
+      "Constrained Bidding",
+      "End Game Bonuses",
+      "Grid Coverage",
+      "Open Drafting",
+      "Pattern Building",
+      "Selection Order Bid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Puzzle"
+    ],
+    "designers": [
+      "Mitch Wallace (II)"
+    ]
+  }
+}

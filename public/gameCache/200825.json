@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:10:13.092Z",
+  "gameDetails": {
+    "id": "200825",
+    "name": "Glyph",
+    "type": "boardgame",
+    "description": "Glyph is a dice-building combat strategy game for 2-6 players. Players are tasked with forming a team of three champions and defeat their opponent. These Champions are broken up into three distinct classes--Strikers, Guardians, and Adherents--with each Champion having his or her own strengths, weaknesses, and unique abilities which you will use by harnessing the power of mystical glyphs. As the game progresses, your Champions will have the opportunity to acquire new items which will enhance their capabilities as well as perhaps give them even more skills to use to defeat your enemy.\n\nGlyph utilizes an intriguing dice-building and card-drafting mechanic, which rewards tactical thought as well as provides exciting gameplay. The dice in the game represent ancient powers, which each color of dice having a unique face structure tailored to specific Glyphs. Each Glyph serves a specific purpose and, through rolling and manipulating the dice, your Champions will be able to perform actions ranging from devastating attacks, to fortified defensive stances, to supportive aid. Each Champion also has various item slots available and you will be able to acquire unique weapons and armor to aid you in combat. Some items are rather simple and provide minor boosts to your champion's dice pool, while others have their own unique abilities that only the wearer of the item can perform.\n\nThese items come at a cost, however: you may be required to spend [read: trash] dice from your own champion's pool in order to acquire these powerful items. This makes item acquisition much more than merely taking an available card--you will need to weigh the costs and benefits of these items and determine if sacrificing the requisite dice is worth it.\n\nThe decisions you make each round will have a lasting influence on the tide of battle. Do you take advantage of a weakened Champion and attack or try to accumulate wealth to purchase a suit of armor to protect you in subsequent rounds? Battle will rage until there is but one side left standing. Will you bring honor or disgrace to your tribe?\n\n",
+    "image": "https://cf.geekdo-images.com/3lcAgs2Fe6losmAepXeWAA__original/img/ck1KKWE8vkOXBtLVWeZmM9RgS48=/0x0/filters:format(jpeg)/pic5178594.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3lcAgs2Fe6losmAepXeWAA__small/img/rBRFTlkfUt9dXxe-IKFU8jKM5zg=/fit-in/200x150/filters:strip_icc()/pic5178594.jpg",
+    "link": "https://boardgamegeek.com/thing/200825",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2018",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.31373",
+    "averageWeight": "2.8",
+    "boardGameRank": "20359",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Dice",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Justin Potter"
+    ]
+  }
+}

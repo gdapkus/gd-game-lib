@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:18:59.003Z",
+  "gameDetails": {
+    "id": "9650",
+    "name": "War in the Pacific: The Campaign Against Imperial Japan, 1941-45",
+    "type": "boardgame",
+    "description": "War in the Pacific &ndash; The Campaign Against Imperial Japan, 1941-45 is a multi-level simulation of the Pacific Theater of Operations during World War Two.  The game enables players to recreate the entire course of the war, from the opening Japanese attack on December 7, 1941 to the climactic Allied assaults in the closing days of 1945.\n\nThis Monster sized game simulates the conflict in the Pacific on a seven section map representing some 30% of the globe, across which cardboard playing pieces move and engage in combat through an hexagonal grid, which functions much like a chessboard in regulating movement.\n\nGame components:\n\n\n    Rules booklet (56 pages)\n    Scenarios booklet (12 pages)\n    Two charts and tables booklets (16 pages) \n    3,200 die-cut playing pieces\n    Seven 22\" x 34\" colored soft map sheets\n    Playing aids, displays and cycle tracks\n         Air/Surface Tactical Display\n         Allied Air Display\n         Allied Game Turn/Cycle Record Track\n         Allied General Record Track \n         Allied Naval Task Force Display\n         Allied Off-Map Movement Display\n         Japanese Air Display\n         Japanese Game-Turn/Cycle Record Track\n         Japanese General Record Track \n         Japanese Naval Task Force Display\n    \n    2 Dice\n    2 Plastic trays for playing piece storage\n    Errata (as of December 1978)\n\n\nLevel Of Complexity: Very High\nAverage Playing Time: 6 hours (Midway scenario) to 200+ hours\n\n",
+    "image": "https://cf.geekdo-images.com/YMXX5eSJ1O6vxTRejvHKCQ__original/img/mnsUsSxsRzEIYuQsSVNv-ubuj0k=/0x0/filters:format(jpeg)/pic315486.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YMXX5eSJ1O6vxTRejvHKCQ__small/img/Tfharlk08d-BAdYOQuoEexBg78E=/fit-in/200x150/filters:strip_icc()/pic315486.jpg",
+    "link": "https://boardgamegeek.com/thing/9650",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "1978",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "7.12963",
+    "averageWeight": "4.3529",
+    "boardGameRank": "12423",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Nautical",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Edward Curran",
+      "Jim Dunnigan",
+      "Irad B. Hardy",
+      "Tom Walczyk"
+    ]
+  }
+}

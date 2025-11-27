@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:00:59.258Z",
+  "gameDetails": {
+    "id": "15549",
+    "name": "Roulette",
+    "type": "boardgame",
+    "description": "Roulette is a French word meaning \"small wheel\". It is the oldest casino game still in existence today. The exact origins of the game are unknown - there's probably been gambling using a wheel since the invention of the wheel. Some say it was invented in 1655 by the French scientist Blaise Pascal while working on a perpetual motion machine. Others say it derives from a Chinese game in which player try to move 36 statues into a magic circle. \n The Roulette layout that we know today first appeared in 1765 in Paris, but the modern version of the game did not appear until around 1842 when Frenchmen Francois and Louis Blanc are said to have invented the single \"0\" roulette game. Another mystic legend tells that Francois Blanc, who founded the first casinos in Monte Carlo, sold a soul to the devil for the secret of roulette. As proof, they point out that the sum of all the numbers on a Roulette wheel added together total 666 - the number of the beast.\n The single \"0\" wheel became known as the \"French Wheel\". When French immigrants brought the game to America a double zero \"00\" was also added and this became known as the \"American Wheel\". The game became popular in the old west of America during the California Gold Rush.\n\nModern Roulette is a perfectly balanced wheel with a slot for each number. The numbers alternate between black and red (the 0 and 00 are green) and exactly opposite each other number is the corresponding higher and lower number (0 is opposite the 00, 1 is opposite the 2, and so on up to the 35 being directly opposite the 36). Players may place a multitude of wagers: Single Number pays 35:1, Two Numbers pays 17:1, Three numbers pays 11:1, Four Numbers pays 8:1, Five Numbers (American Wheel) pays 6:1, Six Numbers pays 5:1, Column or Dozen pays 2:1, High/Low Black/Red or Odd/Even pays 1:1. The 0 and 00 are not counted when calculating the odds which gives the house its edge. Ironically, no matter where you place your chips, the house edge remains almost constant (5.26% American Wheel, 2.70% French Wheel).\n\nWhen all the bets are placed the croupier rolls a little ivory ball along the inner edge of the wheel in the opposite direction of its spin. As the wheel turns, the ball loses momentum, bounces among the slots and finally falls into one of the numbered slots. The number that the ball rests on is the declared as the winning number for that game and winning wagers are paid off. \n ",
+    "image": "https://cf.geekdo-images.com/pUz-5EXqQHVYqtInH-NGyg__original/img/-drW7uFBCcoV0mSZpQcnfgGLjk4=/0x0/filters:format(jpeg)/pic162549.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pUz-5EXqQHVYqtInH-NGyg__small/img/RZWLVXegXDpwtDc9qTvM9t5zBbg=/fit-in/200x150/filters:strip_icc()/pic162549.jpg",
+    "link": "https://boardgamegeek.com/thing/15549",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1796",
+    "playingTime": "1",
+    "minPlayingTime": "1",
+    "maxPlayingTime": "1",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "3.35933",
+    "averageWeight": "1.12",
+    "boardGameRank": "29579",
+    "mechanics": [
+      "Betting and Bluffing"
+    ],
+    "categories": [
+      "Number"
+    ],
+    "designers": [
+      "François Blanc"
+    ]
+  }
+}

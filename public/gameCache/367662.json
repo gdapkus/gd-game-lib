@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:48:46.431Z",
+  "gameDetails": {
+    "id": "367662",
+    "name": "Applejack",
+    "type": "boardgame",
+    "description": "A clever tile placement game by Uwe Rosenberg\n\nA wide orchard lies in front of Applejack's cottage. \nHelp him and his daughter plant apple trees and harvest the juicy apples. Don't forget to set up the beehives between the trees. Because at the end of this game, whoever gets the most honey wins!\n\nOn their turn players choose 1 tree tile from the harvest board in the middle of the table. This tile shows a combination of types of apples and apple blossoms as well as beehives. The beehives show the cost for the tile in honey.\n\nThe tree tile will be placed on the players orchard. The beehives need to be placed next to other beehives on tiles already in play in order to get the players honey tiles.\n\nWhen the Applejack die on the harvest board comes across an apple icon this type of apple will be harvested - again gaining the players honey tokens. But only if they arranged the apples in a meaningful way.\n\nAfter 19 turns each players orchard is filled and the final scoring takes place. Apples, apple blossoms and collected honey will be scored. Whoever has the highest score will win a game of Applejack!\n\n",
+    "image": "https://cf.geekdo-images.com/jAzKc8Wj3lZIey9_XfKCaQ__original/img/X86GAnuJybpFYkYX3-5EyZh0CL8=/0x0/filters:format(jpeg)/pic7648379.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jAzKc8Wj3lZIey9_XfKCaQ__small/img/SWcrs1VAAFxeeD-NXjG5RJ9oDC4=/fit-in/200x150/filters:strip_icc()/pic7648379.jpg",
+    "link": "https://boardgamegeek.com/thing/367662",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.7657",
+    "averageWeight": "2",
+    "boardGameRank": "2983",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Farming"
+    ],
+    "designers": [
+      "Uwe Rosenberg"
+    ]
+  }
+}

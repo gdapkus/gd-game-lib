@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:02:01.924Z",
+  "gameDetails": {
+    "id": "130486",
+    "name": "Small City",
+    "type": "boardgame",
+    "description": "You are the mayor of one borough of Small City, and you have eight turns to secure enough votes to be re-elected. To do this, you have to attract more citizens, encourage the growth of residential areas for them to live in, and aid the expansion of both the commercial and industrial sectors &ndash; though the latter sector also brings pollution with it, and you need to deal with that, too, as high pollution levels will have a negative effect on your score at the end of the game.\n\nIf you build suitable infrastructure, your citizens will undoubtedly vote for your re-election, but beware of false promises! Votes can be earned over the course of the game by placing citizens in the residential spaces, by erecting cultural buildings, by keeping commercial buildings in suitable areas, and also by making good on the promises that you made to the citizens at the beginning of the game.\n\nThe player with the most votes (i.e., victory points) after eight turns wins.\n\n",
+    "image": "https://cf.geekdo-images.com/hSVr6FTe04le0qie2mZ4gg__original/img/CPg9aDsRVNzAZrKeuGakObB55yI=/0x0/filters:format(jpeg)/pic2552981.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hSVr6FTe04le0qie2mZ4gg__small/img/0usnJ1d2LQAuIOoQ2Z2NBYMmthw=/fit-in/200x150/filters:strip_icc()/pic2552981.jpg",
+    "link": "https://boardgamegeek.com/thing/130486",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.3226",
+    "averageWeight": "4",
+    "boardGameRank": "3687",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Simulation",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "City Building",
+      "Economic",
+      "Territory Building"
+    ],
+    "designers": [
+      "Alban Viard"
+    ]
+  }
+}

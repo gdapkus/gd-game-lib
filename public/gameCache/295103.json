@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:48:32.649Z",
+  "gameDetails": {
+    "id": "295103",
+    "name": "Almoravid: Reconquista and Riposte in Spain 1085-1086",
+    "type": "boardgame",
+    "description": "Almoravid: Reconquista and Riposte in Spain, 1085-1086, is a board wargame about a pair of tumultuous campaigns in the Spanish Reconquista - Leonese King Alfonso VI's advances against the 11th Century's fractious Muslim Taifa states, and the resulting intervention by a fundamentalist African Muslim army seeking to roll the Christians back.  It is the second volume in GMT Games' Levy & Campaign Series portraying medieval military operations.\n\nPlayers will raise and equip their armies and send them out to ravage or conquer disputed territory and defeat enemy forces.  Service obligations and alliances will provide a panoply of lords and vassals to serve on campaign  but only for limited periods.  Players must keep an eye on the calendar and reward lords to keep them in the field.\n\nThe sides every 40 days will levy various lords and vassals and their forces, transport, and capabilities, backed by higher political authorities.  Each lord is rated for fealty, lordship, service, and command and lays out his forces and assets on a mat.  Wooden pieces represent units of knights, mounted sergeants, horse and foot units from North Africa, men-at-arms, light horse, militia, and serfs.  Assets include counters for transport such as carts and mule trains; provender to feed the army; and coin to pay for longer service or loot captured by ravaging or conquering enemy regions.\n\nThe players then plan and command a campaign for that 40 days with the lords who have mustered.  To represent the limits of communications on medieval operations, stacks of command cards commit players to activating lords in a sequence that may or may not meet the needs of the developing situation.  Cylinder pieces on the map show the lords&rsquo; maneuvers, while markers on a feudal calendar show how much longer the lords will serve, influenced by success or failure in their campaigns. When lords clash in field battle or storming a castle, players array their lords&rsquo; mats left, right, center, and reserve and attempt to rout the enemy. Various event and capability cards reveal cultural and technological particulars that influence levy, campaign, and combat.\n\nAlmoravid is solitaire friendly, or players can use optional screens to hide what the two players' lords levy.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/mSf0x5iQNgEdo7XEXLbGMQ__original/img/5znk6zkNVHZpHrnVkeHnWfyhUVI=/0x0/filters:format(jpeg)/pic6220919.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mSf0x5iQNgEdo7XEXLbGMQ__small/img/PSuqur9bdjQtt4zzIg2XvvkXiwo=/fit-in/200x150/filters:strip_icc()/pic6220919.jpg",
+    "link": "https://boardgamegeek.com/thing/295103",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2022",
+    "playingTime": "360",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.05451",
+    "averageWeight": "4.1731",
+    "boardGameRank": "3659",
+    "mechanics": [
+      "Dice Rolling",
+      "Point to Point Movement",
+      "Simulation",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Medieval",
+      "Wargame"
+    ],
+    "designers": [
+      "Volko Ruhnke"
+    ]
+  }
+}

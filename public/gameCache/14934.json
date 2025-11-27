@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:58:41.500Z",
+  "gameDetails": {
+    "id": "14934",
+    "name": "Mr. Lincoln's War: Army of the Potomac",
+    "type": "boardgame",
+    "description": "From the contents:\n\nMr. Lincoln's War is an historical game which captures the epic struggle of the American Civil War. Mr. Lincoln's War is organized into two games, the Army of the Tennessee, which deals with the western theater, and The Army of the Potomac, which deals with the war in Virginia. Each game has four short campaign scenarios that recreate the maneuvers and battles of Shiloh, Gettysburg, Atlanta and other monumental Civil War contests. A grand campaign scenario enabling the players to fight the war in the West or East is provided with each game. Both games may be combined for a grand campaign game that simulates the entire Civil War on both fronts.\n\nEach game contains the following components:\n1) One 22' x 28' mapboard covering the eastern or western portion of the United States.\n2) 400 die-cut playing pieces.\n3) A rules booklet.\n4) A scenario booklet.\n5) One player-aid and leader display card.\n\nEach hex represents about 12 miles.\nEach strength point represents approximately 2,500 men.\nTurns are monthly, except for the winter turns (November to February), which are bi-monthly.\n\nAdditional information:\n\nGame features alternating player turns including interception movement by the non-phasing player, leaders required to move infantry, special rules for naval and amphibious operations, supply, railroad construction and repairs, a combat system featuring morale and leadership and a campaign game combining both the Potomac and  the Tennessee games. The campaign game also adds politics and production to the mix.\n\n",
+    "image": "https://cf.geekdo-images.com/pwzpNJZKk60T0VYfnW-Qyw__original/img/lM64-rbFlGoZxixTPqlZ24LaVzk=/0x0/filters:format(jpeg)/pic442471.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pwzpNJZKk60T0VYfnW-Qyw__small/img/NT74KI0oUmO7TXGIdDF4pgJeLyc=/fit-in/200x150/filters:strip_icc()/pic442471.jpg",
+    "link": "https://boardgamegeek.com/thing/14934",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "1983",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.48788",
+    "averageWeight": "3.2",
+    "boardGameRank": "22966",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "American Civil War",
+      "Wargame"
+    ],
+    "designers": [
+      "Mark McLaughlin"
+    ]
+  }
+}

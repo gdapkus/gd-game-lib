@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:53:12.878Z",
+  "gameDetails": {
+    "id": "7640",
+    "name": "The Fall of Tobruk",
+    "type": "boardgame",
+    "description": "\"The Fall of Tobruk\" is a wargame simulation of Rommel's May- June 1942 attack on the Allies Gazala - Bir Hacheim line. Units range from company to battalion to regiment and are rated for Anti-tank, Combat and Movement with artillery units having additional ratings for Artillery strength and Range.\n\nUpdate: The game was re-published by Cool Stuff Unlimited as a DTP wargame in 2004. This edition includes four 11x17\" set-up sheets (one for each side), two identical Player Aid Cards, and an eight-page rulebook, with updated graphics and new player aids. According to the publisher, there were only 200 hand-numbered LIMITED EDITION copies printed.\n\n",
+    "image": "https://cf.geekdo-images.com/iam9LE_poWcf26vH04LlkQ__original/img/WkRyJwQV8lUr5Vgo8zPHIy3UYDA=/0x0/filters:format(png)/pic1705331.png",
+    "thumbnail": "https://cf.geekdo-images.com/iam9LE_poWcf26vH04LlkQ__small/img/6mhAOqu8dzuAaXWKnWJRboKkz_A=/fit-in/200x150/filters:strip_icc()/pic1705331.png",
+    "link": "https://boardgamegeek.com/thing/7640",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1975",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.22845",
+    "averageWeight": "2.3333",
+    "boardGameRank": "15288",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Ratio / Combat Results Table",
+      "Simulation",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Frank Chadwick"
+    ]
+  }
+}

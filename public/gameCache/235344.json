@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T21:03:28.374Z",
+  "gameDetails": {
+    "id": "235344",
+    "name": "TOKYO METRO",
+    "type": "boardgame",
+    "description": "In TOKYO METRO, players take on the role of private investors looking to build up stations across Tokyo, speculate on train lines, and comprise a shared network to benefit multiple parties. The core of the game is built around worker placement, which opens up three possibilities:\n\n\n    Walking and riding trains across the Metro map, in order to build new stations at advantageous locations for income when trains pass through.\n\n\n\n    Investment into train lines, either by purchasing stock and becoming a shareholder in the line, or by speculating on a train line you do not own stock in, in order to potentially double your speculation.\n\n\n\n    Build up your available actions, by purchasing more action discs, purchasing discarded action cards for personal use, or gaining tokens for a specific use.\n\n\nWith route planning, investing, speculating, area control, and a real replication of the Tokyo area, TOKYO METRO brings a heavy economic twist to the TOKYO series!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/6eP6KMVrXYZgBi4YifzGMA__original/img/LoT-2CklfmXBr3bQRoDbWAL8iK8=/0x0/filters:format(jpeg)/pic3742769.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6eP6KMVrXYZgBi4YifzGMA__small/img/sO4BIR8sUirczU92QdQ6CcDmXmE=/fit-in/200x150/filters:strip_icc()/pic3742769.jpg",
+    "link": "https://boardgamegeek.com/thing/235344",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.24606",
+    "averageWeight": "3.3824",
+    "boardGameRank": "3415",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Betting and Bluffing",
+      "Grid Movement",
+      "Loans",
+      "Network and Route Building",
+      "Point to Point Movement",
+      "Simulation",
+      "Stock Holding",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Jordan Draper"
+    ]
+  }
+}

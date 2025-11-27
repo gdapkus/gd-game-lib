@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:52:59.758Z",
+  "gameDetails": {
+    "id": "226518",
+    "name": "EXIT: The Game – The Sunken Treasure",
+    "type": "boardgame",
+    "description": "Exit: The Game &ndash; The Sunken Treasure is a puzzle game modeled after escape rooms.\n\nStarting with season 3, the Exit series is divided into difficulty levels. \"The Sunken Treasure\" is categorized at beginners level.\n\n",
+    "image": "https://cf.geekdo-images.com/Qy3-Sz1IZB5v4n3uAZ29TA__original/img/MFIOB9BkQ78LKEi4VpsqJ8Y79FA=/0x0/filters:format(jpeg)/pic3958802.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Qy3-Sz1IZB5v4n3uAZ29TA__small/img/9-fbF7biR5vs6tfCk5MR0PlOIHw=/fit-in/200x150/filters:strip_icc()/pic3958802.jpg",
+    "link": "https://boardgamegeek.com/thing/226518",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.03039",
+    "averageWeight": "1.8",
+    "boardGameRank": "1449",
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Move Through Deck",
+      "Real-Time",
+      "Simulation"
+    ],
+    "categories": [
+      "Deduction",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Inka Brand",
+      "Markus Brand"
+    ]
+  }
+}

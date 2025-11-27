@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:35:49.408Z",
+  "gameDetails": {
+    "id": "363757",
+    "name": "Arcs: The Blighted Reach Expansion",
+    "type": "boardgameexpansion",
+    "description": "By adding the Blighted Reach Campaign Expansion, you can also play Arcs in an innovative micro-campaign, where each game is one episode in an epic trilogy that stretches across an even larger galaxy.\n\nEveryone begins as petty regents in a dying empire, but your fates quickly diverge. The campaign contains twenty-four fate seeds, each with tons of branches, twists, and turns. Uncover lost knowledge, guide your people to a new home, or forge a galactic confederation!\n\nAs you complete objectives and make critical decisions, the campaign grows and changes. If you destroy a world, its refugees might flood the galaxy in your next game. If you find your society driven to a state of collapse, you can even abandon your homeworld and play the next game operating out of a lone flagship.\n\nEach game in the campaign takes less than two hours to play. You can sit down for a single skirmish and then pack up for another day, or settle in for an epic three-act saga! Just make sure to stretch and drink some water between games.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/oYYhihuGrebXvGWOMzhapw__original/img/kFZ5A1g1rOPZQsjdRHWbUTo0R-U=/0x0/filters:format(png)/pic8145540.png",
+    "thumbnail": "https://cf.geekdo-images.com/oYYhihuGrebXvGWOMzhapw__small/img/-Com6BgA4Yxq4WCmuLZjRRofrj0=/fit-in/200x150/filters:strip_icc()/pic8145540.png",
+    "link": "https://boardgamegeek.com/thing/363757",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.85857",
+    "averageWeight": "4.4966",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Negotiation",
+      "Take That",
+      "Trick-taking",
+      "Turn Order: Claim Action"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Negotiation",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Cole Wehrle"
+    ]
+  }
+}

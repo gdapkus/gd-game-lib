@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:00:32.044Z",
+  "gameDetails": {
+    "id": "99692",
+    "name": "Railways of the World: Event Deck",
+    "type": "boardgameexpansion",
+    "description": "In Railways of the World, players build a track between cities and develop faster locomotives to deliver a limited supply of goods to those cities in an effort to become the most successful Rail Baron.\n\nThe Railways of the World: Event Deck can be added to the Railways of the World base game or any of that game's expansions to put a new spin on rail-building. To use the deck, create space for these card stacks near the game board: Event Deck, Future Event, Current Event and a Discard Pile. The Event Deck includes more cards than players will use during a single game, so no two games will play out the same way.\n\nInstead of drawing randomly from the deck, players can build their own custom decks, from a vicious deck packed with negative events to a bountiful deck filled with positive events. The deck can be tweaked for each of the expansion maps, and four blank cards are included for players who want to create their own events.\n\n",
+    "image": "https://cf.geekdo-images.com/CVVYfAqg21LlYFrV66v2Gg__original/img/M4XAM7igXg8Oet9d-vYhSMz9ss8=/0x0/filters:format(jpeg)/pic2845787.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CVVYfAqg21LlYFrV66v2Gg__small/img/zsKd-KTk48IW-0e7QrSF-LpCG1Y=/fit-in/200x150/filters:strip_icc()/pic2845787.jpg",
+    "link": "https://boardgamegeek.com/thing/99692",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2011",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      6
+    ],
+    "averageRating": "7.54654",
+    "averageWeight": "2.6471",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains"
+    ],
+    "designers": [
+      "James Eastham",
+      "Steve Ellis (II)"
+    ]
+  }
+}

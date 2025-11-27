@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:13:06.112Z",
+  "gameDetails": {
+    "id": "299249",
+    "name": "Mint Control",
+    "type": "boardgame",
+    "description": "Mint Control is the newest entry into the Mint Series line of games. Mint Control is designed by the same designer as Mint Works and Mint Delivery as a deep strategy meets ease-of-play area control game that fits in your pocket, teaches in under a minute and plays in 30! It expands the world of these games such that these candy companies are now starting to vie for control.\n\nEach player has five influence tokens that are placed onto buildings (that represent presence and potentially control).  The first person to play all influence tokens ends the game.  For each location, the player who has control of that location (determined by having more influence tokens than each other player), earns the victory points associated with that location (represented by stars in the top-right corner).  During play, if a player has presence on a card, they can use the actions on the cards by paying their cost.  These are effects like: kicking other players out of a location, taking more mints, and placing influence tokens.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/CMivwE6DDHkkNTj39bRoVQ__original/img/ToBvUK3PUCZ_DhNvJwKOdaj1OP8=/0x0/filters:format(png)/pic6353289.png",
+    "thumbnail": "https://cf.geekdo-images.com/CMivwE6DDHkkNTj39bRoVQ__small/img/R8JiuGCmqUcLLYkKihzlDxZI-nU=/fit-in/200x150/filters:strip_icc()/pic6353289.png",
+    "link": "https://boardgamegeek.com/thing/299249",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.45353",
+    "averageWeight": "2.1667",
+    "boardGameRank": "27090",
+    "mechanics": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Follow"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Print & Play"
+    ],
+    "designers": [
+      "Justin Blaske"
+    ]
+  }
+}

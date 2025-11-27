@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:02:15.931Z",
+  "gameDetails": {
+    "id": "359838",
+    "name": "Almost Innocent",
+    "type": "boardgame",
+    "description": "Almost Innocent is a co-operative deduction game with a progressive story in which your teammates must work together across different scenarios to prove your innocence. Each one of you has been accused of various crimes that you didn't commit, and you'll have to uncover the truth throught a campaign divided into 3 acts. While being linked narratively, each scenario can be played individually, and there's no obligation to play them in the campaign's order.\n\nEach scenario come as a 6x6 grid, in which you can find different types of colored boxes. Each box's color corresponds to a type of proof, and at the beginning of the game, each player will draw a card for each type of proof on the grid. This combination of cards is your neighbour's solution, so each player will be responsible for the solution of another player. Turn after turn, each player asks select questions that will help not only them, but everyone else playing as well. The goal is to find out your solution before you run out of questions, as you only have a limited number of questions to ask before the scenario ends!\n\nAt the end of the scenario, the players announce what they think their solution is. If everyone is right, you've won. If not, it looks like your group has lost...\n\nAlmost Innocent is higly modular: each scenario has 3 difficulty levels, to accomodate every type of players, from newcomers to experienced veterans of deduction games.\n\nAs you progress throught the scenarios, you'll unlock different modules. After all, each one of you is a character in their own right, it's only fair that you may have you very own powers...\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/EK8WRgPhJ4FZXTQBbH9G0Q__original/img/mV_Ey7Zd14I8T2_0QBIc_UUUwYE=/0x0/filters:format(jpeg)/pic7814109.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EK8WRgPhJ4FZXTQBbH9G0Q__small/img/cfe7ZyX2NeGp3k8Yjm-7ojybTpU=/fit-in/200x150/filters:strip_icc()/pic7814109.jpg",
+    "link": "https://boardgamegeek.com/thing/359838",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.1951",
+    "averageWeight": "1.9091",
+    "boardGameRank": "4768",
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Scenario / Mission / Campaign Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Deduction",
+      "Memory"
+    ],
+    "designers": [
+      "Philippe Attali"
+    ]
+  }
+}

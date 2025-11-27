@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:23:26.944Z",
+  "gameDetails": {
+    "id": "2612",
+    "name": "18AL",
+    "type": "boardgame",
+    "description": "18AL is a shorter 18xx game set in Alabama.\n\n6 Companies\n\n     ABC - Atlanta, Birmingham and Coast Railroad\n     ATN - Alabama, Tennessee and Northern Railroad\n     L&N - Louisville and Nashville Railroad\n     M&O - Mobile and Ohio Railroad\n     TAG - Tennessee, Alabama and Georgia Railway\n     WRA - Western Railway of Alabama\n\n\n5 Private Companies\n\n     Tuscumbia Railway\n     South and North Alabama Railroad (coal field token)\n     Brown and Sons Lumber Company (lumber terminal tile)\n     Memphis and Charleston Railroad (train name chits)\n     New Decatur Yards (half-price train purchase)\n\n\n",
+    "image": "https://cf.geekdo-images.com/TbCE52E6ayvQFZUGJLEoRA__original/img/WobhUWC6ki9qOEGdLiPIaThsaWU=/0x0/filters:format(jpeg)/pic451367.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TbCE52E6ayvQFZUGJLEoRA__small/img/IC2urgRVKXVhnpfyHC1GbfGDqE4=/fit-in/200x150/filters:strip_icc()/pic451367.jpg",
+    "link": "https://boardgamegeek.com/thing/2612",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "1999",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.1054",
+    "averageWeight": "3.8533",
+    "boardGameRank": "3724",
+    "mechanics": [
+      "Auction / Bidding",
+      "Investment",
+      "Network and Route Building",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Economic",
+      "Print & Play",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Mark Derrick"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T19:33:23.224Z",
+  "gameDetails": {
+    "id": "20624",
+    "name": "Captain Bones Gold",
+    "type": "boardgame",
+    "description": "A FamilyFun Magazine 2005 Toy of the Year.  They say:  \"Apparently nobody's ever told old Cap'n Bones that he can't take it with him. As up to four players move gold pieces around his island, the rattling old skeleton pops out of a pirate chest and tries to snatch back his loot.\"\n\nCompany product page sez:  \"Ahoy, matey! Ya looks like you're ready for adventure, buccaneer style. Grab your cutlass and get ready for swashbucklin' fun in Captain Bones' Gold. Circle the island and collect coins from the pirate treasure, but beware!\"\n\n",
+    "image": "https://cf.geekdo-images.com/-0MmAXnAnD3EXPc_tr00Tw__original/img/YOnwGzRu-I8hdIKpyMqhqP9IdyI=/0x0/filters:format(jpeg)/pic101690.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-0MmAXnAnD3EXPc_tr00Tw__small/img/r5eIKZ-fk1qQBodcrRgMVGX-4Q0=/fit-in/200x150/filters:strip_icc()/pic101690.jpg",
+    "link": "https://boardgamegeek.com/thing/20624",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.14429",
+    "averageWeight": "1.1818",
+    "boardGameRank": "27374",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Children's Game",
+      "Horror",
+      "Pirates"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

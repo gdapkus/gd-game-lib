@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:02:26.725Z",
+  "gameDetails": {
+    "id": "21551",
+    "name": "SPQR (Deluxe Edition)",
+    "type": "boardgame",
+    "description": "SPQR (Deluxe Edition) is a re-working of the classic GMT game of warfare in the age of the Roman Republic, out of print for many years now.  The deluxe edition contains the five scenarios, maps and counters from the original SPQR, plus nine additional scenarios (and the requisite maps and counters) taken from various expansion modules.  This major revision makes available again a key part of the brilliant Great Battles of History Series.\n\nContents:\n\n     5 full-color countersheets\n     5 backprinted full color maps\n     Rules Booklet\n     Scenario Booklet\n     Charts and Tables\n     One 10-sided die\n\n\nBattles: (and the modules they appeared in originally)\n\n     Heraclea - 280 BC (Pyrrhic Victory)\n     Ausculum - 279 BC (Pyrrhic Victory)\n     Beneventum - 275 BC (SPQR)\n     Bagradas Plains - 255 BC (SPQR)\n     Trebbia - 218 BC (Consul for Rome)\n     Cannae - 216 BC (SPQR)\n     Baecula - 208 BC (Africanus)\n     The Metaurus - 207 BC (Consul for Rome)\n     Ilipa - 206 BC (Africanus)\n     The Great Plains - 204 BC (C3i No.4)\n     Zama - 202 BC (SPQR)\n     Cynoscephalae - 197 BC (SPQR)\n     Magnesia - 190 BC (War Elephant)\n     The Muthul River - 109 BC (Jugurtha)\n\n\nTime Scale: 20 minutes per game turn\nMap Scale: 70 yards per hex\nUnit Scale: Each Strength Point = 100&ndash;150 infantry, 100 cavalry\nPlayers: 1&ndash;4\n\n",
+    "image": "https://cf.geekdo-images.com/j9qRXzeoDPQgW9RUKtZZCA__original/img/JrpnbXfctKttZK1kC8xOqc6jRF8=/0x0/filters:format(jpeg)/pic342733.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/j9qRXzeoDPQgW9RUKtZZCA__small/img/4lsUH41jH36HlP_0cSsjkIn6CC0=/fit-in/200x150/filters:strip_icc()/pic342733.jpg",
+    "link": "https://boardgamegeek.com/thing/21551",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.02954",
+    "averageWeight": "3.9167",
+    "boardGameRank": "2238",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Ancient",
+      "Wargame"
+    ],
+    "designers": [
+      "Richard H. Berg",
+      "Mark Herman"
+    ]
+  }
+}

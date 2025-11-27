@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T19:31:30.105Z",
+  "gameDetails": {
+    "id": "373192",
+    "name": "At the Helm: Port Amalga",
+    "type": "boardgameexpansion",
+    "description": "A 3-card expansion for At the Helm. Includes 1 Location card and 2 Market cards.\n\n\nHome port: a chance to relax, sell off your fouled gear, and prep for the next voyage.\n\nPort Amalga provides a new card type (Location). These are off to the side of the gameplay area and may allow for additional bonuses or threats. See the card for additional info.\n\nCards in the Shipyard can be purchased at any point during the game for a cost of 2 gold. Alternatively you may pay 1 gold and discard a card from your hand to the Shipyard.\n\n",
+    "image": "https://cf.geekdo-images.com/CaWSWb_EeTLak7-Cgq6_Tw__original/img/ODAeW1713EuFgO0qaDQ5IBuKDGI=/0x0/filters:format(png)/pic7139825.png",
+    "thumbnail": "https://cf.geekdo-images.com/CaWSWb_EeTLak7-Cgq6_Tw__small/img/vtomG-S161gu3KwAJ0gAiwj5npE=/fit-in/200x150/filters:strip_icc()/pic7139825.png",
+    "link": "https://boardgamegeek.com/thing/373192",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2022",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": null,
+    "averageRating": "7.39459",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Nautical"
+    ],
+    "designers": [
+      "Ted Heidersdorf"
+    ]
+  }
+}

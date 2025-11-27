@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:16:39.200Z",
+  "gameDetails": {
+    "id": "349991",
+    "name": "Small Railroad Empires: Freight on Board",
+    "type": "boardgameexpansion",
+    "description": "Freight on Board is a new mini-expansion for Small Railroad Empires in which players will be able to export cargo containers via ships in port!\n\nWhen a player delivers a good along their train route, if they match the good displayed on the Cargo Ship card, they will be able to place their own Cargo Container there. When the ship is full, it will sail away to export those goods, and the player that put the most containers on that ship will win the export and gain extra Prestige & Money!\n\n",
+    "image": "https://cf.geekdo-images.com/rzoqHCNDmmc3go4PQE0eUg__original/img/JcwROAcfHjXilUAutjw9uHfDX8w=/0x0/filters:format(jpeg)/pic6475523.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rzoqHCNDmmc3go4PQE0eUg__small/img/UdP4unJbTXCx6DEZdn1rDS1mw-M=/fit-in/200x150/filters:strip_icc()/pic6475523.jpg",
+    "link": "https://boardgamegeek.com/thing/349991",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.46154",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Investment",
+      "Selection Order Bid"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Milan Tasevski"
+    ]
+  }
+}

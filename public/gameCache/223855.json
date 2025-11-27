@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:01:26.399Z",
+  "gameDetails": {
+    "id": "223855",
+    "name": "Sentient",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nThe next great technological revolution is here. Sentient robots for information, transportation, industry &mdash; all at our fingertips. Building them is now the easy part. Programming them has proven to be more complicated. A handful of companies have emerged claiming to pull it off, but only one will win out. Your mission is clear: Procure valuable bots and plug them into your network. They'll have an effect on your systems. Anticipate it correctly, program your bots effectively, and attract the right investors to win and lead the sentient revolution.\n\nIn Sentient, players are tasked with choosing from available robots to program in their factory. Each robot that is added modifies your board and attracts the interest of investors for your company. Program your bots efficiently and collect the support of your patrons to build the most formidable operation.\n\nDescription from GTS article:\n\nSentient is a dice-manipulation game by J. Alex Kevern (World&rsquo;s Fair 1893, Gold West). As with his other games, Sentient is filled with smart, simple, and rewarding choices. Each turn involves choosing an available bot, adding it to your factory, and deciding how to divide your resources between optimizing your bot and wooing investors. Players who enjoy a satisfying puzzle will appreciate the difficulty in adding the chosen bot to their factory. Each slot has a die on either side that will be modified based on the chosen bot card. But, adding another adjacent bot the next turn will modify the dice once again. The dice at the end of the round will determine how efficiently your bots were programmed and will grant you varying points based on the dice numbers. You may have everything perfectly sorted out &mdash; that is, until the last bot you choose changes the adjacent dice. Your plan can crumble and points can easily be lost with an errant decision or wrong choice!\n\n",
+    "image": "https://cf.geekdo-images.com/eDqdU_pgrUIjMotmpgnpzA__original/img/_0H_gGcpI_Qnp2yE9OUiZXUsatc=/0x0/filters:format(jpeg)/pic8793021.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eDqdU_pgrUIjMotmpgnpzA__small/img/pwomEFilFvj6ExjtPsSp1cGAKQY=/fit-in/200x150/filters:strip_icc()/pic8793021.jpg",
+    "link": "https://boardgamegeek.com/thing/223855",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.17951",
+    "averageWeight": "2.1961",
+    "boardGameRank": "1501",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Contracts",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Dice",
+      "Industry / Manufacturing",
+      "Math",
+      "Science Fiction"
+    ],
+    "designers": [
+      "J. Alex Kevern"
+    ]
+  }
+}

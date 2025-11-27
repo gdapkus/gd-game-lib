@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:10:40.613Z",
+  "gameDetails": {
+    "id": "204638",
+    "name": "Hyperborea: Light & Shadow",
+    "type": "boardgameexpansion",
+    "description": "Description from the publisher:\n\nYears have passed since the fall of the magic barrier and the rediscovery of Hyperborea's heart. The six nations are still at war with each other and are always looking for more powerful weapons to win it. Digging in the ancient crypts, they think to have finally found them.\n\nShortly before their sudden destruction, the mages from the lost civilization poured their souls into magical objects of immense power; the evil souls became Black Soul Cubes, while the good ones became White Soul Cubes. Everything was hidden in sacred arcs, named Relics, that couldn't be controlled by others.\n\nIn Hyperborea: Light & Shadow, these powerful Relics provide enormous knowledge and powers and the Soul Cubes are now in the hands of the six factions: Will the destiny of humans be dominated by war, or will wisdom and prosperity prevail between the realms of Hyperborea?\n\n",
+    "image": "https://cf.geekdo-images.com/RejvXzRZMlsm7V8IT9vyaQ__original/img/kHfOXcFXZyGheJw8fh_ZozshDL4=/0x0/filters:format(jpeg)/pic3108230.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RejvXzRZMlsm7V8IT9vyaQ__small/img/wv9zwjRCPvuUiNbagIssA9iTRLE=/fit-in/200x150/filters:strip_icc()/pic3108230.jpg",
+    "link": "https://boardgamegeek.com/thing/204638",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2016",
+    "playingTime": "180",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.82774",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Grid Movement",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Civilization",
+      "Expansion for Base-game",
+      "Exploration",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Maurizio Vergendo",
+      "Pierluca Zizzi"
+    ]
+  }
+}

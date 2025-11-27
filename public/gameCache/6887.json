@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:55:28.617Z",
+  "gameDetails": {
+    "id": "6887",
+    "name": "Hearts",
+    "type": "boardgame",
+    "description": "Hearts is a trick taking, standard deck playing card game, without trumps, which has been played popularly for generations and has many variations. The object is to avoid capturing hearts at one (1) point apiece and (in the most commonly played version today) the queen of spades, at thirteen (13) points, the card on which the whole game pivots.  But to make it interesting, it is also possible to \"shoot the moon,\" taking all the hearts and the queen, a coup that gives 26 points to each of your opponents instead!\n\n",
+    "image": "https://cf.geekdo-images.com/zZn7Q-Q17_I9VtBx9EqQeQ__original/img/RRfop0_qejIWn3o1pk4OyxxV8cA=/0x0/filters:format(jpeg)/pic1393547.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zZn7Q-Q17_I9VtBx9EqQeQ__small/img/kPXbLyN16L_hg6BhZtdutqGkSho=/fit-in/200x150/filters:strip_icc()/pic1393547.jpg",
+    "link": "https://boardgamegeek.com/thing/6887",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "yearPublished": "1850",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.53437",
+    "averageWeight": "1.743",
+    "boardGameRank": "2222",
+    "mechanics": [
+      "Score-and-Reset Game",
+      "Take That",
+      "Trick-taking",
+      "Turn Order: Stat-Based"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

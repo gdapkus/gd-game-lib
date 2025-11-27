@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:30:10.161Z",
+  "gameDetails": {
+    "id": "9297",
+    "name": "Oh, Pharaoh!",
+    "type": "boardgame",
+    "description": "From the publisher:\n\nOn behalf of the all-powerful pharaoh, the best architects of their time are building pyramids as burial grounds for the divine king. However, a battle between the master builders erupts: who constructs the biggest, most beautiful and magnificent pyramids? Envy and conspiracy are the order of the day and thus the architects make life difficult for each other.\n\nEach player tries to erect as many high-quality pyramids as possible. The player whose turn it is receives a new building card. He then can swap cards with the other players. He or she may then lay down cards to a pyramid or continue building at a pyramid already in progress. A pyramid is created when it consists of at least two rows of cards on top of each other. Each row consists of building cards with the same number. The row on top always has fewer cards than the ones below. The result is a continuous row of numbers from top to bottom.\n\nWhen it's their turn, players have to decide if they want to have their pyramids evaluated. The cards will then be taken away and the number of points marked down. Apart from the building cards, there are \"thieves\" with whom one can steal cards out of other player's pyramids, \"tax collectors\" who steal hand held cards and the \"pharaoh\" who can prevent these actions from taking place!\n\n",
+    "image": "https://cf.geekdo-images.com/sPQBhjUB-QASAG7kAcAs3g__original/img/ApJCDrzIPkaNpZqqb6tGuTS3_1A=/0x0/filters:format(jpeg)/pic3129667.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sPQBhjUB-QASAG7kAcAs3g__small/img/Z1V3JGNb0vcfyKlSiE9HvG3xs1Q=/fit-in/200x150/filters:strip_icc()/pic3129667.jpg",
+    "link": "https://boardgamegeek.com/thing/9297",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "5.84621",
+    "averageWeight": "1.4762",
+    "boardGameRank": "12782",
+    "mechanics": [
+      "Pattern Building",
+      "Take That",
+      "Trading"
+    ],
+    "categories": [
+      "Ancient",
+      "Card Game"
+    ],
+    "designers": [
+      "Thilo Hutzler"
+    ]
+  }
+}

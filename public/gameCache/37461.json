@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:57:09.365Z",
+  "gameDetails": {
+    "id": "37461",
+    "name": "Kraków 1325 AD",
+    "type": "boardgame",
+    "description": "Krakow 1325 AD is a 4-player card game full of trickery, which interacts with a map board. The game was first presented to the boardgaming world at Spiel 08 in Essen (October 2008) in two versions - English and Dutch.\n\nThe setting is Krakow, capital of Medieval Poland. The players form into two teams of ruthless crooks, which compete for influence and riches through a card game using a deck of 56 special \"Intrigue Cards\". But below the surface, things get uglier: every player has a hidden Identity and secretly competes against all others, including his own teammate. And there can be only one winner at game end...\n\nThe game comprises a mapboard, a card set of 56 Intrigue and 8 Special Cards, 4 Treasury boxes, 110 wooden Influence Tokens and 10 Victory Point/Turn markers.\n\nKrakow 1325 AD is a game of strategy and trickery, overloaded with original artwork and a warped sense of humour.\n\nIn October 2009, a 3-player expansion to Krakow 1325 AD was published (English/Dutch and German versions).\n\nThe game can be ordered directly from the designer/publisher by sending a private mail through Boardgamegeek.\n\n",
+    "image": "https://cf.geekdo-images.com/MTgp6owyoMNxGCrRCgYiZQ__original/img/XsCWOUzt5XpvE7r30ddzeGo_YSE=/0x0/filters:format(jpeg)/pic363598.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MTgp6owyoMNxGCrRCgYiZQ__small/img/hf0BgijsV-hisC14n1Dp88cdeHw=/fit-in/200x150/filters:strip_icc()/pic363598.jpg",
+    "link": "https://boardgamegeek.com/thing/37461",
+    "minPlayers": "4",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "120",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.46233",
+    "averageWeight": "2.4324",
+    "boardGameRank": "6375",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Hidden Roles",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Medieval"
+    ],
+    "designers": [
+      "Peter Struijf"
+    ]
+  }
+}

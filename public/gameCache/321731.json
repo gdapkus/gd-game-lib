@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:12:00.886Z",
+  "gameDetails": {
+    "id": "321731",
+    "name": "Marvel United: Kickstarter Promos Box",
+    "type": "boardgameexpansion",
+    "description": "This set contains all the exclusive stretch goal miniatures unlocked during the Kickstarter including a box to store them all in. Miniatures also came with cards and some had additional boards and/or tokens.  List in Community Wiki section.\n\n",
+    "image": "https://cf.geekdo-images.com/OfTGMtXxWRsOXeKZwigX4A__original/img/86q7NxS_-stXZBAHixmjEoaz8rg=/0x0/filters:format(jpeg)/pic5831506.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OfTGMtXxWRsOXeKZwigX4A__small/img/iq3iQevT3FZSY3lQU7S2AdUa1uE=/fit-in/200x150/filters:strip_icc()/pic5831506.jpg",
+    "link": "https://boardgamegeek.com/thing/321731",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "8.6715",
+    "averageWeight": "2.3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Programmed Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": []
+  }
+}

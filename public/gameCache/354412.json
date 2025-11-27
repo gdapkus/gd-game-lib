@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:16:43.602Z",
+  "gameDetails": {
+    "id": "354412",
+    "name": "Small Samurai Empires: Rise of Tokugawa",
+    "type": "boardgameexpansion",
+    "description": "Rise of Tokugawa is an expansion for Small Samurai Empires, including a 5th player, solo mode, training grounds, a playmat and more!\n\nAs house Tokugawa rises to power, many of the daimyos prepare for the inevitable &ndash; an all-out war between the houses. No-one is safe, not even within the great castle walls.\n\nTrain your Samurai to be invincible warriors. Deploy archers, elite units and generals and use your unique tactics to bring an advantage to the battlefield. Prepare for siege and glorious battles. For glory and honor!\n\n",
+    "image": "https://cf.geekdo-images.com/Egb6whn9l_IvaMOCk9a54g__original/img/lctWWf72t7Ln_vRQwuPwwwgJsrg=/0x0/filters:format(jpeg)/pic6635773.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Egb6whn9l_IvaMOCk9a54g__small/img/-Fb58i2NIfuWxuh7fAmFJLR5ff8=/fit-in/200x150/filters:strip_icc()/pic6635773.jpg",
+    "link": "https://boardgamegeek.com/thing/354412",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.93846",
+    "averageWeight": "3.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Programmed Movement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Abstract Strategy",
+      "Medieval"
+    ],
+    "designers": [
+      "Milan Tasevski"
+    ]
+  }
+}

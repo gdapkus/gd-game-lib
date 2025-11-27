@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T20:19:03.385Z",
+  "gameDetails": {
+    "id": "2228",
+    "name": "War of the Ring",
+    "type": "boardgame",
+    "description": "'War of the Ring'. On a large map of Middle Earth, armies are mustering and heroes are readying to fight the shadow spreading out of Mordor. The game is played on two levels. Both sides (or three if someone wants to play Saruman) have great armies that battle in a typical wargame style while another game is going on at the same time with individual characters around the fate of the One Ring. In the Campaign game Sauron's forces are the more powerful but the free peoples get the edge in the Character game.\n\nHighly sought after as a collectors item. It could be purchased with either a paper map or a full mounted map, and was also sold in a three-game set with the folio games Gondor: The Siege of Minas Tirith and Sauron.  That trilogy set is called The Games of Middle Earth.\n\n",
+    "image": "https://cf.geekdo-images.com/JgBBSeFCTAKehdfPdHcccQ__original/img/kzgIf4qxWpJPFHPz8fTKjRmDzks=/0x0/filters:format(jpeg)/pic613309.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JgBBSeFCTAKehdfPdHcccQ__small/img/tqPKcXiaYBQTFuaMV8QG_H5tjgE=/fit-in/200x150/filters:strip_icc()/pic613309.jpg",
+    "link": "https://boardgamegeek.com/thing/2228",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "1977",
+    "playingTime": "210",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "210",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.69613",
+    "averageWeight": "3.466",
+    "boardGameRank": "4342",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Events",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Ratio / Combat Results Table",
+      "Simulation",
+      "Sudden Death Ending",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Novel-based",
+      "Wargame"
+    ],
+    "designers": [
+      "Howard Barasch",
+      "Richard H. Berg"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:53:21.855Z",
+  "gameDetails": {
+    "id": "34166",
+    "name": "Finito!",
+    "type": "boardgame",
+    "description": "Back of the box:\nThe simple game principle spells fun for the whole family! All players are actively involved in the game the whole time. The numbered counters must be sorted into sequence by the end of the game. But watch out for the die! It makes a jumble of numbers to begin with. You need a bit of luck and a lot of skill.\n\nPart of the Schmidt Spiele Easy Play line.\n\nOnline Play\n\n     Play Finito online (Happy Meeple): Real-time play against human opponents or strong Artificial Intelligence. 3 minutes tutorial. \n\n\n",
+    "image": "https://cf.geekdo-images.com/bN-ARh0Bjp1acxPB5ExA5g__original/img/7RNAIJPx5GEa0JbwVGuZHvFmJ6o=/0x0/filters:format(jpeg)/pic293731.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bN-ARh0Bjp1acxPB5ExA5g__small/img/EZ7XemPkySJrigRXPaozgSMTUQs=/fit-in/200x150/filters:strip_icc()/pic293731.jpg",
+    "link": "https://boardgamegeek.com/thing/34166",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.10581",
+    "averageWeight": "1.1059",
+    "boardGameRank": "6990",
+    "mechanics": [
+      "Dice Rolling",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Hartmut Kommerell"
+    ]
+  }
+}

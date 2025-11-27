@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:49:54.411Z",
+  "gameDetails": {
+    "id": "7316",
+    "name": "Bingo",
+    "type": "boardgame",
+    "description": "A classic party game in which players cover places on their cards based on what space is called out by a caller.  The game is much older than 1930, going back to Lo Giuoco del Lotto D'Italia in 1530, but it was E. S. Lowe who first called the game Bingo and invented the now familiar 5x5 matrix card with B-I-N-G-O across the top.\n\n",
+    "image": "https://cf.geekdo-images.com/7xqN6StcQz1FoGploAzcVQ__original/img/BcUB8ooaNbE0L9ZNFUNpq6DuOSs=/0x0/filters:format(jpeg)/pic3871912.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7xqN6StcQz1FoGploAzcVQ__small/img/2gbOYKfIdPPSyz1ZyenWr0dI2_4=/fit-in/200x150/filters:strip_icc()/pic3871912.jpg",
+    "link": "https://boardgamegeek.com/thing/7316",
+    "minPlayers": "2",
+    "maxPlayers": "99",
+    "yearPublished": "1530",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      10,
+      31
+    ],
+    "averageRating": "3.06257",
+    "averageWeight": "1.037",
+    "boardGameRank": "29599",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Bingo",
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Children's Game",
+      "Movies / TV / Radio theme",
+      "Number",
+      "Party Game"
+    ],
+    "designers": [
+      "Edwin S. Lowe"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:53:17.259Z",
+  "gameDetails": {
+    "id": "125046",
+    "name": "Fantastiqa: The Rucksack Edition",
+    "type": "boardgame",
+    "description": "Welcome to the wild, weird world of FANTASTIQA!\n\nFantastiqa is a deck-building board game set in a fantastical landscape of dark forests, mist-shrouded highlands, and frozen wastes. As you and your foes journey around the board, you will subdue strange creatures and fulfill fabulous quests.\n\nEach creature you encounter has both an ability and a vulnerability. By playing card symbols to which a creature is vulnerable, you can subdue it and recruit it as an ally. Each creature you defeat is added to your expanding deck of cards, making its special ability into an ability of your own! A defeated Enchantress will wield her beguiling charms to help you overcome wandering Knights. Knights in turn subdue Dragons, adding their fiery breath to your cause. By combining the powers of different creatures you can fulfill curious quests, for example:\n\n\n    Send forth your Rabbits of Unusual Size to Nibble Through the Violin Strings of the Violent Vampire Volnar!\n    Deploy a party of web-slinging Spiders to String a Bridge Across the Chasm of Chaos!\n    Send your Dragons and Vampire Bats together on a mission to Ignite the Whisker-Wick'd Candle Guarded by the Ice Cats of Kituviel!\n\n\nSome of the creatures you encounter carry precious gems, which you can spend to purchase powerful artifacts or to summon mythical beasts to your aid. You begin with a handful of household items, but you will grow in power as you adventure and gather allies! By completing quests you score victory points and claim other special rewards. The board changes every time you play, so prepare for a new, exciting adventure each time you enter the world of Fantastiqa!\n\nFantastiqa is easy to learn but challenging to master &ndash; a game for families and gamers alike. Additional simplified rules are included for beginners and children.\n\nThe components are lavishly illustrated with fine art by Caspar David Friedrich, Vincent van Gogh, Claude Monet, Arthur Rackham, John William Waterhouse, John Bauer, Edward Burne-Jones, Francisco Goya, and others.\n\n",
+    "image": "https://cf.geekdo-images.com/uoc4LFOWyZICuifN4QnpgQ__original/img/6-ph16GREwusWewongl_gAjZ0GM=/0x0/filters:format(jpeg)/pic1917430.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uoc4LFOWyZICuifN4QnpgQ__small/img/Mha91W1YEOdfs3vFwzsRYZSz3i8=/fit-in/200x150/filters:strip_icc()/pic1917430.jpg",
+    "link": "https://boardgamegeek.com/thing/125046",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.89026",
+    "averageWeight": "2.3875",
+    "boardGameRank": "3254",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Point to Point Movement",
+      "Rock-Paper-Scissors",
+      "Set Collection",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "designers": [
+      "Alf Seegert"
+    ]
+  }
+}

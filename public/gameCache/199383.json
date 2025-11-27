@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:50:32.314Z",
+  "gameDetails": {
+    "id": "199383",
+    "name": "Calimala",
+    "type": "boardgame",
+    "description": "The \"Arte di Calimala\" &mdash; the guild of cloth finishers and merchants in foreign cloth &mdash; was one of the greater guilds of Florence, who arrogated to themselves the civic power of the Republic of Florence during the Late Middle Ages. The woolen cloth trade was the engine that drove the city&rsquo;s economy and the members of the Calimala were the elite of Florence. Throughout its long history, the Arte di Calimala supervised the execution of artistic and architectural works. Most Florentine guilds performed such activities, but the Calimala distinguished itself from other guilds through the number and prestige of the projects and the sites administered, including the construction and decoration of some of the major churches of the city.\n\nPlayers of Calimala are cloth merchants in medieval Florence, with a number of trusted employees that they assign to various streets within the city to carry out actions. (Each street connects two places where particular actions can be taken.) While taking these actions, players produce and deliver cloth and contribute to the construction and decoration of various buildings across the city. Employees stay on their assigned places for a while, carrying out their actions whenever the street is activated, and eventually are promoted into the city council, triggering a scoring phase.\n\nDepending on the number of players, each player has a number of action discs. In turn order, they can put one on a space between two actions, performing both actions and activating all other discs on the same space. When the fourth disc is placed on an action space, the lowest one is promoted to the city council, which triggers a scoring. After the last action disc is placed or the last scoring phase in the council is triggered, the game ends. The positions of the action spaces and sequence of scoring phases vary from game to game, making each game very different. Secret scoring objectives and action cards add uncertainty.\n\n",
+    "image": "https://cf.geekdo-images.com/6-Pj_AxP0mjjFXYs2ukMWw__original/img/u607jS_nxYDDnpFkd0ZaJE-eFE8=/0x0/filters:format(jpeg)/pic7611495.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6-Pj_AxP0mjjFXYs2ukMWw__small/img/XhyVFdk2GZEaU6AXLiOZQAIEr2o=/fit-in/200x150/filters:strip_icc()/pic7611495.jpg",
+    "link": "https://boardgamegeek.com/thing/199383",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2017",
+    "playingTime": "75",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.2679",
+    "averageWeight": "2.7865",
+    "boardGameRank": "1326",
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Modular Board",
+      "Order Counters",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Medieval",
+      "Renaissance",
+      "Transportation",
+      "Travel"
+    ],
+    "designers": [
+      "Fabio Lopiano"
+    ]
+  }
+}

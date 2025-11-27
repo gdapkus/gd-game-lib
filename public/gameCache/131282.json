@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:37:56.450Z",
+  "gameDetails": {
+    "id": "131282",
+    "name": "Professor Pugnacious",
+    "type": "boardgame",
+    "description": "Professor Pugnacious, full title Professor Pugnacious' Portfolio of Perils, Pugilism, and Perfidy: The Card Game of Victorian Combat is a fast-paced, tactical, deck-building game in which players take on the roles of rival proteges of Professor Pugnacious, building their decks to defeat adversaries and foil each other in a highly thematic game of Steampunk adventurers combating Gothic horrors.\n\nEach player has access to only a portion of the pool of cards that can be purchased, which changes each turn and can be affected by played cards. Players attempt to gain enough Fight to defeat Enemies, as well as Failure to cause their rival players to lose their combats, and Skill to acquire more cards and disable traps. The game ends with the defeat of the Finale, a difficult and rewarding opponent.\n\n",
+    "image": "https://cf.geekdo-images.com/9RoiHuw7__xNoBUNg5_MEw__original/img/StRoT-_ZK3h4logFol8F2BtL_6M=/0x0/filters:format(jpeg)/pic1811929.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9RoiHuw7__xNoBUNg5_MEw__small/img/UKZa-xwrzJMQQLmwG95S2uAhCr8=/fit-in/200x150/filters:strip_icc()/pic1811929.jpg",
+    "link": "https://boardgamegeek.com/thing/131282",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "45",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.59946",
+    "averageWeight": "2",
+    "boardGameRank": "25748",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Horror"
+    ],
+    "designers": [
+      "Thomas Eliot (II)"
+    ]
+  }
+}

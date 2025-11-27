@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T20:13:18.309Z",
+  "gameDetails": {
+    "id": "200680",
+    "name": "Agricola (Revised Edition)",
+    "type": "boardgame",
+    "description": "Updated and streamlined for a new generation of players, Agricola, the award-winning and highly acclaimed game by Uwe Rosenberg, features a revised rulebook and gameplay, wood pieces and components, and a card selection from the base game as well as its expansions, revised and updated for this edition.\n\nThe 17th century was not an easy time to be a farmer. \nPlayers begin the game with two family members and can grow their families over the course of the game. This allows them more actions but remember you have to grow more food to feed your family as it grows! Feeding your family is a special kind of challenge and players will plant grain and vegetables while supplementing their food supply with sheep, wild boar and cattle. Guide your family to wealth, health and prosperity and you will win the game.\n\n",
+    "image": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__original/img/jC_He46LcIcKWU-kSwkYdr9Z45E=/0x0/filters:format(jpeg)/pic8093340.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__small/img/h_Rp2XYqaNElM2hrYxUSzMxRRgM=/fit-in/200x150/filters:strip_icc()/pic8093340.jpg",
+    "link": "https://boardgamegeek.com/thing/200680",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.95651",
+    "averageWeight": "3.4457",
+    "boardGameRank": "84",
+    "mechanics": [
+      "Enclosure",
+      "Hand Management",
+      "Worker Placement",
+      "Advantage Token",
+      "Automatic Resource Growth",
+      "Closed Drafting",
+      "Increase Value of Unchosen Resources",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Turn Order: Claim Action",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Animals",
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Uwe Rosenberg"
+    ]
+  }
+}

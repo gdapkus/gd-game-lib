@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:59:33.340Z",
+  "gameDetails": {
+    "id": "32412",
+    "name": "Palastgeflüster",
+    "type": "boardgame",
+    "description": "Palastgefl&uuml;ster translates literally as \"Palace Whisperings\"\n\n\"At the royal court, discontent prevails, the royal household is dissatisfied. The first intrigues are schemed: The marshall lets the treasurer in on his plans, and the lady's maid whispers secretly with the magician. At the worst, persons of equal rank huddle together. In this case, dark whisperings are in the air which the king will penalise with severe sentences. But loyal subjects will secure the King's favour and win the game.\"\n\nAim of the game:\n\nEach player tries to play their cards so that each character exists only once in their display. If they do not succeed in doing so, all the others rise in the king's favor and will be rewarded. At the end of the game, the player with the most points wins the game.\n\n",
+    "image": "https://cf.geekdo-images.com/kosKyvdvCSSvdn2UlnGm8Q__original/img/DWvuq-Bll_6E58kALJ5IpNphHK0=/0x0/filters:format(jpeg)/pic2740759.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kosKyvdvCSSvdn2UlnGm8Q__small/img/TKzVUtwSy_YbtSqC1zIATZglBpI=/fit-in/200x150/filters:strip_icc()/pic2740759.jpg",
+    "link": "https://boardgamegeek.com/thing/32412",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2007",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.78271",
+    "averageWeight": "1.6446",
+    "boardGameRank": "2382",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Medieval"
+    ],
+    "designers": [
+      "Michael Rieneck"
+    ]
+  }
+}

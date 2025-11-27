@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:13:26.540Z",
+  "gameDetails": {
+    "id": "240243",
+    "name": "Monster Lands: Heavy Weapons & 5th Player",
+    "type": "boardgameexpansion",
+    "description": "This expansion introduces new versatile and powerful components into the game, the Heavy Weapons. They have multiple activations and, unlike Traps and Defense tokens, can be brought home from battle if not used. They may allow your Mercenary to hide behind them, if activating their Defense value, or to use their immense fire power to blast Monsters out of the way or to destroy that roadblock that lets you conquer a Land.\n\nCoupled with the Heavy Weapons come the Mercenaries of the Forge Affinity. Use them by replacing those of another Affinity of choice or by adding them if you play a 5-player game. These Mercenaries have long been fiddling with the weapons as if they were pets, lets not part them from their treasures.\n\n",
+    "image": "https://cf.geekdo-images.com/d4X7j97Iynlr2xcTZ2Zq8w__original/img/VmE1ANYAmmZjVfCbgA0FvhhSa7g=/0x0/filters:format(jpeg)/pic4203502.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/d4X7j97Iynlr2xcTZ2Zq8w__small/img/9jCUhXsnDKgzvKA2IL66OlAxfak=/fit-in/200x150/filters:strip_icc()/pic4203502.jpg",
+    "link": "https://boardgamegeek.com/thing/240243",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.30039",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Dice",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Víctor Fernández",
+      "Gorka Mata",
+      "Sergi Solé Pascual",
+      "Daniel Schloesser"
+    ]
+  }
+}

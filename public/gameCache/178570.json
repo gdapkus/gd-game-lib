@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:08:47.595Z",
+  "gameDetails": {
+    "id": "178570",
+    "name": "Unusual Suspects",
+    "type": "boardgame",
+    "description": "Incredible! The shifty thief who operates undisturbed from months is about to be caught! After copious failures, a team of detectives has a secret weapon: a witness. However this witness is quite weird; he doesn't remember anything about the appearance of the criminal, but he knows everything about their habits and behavior. Will the investigative team be able to find out the criminal only from these elements?\n\nIn Insoliti Sospetti (\"Unusual Suspects\"), one player is the Witness and the other players play the part of the Investigative Team. The Witness knows the real identity of the Guilty and tries to make the Team hit it only with his answers. The Team asks questions to the Witness and, depending on his answers, will exclude the innocent suspects after players have discussed what they learned.\n\nInsoliti Sospetti can also be played competitively or collaboratively (team vs team). In the latter case, a grid of twelve suspects is created. Every round the team reveals a question card and the Witness has to answer yes/no. According to the answer, the team has to remove suspects until only the Guilty one is on the board.\n\n",
+    "image": "https://cf.geekdo-images.com/GSV9m1Yhm7dGGp9BfkUONw__original/img/hhrhSPvohXSd-M1viPx8kZ7ntAQ=/0x0/filters:format(jpeg)/pic3090549.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GSV9m1Yhm7dGGp9BfkUONw__small/img/HIwRv_RZVvn6CkIE3Kd43JdQPjY=/fit-in/200x150/filters:strip_icc()/pic3090549.jpg",
+    "link": "https://boardgamegeek.com/thing/178570",
+    "minPlayers": "3",
+    "maxPlayers": "16",
+    "yearPublished": "2015",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "6.39846",
+    "averageWeight": "1.0897",
+    "boardGameRank": "3123",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Team-Based Game",
+      "Voting"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Murder / Mystery",
+      "Party Game"
+    ],
+    "designers": [
+      "Paolo Mori"
+    ]
+  }
+}

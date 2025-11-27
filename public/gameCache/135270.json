@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:01:46.191Z",
+  "gameDetails": {
+    "id": "135270",
+    "name": "Shibumi",
+    "type": "boardgame",
+    "description": "INTRODUCTION\n\nShibumi is the essence of beauty, or elegance in its minimal form. A shibumi object may appear simple but will reward the viewer with hidden depths as it is explored over time. Shibumi is simplicity hiding complexity.\n\nCOMPONENTS\n\nThe Shibumi set is not a single game but many games; it is the simplest of game systems. The set includes a square board with 4x4 holes and 48 white, black and red balls (16 each).\n\nBalls may only stack on 2x2 platforms of existing balls. Conversely, if a ball is removed then any others that it supports will drop. Any ball that directly supports two or more on the level above is pinned and cannot be removed. If a ball is not pinned then it&rsquo;s free.\n\nEDITIONS\n\nPublished by nestorgames, it is presented in 3 editions:\n\n- Ninja: Small, light, portable. It includes a black and small cotton bag, a blue foam board, 19mm plastic balls in 3 colours (16 each of white, black and red), and a sheet with rules for 7 games.\n\n- Samurai: Big, solid, strong. It includes a big white bag, a laser-cut 8mm thick 'ice' acrylic board and 25mm phenolic resin balls (same material as snooker balls) in 3 colours (16 each of white, black and red), and a sheet with rules for 7 games. Optionaly 3 bowls for the marbles can be purchased.\n\n- Shogun: The executive edition for the big boss. It includes a big laser-cut 8mm thick 'ice' acrylic box with 4x4 holes on its lid, a big white bag, 25mm phenolic resin balls in 3 colours (16 each of white, black and red), and a pendrive with rules for many games. You will be able download future games and computer versions into your pendrive as they become available.\n\nThe phenolic balls are absolutely exquisite as they are:\n\n- Light: around 15 grams each.\n- Round: each ball is perfectly spherical without blemish; they stack and drop correctly every time.\n- Warm: both in temperature and in the nice snooker ball \"clack\" they make when struck together.\n- Tough: they won't chip or crack and seem pretty much indestructible.\n\nThey look and feel fantastic. When you pick them up you just want to keep fondling them.\n\nHISTORY\n\nGames and puzzles based on square pyramidal stackings have existed at least since Edouard Lucas' cannon-ball stacking problem of 1875. The most famous 4x4 square pyramidal game is Pylos (published by Gigamic). Shibumi is different due to the third ball colour, drop mechanism, different numbers of players, lack of a board gutter, and the fact that it's a system for playing many games rather than the embodiment of a single game. Some Shibumi games may be playable with a Pylos set but many will not.\n\nShibumi game system concept by Cameron Browne 2011.\n\nGAMES\n\nThis is the official geeklist of Shibumi games:\n\nOfficial Shibumi games list\n\nPlease feel free to create your own game for this system!\n\nThe names of these games all start with &lsquo;SP&rsquo; because they're Square Pyramidal games:\n\n",
+    "image": "https://cf.geekdo-images.com/clAgx9yxq4rOqLzGcti1Kg__original/img/N_Vh5CWRZbLPztI5mi9x0T8jGyY=/0x0/filters:format(jpeg)/pic1509364.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/clAgx9yxq4rOqLzGcti1Kg__small/img/zj4RNljhOb0hWy0wnUNYTpYcPe8=/fit-in/200x150/filters:strip_icc()/pic1509364.jpg",
+    "link": "https://boardgamegeek.com/thing/135270",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "yearPublished": "2011",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.76081",
+    "averageWeight": "2.8333",
+    "boardGameRank": "11737",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Enclosure",
+      "Hand Management",
+      "Network and Route Building",
+      "Pattern Building",
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Game System",
+      "Puzzle"
+    ],
+    "designers": [
+      "Cameron Browne"
+    ]
+  }
+}

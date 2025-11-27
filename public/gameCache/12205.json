@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:28:40.245Z",
+  "gameDetails": {
+    "id": "12205",
+    "name": "In a Pickle",
+    "type": "boardgame",
+    "description": "Does a sofa fit in a shopping cart? It all depends on how you size it up in this game of creative thinking and outrageous scenarios. Try to win a set of cards by fitting smaller things into bigger things - a baby goes in a bathtub, which is in a house, in Hollywood. Play the fourth word card to claim a set, unless one of your opponents can trump with a larger word. The player with the most sets at the end is the winner.\n\n",
+    "image": "https://cf.geekdo-images.com/-cuZASgB464SV9Gnw26r2Q__original/img/_A7_CrkWC07-0qFw4p1kG9H8Ecc=/0x0/filters:format(jpeg)/pic5869954.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-cuZASgB464SV9Gnw26r2Q__small/img/uyqqBk71ITEiEyDyLquYFv395c8=/fit-in/200x150/filters:strip_icc()/pic5869954.jpg",
+    "link": "https://boardgamegeek.com/thing/12205",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2004",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "4.67979",
+    "averageWeight": "1.2088",
+    "boardGameRank": "29559",
+    "mechanics": [
+      "Hand Management",
+      "Storytelling"
+    ],
+    "categories": [
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "Joyce Johnson",
+      "Colleen McCarthy-Evans"
+    ]
+  }
+}

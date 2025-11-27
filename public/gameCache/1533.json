@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:27:55.613Z",
+  "gameDetails": {
+    "id": "1533",
+    "name": "Ghost Chase",
+    "type": "boardgame",
+    "description": "One player takes the role of Max, the ghost.  Max hides himself in the Canterville castle.  The other players are the ghost chasers and search for Max in the castle.  Max and the ghost chasers begin the game in rooms of their choice.  The Max and his chasers move room to room.  Max moves invisibly, showing himself only from time to time.  The creatures living around the castle determine when Max must show himself.  After each game round, one animal is removed from the board.  When all animals of one type have been removed, Max must show which room he is in and how he got there.  Max has a code of honor and will not enter the same room twice during the chase.\n\nUnlike Max, the chasers may enter each room as often as they like.  They try to force Max into a dead end to catch him.  All the chasers win if one of the chasers enters the room where Max is.  If the last animal is removed from the board with Max having not been found, the player playing the role of Max is the winner!\n\n",
+    "image": "https://cf.geekdo-images.com/ON4Qy4DOeGiCHwZ5eHCOaA__original/img/Nb-aiQwTD7pCgXVqo03VdvjDlTU=/0x0/filters:format(jpeg)/pic3844.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ON4Qy4DOeGiCHwZ5eHCOaA__small/img/uPyZKLJEw7Z7t03erzJpGSB-n9A=/fit-in/200x150/filters:strip_icc()/pic3844.jpg",
+    "link": "https://boardgamegeek.com/thing/1533",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2001",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.25725",
+    "averageWeight": "1.6757",
+    "boardGameRank": "8381",
+    "mechanics": [
+      "Hidden Movement",
+      "Secret Unit Deployment",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Children's Game",
+      "Deduction",
+      "Exploration"
+    ],
+    "designers": [
+      "Kai Haferkamp"
+    ]
+  }
+}

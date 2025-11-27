@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:28:58.027Z",
+  "gameDetails": {
+    "id": "424816",
+    "name": "Jungo",
+    "type": "boardgame",
+    "description": "Jungo is a hand-building game in which you try to be the first player to get rid of your cards.\n\nFrom a deck of 64 cards, with eight copies each of 1-8, players get a hand of cards that they cannot rearrange. The starting player leads a card or set of cards with the same value &mdash; but they can play multiple cards only if the cards are adjacent to one another in their hand. If cards have been played on the table, to play you must play the same number of cards with a higher value or a larger set of cards, e.g., 2 < 5 < 3,3 < 6,6 < 2,2,2 < 1,1,1,1. When you overplay someone, you can pick up the cards you beat and add them to your hand where you wish, or you can discard them.\n\nIf you cannot or choose not to play, you must pass, drawing a card from a facedown pile; some cards have two values on them, e.g., 1/2 or 5/6, and can be played as either number. You either add this card to your hand where you wish, discard it, or &mdash; calling on the law of the \"jungo\" &mdash; play it immediately as part of a combination from your hand that beats what's on the table.\n\nIf all but one player pass, clear the table, with the player who last played leading to an empty table.\n\nWhoever first empties their hand wins! Alternatively, since the game is short, play multiple rounds, with the first player to win two rounds winning the game.\n\n",
+    "image": "https://cf.geekdo-images.com/-s3g7tvzTk-aylhc7Uy2pw__original/img/YbvrXrUv8NcSLT1o7_YEQPUtwU8=/0x0/filters:format(png)/pic8918687.png",
+    "thumbnail": "https://cf.geekdo-images.com/-s3g7tvzTk-aylhc7Uy2pw__small/img/s2po1RsewfUXnUPOLaTGEIVs5jE=/fit-in/200x150/filters:strip_icc()/pic8918687.png",
+    "link": "https://boardgamegeek.com/thing/424816",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.08273",
+    "averageWeight": "1.1667",
+    "boardGameRank": "3396",
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "荒尾 俊樹 (Toshiki Arao)"
+    ]
+  }
+}

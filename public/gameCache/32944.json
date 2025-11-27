@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:58:57.286Z",
+  "gameDetails": {
+    "id": "32944",
+    "name": "Neue Heimat",
+    "type": "boardgame",
+    "description": "Tactical bidding game about building the highest scoring houses in three building rows.\nThe levels are different coloured cubes with numbers from 1 to 6 on it, that are dealt via auction in each round. The first one of a new colour you purchase fixes this colour as yours for the rest of the game and the final scoring. Players also bid for additional pieces to shorten (or lengthen) the lanes and rooftops to finish the houses.\nYou pay with cheques, each of 1 million euros and can establish an \"illegal cashbox\", counting at the final scoring, too.\nThe game ends, when there are two rows completed. The houses on these score positive points, regarding the numbers on the levels and the rooftops, the ones in the third row are scored negative.\n\nTough bidding game, unforgiving and rather deep for the way it looks. Klaus Zoch and some friends established an extra mini-publisher called \"Chili-Games\" for games like this, which don`t fit into the more family-fun-program of his Zoch-verlag.\n\n",
+    "image": "https://cf.geekdo-images.com/sl6U-ynZ3kHaYQ8d7YXEdg__original/img/QLfkDkpDhcyt1jq5j3LUObaXqMI=/0x0/filters:format(jpeg)/pic287913.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sl6U-ynZ3kHaYQ8d7YXEdg__small/img/-IcLT_bXAg2Z_H-AhFyTzUJ_rhE=/fit-in/200x150/filters:strip_icc()/pic287913.jpg",
+    "link": "https://boardgamegeek.com/thing/32944",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2007",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.29017",
+    "averageWeight": "2.6508",
+    "boardGameRank": "3233",
+    "mechanics": [
+      "Auction / Bidding"
+    ],
+    "categories": [
+      "City Building",
+      "Economic"
+    ],
+    "designers": [
+      "Klaus Zoch"
+    ]
+  }
+}

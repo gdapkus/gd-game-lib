@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:14:36.855Z",
+  "gameDetails": {
+    "id": "111144",
+    "name": "Power Grid: Theme Park",
+    "type": "boardgameexpansion",
+    "description": "Power Grid: Theme Park (Funkenschlag: Freizeitpark) is a promotional card for Power Grid that was available for a donation at the 2F-Spiele booth during Spiel 2011.  This card is also part of the BGG Promo Card Set.\n\nThe card is auctioned to the players immediately after it has been drawn. It counts as an additional city for its owner and not as a power plant.\n\n",
+    "image": "https://cf.geekdo-images.com/wnlBuOLOqN3P39kbMjA6jw__original/img/GdmAK_yFT4HDyWshdmbwwo3DxvE=/0x0/filters:format(jpeg)/pic867299.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wnlBuOLOqN3P39kbMjA6jw__small/img/jtvIEk48GvFFUodf4s3YOiCCPBQ=/fit-in/200x150/filters:strip_icc()/pic867299.jpg",
+    "link": "https://boardgamegeek.com/thing/111144",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2011",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "7.34846",
+    "averageWeight": "2.8667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

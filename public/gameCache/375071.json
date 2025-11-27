@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T19:31:29.957Z",
+  "gameDetails": {
+    "id": "375071",
+    "name": "At the Helm: Lazarette",
+    "type": "boardgameexpansion",
+    "description": "The Lazarette expansion for At the Helm provides 6 new market cards to add to those from the Base Game.\n\n",
+    "image": "https://cf.geekdo-images.com/Myqzq8aoYap_fzVOXYb6Ww__original/img/kQCD4f3cZqGH5MjOgtxFCNVps5E=/0x0/filters:format(png)/pic7186915.png",
+    "thumbnail": "https://cf.geekdo-images.com/Myqzq8aoYap_fzVOXYb6Ww__small/img/W1nY2TGgOP9KxdV1a0RvDe-iAbM=/fit-in/200x150/filters:strip_icc()/pic7186915.png",
+    "link": "https://boardgamegeek.com/thing/375071",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2022",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": null,
+    "averageRating": "7.40789",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Nautical"
+    ],
+    "designers": [
+      "Ted Heidersdorf"
+    ]
+  }
+}

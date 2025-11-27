@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:23:49.853Z",
+  "gameDetails": {
+    "id": "446699",
+    "name": "ANTS",
+    "type": "boardgame",
+    "description": "ANTS is a deep strategy game that focuses on worker management and territorial expansion. Each player begins with one of multiple unique Queen tiles, which will heavily influence your strategy and interaction with the game's interconnected systems. Throughout the game, you will guide your ant colony through cycles of growth, exploration, and conquest to establish dominance over the garden ecosystem.\n\nOn your turn, you perform one of six main actions (Dig, Explore, Gather, Incubate, Play Cards, or Defeat Enemies), and you can take free actions to optimize your colony's efficiency.\n\nWhen you perform a main action, you spend specialized ants from your colony to determine the action's strength. The number of ants you commit (1 to 4) directly influences the power and impact of your chosen action: expand your nest by placing room tiles strategically, explore hexagonal territories to reveal resources and enemies, or position gatherer ants to form continuous supply networks across the garden.\n\nThe heart of the game revolves around your colony's life cycle management. Your incubation board tracks three vital phases (eggs, larvae, and ants) each containing three specializations: diggers, explorers, and gatherers. Wild ants serve as valuable wildcards that can fulfill any specialization need. When you incubate, you complete enterprises, trigger production effects, feed your larvae with food cubes, and advance the life cycle.\n\nAn important part of the game is managing your nest's architectural growth. Room tiles must be placed strategically to complete entire nest areas, immediately rewarding you with precious stars, one of the primary victory point sources. The garden map becomes a dynamic battlefield where your exploration reveals enemy tiles and resources, while gatherer ants create supply chains that automatically collect resources and emit pheromones when hexes are depleted.\n\nMultiple victory paths ensure diverse strategies remain viable: architectural mastery, territorial control, demographic growth, or tactical card play and enemy conquest.\n\nLead your colony to victory.\nFor&nbsp;the&nbsp;colony!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/ow6IajVpCb0MEOEk_Aog8g__original/img/i6J5U1tBkLpQTn3VvViCn2nv2mU=/0x0/filters:format(jpeg)/pic8888017.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ow6IajVpCb0MEOEk_Aog8g__small/img/zgF6m8DTPJMypDk-Ha0xV7zMtRw=/fit-in/200x150/filters:strip_icc()/pic8888017.jpg",
+    "link": "https://boardgamegeek.com/thing/446699",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.91118",
+    "averageWeight": "3.8611",
+    "boardGameRank": "5363",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Hexagon Grid",
+      "Income",
+      "Open Drafting",
+      "Roles with Asymmetric Information",
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Animals",
+      "Civilization",
+      "Exploration"
+    ],
+    "designers": [
+      "Renato Ciervo",
+      "Andrea Robbiani"
+    ]
+  }
+}

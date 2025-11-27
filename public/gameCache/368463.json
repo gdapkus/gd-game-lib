@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:31:04.456Z",
+  "gameDetails": {
+    "id": "368463",
+    "name": "Rebuilding Seattle",
+    "type": "boardgame",
+    "description": "The great fire of 1889 has burned down most of downtown Seattle, and you are the city planner tasked with rebuilding it. Manage economic resources to improve neighborhoods, erect new buildings and iconic landmarks, and address the needs of an ever-growing population to make Seattle better than ever!\n\nIn Rebuilding Seattle, you're responsible for managing the zoning and expansion of a major neighborhood! Each round your population grows, and you can either build a new building, expand into a new suburb, activate an event, or build a landmark, before earning profit based on your neighborhood's commerce. You'll buy building types from a shared market, looking to find shapes that fit your grid and types that fit your strategy. Triggering citywide events can change the tide of the game, offering points, money, and expansions for the players ready for it. You can even enact laws to give yourself the advantage! At the end of the game, whoever's neighborhood has earned the most points wins.\n\nBuild! Carefully fit buildings into your neighborhood grid, and construct landmarks on the right tile combinations.\n\nExpand! Suburb tiles connect to your grid however you like, creating uniquely shaped neighborhoods!\n\nScore! Earn points for building types, upgrades, landmarks, events, and remaining cash!\n\nRebuilding Seattle also comes with a solo player deck so you can still compete to build the best version of Seattle even with just one player! Enjoy gameplay against a deck designed to simulate the actions of a second player to discover strategies and configurations you can use to improve Seattle!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/65sJJUkGsGI17lt0Jv1wxg__original/img/w06J80bGAfif6gFrh-BSooMbXS4=/0x0/filters:format(jpeg)/pic7089020.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/65sJJUkGsGI17lt0Jv1wxg__small/img/F_I2ofdtl5TRr5UZxruUeRb_frM=/fit-in/200x150/filters:strip_icc()/pic7089020.jpg",
+    "link": "https://boardgamegeek.com/thing/368463",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.50532",
+    "averageWeight": "2.3333",
+    "boardGameRank": "4039",
+    "mechanics": [
+      "Grid Coverage",
+      "Income",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "City Building"
+    ],
+    "designers": [
+      "Quinn Brander"
+    ]
+  }
+}

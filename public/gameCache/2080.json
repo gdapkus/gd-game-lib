@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:16:46.856Z",
+  "gameDetails": {
+    "id": "2080",
+    "name": "Central America",
+    "type": "boardgame",
+    "description": "Central America is a comprehensive, dynamic simulation that encapsulates the multiple elements of modern land and air combat.  Conventional and guerrilla warfare are combined in a fluid, interactive game system.  Players choose for themselves the intensity of the game and the level of detail involved.  Four Introductory Scenarios teach the basics of the game.  Five Intermediate Scenarios offer a night's play.  Seven Campaign Scenarios cover the vast potential of war in Central America, from the historical fall of Somoza, to a US invasion of Nicaragua, to World War III.\n\n",
+    "image": "https://cf.geekdo-images.com/I2XW1Ha9zInnOqGukdRgPQ__original/img/Z1eLdtvQA4glnFCWfDYVfo3f11o=/0x0/filters:format(jpeg)/pic1259147.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/I2XW1Ha9zInnOqGukdRgPQ__small/img/qu8hhUikhbd813UC4zGgFJhL2os=/fit-in/200x150/filters:strip_icc()/pic1259147.jpg",
+    "link": "https://boardgamegeek.com/thing/2080",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1987",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.07753",
+    "averageWeight": "4.2326",
+    "boardGameRank": "14119",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "Civil War",
+      "Modern Warfare",
+      "Wargame"
+    ],
+    "designers": [
+      "James H. McQuaid"
+    ]
+  }
+}

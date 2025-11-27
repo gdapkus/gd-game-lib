@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:16:39.321Z",
+  "gameDetails": {
+    "id": "1430",
+    "name": "Caesar: Epic Battle of Alesia",
+    "type": "boardgame",
+    "description": "\"Caesar: Epic Battle of Alesia\" is a Tactical level board-wargame that simulates an epic battle in 52 BC where Julius Caesar surrounded the battered forces of the Gauls led by Vercingetorix.  Knowing the Gauls had a relief force coming (of over 250,000 men), Caesar built a defensive perimeter facing outward to match his perimeter facing inward to beseige Vercingetorix.  An unusual \"donut\" formation.\n\nThe large mapboard 33\"x28\" portrays the town of Alesia and all of the works built by Caesar.  The Gauls have a small force trapped in the town including Vercingetorix as well as a large force which sets up in off board areas.  The Gallic player must reveal which off board zones he occupies with at least 1 unit, but does NOT have give further information.\n\nThe goal of the game is for the Gauls to create an escape route for Vercingetorix and exit him off the board.  The Romans must prevent this over the 20 game turns (which represents 2 days).\n\nOriginally self-published as Alesia in 1970, it was redesigned and reissued by Avalon Hill in 1976.\n\n",
+    "image": "https://cf.geekdo-images.com/mp5QOyj_byPsSfiw7if7EA__original/img/BxFT5bN11PGSV1pAHZ4T11mBkZY=/0x0/filters:format(jpeg)/pic5955302.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mp5QOyj_byPsSfiw7if7EA__small/img/r9jsRcSDSQk4VttYCkTFAWI8nDA=/fit-in/200x150/filters:strip_icc()/pic5955302.jpg",
+    "link": "https://boardgamegeek.com/thing/1430",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1976",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.13722",
+    "averageWeight": "2.9467",
+    "boardGameRank": "4298",
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Hidden Movement",
+      "Line of Sight",
+      "Movement Points",
+      "Ratio / Combat Results Table",
+      "Simulation",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Ancient",
+      "Wargame"
+    ],
+    "designers": [
+      "Robert Bradley"
+    ]
+  }
+}

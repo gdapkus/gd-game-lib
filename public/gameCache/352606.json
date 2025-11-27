@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:13:39.347Z",
+  "gameDetails": {
+    "id": "352606",
+    "name": "Naturopolis",
+    "type": "boardgame",
+    "description": "Wind whistling, bees buzzing, rivers rolling along: the sounds of the great outdoors are everywhere. This open countryside is unspoiled by human hands, and it&rsquo;s your job to keep it that way. Make sure the tourists and campers have somewhere to go, but don&rsquo;t let their presence distract you from what really matters.\n\nIn Naturopolis, players work together to build a new landscape. Using only 18 cards and a variable scoring system, the game is never the same twice. Naturopolis is the 3rd game in our series of standalone and combinable Sprawlopolis games. It brings mountains, lakes, forests and meadow blocks to the game, with the added bonus of campsites, rivers and double line roads.\n\nFirst, players will randomly flip over 3 cards to set the scoring rules for the game. Each game has drastically different scoring rules in unique combinations, and a new score to beat, ranging from 6 to 51 points.\n\nEach turn, players will play one card from their hand to the growing landscape, trying to score as many points as possible. Players will have to communicate and plan without revealing their own cards in order to most efficiently develop large areas in each of the 4 zone types.  When all cards have been placed, the game ends and players see if they have met the dynamically generated minimum score for their game.\n\n",
+    "image": "https://cf.geekdo-images.com/tV4wQtjSd_jWpakGxXelaA__original/img/uhMHYSuvJDXqJ593gi-a_F2YQWE=/0x0/filters:format(png)/pic7088924.png",
+    "thumbnail": "https://cf.geekdo-images.com/tV4wQtjSd_jWpakGxXelaA__small/img/GY2spaLcdW3nrkp37Nb9OEIWG2s=/fit-in/200x150/filters:strip_icc()/pic7088924.png",
+    "link": "https://boardgamegeek.com/thing/352606",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.71187",
+    "averageWeight": "1.6875",
+    "boardGameRank": "3028",
+    "mechanics": [
+      "Closed Drafting",
+      "Cooperative Game",
+      "Layering",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play",
+      "Territory Building"
+    ],
+    "designers": [
+      "Steven Aramini",
+      "Danny Devine",
+      "Paul Kluka"
+    ]
+  }
+}

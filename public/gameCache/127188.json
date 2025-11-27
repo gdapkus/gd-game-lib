@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:03:42.112Z",
+  "gameDetails": {
+    "id": "127188",
+    "name": "Tweeeet",
+    "type": "boardgame",
+    "description": "It's spring, and robins and bluethroats are migrating to their summer habitat. These two types of birds must reach their breeding ground in good shape by eating berries and bugs to gain energy on route &ndash; but flying costs them energy.\n\nIn Tweeeet, each player is a bird and belongs to the robins or the bluethroats. The landscape tiles build a migration route from south to north. In this landscape are empty spaces (grassland), impassable spaces (lakes), and tree spaces, which hold the birds' food. Each turn you move to a new tree space, and the number of spaces moved equals the amount of energy lost. But you eat the food in the tree where you land &ndash; eating a strawberry brings 2 energy points, purple berries 3, a caterpillar 4, and a beetle 5 &ndash; so each turn your energy level goes down (because you fly) and up (because you eat).\n\nBirds of the same type (robins or bluethroats) can speak about tactics together if they are within a \"crow flies\" distance of six spaces from one another. When they're seperated by 7-9 spaces, they may only twitter, and when ten or more spaces apart, they may only flap their wings.\n\nWhen the surviving birds reach their breeding ground in the north, birds of the same type flock together. Once all birds are in their nests, you calculate the average energy level of your team to see which team is the strongest in the end.\n\nOnline Play\n\n\n     Jijbent.nl (turn-based, Dutch)\n\n\n",
+    "image": "https://cf.geekdo-images.com/ES2eWOqSdI3D0heA2XJVzA__original/img/a-bB6IXprttraRbPkcd07GX2zd8=/0x0/filters:format(jpeg)/pic1403862.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ES2eWOqSdI3D0heA2XJVzA__small/img/hWkQB3-xoh64WZvMHaLywXSuJ48=/fit-in/200x150/filters:strip_icc()/pic1403862.jpg",
+    "link": "https://boardgamegeek.com/thing/127188",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2012",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.16799",
+    "averageWeight": "1.7241",
+    "boardGameRank": "9696",
+    "mechanics": [
+      "Modular Board",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Animals",
+      "Children's Game",
+      "Exploration"
+    ],
+    "designers": [
+      "Corné van Moorsel"
+    ]
+  }
+}

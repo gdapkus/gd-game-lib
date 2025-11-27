@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:38:03.459Z",
+  "gameDetails": {
+    "id": "419789",
+    "name": "Rebellion without Rehearsal: Liberation – Part 2 (fan expansion for Android: Netrunner)",
+    "type": "boardgameexpansion",
+    "description": "Rebellion Without Rehearsal is the second half of the Liberation Cycle. It concludes the story began in The Automata Initiative, in which the passage of a law set to strip bioroids of personhood caused uproar throughout Brazil. As the protests turn violent, and only the President&rsquo;s signature is needed for this law to be enacted, the activists striving to protect bioroid rights make unlikely alliances and decide how far they&rsquo;re willing to go.\n\nRebellion Without Rehearsal contains full playsets of 65 new Netrunner cards, including three identities.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/iablh_d4oieZKTRBZFPXPw__original/img/RQ31QtJ4dAKuuQn1blnMPMUWlbQ=/0x0/filters:format(png)/pic8329806.png",
+    "thumbnail": "https://cf.geekdo-images.com/iablh_d4oieZKTRBZFPXPw__small/img/k-VWpNHICGMPU8R-v6sh5qudbEQ=/fit-in/200x150/filters:strip_icc()/pic8329806.png",
+    "link": "https://boardgamegeek.com/thing/419789",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2024",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "9.03333",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck Construction",
+      "Roles with Asymmetric Information",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fan Expansion",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Julien Chaput",
+      "Zoe Cohen",
+      "McGregor Crowley",
+      "June Valencia Cuervo"
+    ]
+  }
+}

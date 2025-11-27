@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:51:44.609Z",
+  "gameDetails": {
+    "id": "1002",
+    "name": "Cosmic Eidex",
+    "type": "boardgame",
+    "description": "Cosmic Eidex is an intriguing little trick-taking game for 3 players. The deck consists of 36 cards, 6 thru Ace, in four suits: Hearts (red), Lizard (green), Raven (black) and Stars (yellow). The Cosmic characters are the heart of the game, providing each player with a special Cosmic power. Each player draws one randomly at game start.\n\nIn Cosmic Eidex, the idea is to take either the most points or the least points (designated by the trump and rank of the cards that you take each hand), to earn a victory point. If in a hand, one player exceeds 100 card points, then the other two players get 1 victory point each. If one player takes all of the tricks, she receives 2 victory points. Seven victory points wins the game.\n\nCosmic Eidex is a mutation of the ages-old Swiss trick-taking card game Jass. Like Skat, the traditional German trick-taking card game, it is a three-player game.\n\nThe Cosmic-like powers each player is given are relatively weak. Most allow the player to break one of the rules once per game (before, during or after), some can be used multiple times. You don&rsquo;t need to know every characters' powers, just the powers of the three characters used in the current game. There are as many character/power possibilities as there are cards, but wise card play usually outweighs their influence.\n\n",
+    "image": "https://cf.geekdo-images.com/wn2WdTkoYjz2MtNPqeiKDA__original/img/PMYM426tChcZns7n73S-GZ2HOaU=/0x0/filters:format(png)/pic8944284.png",
+    "thumbnail": "https://cf.geekdo-images.com/wn2WdTkoYjz2MtNPqeiKDA__small/img/17CbP6LWX-DO2P7L0oWY76HrKSU=/fit-in/200x150/filters:strip_icc()/pic8944284.png",
+    "link": "https://boardgamegeek.com/thing/1002",
+    "minPlayers": "3",
+    "maxPlayers": "3",
+    "yearPublished": "1998",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.87859",
+    "averageWeight": "2.7333",
+    "boardGameRank": "5408",
+    "mechanics": [
+      "Trick-taking",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Urs Hostettler"
+    ]
+  }
+}

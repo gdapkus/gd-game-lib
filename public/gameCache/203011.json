@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:12:48.905Z",
+  "gameDetails": {
+    "id": "203011",
+    "name": "Massive Darkness: Heroes & Monster Set – Bloodmoon Assassins vs The Hellephant",
+    "type": "boardgameexpansion",
+    "description": "Expansion for Massive Darkness containing:\n\n3 Hero figures (Victoria, Sylvan and Valerie);\n1 Large Hellephant figure;\n5 Cards;\n1 Bloodmoon Assassin Class Sheet Pad.\n\n",
+    "image": "https://cf.geekdo-images.com/fuEgHryGfMLOpjV_2V_F-A__original/img/wD9U57Tb1pVoWsGJSjZJWYEW8NI=/0x0/filters:format(jpeg)/pic3687960.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fuEgHryGfMLOpjV_2V_F-A__small/img/joXpqmDM71zbUhUkT3V1xsAK0lo=/fit-in/200x150/filters:strip_icc()/pic3687960.jpg",
+    "link": "https://boardgamegeek.com/thing/203011",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.72303",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Raphaël Guiton",
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult"
+    ]
+  }
+}

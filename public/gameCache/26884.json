@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:02:20.612Z",
+  "gameDetails": {
+    "id": "26884",
+    "name": "Escalation!",
+    "type": "boardgame",
+    "description": "Players in Escalation! want to collect as few cards as possible. Each player starts with a hand of six cards from a deck that contains cards numbered 1-13, three jokers that can be worth 1-7, and two \"pass\" cards. One player opens by playing a single card or multiple cards with the same value, then calls out the sum of the cards played. The next player &mdash; and each player after that &mdash; must play cards to surpass that sum or else collect all of the cards played so far, after which they open with one or more cards. As soon as one player is out of cards, everyone else adds their cards in hand to the cards that they've collected and tallies their score.\n\nAfter playing as many rounds as the number of players at the table, whoever has the lowest score wins!\n\n",
+    "image": "https://cf.geekdo-images.com/tZFY4X7Z4DP9T1-e1VPzPg__original/img/wMu0Ci5Tg4jGwlVcwWtOA2DDlI8=/0x0/filters:format(jpeg)/pic180768.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tZFY4X7Z4DP9T1-e1VPzPg__small/img/U3TPIQiDYOjmBrlXVmETwol1ig0=/fit-in/200x150/filters:strip_icc()/pic180768.jpg",
+    "link": "https://boardgamegeek.com/thing/26884",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.82062",
+    "averageWeight": "1.0667",
+    "boardGameRank": "9821",
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

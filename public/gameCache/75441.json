@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:57:52.601Z",
+  "gameDetails": {
+    "id": "75441",
+    "name": "Master of Economy",
+    "type": "boardgame",
+    "description": "Financial simulator.\nPlayers start the game by managing their corporations (1 of 4) and using them as a tool for increasing the value of private property (like countries in \"Imperial\"). By effective speculation on the stock market, a player may take control of more than one corporation. Proper corporation management is preferable but not the most essential.\nThe rules attempt to simulate real conditions of business competition and relationships between shareholders.\n\nTHERE IS NO LUCK FACTOR.\nInternal balance discourages to play in a relation of 2(3) players versus 1.\n\nMost of the rules are quite easy and intuitive. It is the most difficult to use the rules effectively by good planning and predicting opponents&rsquo; plans.\nPlayers manage their corporations by investing in new factories and trading produced goods to earn money (like in many other games). The point is what the players do with earned money. They can re-invest it to make their corporations earn more during next phase or try to make pressure on another player by buying shares of his/her corporation. The player who has the biggest number of shares can be elected by voting as a new leader of the corporation for the next stage. Even if you don`t have enough shares to take control over another player`s firm, the investment can be quite beneficiary because it can give you some profit (if that firm is managed well) or enforce your opponent to use the corporation money for defending, which makes his final result worse than could be achieved without your pressure.\n\nOf course, the more players (max 4), the more fun there is during voting phase when all the shareholders, who are going to manage the corporation in the next stage, vote.\n\nThe game tries to extract maximum advantage of double circulation of money you can find in the \"Imperial\". Players have money and corporations have money. So, what is new then? Besides the players, also the corporations can be shareholders and they all (corporations and players) vote for new leaders. It means that if you want to keep control over a corporation you had started with, you can, for instance, first take control over some weaker corporation which has some shares of yours. The best defense is attack, isn`t it? ;) The only weapon in this war is money.\n\nThere are some tools of defense, so taking control over experienced opponent`s corporation is rather difficult, though possible. When an experienced player plays versus a beginner, he/she shouldn`t have a problem with it. Moreover, keeping control of the corporation is useful, because it is a way of generating money for the leader, although speculating by buying and selling shares is a bit more efficient. It is the best to go both ways at the same time, choosing and changing your engagement alternately.\n\nWell, it is also possible to play without any corporation and increase the value of private property only by playing as a stock market profiteer, but this way is recommended only for very experienced players.\n\nThere is a fixed variant of playing 2 vs. 2.\n\n",
+    "image": "https://cf.geekdo-images.com/8ySf_0l6onvNDh1VPVEFsw__original/img/6cDiPs5s8NukYkPNtpp-Dxie8fk=/0x0/filters:format(jpeg)/pic767151.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8ySf_0l6onvNDh1VPVEFsw__small/img/csCSyNHmOlYLDx0prqXu7VKvGAU=/fit-in/200x150/filters:strip_icc()/pic767151.jpg",
+    "link": "https://boardgamegeek.com/thing/75441",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.78129",
+    "averageWeight": "4.0667",
+    "boardGameRank": "9906",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Hand Management",
+      "Simulation",
+      "Stock Holding",
+      "Team-Based Game",
+      "Trading",
+      "Variable Phase Order",
+      "Voting"
+    ],
+    "categories": [
+      "Economic",
+      "Educational",
+      "Industry / Manufacturing",
+      "Math",
+      "Negotiation"
+    ],
+    "designers": [
+      "Andrzej Kurek"
+    ]
+  }
+}

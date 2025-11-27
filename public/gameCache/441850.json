@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:09:11.112Z",
+  "gameDetails": {
+    "id": "441850",
+    "name": "Echoes of Time",
+    "type": "boardgame",
+    "description": "In a fantastic and untouched land, four factions govern different aspects of this world: the ocean depths with their dark abysses, the gentle hills with windy meadows and protected forests, the vast and endless expanses of the night skies, and the mysterious and unexplored underground tunnels.\n\nAn ancient and powerful energy flows through these places, concentrating in hidden, inexhaustible sources. Controlling this power allows one to bend to their will life's most important aspect: time, and the rhythms it imprints on the environment and every being.\n\nEchoes of Time is a strategic game for 2-4 players in which you attempt to create the best-equipped fellowship of characters from different factions to conquer the sources of power. Try to control and modify the flow of time to outshine your opponents. The game includes more than one hundred cards with unique effects that you will use to build a new deck each game, and a \"sliding tile\" system guides you in managing the time needed for your cards to become usable, while simultaneously controlling the activation rhythm of their effects.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/rU_Ce-FjPz26aGxMyHgyag__original/img/nB12Im1PAQUxlmhFjNJu9aqGfHM=/0x0/filters:format(jpeg)/pic8791732.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rU_Ce-FjPz26aGxMyHgyag__small/img/Fyu_ROcaOPdOSdUt_c9E8AWG8Pk=/fit-in/200x150/filters:strip_icc()/pic8791732.jpg",
+    "link": "https://boardgamegeek.com/thing/441850",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.32333",
+    "averageWeight": "2.6",
+    "boardGameRank": "6154",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Tags"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Roberto Pellei"
+    ]
+  }
+}

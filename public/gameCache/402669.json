@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:31:25.435Z",
+  "gameDetails": {
+    "id": "402669",
+    "name": "Sand",
+    "type": "boardgame",
+    "description": "People refer to this vast place only as the desert since no one remembers what was here before. The golden age of human beings has long passed. Now there is only sand, and the only hope is in the humidity.\n\nTravelers cross the desert that stretches from the slopes of the Akaishi Mountains to the cliffs of Seaclaw. Half-ruined ancient cities are home to the last human communities struggling to survive by foraging for what little green remains standing. These desert travelers transport goods on the backs of their caterpillars. Although their only goal is to make as much money as they can, at the same time and in a more or less deliberate way, they are helping to bring life back to the desert by carrying small plants from the artificial greenhouses of the cities to the most remote corners of this ocean of sand.\n\nDesigned by Ariel Di Costanzo and Javier Pelizzari and illustrated by Ernest Sala, Sand is a game with a main mechanism of pick-up-and-deliver that can be enjoyed alone or in groups of up to four players in games of about 120 minutes long. Players have to earn as much gold as possible after six rounds (five in a four-player game) to win.\n\nIn Sand, players put themselves in the shoes of these intrepid desert travelers who travel the paths of the board and visit the different towns. They collect goods to take them to other places and thus earn gold for the transport service. They cross the dunes on the backs of their faithful caterpillars, which, cared for, will grow and help players complete their tasks more effectively. Along the way they will be joined by helpful companions and be entrusted with missions that, if completed, will bring good benefits at the end of the journey. Help the plants take root again, and perhaps there is still some hope for this desolate place...\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/jAbc4LK0aCkV-JDLuZAmog__original/img/HoiYhXk8JCcanlWbLrtfF3ffvtA=/0x0/filters:format(jpeg)/pic7774173.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jAbc4LK0aCkV-JDLuZAmog__small/img/G_o7960_pMQaHjMFVVntK0m2NyQ=/fit-in/200x150/filters:strip_icc()/pic7774173.jpg",
+    "link": "https://boardgamegeek.com/thing/402669",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.72034",
+    "averageWeight": "3.2969",
+    "boardGameRank": "4495",
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "Dice Rolling",
+      "Different Dice Movement",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Resource to Move",
+      "Set Collection",
+      "Tech Trees / Tech Tracks"
+    ],
+    "categories": [
+      "Transportation"
+    ],
+    "designers": [
+      "Ariel Di Costanzo",
+      "Javier Pelizzari"
+    ]
+  }
+}

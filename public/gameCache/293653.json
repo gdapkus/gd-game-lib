@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:02:15.558Z",
+  "gameDetails": {
+    "id": "293653",
+    "name": "10 Nights",
+    "type": "boardgame",
+    "description": "A rural house, a party, murder and too many witnesses. Isolated by storm by 10 nights..What will the murdered to do?, What will the rest do?\n\nThe killer must kill 4 witnesses before the 10 nights have passed to win the game, and the innocents try to find out before the witnesses die.\n\n10 Nights is a hidden roles game for 12+ years, 3-8 players and 10 minutes of duration.\n\nThis game contain  one gameboard, tokens and cards the characters and APP for mobile that control day time and night time.\n\nUna casa rural, una fiesta, asesinatos y demasiados testigos. Aislado por la tormenta por 10 noches ... &iquest;Qu&eacute; har&aacute; el asesino ?, &iquest;Qu&eacute; har&aacute; el resto?\n\nEl asesino debe matar a 4 testigos antes de que pasen las 10 noches para ganar el juego, y los inocentes intentar descubrirlo antes de que mueran los testigos.\n\n10 Nights es un juego de roles ocultos para mayores de 12 a&ntilde;os, 3-8 jugadores y 10 minutos de duraci&oacute;n.\n\nEste juego contiene un tablero de juego, fichas y tarjetas de los personajes y la aplicaci&oacute;n para dispositivos m&oacute;viles que controlan el d&iacute;a y la noche.\n\n",
+    "image": "https://cf.geekdo-images.com/5M5lDEcXce6Xnl-ubN3MfQ__original/img/azo88pEDXi6SDFq2OPkO227hvA8=/0x0/filters:format(jpeg)/pic6417227.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5M5lDEcXce6Xnl-ubN3MfQ__small/img/MlMk35RffG_9wC4Xihq_piZqDVU=/fit-in/200x150/filters:strip_icc()/pic6417227.jpg",
+    "link": "https://boardgamegeek.com/thing/293653",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2020",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": null,
+    "averageRating": "5.74964",
+    "averageWeight": "1",
+    "boardGameRank": "24971",
+    "mechanics": [
+      "Hidden Roles"
+    ],
+    "categories": [
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Ares Fernández",
+      "Alex Montilla",
+      "Víctor Navarro",
+      "Marc Solís",
+      "Carles Verdú"
+    ]
+  }
+}

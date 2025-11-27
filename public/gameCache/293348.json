@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:36:48.879Z",
+  "gameDetails": {
+    "id": "293348",
+    "name": "Flesh and Blood",
+    "type": "boardgame",
+    "description": "Welcome to Flesh and Blood, the new hero-centric fantasy trading card game, designed for incredible constructed, booster draft, and sealed deck play.\n\nPlayers setup the game with a chosen character, weapon(s), and equipment. Players take turns attacking with their weapons and/or using action cards which are played by \"pitching\" (discarding) cards to pay resource costs. Attacks and defense reactions are placed on a \"chain\" (queue) and resolved with damage inflicted based on the difference of values. Play continues until a player reaches 0 health with the opponent declared the victor.\n\n",
+    "image": "https://cf.geekdo-images.com/3uW8k-tB-Ke0R4mIAENBSA__original/img/qong19iddzVK0b9hWMYCuXKhrb8=/0x0/filters:format(png)/pic5871917.png",
+    "thumbnail": "https://cf.geekdo-images.com/3uW8k-tB-Ke0R4mIAENBSA__small/img/zReK5SSgO1Z3Rrh26dMXrMtE-Fc=/fit-in/200x150/filters:strip_icc()/pic5871917.png",
+    "link": "https://boardgamegeek.com/thing/293348",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2019",
+    "playingTime": "50",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "50",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.89922",
+    "averageWeight": "3.5897",
+    "boardGameRank": "2303",
+    "mechanics": [
+      "Deck Construction",
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Collectible Components",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Jason Chung",
+      "Chris Gehring",
+      "James White"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T19:31:33.824Z",
+  "gameDetails": {
+    "id": "21550",
+    "name": "Blokus Trigon",
+    "type": "boardgame",
+    "description": "Blokus Trigon is an abstract strategy game from the makers of Blokus. The board pieces have changed from square to triangular. Game play is similar to Blokus, as players try to get rid of all their pieces.\n\nThere is a solitaire version where one player tries to get rid of all the pieces in a single sitting.\n\nComponents:\n\nHexagonal playing board with 486 triangles on the board\n4 sets of 22 pieces in red, blue, green and yellow\n\n     1 piece made up of one triangle.\n     1 piece made up of two triangles.\n     1 piece made up of three triangles.\n     3 pieces made up of four triangles.\n     4 pieces made up of five triangles.\n     12 pieces made up of six triangles.\n\n\n",
+    "image": "https://cf.geekdo-images.com/aPTEkOgzqLH4v-kY4M0zXQ__original/img/n5kvQb3ZR8Ga_s1_0imfrNZHHyw=/0x0/filters:format(jpeg)/pic5412064.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aPTEkOgzqLH4v-kY4M0zXQ__small/img/6Lo7AbPOmmRDpFUkBCa6RwMR9Ws=/fit-in/200x150/filters:strip_icc()/pic5412064.jpg",
+    "link": "https://boardgamegeek.com/thing/21550",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2006",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.88979",
+    "averageWeight": "1.9231",
+    "boardGameRank": "1814",
+    "mechanics": [
+      "Enclosure",
+      "Grid Coverage",
+      "Hand Management",
+      "Team-Based Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Territory Building"
+    ],
+    "designers": [
+      "Bernard Tavitian"
+    ]
+  }
+}

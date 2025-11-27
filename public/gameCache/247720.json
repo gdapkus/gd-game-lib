@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:48:19.151Z",
+  "gameDetails": {
+    "id": "247720",
+    "name": "Agricola: Bubulcus Deck",
+    "type": "boardgameexpansion",
+    "description": "Agricola: Bubulcus Deck contains 120 occupation and minor improvement cards for use with the revised edition of Agricola.\n\n",
+    "image": "https://cf.geekdo-images.com/u5Jrl-NP9emz-lFtAr7paQ__original/img/1vPMGSDnsH_y5TDDADP9Xm7YPY4=/0x0/filters:format(jpeg)/pic4268675.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/u5Jrl-NP9emz-lFtAr7paQ__small/img/cWuP-J6t1BntRsnqiULHw1CE0HY=/fit-in/200x150/filters:strip_icc()/pic4268675.jpg",
+    "link": "https://boardgamegeek.com/thing/247720",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.23282",
+    "averageWeight": "3.6",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Enclosure",
+      "Hand Management",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Farming"
+    ],
+    "designers": [
+      "Uwe Rosenberg"
+    ]
+  }
+}

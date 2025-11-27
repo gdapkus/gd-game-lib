@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T19:33:26.349Z",
+  "gameDetails": {
+    "id": "219787",
+    "name": "Champions of Midgard: The Dark Mountains",
+    "type": "boardgameexpansion",
+    "description": "The Dark Mountains, the first expansion for Champions of Midgard, extends your adventures to distant lands, allowing you to trek into the dark mountains where the Bergrisar live and wage constant battle with the Archer Clans of the North. Fight fearsome mountain giants and liberate archers who join your cause. Once freed, you will find the archers to be worthy allies, rarely missing and being exceptional hunters. Enemies you face will fall easily before their sure shots.\n\nChampions of Midgard: The Dark Mountains adds a ton of new content to the base game, including the ability to play with up to five players.\n\nThe expansion includes new land journeys, a new enemy type (Bergrisar), more powerful Trolls and Draugr, as well as additional rune cards, market tiles, and more.\n\n",
+    "image": "https://cf.geekdo-images.com/cMvAO5fCFOolbfdtN_drVQ__original/img/tYb6833-j6Uc38hvwjS8zqXho6E=/0x0/filters:format(jpeg)/pic3509833.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/cMvAO5fCFOolbfdtN_drVQ__small/img/ZDev18ffsN-JnOpB2bj8_poJYX4=/fit-in/200x150/filters:strip_icc()/pic3509833.jpg",
+    "link": "https://boardgamegeek.com/thing/219787",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2017",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.8671",
+    "averageWeight": "2.3824",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Set Collection",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Fighting",
+      "Medieval",
+      "Mythology"
+    ],
+    "designers": [
+      "Ole Steiness"
+    ]
+  }
+}

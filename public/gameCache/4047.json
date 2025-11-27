@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:16:23.614Z",
+  "gameDetails": {
+    "id": "4047",
+    "name": "Across 5 Aprils",
+    "type": "boardgame",
+    "description": "Across 5 Aprils is a two-player Tactical level board wargame covering five battles of the American Civil War: Bull Run, Pea Ridge, Shiloh, Gettysburg, and Bentonville.\n\nEach battle is a separate wargame unto itself, with its own set of counters and map - however the basic system applies to all the battles. Players pull a chit to activate certain formations which can then move. If the \"Combat\" chit is pulled, then all combats are resolved. Formations and Unit size varies from game to game, ranging from division to corps for formations and regiment to brigade for unit.\n\n",
+    "image": "https://cf.geekdo-images.com/UGRS7fiKNPGzcuysk_zTfg__original/img/zojQJNDN65vZXQ9esq1hnVJLk6Y=/0x0/filters:format(jpeg)/pic292729.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UGRS7fiKNPGzcuysk_zTfg__small/img/Q8Nh_xbb9Lk3oCJGIzZyZ05UHGQ=/fit-in/200x150/filters:strip_icc()/pic292729.jpg",
+    "link": "https://boardgamegeek.com/thing/4047",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1992",
+    "playingTime": "360",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.03676",
+    "averageWeight": "2.3443",
+    "boardGameRank": "5058",
+    "mechanics": [
+      "Chit-Pull System",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Ratio / Combat Results Table",
+      "Simulation",
+      "Zone of Control"
+    ],
+    "categories": [
+      "American Civil War",
+      "Civil War",
+      "Post-Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "Eric Lee Smith"
+    ]
+  }
+}

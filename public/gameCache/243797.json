@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:13:01.271Z",
+  "gameDetails": {
+    "id": "243797",
+    "name": "Mezo",
+    "type": "boardgame",
+    "description": "It is a time of blood, of ritual, of war. Gods walk among the tribes, each hungering for the devotion that gives them form. Though the gods are many, only one will endure the ages above all others.\n\nMezo is an innovative game of area control for 2-4 players inspired by Mayan mythology. You will control a powerful god and it&rsquo;s tribe of followers. These tribes will clash for dominance, build step pyramids, and make sacrifices all in the name of their god. Featuring massive god miniatures, each with vastly asymmetrical strategies, as well as numerous ways for you to achieve victory, Mezo is a unique take on the area control genre.\n\nKey Points\n- Innovative and intuitive area control with multiple ways to win.\n- Massive Mayan god figures, each with their own unique strategies and actions.\n- A rich Mayan theme, beautiful artwork, and engaging gameplay.\n\n",
+    "image": "https://cf.geekdo-images.com/DWheKudRHpee7htoBaHkEQ__original/img/OLHYoV2AnPutvGhSlg_HbOxlADc=/0x0/filters:format(png)/pic4047252.png",
+    "thumbnail": "https://cf.geekdo-images.com/DWheKudRHpee7htoBaHkEQ__small/img/NIOZdzzhDIOVuRUL3goDDxPmBjo=/fit-in/200x150/filters:strip_icc()/pic4047252.png",
+    "link": "https://boardgamegeek.com/thing/243797",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.15532",
+    "averageWeight": "3.2667",
+    "boardGameRank": "2979",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Miniatures",
+      "Mythology"
+    ],
+    "designers": [
+      "John Clowdus"
+    ]
+  }
+}

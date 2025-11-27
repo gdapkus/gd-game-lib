@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:07:49.839Z",
+  "gameDetails": {
+    "id": "380165",
+    "name": "Next Station: Tokyo",
+    "type": "boardgame",
+    "description": "Travel to the city of Tokyo, Japan, and compete to redraw their metro plans in order to meet the tourist challenges of tomorrow.\n\nEach turn in Next Station: Tokyo, you reveal the next station card and draw a subway line on your map. You have to optimize your network to collect a maximum number of stamps and stay connected to the central green loop to earn as many points as possible.\n\n",
+    "image": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc=/0x0/filters:format(jpeg)/pic7531551.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__small/img/EB4T2fjCN4W0bhirADaO8xDWfQI=/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+    "link": "https://boardgamegeek.com/thing/380165",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "30",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.16201",
+    "averageWeight": "1.8235",
+    "boardGameRank": "1769",
+    "mechanics": [
+      "Connections",
+      "End Game Bonuses",
+      "Line Drawing",
+      "Network and Route Building",
+      "Paper-and-Pencil"
+    ],
+    "categories": [
+      "City Building",
+      "Trains"
+    ],
+    "designers": [
+      "Matthew Dunstan"
+    ]
+  }
+}

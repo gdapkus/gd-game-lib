@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:49:32.017Z",
+  "gameDetails": {
+    "id": "12896",
+    "name": "La Bataille des Quatre Bras",
+    "type": "boardgame",
+    "description": "The second boxed set detailing the climactic moments of Napoleon's last 100 days as Emperor. It simulates the desperate struggle that ensued on the Brussels' highway at the crossroads of Quatre Bras. The game box includes one 34x22\" map and nearly 600 multi-coloured playing counters, plus standard rules, exclusive rules, charts and organisational displays.\n\nThe game is ideal for one-on-one play or solitaire study, and is fully compatible with La Bataille de Ligny for a grand simulation of the events of June 16th 1815.\n\nscale = 100 m/hex; \ntime = 20 min/GT; \nstrength = 50-100 men/SP (Regimental/Brigade Size)\n\n",
+    "image": "https://cf.geekdo-images.com/ZDx5Lj6K4517p877rxWJew__original/img/GqIZu9tahrvyXaPhZVnm4tU92EY=/0x0/filters:format(jpeg)/pic100647.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZDx5Lj6K4517p877rxWJew__small/img/GAIYr_0Z8yMe6aPkXyawr7XkGMc=/fit-in/200x150/filters:strip_icc()/pic100647.jpg",
+    "link": "https://boardgamegeek.com/thing/12896",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "1991",
+    "playingTime": "480",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "480",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.98893",
+    "averageWeight": "4.0667",
+    "boardGameRank": "4840",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "Ed Wimble"
+    ]
+  }
+}

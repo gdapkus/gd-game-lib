@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T19:57:37.322Z",
+  "gameDetails": {
+    "id": "121288",
+    "name": "Dixit: Journey",
+    "type": "boardgame",
+    "description": "Dixit: Journey features the same basic game play as Dixit: Each round one player takes on the role of Storyteller, choosing one card from their hand, then telling a story, singing a ditty or otherwise doing something that in their opinion is associated with the played card. Each other player then chooses one card in their own hand and gives it to the Storyteller in secret. These cards are shuffled and revealed, then players vote on which card was played by the Storyteller.\n\nIf no one or everyone votes for the Storyteller, then they receive no points; if they received some votes but not all the votes, they score based on the number of votes received. Each player who submitted a correct vote or who received a vote on their card submission also scores. After a certain number of rounds, the player with the most points wins.\n\nDixit: Journey differs from Dixit in a number of ways, starting with a simplified scoring board that doesn't have players moving around a track in the bottom of the game box. Instead the scoring track is on its own board, and this game board includes a summary of the rules as well as numbered places to put the cards each round to facilitate voting. The game rules  have been revised to make the game easier to learn, while keeping game play the same.\n\nSimilar to:\n\n    Dixit 3: Journey &ndash; In Europe, the cards from Dixit: Journey will be packaged as an expansion and not sold as a complete game.\n\n\n",
+    "image": "https://cf.geekdo-images.com/HX0lvc-JiPzf7Nrqp_N-Fw__original/img/9qsDO-TCNWxVxNZEbgLX08aYeJc=/0x0/filters:format(jpeg)/pic1387599.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HX0lvc-JiPzf7Nrqp_N-Fw__small/img/iInoc-itpaO_STBI1QVQ0B-WWME=/fit-in/200x150/filters:strip_icc()/pic1387599.jpg",
+    "link": "https://boardgamegeek.com/thing/121288",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2012",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "7.38774",
+    "averageWeight": "1.2556",
+    "boardGameRank": "847",
+    "mechanics": [
+      "Acting",
+      "Simultaneous Action Selection",
+      "Storytelling",
+      "Targeted Clues",
+      "Voting"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "Jean-Louis Roubira"
+    ]
+  }
+}

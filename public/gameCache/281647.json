@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T21:17:09.710Z",
+  "gameDetails": {
+    "id": "281647",
+    "name": "Stellaris: Infinite Legacy",
+    "type": "boardgame",
+    "description": "The Galaxy is vast and full of wonder\n\nAcademy Games introduces the 4X board game based on the hit video game Stellaris. Experience everything you love about Stellaris in a fast paced 2 hour board game for 2 to 4 players (up to 6 with the Empires Expansion).\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/nvnrUR5YroWa72kqZyt4Tw__original/img/ctM4zp4Vqvd4x1dzue3IrT9Svew=/0x0/filters:format(jpeg)/pic5978543.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nvnrUR5YroWa72kqZyt4Tw__small/img/lku-1E9jCTLke_Ywmk3LmlBbS0A=/fit-in/200x150/filters:strip_icc()/pic5978543.jpg",
+    "link": "https://boardgamegeek.com/thing/281647",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "150",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "4.6772",
+    "averageWeight": "3.8261",
+    "boardGameRank": "29071",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Modular Board",
+      "Simultaneous Action Selection",
+      "Trading",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Civilization",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building",
+      "Video Game Theme"
+    ],
+    "designers": [
+      "Gunter Eickert"
+    ]
+  }
+}

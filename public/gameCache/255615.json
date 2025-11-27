@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:28:06.801Z",
+  "gameDetails": {
+    "id": "255615",
+    "name": "GoodCritters",
+    "type": "boardgame",
+    "description": "It's the most anticipated moment of any heist: time to split the loot. Of course, everybody trusts the boss to divide everything evenly, right? But will the boss be even-handed and make sure that every \"made critter\" gets a piece? Maybe the boss will pay off only some of them and keep the rest of it...\n\nGoodCritters is a game for 4-8 criminal critters who are pulling off heists and fighting over the loot! Whoever is chosen as the boss can distribute the loot from the heist however they desire, but it's the crew that has the final say. If the crew doesn't like the split, they might just tell the boss to take a hike and put some other critter in charge! In the end, the critter that collects the most valuable stash of loot wins!\n\n",
+    "image": "https://cf.geekdo-images.com/3dcCBokxRf3Jy1GuZlZm1Q__original/img/zHmpudaPW2QMOzzquPVDxxX0CSQ=/0x0/filters:format(jpeg)/pic4783029.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3dcCBokxRf3Jy1GuZlZm1Q__small/img/bhLAU5iY8tF-BcrRn-xt7JrmUZI=/fit-in/200x150/filters:strip_icc()/pic4783029.jpg",
+    "link": "https://boardgamegeek.com/thing/255615",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2018",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "6.98723",
+    "averageWeight": "1.4359",
+    "boardGameRank": "2470",
+    "mechanics": [
+      "Bribery",
+      "Simultaneous Action Selection",
+      "Voting"
+    ],
+    "categories": [
+      "Animals",
+      "Bluffing",
+      "Negotiation",
+      "Party Game"
+    ],
+    "designers": [
+      "Fabian Zimmermann"
+    ]
+  }
+}

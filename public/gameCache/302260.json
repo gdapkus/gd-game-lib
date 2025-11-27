@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:47:51.977Z",
+  "gameDetails": {
+    "id": "302260",
+    "name": "Abandon All Artichokes",
+    "type": "boardgame",
+    "description": "Abandon All Artichokes isn't your garden-variety card game!\n\nA bumper-crop of prickly produce has overtaken your patch, and there's only one choice: abandon all artichokes!  Prune your deck by harvesting fresh vegetables, each with a special power that lets you swap, discard, or compost cards. You need luck, strategy, and a green thumb to grow a winning hand!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/qwFz_zhMjIxRjgAIx__8WQ__original/img/pxX6W95d3V38ZuynABAtorApTc8=/0x0/filters:format(png)/pic5335069.png",
+    "thumbnail": "https://cf.geekdo-images.com/qwFz_zhMjIxRjgAIx__8WQ__small/img/PPRNQrHRGq48IhY6PlOXg95aYUw=/fit-in/200x150/filters:strip_icc()/pic5335069.png",
+    "link": "https://boardgamegeek.com/thing/302260",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.58277",
+    "averageWeight": "1.2568",
+    "boardGameRank": "1929",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Race"
+    ],
+    "categories": [
+      "Card Game",
+      "Farming"
+    ],
+    "designers": [
+      "Emma Larkins"
+    ]
+  }
+}

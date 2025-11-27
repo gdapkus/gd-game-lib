@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:29:02.426Z",
+  "gameDetails": {
+    "id": "399806",
+    "name": "Karvi",
+    "type": "boardgame",
+    "description": "As a Jarl, you travel the northern seas to achieve immortal glory. Under the sails of your own ship, which is built like a karve (Karvi), you&lsquo;ll lead a crew, trade with foreign cultures and plunder other lands.\n\nStrengthen the skills of your crew by upgrading your ship and hiring stronger warriors. Whether you wish to establish new trade routes to secure rare goods or battle distant settlements to plunder their riches, your path to glory is yours to choose. But make sure to remember to stock up on beer and bread, so you have enough supplies to outmaneuver the competing clans.\n\nSuccessful planning will make you renowned throughout the lands, and secure your place in Norse legend as a fearless Jarl.\n\n&mdash;description from the publisher\n\nAls Jarl bereist du die n&ouml;rdlichen Meere, um unsterblichen Ruhm zu erlangen. Unter dem Segel deines eigenen Schiffs in der Bauart einer Karve (Karvi) f&uuml;hrst du eine Crew an, handelst mit fremden Kulturen und pl&uuml;nderst L&auml;ndereien.\n\nVerst&auml;rke die F&auml;higkeiten deiner Besatzung, indem du dein Schiff ausbaust und immer st&auml;rkere Kriegerinnen anheuerst. Ob du neue Handelsrouten etablierst, um dir seltene Handelsg&uuml;ter zu sichern oder ob du gegen ferne Siedlungen in den Kampf ziehst und ihre Reicht&uuml;mer pl&uuml;nderst, entscheidest du. Doch denke auch daran, dich mit gen&uuml;gend Vorr&auml;ten an Bier und Brot\neinzudecken, um die konkurrierenden Clans auszustechen.\n\nNur wenn du erfolgreich taktierst, wird man deinen Namen schlie&szlig;lich an gen&uuml;gend Orten kennen, um als Jarl in die nordischen Legenden einzugehen.\n\n&mdash;description from the publisher (German)\n\n",
+    "image": "https://cf.geekdo-images.com/RUVs6YVGqjSnYtURlWe6MQ__original/img/LgE5aFAovO-sT11tbDLO7Dai1QY=/0x0/filters:format(jpeg)/pic7695101.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RUVs6YVGqjSnYtURlWe6MQ__small/img/hVU0QwedFZWsjbyylL-NDcfP_F0=/fit-in/200x150/filters:strip_icc()/pic7695101.jpg",
+    "link": "https://boardgamegeek.com/thing/399806",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.24552",
+    "averageWeight": "3.4082",
+    "boardGameRank": "3187",
+    "mechanics": [
+      "Point to Point Movement",
+      "Resource to Move",
+      "Track Movement",
+      "Turn Order: Time Track",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration"
+    ],
+    "designers": [
+      "Torgeir Tjong"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T19:31:19.531Z",
+  "gameDetails": {
+    "id": "142335",
+    "name": "2038: Tycoons of the Asteroid Belt Expansion Set",
+    "type": "boardgameexpansion",
+    "description": "This long lost expansion is now seeing moonlight. This Print and Play expansion includes: 2 new Corporations: Onsite Refining and Mining Robotics (with rules altering certificate holding limits), alternative private companies setup, 2 new hexes.\n\n",
+    "image": "https://cf.geekdo-images.com/sEXWRGbbk-IevXpT3MUO7A__original/img/OC4YQFdZ9LAbqtDs4_z9ScbZquY=/0x0/filters:format(png)/pic1701170.png",
+    "thumbnail": "https://cf.geekdo-images.com/sEXWRGbbk-IevXpT3MUO7A__small/img/CB7wOIw--Dztu5N6RiVChAoFTXc=/fit-in/200x150/filters:strip_icc()/pic1701170.png",
+    "link": "https://boardgamegeek.com/thing/142335",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2013",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": null,
+    "averageRating": "7.87353",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Print & Play",
+      "Science Fiction",
+      "Trains"
+    ],
+    "designers": [
+      "Thomas Lehmann"
+    ]
+  }
+}

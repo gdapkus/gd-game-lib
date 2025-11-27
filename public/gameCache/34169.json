@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:59:56.185Z",
+  "gameDetails": {
+    "id": "34169",
+    "name": "Potion-Making: Practice",
+    "type": "boardgame",
+    "description": "In the card game Potion-Making: Practice, players take on the roles of apprentice mages studying in a Magic School. Each player tries to gather the necessary components in order to produce magic elixirs, powders, talismans and even magical creatures. For each completed creation the player scores points &ndash; and the harder the task, the more points a player scores.\n\nThe deck consists of 76 cards, with each card featuring one of 16 elements on its bottom half and a magic formula or spell on its top half. Each player start the game with four cards in hand, and four cards are laid face-up in the \"Desk of Elements\"; players can use these public elements to complete a formula in hand.\n\nOn a turn, a player draws until he has five cards in hand, then he plays one or more cards from his hand. He can:\n\n\n    Discard a card onto the Desk of Elements; he scores one point if that element is not currently present on the Desk.\n    Take elements on the Desk to complete a formula on a card in his hand. He scores points equal to the number shown on the formula, then places the element cards face-down over the bottom half of the card so that all players can see the formula. His turn then ends.\n    Use one or more previously completed formulas, along with any elements required and available on the Desk, to complete a more difficult formula. He can use formulas in front of himself or other players to do this. Any elements under formulas reused this way are returned to the Desk. Any opponent who loses one or more formulas this way scores half the points of the more difficult formula just completed. The player's turn then ends.\n    Plays a spell from his hand to take a card from the desk into his hand, to decompose one completed formula or to transform one formula into another. After playing a spell, he must take another action, which could be playing another spell.\n\n\nAfter the deck runs out, players continue to take turns until no one has cards remaining in hand. The player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/EASAZsc1BrSqzU6vBvbvDw__original/img/HeqtP9cH-o4oDfiZe-lDsn9saww=/0x0/filters:format(jpeg)/pic1048351.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EASAZsc1BrSqzU6vBvbvDw__small/img/8DVyAkjMYSIx7WrddMD9xciIun0=/fit-in/200x150/filters:strip_icc()/pic1048351.jpg",
+    "link": "https://boardgamegeek.com/thing/34169",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2005",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.081",
+    "averageWeight": "1.7143",
+    "boardGameRank": "7372",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Sergey Machin"
+    ]
+  }
+}

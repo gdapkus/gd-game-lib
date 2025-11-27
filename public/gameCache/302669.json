@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:12:07.395Z",
+  "gameDetails": {
+    "id": "302669",
+    "name": "Marvel United: Rise of the Black Panther",
+    "type": "boardgameexpansion",
+    "description": "Despite their technological supremacy and widespread prosperity, the kingdom of Wakanda finds itself embroiled in a struggle as old as time itself: a battle for the throne. Erik Killmonger&rsquo;s oath of vengeance against the Wakandan king&rsquo;s bloodline has fallen on T&rsquo;Challa, the current Black Panther. Not content to simply eliminate the Black Panther and his allies, Killmonger wishes to seize Wakanda for himself. To that end, he seeks to radicalize the population against their king, smuggling weapons and mercenaries into the country in preparation for a vast uprising that would place Killmonger on the throne.\n\nBut the Black Panther has allies in the form of Princess Shuri and the Winter Soldier. Shuri&rsquo;s weapons and gadgets can turn the tide in any battle, and no one knows more about fighting a subversive campaign than the Winter Soldier. Yet, even this formidable trio will be hard-pressed to prevent Killmonger&rsquo;s master plan.\n\nAs the war for the heart of Wakanda unfolds, only the most skilled and most daring will rise in defense of the throne!\n\n",
+    "image": "https://cf.geekdo-images.com/9oQJGvSl2QcVucUuN5nEjA__original/img/0p1v8kdeWBv3tPM44avTVOpPK7Y=/0x0/filters:format(jpeg)/pic5263265.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9oQJGvSl2QcVucUuN5nEjA__small/img/LX7-iLy_QxBhzy4MedNzIKmZfow=/fit-in/200x150/filters:strip_icc()/pic5263265.jpg",
+    "link": "https://boardgamegeek.com/thing/302669",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.84637",
+    "averageWeight": "2.1429",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang"
+    ]
+  }
+}

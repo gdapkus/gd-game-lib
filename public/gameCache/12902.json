@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:33:23.908Z",
+  "gameDetails": {
+    "id": "12902",
+    "name": "Carcassonne: The City",
+    "type": "boardgame",
+    "description": "Carcassonne: The City is a standalone game in the Carcassonne series. Players build up the old town together by placing tiles. While the town area grows, the town walls grow around it, starting from a wooden gate. The wall is comprised of delicately carved wooden parts, that create a beautiful rendition of the medieval town at the end of the game.\n\nNext to the slightly modified tile-laying rules, players have the possibility to place their followers as guards on the walls, offering them a wide view of the town. This brings the players extra points. Each player also receives between three and six cylindrical wooden towers (depending on the number of players), giving the town walls an added aesthetic effect.\n\n",
+    "image": "https://cf.geekdo-images.com/tLrK0_NslFKQL6OvpEqi-w__original/img/YsYwH8aiFnMr--fUMTYjNjhy_A4=/0x0/filters:format(jpeg)/pic839808.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tLrK0_NslFKQL6OvpEqi-w__small/img/txmUxY2mV7XUjGDuYH0ZlxJtF7A=/fit-in/200x150/filters:strip_icc()/pic839808.jpg",
+    "link": "https://boardgamegeek.com/thing/12902",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.20715",
+    "averageWeight": "2.2648",
+    "boardGameRank": "1041",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Tile Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Medieval"
+    ],
+    "designers": [
+      "Klaus-Jürgen Wrede"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:02:23.792Z",
+  "gameDetails": {
+    "id": "373793",
+    "name": "Mary Shelley's Dream",
+    "type": "boardgame",
+    "description": "Mary Shelley's Dream is a Horror Roll & Write.\n\nIn this game you will try to create and reanimate a Creature like Doctor Victor Frankenstein did.\nDo all this before the Police, who are following your steps, find you and arrest you.\n\nYou have your game sheet and a pen plus 3 dice (2 white, 1 black). You can also have optional character cards that influence certain parts of the game.\nRoll the dice: the black die will move the police along, getting the game closer to the end. \nWith the white dice you can score money, skill, luck, work in the morgue etc. on the game sheet. Doing this you then aquire all needed body parts and get enough electric Leyden jars to bring your creature to life and then reanimate your creature.\n\nSo each turn you roll the three dice, mark the police progress (if any) and mark your action(s) on the game sheet. Then roll again.\n\nYou win by reanimating the Creature through the various actions you have taken before or lose when the police reaches the end of their track and catches you.\n\nCan you make Mary Shelley's dream come true?\n\n",
+    "image": "https://cf.geekdo-images.com/7Ylm8PG_ZGV7GzLUhCiSlg__original/img/K2xaAGUJirF3mAxNukbdj4f1448=/0x0/filters:format(jpeg)/pic7160018.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7Ylm8PG_ZGV7GzLUhCiSlg__small/img/a1SBmMgrG-iyH8PvDU2X-G18oKk=/fit-in/200x150/filters:strip_icc()/pic7160018.jpg",
+    "link": "https://boardgamegeek.com/thing/373793",
+    "minPlayers": "1",
+    "maxPlayers": "99",
+    "yearPublished": "2022",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "8.19412",
+    "averageWeight": "2",
+    "boardGameRank": "18328",
+    "mechanics": [
+      "Dice Rolling"
+    ],
+    "categories": [
+      "Dice",
+      "Horror",
+      "Print & Play"
+    ],
+    "designers": []
+  }
+}

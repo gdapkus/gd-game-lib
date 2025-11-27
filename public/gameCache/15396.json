@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T20:29:13.740Z",
+  "gameDetails": {
+    "id": "15396",
+    "name": "Linkity",
+    "type": "boardgame",
+    "description": "Every player starts with 7 cards and each card has a letter. The first player plays a card and announces a word that starts with that letter. Then any player can throw down another card as long as they can announce a word that starts with the letter on their card AND that has some relationship to the card previously played.\n\nPoor associations can be challenged and players vote on the acceptance of the explanation. If the explanation is valid, the challenger takes two cards from the discard pile. If it is voted down, the player that played the card picks up two cards.\n\nOnce a player is out of cards, the round ends and each player scores the number of cards remaining in their hand. After three rounds, the player with the lowest score wins.\n\nWHAT THEY'LL LEARN: Vocabulary, Quick Thinking, Word Association\n\n",
+    "image": "https://cf.geekdo-images.com/qxyMKkSz4azKNrwAh5F_qA__original/img/2oM8czgRAJuVh3hQgVcRI_OOU3M=/0x0/filters:format(jpeg)/pic509299.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qxyMKkSz4azKNrwAh5F_qA__small/img/cjTJznV8wZllrP2dxCVKmEISO0U=/fit-in/200x150/filters:strip_icc()/pic509299.jpg",
+    "link": "https://boardgamegeek.com/thing/15396",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2004",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "5.47941",
+    "averageWeight": "1.1667",
+    "boardGameRank": "25780",
+    "mechanics": [],
+    "categories": [
+      "Word Game"
+    ],
+    "designers": [
+      "Chris Handy (I)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:59:44.599Z",
+  "gameDetails": {
+    "id": "17393",
+    "name": "Pax Romana",
+    "type": "boardgame",
+    "description": "How did Rome get to be Rome? Why did the Glory That Was Greece fade? What stopped Carthage from making an empire of the Mediterranean? Could the Seleucids really have conquered the western world?\n\nPAX ROMANA covers Europe from 300 BC through the end of the 1st century BC, when control of the Mediterranean was in a state of flux with four empires possible. The emphasis is on strategic operations, from raising armies to colonizing outlying areas, to fighting barbarian incursions, to maintaining political stability at home. \nPAX uses a unique marker-oriented play sequence that provides surprise and opportunity, plus a deck of unusual cards that provide the historical background of events and calamities within which the players must operate.\n\nPAX provides wide variety of scenarios, from fast-playing, one-sitting two-player games to vivid recreations of the entire era with four players. The game works well with 2, 3 or 4 players, and is designed to be playable solitaire for those interested in the historical view it provides. Scenarios range from The Punic Wars, through the Eastern Med conflicts between the Greeks and the Seleucids, all the way up to the entire 10 turn game, covering 300 years of history. In addition, there are two versions of PAX: the Standard Game, designed for fast play, and the Advanced version, which adds in much tangential history and allows for a more introspective examination of the era.\n\nPAX ROMANA includes one gamemap, 55 cards, 400+ counters, and a host of play aids and charts to keep things organized.\n\n",
+    "image": "https://cf.geekdo-images.com/Ac1aQQsUqrrseuS93y3VWg__original/img/9ok9e0X0wnsHq8o6mE_aMtCajzE=/0x0/filters:format(jpeg)/pic246120.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ac1aQQsUqrrseuS93y3VWg__small/img/0Eh_8i3DicB4uIfg0ylDNsD5QCI=/fit-in/200x150/filters:strip_icc()/pic246120.jpg",
+    "link": "https://boardgamegeek.com/thing/17393",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2006",
+    "playingTime": "600",
+    "minPlayingTime": "600",
+    "maxPlayingTime": "600",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.38654",
+    "averageWeight": "3.6387",
+    "boardGameRank": "3498",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Ancient",
+      "Political",
+      "Wargame"
+    ],
+    "designers": [
+      "Richard H. Berg"
+    ]
+  }
+}

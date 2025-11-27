@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:07:24.022Z",
+  "gameDetails": {
+    "id": "348602",
+    "name": "Illiterati",
+    "type": "boardgame",
+    "description": "The Illiterati are an evil secret organization that has taken over the world. Your job as a member of the League of Librarians is to save the world's books &mdash; one word at a time.\n\nIlliterati is a real-time, co-operative word game in which players work together to form words and bind books. Each player starts the game with five letter tiles and a red torched book that shows a condition that player must achieve to restore that book, e.g. using 8+ tiles with at least 3 green symbols, create words that are all animals. A library of three random tiles is placed in the center of the table. The game takes place in three-minute rounds, and before the round begins each player draw seven letter tiles from the draw bag.\n\nOnce the countdown begins, players can talk and trade letters as much as they want with one another and the library to try to achieve their goal. Once time ends, if the library contains too many letters &mdash; and this threshold is based on your difficulty level &mdash; then you trigger a burn event. Flip all of these letters face down, then remove one of them from the game, then discard excess letters to the discard bag. If you burn too many letters, you lose the game. If you didn't burn any letters and you've completed your goal, flip your red book face down and draw a blue waterlogged book to give yourself a new goal.\n\nAt the end of the round, draw an illiterati villain card and resolve its effect. If you've drawn this villain previously &mdash; and the deck contains five copies of five villains &mdash; then all of the previous effects from this villain also resolve in a chain attack from newest to oldest. Villain attacks often strip letters from words, which means you'll need to create new words with what's left during the next round to avoid burning another letter.\n\nOnce all players have completed two books &mdash; or three or four depending on your difficulty level &mdash; draw one more book, the Final Chapter, with all players needing to complete this challenge in the same round, e.g., using 12+ tiles, create words in which all of your vowels are the same color. If all players meet this goal during the same round, you win; if even one person fails, another villain attacks, then you draw new tiles to start another round. You can discard and redraw up to seven tiles at the start of a round, but you must draw a second illiterati villain card that round &mdash; and if the villain deck runs out, you lose.\n\n",
+    "image": "https://cf.geekdo-images.com/daGtM5dXQR5LslGyvz5Y4A__original/img/-5gFTfdepDHu3be44vnriP8PUkU=/0x0/filters:format(jpeg)/pic7477967.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/daGtM5dXQR5LslGyvz5Y4A__small/img/poVZNzwfevs-dn-opn1O9TUyTgs=/fit-in/200x150/filters:strip_icc()/pic7477967.jpg",
+    "link": "https://boardgamegeek.com/thing/348602",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.11399",
+    "averageWeight": "2.125",
+    "boardGameRank": "3506",
+    "mechanics": [
+      "Cooperative Game",
+      "Real-Time",
+      "Simultaneous Action Selection",
+      "Spelling",
+      "Trading"
+    ],
+    "categories": [
+      "Real-time",
+      "Word Game"
+    ],
+    "designers": [
+      "Gary Alaka",
+      "Rob Chew",
+      "Jon Kang"
+    ]
+  }
+}

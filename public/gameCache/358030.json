@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:36:32.836Z",
+  "gameDetails": {
+    "id": "358030",
+    "name": "Disney Happiest Day Game",
+    "type": "boardgame",
+    "description": "Visit exciting attractions, meet cherished characters, eat snacks, collect souvenirs, and experience magical moments throughout Magic Kingdom Park in Disney Happiest Day Game. Along the way, you'll share your favorite ways to spend the day. When Tinker Bell reaches the top of the castle, the game board magically transforms from day to night!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/NXvvEeUUb-t-Mu_J8kx2DA__original/img/uEhaCWtQr1kq429UVAvErU1wY2A=/0x0/filters:format(png)/pic6716107.png",
+    "thumbnail": "https://cf.geekdo-images.com/NXvvEeUUb-t-Mu_J8kx2DA__small/img/XqWGTYIqcfOBSYkxc3ThZZ-JQHw=/fit-in/200x150/filters:strip_icc()/pic6716107.png",
+    "link": "https://boardgamegeek.com/thing/358030",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.81482",
+    "averageWeight": "1.5",
+    "boardGameRank": "16656",
+    "mechanics": [
+      "Point to Point Movement",
+      "Resource to Move"
+    ],
+    "categories": [
+      "Children's Game"
+    ],
+    "designers": [
+      "Prospero Hall",
+      "Dexter Stevens"
+    ]
+  }
+}

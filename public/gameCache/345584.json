@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:13:03.884Z",
+  "gameDetails": {
+    "id": "345584",
+    "name": "Mindbug: First Contact",
+    "type": "boardgame",
+    "description": "In Mindbug, you summon hybrid creatures and send them to battle against your opponent &mdash; but when you summon a creature, the opponent may use one of their Mindbugs to take control of it. Outwit your opponent in a fascinating tactical duel in which having the best cards and playing them at the wrong time can be deadly for yourself.\n\nCards in Mindbug represent weird creatures that all come with unique and powerful abilities such as a Compost Dragon, a Snail Hydra, or a Kangasaurus Rex. Each player starts the game with ten creature cards (five in hand and five in a draw pile) and tries to use them to reduce the opponent's life total to zero. In addition, every player receives two Mindbug cards that can be used to mind control an opposing creature when it is played. This innovative Mindbug mechanism is the core of the game and leads to a unique decision-making process that makes Mindbug feel utterly different from any other card game.\n\nPlaying a card doesn't require any resources in Mindbug. As a result, the game has no ramp-up phase (such as gathering resources) and doesn't require weak cards. Since there is also no deck-building, you can start playing right away from a single deck. There is also no unfair advantage as players draw cards from the same deck and always get the chance to mind control the strongest opposing cards. In the end, it all comes down to your own decisions, making the game extremely fair and competitive at the same time.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/b8gl6w-BqUVgBURdyFcFZg__original/img/chGo_gyJr418yMPchcWhLoW5AjQ=/0x0/filters:format(png)/pic7646386.png",
+    "thumbnail": "https://cf.geekdo-images.com/b8gl6w-BqUVgBURdyFcFZg__small/img/dCGADcFu3CrjHeao9JKibUHYUik=/fit-in/200x150/filters:strip_icc()/pic7646386.png",
+    "link": "https://boardgamegeek.com/thing/345584",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2022",
+    "playingTime": "25",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.59154",
+    "averageWeight": "1.9358",
+    "boardGameRank": "408",
+    "mechanics": [
+      "Hand Management",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Skaff Elias",
+      "Richard Garfield",
+      "Marvin Hegen",
+      "Christian Kudahl"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:36:19.332Z",
+  "gameDetails": {
+    "id": "440921",
+    "name": "Compile: Aux 2",
+    "type": "boardgameexpansion",
+    "description": "In the card game Compile, you are competing Artificial Intelligences trying to understand the world around you. Two players select three Protocols each to test. Concepts ranging from Darkness to Water are pitted against each other to reach ultimate understanding. Play cards into your Protocols' command lines to breach the threshold and defeat your opponent to Compile. First to Compile all three Protocols grasps those concepts to win the game.\n\nControl your opponent's Protocols with card actions, Compile your own as fast as possible, and Compile your reality.\nCompile: Aux 2 includes three new Protocols: Assimilation, Diversity, Unity.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/aQb9QF1U1kzZ1dIqRfnvyQ__original/img/NrpkPJfgTKaU0z9KkZNEd7f94JA=/0x0/filters:format(png)/pic9001669.png",
+    "thumbnail": "https://cf.geekdo-images.com/aQb9QF1U1kzZ1dIqRfnvyQ__small/img/8i9gILz4d0CxA_okbmWZZ3B3hwc=/fit-in/200x150/filters:strip_icc()/pic9001669.png",
+    "link": "https://boardgamegeek.com/thing/440921",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "8.70571",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game"
+    ],
+    "designers": [
+      "Michael Yang"
+    ]
+  }
+}

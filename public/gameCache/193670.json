@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T19:33:33.601Z",
+  "gameDetails": {
+    "id": "193670",
+    "name": "Darkest Night: Second Edition",
+    "type": "boardgame",
+    "description": "Darkest Night, by designer Jeremy Lennert, is a fully-cooperative board game set in a kingdom broken under a Necromancer&rsquo;s shadow. Each player takes on the role of one of the kingdom&rsquo;s last heroes, each with a unique set of special abilities, just as they hatch a plan to save the realm.\n\nCan you save the kingdom from darkness? Do you have the courage, the cunning and the will to withstand the necromancer and his forces? Strategize, plan and bring out the best of your abilities to end our Darkest Night!\n\n",
+    "image": "https://cf.geekdo-images.com/W5ZHFDFMPuKIIGsm6BEsqg__original/img/GHF31d0K1eOZgOT2MJjpUGpmNyA=/0x0/filters:format(png)/pic2893102.png",
+    "thumbnail": "https://cf.geekdo-images.com/W5ZHFDFMPuKIIGsm6BEsqg__small/img/wfVhxjhlk3xKOCesSZ2j-OfEsdQ=/fit-in/200x150/filters:strip_icc()/pic2893102.png",
+    "link": "https://boardgamegeek.com/thing/193670",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.51833",
+    "averageWeight": "3.0513",
+    "boardGameRank": "3358",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ],
+    "designers": [
+      "Jeremy Lennert"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T19:31:33.176Z",
+  "gameDetails": {
+    "id": "256249",
+    "name": "Black Orchestra: Conspirator Pack #1",
+    "type": "boardgameexpansion",
+    "description": "Conspirator Pack #1 includes all 3 conspirators from the 1st Edition's Classified Pack, but have been updated for the new edition. There is also a new 4th conspirator.\n\n- above description from publisher\n\nIncludes:\n\nFabian Von Schlabrendorff - Wehrmacht - Adjutant to Colonel Tresckow\nHjalmar Schacht - Civilian - President Reichsbank\nHans Gisevius - Abwehr - Diplomat and Abwehr agent\n  plus\nSophie Scholl - Civilian - Student activist\n\n",
+    "image": "https://cf.geekdo-images.com/V0cNR2WIJ4RBFif2gobh4g__original/img/ap11nCT412hCJNIlSqIS6CwS00w=/0x0/filters:format(png)/pic6446155.png",
+    "thumbnail": "https://cf.geekdo-images.com/V0cNR2WIJ4RBFif2gobh4g__small/img/ZuIjo9cZAt9iHy_mN_Vfqp4cm0o=/fit-in/200x150/filters:strip_icc()/pic6446155.png",
+    "link": "https://boardgamegeek.com/thing/256249",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.66369",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Push Your Luck",
+      "Set Collection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Spies / Secret Agents",
+      "World War II"
+    ],
+    "designers": [
+      "Philip duBarry"
+    ]
+  }
+}

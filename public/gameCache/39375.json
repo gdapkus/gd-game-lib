@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:49:36.480Z",
+  "gameDetails": {
+    "id": "39375",
+    "name": "The Battle of Red Cliffs",
+    "type": "boardgame",
+    "description": "The Battle of Red Cliffs is a revamped edition of Tien Zi Que, the Mahjong card game, for 1-9 players. Like Mahjong, each game plays over several rounds as players collect sets of cards. What makes TZQ/BRC unique is that when players collect sets, they save a card from each one to form a Master Set that is used for scoring at the end of the round (when one player has five score cards). Players want to make sure the cards they save will score well because if they don't score enough points to get to the next score level, they will fall back to the previous one.\n\nPlayers can also \"Peng\" to form a set at the beginning of any player's turn, use Command cards to gain a unique advantage, and play in teams of two or three to add to the fun.\n\nReimplements\n\n\n     Tien Zi Que\n\n\n",
+    "image": "https://cf.geekdo-images.com/Ws3eb_XBJW1i7c5QePuy4g__original/img/j39ReWTd7R9HYta_25IT3pqZ6BQ=/0x0/filters:format(jpeg)/pic1483525.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ws3eb_XBJW1i7c5QePuy4g__small/img/lkD1cXBuWCJfHn-PxWJbf4V9ZBM=/fit-in/200x150/filters:strip_icc()/pic1483525.jpg",
+    "link": "https://boardgamegeek.com/thing/39375",
+    "minPlayers": "1",
+    "maxPlayers": "9",
+    "yearPublished": "2009",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.91546",
+    "averageWeight": "2",
+    "boardGameRank": "20068",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Novel-based"
+    ],
+    "designers": [
+      "E. R. Burgess",
+      "Ta-Te Wu"
+    ]
+  }
+}

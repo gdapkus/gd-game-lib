@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:58:45.987Z",
+  "gameDetails": {
+    "id": "183346",
+    "name": "My Very First Games: Little Garden",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nHurray, springtime has sprung again! Gardener Gabriel is overjoyed as he can finally get back to tending his garden. This year he wants to grow sweet strawberries, crunchy carrots and yellow tulips. Who wants to help him plant, water and weed the patches?\n\nUnfortunately Molly Mole is also busily burrowing her molehill. Who will be quicker: the children or Molly? Kleiner Garten is a cooperative color game.\n\n",
+    "image": "https://cf.geekdo-images.com/4rbCBGfPvXjU7Keuf8bMPQ__original/img/xjZqfjOChzGA-i1eWa5XJpQXL5A=/0x0/filters:format(jpeg)/pic4673311.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4rbCBGfPvXjU7Keuf8bMPQ__small/img/QAi4T0lzYGR5jnUz9c85yvbTbwQ=/fit-in/200x150/filters:strip_icc()/pic4673311.jpg",
+    "link": "https://boardgamegeek.com/thing/183346",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "yearPublished": "2015",
+    "playingTime": "0",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      1,
+      3
+    ],
+    "averageRating": "5.87705",
+    "averageWeight": "1",
+    "boardGameRank": "21951",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling"
+    ],
+    "categories": [
+      "Children's Game"
+    ],
+    "designers": [
+      "Christiane Hüpper"
+    ]
+  }
+}

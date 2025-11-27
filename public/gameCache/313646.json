@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:10:10.702Z",
+  "gameDetails": {
+    "id": "313646",
+    "name": "Glen More II: Chronicles – Highland Games",
+    "type": "boardgameexpansion",
+    "description": "Glen More II: Highland Games expands Glen More II: Chronicles thanks to the inclusion of three new chronicles and a solo mode.\n\nIn Feasts & Follies, players try to outwit the opposing clan chiefs in order to win the upcoming end-of-round scoring by hosting great festivities first.\n\nSticks & Stones, in which the champions of the players compete against each other on the new Highland Games board to take the lead in a new scoring category.\n\nFuntails Development expands the possibilities of the popular Overbuild Tiles many times over with the new Monuments in Plan & Prosper.\n\nNot only are these new Chronicles supported by the extensive Solo Mode by Automa Factory, but also the base game and a total of 11 Chronicles. '\n\n",
+    "image": "https://cf.geekdo-images.com/s21M8aK-9Ey-QGbkCvdIaA__original/img/UAgefarQMqtsYEhRCEBDjTA_YCw=/0x0/filters:format(jpeg)/pic5593400.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/s21M8aK-9Ey-QGbkCvdIaA__small/img/2LD7lmetjoiZ49mNOp-OsYURLh0=/fit-in/200x150/filters:strip_icc()/pic5593400.jpg",
+    "link": "https://boardgamegeek.com/thing/313646",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "120",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.28409",
+    "averageWeight": "3.2308",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Commodity Speculation",
+      "Grid Movement",
+      "Set Collection",
+      "Tile Placement",
+      "Turn Order: Time Track"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "City Building",
+      "Economic"
+    ],
+    "designers": [
+      "Matthias Cramer",
+      "Rüdiger Dorn",
+      "Jonny Pac",
+      "Morten Monrad Pedersen",
+      "David J. Studley"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:08:16.889Z",
+  "gameDetails": {
+    "id": "128927",
+    "name": "Shinobi: War of Clans",
+    "type": "boardgame",
+    "description": "At the turn of the 16th century in Japan both the Emperor and the tycoon lost control of the country &ndash; the time when pushy and ambitious daimyos to subdue islands, the time for strong warriors to demonstrate their boldness and great warlords to show their art, the time when cunning secret agents decided a battle of the clans.\n\nIn the tactical card game Shinobi: War of Clans players will take on the role of secret agents of the most powerful clans of feudal Japan. The aim of the game is supporting your clan with military advantage; the clan which has the most troops at the end of the game wins.\n\nAt the beginning of the game each player gets a clan card which shows what clan the player will belong to and four troop cards from the deck. The area before the player (his table) presents one of Japan&rsquo;s provinces, so the more players the more provinces. The players take turns clockwise from the starting player. Each player&rsquo;s turn consists of the following orders: the troop deployment order, the troop movement order and the attacking order. During his turn the player must place a card from his hand on any province except his own one. If by the end of his turn in his province he raised the army (some troops of the same clan) which is stronger (more numerous) than any other army in any other province, the battle is unavoidable. It will be impossible to stop the warlike samurais from attacking but there is an opportunity to direct them to the proper side.  Once there are no more cards in the deck players take a final turn and come in true colors (reveal their secret cards). Clan cards are summed up and the player with the most cards of his clan in all the provinces wins the game.\n\nWhat&rsquo;s feudal Japan without ninjas! Without them no game about Japan can be complete. The ninjas&rsquo; function is obvious &ndash; to shorten the number of warriors from the enemy clans.\n\nFrom 3 to 5 players can take part in the game. The tactics of the game changes depending on the number of players. You will need careful calculation to win in a five-player game; fans of bluff and \"psychological\" game will like the game with three participants. The game seems simple at first sight, but believe or not, keeping your clan in secret, guessing which clans your rivals play for and making them to play into your hands is not simple at all.\n\n",
+    "image": "https://cf.geekdo-images.com/QlYvFjOGL5SgkkZ1sOQxUQ__original/img/ULJ29QRug1mo1l7iGrBba69xV38=/0x0/filters:format(jpeg)/pic1404918.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QlYvFjOGL5SgkkZ1sOQxUQ__small/img/yh0b9QdJOJEXrLieC8FWGstbYW8=/fit-in/200x150/filters:strip_icc()/pic1404918.jpg",
+    "link": "https://boardgamegeek.com/thing/128927",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.96872",
+    "averageWeight": "1.4375",
+    "boardGameRank": "14280",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Medieval",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Danila Goryunov"
+    ]
+  }
+}

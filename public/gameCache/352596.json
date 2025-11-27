@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:02:16.101Z",
+  "gameDetails": {
+    "id": "352596",
+    "name": "Ancient Realm",
+    "type": "boardgame",
+    "description": "Starting from humble beginnings, you must lead your civilization to greatness. Harvest, hire, build, and plan your way into the history books!\n\nAt its heart, Ancient Realm is a civilization-building-themed puzzle game in which you try to maximize your points by deciding which blocks to keep and which to build over, while carefully managing your resources. Balance endgame scoring goal needs with immediate tactical needs to create a mighty civilization replete with wonders of the world.\n\nEach turn, you have four available cards to place. Some of them will be districts, the basic building blocks of civilization, while others will be wonders, powerful but costly constructions. Wonder cards feature one block and a wonder; wonders are worth a large number of points and offer potent effects, but require significant resources to construct and cannot be covered by further cards.\n\nOn a turn, you pick one of these cards and place it in your realm. Cards can be placed next to, overlapping, or entirely covering one or more cards in your realm. When a block (or multiple blocks) is covered by a new card, those blocks can be activated to gain their effect. Mines fill your coffers with valuable gold; with gold, you can activate production sites and citizens. Citizens come in two types and might affect other cards, such as the value of certain wonders.\n\nOn the back of each district card is an event that impacts the growth of your civilization, and the event on the top of the district deck is active for the round.\n\nAt the end of the game, score your wonders and mines as well as any remaining gold and resources to determine how your civilization stacks up.\n\n",
+    "image": "https://cf.geekdo-images.com/I-UODFYL2Y77VM2_lFWVmw__original/img/ZpHkEzLX6uYkUwWRlSa6YN-rCEc=/0x0/filters:format(png)/pic7379693.png",
+    "thumbnail": "https://cf.geekdo-images.com/I-UODFYL2Y77VM2_lFWVmw__small/img/Do0xsmGCmi5mzhu6wbMAm_F4C7k=/fit-in/200x150/filters:strip_icc()/pic7379693.png",
+    "link": "https://boardgamegeek.com/thing/352596",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2023",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.23054",
+    "averageWeight": "2.2308",
+    "boardGameRank": "3649",
+    "mechanics": [
+      "Layering",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Civilization",
+      "Print & Play",
+      "Territory Building"
+    ],
+    "designers": [
+      "Steven Aramini"
+    ]
+  }
+}

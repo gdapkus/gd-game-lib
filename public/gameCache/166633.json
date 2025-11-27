@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:24:21.077Z",
+  "gameDetails": {
+    "id": "166633",
+    "name": "Bounce-Off",
+    "type": "boardgame",
+    "description": "Bounce-Off is a ball-bouncing game for two to four players where the object is to use the balls to make a pattern shown on a card. If you're playing with two two-player teams, each team gets four balls. If you're only playing with two players, each player gets eight balls. Flip over one of the pattern cards to see which pattern you need to create. The green cards are easier than the blue cards. Then, you can either take turns bouncing your balls into the grid or bounce the balls all at once. If your balls create the pattern first, you win that card. The first team or player with three cards wins the game.\n\n",
+    "image": "https://cf.geekdo-images.com/bk8rfJEakNQr0S_AovVjYA__original/img/NFmmScxBqXcp3iRRlREPmzJaqZQ=/0x0/filters:format(jpeg)/pic5788129.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bk8rfJEakNQr0S_AovVjYA__small/img/l7aeoW0M_7Gsqi-KdSlNb3rqiLA=/fit-in/200x150/filters:strip_icc()/pic5788129.jpg",
+    "link": "https://boardgamegeek.com/thing/166633",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.71522",
+    "averageWeight": "1.3333",
+    "boardGameRank": "15260",
+    "mechanics": [
+      "Pattern Building"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Party Game"
+    ],
+    "designers": []
+  }
+}

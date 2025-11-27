@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:09:25.509Z",
+  "gameDetails": {
+    "id": "279387",
+    "name": "Endeavor: Age of Expansion",
+    "type": "boardgameexpansion",
+    "description": "In Endeavor: Age of Expansion, players will take the mechanisms they know and love and use them with a new set of buildings and cards for all-new game play and interaction.\n\nThe new building market creates a totally different strategic experience within the same rule set. Most of the actions on the buildings are familiar, but new concepts include trade, fortify, and conscription & mobilization.\n\nAge of Expansion also comes with a new set of Asset cards. All of the cards feature a new and interesting distribution of symbols.\n\n",
+    "image": "https://cf.geekdo-images.com/oglH7Vt5DY5FzUOyaLLzCA__original/img/iXCp5ZPRcIWdvWJdzy8TYAPF2iA=/0x0/filters:format(jpeg)/pic4747398.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oglH7Vt5DY5FzUOyaLLzCA__small/img/s6ZPFjWjvHOhYYeGrQk3ZpsMI9M=/fit-in/200x150/filters:strip_icc()/pic4747398.jpg",
+    "link": "https://boardgamegeek.com/thing/279387",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "8.23748",
+    "averageWeight": "3.1176",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Nautical",
+      "Renaissance"
+    ],
+    "designers": [
+      "Jarratt Gray"
+    ]
+  }
+}

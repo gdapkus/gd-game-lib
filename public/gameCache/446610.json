@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:27:39.932Z",
+  "gameDetails": {
+    "id": "446610",
+    "name": "Flash Point: Golden State Heroes",
+    "type": "boardgame",
+    "description": "California is a place unlike any other, with sunshine, celebrities, forest fires, earthquakes, and everything in between. Unique situations call for unique heroes. An elite firefighting squad trained to deal with the unusual situations that only a place like this can produce. Operating out of the beachfront city of the sun-drenched SoCal city of Los Aventura, these brave firefighters are ready for anything. When danger arises and requires the utmost skill, determination, and grit, Gold Company gets the call.\n\nFlash Point: Golden State Heroes is a co-operative game of bravery and heroism. Included are six unique game boards representing a gauntlet of challenges for the courageous Gold Company in Southern California.  Additionally, this set provides action-packed boosts and new customizable gear to create countless combinations of unique firefighting heroes.\n\nDuring each game, all players are on the same team, winning or losing together. To win, the players must rescue trapped victims before the fire gets out of control or the scene breaks down completely.\n\nFlash Point: Golden State Heroes is a standalone game that introduces the \"Ignition System\", a non-legacy method of creating endless customized firefighters and using thematic event decks tied to each map in the game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/vhrHG74NDEaPgR8YuxHJzw__original/img/3PycmDnsMzcwP-MB-9H1TbLwQes=/0x0/filters:format(jpeg)/pic8888273.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vhrHG74NDEaPgR8YuxHJzw__small/img/BQ4g8Ce_gOkVi0_U5Z7oiW9eI2M=/fit-in/200x150/filters:strip_icc()/pic8888273.jpg",
+    "link": "https://boardgamegeek.com/thing/446610",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2026",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "4.33333",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Events",
+      "Grid Movement",
+      "Pick-up and Deliver",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Environmental"
+    ],
+    "designers": [
+      "Ken Franklin",
+      "Chris Leder",
+      "Kevin Rodgers"
+    ]
+  }
+}

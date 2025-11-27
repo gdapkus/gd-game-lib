@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:32:22.746Z",
+  "gameDetails": {
+    "id": "170587",
+    "name": "Don't Mess with Cthulhu",
+    "type": "boardgame",
+    "description": "Don&rsquo;t Mess with Cthulhu is a social deduction game with secret identities. Players are either Investigators trying to keep Cthulhu from waking and controlling the world, or Cultists that want to bring the world to a disturbing end.\n\nThe game takes place over four rounds. The Investigators must uncover all the Elder Signs to win; the Cultists win when Cthulhu is revealed or if the game ends before all the Elder Signs are discovered.\n\nBefore each round players receive a number of Investigation cards, which they look at but then shuffle and put in front of themselves so they know what cards they have, but they don't know which card is which.  Each round has a number of actions equal to the number of players in the game.  Players take actions to reveal Investigation cards, and gather all unrevealed cards are shuffled an redistributed evenly among the players.\n\nReveal Cthulhu, and the Cultists win instantly.  Reveal all the Elder Signs, and the Investigators win.  If you want to play multiple rounds (it's highly recommended), the losers in each game get Insanity tokens.  Get three tokens, and the night is over with the winner(s) being those most sane.\n\nKickstarter version notes:\n\nKickstarter Edition has the following bonuses, unavailable in the retail version:\n\n#1 - 10 player aupport. All the components needed to play with up to 10 people at the same time.\n\n#2 - 3 x Necronomicon Investigation cards. Now the Investigators not only have to discover all the Elder Signs in time to prevent Cthulhu from rising, they must also discover the ancient tomes called Necronomicon. But the Necronomicon are dangerous to the uninitiated and cannot be revealed until at least one Elder Sign has been discovered.\n\nThese promo cards add more information into the game, helping the Investigators in their quest. However the Necronomicon also give the Cultists another win condition - making the strategies more complex and the discussion even more lively.\n\n#3 - 6 x \"Objects of Power\" cards. These special cards have a variety of different uses, and provide more direct and indirect information in the game (as well as a touch of light-hearted fun). Objects of Power give the game more replay value, more strategy and more variability without adding complexity.\n\nTimebomb Themed edition\n\nIn TimeBomb, you are playing either a terrorist trying to make a bomb blow up, or a SWAT team member trying to defuse it.\n\nEach player receives a card at the beginning of the game that indicates his role and keep it secret until the end of the game. Then, at each of the game's 4 rounds, each player receives 5 cards that he shuffles after having a quick look at them and place them face down in front of him. Among all of the player's cards, a number of \"SUCCESS\" cards, one \"BOOM\" card and the rest being \"SAFE\" card.\n\nThe active player then chooses another's player card and reveals it, that player then becoming the new active player. After N cards have been revealed (N being the number of players), all cards are shuffled again and distributed equally to the players for a new round. If at any time the \"BOOM\" card is revealed, the terrorist's team wins. If all \"SUCCESS\" cards are revealed before that happens, then the SWAT team members win.\n\nWill you be able to convince the other player to reveal your own cards among them a SUCCESS is hidden ? Or are you just trying to cheat the SWAT team members into revealing your own cards because the BOOM card is among them ? Only a game of TimeBomb will say.\n\n",
+    "image": "https://cf.geekdo-images.com/qqNnUI-J99d5Tn7VCjwZRA__original/img/Digqt2ZJ_lS5rg6sZxJOg1GHKZ8=/0x0/filters:format(jpeg)/pic2951242.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qqNnUI-J99d5Tn7VCjwZRA__small/img/yx8L4p32u-JqWVUU08LKl1dovgU=/fit-in/200x150/filters:strip_icc()/pic2951242.jpg",
+    "link": "https://boardgamegeek.com/thing/170587",
+    "minPlayers": "4",
+    "maxPlayers": "6",
+    "yearPublished": "2014",
+    "playingTime": "30",
+    "minPlayingTime": "1",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.83297",
+    "averageWeight": "1.1538",
+    "boardGameRank": "2853",
+    "mechanics": [
+      "Team-Based Game",
+      "Traitor Game"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Horror",
+      "Negotiation",
+      "Party Game"
+    ],
+    "designers": [
+      "佐藤 雄介 (Yusuke Sato)"
+    ]
+  }
+}

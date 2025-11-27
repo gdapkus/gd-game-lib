@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:49:38.663Z",
+  "gameDetails": {
+    "id": "123123",
+    "name": "BattleCON: Devastation of Indines",
+    "type": "boardgame",
+    "description": "As new villains appear to lay claim to the world of Indines, new heroes rise to challenge them. BattleCON: Devastation of Indines puts you in control of 30 mighty heroes and deadly villains to decide the fate of the world.\n\nBattleCON: Devastation of Indines is a standalone dueling card game designed for head-to-head and team play. Each player selects a character who uses a unique gameplay mechanism to give them an edge in combat. Take control of guitar-playing summoner, a pair of tag-teaming werewolves, a prodigal paladin, a genius artificer, and more! Each character's play style requires new strategies, but uses the same foundational tactics, making a new character easy to learn, but challenging to master.\n\nPlayers move along a seven-space-long board, trading blows and attempting to strike the opponent, using attacks formed by combining a character's unique styles and abilities with a set of basic cards that all characters share. The last player standing wins!\n\nBattleCON: Devastation of Indines can be played on its own or combined with BattleCON: War of Indines to create an even greater pool of characters and play variants.\n\nIncluded with the game:  BattleQUEST Guide\n\nThe BattleQUEST Dungeon Guide contains six adventures (3 solo and 3 cooperative) for players. Using BattleQUEST, players can play alone or cooperatively against automated enemies in an attempt to defeat the final boss and claim victory!\n\n",
+    "image": "https://cf.geekdo-images.com/thiBzm8l_9YUUIeXz7Q-KQ__original/img/p9JnAE2bfm9h1VeYJphpPgRpocY=/0x0/filters:format(jpeg)/pic8496572.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/thiBzm8l_9YUUIeXz7Q-KQ__small/img/F6wl9LUBdyKvJqtcaeokBZ0rZ7Q=/fit-in/200x150/filters:strip_icc()/pic8496572.jpg",
+    "link": "https://boardgamegeek.com/thing/123123",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2013",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.79645",
+    "averageWeight": "3.1257",
+    "boardGameRank": "724",
+    "mechanics": [
+      "Hand Management",
+      "Player Elimination",
+      "Point to Point Movement",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "D. Brad Talton, Jr."
+    ]
+  }
+}

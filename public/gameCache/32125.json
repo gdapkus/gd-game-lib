@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:27:35.194Z",
+  "gameDetails": {
+    "id": "32125",
+    "name": "Felicity: The Cat in the Sack",
+    "type": "boardgame",
+    "description": "Cats have very different personalities: Some adorable and sweet, and some...not so much...\n\nThe object of the game is to acquire the best cats. Sometimes, you'll use a dog to chase away unwanted cats, but too many dogs are bad as they will just chase each other!\n\nWith their mice, players attempt to grab the famous Felicity: The Cat In The Sack. In the sack, there are both good and bad cats. Each player can also put a dog or rabbit into the sack instead of a cat, allowing players to bluff one another. At the end of the game, all good cats and mice count as positive points, but bad cats count against you! This is a clever auction game with many interesting decisions.\n\n",
+    "image": "https://cf.geekdo-images.com/TKN7K14OhKpQXwVtezC-5A__original/img/WxfOGpugRp51XDPiYSBRJVOMQwo=/0x0/filters:format(jpeg)/pic3530209.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TKN7K14OhKpQXwVtezC-5A__small/img/-hHbByEkk3j_vBiCRmWmX1jOHcE=/fit-in/200x150/filters:strip_icc()/pic3530209.jpg",
+    "link": "https://boardgamegeek.com/thing/32125",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2007",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.56753",
+    "averageWeight": "1.3975",
+    "boardGameRank": "2092",
+    "mechanics": [
+      "Auction / Bidding",
+      "Betting and Bluffing",
+      "Secret Unit Deployment"
+    ],
+    "categories": [
+      "Animals",
+      "Bluffing",
+      "Card Game"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

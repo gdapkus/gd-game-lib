@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:08:23.018Z",
+  "gameDetails": {
+    "id": "192909",
+    "name": "Sneaky Cards",
+    "type": "boardgame",
+    "description": "A card game with individual mission objectives that create fun, quirky, and engaging social interactions. Each deck contains 55 cards and five categories for the players to interact with; Surprise, Create, Care, Connect, and Grow. Each card also features a tracking number which lets players track the cards and see them travel as they are passed from player to player.\n\nPublisher Description: Your mission, should you choose to accept it: become a secret agent of joy, spreading art and intrigue to an unsuspecting public. Inside each box is an interactive scavenger hunt that will inspire creativity and reward audacity. Take a selfie with a stranger, create a collaborative doodle, become a flash mob of one. Complete an objective and then pass the card along to an unwitting accomplice, who now becomes part of the game! The fun is ever expanding, but it all starts with you. Play it forward!\n\n",
+    "image": "https://cf.geekdo-images.com/UatNH3pUYUZdK1i0YgdWWQ__original/img/OjOOzonqxkwpS4SEU_W9u1XvSd4=/0x0/filters:format(jpeg)/pic2946954.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UatNH3pUYUZdK1i0YgdWWQ__small/img/_0O2ACv39ZaYfzXud-H4fT5ggts=/fit-in/200x150/filters:strip_icc()/pic2946954.jpg",
+    "link": "https://boardgamegeek.com/thing/192909",
+    "minPlayers": "1",
+    "maxPlayers": "0",
+    "yearPublished": "2015",
+    "playingTime": "0",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "5.87656",
+    "averageWeight": "1",
+    "boardGameRank": "21399",
+    "mechanics": [
+      "Open Drafting",
+      "Role Playing"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Cody Borst"
+    ]
+  }
+}

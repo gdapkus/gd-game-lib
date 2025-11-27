@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-11-26T19:32:00.975Z",
+  "gameDetails": {
+    "id": "319035",
+    "name": "Fantastic Factories: Manufactions",
+    "type": "boardgameexpansion",
+    "description": "Manufactions is an expansion to Fantastic Factories that introduces all new blueprints, contractors, vitamin resources, and corporate factions that grant players unique powers.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/LyNcfaP1rVltc-6t0MGoWQ__original/img/ZfQS72pQ5LUYkYVp0Uh1Ws2Qk8o=/0x0/filters:format(png)/pic5658435.png",
+    "thumbnail": "https://cf.geekdo-images.com/LyNcfaP1rVltc-6t0MGoWQ__small/img/jKrR2GMWNFJ5JXIHPifxW-wCtDU=/fit-in/200x150/filters:strip_icc()/pic5658435.png",
+    "link": "https://boardgamegeek.com/thing/319035",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2021",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.98264",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Income",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Push Your Luck",
+      "Re-rolling and Locking",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Turn Order: Progressive",
+      "Variable Player Powers",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Card Game",
+      "Dice",
+      "Expansion for Base-game",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Joseph Z Chen",
+      "Justin Faulkner"
+    ]
+  }
+}

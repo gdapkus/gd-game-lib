@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:52:34.941Z",
+  "gameDetails": {
+    "id": "19526",
+    "name": "Elasund: The First City",
+    "type": "boardgame",
+    "description": "This is the second game in the 'Abenteuer Catan' (Catan Adventures) series that started with Candamir: The First Settlers. The theme of Elasund is based on the 'Die Siedler von Catan' novel written by Rebecca Gabl&eacute;, itself based on the original The Settlers of Catan game. In Elasund, players compete and cooperate to build the premier city of Catan.\n\n",
+    "image": "https://cf.geekdo-images.com/2-0eojuCt2yvG5mqN0DR4A__original/img/RzIv-aWxu2VSso7kjxUbTparY10=/0x0/filters:format(jpeg)/pic121747.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2-0eojuCt2yvG5mqN0DR4A__small/img/YKsKgr2H4FJS-0jsFtAOcadea2Y=/fit-in/200x150/filters:strip_icc()/pic121747.jpg",
+    "link": "https://boardgamegeek.com/thing/19526",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.58749",
+    "averageWeight": "2.7255",
+    "boardGameRank": "2425",
+    "mechanics": [
+      "Dice Rolling",
+      "Enclosure",
+      "Hand Management",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Territory Building"
+    ],
+    "designers": [
+      "Klaus Teuber"
+    ]
+  }
+}

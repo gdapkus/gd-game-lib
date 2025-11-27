@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:33:22.281Z",
+  "gameDetails": {
+    "id": "241377",
+    "name": "Bushido: Rising Rage",
+    "type": "boardgameexpansion",
+    "description": "Rising Rage adds:\n5 New Dice\n4 New Weapons (8 cards total)\n20 New Techniques (+ 3 additional Basic School cards)\n\nAs you might imagine, the expansion focuses on the rage mechanic in the game, giving players more ways to use and acquire rage.\n\nThe new cards often feature ways for you to acquire or spend Rage Tokens, and the new dice feature a Rage Result allowing players a way to collect Rage Tokens without changing their guard!\n\nThe addition of the expansion tweaks the rules in small ways (Weapons for example are chosen from a random selection instead of the complete arsenal of 8+ weapon Cards) but otherwise simply adds more ways for you to show off your martial mastery and manipulate the power you put into each attack! The Expansion also works with the 4-player rules.\n\n",
+    "image": "https://cf.geekdo-images.com/wZ9IMHH4ljmhxSAzlJDrhw__original/img/Og9oRAVsKJK_CYks3wymhsFA-B4=/0x0/filters:format(jpeg)/pic4490171.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wZ9IMHH4ljmhxSAzlJDrhw__small/img/OixtXZPmzmpAmw4VdCYHqUTpoeQ=/fit-in/200x150/filters:strip_icc()/pic4490171.jpg",
+    "link": "https://boardgamegeek.com/thing/241377",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "7.63333",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Dice",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Pedro Mendoza"
+    ]
+  }
+}

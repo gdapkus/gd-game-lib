@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:27:51.207Z",
+  "gameDetails": {
+    "id": "10765",
+    "name": "Geist",
+    "type": "boardgame",
+    "description": "Each player takes on the role of a \"Geist Hunter\" and the first to catch their set of Geists and get them safely to the underworld wins. To catch Geists, you need to lure them with an exact number of Zingiberi chips. These are earned by moving around the board and landing on numbered squares. The number lets you take or return a chip of that value, but also determined how far you will move next turn. A clever movement system encourages people to cheat and get away with it, or at least makes everyone watch closely. Each Geist, once captured, can also be use to \"prank\" other players, and this keeps things rowdy but also adds to the strategy. Chili Pepper cards also spice things up since the Geists don't usually like them.\n\n",
+    "image": "https://cf.geekdo-images.com/KLv94cZN5tw0RbEbYPM7uw__original/img/L1F4hwPPoUVz08rK0jvnKhuhgRo=/0x0/filters:format(jpeg)/pic5204322.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KLv94cZN5tw0RbEbYPM7uw__small/img/np5W0Dd_NuXpKPINMwqGKdtjg8w=/fit-in/200x150/filters:strip_icc()/pic5204322.jpg",
+    "link": "https://boardgamegeek.com/thing/10765",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2004",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "5.8125",
+    "averageWeight": "2.5",
+    "boardGameRank": "25639",
+    "mechanics": [
+      "Area Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Humor",
+      "Puzzle"
+    ],
+    "designers": [
+      "Rose Anderson"
+    ]
+  }
+}

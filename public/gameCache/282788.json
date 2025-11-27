@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:56:51.423Z",
+  "gameDetails": {
+    "id": "282788",
+    "name": "King of Tokyo/New York: Monster Pack – Cybertooth",
+    "type": "boardgameexpansion",
+    "description": "Cybertooth &mdash; a giant two-legged robot that can transform into a fearsome sabertoothed tiger &mdash; is about to hit the town! Infused with the power of the ancient berserkers, Cybertooth will settle for nothing less than the tiger's share! Will you, too, succumb to the berserker fury?\n\nThe Cybertooth Monster Pack introduces a new game component: the berserk die! You can use the berserk die in your games even if you play without Evolution cards or are not playing with Cybertooth.\n\nThe Cybertooth Monster Pack is compatible with the King of Tokyo and King of New York base games, and with all their expansions.\n\nPart of the King of Tokyo series.\n\n",
+    "image": "https://cf.geekdo-images.com/CKuJiEAbk9_dxQqnQE4eUA__original/img/GkGwEr7iOpOcEBita9hKLSvXL0s=/0x0/filters:format(jpeg)/pic4804982.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CKuJiEAbk9_dxQqnQE4eUA__small/img/3s-mrzvxUR_YRjnXMOTAsImtY7Y=/fit-in/200x150/filters:strip_icc()/pic4804982.jpg",
+    "link": "https://boardgamegeek.com/thing/282788",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2019",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.56302",
+    "averageWeight": "1.8",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Open Drafting",
+      "Player Elimination",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Dice",
+      "Expansion for Base-game",
+      "Fighting",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Richard Garfield"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:51:51.258Z",
+  "gameDetails": {
+    "id": "173101",
+    "name": "Council of 4",
+    "type": "boardgame",
+    "description": "The Empire, formed by three Kingdoms, lives in an era of wealth and prosperity. Each Kingdom is governed by a council of four nobles. The members of six influential families sit around in the councils and lead the Kingdoms.\n\nThe players hold the roles of rich merchants who seek to obtain permits to build their own Emporium inside the cities of the three Kingdoms. Whoever takes more permits, while also opening their Emporium in the best place, will be the most famous merchant and will win the game. But pay attention to the Emperor! He can be your ally and allow you to build without permits!\n\nOn a turn, a player can perform different actions:\n\n- The main action is to corrupt a council, which is represented by a slide with four pawns representing four nobles. By corrupting the three councilors of the three Kingdoms, the player gets permit cards that give various instant and endgame benefits, and the possibility to build an Emporium in a specific city.\n\n- Another action is to play a permission card to build an Emporium. Each Emporium earns the player the special benefits of the space where it's built, but also activates all connected emporiums in a chain effect.\n\n- Corrupt the Emperor&rsquo;s council to allow a player to build Emporiums without permission cards.\n\n- Players can change the composition of a council.\nThere are many different ways to earn points:\n\n- Build a connected Emporium in the cities that award points.\n\n- Build your emporium in all the cities of an area of the board: the faster you complete the area, the more points you earn.\n\n- Move up on the nobility&rsquo;s track.\n\nObtain permits that give points.\nMoreover, the board is modular and has eight possible combinations.\n\n",
+    "image": "https://cf.geekdo-images.com/1PVwotn_MXzaG8aRWJBwLw__original/img/FS68rLI2D1N9rWwC-L8Iijx_6Ck=/0x0/filters:format(png)/pic3252438.png",
+    "thumbnail": "https://cf.geekdo-images.com/1PVwotn_MXzaG8aRWJBwLw__small/img/F8oR7WY_sXDfNAJKVmenGWQweQs=/fit-in/200x150/filters:strip_icc()/pic3252438.png",
+    "link": "https://boardgamegeek.com/thing/173101",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "75",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.11764",
+    "averageWeight": "2.6796",
+    "boardGameRank": "1477",
+    "mechanics": [
+      "Hand Management",
+      "Network and Route Building",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Economic"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Daniele Tascini"
+    ]
+  }
+}

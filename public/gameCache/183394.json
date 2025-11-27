@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:13:49.616Z",
+  "gameDetails": {
+    "id": "183394",
+    "name": "Viticulture Essential Edition",
+    "type": "boardgame",
+    "description": "In Viticulture, the players find themselves in the roles of people in rustic, pre-modern Tuscany who have inherited meagre vineyards. They have a few plots of land, an old crush pad, a tiny cellar, and three workers. They each have a dream of being the first to call their winery a true success.\n\nThe players are in the position of determining how they want to allocate their workers throughout the year. Every season is different on a vineyard, so the workers have different tasks they can take care of in the summer and winter. There's competition over those tasks, and often the first worker to get to the job has an advantage over subsequent workers.\n\nFortunately for the vineyard owners, people love to visit wineries, and it just so happens that many of those visitors are willing to help out around the vineyard when they visit as long as you assign a worker to take care of them. Their visits (in the form of cards) are brief but can be very helpful. Using those workers and visitors, the vineyard owners can expand their vineyards by building structures, planting vines, and filling wine orders, working towards the goal of running the most successful winery in Tuscany.\n\nViticulture Essential Edition includes the base game of Viticulture and a few of the most popular modules from the original Tuscany expansion, including Mamas & Papas, Fields (previously known as Properties), expanded and revised Visitors, and Automa cards for a solo variant, along with a few minor rule changes.\n\n",
+    "image": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__original/img/gDL7OZFlzoOFgU0VYlREs8P5hCQ=/0x0/filters:format(jpeg)/pic6500949.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__small/img/pULDtVd75QZgGfvSMhr6Rs07vK8=/fit-in/200x150/filters:strip_icc()/pic6500949.jpg",
+    "link": "https://boardgamegeek.com/thing/183394",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2015",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.96448",
+    "averageWeight": "2.895",
+    "boardGameRank": "43",
+    "mechanics": [
+      "Contracts",
+      "Hand Management",
+      "Race",
+      "Solo / Solitaire Game",
+      "Turn Order: Auction",
+      "Victory Points as a Resource",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Jamey Stegmaier",
+      "Alan Stone"
+    ]
+  }
+}

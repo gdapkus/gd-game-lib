@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:09:51.267Z",
+  "gameDetails": {
+    "id": "39425",
+    "name": "Formula D: Circuits 1 – Sebring & Chicago",
+    "type": "boardgameexpansion",
+    "description": "Expansion Tracks for Formula D:\n\n1.  Sebring, Florida\n2.  Chicago, Illinois\n\nStretching over almost 6 kilometers, the Sebring track in Florida alternates between straight stretches, quick curves and slow, technical turns. Plotted over a former military training camp turned into an airfield, this track has been a staple in North America since the 1930&rsquo;s. Each year, the 12 hours of Sebring take place there: an endurance race whose slightly uneven course gives drivers the chance to test the resilience of their vehicle in the hot and dry (when is it not humid?) Florida weather.\n\nThe second track of this expansion offers street racing fans the chance to drive wildly in the streets of Chicago - in the East Park area, to be precise. This track offers an urban terrain which alternates between curves and straight lines. This mad race in the heart of city traffic will give drivers a chance to drive along the impressive Aon Center, one of the tallest skyscrapers of the city, to cross the Lake Shore East Park and its three tightly woven lanes (be careful about collisions!), and then rush along the inner port before finally crossing two vertigo-inducing bridges.\n\n",
+    "image": "https://cf.geekdo-images.com/J6eDv67f0mrfLBPbMdjsiQ__original/img/NwtVpob-EQDDzmjndgB679MEE08=/0x0/filters:format(jpeg)/pic419567.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/J6eDv67f0mrfLBPbMdjsiQ__small/img/nF0EynI3PQytNCTzKA9trQiGri0=/fit-in/200x150/filters:strip_icc()/pic419567.jpg",
+    "link": "https://boardgamegeek.com/thing/39425",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "2009",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5,
+      10
+    ],
+    "averageRating": "7.41489",
+    "averageWeight": "1.9231",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Laurent Lavaur",
+      "Eric Randall"
+    ]
+  }
+}

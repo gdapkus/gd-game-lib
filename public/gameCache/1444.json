@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:18:32.594Z",
+  "gameDetails": {
+    "id": "1444",
+    "name": "SPQR",
+    "type": "boardgame",
+    "description": "This game contains counters and maps that allow the reproduction of five battles of warfare in the Roman Republic.  The mechanics allow leaders to activate units within their command range in order to rout or destroy the other player's army.\n\nVolume II in GMT Games' Great Battles of History Series.\n\nContains:\n5 Battles\n2 doublesided maps\n3.5 counter sheets\nRules for SPQR\n\nBattles:\n&bull; Beneventum\n&bull; Bagradas\n&bull; Cannae\n&bull; Zama\n&bull; Cynocephalae\n\n",
+    "image": "https://cf.geekdo-images.com/6URx4GSIqEOzuhhDUr5JZw__original/img/qEgdBqqDAXdk4Hj38yLsLJ35bjE=/0x0/filters:format(jpeg)/pic182956.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6URx4GSIqEOzuhhDUr5JZw__small/img/Hl2TvJuMaJk387hguL0x_J8oPts=/fit-in/200x150/filters:strip_icc()/pic182956.jpg",
+    "link": "https://boardgamegeek.com/thing/1444",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1992",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.38264",
+    "averageWeight": "3.6957",
+    "boardGameRank": "4301",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Movement Points",
+      "Simulation"
+    ],
+    "categories": [
+      "Ancient",
+      "Wargame"
+    ],
+    "designers": [
+      "Richard H. Berg",
+      "Mark Herman"
+    ]
+  }
+}

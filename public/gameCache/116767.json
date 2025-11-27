@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:07:38.783Z",
+  "gameDetails": {
+    "id": "116767",
+    "name": "Mondo-Carcassonne",
+    "type": "boardgame",
+    "description": "Two great games that collide in fun! Mondo-like gameplay, Carcassonne tiles, twenty minutes of fun.\n\nPlace your Carcassonne tiles (seventy or so per player) in the middle of the table, face up. Each person has an identical play sheet with spaces to create a map of twenty four tile. Flip a goal card and set the timer. Players start filling their play sheets in real time, no turns, to score points by completing cities and roads, and competing to best satisfy the selected goal.\n\nSolitaire rules included.\n\n",
+    "image": "https://cf.geekdo-images.com/yjwZqeweXI8QoM9x0o5l6w__original/img/ugxb02o2BVfYPPygeC-h5A-uzVY=/0x0/filters:format(jpeg)/pic1472746.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yjwZqeweXI8QoM9x0o5l6w__small/img/F-FqGoll05y5RDBCQwGuPxZvD1M=/fit-in/200x150/filters:strip_icc()/pic1472746.jpg",
+    "link": "https://boardgamegeek.com/thing/116767",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2012",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "5.4",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Print & Play",
+      "Real-time"
+    ],
+    "designers": [
+      "Andrew Walters"
+    ]
+  }
+}

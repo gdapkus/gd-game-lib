@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:17:32.870Z",
+  "gameDetails": {
+    "id": "283595",
+    "name": "Ticket to Ride Map Collection 6½: Poland",
+    "type": "boardgameexpansion",
+    "description": "From the sea to the Tatras, as wide as Poland is long, there are beautiful areas just waiting to be discovered. Do you want to observe the bison in the shadow of the Bialowieza Forest? Or maybe you prefer to take a walk through the charming streets of Wroclaw?\n\nTicket to Ride Map Collection 6&frac12;: Poland, which debuted solely on the Polish market in 2019 as Wsiąść do Pociągu: Polska, challenges players to create connections between Poland's neighboring countries, such as Germany, Ukraine, and the Czech Republic. In addition to connecting cities and completing tickets in the usual way of other Ticket to Ride games, your routes can reach border crossings and thus connect neighboring countries. If you manage to create such a connection on your turn, say, building a track so that you have a connected line from Ukraine to Germany, you draw the top point card from the stack for each of these two countries. Their point value is arranged in descending order, which means that the players who are the first to draw cards receive more points. If you later connect this network to the Czech Republic, then you'd draw the top card from each of the three countries' card stacks &mdash; assuming that a country's cards haven't all been claimed, of course.\n\n",
+    "image": "https://cf.geekdo-images.com/UfbeAfDFpIWt4csn9wMdwQ__original/img/vW0_sj7G45ijJvy0lPo--zZMzrY=/0x0/filters:format(png)/pic6820446.png",
+    "thumbnail": "https://cf.geekdo-images.com/UfbeAfDFpIWt4csn9wMdwQ__small/img/UyEbNJk-cinwxTgR6pnHf5h_mwM=/fit-in/200x150/filters:strip_icc()/pic6820446.png",
+    "link": "https://boardgamegeek.com/thing/283595",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.43214",
+    "averageWeight": "1.75",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Network and Route Building",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains"
+    ],
+    "designers": [
+      "Alan R. Moon"
+    ]
+  }
+}

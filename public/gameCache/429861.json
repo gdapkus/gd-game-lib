@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T19:31:21.218Z",
+  "gameDetails": {
+    "id": "429861",
+    "name": "Ace of Spades",
+    "type": "boardgame",
+    "description": "Your path of vengeance has led you to Sweet Haven, Arizona. You know that the necromancer who has ruined your life has taken over the cemetery as his base of operations and you are going to finish him off at all costs. You face Lord Overkill, a supernatural being, but your prowess as a gambler goes beyond sleight of hand.\n\nChannel your magic through poker plays to take out Lord Overkill's minions one by one and descend into Hell itself to duel the monster who ruined your life.\n\nAce of Spades is a single-player game, or a two-player game if you prefer to play it in co-op mode, that uses poker mechanics to resolve dangerous duels against the worst spawns from Hell.\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/m6Do-APgKAZXZvH5UaWoCQ__original/img/t3P7L-OkowaeMUbgLy5b66wkwBg=/0x0/filters:format(jpeg)/pic8773199.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/m6Do-APgKAZXZvH5UaWoCQ__small/img/ncloDo0PHRQAp0I5N4QZp7b36MM=/fit-in/200x150/filters:strip_icc()/pic8773199.jpg",
+    "link": "https://boardgamegeek.com/thing/429861",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "45",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.39498",
+    "averageWeight": "2.5556",
+    "boardGameRank": "4881",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "American West",
+      "Card Game"
+    ],
+    "designers": [
+      "Benjamín Amorín"
+    ]
+  }
+}

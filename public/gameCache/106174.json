@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:52:09.694Z",
+  "gameDetails": {
+    "id": "106174",
+    "name": "Di Renjie",
+    "type": "boardgame",
+    "description": "Di Renjie is a deduction card game for two to six players where the goal is to deduce the target, murder weapon, and location of an assassination before the crime takes place.\n\nThe Di Renjie deck of cards contains three cards for each individual target, weapon and location. At the beginning of the game, one card of each type (Target, Weapon and Location) is secretly placed under the game box. Players try to collect as many clue sets (all three matching cards of a single type) to deduce which card of each type is under the game box.\n\nAfter eight sets are collected, the game ends when the last player finishes her turn. Each player writes her answer on a piece of paper (or mobile phone) before revealing the three cards under the game box. If players together as a team successfully deduce all three elements, each player receives points for her correct deduction and clue sets collected. The player with the most points wins. However, if the players weren't able to deduce all three aspects of the crime as a team, they fail, the murder takes place, and all players lose the game.\n\n",
+    "image": "https://cf.geekdo-images.com/qgxKUIVN8-CrPFpN3d4SaQ__original/img/gPSmwpDE74SosdRf_L4Fnf5_P_U=/0x0/filters:format(jpeg)/pic1224497.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qgxKUIVN8-CrPFpN3d4SaQ__small/img/Zy6HBXZP-C9mAIIWvV9JaS1gOvE=/fit-in/200x150/filters:strip_icc()/pic1224497.jpg",
+    "link": "https://boardgamegeek.com/thing/106174",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2012",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.02",
+    "averageWeight": "1.75",
+    "boardGameRank": "16133",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Movies / TV / Radio theme",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Ta-Te Wu"
+    ]
+  }
+}

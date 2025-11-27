@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:50:21.231Z",
+  "gameDetails": {
+    "id": "240",
+    "name": "Britannia",
+    "type": "boardgame",
+    "description": "\"Britannia\" is a historical Strategic board-wargame that broadly depicts the millennia-long struggle for control of England, Scotland, and Wales. The game begins with the Roman invasion of 43 A.D., continues through the many struggles between Angles, Saxons, Picts, Norsemen, Scots, Irish, and other tribes, and ends with the Norman invasion of 1066.\n\nBritannia allows players to re-create this epic history, re-enacting important battles in some cases, altering the course of history in others. The game rules discourage players from making historically unrealistic moves, but also give players the freedom to alter Great Britain&rsquo;s history in important ways, creating countless interesting &ldquo;what if?&rdquo; scenarios. What if Boudicca&rsquo;s Revolt against the Romans had been more successful? What if the Romans and the Romano-British had repelled the Saxon invasions of the 5th and 6th centuries? What if William the Conqueror had died during the Norman invasion of 1066?\n\nIn Britannia, the players will determine the destiny of a kingdom.\n\n",
+    "image": "https://cf.geekdo-images.com/-M-1zs8oMttiUS2xd8qK4A__original/img/Hil6BWCATeo_bcRqRMHGhAsx_mw=/0x0/filters:format(jpeg)/pic106711.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-M-1zs8oMttiUS2xd8qK4A__small/img/qjfnfPFYpTCgmvV9Yon2BDdy88Q=/fit-in/200x150/filters:strip_icc()/pic106711.jpg",
+    "link": "https://boardgamegeek.com/thing/240",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "1986",
+    "playingTime": "300",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.19021",
+    "averageWeight": "3.1611",
+    "boardGameRank": "1141",
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Simulation",
+      "Stat Check Resolution",
+      "Voting"
+    ],
+    "categories": [
+      "Ancient",
+      "Civilization",
+      "Medieval",
+      "Wargame"
+    ],
+    "designers": [
+      "Lewis Pulsipher"
+    ]
+  }
+}

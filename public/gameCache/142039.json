@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:37:35.289Z",
+  "gameDetails": {
+    "id": "142039",
+    "name": "Lost Legacy",
+    "type": "boardgame",
+    "description": "Lost Legacy, an official spin-off of Love Letter, includes two sets of 16 cards: The Starship and Flying Garden. Players can use one set or the other or combine them in various ways to alter the powers available in the game. Shuffle all the cards together (other than the second \"Lost Legacy\"), and you can include up to six players in the same game. Cards from Lost Legacy can also be combined with Lost Legacy: Hyakunen Senso to Ryu no Miko and Lost Legacy: Binbo Tantei to Inbo no Shiro.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tRules SummaryLost Legacy is a game of risk, deduction, and luck for 2&ndash;4 players. You start the game with one card in hand from a deck of sixteen cards. On a turn, you do the following:\n\n\n         Draw: Draw the top card from the deck and add it to your hand.\n         Play: Choose one of the two cards in hand to play and place it face up in front of you.\n         Effect: Carry out the played card's effect, after which the card is considered as discarded.\n         End: If there is at least one card left in the deck, the turn goes to the next player; if not, the investigation phase starts. Using the investigation speed indicated on the card each player has in hand, players take turns guessing which player (whether yourself or someone else) holds the \"Lost Legacy\" card; this card might also be in the \"Ruins\", a location that holds one card at the start of the game and possibly acquires more cards during play. The player who guesses correctly wins; if no one finds the Lost Legacy, then everybody loses.\n    \n\n\n",
+    "image": "https://cf.geekdo-images.com/i7Ol4lwXm2qxKoY9czBeOw__original/img/4muOjlC_41druUrWN1GI8pkCUqQ=/0x0/filters:format(jpeg)/pic1644910.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/i7Ol4lwXm2qxKoY9czBeOw__small/img/0f8755C8FRfwSvfUdGmqJ6qSyss=/fit-in/200x150/filters:strip_icc()/pic1644910.jpg",
+    "link": "https://boardgamegeek.com/thing/142039",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2013",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.45514",
+    "averageWeight": "1.3167",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Memory",
+      "Player Elimination"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction"
+    ],
+    "designers": [
+      "Seiji Kanai",
+      "Hayato Kisaragi"
+    ]
+  }
+}

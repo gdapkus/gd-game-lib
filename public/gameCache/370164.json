@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:02:21.069Z",
+  "gameDetails": {
+    "id": "370164",
+    "name": "Fun Facts",
+    "type": "boardgame",
+    "description": "Each round in Fun Facts, a question is placed in the center of the table, e.g., \"How long is the perfect nap?\", then everyone secretly writes their answer on their colored arrow and places that arrow face down on the table. (You write your name on the other side of the arrow so that everyone knows which arrow is whose.)\n\nOnce everyone has written their answer, take turns placing your arrow in relation to the other players from low to high: \"I know that Mom is super sleepy, so I should definitely place my arrow below hers.\" After everyone has placed their answer in the center of the table, the starting player has the opportunity to move their own arrow &mdash; without touching anyone else's!\n\nThen you reveal everyone's numbers, and removes each arrow that is out of order. Each remaining arrow represents a correct answer and provides one point for the entire team. After eight rounds, record the team's score in the Record of Legends. Can you possibly achieve a perfect score?\n\n",
+    "image": "https://cf.geekdo-images.com/wkj9lur-J5Bxun09mnI2rQ__original/img/4qUgF74h0l6EMn-HPzGI4Nydszk=/0x0/filters:format(jpeg)/pic7070521.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wkj9lur-J5Bxun09mnI2rQ__small/img/WD6rjSm3DZS3JD2Bb4EXM9fL5bk=/fit-in/200x150/filters:strip_icc()/pic7070521.jpg",
+    "link": "https://boardgamegeek.com/thing/370164",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2022",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "7.04219",
+    "averageWeight": "1.0357",
+    "boardGameRank": "1664",
+    "mechanics": [
+      "Cooperative Game",
+      "Ordering"
+    ],
+    "categories": [
+      "Party Game"
+    ],
+    "designers": [
+      "Kasper Lapp"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:51:12.995Z",
+  "gameDetails": {
+    "id": "239188",
+    "name": "Chronicles of Crime",
+    "type": "boardgame",
+    "description": "Chronicles of Crime is a cooperative game of crime investigation, mixing an app, a board game and a touch of Virtual Reality.\n\nWith the same physical components (board, locations, characters and items), players will be able to play plenty of different scenarios and solve as many different crime stories.\n\nPlayers start the app, choose the scenario they want to play, and follow the story. The goal being to catch the killer of the current case in the shortest time possible.\n\nUsing the Scan&Play technology, each component (locations, characters, items, etc.) has a unique QR code, which, depending on the scenario selected, will activate and trigger different clues and stories. That means players will be able to get new stories way after the game is released simply by downloading the app's updates, without any shipping of new physical components involved.\n\nThe VR experience only requires a mobile phone. Players simply put the VR glasses (optional buy) onto their mobile device, and put the VR glasses on their nose, holding their mobile device in front of their eyes, to immerse themselves in the game's universe and search for clues in a virtual world.\n\nThe game comes with 1 tutorial and 5 scenarios, but more can be downloaded directly inside the app!\nEach session last around 1h to 1h30 minutes and many scenarios are connected to each others in order to tell a much bigger story.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__original/img/3OigysLof9HIk4jvV79Cm-tb-gY=/0x0/filters:format(jpeg)/pic4317519.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__small/img/QFzbDlFGzK3yRZNLnRr4YzHwEuY=/fit-in/200x150/filters:strip_icc()/pic4317519.jpg",
+    "link": "https://boardgamegeek.com/thing/239188",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.54536",
+    "averageWeight": "2.0602",
+    "boardGameRank": "330",
+    "mechanics": [
+      "Cooperative Game",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Adventure",
+      "Deduction",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "David Cicurel"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:36:09.737Z",
+  "gameDetails": {
+    "id": "39938",
+    "name": "Carson City",
+    "type": "boardgame",
+    "description": "Carson City is a strategic game played in four rounds, and in each one of them, the players choose a character from the seven available that gives certain advantages.\n\nAfter selecting characters, your cowboys are placed on action track locations that allow you to construct buildings, houses, or roads; claim ground; earn money; or score victory points. When more than one player is on the same location, get ready, it is time for a duel! Roll the dice and see if you are the last one standing and lay claim to the goods!\n\nDuring the game, you can take various actions that earn you victory points for your plots, pistols (the hired help), and buildings. At the end of the game, your buildings, houses, mountains, and money contribute to your victory points, and the person with the most points wins. So go round up your posse of gunslingers and get ready for some Wild West action in Carson City!\n\n",
+    "image": "https://cf.geekdo-images.com/DxNZPNkfjS-exbFa_ASi0Q__original/img/y5XnUGr6Oxf-7d6CalLATFR76Bk=/0x0/filters:format(jpeg)/pic577030.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DxNZPNkfjS-exbFa_ASi0Q__small/img/ABNJVaqRzjMTxfs8Rn7IZWXFN4s=/fit-in/200x150/filters:strip_icc()/pic577030.jpg",
+    "link": "https://boardgamegeek.com/thing/39938",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2009",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.20431",
+    "averageWeight": "3.1807",
+    "boardGameRank": "739",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "American West",
+      "City Building",
+      "Economic"
+    ],
+    "designers": [
+      "Xavier Georges"
+    ]
+  }
+}

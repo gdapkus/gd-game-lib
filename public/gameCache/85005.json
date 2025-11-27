@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:02:17.804Z",
+  "gameDetails": {
+    "id": "85005",
+    "name": "The Boss",
+    "type": "boardgame",
+    "description": "With each card played, you gain more information about the loot &mdash; or sanctions &mdash; that may be yours for the taking in different American cities. Basing upon this information, you send out the members of your gang to those cities: some are pros, some are wannabes.\n\nWhoever has the most gang members in a city cashes the loot or undergoes the sanction. When going to Chicago, you have no choice but to split your takings with the boss himself: Al Capone. The further the game progresses, the higher the stakes are getting, especially in Chicago.\n\nThe Boss is essentially a card game (with a small game board for keeping scores) of deduction, bluffing, and a lot of backstabbing.\n\n",
+    "image": "https://cf.geekdo-images.com/yq8_IeVY2vxH8q7HFLDblA__original/img/hXWenZBpoI1eL7xbVlnvmNAUZQU=/0x0/filters:format(jpeg)/pic1091844.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yq8_IeVY2vxH8q7HFLDblA__small/img/_xvzvwWlaGoXn-uAnm3-5_arqaU=/fit-in/200x150/filters:strip_icc()/pic1091844.jpg",
+    "link": "https://boardgamegeek.com/thing/85005",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2010",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.78697",
+    "averageWeight": "1.7843",
+    "boardGameRank": "2236",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Betting and Bluffing",
+      "Deduction"
+    ],
+    "categories": [
+      "Card Game",
+      "Mafia"
+    ],
+    "designers": [
+      "Alain Ollier"
+    ]
+  }
+}

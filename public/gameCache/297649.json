@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T19:31:28.210Z",
+  "gameDetails": {
+    "id": "297649",
+    "name": "Arkeis: Thus the Sphinx Cometh",
+    "type": "boardgameexpansion",
+    "description": "A brand-new scenario (6.5, integrated directly in the campaign) in which the Sphinx will make its appearance in a context you've never seen before! Like the other scenarios, it comes with its own crate box, containing no less than 39 expedition cards, 5 new adversary cards for the Sphinx, 6 special door tokens and zone markers!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/QWpxprUqZoN7DXpzJqqTJg__original/img/Km1qiMx7w8GEHJwx7qPCBUSsKWI=/0x0/filters:format(jpeg)/pic5194613.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QWpxprUqZoN7DXpzJqqTJg__small/img/KujQga8RONL8qg6TJT83UB8M5Lc=/fit-in/200x150/filters:strip_icc()/pic5194613.jpg",
+    "link": "https://boardgamegeek.com/thing/297649",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.26689",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Legacy Game",
+      "Modular Board",
+      "Storytelling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "designers": [
+      "Antoine Bauza",
+      "Corentin Lebrat",
+      "Ludovic Maublanc",
+      "Théo Rivière"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T19:33:27.953Z",
+  "gameDetails": {
+    "id": "383010",
+    "name": "Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic",
+    "type": "boardgame",
+    "description": "CLANK! Legacy returns with an epic sequel &mdash; Clank! Legacy 2: Acquisitions Incorporated - Darkest Magic Play co-operatively and competitively in the world of Penny Arcade's Acquisitions Incorporated!\n\n",
+    "image": "https://cf.geekdo-images.com/xzG46GKyfJM2HEhZVQ_K9Q__original/img/Mu-qpyRYwEoXO3x8kLxcb0QfXJA=/0x0/filters:format(jpeg)/pic7419605.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xzG46GKyfJM2HEhZVQ_K9Q__small/img/_B8rs7Koi0Zz_9AZny2WPDpOmAc=/fit-in/200x150/filters:strip_icc()/pic7419605.jpg",
+    "link": "https://boardgamegeek.com/thing/383010",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.63151",
+    "averageWeight": "2.7143",
+    "boardGameRank": "1792",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Legacy Game",
+      "Push Your Luck",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "designers": [
+      "Jay E. Treat, III"
+    ]
+  }
+}

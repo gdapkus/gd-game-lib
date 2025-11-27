@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:30:14.696Z",
+  "gameDetails": {
+    "id": "425724",
+    "name": "One Deck Dungeon: Relics of the Forge",
+    "type": "boardgame",
+    "description": "One Deck Dungeon returns with a brand new full expansion! The Forge hungers for fuel, and it will reward your efforts with great power if you satisfy it.\n\nDuring Setup, you'll choose a Relic to enter the dungeon with. This Relic will shape your strategies, as it will be your means for filling the Forge with fuel, and also a powerful way to expend it!\n\nThis expansion is stand-alone, and contains all new dungeons, heroes, monsters, traps.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/8IpN6DyEnns-qGg770fjjg__original/img/ClooPLh67lBkrZE1JCsUuLOv8yI=/0x0/filters:format(png)/pic8337547.png",
+    "thumbnail": "https://cf.geekdo-images.com/8IpN6DyEnns-qGg770fjjg__small/img/dqnrzCANwyf3NLaewXlXyNZuB5s=/fit-in/200x150/filters:strip_icc()/pic8337547.png",
+    "link": "https://boardgamegeek.com/thing/425724",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "6.33333",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Melding and Splaying",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Fantasy",
+      "Medieval"
+    ],
+    "designers": [
+      "Chris Cieslik"
+    ]
+  }
+}

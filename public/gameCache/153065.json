@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:57:20.644Z",
+  "gameDetails": {
+    "id": "153065",
+    "name": "Linko",
+    "type": "boardgame",
+    "description": "In Linko! (a.k.a. Abluxxen), you take turns playing number cards, and the more cards of the same number you play, the better as cards score points at the end of the game. If someone else plays the same amount of cards with a higher number, however, your cards get nicked! Stealing cards can be good, but if you can't use them later, and end the game with cards in hand, they'll cost you points.\n\nIn more detail, the deck contains 104 number cards (1-13 x8) and five joker cards. Each player starts with a hand of 13 cards, and six cards are laid face-up next to the deck. On a turn, a player lays down one or more cards of the same value, adding jokers if desired; if she already has cards on the table, she lays these cards so that previously played cards are still visible. If any opponent has most recently played the same number of cards and those cards are of a lower value, then the active player \"abluxxes\" those opponents &mdash; that is, the active player can take the abluxxed cards into her hand and the opponent then draws the same number of cards, either from the display or the deck; if she doesn't take these cards in hand, then the opponent either returns these cards to his hand or discards them and draws that many cards. Refill the display only after someone finishes drawing cards. (Jokers can be played on their own, and they are considered to be higher than all values.)\n\nAs soon as the deck runs out of cards or a player has no cards in hand, the game ends immediately, even if the player would normally abluxx an opponent. Each player scores one point for each card on the table in front of him, then loses one point for each card in hand. Whoever has the highest score wins. If players wish, they can play multiple rounds and sum their scores over the rounds to determine a winner.\n\n",
+    "image": "https://cf.geekdo-images.com/93dmjdpiUd5J3Vf95uF0HQ__original/img/4Bf2Yn4Zejbv_NFHJ1X9IWldeI0=/0x0/filters:format(jpeg)/pic7634588.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/93dmjdpiUd5J3Vf95uF0HQ__small/img/4yLeQ5CsTpK8imlGb9WedgAvVeM=/fit-in/200x150/filters:strip_icc()/pic7634588.jpg",
+    "link": "https://boardgamegeek.com/thing/153065",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2014",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.99736",
+    "averageWeight": "1.3875",
+    "boardGameRank": "1159",
+    "mechanics": [
+      "Hand Management",
+      "Melding and Splaying",
+      "Move Through Deck",
+      "Open Drafting",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ]
+  }
+}

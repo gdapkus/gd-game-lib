@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:36:28.518Z",
+  "gameDetails": {
+    "id": "382229",
+    "name": "Disney Animated",
+    "type": "boardgame",
+    "description": "Work together in Disney Animated like the team at the famous Walt Disney Animation Studios to create movie magic!\n\nIn the game, you need to produce five classic Disney films using detailed background art, vibrant paint colors, and lively sound to bring cherished stories to life on the screen &mdash; but the villains from these feature films will rush your deadlines and create all the calamity they can. As a team, you must use the strengths of the animation studio &mdash; heart, focus, inspiration, grit, and teamwork &mdash; to vanquish the villains and finish your films in time.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/E8DWivX4mn0xbzPNp6vfFA__original/img/5TqROlaSlez1t2259ouTLZju1E8=/0x0/filters:format(png)/pic7400365.png",
+    "thumbnail": "https://cf.geekdo-images.com/E8DWivX4mn0xbzPNp6vfFA__small/img/e-wUA53xiQOkde1nsAlDqDkw1SI=/fit-in/200x150/filters:strip_icc()/pic7400365.png",
+    "link": "https://boardgamegeek.com/thing/382229",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "80",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "80",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.25562",
+    "averageWeight": "2.35",
+    "boardGameRank": "4040",
+    "mechanics": [
+      "Action / Event",
+      "Action Drafting",
+      "Cooperative Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Movies / TV / Radio theme"
+    ],
+    "designers": [
+      "Matt Christianson",
+      "Prospero Hall",
+      "Ashwin Kamath",
+      "Chris Rowlands"
+    ]
+  }
+}

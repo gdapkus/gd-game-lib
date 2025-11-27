@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:10:38.418Z",
+  "gameDetails": {
+    "id": "5895",
+    "name": "Hungry Hungry Hippos",
+    "type": "boardgame",
+    "description": "Jump into the jungle and join the feeding frenzy!​\n\nWhether they&rsquo;re munching at brunch or crunching at lunch, these four ravenous hippos are always ready for a yummy treat! No fruit in the jungle is safe from the rumbly tummies of Hungry, Sweetie, Bottomless, and Berry. Look out for your snacks at the Rumbly Lagoon when these chompy chewers dive in!\n\n",
+    "image": "https://cf.geekdo-images.com/oIF_SSRCrDwEbK5oHjm-QQ__original/img/h0zbFesCLPuJ59c1n03BE5EG4Hg=/0x0/filters:format(jpeg)/pic152043.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oIF_SSRCrDwEbK5oHjm-QQ__small/img/KTHHU9o4w5V54SWnt5DD24Ot1fU=/fit-in/200x150/filters:strip_icc()/pic152043.jpg",
+    "link": "https://boardgamegeek.com/thing/5895",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1978",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "4.17193",
+    "averageWeight": "1.0674",
+    "boardGameRank": "29588",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity",
+      "Animals",
+      "Children's Game",
+      "Comic Book / Strip",
+      "Real-time"
+    ],
+    "designers": [
+      "Fred Kroll",
+      "Masatoshi Todokoro"
+    ]
+  }
+}

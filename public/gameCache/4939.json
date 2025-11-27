@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:53:39.911Z",
+  "gameDetails": {
+    "id": "4939",
+    "name": "Formula Dé Circuits 13 & 14: Montreal & Long Beach",
+    "type": "boardgameexpansion",
+    "description": "Expansion tracks for Formula Dé:\n\n\n    13 - Montreal, Canada\n    14 - Long Beach, California USA\n\n\n",
+    "image": "https://cf.geekdo-images.com/Lu8dWmMkTuSggGPXFM28og__original/img/6RLx83yryArZNnUf4wAHycosPMg=/0x0/filters:format(jpeg)/pic16260.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Lu8dWmMkTuSggGPXFM28og__small/img/uWqPTLk8IcXFTUieovM-hqDLCNg=/fit-in/200x150/filters:strip_icc()/pic16260.jpg",
+    "link": "https://boardgamegeek.com/thing/4939",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "1998",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.44032",
+    "averageWeight": "1.9524",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Laurent Lavaur",
+      "Eric Randall"
+    ]
+  }
+}

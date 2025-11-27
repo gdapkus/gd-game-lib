@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:52:00.445Z",
+  "gameDetails": {
+    "id": "54998",
+    "name": "Cyclades",
+    "type": "boardgame",
+    "description": "In this latest collaboration between Bruno Cathala and Ludovic Maublanc, players must buy the favor of the gods in their race to be the first player to build two cities in the Ancient Greek island group known as the Cyclades.\n\nVictory requires respect for all the gods - players cannot afford to sacrifice to only one god, but must pay homage to each of five gods in turn.  Each turn, the players bid for the favors of the gods, as only one player can have the favor of each god per turn - and each player is also limited to the favor of a single god per turn.\n\n     Ares allows the movement of player armies and the building of Fortresses.\n     Poseidon allows players to move their navies and build Ports.\n     Zeus allows his followers to hire priests and build temples.\n     Athena provides her worshipers with philosophers and universities.\n     Apollo increases the income of his worshipers.\n\n\n",
+    "image": "https://cf.geekdo-images.com/6QbaJOS8acWkJ6gSYI0KaQ__original/img/KOGjizqhVHXlKWxXkuyxkHRCNnA=/0x0/filters:format(jpeg)/pic584779.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6QbaJOS8acWkJ6gSYI0KaQ__small/img/YSxmsx_zxqdVoqNVGsNnAqyH1lc=/fit-in/200x150/filters:strip_icc()/pic584779.jpg",
+    "link": "https://boardgamegeek.com/thing/54998",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2009",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.49342",
+    "averageWeight": "2.8172",
+    "boardGameRank": "264",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Auction / Bidding",
+      "Auction: Fixed Placement",
+      "Dice Rolling",
+      "Open Drafting",
+      "Set Collection",
+      "Variable Phase Order"
+    ],
+    "categories": [
+      "Ancient",
+      "City Building",
+      "Civilization",
+      "Fighting",
+      "Mythology",
+      "Nautical"
+    ],
+    "designers": [
+      "Bruno Cathala",
+      "Ludovic Maublanc"
+    ]
+  }
+}

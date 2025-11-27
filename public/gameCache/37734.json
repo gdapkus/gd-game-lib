@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:50:57.161Z",
+  "gameDetails": {
+    "id": "37734",
+    "name": "Cavum",
+    "type": "boardgame",
+    "description": "In the mountain there are veins of precious stones. The players build tunnels in the mountain, establish stations in the mountain and in the city, discover veins of precious stones, acquire precious stones, and sell them. The players get points for stations in the city and for selling precious stones. The winner is the player with the most points.\n\n\n\nGame Summary\nThe board is a hex grid, with city spaces along most of the edges. The center hex is a vein of yellow gems: place all 9 in a stack there. The rest of the gems go in their individual market areas (priced 1-9 based on supply).Each round (3 in game), add 5 contracts (showing gem combinations; score big VP if completing them; lose some VP if cannot) to the display. Then auction (using VP) turn order chips 1-4. Players then each get the same set of tiles (hexes with various numbers of track exits, prospecting tiles, veins, option tiles, etc.) plus a dynamite hex based on their turn order chip. Take turns taking contracts until everyone passes.\n\nThen, on your turn, play 1-4 of your 12 actions. These allow you to place tracks (expanding previous tunnels; you can also cover track tiles with tiles having more exits), stations, or veins (which you supply with gems of your choice). Gems (6 types, 9 tokens each) each have their own market where they are stored and which set their max sell price. The last action is prospecting, where you create a path from one of your stations to another, passing through as many veins as possible: take one gem from each vein.\n\nAfter everyone's 12 actions are used, any exposed dynamite tracks explode and take the adjacent tracks as well (all these are placed in the Buy Pool, which can be accessed by turning in Option tiles)! You score for stations in cities based on the number of empty hexes. Then, for each gem type, players bid (Dutch auction style, bidding for the lowest price they'll accept) and may sell their gems for VP at their bid price.\n\nAt game end (after 3 rounds), players sell off all their remaining gems (with lowest VP selling next gem), there's another city scoring, and players lose VP for incomplete orders. Most VP wins!\n\n",
+    "image": "https://cf.geekdo-images.com/XUNtkyGE1TJhCVYLu_28qA__original/img/lMnomTm8riIoyM4Y3RTsbD5efkU=/0x0/filters:format(jpeg)/pic1367245.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XUNtkyGE1TJhCVYLu_28qA__small/img/ZlfUjAj7rxjKslJwg5M8zzKC6nk=/fit-in/200x150/filters:strip_icc()/pic1367245.jpg",
+    "link": "https://boardgamegeek.com/thing/37734",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.66865",
+    "averageWeight": "3.5827",
+    "boardGameRank": "3512",
+    "mechanics": [
+      "Action Points",
+      "Auction / Bidding",
+      "Contracts",
+      "Hexagon Grid",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "categories": [
+      "American West"
+    ],
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ]
+  }
+}

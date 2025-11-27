@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:52:39.797Z",
+  "gameDetails": {
+    "id": "715",
+    "name": "Escape from Colditz",
+    "type": "boardgame",
+    "description": "Escape From Colditz is a 1-vs-many semi-cooperative game where one player is the Security Officer of the German forces, and the others are Escape Officers for various nationalities or prisoners of war (POWs).  Escape Officers try to acquire the equipment they need for a successful escape (rope, wire cutters, etc.), while the Security Officer tries to hinder them by putting them in solitary confinement and consficating their equipment.\n\nPlay lasts for a pre-determined length of time or number of rounds.  If an Escape Officer can free a pre-determined number of POWs (usually 2) before then, they win. Otherwise the Security Officer wins.\n\nThe game was co-designed by Major PR Reid, a British soldier who was one of the few to actually successfully escape from Colditz during the Second World War.\n\n",
+    "image": "https://cf.geekdo-images.com/b0JovTV6SxgMO3DfohhFuA__original/img/MSFca6XkfL7PrVuvrTU_BdxWaaI=/0x0/filters:format(jpeg)/pic3117438.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/b0JovTV6SxgMO3DfohhFuA__small/img/LjvJ0LaRQ7GqSUYG2SVA-jdyvwA=/fit-in/200x150/filters:strip_icc()/pic3117438.jpg",
+    "link": "https://boardgamegeek.com/thing/715",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1973",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.68187",
+    "averageWeight": "2.2209",
+    "boardGameRank": "2399",
+    "mechanics": [
+      "Elapsed Real Time Ending",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Open Drafting",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Simulation"
+    ],
+    "categories": [
+      "Adventure",
+      "World War II"
+    ],
+    "designers": [
+      "Bob Brechin",
+      "Brian Degas",
+      "Major P.R. Reid M.B.E., M.C."
+    ]
+  }
+}

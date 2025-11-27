@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:14:45.857Z",
+  "gameDetails": {
+    "id": "145496",
+    "name": "Privateer",
+    "type": "boardgame",
+    "description": "A game of piracy on the high seas! Buy, sell, and steal cargo while improving your captain's prowess and increasing your infamy.\n\nPrivateer is a European-style board game where players race to increase their infamy through the buying, selling, and plundering of cargo on the Caribbean high seas.\n\nThe object of the game of Privateer is to be the first captain to amass a total of 20 \"Infamy\" points. Infamy is a measure of how fearsome, clever, and skilled your captain has become throughout the entirety of the game. Infamy can be gained through upgrades to your captain's ship or through the accumulation of powerful and rare Relic cards.\n\n",
+    "image": "https://cf.geekdo-images.com/9N4wQdm8U1XurHMq8BDX4w__original/img/yN8XifpLFEJ2ke2gnijlwqNJ8sM=/0x0/filters:format(png)/pic2426649.png",
+    "thumbnail": "https://cf.geekdo-images.com/9N4wQdm8U1XurHMq8BDX4w__small/img/8pQncnUUpZhGkLHiROpTFFqbrk0=/fit-in/200x150/filters:strip_icc()/pic2426649.png",
+    "link": "https://boardgamegeek.com/thing/145496",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2016",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.31197",
+    "averageWeight": "2.4444",
+    "boardGameRank": "18628",
+    "mechanics": [
+      "Pick-up and Deliver",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Pirates"
+    ],
+    "designers": [
+      "Rick Barnes"
+    ]
+  }
+}

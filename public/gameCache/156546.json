@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:58:26.073Z",
+  "gameDetails": {
+    "id": "156546",
+    "name": "Monikers",
+    "type": "boardgame",
+    "description": "Monikers is a party game based on the public domain game Celebrities, where players take turns attempting to get their teammates to guess names by describing or imitating well-known people.\n\nIn the first round, clue givers can say anything they want, except for the name itself. For the second round, clue givers can only say one word. And in the final round, clue givers can&rsquo;t say anything at all: they can only use gestures and charades.\n\n",
+    "image": "https://cf.geekdo-images.com/XvWGuvDebUB5Vht9x00ZMg__original/img/ayjwmNxAcELTBfRDDfApSNGsWN4=/0x0/filters:format(png)/pic9147640.png",
+    "thumbnail": "https://cf.geekdo-images.com/XvWGuvDebUB5Vht9x00ZMg__small/img/gMRbZnTJmA5KWBEzU5Q_v6vUEK0=/fit-in/200x150/filters:strip_icc()/pic9147640.png",
+    "link": "https://boardgamegeek.com/thing/156546",
+    "minPlayers": "4",
+    "maxPlayers": "16",
+    "yearPublished": "2015",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      6,
+      8,
+      10
+    ],
+    "averageRating": "7.76557",
+    "averageWeight": "1.0938",
+    "boardGameRank": "303",
+    "mechanics": [
+      "Acting",
+      "Communication Limits",
+      "Open Drafting",
+      "Role Playing",
+      "Singing",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Mature / Adult",
+      "Party Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Alex Hague",
+      "Justin Vickers"
+    ]
+  }
+}

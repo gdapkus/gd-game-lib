@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:58:50.480Z",
+  "gameDetails": {
+    "id": "342894",
+    "name": "Mythic Mischief",
+    "type": "boardgame",
+    "description": "In Mythic Mischief, you play as a faction of Mythic Manor students competing to get as many of the other students caught by the Tomekeeper as you can without getting caught yourself.\nEach Faction has its own unique set of abilities to move around the board, move the other factions into the path of the Tomekeeper, and even alter the course of the Tomekeeper by moving bookshelves.\nPlayers are able to upgrade their Faction&rsquo;s abilities throughout the game by collecting powerful Tomes from around the library.\nThe winner is the first Team to score 10 Mischief Points or the Team with the most points when the Tomekeeper finishes returning all of the Tomes after lunch!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/B1h4rA9VVLB6-3NxDucMLw__original/img/jJI5CVB2dBH-5kzkiG0Q0dOuFi8=/0x0/filters:format(png)/pic6294970.png",
+    "thumbnail": "https://cf.geekdo-images.com/B1h4rA9VVLB6-3NxDucMLw__small/img/mP1VC2vQ6H9x-8dRGJtB7a_OGlQ=/fit-in/200x150/filters:strip_icc()/pic6294970.png",
+    "link": "https://boardgamegeek.com/thing/342894",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.53042",
+    "averageWeight": "2.5306",
+    "boardGameRank": "1866",
+    "mechanics": [
+      "Action Points",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "designers": [
+      "Max Anderson",
+      "Zac Dixon",
+      "Austin Harrison"
+    ]
+  }
+}

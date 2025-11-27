@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:24:29.667Z",
+  "gameDetails": {
+    "id": "8690",
+    "name": "Buzzword",
+    "type": "boardgame",
+    "description": "2004 Games Magazine Games 100 Honoree\n\nFirst, divide everyone into two teams. On your team's turn, one member attempts to give clues to 10 words.  The cards state its \"buzzword\".  Other team members must solve each clue by saying the phrases that includes the buzzword. Meanwhile, the other team keeps track of the time and the missed clues. Score one point for each correctly solved clue. The clue giver reads the missed clues to the other team, giving them a chance to score. First team to reach 50 points wins. Watch out!  You only get 45 seconds to complete your answers to questions ranging from easy to quite difficult.\n\n",
+    "image": "https://cf.geekdo-images.com/CPTfnxaiZX1jyWvBznIg2g__original/img/boESCoxl7FNu8AhVq-1JyhET9wM=/0x0/filters:format(jpeg)/pic4994234.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CPTfnxaiZX1jyWvBznIg2g__small/img/vvqXFO_24QOn7c_1sczhCCm9k-g=/fit-in/200x150/filters:strip_icc()/pic4994234.jpg",
+    "link": "https://boardgamegeek.com/thing/8690",
+    "minPlayers": "4",
+    "maxPlayers": "12",
+    "yearPublished": "2003",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "5.76721",
+    "averageWeight": "1.1739",
+    "boardGameRank": "12238",
+    "mechanics": [
+      "Paper-and-Pencil",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "Peggy Brown",
+      "Garrett J. Donner",
+      "Brian S. Spence",
+      "Michael S. Steer"
+    ]
+  }
+}

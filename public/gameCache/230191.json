@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T21:10:53.518Z",
+  "gameDetails": {
+    "id": "230191",
+    "name": "The Island of El Dorado",
+    "type": "boardgame",
+    "description": "In The Island of El Dorado, each player is the leader of a civilization seeking to explore the island to control the four ancient shrines. You&rsquo;ll discover resources, bodies of water, and the shrines themselves in a landscape which is different every single time you play. Build farmhouses and create villagers to gather resources and grow your economy. Occupy strategic locations on the map using forts to defend against the other explorers who seek to control the island before you do. Legend has it the most powerful shrine is hidden inside a cave, but be wary as you enter. The cave is the most dangerous part of the island.\n\nCivilizations will rise and fall as each player explores, gathers, and fights to control the four shrines of El Dorado. The first player to control all four shrines wins the game. They will rule over the island forever and become richer than a king.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/pN-fCGyO8T4Ch70OxaYSaA__original/img/R8yBUDbxbCSWav4t3utVDbISWRU=/0x0/filters:format(png)/pic6975957.png",
+    "thumbnail": "https://cf.geekdo-images.com/pN-fCGyO8T4Ch70OxaYSaA__small/img/iTG0OkZ2CjTjMKtTpiSIcsnMwVc=/fit-in/200x150/filters:strip_icc()/pic6975957.png",
+    "link": "https://boardgamegeek.com/thing/230191",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "80",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "80",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.5351",
+    "averageWeight": "1.8116",
+    "boardGameRank": "4854",
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Modular Board",
+      "Roll / Spin and Move",
+      "Tile Placement",
+      "Trading",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Adventure",
+      "Ancient",
+      "Civilization",
+      "Exploration",
+      "Mythology"
+    ],
+    "designers": [
+      "Daniel Aronson"
+    ]
+  }
+}

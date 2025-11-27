@@ -1,0 +1,49 @@
+{
+  "timestamp": "2025-11-26T21:16:46.907Z",
+  "gameDetails": {
+    "id": "316050",
+    "name": "Space Empires: All Good Things",
+    "type": "boardgameexpansion",
+    "description": "All Good Things, the last expansion for Space Empires 4X, provides:\n\n\n     Master Rule Book and Scenario Books. Since this is the last expansion and completes the system, it will come with a Master Rule Book that encompasses all the goodness in all the expansions.  Likewise, it will include two Master Scenario Books - one for solo/co-op and one for competitive play.\n     2 new, alternate empires. Similar to existing, but different. They have fighters that don't need carriers. If the original game had fighters that were like TIE Fighters, these are more like X-Wing. They don't have boarding ships or Titans, but have a new class of ships. The other ships have slightly different stats/costs.\n     Variable, but balanced home systems. Everyone has the same home system for balance reasons. However, knowing what you are going to find is something that has always bothered many people. This will fix that.\n     Scenario Cards. Around 30 cards and 1 or 2 could be flipped to change the overall galaxy conditions for the game. A couple of these are from the scenario book, but most are new.\n     Missions. Missions are Resource Cards that can't be just played, but require a player to complete something on the map to gain a larger benefit. Think of the plot of a simple Trek episode.\n     Deep Space Planetary Attributes. The NPA planets in deep space will now have a bit of personality. Some will be harder or easier to take. Some will really be worth fighting over.\n     Crew Cards. Not everyone will always want to play with these, but they will bring even more personality into the game.\n     Facilities Game. Two new facilities are added. This will really complete the facilities game.\n     Everything else. Extra cards of every type, Starbases, Defense Satellites, Cyber Armor, New Terrain, more terrain to support larger scenarios (more terrain is needed anyway to support larger scenarios so new terrain types are also included).\n\n\n",
+    "image": "https://cf.geekdo-images.com/uydvRsu6dz1N3OieaaF2BQ__original/img/OrBFMZ-kP1sJ2DgYfCBQWYH6GN8=/0x0/filters:format(png)/pic7977894.png",
+    "thumbnail": "https://cf.geekdo-images.com/uydvRsu6dz1N3OieaaF2BQ__small/img/QUM0rB6meitj5_dAke22p6ozVQI=/fit-in/200x150/filters:strip_icc()/pic7977894.png",
+    "link": "https://boardgamegeek.com/thing/316050",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      1,
+      2,
+      4
+    ],
+    "averageRating": "9.04111",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Income",
+      "Movement Points",
+      "Paper-and-Pencil",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Bluffing",
+      "Civilization",
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "designers": [
+      "Jim Krohn"
+    ]
+  }
+}

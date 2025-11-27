@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:14:31.907Z",
+  "gameDetails": {
+    "id": "22348",
+    "name": "Duplik",
+    "type": "boardgame",
+    "description": "Duplik, first published as Portrayal (then Identik) is a funny, fast-paced, family and party game that tests each player's ability to describe, draw, and evaluate wacky images.\n\nIn each round of Duplik, one player (the Art Director) describes a unique and utterly bizarre image while the other players (the Artists) attempt to draw the image based solely on the Art Director's description.\n\nOnce time is up, Artists trade drawings and the ten hidden criteria for the image are uncovered. It&rsquo;s up to each Artist to decide whether the drawing he or she is judging meets the criteria and receives points.\n\n",
+    "image": "https://cf.geekdo-images.com/pw-YvF01pFqT34_zXKR7gg__original/img/Q6h73YUiE7pQQosmdmrGhb3vSRo=/0x0/filters:format(jpeg)/pic2631879.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pw-YvF01pFqT34_zXKR7gg__small/img/huNjVpxL2O8EvugKDUY-VyknuRU=/fit-in/200x150/filters:strip_icc()/pic2631879.jpg",
+    "link": "https://boardgamegeek.com/thing/22348",
+    "minPlayers": "3",
+    "maxPlayers": "10",
+    "yearPublished": "2005",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.97117",
+    "averageWeight": "1.2124",
+    "boardGameRank": "2075",
+    "mechanics": [
+      "Drawing"
+    ],
+    "categories": [
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "William Jacobson",
+      "Amanda Kohout"
+    ]
+  }
+}

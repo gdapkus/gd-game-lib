@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:38:39.745Z",
+  "gameDetails": {
+    "id": "268864",
+    "name": "Undaunted: Normandy",
+    "type": "boardgame",
+    "description": "June, 1944: Through the D-Day landings, the Allies have seized a foothold on the beaches of Normandy. Now you must lead your troops forward as you push deeper into France and drive the German forces back. You will face intense resistance, machine gun fire, and mortar bombardment, but a great commander can turn the situation to their advantage!\n\nUndaunted: Normandy is a deck-building game that places you and your opponent in command of American or German forces, fighting through a series of missions critical to the outcome of World War II. Use your cards to seize the initiative, bolster your forces, or control your troops on the battlefield. Strong leadership can turn the tide of battle in your favor, but reckless decisions could prove catastrophic as every casualty you take removes a card from your deck. Take charge amidst the chaos of battle, hold fast in the face of opposition, and remain undaunted.\n\n&mdash;description from the publisher\n\nContents:\n108 Cards\n18 Large map tiles\n4 D10 Dice\nTokens\n1 Rule booklet\n1 Campaign booklet\n\n",
+    "image": "https://cf.geekdo-images.com/iCd6hMGDzsQ_UXh00iKsJA__original/img/QhbQ2AMud-_H0fliiSIvc0dowOU=/0x0/filters:format(jpeg)/pic4602347.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iCd6hMGDzsQ_UXh00iKsJA__small/img/QbOlBm7DZGP2ZBnGZ-YaD-py-UQ=/fit-in/200x150/filters:strip_icc()/pic4602347.jpg",
+    "link": "https://boardgamegeek.com/thing/268864",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.77378",
+    "averageWeight": "2.2654",
+    "boardGameRank": "177",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Trevor Benjamin",
+      "David Thompson (I)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:14:21.331Z",
+  "gameDetails": {
+    "id": "39324",
+    "name": "Pass the Popcorn! Game",
+    "type": "boardgame",
+    "description": "Players cover game tiles by identifying movies from clues given on Cast, Characters, Story, or Quote cards. Be the first to cover 4 tiles and win! Game covers 250 major movies, 70 top actors, and includes 32 game tiles.\n\nAlso includes a bonus Star Connection Card Game for added fun.\n\n",
+    "image": "https://cf.geekdo-images.com/lm-ykYAvskE-k60lBNZWpg__original/img/ExY0F27zI6pM3xulQ1I88FTepjc=/0x0/filters:format(jpeg)/pic622250.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lm-ykYAvskE-k60lBNZWpg__small/img/6sh26ky5s2X3Sy71YEc0eYc87DU=/fit-in/200x150/filters:strip_icc()/pic622250.jpg",
+    "link": "https://boardgamegeek.com/thing/39324",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2008",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      7,
+      8
+    ],
+    "averageRating": "5.74323",
+    "averageWeight": "1.1",
+    "boardGameRank": "17026",
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Movies / TV / Radio theme",
+      "Party Game",
+      "Trivia"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

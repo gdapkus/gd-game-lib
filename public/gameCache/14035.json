@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:13:39.245Z",
+  "gameDetails": {
+    "id": "14035",
+    "name": "Piranha Pedro",
+    "type": "boardgame",
+    "description": "Poor Pedro! He's stuck on a sand bank in the middle of the Amazon. Each step is dangerous, since there are hungry piranhas waiting everywhere. To keep Pedro from getting his feet wet, the players lay stones out in front of him. But beware he who runs out of stones. He is taking the risk that Pedro falls into the water. Then there's a big \"Splash!\" and the other players laugh themselves silly. A humorous comic-book-style rules inset makes learning the game easy.\n\n",
+    "image": "https://cf.geekdo-images.com/Y3b3SsahqaiKLcLjbDk8xA__original/img/MLXEwxTfHyeBThut1kDM9jpfBCM=/0x0/filters:format(jpeg)/pic2541615.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Y3b3SsahqaiKLcLjbDk8xA__small/img/NnNnY6e3o7-HtutPqDaV4WY5PPY=/fit-in/200x150/filters:strip_icc()/pic2541615.jpg",
+    "link": "https://boardgamegeek.com/thing/14035",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2004",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.28386",
+    "averageWeight": "1.3034",
+    "boardGameRank": "5684",
+    "mechanics": [
+      "Grid Movement",
+      "Simultaneous Action Selection",
+      "Single Loser Game"
+    ],
+    "categories": [
+      "Animals",
+      "Bluffing",
+      "Humor"
+    ],
+    "designers": [
+      "Jens-Peter Schliemann"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:52:42.068Z",
+  "gameDetails": {
+    "id": "199493",
+    "name": "Escape the Room: Secret of Dr. Gravely's Retreat",
+    "type": "boardgame",
+    "description": "What are &ldquo;Escape the Room&rdquo; games?\n\nEscape the Room games began as digital adventures and quickly turned into real-life events all around the world where players are locked in a room and must uncover clues and hidden objects to escape. ThinkFun&rsquo;s version of Escape the Room allows you to bring all the excitement of these experiences into your very own home!\n\nThe Mystery:\nThe year is 1913 and you are the lucky winner of a free stay at Foxcrest Retreat, where the famed Dr. Gravely has improved upon the latest in spa treatments and relaxation for those of high social standing. You take a long all-expense-paid train ride to the retreat. Upon your arrival, however, you and your fellow guests may find the \"health retreat\" is not what it seems...\n\nThe Objective:\nWork with your guests to discover the dark secret of Dr. Gravely's retreat by finding clues and solving puzzles. But be careful...in the story, the doors have shut and locked behind you. Will you and your guests discover the secret and escape the room before time runs out?\n\n",
+    "image": "https://cf.geekdo-images.com/eSrXXenqNUu7WiVSTmKjYw__original/img/2-Ub5OSWQVPNuJkK3CGLYdFwD7A=/0x0/filters:format(jpeg)/pic3015473.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eSrXXenqNUu7WiVSTmKjYw__small/img/g_qlbBepEZ28T8sow6g8VAYD5Bo=/fit-in/200x150/filters:strip_icc()/pic3015473.jpg",
+    "link": "https://boardgamegeek.com/thing/199493",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2016",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.91167",
+    "averageWeight": "1.8235",
+    "boardGameRank": "3721",
+    "mechanics": [
+      "Cooperative Game",
+      "Pattern Recognition",
+      "Storytelling"
+    ],
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Party Game",
+      "Puzzle"
+    ],
+    "designers": [
+      "Rebecca Bleau",
+      "Nicholas Cravotta"
+    ]
+  }
+}

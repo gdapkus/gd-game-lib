@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:02:24.476Z",
+  "gameDetails": {
+    "id": "364073",
+    "name": "Splendor Duel",
+    "type": "boardgame",
+    "description": "Confront your rival guild in a race for victory. Take Gem and Pearl tokens from the common board, then purchase cards, gather bonuses, royal favors, and prestige.\n\nDiscover new twists and strategic opportunities derived from Splendor, the original best-selling game. Acquire cards with impressive powers, take advantage of special Privileges, and fight over scarce access to Pearls.\n\nSplendor Duel is a two-player only standalone game based on Splendor that retains some of the main gameplay mechanisms of that design, while being a bit more complex, dynamic, interactive, rich, tense, and mean.\n\nThe game features a main board shared by both opponents, card powers, and three victory conditions.\n\n",
+    "image": "https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__original/img/NelFMJToi6WYyDQheBZiwCP7-qE=/0x0/filters:format(jpeg)/pic6929347.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__small/img/E0OuG2X4HsbOdCh1uLyZZcMiapQ=/fit-in/200x150/filters:strip_icc()/pic6929347.jpg",
+    "link": "https://boardgamegeek.com/thing/364073",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2022",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.88472",
+    "averageWeight": "2.0079",
+    "boardGameRank": "114",
+    "mechanics": [
+      "Contracts",
+      "Open Drafting",
+      "Race",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Renaissance"
+    ],
+    "designers": [
+      "Marc André",
+      "Bruno Cathala"
+    ]
+  }
+}

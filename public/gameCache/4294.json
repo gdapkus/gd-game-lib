@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:03:03.647Z",
+  "gameDetails": {
+    "id": "4294",
+    "name": "The Thin Red Line: A Game of the Battle of Waterloo",
+    "type": "boardgame",
+    "description": "The Thin Red Line is a detailed tactical treatment of Napoleonic warfare. Waterloo was the final and most decisive land battle of the Napoleonic Wards, and possibly the most famous battle of all time. Napoleonic warfare was complex in its variety, and victory or defeat depended on the successful application of such diverse factors as organization and command control, leadership and training, formation and position, firepower, combined arms tactics, luck, and, especially, morale. These aspects of the Battle of Waterloo are accurately modeled in this game. Can you, as the Iron Duke of Wellington, hold the French at bay until night or the Prussians arrive? Can you, as Blucher, old \"Vorwarts,\" drive forward in time to save the day?\n\nEvery unit that participated in the historical battle is represented--British, Hanoverian, Dutch-Belgian, Nassau, Brunswick, King's German Legion, French, and Prussian infantry, cavalry, and artillery. The rules cover all the key factors in the battle, line, column, square, and ordere-mixte formations, skirmishers, routing and rallying, leader effects and casualties, cavalry reaction and recall, artillery capture and recapture, hidden units, fatigue, the elan and mobility of the French infantry columns, and the firepower and staying power of the \"thin red line\" of British infantry.\n\nScale: 300 yards per hex; 30 minutes per turn; brigade and division-sized combat units.\n\n",
+    "image": "https://cf.geekdo-images.com/iZKV3T3__935F0FO0G8dPg__original/img/BwXF28SmSizIOWE4OHPsR06nZiw=/0x0/filters:format(jpeg)/pic2020368.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iZKV3T3__935F0FO0G8dPg__small/img/San4k6K1T5WPZiWJnKNKUQWMuo0=/fit-in/200x150/filters:strip_icc()/pic2020368.jpg",
+    "link": "https://boardgamegeek.com/thing/4294",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "1979",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.71591",
+    "averageWeight": "2.75",
+    "boardGameRank": "14380",
+    "mechanics": [],
+    "categories": [
+      "Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "S. Craig Taylor"
+    ]
+  }
+}

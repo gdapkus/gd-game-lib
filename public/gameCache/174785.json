@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:17:23.423Z",
+  "gameDetails": {
+    "id": "174785",
+    "name": "Mare Nostrum: Empires",
+    "type": "boardgame",
+    "description": "The ancient Romans called the Mediterranean Sea \"mare nostrum\", which is Latin for \"our sea\".\n\nMare Nostrum is an empire-building game in which 3-5 players [or 2-6 with the 'Atlas' expansion] lead their individual ancient empires to dominion of Mare Nostrum. You grow the fame and glory of your empire by expanding your influence into new Provinces, then extending your Trade Caravans, building Markets, and founding new Cities and Temples. You can recruit Heroes and create Wonders to help your cause. But beware of your \"friends\" because they may look upon your gains with envy and greed...\n\nMare Nostrum is a re-introduction by Academy Games and Asyncron of the original 2003 release with updated rules, counters, and map board. This edition includes many new components and multiple new ways to win!\n\nIn more detail, you choose an empire to lead, which begins with three Provinces. You can lead with Caesar of Rome and its powerful Legions, or with Pericles, the prominent Greek statesman and orator, with the great Babylonian lawgiver and healer King Hammurabi, or with Queen Cleopatra of Egypt, whose engineers led in the development of grain storage and irrigation, or with Hannibal, leader of the Carthaginians, whose merchants thrived on trade and commerce. Now you decide how you will grow your empire. You can do this by:\n\n\n    Expanding your Trade and creating Wonders.\n    Concentrating on Culture and building the great Pyramids.\n    Developing a strong and powerful Military to occupy the Provinces of other empires, or \n    Exerting Political Leadership by claiming the titles of Trade Leader, Cultural Leader, and Military Leader.\n\n\n",
+    "image": "https://cf.geekdo-images.com/bCT1a-L84zgHRsIkNdH-lA__original/img/llYdd4trnj2VZSx8KHrt2d1LNQU=/0x0/filters:format(jpeg)/pic2648963.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bCT1a-L84zgHRsIkNdH-lA__small/img/dTt5RE3rxMyv3pe6_DslE-DEboY=/fit-in/200x150/filters:strip_icc()/pic2648963.jpg",
+    "link": "https://boardgamegeek.com/thing/174785",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2016",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.52023",
+    "averageWeight": "2.9864",
+    "boardGameRank": "766",
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Set Collection",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Ancient",
+      "Civilization",
+      "Economic",
+      "Mythology",
+      "Wargame"
+    ],
+    "designers": [
+      "Serge Laget"
+    ]
+  }
+}

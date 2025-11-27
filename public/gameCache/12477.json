@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:24:19.382Z",
+  "gameDetails": {
+    "id": "12477",
+    "name": "Bootleggers",
+    "type": "boardgame",
+    "description": "It's January 1921. Prohibition has been in effect for a year, and it looks like the 18th Amendment is here to stay. The problem, however, is that outlawing the \"manufacture, sale, or transportation of intoxicating liquors\" hasn't done anything to reduce the demand for booze! As a result, illegal stills dot the countryside and secret (or not-so-secret!) speakeasies are popping up all over in cities large and small. Local law enforcement may look the other way (especially if they're properly motivated) but Elliot Ness' G-Men are harder to convince. With this much money at stake, organized crime is sure to take an interest.\n\nIn Bootleggers, players take on the role of enterprising bosses seeking to make a name for themselves in the illegal alcohol trade at the height of the 1920's prohibition era. Deceit, lies, and alliances of convenience are the norm as players attempt to control distribution through money and corruption by muscling in on the competition, paying off the local law authorities, building underground speakeasies, and shipping trucks of \"hooch\"!\n\n",
+    "image": "https://cf.geekdo-images.com/tvLJz97IYY6mvmvIM2P1NQ__original/img/kD_0fTeBYBpXTxbxX9hw9-k6ft8=/0x0/filters:format(jpeg)/pic51819.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tvLJz97IYY6mvmvIM2P1NQ__small/img/9kcgoaXmvCki95LBKh0h1Tg0Uds=/fit-in/200x150/filters:strip_icc()/pic51819.jpg",
+    "link": "https://boardgamegeek.com/thing/12477",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2004",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.67823",
+    "averageWeight": "2.6215",
+    "boardGameRank": "2305",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Open Drafting",
+      "Simultaneous Action Selection",
+      "Trading"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Mafia",
+      "Negotiation",
+      "Transportation"
+    ],
+    "designers": [
+      "Don Beyer",
+      "Ray Eifler",
+      "Steve Gross"
+    ]
+  }
+}

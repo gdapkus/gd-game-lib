@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:57:48.072Z",
+  "gameDetails": {
+    "id": "3931",
+    "name": "Mare Nostrum",
+    "type": "boardgame",
+    "description": "In the Ancient World, civilizations are built upon 3 foundations: Commerce, Construction, and Expansion. As a leader of an ancient Mediterranean Power, each player will need to master all 3 roads to power in order to lead their civilization to dominance and victory.\n\nMare Nostrum is all about the expansion of one's lands, the construction of new cities, and the dispatching of caravans to take advantage of rare commodities that can either be traded or exploited to build constructions and eventually wonders of the world.\n\nBut diplomacy and trade are but one path to greatness. The expansion of your navy and armies can take what should be rightfully yours. Hiring great leaders will further expand your boundaries in quick time.\n\nControlling a combined total of 4 Wonders and/or Leaders or being the first to build the Pyramids will assure victory. But there are many hurdles to overcome to achieve such heights.\n\nMare Nostrum allows for up to 5 players and offers a basic and advanced game in which players can customise their starting civilisation. For a game of such scope, it is quite amazing to think that the game only requires 2 pages of rules.\n\nMare Nostrum is a winner of the 2001 Concours International de Créateurs de Jeux de Société.\n\n",
+    "image": "https://cf.geekdo-images.com/Dp6eQj6PjWvJfkPDd3sTWg__original/img/ByA4pdFleaovhzl7WqI5_f_oQRg=/0x0/filters:format(jpeg)/pic10998.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Dp6eQj6PjWvJfkPDd3sTWg__small/img/mG0SsZ6amPfcejEWpNHqrFxDC-Y=/fit-in/200x150/filters:strip_icc()/pic10998.jpg",
+    "link": "https://boardgamegeek.com/thing/3931",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2003",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.72556",
+    "averageWeight": "2.9886",
+    "boardGameRank": "2246",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Set Collection",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Ancient",
+      "Civilization",
+      "Economic"
+    ],
+    "designers": [
+      "Serge Laget"
+    ]
+  }
+}

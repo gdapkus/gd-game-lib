@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:09:08.898Z",
+  "gameDetails": {
+    "id": "23348",
+    "name": "Easter Island",
+    "type": "boardgame",
+    "description": "Easter Island is a mysterious island in the South Pacific. Its inhabitants have long since vanished without a trace except for the giant Moai. These giant statues are so large and heavy that modern man has had a difficult time recreating them without modern tools. Tools the original inhabitants most certainly couldn't possess.\n\nThis game speculates that the statues were, in fact, beam weapons created by two very powerful wizards. These wizards used the statues in a giant game, with the island itself as the board. You are now one of those wizards...\n\nEaster Island lets you place your statues and move them into position. Then, when everything is ready, call upon the power of the Sun to topple your opponent's statues and thus your opponent.\n\n",
+    "image": "https://cf.geekdo-images.com/guheaAKRQ-TNmSOBeZw7jQ__original/img/TuTpPUmqo2uRQGQwCRFncC2KCHU=/0x0/filters:format(jpeg)/pic426016.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/guheaAKRQ-TNmSOBeZw7jQ__small/img/_H-CAhKzpOI_JVbc8cHlf-LJ-Ig=/fit-in/200x150/filters:strip_icc()/pic426016.jpg",
+    "link": "https://boardgamegeek.com/thing/23348",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2006",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.32229",
+    "averageWeight": "2.3137",
+    "boardGameRank": "8447",
+    "mechanics": [
+      "Action Points",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Roberto Fraga",
+      "Odet L'Homer"
+    ]
+  }
+}

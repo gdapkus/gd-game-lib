@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:13:16.748Z",
+  "gameDetails": {
+    "id": "22398",
+    "name": "10 Days in Asia",
+    "type": "boardgame",
+    "description": "From the back of the box:\n\nYou have 10 DAYS in ASIA - touring by train, airplane, ship, or on foot. Chart your course from start to finish using destination and transportation tiles. With a little luck and clever planning, you just might outmaneuver your fellow travelers. The first traveler to make connections for a ten day journey wins the game.\n\nIn this fourth installment of the 10 Days in series, the players are touring Asia, arranging their tiles on the ten days (open spots) of their trays to create a string of consecutive steps that, once completed, creates one consecutive journey. Tiles of neighboring countries may be placed side-by-side on the tray, with trains, ships and airplanes connecting distant countries depending on where they are located. Tiles cannot be rearranged in a tray, but must be replaced one at a time from the few face-up tiles available to all players, or from a random draw.\n\nThis installment introduces railroads which allow players to connect any countries that have stops along a selected rail line. These work in addition to the now-familiar airlines (connecting countries of the same color), and ocean liners (although now you have two oceans to contend with).\n\n",
+    "image": "https://cf.geekdo-images.com/C-cEAO5M-EwmlGXWKibgPQ__original/img/qYdnFXDZ9d9hd4R0z0aQdVeFkKw=/0x0/filters:format(jpeg)/pic1229653.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/C-cEAO5M-EwmlGXWKibgPQ__small/img/KoAiVwgJAWYao6lDIhIIxj1vmOc=/fit-in/200x150/filters:strip_icc()/pic1229653.jpg",
+    "link": "https://boardgamegeek.com/thing/22398",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "25",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.6818",
+    "averageWeight": "1.4286",
+    "boardGameRank": "3800",
+    "mechanics": [
+      "Connections",
+      "Hand Management"
+    ],
+    "categories": [
+      "Educational",
+      "Trains",
+      "Travel"
+    ],
+    "designers": [
+      "Alan R. Moon",
+      "Aaron Weissblum"
+    ]
+  }
+}

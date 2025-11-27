@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T20:17:40.501Z",
+  "gameDetails": {
+    "id": "11156",
+    "name": "Quips & Quotes",
+    "type": "boardgame",
+    "description": "Quips & Quotes is a Balderdash-style party game.  One player reads a quote.  If nobody knows the speaker right off the bat, then everybody writes down the name of someone who might have said it.  The reader then reads off all the names that were submitted (with the correct answer mixed in) and players vote for which name they think is correct.  You score points for guessing the right answer and getting other people to guess the name you submitted.  (You also score points if you correctly identify the speaker initially.)\n\n",
+    "image": "https://cf.geekdo-images.com/4Q5_t2zATf8dhCWucvJrZw__original/img/pMRDcIN9LEOf1kI6MAB7WvlUoeI=/0x0/filters:format(png)/pic1870178.png",
+    "thumbnail": "https://cf.geekdo-images.com/4Q5_t2zATf8dhCWucvJrZw__small/img/LDxpDLtfhGbzxZxk1bB0xx4s0to=/fit-in/200x150/filters:strip_icc()/pic1870178.png",
+    "link": "https://boardgamegeek.com/thing/11156",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "1991",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "6.75",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Bluffing",
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

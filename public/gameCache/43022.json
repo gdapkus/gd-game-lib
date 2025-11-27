@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:05:34.542Z",
+  "gameDetails": {
+    "id": "43022",
+    "name": "Yomi",
+    "type": "boardgame",
+    "description": "\n\n\n    \n        GAME SYSTEM\n\n    \n    \n         This entry is to allow for discussion/rating of the game system as a whole. It is not for a specific product or release. Versions will appear on the individual item pages.\n\n    \n\n\nYomi is a card game that simulates a fighting game. It tests your ability to predict how your opponents will act and your ability to judge the relative value of cards from one situation to the next. Also, it lets you do fun combos and be a panda. There are 10 characters to choose from, each with their own deck, abilities, and style. Each deck also doubles as a regular deck of playing cards with beautiful artwork (the complete game features a whopping 120 different character illustrations).\n\nYomi is the Japanese word for &ldquo;reading&rdquo;, in this case as in reading the mind of your opponent. Yomi: Fighting Card Game is a simple competitive card game that simulates a fight between two characters. Each deck in Yomi represents one character, with 10 decks in the first release.\n\nChampion fighting game tournament player and tournament organizer David Sirlin designed the game to test the skills of Valuation and Yomi. Valuation refers to your ability to judge the relative value of moves (or cards) as they change over the course of the game. Yomi, the game's title, refers to your ability to guess which moves your opponent will make. There is more to it than guessing, though: some players have the uncanny ability to &ldquo;guess&rdquo; right almost every time, no matter the game.\n\nThe core mechanic is a paper-rock-scissors guessing game between attack, throw, and block/dodge (sometimes modified by special ability cards). Attacks and throws usually let you follow up with combo cards from your hand, while blocks let you draw a card. While it first seems \"just random,\" you soon discover that the unequal and uncertain payoffs in this guessing game allow you really read what the opponent will do. Yomi captures the kind of mind games that occur during the high level in fighting game tournaments.\n\nReimplemented by:\n\n     Yomi (Second Edition)\n\n\n",
+    "image": "https://cf.geekdo-images.com/NGxZknC3YvP4Xjn6ro38tQ__original/img/4kedY8ll9nTta_2r3_DZBEOndiY=/0x0/filters:format(jpeg)/pic885442.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NGxZknC3YvP4Xjn6ro38tQ__small/img/0jN0d9qt3YM2DN9MnG1-v6qI2VM=/fit-in/200x150/filters:strip_icc()/pic885442.jpg",
+    "link": "https://boardgamegeek.com/thing/43022",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2011",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.917",
+    "averageWeight": "2.3622",
+    "boardGameRank": "1949",
+    "mechanics": [
+      "Hand Management",
+      "Rock-Paper-Scissors",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Fantasy",
+      "Fighting",
+      "Print & Play",
+      "Video Game Theme"
+    ],
+    "designers": [
+      "David Sirlin"
+    ]
+  }
+}

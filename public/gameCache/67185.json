@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:08:24.264Z",
+  "gameDetails": {
+    "id": "67185",
+    "name": "Sobek",
+    "type": "boardgame",
+    "description": "Pitch: Ancient Egypt... The temple of Sobek is being built and the market place is thriving. Loads of goods arrive by ship for the construction site and it is a race to pick the best items in order to sell them with the most profit.\n\nOf course, with so much at stake, not all the moves are legal, corruption is everywhere and cordiality scarce. Because in the end there can be only one winner!\n\n---\n\nFamous Bruno Cathala's (Cyclades, Dice Town, Shadows Over Camelot, Mr. Jack, MOW...) latest design is a fast paced card game well suited for the whole family, with tactical choices, luck, and a bit of cunning.\n\nEach turn you have to choose if you want to take a goods card, play a character with a special power or display a set of matching goods cards.\nWhile taking a profitable card, you often collect corruption points, which add up in a pile in front of you. \nDuring each round five sets of nine cards are put at the players' disposal. When all cards are gone, there is a scoring for all displayed cards, but beware, the player with the most corruption sigils sees his income almost cut down in half.\n\nThe game ends after 3 rounds or if a player has reached a hundred points.\n\n",
+    "image": "https://cf.geekdo-images.com/zli5lRtl9a1aUtaTlAaWYg__original/img/p2VoraIxFDZlt55zEhGkCYrDHdw=/0x0/filters:format(jpeg)/pic764406.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zli5lRtl9a1aUtaTlAaWYg__small/img/sucrO3AQlJAWYz8nQpUNuRsyk2U=/fit-in/200x150/filters:strip_icc()/pic764406.jpg",
+    "link": "https://boardgamegeek.com/thing/67185",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.60689",
+    "averageWeight": "1.8434",
+    "boardGameRank": "2824",
+    "mechanics": [
+      "Auction: Dutch",
+      "Hand Management",
+      "Memory",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Ancient",
+      "Card Game"
+    ],
+    "designers": [
+      "Bruno Cathala"
+    ]
+  }
+}

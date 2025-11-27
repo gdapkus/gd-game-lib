@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:50:14.674Z",
+  "gameDetails": {
+    "id": "2181",
+    "name": "Bridge",
+    "type": "boardgame",
+    "description": "Bridge is a standard deck, trick taking card game that pits two partnerships against each other. The first part of the game is the auction, by which partners attempt to communicate information about their hands by bidding, in order to arrive at a successful contract. The contract specifies how many tricks must be taken by the team that wins the bid. After the auction, a member of the team that won the bid tries to win as many tricks as possible while playing both hands from the partnership. One hand is played normally while the other (the \"dummy hand\") is placed face-up on the table, allowing for greater control. The defenders attempt to take enough tricks to make the contract fail.\n\nThe formal name of the game is Contract Bridge, but the shortened name \"Bridge\" is the most common usage. Bridge developed from the 17th Century card game Whist. The earliest form of Bridge originated in 1886 when rules were introduced allowing the dealer to choose a trump and their partner's hand to become dummy. Bridge became Auction Bridge in 1904, which allowed the trump suit to be decided by the highest bidding partnership. Harold Vanderbilt transformed Auction Bridge into Contract Bridge in 1925, when he introduced an improved method of scoring.\n\nThe duplicate version of the game has many pairs of partners, each playing the same hands separately and comparing their results. This method removes the element of luck in getting good cards when comparing players and thus helps to isolate the role of skill in the game.\n\n",
+    "image": "https://cf.geekdo-images.com/T6X1-I6St8OW50bhewvL3A__original/img/PeWeYPgj5qqjbf1ToP_YXAFXT5A=/0x0/filters:format(jpeg)/pic1273353.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/T6X1-I6St8OW50bhewvL3A__small/img/zqCqSXlCc4ZFzEHwMY5rYzI2dnM=/fit-in/200x150/filters:strip_icc()/pic1273353.jpg",
+    "link": "https://boardgamegeek.com/thing/2181",
+    "minPlayers": "4",
+    "maxPlayers": "4",
+    "yearPublished": "1925",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.45489",
+    "averageWeight": "3.8871",
+    "boardGameRank": "1110",
+    "mechanics": [
+      "Communication Limits",
+      "Hand Management",
+      "Predictive Bid",
+      "Score-and-Reset Game",
+      "Team-Based Game",
+      "Trick-taking",
+      "Turn Order: Claim Action",
+      "Turn Order: Progressive"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Harold Vanderbilt"
+    ]
+  }
+}

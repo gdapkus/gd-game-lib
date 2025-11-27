@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:24:08.836Z",
+  "gameDetails": {
+    "id": "700",
+    "name": "Battle Masters",
+    "type": "boardgame",
+    "description": "Battle Masters is a fantasy miniatures battle game by Milton Bradley, presumably licensed from Games Workshop.  The sizeable game box comes stuffed with tons of plastic miniatures, a deck of combat cards and some dice.  Players move and fight their armies based upon what card is turned over from the deck.  Combat is held on a large vinyl mat 4.5 ft square (Actual Measurements: 55 inches by 57 inches).\n\nFrom the back of the box:\n\nWelcome to the world of Battle Masters - the epic game where you command mighty armies locked in a legendary conflict of good versus evil!\n\nThe noble Imperial Army is ready to meet the Forces of Chaos. You and your opponent must strategically guide 25 army units, featuring over 100 finely-detailed figures, across the gigantic 4 1/2' X 5' Battle Mat. Beware! Ditches, marshes, river fords and the great Border Tower lie before you.\n\nThe battle unfolds as each turn of a Battle card tells which army units can move and which can attack. Will your army be victorious, or will your opponent destroy you? Who will survive the battle and win the game? The fate of the Empire is decided by you, the Battle Masters!\n\nCard Deck:\n3 Goblins and Orcs\n1 Goblins, Beastmen and Wolf Riders\n2 Goblins and Wolf Riders\n5 Champions of Chaos and Wolf Riders\n2 Champions of Chaos Charge\n1 Chaos Archers and Champions of Chaos\n2 Beastmen, Orcs and Goblins\n1 Goblins, Champions of Chaos and Beastmen\n4 Choaos Warriors, Champions of Chaos and Chaos Archers\n1 Choaos Warriors, Beastmen, Orcs, Chaos Archers and Goblins\n5 Wolf Riders Double Move\n1 Whole army move (Chaos)\n5 The Ogre Champion\n\n4 Imperial Knights\n2 Lord Knights\n2 Imperial Archers\n6 Imperial Knights and Lord Knights\n1 Men-at-Arms and Imperial Archers\n4 Men-at-Arms, Crossbowmen and Imperial Archers\n4 The Mighty Cannon\n1 Whole Army Move (Imperial)\n1 Lord Knights and Imperial Knights Charge\n1 Lord Knights Charge\n\nOgre Champion cards:\n3 Ogre Moves\n3 Ogre Attacks\n\nMighty Cannon Tiles:\n1 target tile\n4 flying cannon ball\n3 bouncing cannon ball\n2 explosion\n\nNote! The following cataloged from an open game. They should be considered minimums!\nFour Terrain Tiles, Large Hex\n1 Ford/Lake\n1 Two Sided Wall/Spoiled Lake\n1 Ford/Three sided Wall\n1 Cannon in Muck/Four Sided Wall\n\nSix Red Combat Dice with Skulls and Shields\n\nLarge plastic battle mat\n\nBits of Cardboard\n50 Skulls tokens on black background, square \n22 Axe on yellow background, rectangular (could be more)\n15 Coats of arms on grey background, rectangular (could be more)\n11 Coats of arms on red background, rectangular (could be more)\n3  Rubble tokens, irregular shape\n\nImperial Army - 11 bases\n9 Imperial Knights consisting of 9 horses (3 each of Blue, Red and Yellow) and 9 riders (gray)\n3 Lord Knights consisting of 3 horses (gray) and 3 riders (gray)\n1 Cannon and 2 crew - red\n10 Imperial Archers (red)\n5 Crossbowmen (red)\n15 Men-at-Arms (gray)\n\nChaos Army - 14 bases\n1 Ogre Champion in black with large mace (in two pieces that snap together) \n3 Champions of Chaos consisting of 3 horses and 3 riders\n10 Chaos Warriors (dark gray, with halberds)\n10 Chaos Archers (dark gray)\n10 Orcs (green)\n10 Goblins (green)\n6 Wolf Riders consisting of 6 wolves (dark gray) and 6 goblin riders (green)\n10 Beastmen (black)\n\nOther Plastic Bits\n4 Hedges, green\n25 Banner poles\n5 Grey tower pieces\n11 Beige bases and red labels (could be more)\n15 Brown bases and black labels (could be more)\n\n11\" x 17\" single sheet assembly instructions (C) 1992\n\n",
+    "image": "https://cf.geekdo-images.com/Zu2J52KD1sh9DemL_oIFyA__original/img/o5-fAaa-lsld1BnMOHI-G_uwb60=/0x0/filters:format(jpeg)/pic4009930.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Zu2J52KD1sh9DemL_oIFyA__small/img/RIn_NldzDvRa9Pq6-MArnqOGL14=/fit-in/200x150/filters:strip_icc()/pic4009930.jpg",
+    "link": "https://boardgamegeek.com/thing/700",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1992",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.36342",
+    "averageWeight": "1.8656",
+    "boardGameRank": "3942",
+    "mechanics": [
+      "Chit-Pull System",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Turn Order: Random",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Miniatures",
+      "Wargame"
+    ],
+    "designers": [
+      "Stephen Baker"
+    ]
+  }
+}

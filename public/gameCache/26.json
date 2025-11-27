@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:48:12.067Z",
+  "gameDetails": {
+    "id": "26",
+    "name": "Age of Renaissance",
+    "type": "boardgame",
+    "description": "A game that is often described as a semi-sequel to Civilization.\n\nPlayers attempt to build up their cultures during the Middle Ages and Renaissance periods. The game features a card deck that holds events, payout cards, and famous leaders of the particular eras. Although all cards will turn up somewhere during the game, the timing and position in which they will be played is crucial and will ensure a different game every time.\n\nThe main goal of each city-state is to gain points in the form of technical advances, while keeping their culture's misery level as low as possible. The payout structure is similar to those of Civilization and Advanced Civilization in that more resources of the same type yield increasingly higher payouts. This time particular payouts are triggered by card play for every player at once. An ingenious and very smooth working &ldquo;combat&rdquo; system is implemented to determine province &ndash; and thus resource - control.\n\n",
+    "image": "https://cf.geekdo-images.com/hNg-cufowH-csaTfzC_nPw__original/img/FXsJRqYH2tFltJrLqSlWdoZaJs8=/0x0/filters:format(jpeg)/pic5682587.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hNg-cufowH-csaTfzC_nPw__small/img/M3hGcwq2PbwUmWE8anROZLBckKc=/fit-in/200x150/filters:strip_icc()/pic5682587.jpg",
+    "link": "https://boardgamegeek.com/thing/26",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "1996",
+    "playingTime": "300",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "7.0977",
+    "averageWeight": "3.85",
+    "boardGameRank": "1989",
+    "mechanics": [
+      "Area Movement",
+      "Auction / Bidding",
+      "Simulation"
+    ],
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Medieval",
+      "Renaissance"
+    ],
+    "designers": [
+      "Don Greenwood",
+      "Jared Scarborough"
+    ]
+  }
+}

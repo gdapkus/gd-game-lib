@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:30:46.787Z",
+  "gameDetails": {
+    "id": "6738",
+    "name": "Quicksand",
+    "type": "boardgame",
+    "description": "In Quicksand, you and your opponents each secretly control one of six jungle explorers racing to discover (i.e., land on) the temple location.  There are Explorer cards, Quicksand cards, and Wild cards. Your hand size is always six cards. By playing cards strategically, you and your opponents, move the six explorers towards the temple.\n\nSince no one knows which explorer each player is playing, you will also be advancing other Explorer markers on the path towards the Temple. This is not only to keep the other players in the dark about your identity, but also because you need to play those cards in order to draw more cards from the deck. You want to have the most favourable cards for your own Explorer in your hand as you approach the finish line (the Temple location).\n\nOne of the ways to slow down your opponents is to \"put them in quicksand\". You do this by playing the Quicksand card. Then they must play a card just to \"get them out\" before they can play cards to advance them further along the path.\n\nIn addition to hand management, there is also blocking and movement strategies to best position your Explorer's piece, while encumbering the opponent.\n\n",
+    "image": "https://cf.geekdo-images.com/-zmK3rhGiNQNkcEbm7OVZQ__original/img/vYqHsQYH6JhLqiMF-MNVNXPlbyg=/0x0/filters:format(jpeg)/pic3024946.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-zmK3rhGiNQNkcEbm7OVZQ__small/img/tISZjvU54HEv-wMC1sMKco8_ra4=/fit-in/200x150/filters:strip_icc()/pic3024946.jpg",
+    "link": "https://boardgamegeek.com/thing/6738",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2003",
+    "playingTime": "20",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.11154",
+    "averageWeight": "1.1714",
+    "boardGameRank": "6312",
+    "mechanics": [
+      "Hand Management",
+      "Hidden Roles",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Adventure",
+      "Bluffing",
+      "Card Game",
+      "Exploration",
+      "Racing"
+    ],
+    "designers": [
+      "Stefano Cavanè"
+    ]
+  }
+}

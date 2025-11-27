@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:49:18.236Z",
+  "gameDetails": {
+    "id": "137154",
+    "name": "Auf Teufel komm raus",
+    "type": "boardgame",
+    "description": "To set up Auf Teufel komm raus, place 48 black coal pieces face down on the \"infernal\" fireplace in the middle of the game board. On their rear sides, these pieces show values between 10 and 100, with a devil appearing on nine pieces.\n\nOn a turn, the active player reveals coal pieces one by one, ideally without revealing a devil &ndash; but before he starts doing this, all players make a bet about the total value that the next player will gain. To do so, all players take poker chips into their closed fists, with the wager being the minimum amount that the active player has to reach in order for the bid to pay off. Thus, making a high value bet automatically increases the risk of losing that wager. If the active player reveals a devil, he loses all the coals he gained that turn, so while he wants to claim as much as possible, pressing his luck could cost him everything &ndash; not to mention possibly making his opponents rich as well if their high bids pay off.\n\nThe \"scoring track\" around the board shows whether a player has exactly 200, exactly 300, and so on, or falls somewhere in between two of those numbers, but NOT the exact amount that the players hold. Whoever manages to increase his total wealth from the starting amount of 200 to over 1,600 wins!\n\n",
+    "image": "https://cf.geekdo-images.com/-WIE8BTtrcBfO5noeHQJ_w__original/img/1Al444qAbQrfOeJcEVpUVtn6yAo=/0x0/filters:format(jpeg)/pic1545739.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-WIE8BTtrcBfO5noeHQJ_w__small/img/IaYh0NCDpegzOHdTmYuX-rm5wE8=/fit-in/200x150/filters:strip_icc()/pic1545739.jpg",
+    "link": "https://boardgamegeek.com/thing/137154",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2013",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.844",
+    "averageWeight": "1.5862",
+    "boardGameRank": "4817",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Push Your Luck"
+    ],
+    "categories": [],
+    "designers": [
+      "Tanja Engel",
+      "Sara Engel"
+    ]
+  }
+}

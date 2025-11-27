@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:51:26.636Z",
+  "gameDetails": {
+    "id": "84783",
+    "name": "Coerceo",
+    "type": "boardgame",
+    "description": "Coerceo is a strategic board game that is played between two players. The objective of the game is to win from your opponent by enclosing the opponents pieces and thus removing them from the board. Coerceo has only a few basic game rules that can be mastered in just a couple of minutes.\n\nThe Coerceo board consists of 19 board tiles, each tile having 6 sides (hexagonal shape). A tile has 6 alternating black and white triangles marked on them. The 19 board tiles placed against each other make up the Coerceo modular game board. Each player starts with 18 identical game pieces which represent them on the board. Each game piece is a tetrahedron (i.e. shaped like a three sided &lsquo;pyramid&rsquo;). All game pieces have the same playing capabilities, which are moving and enclosing pieces from the opponent.\n\nThe Coerceo board gets smaller during the game when tiles are taken away from the board. This means that the opponent is never far away.\n\n",
+    "image": "https://cf.geekdo-images.com/9ZKjXEvRUUsmy15BLDtEPw__original/img/6KMGGsr8KRlBHtfBEoXnJnJEh6o=/0x0/filters:format(jpeg)/pic4601342.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9ZKjXEvRUUsmy15BLDtEPw__small/img/XYQL7aDK4qimfmlnP0IqAv4nKBI=/fit-in/200x150/filters:strip_icc()/pic4601342.jpg",
+    "link": "https://boardgamegeek.com/thing/84783",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2011",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.69316",
+    "averageWeight": "3.3333",
+    "boardGameRank": "13727",
+    "mechanics": [
+      "Map Reduction",
+      "Modular Board"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Erik Görtzen"
+    ]
+  }
+}

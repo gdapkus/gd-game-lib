@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T19:31:33.010Z",
+  "gameDetails": {
+    "id": "213777",
+    "name": "Black Orchestra: Classified Promo Pack",
+    "type": "boardgameexpansion",
+    "description": "Contains 3 new conspirators, bringing the total to 12.\n\nHans Gisevius\nAbwehr: Diplomat & Abwehr Agent\nRestricted and plot cards do not count towards raising your Suspicion during Gestapo Raids\n\nFabian von Schlabrendorff\nWehrmacht: Adjunct to Colonel Tresckow\nYou may roll one additional die when taking a CONSPIRE action\n\nHjalmar Schacht\nCivilian: President, Reichsbank\nAs an action, you may give a card or item tile to another conspirator, regardless of location\n\n",
+    "image": "https://cf.geekdo-images.com/gzkBVIeq3wt9hYj3cwVGTw__original/img/zWz4dx8ltghwZUvY6bPaE6pm_Jg=/0x0/filters:format(jpeg)/pic3296018.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gzkBVIeq3wt9hYj3cwVGTw__small/img/QFrBOxQEyQFKs2dGuLDkYqUDO5g=/fit-in/200x150/filters:strip_icc()/pic3296018.jpg",
+    "link": "https://boardgamegeek.com/thing/213777",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2016",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.63807",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Point to Point Movement",
+      "Push Your Luck",
+      "Set Collection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Spies / Secret Agents",
+      "World War II"
+    ],
+    "designers": [
+      "Philip duBarry"
+    ]
+  }
+}

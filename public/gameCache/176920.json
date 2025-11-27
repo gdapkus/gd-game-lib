@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:17:26.527Z",
+  "gameDetails": {
+    "id": "176920",
+    "name": "Mission: Red Planet (Second/Third Edition)",
+    "type": "boardgame",
+    "description": "With technology rapidly developing and the human population growing, Victorian-era Earth is in dire need of fuel, land, and other natural resources. Fortunately, automated probes sent to Mars have discovered celerium, an ore that can be combusted to produce ten thousand times more power than a steam engine, and sylvanite, the densest substance ever found. More incredibly, the probes found ice that could be used in terraforming the planet, bringing the idea of colonizing Mars even closer to becoming a reality.\n\nAs the head of a mining corporation, these minerals and ice found on Mars could make you unfathomably wealthy &ndash; if you can reach them before your competitors. You have ten rounds to send your astronauts into space, occupy the planet's most resource-rich zones, and harvest as much celerium, sylvanite, and ice as possible. At your command is a team of nine professionals. Each has a unique skill set, from helping your astronauts traverse the Red Planet to blowing up spaceships before they launch.\n\nIn each round in Mission: Red Planet, players start by secretly deploying one of their character cards, with this card determining both when they place astronauts on the spaceships awaiting launch to Mars and which special action they take during the round. Each spaceship has a specified destination, and until an astronaut sets foot in a region, no one knows which resource they'll find. Players collect resources (worth points) three times during the game, and they each have a secret mission card that might grant them additional points at game's end. During the game, players might acquire an additional mission or a research card that changes the value of what awaits on Mars.\n\nThe 2015 edition of Mission: Red Planet features the same gameplay as the original 2005 edition, but it includes:\n\n\n    Components for up to six players instead of five\n    Special two-player variant rules\n    New action cards and revised mission and discovery cards\n    Mars' moon Phobos as a new zone that astronauts can explore before possibly returning to the planet itself\n\n\n",
+    "image": "https://cf.geekdo-images.com/dqA_FWqa16taFKOqvdvCEA__original/img/H-cOJQRUO5I_LuDx1EaMcPi-3JU=/0x0/filters:format(jpeg)/pic8483896.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dqA_FWqa16taFKOqvdvCEA__small/img/tv2UwUf9pKFHQKY7utSSq7xk9tI=/fit-in/200x150/filters:strip_icc()/pic8483896.jpg",
+    "link": "https://boardgamegeek.com/thing/176920",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2015",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.39065",
+    "averageWeight": "2.2079",
+    "boardGameRank": "416",
+    "mechanics": [
+      "Action Retrieval",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Hand Management",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Turn Order: Role Order"
+    ],
+    "categories": [
+      "Science Fiction"
+    ],
+    "designers": [
+      "Bruno Cathala",
+      "Bruno Faidutti"
+    ]
+  }
+}

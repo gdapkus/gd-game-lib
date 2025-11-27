@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:30:51.232Z",
+  "gameDetails": {
+    "id": "251057",
+    "name": "Railroad Revolution: Railroad Evolution",
+    "type": "boardgameexpansion",
+    "description": "Railroad Evolution is an expansion for Railroad Revolution.\n\nWelcome back to Railroad Revolution!\n\nNew opportunities are calling, giving you another way for you to enjoy the game. The Railroad has evolved.\n\nRailroad Evolution changes the gameplay and introduces different strategies for players to discover.\n\nThis expansion set includes a new game board and features:\n\n- A different scoring system for Telegraph connections.\n- Wagons and Tenders which connect to your trains in order to make them more powerful.\n- A new customisable &ldquo;Performance&rdquo; scoring system, including player board extensions.\n\nThe train is leaving the station. All aboard!\n\n",
+    "image": "https://cf.geekdo-images.com/JKDsHI9BtGWhpLuypBojFA__original/img/PpH2DLD_cIWs76N-BVECp8QJlPk=/0x0/filters:format(jpeg)/pic5029558.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JKDsHI9BtGWhpLuypBojFA__small/img/B1OLDBsGtR5YY44yrR9fAg-iZ80=/fit-in/200x150/filters:strip_icc()/pic5029558.jpg",
+    "link": "https://boardgamegeek.com/thing/251057",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.2192",
+    "averageWeight": "3.6",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains"
+    ],
+    "designers": [
+      "Marco Canetta",
+      "Stefania Niccolini"
+    ]
+  }
+}

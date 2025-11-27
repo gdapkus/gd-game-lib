@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:50:34.525Z",
+  "gameDetails": {
+    "id": "5048",
+    "name": "Candy Land",
+    "type": "boardgame",
+    "description": "Created by Eleanor Abbott in the early 1940's to entertain children recovering from polio and first published by Milton Bradley (now Hasbro) in 1949, Candy Land encourages young players to socialize, exercise patience, recognize colors, learn rules, and follow directions.\n\nPlayers race down a rainbow-colored track to be the first to find the lost King Kandy at Candy Castle, but watch out for obstacles like the sticky Molasses Swamp!  Start by placing your plastic Gingerbread Man (or other character marker) at the beginning of the track.  Each turn, players draw a simple card and move by matching the color on the card to the next color on the track.  Some cards show a named location on the board; players who draw these cards move forward or backward on the track to the named location.  The game ends when the first player arrives at Candy Castle by reaching or moving beyond the last square on the track.\n\nIn the 2004 version, younger players are not required to remove backward on the track if they draw a named card, and the last square of the track was changed from a Violet Square to a Rainbow Square, resolving a 55-year dispute over whether a player needs to land on the Violet Square or move beyond the Violet Square to win.\n\nPrior to the 2006 version, three colored spaces on the track (one in Molasses Swamp and two \"Cherry Pitfalls\") were marked with a dot.  Players who landed on a dot were \"stuck,\" and were unable to move from the spot until they drew a card that matched the color of the square they were on.  The 2006 version replaced gum drops with licorice spaces; players who land on a licorice space only lose their next turn.\n\n&ldquo;The Legend of the Lost Candy Castle&rdquo; is printed inside the box and can be read out loud. The game parts can be stored below it. The game board is colorful and has lots of yummy candy references.\n\n",
+    "image": "https://cf.geekdo-images.com/N0yxlpaVJKXJi6pLev6YoA__original/img/Upur6-c_Av-Upj02F5k1P0NB7gc=/0x0/filters:format(jpeg)/pic8203388.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/N0yxlpaVJKXJi6pLev6YoA__small/img/L-b7XnHFCIIvnDLbIG66caayc3I=/fit-in/200x150/filters:strip_icc()/pic8203388.jpg",
+    "link": "https://boardgamegeek.com/thing/5048",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1949",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "3.22042",
+    "averageWeight": "1.1501",
+    "boardGameRank": "29601",
+    "mechanics": [
+      "Roll / Spin and Move",
+      "Track Movement"
+    ],
+    "categories": [
+      "Children's Game",
+      "Racing"
+    ],
+    "designers": [
+      "Eleanor Abbott"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:35:55.255Z",
+  "gameDetails": {
+    "id": "431716",
+    "name": "Ashes Reborn: Red Rains – The Flood of Moon Cove",
+    "type": "boardgameexpansion",
+    "description": "The Red Rains fell, swelling the waters of Moon Cove. But the taint of the crimson bay did not wash out to the ocean, but congealed there, and from its depths arose a laughing mockery of life. Choose from four returning Phoenixborn:\nNamine, Echo, Harold, and Fiona, each wielding a brand new signature card. Use the included new sympathy magic player deck to sail out and confront the evil lurking in the water!\nBut keep one eye on the moon, for that celestial body will empower this new abomination, unleashing hideous new attacks upon your embattled Phoenixborn!\n\nChimera and Phoenixborn Expansion Decks!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/XhZ0ifJJoLtWnTXdUWUVWA__original/img/xayU7UNyWlIs1yK-61vRn2V5d70=/0x0/filters:format(png)/pic8508627.png",
+    "thumbnail": "https://cf.geekdo-images.com/XhZ0ifJJoLtWnTXdUWUVWA__small/img/AUZSDqgF2vuYt2bte76xCWi8Fiw=/fit-in/200x150/filters:strip_icc()/pic8508627.png",
+    "link": "https://boardgamegeek.com/thing/431716",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "8.83684",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Cooperative Game",
+      "Deck Construction",
+      "Die Icon Resolution"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Dice"
+    ],
+    "designers": [
+      "Nick Conley",
+      "Isaac Vega"
+    ]
+  }
+}

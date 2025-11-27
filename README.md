@@ -1,79 +1,114 @@
-# Vuetify (Default)
+# MyGameLibrary
 
-This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
+## Project Summary
+MyGameLibrary is a web application designed to help users manage and explore their personal board game collections. It integrates with BoardGameGeek (BGG) to fetch game data and provides a user-friendly interface to browse, filter, and track owned games.
 
-## ❗️ Important Links
+## Key Features
+*   View and manage your personal board game collection.
+*   Fetch and update game data from BoardGameGeek.
+*   Filter and sort games based on various criteria.
+*   Database-backed persistence for game and collection data.
+*   Trello integration for managing game-related tasks.
 
-- 📄 [Docs](https://vuetifyjs.com/)
-- 🚨 [Issues](https://issues.vuetifyjs.com/)
-- 🏬 [Store](https://store.vuetifyjs.com/)
-- 🎮 [Playground](https://play.vuetifyjs.com/)
-- 💬 [Discord](https://community.vuetifyjs.com)
+## Technology Stack
+*   **Frontend:** Vue.js 3, Vuetify 3, Pinia (State Management), Vue Router.
+*   **Backend:** Node.js, Express.js.
+*   **Database:** Neon Postgres.
+*   **Tooling:** Vite, ESLint.
 
-## 💿 Install
+## Getting Started
 
-Set up your project using your preferred package manager. Use the corresponding command to install the dependencies:
+### Prerequisites
+Ensure you have the following installed:
+*   Node.js (LTS recommended)
+*   npm or Yarn (or pnpm, bun)
 
-| Package Manager                                                | Command        |
-|---------------------------------------------------------------|----------------|
-| [yarn](https://yarnpkg.com/getting-started)                   | `yarn install` |
-| [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)     | `npm install`  |
-| [pnpm](https://pnpm.io/installation)                          | `pnpm install` |
-| [bun](https://bun.sh/#getting-started)                        | `bun install`  |
+### Installation & Setup
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/MyGameLibrary.git
+    cd MyGameLibrary
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install  # or yarn install, pnpm install, bun install
+    ```
+3.  **Environment Variables:**
+    Create a `.env` file in the root directory by copying `.env.example` and filling in the required values.
 
-After completing the installation, your environment is ready for Vuetify development.
+    Example `.env` configuration:
+    ```
+    # Express Server Port
+    EXPRESS_PORT=5000
 
-## ✨ Features
+    # BGG API Token (Optional, for higher rate limits if available)
+    BGG_API_TOKEN=your_bgg_api_token_here
 
-- 🖼️ **Optimized Front-End Stack**: Leverage the latest Vue 3 and Vuetify 3 for a modern, reactive UI development experience. [Vue 3](https://v3.vuejs.org/) | [Vuetify 3](https://vuetifyjs.com/en/)
-- 🗃️ **State Management**: Integrated with [Pinia](https://pinia.vuejs.org/), the intuitive, modular state management solution for Vue.
-- 🚦 **Routing and Layouts**: Utilizes Vue Router for SPA navigation and vite-plugin-vue-layouts for organizing Vue file layouts. [Vue Router](https://router.vuejs.org/) | [vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
-- ⚡ **Next-Gen Tooling**: Powered by Vite, experience fast cold starts and instant HMR (Hot Module Replacement). [Vite](https://vitejs.dev/)
-- 🧩 **Automated Component Importing**: Streamline your workflow with unplugin-vue-components, automatically importing components as you use them. [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
+    # Trello API Credentials (for Trello integration)
+    TRELLO_KEY=your_trello_api_key_here
+    TRELLO_TOKEN=your_trello_api_token_here
 
-These features are curated to provide a seamless development experience from setup to deployment, ensuring that your Vuetify application is both powerful and maintainable.
+    # Neon Postgres Database Configuration
+    # Option 1: Use a full connection string (recommended for deployment)
+    # DATABASE_URL="postgresql://user:password@host:port/database?sslmode=require"
+    # Option 2: Individual connection parameters (for local development)
+    DBSERVER=your_db_host_here
+    DBPORT=5432
+    GAMELIBDB=your_db_name_here
+    DBUSER_ID=your_db_user_here
+    DBPASS=your_db_password_here
+    ```
+    Refer to `docs/neon-postgres-schema-plan.md` for more details on database connection parameters.
 
-## 💡 Usage
+## Running the Application
 
-This section covers how to start the development server and build your project for production.
+*   `npm run dev`: Runs the Vite frontend and Node.js backend concurrently. Use this for most development work.
+*   `npm run devv`: Runs the Vite frontend only, for UI work that doesn't require the API.
+*   `npm run build`: Creates a production-ready build in the `dist/` directory.
+*   `npm run preview`: Serves the production build locally for testing.
+*   `npm run lint`: Lints and formats the entire project.
+*   `node testVideoScraper.js`: Runs an ad-hoc test for the video scraping helper.
 
-### Starting the Development Server
+## Developer Guidelines
 
-To start the development server with hot-reload, run the following command. The server will be accessible at [http://localhost:3000](http://localhost:3000):
+### Project Structure
+*   **`src/`**: Contains the Vue.js frontend application.
+    *   **`pages/`**: View components that act as page wrappers.
+    *   **`components/`**: Reusable UI components.
+    *   **`services/`**: Cross-cutting helpers and utilities.
+    *   **`plugins/`**: Global Vue plugins.
+    *   **`assets/`**: Static assets like icons and images.
+*   **`server.js`**: The main file for the Express backend server.
+*   **`config/`**: Configuration files read by the server.
+*   **`dist/`**: The output directory for production builds (auto-generated).
 
-```bash
-yarn dev
-```
+### Coding Style & Naming Conventions
+*   **Indentation:** Use two-space indentation for all Vue, JS, and JSON files.
+*   **Quotes:** Prefer single quotes in scripts (`.js`, `.mjs`) and double quotes inside Vue templates.
+*   **File Naming:**
+    *   Vue components and pages should be `PascalCase` (e.g., `GameList.vue`, `LibraryDashboard.vue`).
+    *   Services, utilities, and scripts should be `camelCase`.
+*   **Linting:** Run `npm run lint` before committing changes.
 
-(Repeat for npm, pnpm, and bun with respective commands.)
+### Testing Guidelines
+*   No automated framework is in place yet. The plan is to add Vitest to match the Vite toolchain.
+*   Until then, new logic should be covered with targeted Node.js scripts, similar to `testVideoScraper.js`.
 
-> Add NODE_OPTIONS='--no-warnings' to suppress the JSON import warnings that happen as part of the Vuetify import mapping. If you are on Node [v21.3.0](https://nodejs.org/en/blog/release/v21.3.0) or higher, you can change this to NODE_OPTIONS='--disable-warning=5401'. If you don't mind the warning, you can remove this from your package.json dev script.
+### Commit & Pull Request Guidelines
+*   **Commit Messages:** Keep messages short and in the imperative mood (e.g., "Fix game list sorting bug"). The first line should be under 72 characters.
+*   **Scope:** Keep changes narrowly scoped to a single feature or bug fix.
 
-### Building for Production
+### Security & Configuration
+*   All secrets, API keys, and passwords must be stored in a local `.env` file and never committed to the repository.
 
-To build your project for production, use:
+## Project Documentation
+For more in-depth information about the project, please refer to these documents:
 
-```bash
-yarn build
-```
+*   **Project Plan & Roadmap:** [`docs/project-plan.md`](./docs/project-plan.md)
+*   **Database Schema Plan:** [`docs/neon-postgres-schema-plan.md`](./docs/neon-postgres-schema-plan.md)
+*   **Data Inventory (Filesystem Sources):** [`docs/data-inventory.md`](./docs/data-inventory.md)
+*   **Agent Guidelines (for AI collaborators):** [`AGENTS.md`](./AGENTS.md)
+*   **Gemini AI Specific Notes:** [`gemini.md`](./gemini.md)
 
-(Repeat for npm, pnpm, and bun with respective commands.)
-
-Once the build process is completed, your application will be ready for deployment in a production environment.
-
-## 💪 Support Vuetify Development
-
-This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library with a comprehensive collection of Vue components. Vuetify is an MIT licensed Open Source project that has been made possible due to the generous contributions by our [sponsors and backers](https://vuetifyjs.com/introduction/sponsors-and-backers/). If you are interested in supporting this project, please consider:
-
-- [Requesting Enterprise Support](https://support.vuetifyjs.com/)
-- [Sponsoring John on Github](https://github.com/users/johnleider/sponsorship)
-- [Sponsoring Kael on Github](https://github.com/users/kaelwd/sponsorship)
-- [Supporting the team on Open Collective](https://opencollective.com/vuetify)
-- [Becoming a sponsor on Patreon](https://www.patreon.com/vuetify)
-- [Becoming a subscriber on Tidelift](https://tidelift.com/subscription/npm/vuetify)
-- [Making a one-time donation with Paypal](https://paypal.me/vuetify)
-
-## 📑 License
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2016-present Vuetify, LLC
+## License
+MIT

@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:49:52.106Z",
+  "gameDetails": {
+    "id": "37099",
+    "name": "Bharg",
+    "type": "boardgame",
+    "description": "Bharg is a Decktet set-making game for 2 players.\n\nObject of the game: To bind all the cards in your hand.\n\nSetup: Each player is dealt a hand of seven cards. The dealer then deals one card face up to start a discard pile.\n\nAs the game progresses, there will be two discard piles: one for aces, the other for number cards and crowns. The discard pile for aces is called the Ace Pile.\n\nGame play: On your turn, you may take the top card of the numbers-and-crowns discard pile or the top card of the deck. Then you discard a card.\n\n",
+    "image": "https://cf.geekdo-images.com/I-GfzLu7o6-vtG1hx5FVjw__original/img/cc6bZhXgHzB4_X-shzo1KGqj82w=/0x0/filters:format(jpeg)/pic351083.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/I-GfzLu7o6-vtG1hx5FVjw__small/img/fFqoHJeOR4Z_GYDQ0-EaVg8kUeo=/fit-in/200x150/filters:strip_icc()/pic351083.jpg",
+    "link": "https://boardgamegeek.com/thing/37099",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2008",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.09231",
+    "averageWeight": "1.7",
+    "boardGameRank": "19593",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "P. D. Magnus"
+    ]
+  }
+}

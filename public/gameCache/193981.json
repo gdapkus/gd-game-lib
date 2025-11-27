@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T19:31:54.550Z",
+  "gameDetails": {
+    "id": "193981",
+    "name": "Downfall",
+    "type": "boardgame",
+    "description": "In the year 2213, the world order &mdash; as it had been known for a century and a half &mdash; came to an abrupt end over a 19 day war. The bombs started falling on the third day, and by the 19th day ninety-nine percent of the earth&rsquo;s population was dead or would be soon. Wars and conflicts had raged now and again for decades prior, populations rising up, and the global government seeking to quell the conflict and maintain the status quo. But in the most recent five year period, the conflicts escalated rapidly, and the world order began to come apart&mdash;leaders became scared and trigger fingers twitchy. No one knows who pressed the button first, and in the harsh realities of the world that followed, no one cared. What mattered was surviving and, if possible, rebuilding.\n\nEach turn, players will draft and simultaneously play a card from their hand (\"pack\") to indicate their action for the turn. This may be moving citizens or airships to explore or expand around the modular board, building structures, researching technology, initiating conflict, producing or gathering resources, and abating radiation. All of these things can earn you points in different ways. If you cannot store resources, they are left on the ground and are available for anyone present to use. Each card has an action and a lesser version of another action, so you're never stuck being entirely unable to do a particular thing, and you can also store cards for future.\n\nOnce all actions are complete, hands are passed to the next player and a new card is added to each one. If a \"Winter\" card is added, it is discarded and replaced, and the game timer advances. As the game timer advances, both expected events (spread of radiation, combat, feeding your citizens) and unexpected events may occur. When the Winter track reaches the end, the game is over, and points are scored.\n\n",
+    "image": "https://cf.geekdo-images.com/uMqAV_J_GBg8pRKl9S9SqA__original/img/7jwd6yq8YkDmuHZKSssvsFGYn98=/0x0/filters:format(png)/pic3748325.png",
+    "thumbnail": "https://cf.geekdo-images.com/uMqAV_J_GBg8pRKl9S9SqA__small/img/KpJN75o_H6VB7cu1IT7h8m6EoTI=/fit-in/200x150/filters:strip_icc()/pic3748325.png",
+    "link": "https://boardgamegeek.com/thing/193981",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2018",
+    "playingTime": "180",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.38494",
+    "averageWeight": "3.8",
+    "boardGameRank": "11588",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Open Drafting",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Exploration",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "designers": [
+      "John D. Clair"
+    ]
+  }
+}

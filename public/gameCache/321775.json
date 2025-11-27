@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:11:58.663Z",
+  "gameDetails": {
+    "id": "321775",
+    "name": "Marvel United: Guardians of the Galaxy Remix – Kickstarter Edition",
+    "type": "boardgameexpansion",
+    "description": "Kickstarter version of the Marvel Unite: Guardians of the Galaxy Remix expansion that adds a Kickstarter Exclusive bonus Hero to round off the team, the daughter of Thanos herself: Gamora, including her character piece and deck of 12 Hero cards!\n\n",
+    "image": "https://cf.geekdo-images.com/t0HiN0sh8C6EFrkmEsetNw__original/img/Vaz697qKVeVy4x5zo660y27vLpg=/0x0/filters:format(jpeg)/pic5948455.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/t0HiN0sh8C6EFrkmEsetNw__small/img/bLkfSrDJaqyyUkYMjPAMri9raZU=/fit-in/200x150/filters:strip_icc()/pic5948455.jpg",
+    "link": "https://boardgamegeek.com/thing/321775",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.15833",
+    "averageWeight": "2.2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Programmed Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": []
+  }
+}

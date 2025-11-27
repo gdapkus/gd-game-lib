@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:08:42.573Z",
+  "gameDetails": {
+    "id": "164236",
+    "name": "Witch Hunt",
+    "type": "boardgame",
+    "description": "Witch hunt is a large-group social deduction game (like Werewolf or Mafia) for 7-22 players.  A group of Villagers must find and lynch the Witches among them during the day, while the Witches kill a target every night.\n\nUnlike similar games, dead players on both teams continue to influence the game.  Additionally, each player has a unique character with a simple ability--including the Witches.  This means the abilities of the Witch team varies wildly game-to-game.\n\n",
+    "image": "https://cf.geekdo-images.com/D4pJ5MWHt7-mPhLfxLRmaw__original/img/NKV6wnWiKVkhhseMRXEqoIG8Bec=/0x0/filters:format(png)/pic3226092.png",
+    "thumbnail": "https://cf.geekdo-images.com/D4pJ5MWHt7-mPhLfxLRmaw__small/img/glOXoBioyf_dTKGQYDXnQiG_yUE=/fit-in/200x150/filters:strip_icc()/pic3226092.png",
+    "link": "https://boardgamegeek.com/thing/164236",
+    "minPlayers": "7",
+    "maxPlayers": "22",
+    "yearPublished": "2016",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      10,
+      14
+    ],
+    "averageRating": "7.44004",
+    "averageWeight": "2",
+    "boardGameRank": "10535",
+    "mechanics": [
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Deduction",
+      "Party Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Kyle Brockman"
+    ]
+  }
+}

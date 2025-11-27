@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:07:42.569Z",
+  "gameDetails": {
+    "id": "128475",
+    "name": "Murder of Crows",
+    "type": "boardgame",
+    "description": "Murder of Crows invites you to be the first player to spell \"murder\" &ndash; but thankfully you don't have to use crow carcasses to do it.\n\nInstead you're spelling the word with letter cards from your hand. Each player starts with five cards in hand, and on a turn a player either (a) draws two cards or (b) draws one card and plays one card. In addition to the Wild Crow card, which can do just about anything, cards come in five letters, each with a special power that takes place when you play that card:\n\n\n    M &ndash; Misplace: Take one card from a player's murder &ndash; that is, his collection of cards on the table &ndash; and add it to your hand.\n    U &ndash; Uncover: All players reveal their hands and you take any one card and add it to your hand.\n    R &ndash; Reap: Draw one additional card.\n    D &ndash; Drain: Choose one letter. All players discard one of those letters from play, if possible.\n    E &ndash; Expel: Everyone discards their hand and draws three new cards.\n\n\nWhen an opponent's card would affect you, you can discard a card of matching crow power &ndash; as indicated in the top left corner of the card &ndash; to be immune from the action.\n\n",
+    "image": "https://cf.geekdo-images.com/X3QS8_OHKcXI3hAxX-mBbg__original/img/j8WKKTUNoDRcNZdSeilyQi9wzxI=/0x0/filters:format(jpeg)/pic1379539.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X3QS8_OHKcXI3hAxX-mBbg__small/img/_tu3WrdUU7pHxGXSf0JpK6C-v6U=/fit-in/200x150/filters:strip_icc()/pic1379539.jpg",
+    "link": "https://boardgamegeek.com/thing/128475",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.02908",
+    "averageWeight": "1.2917",
+    "boardGameRank": "10316",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Spelling",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Murder / Mystery",
+      "Word Game"
+    ],
+    "designers": [
+      "Eduardo Baraf",
+      "Thomas Denmark"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:09:38.544Z",
+  "gameDetails": {
+    "id": "310442",
+    "name": "Feierabend",
+    "type": "boardgame",
+    "description": "Welcome to Feierabend, a.k.a. Finishing Time, the after-worker placement game for 1-6 players.\n\nIn Feierabend, you are playing a team of workers (female, male, and non-binary, too). Each day you leave work stressed and look for some fun in the evenings &mdash; but thanks to a 70-hour work week and a low income, you don't have many possibilities for relaxation. Sure, you can head to the pub for drinks, go on blind dates to find a partner, or fish or jog outside, but this is not a good work-life balance. It's a rat race.\n\nIf you really want to relax, you need a higher income for you and your fellow workers &mdash; and the women on your team should be paid the same as the men. You want to work fewer hours each week, and taking a vacation would be good, too. Let the union help you fix this depressing lifestyle. This change might stress your employer, of course, but they already earn enough to be able to de-stress their life.\n\nEach turn, place one (or more) of your workers on any available after-work spaces to gain relaxation. Taking leisure time doesn't cost anything, but going to town for amusement requires you to spend hard-earned money. Going on vacation for real relaxation is out of the question until your employer is convinced to grant your workers some time off. When your workers meet partners, you gain access to even better relaxation options.\n\nAt the pub, workers can relax and have drinks in front of the bar &mdash; or they can earn additional income and suffer more stress by working a second job there. You'll want to visit the union office, too, to strike for better working conditions. If you have enough strike tokens, you can force your employer to reduce working hours, increase your income, close the gender gap, or even send you on vacation.\n\nAfter all your workers have been placed and taken their after-work actions, they are forced to return to work. You place them all on your factory where they then suffer stress, earn income, and gain strike tokens from the union, depending on the current working conditions.\n\nThe end of the game is triggered once a team gathers at least 40 relaxation. (In this game, relaxation is considered to be a currency.) Your workers are then placed on after-work spaces and go back to work one more time, after which the most relaxed team wins Feierabend.\n\nCreate a better (that is, more relaxing) life for your workers and their partners. Which team will relax the best and win the game? But really every team is a winner since they fought for better working conditions. Workers unite!\n\n",
+    "image": "https://cf.geekdo-images.com/lGcdFUgSkOp0aBYsE3z1kA__original/img/pMTV_K2hGxCz-ccYs36wGiNj2v8=/0x0/filters:format(jpeg)/pic5435827.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lGcdFUgSkOp0aBYsE3z1kA__small/img/d2vgvIrYHGDEVTUk94uG1mIrvac=/fit-in/200x150/filters:strip_icc()/pic5435827.jpg",
+    "link": "https://boardgamegeek.com/thing/310442",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2020",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.11148",
+    "averageWeight": "2.6",
+    "boardGameRank": "4616",
+    "mechanics": [
+      "Income",
+      "Investment",
+      "Multiple Maps",
+      "Race",
+      "Solo / Solitaire Game",
+      "Victory Points as a Resource",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Economic",
+      "Humor",
+      "Industry / Manufacturing",
+      "Political"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

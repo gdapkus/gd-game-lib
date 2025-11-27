@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:16:19.138Z",
+  "gameDetails": {
+    "id": "18485",
+    "name": "18MEX",
+    "type": "boardgame",
+    "description": "18MEX is an 18xx game set in Mexico, designed for 3-5 players and playable in 3-4 hours. Like other 18xx type games, it is a rather abstact simulation of historical railroad operations and financing, this time with a setting in Mexico. Players compete to control railroads while attempting to accumulate the greatest net worth. 18MEX features private companies, minor railroads, major railroad corporations and a government railroad, the NdM.\n\n",
+    "image": "https://cf.geekdo-images.com/kljuOsbQ9yxs2tHTguxUyA__original/img/VpoCa8QqJ9S9C6g0uKpDsOzvWF0=/0x0/filters:format(png)/pic4895018.png",
+    "thumbnail": "https://cf.geekdo-images.com/kljuOsbQ9yxs2tHTguxUyA__small/img/cAAJnv01XV-K3oTFbbM2EwZtu6Q=/fit-in/200x150/filters:strip_icc()/pic4895018.png",
+    "link": "https://boardgamegeek.com/thing/18485",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2005",
+    "playingTime": "210",
+    "minPlayingTime": "210",
+    "maxPlayingTime": "210",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.6648",
+    "averageWeight": "3.8421",
+    "boardGameRank": "3047",
+    "mechanics": [
+      "Hexagon Grid",
+      "Network and Route Building",
+      "Stock Holding",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Mark Derrick"
+    ]
+  }
+}

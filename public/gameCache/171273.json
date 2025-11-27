@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:17:05.833Z",
+  "gameDetails": {
+    "id": "171273",
+    "name": "FUSE",
+    "type": "boardgame",
+    "description": "Intruders have made their way onto your ship, and their goal is total destruction! More than twenty bombs have been detected onboard, and the countdown has begun. Your elite Bomb Defusal Team (BDT) has been called upon to neutralize the threat. Does your team have what it takes to work through the intricacies of the bombs and defuse them all in time?\n\nFUSE is a real-time co-operative game that employs 25 dice and 65 cards. Each game is set to a ten-minute timer, and players must work together in that ten minutes to defuse all of the bombs. Each bomb is represented by a card which needs a certain combination of dice in order to defuse it. A player will draw a number of dice equal to the number of players out of a bag and roll them. Players must then decide who will get which dice, but each player must take one and only one.\n\nIt's a simple task: maximize the potential of your dice among all of the players. The problem is that you have only ten minutes, and there are more than twenty bombs on your ship. You don't have time to think through every option. You barely have time to yell at Grandma as she reaches for that red die you need. This game will self-destruct in ten minutes...\n\n",
+    "image": "https://cf.geekdo-images.com/q6V72bfqeoKi3bfThY3XfQ__original/img/WpL6_RxwhMEZJrS3Z4-DztN78l0=/0x0/filters:format(jpeg)/pic5172335.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/q6V72bfqeoKi3bfThY3XfQ__small/img/dUvznEJMuiiQvA729qtAa6iA40g=/fit-in/200x150/filters:strip_icc()/pic5172335.jpg",
+    "link": "https://boardgamegeek.com/thing/171273",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.99083",
+    "averageWeight": "1.6608",
+    "boardGameRank": "942",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Elapsed Real Time Ending",
+      "Open Drafting",
+      "Pattern Building",
+      "Real-Time",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Dice",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Kane Klenko"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:37:30.706Z",
+  "gameDetails": {
+    "id": "357294",
+    "name": "The Lord of the Rings: The Card Game – Revised Core: Riders of Rohan Starter Deck",
+    "type": "boardgameexpansion",
+    "description": "The noble warriors of Rohan, the Rohirrim, have always been renowned for their cavalry. Masters of horses and friends of Gondor, the riders of Rohan charge into battle against the Enemy with a great rallying cry, and now players can experience the thrill of this charge in The Lord of the Rings: The Card Game. The Rohirrim focus on powerful hit-and-run tactics, dashing into and out of battle in a gameplay style reminiscent of a cavalry charge.\n\nFor players who enjoy having unrelenting momentum and constantly pressuring their foes, they will love the Riders of Rohan Starter Deck! This expansion comes with a 53-card pre-built deck, giving players the chance to start playing right out of the box.\n\n&mdash;description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/Mr_hDpY41aJCNu9lFeFy6g__original/img/uWTHd7qCUaSmY4tA6ItTD0SecpY=/0x0/filters:format(jpeg)/pic8546951.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Mr_hDpY41aJCNu9lFeFy6g__small/img/GAVWYKfRKzoPnRU5oRy1Fo8_0v8=/fit-in/200x150/filters:strip_icc()/pic8546951.jpg",
+    "link": "https://boardgamegeek.com/thing/357294",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "8.39067",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Automatic Resource Growth",
+      "Cooperative Game",
+      "Deck Construction",
+      "Events",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Collectible Components",
+      "Fantasy",
+      "Novel-based"
+    ],
+    "designers": [
+      "Nate French"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:32:08.792Z",
+  "gameDetails": {
+    "id": "76674",
+    "name": "String Railway",
+    "type": "boardgame",
+    "description": "String Railway is a unique train game that consists of colored strings, tokens, station tiles, and a board for scoring. To set up, first place the string tied in a big circle on the table to establish the field area for the game. Next, place a small circle of string to represent mountains and a line of string to represent a river. Finally, place the main stations for each player equal distances apart from one another.\n\nOn a turn, you draw and place a station tile, then try to place a railroad string between your stations in an effort to connect them in order to form your own train network. Connected stations earn victory points (VPs).\n\nAfter five turns, the game ends and the player with the most VPs wins.\n\n",
+    "image": "https://cf.geekdo-images.com/QiTWsaxjkQSMbJgtOdC82g__original/img/KsJdm5R1lCaYiCh5ZUtT74vv8Zs=/0x0/filters:format(jpeg)/pic830441.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QiTWsaxjkQSMbJgtOdC82g__small/img/onHarlfofnAsXIU0Csxoxx17mxM=/fit-in/200x150/filters:strip_icc()/pic830441.jpg",
+    "link": "https://boardgamegeek.com/thing/76674",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2009",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.30491",
+    "averageWeight": "1.434",
+    "boardGameRank": "3917",
+    "mechanics": [
+      "Modular Board",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Territory Building",
+      "Trains"
+    ],
+    "designers": [
+      "Hisashi Hayashi"
+    ]
+  }
+}

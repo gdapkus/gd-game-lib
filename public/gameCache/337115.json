@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T19:33:34.097Z",
+  "gameDetails": {
+    "id": "337115",
+    "name": "Darwin's Journey: Falmouth Port mini-expansion",
+    "type": "boardgameexpansion",
+    "description": "The Falmouth expansion adds a new mechanism to the game where players can redeem the Special Ship pieces and the Horses by completing Objective tiles.\n\nThe Special Ship will replace one of your Ships in the Ocean track and the Horse will replace one of your Explorers.\nWhen unlocking one of the special pieces, you will have to place a roof over the corresponding space. One shows a Correspondence Action and the other one an Academy Action. When performing one of the actions depicted on the corresponding Roof tile, you will be able to advance 1-4 spaces with your Special Ship or Horse by paying 1-4 coins. You will gain the bonus action once you finish the advancement.\n\n",
+    "image": "https://cf.geekdo-images.com/0yfJXdHUkTbfUP5m7plNdA__original/img/HKaPb2F-40QOkok_rCcmPnglXO4=/0x0/filters:format(jpeg)/pic7704031.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0yfJXdHUkTbfUP5m7plNdA__small/img/yV3B4LGXbG8JtRE5p-CM-51xJHY=/fit-in/200x150/filters:strip_icc()/pic7704031.jpg",
+    "link": "https://boardgamegeek.com/thing/337115",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.68014",
+    "averageWeight": "3.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Contracts",
+      "Point to Point Movement",
+      "Set Collection",
+      "Turn Order: Stat-Based",
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone",
+      "Pierpaolo Paoletti"
+    ]
+  }
+}

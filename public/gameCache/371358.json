@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:13:43.703Z",
+  "gameDetails": {
+    "id": "371358",
+    "name": "Naturopolis: Points of Interest",
+    "type": "boardgameexpansion",
+    "description": "A one card assistant visits Naturopolis.\n\nPoints of Interest is a starting card that boosts your score if you surround it with the same type of block.\n\nThis is the first Point of Interest that introduces new rules. This rainbow is also a road, and it's a road that does not count towards your road tax. If you ever needed a little buff to help your score, Points of Interest is there for you, and this one can help prevent you from losing yet another point (actually 2 points in Naturopolis!).\n\nThis 1-card expansion (almost) mirrors Sprawlopolis: Points of Interest.\n\n-description from developer\n\n",
+    "image": "https://cf.geekdo-images.com/kSEIm2aysQ2gL7s4ktYp2Q__original/img/1osF8B66qb5eEbc_stLCRGwqqPE=/0x0/filters:format(png)/pic7091215.png",
+    "thumbnail": "https://cf.geekdo-images.com/kSEIm2aysQ2gL7s4ktYp2Q__small/img/aBdQQfp0iOSJL-GgCXdFsd2oiPM=/fit-in/200x150/filters:strip_icc()/pic7091215.png",
+    "link": "https://boardgamegeek.com/thing/371358",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "7.0744",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Layering",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "City Building",
+      "Territory Building"
+    ],
+    "designers": [
+      "Steven Aramini",
+      "Danny Devine",
+      "Paul Kluka"
+    ]
+  }
+}

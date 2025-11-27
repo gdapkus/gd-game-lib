@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:29:52.112Z",
+  "gameDetails": {
+    "id": "35435",
+    "name": "Nefertiti",
+    "type": "boardgame",
+    "description": "From the back of the box:\nAkhenaton, Pharoah of Upper & Lower Egypt, God among men, all powerful sovereign, he trembles before no-one. There is, however, one mistake that even an immortal king cannot afford to make: forgetting his wedding anniversary. Especially when his wife is the exquisite Nefertiti.\n\nAlas, the powerful monarch has almost made such an unforgivable blunder, remembering the event a mere two days before it is to take place. Now, he must find a veritable shower of queenly gifts.\n\nThe task of finding beautiful & original gifts falls upon his councilors - YOU!\n\nIt's time to play! Send you servants to the four corners of Egypt, from Gizeh to Abou Simbel & gather up the most impressive objects the realm has to offer. If your gifts are noteworthy and please Nefertiti, there is no doubt that the Pharaoh will reward you most generously.\n\n",
+    "image": "https://cf.geekdo-images.com/r4uZ2K_y6rNQtYmAIOkK_w__original/img/aJ-DrXVPj8zW06aEMbV3sfvVLRU=/0x0/filters:format(jpeg)/pic1182301.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/r4uZ2K_y6rNQtYmAIOkK_w__small/img/WP9k5YX-ocmbdBwpChu9MJMmd0c=/fit-in/200x150/filters:strip_icc()/pic1182301.jpg",
+    "link": "https://boardgamegeek.com/thing/35435",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.99024",
+    "averageWeight": "2.3563",
+    "boardGameRank": "2187",
+    "mechanics": [
+      "Auction / Bidding",
+      "Set Collection"
+    ],
+    "categories": [
+      "Ancient"
+    ],
+    "designers": [
+      "Jacques Bariot",
+      "Thomas Cauët",
+      "Guillaume Montiage"
+    ]
+  }
+}

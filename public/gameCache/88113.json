@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:56:18.019Z",
+  "gameDetails": {
+    "id": "88113",
+    "name": "Isaac",
+    "type": "boardgame",
+    "description": "Isaac is an abstract strategy game for two players.\n\nThe game is divided in two different phases, placement and scoring.\n\nDuring the placement, a player places one of his rectangular pieces on the available spaces of a 10&times;10 square grid board.\n\nDuring the scoring, each player removes one of his pieces from the board, scoring a number of points equal to the number written on the removed piece times the number of pieces that lie on the row/column from which the piece was removed. A piece can be removed only if it is at least long as the longest piece already removed by the same player.\n\nEach player uses his/her own counter to keep track of his/her points but the counter itself is placed on the board (that is, the board is also the score track). The presence of a counter on the row/column from which a piece is taken doubles the points scored. A player can decide to score less points than he/she earned, therefore allowing to place the score counter in a more convenient place.\n\nYou can play Foundations and Hari with an Isaac set.\n\nSource: Author's description\n\nOnline Play\n\n\n     http://www.iggamecenter.com/ - igGameCenter (real-time)\n\n\nAwards:\n\nWinner of the NESTORGAMES continuous abstract game design contest\nWinner of the Abstract Game Design Contest at the Cald&egrave; \"Tutto &egrave; numero\" Mathematical Festival 2011\n\n",
+    "image": "https://cf.geekdo-images.com/77-uTDwPjajvxQOwK4TOlw__original/img/wtCfSx42r1dZElkC8BNdAMLcEN0=/0x0/filters:format(jpeg)/pic1098998.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/77-uTDwPjajvxQOwK4TOlw__small/img/qkBk6lxNW0vdPx_BOQfTsyEcEbU=/fit-in/200x150/filters:strip_icc()/pic1098998.jpg",
+    "link": "https://boardgamegeek.com/thing/88113",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2011",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.95674",
+    "averageWeight": "2.3333",
+    "boardGameRank": "18467",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Emiliano \"Wentu\" Venturini"
+    ]
+  }
+}

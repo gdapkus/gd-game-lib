@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:47:58.652Z",
+  "gameDetails": {
+    "id": "6504",
+    "name": "Ace of Aces: Wingleader",
+    "type": "boardgame",
+    "description": "Another game in the Ace of Aces series, this one focuses on WWII fighter combat. 24 fighters (including the Me-262 jet) are modeled in the game.\n\n",
+    "image": "https://cf.geekdo-images.com/jabMuxGcQujyp4jwDye2Sg__original/img/K_T7LWs_u2l3cr4_AhOU8EC7lYg=/0x0/filters:format(jpeg)/pic1968754.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jabMuxGcQujyp4jwDye2Sg__small/img/Pt7WqhrYEImA8C7NbQsJM5UzLFI=/fit-in/200x150/filters:strip_icc()/pic1968754.jpg",
+    "link": "https://boardgamegeek.com/thing/6504",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1988",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.59762",
+    "averageWeight": "1.7778",
+    "boardGameRank": "10760",
+    "mechanics": [
+      "Simulation",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Alfred Leonardi"
+    ]
+  }
+}

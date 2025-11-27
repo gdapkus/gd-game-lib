@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:01:55.275Z",
+  "gameDetails": {
+    "id": "5749",
+    "name": "Simon",
+    "type": "boardgame",
+    "description": "Simon is a large round electronic box with four player 'press pads' on top.  Each of the pads lights up and plays a tone.\n\nThe game is basically a memory game.  Simon lights one of the coloured pads and sounds a tone, then two, then three, etc.  Players attempt to match Simon by pressing the pads in the proper sequence.  If someone fails, they get a 'raspberry' and are out of the game.  Of course Simon speeds up as the game progresses so it becomes increasingly more difficult.\n\nFor a little less randomness, players can set the game to ignore the computer and perform the sequences themselves adding one colour to each play.  Player 1 can press \"Red\", Player 2 then must press \"Red\" and then adds another \"Red\", player 3 then must press \"Red, Red\", and then adds \"Blue\", etc.\n\n",
+    "image": "https://cf.geekdo-images.com/x9KsZTCDg_25I-TBO9dWAQ__original/img/X_WXKanQwR1eEscqPXHcphDgGbs=/0x0/filters:format(jpeg)/pic8258327.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/x9KsZTCDg_25I-TBO9dWAQ__small/img/UTmln8bdLCcIO3eRzKufxUHwaxA=/fit-in/200x150/filters:strip_icc()/pic8258327.jpg",
+    "link": "https://boardgamegeek.com/thing/5749",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "1978",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "4.43179",
+    "averageWeight": "1.2308",
+    "boardGameRank": "29565",
+    "mechanics": [
+      "Memory",
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Electronic",
+      "Memory",
+      "Real-time"
+    ],
+    "designers": [
+      "Ralph Baer",
+      "Lenny Cope",
+      "Howard J. Morrison"
+    ]
+  }
+}

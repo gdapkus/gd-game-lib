@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:04:00.060Z",
+  "gameDetails": {
+    "id": "213460",
+    "name": "Unlock!: Escape Adventures",
+    "type": "boardgame",
+    "description": "Unlock! is a cooperative card game inspired by escape rooms that uses a simple system which allows you to search scenes, combine objects, and solve riddles. Play Unlock! to embark on great adventures, while seated at a table using only cards and a companion app that can provide clues, check codes, monitor time remaining, etc.\n\nUnlock! Escape Adventures includes three separate scenarios for you to explore:\n\n\n     In The Formula, you enter a secret laboratory to recover a mysterious serum that has been developed by a scientist. Will you solve all the riddles and get out in less than an hour?\n     In Squeek & Sausage, you need to thwart the plans of the despicable Professor Noside!\n     In The Island of Doctor Goorse, you must visit the island of an eccentric antique collector billionaire and overcome its traps!\n\n\nAn included ten-card tutorial allows you to learn how to play without reading the game rules.\n\nNote: Unlock! requires a free application to be downloaded from the App Store or Google Play. Once downloaded, an internet connection is not required during game play.\n\n",
+    "image": "https://cf.geekdo-images.com/h8K_nTemD6bmydT0akChZw__original/img/WSCTLAMnqYM_IEEO-EAVsOjkmAI=/0x0/filters:format(jpeg)/pic3348790.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/h8K_nTemD6bmydT0akChZw__small/img/nKF4nF8Ml5q0E0CYo7qo3Ax_gcE=/fit-in/200x150/filters:strip_icc()/pic3348790.jpg",
+    "link": "https://boardgamegeek.com/thing/213460",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.33386",
+    "averageWeight": "2.0971",
+    "boardGameRank": "677",
+    "mechanics": [
+      "Cooperative Game",
+      "Elapsed Real Time Ending",
+      "Scenario / Mission / Campaign Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Puzzle"
+    ],
+    "designers": [
+      "Alice Carroll",
+      "Thomas Cauët",
+      "Cyril Demaegd"
+    ]
+  }
+}

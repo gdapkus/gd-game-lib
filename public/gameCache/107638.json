@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:57:50.416Z",
+  "gameDetails": {
+    "id": "107638",
+    "name": "Master Merchant",
+    "type": "boardgame",
+    "description": "A merchant's job doesn't consist of simply sitting around and earning money. Sometimes they need to sell their shirt to call for help from others. Sometimes they need to banter and fight for prices. And sometimes they have to swallow their tears and abandon all they have built. If you can overcome these hurdles, earn the trust of people and build up a fortune, then you will be a true master merchant.\n\nMaster Merchant is a \"hand-building\" card game along the lines of the \"deck-building\" genre started by Dominion, except that players have no deck &ndash; only a hand of cards and a discard pile.\n\nPlayers start with a hand of two cards: \"Steal one gold from all players with four or more gold\" and \"Buy a card from the town\". On each turn a player can play up to two cards from his hand, either face up to gain a card's effect or face down to gain one gold.\n\nThe \"town\" consists of ten different types of cards, which cost 1-4 gold. All cards played and purchased go into a player's personal discard pile, which is open information to all players. If a player starts his turn with no cards, he picks up his entire discard pile. The first player to get eight gold or eight different cards wins the game.\n\nThis game's setting is same as Mai-Star, which is from the same designer, artist and publisher.\n\n",
+    "image": "https://cf.geekdo-images.com/ywDsODA2hjzkAbZwBBb0Uw__original/img/WMqEsDT6VY97BOkwhCiXnNC1Ug0=/0x0/filters:format(jpeg)/pic1093072.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ywDsODA2hjzkAbZwBBb0Uw__small/img/xCcOA3ShqrusYiGT2vVS_M4YlUI=/fit-in/200x150/filters:strip_icc()/pic1093072.jpg",
+    "link": "https://boardgamegeek.com/thing/107638",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.08174",
+    "averageWeight": "2.1",
+    "boardGameRank": "10948",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Seiji Kanai"
+    ]
+  }
+}

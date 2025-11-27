@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:01:35.187Z",
+  "gameDetails": {
+    "id": "445048",
+    "name": "SETI: Space Agencies",
+    "type": "boardgameexpansion",
+    "description": "SETI: Space Agencies, an expansion for SETI: Search for Extraterrestrial Intelligence, introduces powerful asymmetric organizations &mdash; each with unique abilities, strategic advantages, and starting conditions that redefine how you approach the search for alien life.\n\nAs the leader of one of these institutions &mdash; ranging from private tech companies to global research networks &mdash; you'll bring a distinct perspective and specialized tools to the mission, unlocking bold new strategies and rewarding long-term planning.\n\nIn addition to these organizations, the expansion adds three new alien species, each with their own unique twists, and over forty new project cards inspired by real-world initiatives. These integrate seamlessly into the main deck, providing even greater variety and strategic options.\n\n\"Quick Start\" cards, designed for use with the organizations, let you skip the slower opening round and dive straight into the action. They introduce an extra layer of asymmetry during set-up and can be used to further accelerate games in lower player counts.\n\nFinally, the expansion introduces signal tokens, a subtle but meaningful new mechanism that enhances scanning efficiency.\n\nWhether you're adapting to your organization's strengths or navigating fresh interstellar challenges, SETI: Space Agencies deepens the strategic landscape of your mission to discover life beyond Earth.\n\n",
+    "image": "https://cf.geekdo-images.com/JMLgq_A4OE_dX423FeFcPA__original/img/75BD_5fAbW6gCvFOKSefCQpKNeY=/0x0/filters:format(png)/pic8857305.png",
+    "thumbnail": "https://cf.geekdo-images.com/JMLgq_A4OE_dX423FeFcPA__small/img/L0iyv7R4pYVqA6KX5Ox6RNnpugk=/fit-in/200x150/filters:strip_icc()/pic8857305.png",
+    "link": "https://boardgamegeek.com/thing/445048",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "160",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "160",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.66754",
+    "averageWeight": "3.6",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "End Game Bonuses",
+      "Income",
+      "Multi-Use Cards",
+      "Resource to Move",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Tomáš Holek"
+    ]
+  }
+}

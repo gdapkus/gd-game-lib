@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T19:31:26.983Z",
+  "gameDetails": {
+    "id": "408836",
+    "name": "Aqua ROVE: Results-Oriented Versatile Explorer",
+    "type": "boardgame",
+    "description": "Sometimes even the familiar can be alien. As a ROVE (Results-Oriented Versatile Explorer) you are accustomed to the rigors of space, but the impenetrable darkness of the ocean depths is a brand-new challenge to confront.\n\nAqua ROVE is a standalone entry in the ROVE series. In this solo spatial puzzler, the player must complete missions by using their movement cards to align ROVE&rsquo;s modules in the proper pattern. Each module has a unique one-time ability that can give ROVE a much-needed boost at a key moment. As ROVE travels further, efficient use of movement points and module abilities becomes paramount to achieve success.\n\nExperienced ROVE players will notice that there are a few changes in Aqua ROVE. For one, movement cards no longer provide generic points that are limited by the modules&rsquo; movement restrictions. Instead, each card provides both the points and the direction of movement, providing a major twist to the original gameplay. All modules have been replaced with new abilities to match this change. However, each pattern now requires two specific fixed modules to complete rather than one. And as befits an ocean adventure, ROVE&rsquo;s missions are now placed vertically rather than horizontally to create a beautiful panorama of your descent.\n\n",
+    "image": "https://cf.geekdo-images.com/_ZT5YJsf5iiDgNUPyV-VZQ__original/img/SIQglfb1dITlUK1rGLkiQQ0T86w=/0x0/filters:format(png)/pic8134198.png",
+    "thumbnail": "https://cf.geekdo-images.com/_ZT5YJsf5iiDgNUPyV-VZQ__small/img/bnnvBI3LuF41xJBE09hg-7vxA7M=/fit-in/200x150/filters:strip_icc()/pic8134198.png",
+    "link": "https://boardgamegeek.com/thing/408836",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2024",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.76287",
+    "averageWeight": "1.7143",
+    "boardGameRank": "5891",
+    "mechanics": [
+      "Hand Management",
+      "Pattern Movement",
+      "Pattern Recognition",
+      "Solo / Solitaire Game",
+      "Square Grid"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Nautical",
+      "Print & Play",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Dustin Dobson",
+      "Milan Zivkovic"
+    ]
+  }
+}

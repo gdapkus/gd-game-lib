@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:30:35.675Z",
+  "gameDetails": {
+    "id": "424395",
+    "name": "Power Grid: Outpost",
+    "type": "boardgame",
+    "description": "In Power Grid: Outpost, the colonization of the new planet advances quickly. There is a huge demand for electricity that your companies gladly fulfill.\n\nCan you purchase the best power plants, biggest shelters, and best technologies? Can you spread your network faster from city to city than your competition? Do you expand your company economically to accommodate workers permanently so that you can avoid employing expensive seasonal workers that you must dismiss to the labor market after each assignment? Only then you can win Power Grid: Outpost!\n\nOutpost was one of the major inspirations for Power Grid as that game was far ahead of its time. More than twenty years after the first release of Power Grid, Friedemann wants to honor Outpost with this game. He took many thematic elements of that game and translated them to the Power Grid world.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/WQzzyVbpMpfkM9VkMczmaQ__original/img/EPbEydZ4e8oGr3kwl59Q6Wvgmkg=/0x0/filters:format(png)/pic8324340.png",
+    "thumbnail": "https://cf.geekdo-images.com/WQzzyVbpMpfkM9VkMczmaQ__small/img/2g_b3kFVJlIthWc7iBOyKrkscDM=/fit-in/200x150/filters:strip_icc()/pic8324340.png",
+    "link": "https://boardgamegeek.com/thing/424395",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.49605",
+    "averageWeight": "3.0667",
+    "boardGameRank": "5253",
+    "mechanics": [
+      "Auction / Bidding",
+      "Auction: Turn Order Until Pass",
+      "Catch the Leader",
+      "Income",
+      "Market",
+      "Network and Route Building",
+      "Turn Order: Stat-Based",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:15:22.608Z",
+  "gameDetails": {
+    "id": "240225",
+    "name": "Roll to the Top!",
+    "type": "boardgame",
+    "description": "The goal of the game is to complete your 'Challenge' sheet by filling in numbers in all the squares of your sheet.\n\nEach game round some of the 4, 6, 8, 12 and 20 sided dice get rolled for all players.\nWrite the rolled numbers from the bottom to the top at your sheet, with each new number higher than or equal to each number underneath.\nYour squares can contain:\n- a number from 1 die, or\n- the sum of 2 or more dice\nYou can also skip 1 or more dice.\n\nBefore each next round, the special white die tells the next player (clockwise) to add, remove or swap a die before rolling.\n\nKey tactic is creating the best opportunities. The 4, 6, 8, 12 and 20 sided dice are capricious, so try to anticipate on chances!\n\n",
+    "image": "https://cf.geekdo-images.com/C3-Yn-TFh1qivVQ4Zkkmww__original/img/m9RrIbcGdVK-4rIRxNk-QUGOfd0=/0x0/filters:format(jpeg)/pic4440341.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/C3-Yn-TFh1qivVQ4Zkkmww__small/img/LTHfuazbGezvoYkJCP2tp_YpGik=/fit-in/200x150/filters:strip_icc()/pic4440341.jpg",
+    "link": "https://boardgamegeek.com/thing/240225",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "25",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.67215",
+    "averageWeight": "1.069",
+    "boardGameRank": "3227",
+    "mechanics": [
+      "Bingo",
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Race"
+    ],
+    "categories": [
+      "Dice"
+    ],
+    "designers": [
+      "Peter Joustra",
+      "Corné van Moorsel"
+    ]
+  }
+}

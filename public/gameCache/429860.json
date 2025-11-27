@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:17:57.499Z",
+  "gameDetails": {
+    "id": "429860",
+    "name": "Transgalactica",
+    "type": "boardgame",
+    "description": "The Galactic Senate has launched the \"Transgalactica Decree\" in order to increase their knowledge and influence beyond the already well-known fringes of the galaxy. Fleets from every planet have been launched to the stars in search of adventure, riches, and (hopefully) an influential seat in the governing spheres that lie beyond the known space.\n\nTransgalactica is a worker-placement and engine-building game with a high level of interaction between the players. In order to thrive in this game, you will travel the far reaches of the galaxy, improve your fleet's influence in all galactic matters, compete with other fleets for technological advancements, build a commercial network, and possibly even send representatives to the Galactic Senate to claim political advantages.\n\nThe game is divided into five rounds. In each round, players use their Captains to perform powerful actions in their own operations panel. Then, the other players may follow taking the same action using their crew, but without gaining a bonus. Little by little, players will increase their military power, political influence, or technology level, and earn victory points by exploring, trading, mining or completing missions. May the best spacefarer win!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/SKtFuXqMWU-k2kvjS0DRfQ__original/img/6yjkFVfRsr6yQ87PcpKXhq_e8nQ=/0x0/filters:format(jpeg)/pic8453831.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SKtFuXqMWU-k2kvjS0DRfQ__small/img/6WFrBoRhVAQKSZC3qcjF_nX4vsw=/fit-in/200x150/filters:strip_icc()/pic8453831.jpg",
+    "link": "https://boardgamegeek.com/thing/429860",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "100",
+    "minPlayingTime": "100",
+    "maxPlayingTime": "100",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.51207",
+    "averageWeight": "3.6875",
+    "boardGameRank": "7313",
+    "mechanics": [
+      "Follow",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Daniele Tascini"
+    ]
+  }
+}

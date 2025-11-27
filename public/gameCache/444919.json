@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:36:41.968Z",
+  "gameDetails": {
+    "id": "444919",
+    "name": "Elevation (fan expansion for Android: Netrunner)",
+    "type": "boardgameexpansion",
+    "description": "From a sacred mountaintop in central Borneo stretches what will be the world&rsquo;s last and greatest space elevator: the Mahkota Langit. Surrounding it is Earth&rsquo;s newest megacity, Kota Kalimantan, which grew rapidly to serve the space elevator&rsquo;s construction and anticipate its operation. Kali sprawls across central Borneo, ignoring borders and absorbing cities in its path.\n\nThe elevator is the project of the loosely allied Oceanic and Southeast Asian Nations. OSEAN has poured its resources into what was hoped to be a space elevator free of megacorporation control and able to completely surpass Earth&rsquo;s two other elevators with its scale and technological superiority.\n\n---\n\nElevation builds upon the groundwork laid by System Gateway to broaden the core Netrunner card pool and round out the thematic and mechanical identities of each of the three Runner and four Corp factions.\n\nSystem Gateway and Elevation together constitute the core card pool that forms the basis for Null Signal Games Standard and Startup game formats, and is the ideal foundation for all levels of Netrunner play.\n\nElevation is about raising the stakes and reaching new heights, all set against the backdrop of a space elevator under construction and the megacity that surrounds it.\n\nWhereas expansions in cycles (such as the Liberation Cycle) deliver one strong narrative, Elevation instead provides a setting in which players will tell their own tales. Kota Kalimantan has dozens of stories waiting to be discovered, and no pre-set conclusions.\n\n",
+    "image": "https://cf.geekdo-images.com/e26OA454Jl80DaXPlGkJYQ__original/img/BKRNktCyvZEednMoD8VAmCc-bHM=/0x0/filters:format(jpeg)/pic8852539.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/e26OA454Jl80DaXPlGkJYQ__small/img/NHqdeDPyCeuzkKd7Uck_1iu5K-g=/fit-in/200x150/filters:strip_icc()/pic8852539.jpg",
+    "link": "https://boardgamegeek.com/thing/444919",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "9.65714",
+    "averageWeight": "3.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Deck Construction",
+      "Hand Management",
+      "Roles with Asymmetric Information",
+      "Secret Unit Deployment",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fan Expansion",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": []
+  }
+}

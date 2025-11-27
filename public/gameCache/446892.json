@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:25:40.528Z",
+  "gameDetails": {
+    "id": "446892",
+    "name": "Endeavor: Deep Sea – Uncharted Waters",
+    "type": "boardgameexpansion",
+    "description": "In Endeavor: Deep Sea, players explore the vast depths of the ocean, hiring dedicated workers and completing objectives in an effort to chart the environment and help protect it.\n\nThe Endeavor: Deep Sea &ndash; Uncharted Waters expansion pushes players to the edge with challenging new missions, undiscovered depths to explore, and new specialists looking to join your crew and make an impact on the world. Players also get to incorporate new mini-expansions tasking them with saving endangered aquatic wildlife, exploring deeper depths than ever possible, and restoring the fragile balance of the marine ecosystem.\n\nThis expansion includes four new scenarios with interesting phenomena such as \"Tectonic Split\", which divides the sea in two, and \"The Fog\", which blankets the surface in a mysterious mist. Each of the four scenarios introduces components not found in the base game.\n\n",
+    "image": "https://cf.geekdo-images.com/gef4hg9bxO7JQvy9HXHeBw__original/img/EA0LXv_wwdH7Ju43NTjAn9aiH-k=/0x0/filters:format(jpeg)/pic8895058.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gef4hg9bxO7JQvy9HXHeBw__small/img/BDmgRO1f9oK3Bxw14WF-d94BiYE=/fit-in/200x150/filters:strip_icc()/pic8895058.jpg",
+    "link": "https://boardgamegeek.com/thing/446892",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2026",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "9.19231",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Movement",
+      "Track Movement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Environmental",
+      "Nautical"
+    ],
+    "designers": [
+      "Carl de Visser",
+      "Jarratt Gray"
+    ]
+  }
+}

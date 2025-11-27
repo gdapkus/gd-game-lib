@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:03:32.908Z",
+  "gameDetails": {
+    "id": "32146",
+    "name": "Trailer Park Wars",
+    "type": "boardgame",
+    "description": "From the publisher.\n\nYou have finally landed the job of your dreams: Trailer Park Manager!\nTo be the Best Darn Trailer Park Manager in town, you must place quality Tenants in your trailers, create a fun and friendly atmosphere by adding some sweet Amenities, and go about destroying the other trailer parks\n&hellip;no matter what it takes.\n\nSurface to Trailer Missile? Molotov Beer Can? A Tornado? You Bet.\n\nGame Contents:\n\n100 Plastic Flamingo Miniatures\n48 Trailer Cards\n130 Trailer Park Wars Cards\n24 Trailer Park Name Tiles\nInstructions\n\nThe object of the game is to gain as many flamingos as you can. Flamingos represent points.\n\nEach player arranges 12 trailers in front of them shaped like a clock. In the middle are randomized cards that represent the name of the player's trailer park. This has no effect on game play.\n\nPlayers have seven cards to start. On each turn each player plays three cards, discards one and draw back up to seven. Each of the Trailer Park Wars cards are separated into one of 4 types:\n\n\n    Action Cards: can help the player or be used against an opponent.\n    Tenant Cards: with traits that include their job, age, what they can be placed near in your trailer park (for example an old man can't cannot be placed near a rock musician), also there is an icon depicting how many flamingos they are worth.\n    Amenities Cards: allow for more points when played.\n    Natural Disaster Cards: have a negative effect on an opposing player.\n\n\nOnce all the flamingos are gone, the player with the most flamingos wins.\n\n",
+    "image": "https://cf.geekdo-images.com/uWd8iRvLhs5H2NVYZeG8KQ__original/img/9Ll8jy_5orHMCvK_mi4ubjxtm1Y=/0x0/filters:format(jpeg)/pic302593.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uWd8iRvLhs5H2NVYZeG8KQ__small/img/gDZ4fUvxF1aXc90ETfGwjqoG4Jo=/fit-in/200x150/filters:strip_icc()/pic302593.jpg",
+    "link": "https://boardgamegeek.com/thing/32146",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.06798",
+    "averageWeight": "1.6053",
+    "boardGameRank": "10245",
+    "mechanics": [
+      "Modular Board",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Humor"
+    ],
+    "designers": [
+      "Lori Dieda",
+      "Lisa Steenson"
+    ]
+  }
+}

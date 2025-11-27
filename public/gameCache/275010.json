@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:18:18.943Z",
+  "gameDetails": {
+    "id": "275010",
+    "name": "De Vulgari Eloquentia: Deluxe Edition",
+    "type": "boardgame",
+    "description": "Italy, late Middle Ages: The fabric merchants need to write down their contracts in a language that everyone can understand, and the literates are looking for an alternative to the elite of the traditional Latin language, so the Volgare, the language spoken by the common people, taken from the dialects spoken in the various Italian regions, starts to gain relevance. During this period, Francesco D'Assisi writes his famous Canticle of the Sun and Dante writes the Divine Comedy, both written in Volgare.\n\nIn De Vulgari Eloquentia, players have to do their part in the creation of this new language! But who will provide them the proper knowledge to understand the manuscripts in the different dialects? Who will successfully uncover the secrets of the books inside the Papal Library? Who will embrace the religious life, and who will remain a merchant? Some of the players can become a famous banker, someone else can climb the church's hierarchy to be the next Pope! But in the end, who will be the most appreciated and respected for their status and culture?\n\nThe aim of the game is to obtain more Volgare points. The players gain VP from reading manuscripts and looking for important documents like the Canticle of the Sun or \"The Riddle from Verona\". Players can also gain VP by improving their social status, for example, if the merchant becomes a banker or the Friar becomes a Benedictine Monk or the Cardinal becomes Camerlengo or Pope. Moreover, VP can be gotten with money and with the support of Politicians, Noblemen, Abbesses, and the Amanuensis.\n\nThis is a totally new re-designed edition of&nbsp;De Vulgari Eloquentia which features new mechanisms and new elements. The game has totally new layout and iconography.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/cuiKY2WCI4OxYbNXo-aIVQ__original/img/OJeaVHyQDt_XEfxseZk27pZDfHo=/0x0/filters:format(jpeg)/pic4908173.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/cuiKY2WCI4OxYbNXo-aIVQ__small/img/IQ6LeGwQ29V5J5LHk7MRzyT9txo=/fit-in/200x150/filters:strip_icc()/pic4908173.jpg",
+    "link": "https://boardgamegeek.com/thing/275010",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.7825",
+    "averageWeight": "3.6471",
+    "boardGameRank": "3554",
+    "mechanics": [
+      "Action Points",
+      "End Game Bonuses",
+      "Set Collection",
+      "Track Movement",
+      "Turn Order: Stat-Based",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Medieval",
+      "Religious",
+      "Travel"
+    ],
+    "designers": [
+      "Mario Papini"
+    ]
+  }
+}

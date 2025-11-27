@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:36:51.102Z",
+  "gameDetails": {
+    "id": "77011",
+    "name": "For Crown & Kingdom",
+    "type": "boardgame",
+    "description": "The king lies weakened on his deathbed. His Majesty has but days to live, and has failed to produce an heir. Any of the local dukes or duchesses could be next in line, as long as they are able to gain the approval of the people. Each has set off on a heroic campaign. They vie for fame, for glory, for crown and kingdom!\n\nIn For Crown & Kingdom, players must use their teams of specialized emissaries to travel the kingdom, raise funds, obstruct opponents, and gain the support of the people. The first duke or duchess to gain support in every region will become the new monarch!\n\n",
+    "image": "https://cf.geekdo-images.com/7AaGOeKYFinVzKaK6_S6Ng__original/img/CMN-NwwhCWakxLky0nxHgtOyHSU=/0x0/filters:format(jpeg)/pic2896747.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7AaGOeKYFinVzKaK6_S6Ng__small/img/S3An_TRRhGnj2bn2e10DpDUzImo=/fit-in/200x150/filters:strip_icc()/pic2896747.jpg",
+    "link": "https://boardgamegeek.com/thing/77011",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.65358",
+    "averageWeight": "2",
+    "boardGameRank": "8636",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Modular Board",
+      "Rondel"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Medieval",
+      "Political"
+    ],
+    "designers": [
+      "Dave Mansell"
+    ]
+  }
+}

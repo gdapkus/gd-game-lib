@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-24T21:38:56.707Z",
+  "gameDetails": {
+    "id": "350431",
+    "name": "Railways",
+    "type": "boardgame",
+    "description": "In the middle of the 19th century, the time of the Industrial Revolution, you must take advantage of the steam age and build your railroad empire by developing railroads, expanding buildings, and moving passengers to make the most profit at the end of twelve rounds!\n\nRailways is the first game in the \"Nano9games\" family. With 9 cards, 9 dice, and 9 cubes, you must build a network and connect the buildings to move passengers. You will use cards and icons to perform actions. During each round, play cards to combine icons to perform actions:\n\n\n     Build a link\n     Move a passenger\n     Build a building\n     Upgrade an existing link\n     Take money\n     Decrease pollution\n     Add a new passenger\n\n\nIf you play two icons from the same card, you must increase your pollution. Your goal is to make as much profit as possible, and you earn money when you move passengers through links and buildings...\n\nWith a second set of cards &mdash; and dice and cubes in a different color &mdash; you can play Railways with two players.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/JCCsDnhjYePsKVidlFpy3A__original/img/VA_Ui1cfpKeUw0JcKAmFntGn7HM=/0x0/filters:format(png)/pic6486691.png",
+    "thumbnail": "https://cf.geekdo-images.com/JCCsDnhjYePsKVidlFpy3A__small/img/xDYP_TGGcx2WsbKpSsu4sC6QiY0=/fit-in/200x150/filters:strip_icc()/pic6486691.png",
+    "link": "https://boardgamegeek.com/thing/350431",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2022",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.02161",
+    "averageWeight": "2.25",
+    "boardGameRank": "21506",
+    "mechanics": [
+      "Die Icon Resolution",
+      "Modular Board",
+      "Network and Route Building",
+      "Open Drafting",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Trains"
+    ],
+    "designers": [
+      "Alban Viard"
+    ]
+  }
+}

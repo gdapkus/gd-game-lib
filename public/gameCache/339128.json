@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T21:12:22.640Z",
+  "gameDetails": {
+    "id": "339128",
+    "name": "Marvel United: X-Men – Gold Team",
+    "type": "boardgameexpansion",
+    "description": "The X-Men: Gold Team expansion brings another iconic X-Men team, featuring classic Heroes that will each bring their own twist to the game. It also features a Villain that will bring the full power of the Hellfire Club to bear against the X-Men. That is, if the X-Men can stop fighting against each other long enough to take care of this menace, as this expansion also contains all the contents and rules necessary to play the Team vs Team Mode.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/pugvLv281ObwAGEO0g4UCQ__original/img/YTznDENCHRJG6ZMm2lt0lYMikeU=/0x0/filters:format(jpeg)/pic7365035.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pugvLv281ObwAGEO0g4UCQ__small/img/-Ud4FUcyedx2_X5Vjh_Yx5smD0U=/fit-in/200x150/filters:strip_icc()/pic7365035.jpg",
+    "link": "https://boardgamegeek.com/thing/339128",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.2733",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

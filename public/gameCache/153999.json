@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:02:16.267Z",
+  "gameDetails": {
+    "id": "153999",
+    "name": "...and then, we held hands.",
+    "type": "boardgame",
+    "description": "...and then we held hands. is a co-operative game about finding balance. To win, the two players must complete objectives and reach the center of the board.\n\nThe players take turns trying to fulfill the current common emotional objective by discarding emotion cards to move from node to node. They must do this without verbal communication, empathizing and always considering each other's situation when making a move.\n\nA player can use their own cards or their partner's, but if their move causes their partner to be unable to move, the players lose and the game ends. While moving from node to node, their balance shifts, and they are not able to refill their hand.\n\nThe game features a card-splaying mechanism in which players change their \"perspective\" to reveal a new set of options.\n\nThe players win by meeting in the center while in a balanced state and within one turn of each other - something quite difficult, and therefore very rewarding when achieved.\n\n...and then we held hands. features art by beloved French illustrator Marie Cardouat, known for the art found in beautiful games such as Dixit, Steam Park, and Marrakech.\n\n",
+    "image": "https://cf.geekdo-images.com/Ft08woV-KG3HHfO-ET6S4Q__original/img/x7YkL7sqFAt2LAxgPx3MEv3ZMNI=/0x0/filters:format(jpeg)/pic2717772.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ft08woV-KG3HHfO-ET6S4Q__small/img/8NF5KOA3oPkiJkqtOrfi0anm5BI=/fit-in/200x150/filters:strip_icc()/pic2717772.jpg",
+    "link": "https://boardgamegeek.com/thing/153999",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2015",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.00421",
+    "averageWeight": "1.7742",
+    "boardGameRank": "5662",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Hand Management",
+      "Layering",
+      "Melding and Splaying",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "David Chircop",
+      "Yannick Massa"
+    ]
+  }
+}

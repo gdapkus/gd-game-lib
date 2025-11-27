@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:51:37.968Z",
+  "gameDetails": {
+    "id": "22847",
+    "name": "Connect6",
+    "type": "boardgame",
+    "description": "Connect6 is an abstract strategy game similar to Go-Moku. The game emerged on the internet around 1999 and was presented by the team of Professor I-Chen Wu at the 11th Advances in Computer Games Conference in 2005.\n\nTwo players, Black and White, alternately place two stones of their own color, black and white respectively, on empty intersections of a Go-like board, except for that Black (the first player) places one stone only for the first move. The one who gets six consecutive stones first (horizontally, vertically or diagonally) of his or her own wins.\n\n",
+    "image": "https://cf.geekdo-images.com/WyCzpxelmFnKDrrJjy8sOQ__original/img/Uufpfq9R4w54Y8CG4Ah6XeUV_OE=/0x0/filters:format(jpeg)/pic120921.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WyCzpxelmFnKDrrJjy8sOQ__small/img/f5_IrP_L3s4x0VREuHdyLUk6GNg=/fit-in/200x150/filters:strip_icc()/pic120921.jpg",
+    "link": "https://boardgamegeek.com/thing/22847",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2003",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.36984",
+    "averageWeight": "2.4583",
+    "boardGameRank": "10104",
+    "mechanics": [
+      "Pattern Building",
+      "Square Grid"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Professor I-Chen Wu"
+    ]
+  }
+}

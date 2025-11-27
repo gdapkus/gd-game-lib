@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:55:19.758Z",
+  "gameDetails": {
+    "id": "319793",
+    "name": "Happy City",
+    "type": "boardgame",
+    "description": "Do you have what it takes to grow a city from a humble market to a thriving mini-metropolis? Collect 10 buildings and make sure your citizens are happy with the place they live in!\n\nGameplay\n\n1. Income Phase &mdash; At the start of each round, every player receives coins equal to the sum of the income symbols shown on the bottom of their cards.\n\n2. Action Phase &mdash; Resolved in turn order:\n\na. (optional) Discard 1 of the available Buildings from the market.\nb. Reveal up to 3 cards from any of the three Building decks and add them to the supply.\nc. Then, you have a choice: either purchase a card from the supply or purchase nothing and take a coin from the bank. Note: your city may not contain any duplicate cards.\nd. (optional) If your city meets the conditions for an available Bonus Building, you may claim it.\n\nOnce any player adds a 10th card to their city, the game-end is triggered and every player multiplies the number of citizens by the total number of hearts on their cards, and whoever has the highest result wins the game!\n\nHappy City includes rules for two ways to play: a family version and an \"expert version\" that features more interaction and strategy.\n\n",
+    "image": "https://cf.geekdo-images.com/LKCjDd_tqDPpUdCOM6i9Qg__original/img/ndgLsawgZd-9Y8933oU268V8y4Y=/0x0/filters:format(jpeg)/pic6256486.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LKCjDd_tqDPpUdCOM6i9Qg__small/img/Un5-NmBFbY3wo9IpUy-oNYoq1Qg=/fit-in/200x150/filters:strip_icc()/pic6256486.jpg",
+    "link": "https://boardgamegeek.com/thing/319793",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2021",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.58569",
+    "averageWeight": "1.2787",
+    "boardGameRank": "2838",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Income",
+      "Market",
+      "Open Drafting",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Children's Game",
+      "City Building",
+      "Territory Building"
+    ],
+    "designers": [
+      "Toshiki Sato",
+      "Airu Sato"
+    ]
+  }
+}

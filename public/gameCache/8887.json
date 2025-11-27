@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:16:33.207Z",
+  "gameDetails": {
+    "id": "8887",
+    "name": "Battle for Stalingrad",
+    "type": "boardgame",
+    "description": "Battle for Stalingrad is a battalion/company level simulation for two Players of the critical World War II battle for the renowned Russian City on the Volga River. The conflict raged for seven weeks in late 1942. Elements of fourteen German divisions of the Sixth Army and Fourth Panzer Army engaged dozens of divisions and brigades of the Soviet 62nd Army in one of the bloodiest campaigns of the war.\n\nBattle for Stalingrad uses a game-system of German action and Soviet reaction, highlighting the differences in command and tactics employed by the Germans and Soviets at the time. The Ger-mans enjoyed superior application of their air power and artillery. Their efficient communications and command structure, under General Friedrich von Paulus, allowed them to maintain complete initiative in the battle until they were well into the built-up areas of Stalingrad itself. The Soviets, on the other hand, had poor communications among their forces. Lieutenant-General Vasili Chuikov was hard pressed to maintain com-mand of his army, even in the most critical areas of the city. The campaign was finally decided among the burnt out blocks of the dying metropolis, where the Soviets proved themselves masters of urban combat and the German drive to the East was halted.\n\n1980 SPI Version Components;\nGame Scale:\nGame Turn: 1 week\nHex: 656 yards / 600 meters\nUnits: Company to Regiment\n\nGame Inventory:\nOne 22 x 34\" full color map\nTwo dual-side printed countersheet (One sheet with 400 1/2\" counters and one sheet with 200 1/2\" counters))\nOne 32-page rulebook\nOne 22.25 x 29\" Player Aid Sheet (Setup & Reinforcements)\nTwo 6 sided Dice\n\nSolitaire Playability: High\nComplexity Level: Medium-High\nPlayers: 2 or more\nPlaying Time: 4-15 hours\n\n2011 Excalibre Version;\nGame Scale:\nGame Turn: 1 week\nHex: 656 yards / 600 meters\nUnits: Company to Regiment\n\nGame Inventory:\nOne 22 x 34\" full color map\nThree dual-side printed countersheet (two sheets with 280 1/2\" counters and one sheet with 40 1/2\" counters))\nOne 54-page rulebook\nOne 32-page rules supplement & game analysis booklet\nOne 17 x 20\" Deployment Display Chart\nOne 14 x 22\" Reinforcement Display Chart\nTwo 6 sided Dice\n\nSolitaire Playability: High\nComplexity Level: Medium-High\nPlayers: 2 or more\nPlaying Time: 4-15 hours\n\n",
+    "image": "https://cf.geekdo-images.com/O8-adkG-3owgOYWKbQK6bg__original/img/Njauqhy67PqdTXUcx1UDhlRFlfY=/0x0/filters:format(jpeg)/pic7477415.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/O8-adkG-3owgOYWKbQK6bg__small/img/V_-F3t-S8PFSdFZiDsXQE6KDYWg=/fit-in/200x150/filters:strip_icc()/pic7477415.jpg",
+    "link": "https://boardgamegeek.com/thing/8887",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1980",
+    "playingTime": "720",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "720",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.52547",
+    "averageWeight": "3.2258",
+    "boardGameRank": "7427",
+    "mechanics": [
+      "Chit-Pull System",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Ratio / Combat Results Table",
+      "Simulation",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "John Hill (I)"
+    ]
+  }
+}

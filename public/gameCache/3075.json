@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:55:13.025Z",
+  "gameDetails": {
+    "id": "3075",
+    "name": "Hamlet!",
+    "type": "boardgame",
+    "description": "Hamlet is an abstract strategy game satirically based on one of Shakespeare's most famous works.  Each player has a specific ending to the play and they try to manipulate the events of the play to favor their outcome.  It is possible for all players to win, or for a game to have no winner.\n\nOnline Play\n\n\n     CCG Workshop (no longer available)\n\n\nHamlet is now available for sale from The Game Crafter at:\nhttp://www.thegamecrafter.com/games/hamlet\n\n",
+    "image": "https://cf.geekdo-images.com/36qnlH9CUCKy9aURieXXgw__original/img/oK6PeRjYMcZw_ISgBuCSWKJtY7E=/0x0/filters:format(jpeg)/pic5362170.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/36qnlH9CUCKy9aURieXXgw__small/img/celeqp9-KYz54qkXECpYlm_BLrk=/fit-in/200x150/filters:strip_icc()/pic5362170.jpg",
+    "link": "https://boardgamegeek.com/thing/3075",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2002",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.00462",
+    "averageWeight": "2.6667",
+    "boardGameRank": "20907",
+    "mechanics": [
+      "Action Points",
+      "Hidden Victory Points",
+      "Once-Per-Game Abilities",
+      "Paper-and-Pencil"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Mike Young"
+    ]
+  }
+}

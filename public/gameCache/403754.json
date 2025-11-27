@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:58:16.956Z",
+  "gameDetails": {
+    "id": "403754",
+    "name": "Middle Ages",
+    "type": "boardgame",
+    "description": "You are the head of a fiefdom and its future is in your hands. Will you develop agriculture with fields and mills? Or will you become a pious church-builder or prefer to feast in your sumptuous palaces? Develop your lands in your image and become the most influential lord in the kingdom.\n\nIn Middle Ages, you explore the economics of medieval urban life through eight distinct tiles: fields, farms, villages, forts, markets, barracks, churches, and palaces. Each tile features its own scoring system, yet it's linked to others, offering an immersive gaming experience. Unleash strategic maneuvers, from daring assaults on rival fiefdoms to reserving tiles for future use. Harness the power of tactical combinations to amplify your income and pave your way to triumph! With an ever changing tile board, you need to be able to plan ahead but adapt to changing circumstances to make the best moves.\n\nThe richest player at the end of the 16th round wins.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/WosfgaFD86TMKYssp8XSxA__original/img/lX7wHPuA03DqI2bDxy4CB3vX0Nk=/0x0/filters:format(png)/pic8140420.png",
+    "thumbnail": "https://cf.geekdo-images.com/WosfgaFD86TMKYssp8XSxA__small/img/Zxnqif18yOKYrsswz0qDUGctggg=/fit-in/200x150/filters:strip_icc()/pic8140420.png",
+    "link": "https://boardgamegeek.com/thing/403754",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.19649",
+    "averageWeight": "2.0421",
+    "boardGameRank": "1539",
+    "mechanics": [
+      "Modular Board",
+      "Open Drafting",
+      "Set Collection",
+      "Take That",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic",
+      "Medieval"
+    ],
+    "designers": [
+      "Marc André"
+    ]
+  }
+}

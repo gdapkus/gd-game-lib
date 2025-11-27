@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:03:17.319Z",
+  "gameDetails": {
+    "id": "691",
+    "name": "Timbuktu",
+    "type": "boardgame",
+    "description": "In this game each player takes the role of a caravan leader. The number of camels within a caravan depends on the number of players. Each camel is loaded with a lot of goods, and the goal of the game is to carry all the goods from the starting position to the final oasis: Timbuktu.\n\nHowever, during the course of this journey, the caravans stop at other oases. Once all camels arrive at an oasis, and night falls, thieves attack the caravan and steal different goods. While moving from one oasis to another, players receive different clues about the nature of the thefts. Each player has a different clue, and although clues are passed around, only one player receives three of the total five clues. From the actions of the other players (caravan leaders), the clues have to be guessed and camels have to be relocated, in order to save all the goods from the thieves.\n\nThe next morning, the caravan continues its way towards Timbuktu, and players are challenged with different clues again. The object of the game is to be the trader left with the most value in goods when they arrive at Timbuktu.\n\n",
+    "image": "https://cf.geekdo-images.com/dbmQFV3HGnvsew8-wOwPaw__original/img/JZfk-Jmx1hAkb7nO_PhT9D8xPfg=/0x0/filters:format(jpeg)/pic100711.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dbmQFV3HGnvsew8-wOwPaw__small/img/2l9kHRNhNkyNgbjZmNRPbtIvUXk=/fit-in/200x150/filters:strip_icc()/pic100711.jpg",
+    "link": "https://boardgamegeek.com/thing/691",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "1993",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.6432",
+    "averageWeight": "2.7802",
+    "boardGameRank": "3045",
+    "mechanics": [
+      "Hand Management",
+      "Memory",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Deduction",
+      "Economic"
+    ],
+    "designers": [
+      "Dirk Henn"
+    ]
+  }
+}

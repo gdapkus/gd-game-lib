@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:55:44.322Z",
+  "gameDetails": {
+    "id": "16500",
+    "name": "Highland Clans",
+    "type": "boardgame",
+    "description": "Take charge of your clan from the Scottish high country. In each round, a player first builds up his clan and landholdings, and then optionally conducts a raid on an opponent.\n\nYou start by pulling six cubes from a bag. With green cubes you increase your ministers and potential to gain VPs at the end of a round. Yellow cubes attract warriors and permit you to hold more battle cards. The blue cubes are \"pipers\" used for combat support or possible VP generation. A blue cube can also be played as a \"bard\" to lure away opponents' followers. Finally, there are the red cubes, which represent cattle and generate VPs. You also use cubes to create new estates, where you can deposit cattle and groups of cubes (which are safer than those not on an estate).\n\nRaids are resolved simply. In three battle-rounds a card of value one to four is played by the two opponents; this value can be increased by a single blue cube. The one who wins the most battle-rounds wins the fight. The loser will then lose cubes while the victor gains a VP or two.\n\nAfter each round there is a valuation, in which the VPs are determined based on number of cubes. For example, the player with the most green cubes gets 3 VPs, while second most gets 2 VPs; if two players are tied for most, each gets only 1 VP. Another example: each red cattle tile is worth a VP, but if one player has the most he gets a 2 VP bonus.\n\nThe estate tiles contain a number on the back. After each round a panel is turned. If the leading player has at least as many points as the number of the tile, the game ends.\n\nBottom line: a fast game offering something for everyone: luck, tactics, and lots of interaction with your fellow players.\n\n",
+    "image": "https://cf.geekdo-images.com/00iP8kD4sGitmOd0UyTXwQ__original/img/0tVccY17ZsJXpYxlJu5_8EOB-jU=/0x0/filters:format(jpeg)/pic1218897.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/00iP8kD4sGitmOd0UyTXwQ__small/img/jNpbizOd5svZ_HuDqRvEGuCIGpc=/fit-in/200x150/filters:strip_icc()/pic1218897.jpg",
+    "link": "https://boardgamegeek.com/thing/16500",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2005",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "5.53532",
+    "averageWeight": "2.129",
+    "boardGameRank": "24432",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Medieval",
+      "Territory Building"
+    ],
+    "designers": [
+      "Ralf Burkert"
+    ]
+  }
+}

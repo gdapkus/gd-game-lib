@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:04:31.172Z",
+  "gameDetails": {
+    "id": "244691",
+    "name": "UNO: Minecraft",
+    "type": "boardgame",
+    "description": "UNO with a Minecraft Theme.\n\nPlaying UNO Minecraft is a TNT blast of fun. Watch out! The Creeper card will make you draw 3 more cards. And don't forget to yell \"UNO!\" before you mine your last card.\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/ET6PjzWffoDV1_4tHkHTzw__original/img/osse_XL1oSfCCZojhx2lSUu4xH4=/0x0/filters:format(png)/pic4657097.png",
+    "thumbnail": "https://cf.geekdo-images.com/ET6PjzWffoDV1_4tHkHTzw__small/img/CvcOHe-tX_APknBFz5DjStAMar4=/fit-in/200x150/filters:strip_icc()/pic4657097.png",
+    "link": "https://boardgamegeek.com/thing/244691",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "2017",
+    "playingTime": "60",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "5.7774",
+    "averageWeight": "1",
+    "boardGameRank": "20981",
+    "mechanics": [
+      "Hand Management",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Video Game Theme"
+    ],
+    "designers": []
+  }
+}

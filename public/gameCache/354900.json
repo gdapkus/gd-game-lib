@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T19:31:19.187Z",
+  "gameDetails": {
+    "id": "354900",
+    "name": "18EUS",
+    "type": "boardgame",
+    "description": "18EUS (Eastern United States) is an 18xx game that features elective personal loans. Players may either take loans to fund lucrative investments or invest in the Bank of New York if they do not have loans. The Bank grows stronger, and loans are worse, when more loans are taken and when someone invests in the Bank.\n\nIt also features a highly randomized setup with powerful private companies auctioned over three rounds, incremental capitalization with up to 100% company ownership, and a novel force-buy mechanism.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/Sb3JE0wx1svay4TNuBgDMw__original/img/w9LKhfo7oLzxvMAXluKRKv0A0TE=/0x0/filters:format(jpeg)/pic6629055.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Sb3JE0wx1svay4TNuBgDMw__small/img/iPQmbffTT8AjHlfc24pM_tAdR6E=/fit-in/200x150/filters:strip_icc()/pic6629055.jpg",
+    "link": "https://boardgamegeek.com/thing/354900",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2021",
+    "playingTime": "300",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.00862",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Investment",
+      "Network and Route Building",
+      "Stock Holding",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Economic",
+      "Trains"
+    ],
+    "designers": [
+      "Greg Holton"
+    ]
+  }
+}

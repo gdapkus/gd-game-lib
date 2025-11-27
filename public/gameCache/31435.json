@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:28:44.660Z",
+  "gameDetails": {
+    "id": "31435",
+    "name": "Infernal Contraption 2: Sabotage!",
+    "type": "boardgameexpansion",
+    "description": "Infernal Contraption 2: Sabotage! is an expansion the the Infernal Contraption base game.  It adds 48 new cards which include 3 new upgrades, 12 new power sources, 15 new consumables, and most importantly 18 sabotage cards!\n\nWhat are sabotage cards? From the publisher:\nA Sabotage card brings a new twist to the game. They allow you to throw the proverbial monkey wrench into your opponent's machine - making it malfunction is disastrous ways and all to your advantage. Put a stop to your opponent's pesky card-stealing contraptions, or power down his upgrades with sabotage cards like the Exothermic Reactor, Power Spike, or the Gremlin Sphere. You can really unleash some mayhem with these cards - and really ratchet up your own fun!\n\nExpands:\n\n    Infernal Contraption\n\n\n",
+    "image": "https://cf.geekdo-images.com/u35L8D1Z8j6_6zPguDgUVQ__original/img/2ZD0Hn3uc-Q51zhk5io-sXSj6tU=/0x0/filters:format(jpeg)/pic264429.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/u35L8D1Z8j6_6zPguDgUVQ__small/img/edCwrutieeBWX6o8NJrF3Je7Mqs=/fit-in/200x150/filters:strip_icc()/pic264429.jpg",
+    "link": "https://boardgamegeek.com/thing/31435",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.29034",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Humor"
+    ],
+    "designers": [
+      "Rob Stoddard",
+      "Matt Wilson (I)"
+    ]
+  }
+}

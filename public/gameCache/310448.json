@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:38:56.017Z",
+  "gameDetails": {
+    "id": "310448",
+    "name": "Zombie Teenz Evolution",
+    "type": "boardgame",
+    "description": "Zombies are attacking the entire town! Cooperate with your friends and launch an expedition to drive off the overwhelming hordes. Collect the four ingredients, and brew the antidote that will save the world!\n\nZombie Teenz Evolution is the sequel to Zombie Kidz Evolution (#1 Kids' Game on BGG). It is a standalone game with a different set of rules, so you don&rsquo;t need to have played the first game to jump into the second. The rules are slightly more advanced and will require a little more strategic thinking.\n\nZombie Teenz Evolution follows the same general guidelines as its predecessor: a fast and simple game whose rules evolve from game to game through the opening of 14 \"mystery\" envelopes. By accomplishing special missions, players unlock additional content that will provide a richer experience, while constantly renewing the enjoyment of the game. The icing on the cake: the two games are compatible! You will be able to play Zombie Kidz with your Zombie Teenz, and vice versa!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/elS-EEtVF92Vk-YBqnJKeA__original/img/Zr5Q4VUehMBvib7M48FyaAa9Gss=/0x0/filters:format(png)/pic5733331.png",
+    "thumbnail": "https://cf.geekdo-images.com/elS-EEtVF92Vk-YBqnJKeA__small/img/ZWbcOy6SjMcwsmeYe7Y42Nfk174=/fit-in/200x150/filters:strip_icc()/pic5733331.png",
+    "link": "https://boardgamegeek.com/thing/310448",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.61571",
+    "averageWeight": "1.42",
+    "boardGameRank": "1239",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Events",
+      "Legacy Game",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Children's Game",
+      "Zombies"
+    ],
+    "designers": [
+      "Annick Lobet"
+    ]
+  }
+}

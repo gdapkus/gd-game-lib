@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:29:24.798Z",
+  "gameDetails": {
+    "id": "242804",
+    "name": "Lowlands",
+    "type": "boardgame",
+    "description": "The low land is a rough area where hard-working folk make a living by the sweat of their brow. Under constant threat of storm and flood, communities here rally together to build dikes that keep the rising water at bay. But every citizen constructing a dike is one fewer citizen tending flocks and maintaining the family farm. The residents here are constantly torn between selflessness and self-interest, and only those who can strike this delicate balance can thrive in this harsh landscape.\n\nIn Lowlands, you carve your farm out of this unforgiving land, gathering and spending resource cards to transform your farmyard into pastures that allow you to profit from breeding sheep. Adding expansions to your farm will unlock new options and score you victory points, but helping to build the dike that collectively protects all players is also rewarded. No matter what, the tide will rise and, if the dike isn't high enough, it could rush in and sweep away your hard-earned profits. Will you sacrifice your own farm for the good of the community, or will you pursue your own agenda? The choice is yours.\n\nEven without the poor weather, life on a farm is one of constant work where you find yourself tending flocks of sheep, extending their pastures, and looking for the right moment to sell them for a profit. To complete all these tasks, Lowlands gives you a group of farmers that you can assign to various tasks around your farm. To get the most out of them, you must think strategically, deciding which actions you want to take and the best time to take them. Once they've been assigned, your farmers help you build a bustling farm where there was once scrubby bushes, trees, and lakes. You begin the game with only two sheep and a small pasture, but your farmyard is rife with possibilities, its many empty spaces inviting you to customize your farm as you see fit.\n\nWhile you could simply focus on creating more area for your sheep to roam, the game also provides plenty of options for customizing your farm with various buildings and features. Not only are these tiles worth victory points at the end of the game, they also make your farm more efficient and more profitable. You might add a feeding trough to your farm, for example, to immediately earn another sheep and the ability to house two sheep per pasture space instead of just one. Or you could construct a lake cabin on your property to get away from it all for a bit. While this tile doesn't give you any special abilities, it increases the value in victory points of the farmyard spaces immediately adjacent to it. Ultimately, you are free to pursue whatever strategy you see fit, building a farm wholly your own.\n\nOn top of the challenges of building a successful farm, of course, you also have to deal with the tempestuous weather that comes with living on the wave-battered coast of the North Sea. Here, the tides always seem to rise a little higher, threatening to take a dent out of your profits by sweeping away some of your flock. To ensure that this doesn't happen, you always have the opportunity to send your farmers to contribute to the dike instead of working on your farm. When you do, you also commit resources to creating dike elements that are added to the board as a buffer against the rising waters. Add enough of these pieces and you might prevent disaster for everyone. The tide turns repeatedly, bringing with it new flood pieces. If there are enough dike elements in place to hold back the rising waters, players' farms are spared. If the dike breaks, however, you could be forced to take dike breach tokens that have adverse effects at the end of the game.\n\nWhile lending a hand with the dike at the expense of your own farm is certainly a nice gesture that keeps everyone safe from the floodwaters, it has rewards of its own. For each resource you contribute to the dike, you advance one step up the dike track. Not only does advancing far enough on this track grant victory points, it also amplifies your reward if the dike holds and lessens the blow when it breaks. It is in your best interest, then, to keep pace with other players on the dike in order to protect your investments back home one the farm.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/2uRvcCayqNG38NJQBcESAA__original/img/oqKvrfwO_KxjHMaz9kNlJf_4MlM=/0x0/filters:format(jpeg)/pic4007841.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2uRvcCayqNG38NJQBcESAA__small/img/fMI59KCpNrF_uemwoD5-CBY96hc=/fit-in/200x150/filters:strip_icc()/pic4007841.jpg",
+    "link": "https://boardgamegeek.com/thing/242804",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "100",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "100",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.37629",
+    "averageWeight": "3.09",
+    "boardGameRank": "1095",
+    "mechanics": [
+      "Action Points",
+      "Set Collection",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Farming"
+    ],
+    "designers": [
+      "Claudia Partenheimer",
+      "Ralf Partenheimer"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:10:26.428Z",
+  "gameDetails": {
+    "id": "348870",
+    "name": "Heckmeck am Karteneck",
+    "type": "boardgame",
+    "description": "Heckmeck am Karteneck is the game where ripped-off chickens  shovel the worms a la carte from the grill.\n\nDinner is served. Tasty portions of fried worms are waiting to be fetched from the grill. In turn, the chickens play out their card stakes. Whoever quits earlier gets less, but still has cards up his sleeve for later rounds. Clever play is made by those who judge their hand of cards well at the right moment and can thus get hold of the most valuable portions.\n\nA must for all Heckmeck lovers.\n\nIn each round, cards from the hand are played to gain worm portions of different values. Each player lays out cards. Cards of the same value may not be placed by the same player in subsequent rounds. Gained portions are stacked in front of each player, and the last portion won (on top) can be stolen. The thief can be any player who, whose total of played cards, at the time of his or her own exit, matches the value of the stolen portion.\n\nThe game ends after all worm portions have been taken. The winner is the player who has the most worms on his gained portions.\n\n",
+    "image": "https://cf.geekdo-images.com/xzOpvcO2u6NRswFs6Kr0wg__original/img/kL6f8FfgFB4YkkHov_fOhCwNuNg=/0x0/filters:format(jpeg)/pic6464706.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xzOpvcO2u6NRswFs6Kr0wg__small/img/6DEa8FMQG9Qyj0iRf8r9ggmjbVY=/fit-in/200x150/filters:strip_icc()/pic6464706.jpg",
+    "link": "https://boardgamegeek.com/thing/348870",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2021",
+    "playingTime": "0",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.93252",
+    "averageWeight": "1.6",
+    "boardGameRank": "7061",
+    "mechanics": [
+      "Melding and Splaying",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Children's Game",
+      "Math",
+      "Number"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

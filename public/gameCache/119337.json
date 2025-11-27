@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:48:07.500Z",
+  "gameDetails": {
+    "id": "119337",
+    "name": "Aeroplanes: Aviation Ascendant",
+    "type": "boardgame",
+    "description": "Game description from the publisher:\n\nAeroplanes: Aviation Ascendant explores the dawn of commercial aviation, an exciting era between 1919 and 1939. Experience the difficulties and triumphs of commercial airlines in Europe, pioneering airports and service in continental Europe and around the world!\n\nAviation spurred the growth of intercontinental travel, and airlines struggled to dominate the regions of the globe that they served.\n\nRapid technological advances in planes play a vital role in this development as you compete to purchase newer more efficient aeroplanes, build airports, and move passengers around the globe. Earn bonuses and prestige for being the first to fly to North or South America, and win by maintaining the most airports around the world and by running your airline profitably.\n\nCan you balance your investment in aeroplanes, customer service, and routes well enough to become the premier airline of the era? The fate and future of air travel lies within your hands!\n\n",
+    "image": "https://cf.geekdo-images.com/u0sjfmx7u5vN5EPZJFPlOg__original/img/VtHD9nc1euJwyxkg8vA1dzNhHBM=/0x0/filters:format(jpeg)/pic1221593.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/u0sjfmx7u5vN5EPZJFPlOg__small/img/v5bJZR9gk6cfTynudYjEZjeFEhI=/fit-in/200x150/filters:strip_icc()/pic1221593.jpg",
+    "link": "https://boardgamegeek.com/thing/119337",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.56431",
+    "averageWeight": "2.925",
+    "boardGameRank": "5017",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Network and Route Building",
+      "Open Drafting",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Economic",
+      "Transportation"
+    ],
+    "designers": [
+      "Martin Wallace"
+    ]
+  }
+}

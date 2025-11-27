@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:05:45.690Z",
+  "gameDetails": {
+    "id": "33468",
+    "name": "Zombie in My Pocket",
+    "type": "boardgame",
+    "description": "There are two versions of Zombie in my Pocket, go to Zombie in My Pocket for the 1-8 player Cambridge Games Factory version.\n\nZombie in my Pocket is a print-and-play game solo game (see the files section below). The game is free, fits in your pocket, and the modular board combined with the development cards make it a different game every time.\n\nIn Zombie in my Pocket, you're searching for the secret of the evil temple where you can find the item to destroy the zombies rising from the dead. You can pick up items to bash zombies along the way; a machete, golf club, chain saw, or even your former uncle's grisly femur.\n\nFind the zombie totem, then bury it in the backyard graveyard before midnight and you've saved the world. Otherwise, you're zombie food.\n\nZombie in my Pocket (PnP) by Jeremiah Lee is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Share, re-theme then share, gift, re-make, but don't sell or make non-paper versions without asking.\n\n",
+    "image": "https://cf.geekdo-images.com/CxOJ13OQ3vVtKqumH9kMJw__original/img/C93ycNGdyl5jCf8bcoWIj_Isb5I=/0x0/filters:format(jpeg)/pic455367.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CxOJ13OQ3vVtKqumH9kMJw__small/img/K_5Z4BGNnV9OnS4qxq2_Qkt0Vl8=/fit-in/200x150/filters:strip_icc()/pic455367.jpg",
+    "link": "https://boardgamegeek.com/thing/33468",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2007",
+    "playingTime": "5",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "5",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.35496",
+    "averageWeight": "1.3009",
+    "boardGameRank": "4669",
+    "mechanics": [
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Prisoner's Dilemma",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Exploration",
+      "Fighting",
+      "Horror",
+      "Print & Play",
+      "Zombies"
+    ],
+    "designers": [
+      "Jeremiah Lee"
+    ]
+  }
+}

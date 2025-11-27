@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T19:33:32.499Z",
+  "gameDetails": {
+    "id": "265802",
+    "name": "Crypt X",
+    "type": "boardgame",
+    "description": "Crypt X is a narrative puzzle game, following the mystery of a missing archaeology professor. After his curious absence at a dig near Luxor, you began to investigate the notes he left behind. As his student, you must piece together the puzzles in his file to discover more about his work and where he is now.\n\nSolve ciphers and codes, identify patterns and combine clues to uncover the professor&rsquo;s secrets. Answering each of the fifty-one puzzles unlocks a new section of narrative in the Crypt X companion app, unraveling the story surrounding his disappearance. Each puzzle contributes to your score, depending on the number of hints used and attempts made. Your total score will determine the ending to the professor&rsquo;s story - can you find the secrets hidden deep within Crypt X?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/Vk3j7IAVdNrLcTetCpW47Q__original/img/tgDzky7N7e5jMlRwbWey-yHwaCM=/0x0/filters:format(png)/pic8166522.png",
+    "thumbnail": "https://cf.geekdo-images.com/Vk3j7IAVdNrLcTetCpW47Q__small/img/HO8Bl_HNJgRCNN8ZZm7X7Ed6HFo=/fit-in/200x150/filters:strip_icc()/pic8166522.png",
+    "link": "https://boardgamegeek.com/thing/265802",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "1200",
+    "minPlayingTime": "480",
+    "maxPlayingTime": "1200",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "3.875",
+    "averageWeight": "3",
+    "boardGameRank": "28772",
+    "mechanics": [
+      "Cooperative Game",
+      "Network and Route Building",
+      "Paper-and-Pencil",
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Adventure",
+      "Ancient",
+      "Deduction",
+      "Murder / Mystery",
+      "Mythology",
+      "Puzzle",
+      "Word Game"
+    ],
+    "designers": [
+      "Rose Atkinson"
+    ]
+  }
+}

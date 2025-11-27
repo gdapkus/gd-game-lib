@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:24:24.571Z",
+  "gameDetails": {
+    "id": "88016",
+    "name": "Briefcase",
+    "type": "boardgame",
+    "description": "Briefcase is a deck-building and resource management boardgame.\n\nIn Briefcase, players build their own business empires by acquiring and activating various companies. Each company, once activated, provides the player with some benefits (which are called decisions cards) and a special ability for the rest of the game.\n\nPlayers start with identical decks of decision cards. Each time one player activates a company, he/she adds to his deck more decision cards.  Decision cards give the players various possible actions (like buy/activate/hire/obstacles). The most important is the \"buy\" action, with which players can either buy a building or a resource from the market.\n\n",
+    "image": "https://cf.geekdo-images.com/0ZurHDB0vzdeOVmJgcAdNQ__original/img/X8JAylaAE4uF0CGtJQFas1iSbPI=/0x0/filters:format(jpeg)/pic1225179.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0ZurHDB0vzdeOVmJgcAdNQ__small/img/Lb3UzkzvfQcDqF-vGcZRVxQRiHI=/fit-in/200x150/filters:strip_icc()/pic1225179.jpg",
+    "link": "https://boardgamegeek.com/thing/88016",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.25916",
+    "averageWeight": "2.5714",
+    "boardGameRank": "7195",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic"
+    ],
+    "designers": [
+      "Nikolas Sakaloglou",
+      "Sotirios Tsantilas"
+    ]
+  }
+}

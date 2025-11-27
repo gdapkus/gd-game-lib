@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:02:13.208Z",
+  "gameDetails": {
+    "id": "1577",
+    "name": "Source of the Nile",
+    "type": "boardgame",
+    "description": "Designed to be an educational and challenging game in which players compete primarily with Nature and with each other, luck tends to be an element in the game, but can be overcome by careful play. Because the situation is forever changing, there is no single best strategy; however,players must weigh risks against gains with every decision they make and good judgment will pay off.\n\nThe game is played on a mapboard showing Africa from Khartoum to Capetown and Lagos to Mombasa. The periphery of this map, showing the territory known ca. 1820, is filled-in; the center is blank. A hexagonal grid is superimposed on the map to regulate movement and to delimit territory explored. In the course of play, each player moves a token (representing his explorer) from explored hexagons to blank hexagons one at a time.; terrain, native tribes and other discoveries within the hexagons are then semi-randomly determined, with allowance made for previous discoveries in adjacent hexagons. The player interacts with the discoveries (e.g. negotiates with new natives for guides) and records them on the mapboard using wax crayons. The mapboard surface is erasable. If the explorer dies before returning to Europe to publish his discoveries, all hexagons which only he has explored will be erased and \"subsequent explorers will find that his discoveries were only rumors\"; i.e., when other players explore the erased hexagons later they will have to generate new discoveries there.\n\nWhen explorers do return to civilization, however, they may publish their discoveries, after which they are safe from erasure. Players may also emulate real explorers by withholding some of their discoveries since they will enjoy some advantages when moving through terrain or dealing with natives known only to them. Points are scored for discoveries as they are published and once scored will not be lost if the explorer dies or is retired by his player. A player may retire his explorer at any time and then start a new explorer in Europe.\n\nBefore each trip to Africa, explorers will have to raise money to support their expedition. New explorers with no discoveries to their credit must do this by drawing chance cards for several turns until they feel their finances are adequate. Experienced explorers can accelerate this process by publishing discoveries, which allow them to draw additional chance cards.\n\nOriginally published by Discovery Games and re-published by Avalon Hill as a more card-based rather than dice-based system. A form of the original rules are preserved in the AH rules book under the rubric \"Game II\".\n\nThe rules to the AH version have a serious glitch in sections 12.61 - 12.63 where the die roll modifiers for guides and proceeding cautiously are reversed.\n\nThe GENERAL Index  Article List:\n\n    The GENERAL Vol.18,No.6\n        Source of the Nile &ndash; &ldquo;Native Policy in Source of the Nile&rdquo; (Strategy) Michael Anchors\n        The Question Box - Source of the Nile\n    \n    The General Vol.21,No.3\n        \"Source of Strength\" (Variant)Source of the Nile With A Vengeance, Tim Williams\n    \n\n\nOnline Play\n\n     amarriner.com (PBEM)\n\n\nExpanded by:\n\n    Source of the Nile: Tributary (Discovery Games version)\n\n\n",
+    "image": "https://cf.geekdo-images.com/H2hg0TwSeWvdoC5DGd2Akg__original/img/GTmqjgiGAaldDTKl-IQWdxUrnkU=/0x0/filters:format(jpeg)/pic244574.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/H2hg0TwSeWvdoC5DGd2Akg__small/img/_JatKR5PaPkplgwfwxAlME0RPn0=/fit-in/200x150/filters:strip_icc()/pic244574.jpg",
+    "link": "https://boardgamegeek.com/thing/1577",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "1978",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.51538",
+    "averageWeight": "2.9394",
+    "boardGameRank": "5902",
+    "mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Hexagon Grid",
+      "Paper-and-Pencil",
+      "Ratio / Combat Results Table",
+      "Scenario / Mission / Campaign Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Exploration",
+      "Post-Napoleonic"
+    ],
+    "designers": [
+      "Ross Maker",
+      "Dave Wesely"
+    ]
+  }
+}

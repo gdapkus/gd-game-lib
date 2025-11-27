@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:07:58.537Z",
+  "gameDetails": {
+    "id": "148205",
+    "name": "Penny Press",
+    "type": "boardgame",
+    "description": "Set during the tumultuous 'yellow journalism' years at the end of the 19th century, Penny Press has players taking on the role of newspaper magnates such as Pulitzer and Hearst as they strive to become the dominant paper in old New York City.\n\nPlayers move up on the circulation track throughout the game by publishing newspapers, and they are awarded bonuses at the end of the game for best covering the five news 'beats' or leading news categories of the day: War, Crime & Calamity, New York City, Politics, and the Human Condition.\n\nTo publish newspapers, players assign some or all of their five reporters to the popular stories of the day. When they're ready, players 'roll the presses' to claim those stories where their reporters have a majority and assemble them on their 'front page' player mat. The score of each press run is determined by the current values in each of the five news beats. Stories also have 'star' values, and the player with the most stars in each news beat gets that beat's endgame bonus.\n\nThe end of the game is triggered when one player publishes his fourth (in a two- or three-player game) or third (in a four- or five-player game) newspaper. The player who moved farthest along the circulation track is the winner of Penny Press.\n\n",
+    "image": "https://cf.geekdo-images.com/KfqIR65z5vKvE1opYYyUZA__original/img/ZQ5v6PfVY10my98127-d4XQXvVc=/0x0/filters:format(jpeg)/pic2047695.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KfqIR65z5vKvE1opYYyUZA__small/img/5w8RASY2roh2R_K6gfbRoRtdMjM=/fit-in/200x150/filters:strip_icc()/pic2047695.jpg",
+    "link": "https://boardgamegeek.com/thing/148205",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.43961",
+    "averageWeight": "2.1944",
+    "boardGameRank": "4680",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Robert Dijkman Dulkes",
+      "Matt Golec"
+    ]
+  }
+}

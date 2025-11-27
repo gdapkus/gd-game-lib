@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:04:35.570Z",
+  "gameDetails": {
+    "id": "62220",
+    "name": "Urban Sprawl",
+    "type": "boardgame",
+    "description": "From the publisher's website]:\n\nGame Overview:\n\nUrban Sprawl is a game for 2&ndash;4 players. Urban Sprawl abstractly models the growth of a town into a teeming metropolis.\n\nPlayers assume the roles of entrepreneur, tycoon, and politician&mdash;each helping in the development of a hypothetical \"Anywhere, USA.\" Wealth and Prestige will be earned and spent throughout the game. Buildings will rise only to later be demolished for better and larger fare.\n\nThroughout the game players will gather valuable Permits. These will result in either a wealthy Investment or the foundation of a new building Contract. Players will strive to become dominant in one or more building Zones in order to acquire beneficial political offices.\n\nAll of this eventually leads to the end game&mdash;a vibrant metropolis that is revered around the world&mdash;when the player with the most Prestige will be crowned the winner.\n\nGame Play:\n\nThe grid of streets on the board provides the framework for building the small town. The buildings will be placed within the grid and identified with control markers (wooden cubes) to show each player's contribution to the growing urban area. Each building's value is determined by the cumulative Wealth and Prestige values of the block in which is it constructed.\n\nAt the start of a player's turn he may discard one or more Building Permit cards from hand as \"Investments,\" gaining Wealth in doing so. Next that player gets 6 \"Action Points\" (APs) with which to spend on any of the the following activities:\n\n&bull; Acquiring new Building Permit cards from those available to choose;\n&bull; Constructing new buildings from those currently available;\n&bull; Acquiring a \"Favor\"&mdash;a Building Contract that only that player can build.\n\nEach activity carries with it a variable cost in APs, depending on where the chosen card lies on the board.\n\nOnce a player has spent his APs it's time for a quick reset phase in readiness for the next player's turn. It is during this phase that events can occur, elections can be held for the various political offices, and players receive payouts in Wealth and Prestige. Wealth payouts provide funding for new buildings while Prestige payouts provide victory points.\n\nGenerally, players will be trying to build in areas that provide better payouts. Players are also looking to construct more buildings of a particular \"zone\"&mdash;Government, Residential, Industrial, or Commercial&mdash;in order to help them win an election, as the politicians each confer a special ability to the player holding the office. Many of the buildings also provide a one-time bonus as they are built, and players can benefit from construction in the right neighborhoods.\n\nThroughout the game, the values of the buildings will generally increase as the town grows into a city and then a large metropolis. Neighborhoods that were once valuable can become run down and new city centers spring up as the urban areas sprawl out across the grid.\n\nWhen the game ends, players will conduct a final scoring of each Prestige row, earn points based on accumulated Wealth, and score bonus points for political offices held&mdash;after which the player with the highest Prestige total wins the game.\n\n",
+    "image": "https://cf.geekdo-images.com/K1Q9nY-BKLZb15ijxFkk_g__original/img/lfUB3hBk_cic7xUYmZxAhd7BGFg=/0x0/filters:format(jpeg)/pic1114652.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/K1Q9nY-BKLZb15ijxFkk_g__small/img/-bcw5UC7HAY5fySgr1rHl9zTSIk=/fit-in/200x150/filters:strip_icc()/pic1114652.jpg",
+    "link": "https://boardgamegeek.com/thing/62220",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.77353",
+    "averageWeight": "3.3119",
+    "boardGameRank": "2535",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Open Drafting",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Economic"
+    ],
+    "designers": [
+      "Chad Jensen"
+    ]
+  }
+}

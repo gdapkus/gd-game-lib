@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:12:33.555Z",
+  "gameDetails": {
+    "id": "339100",
+    "name": "Marvel United: X-Men – The Horsemen of Apocalypse",
+    "type": "boardgameexpansion",
+    "description": "The Horsemen of the Apocalypse is an epic Kickstarter Exclusive expansion that pits the X-Men against the might of the first mutant: Apocalypse. And to make matters worse, Apocalypse is not alone, as he has gathered his four lieutenants around him to help carry out his apocalyptic plan. In ride the four horsemen: Famine, War, Pestilence, and Death.\n\nPlayers can choose to face Apocalypse directly, in a daunting game where the Four Horsemen are his Threats, but with their character pieces present on the play area and moving around the Locations to sow destruction. If they want the ultimate challenge, however, players can use the Four Horsemen Mode, where the battle against Apocalypse is preceded by a game against just the Four Horsemen. They will have to face each Horseman, one by one, each with a reduced Master Plan deck and their own set of rules and challenges. By being victorious, players will be able to take extra Action tokens to the final battle against Apocalypse. However, each Horseman that succeeds will be a more powerful Threat in the final game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/K8b60_odLsVfaG0ED-MJdQ__original/img/xZ1s29I65wxjpNW-DefM6ZqGVHQ=/0x0/filters:format(jpeg)/pic7365040.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/K8b60_odLsVfaG0ED-MJdQ__small/img/xpbPwBI8OgTbxFC1sHtB5wq9U4Q=/fit-in/200x150/filters:strip_icc()/pic7365040.jpg",
+    "link": "https://boardgamegeek.com/thing/339100",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.35197",
+    "averageWeight": "2.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

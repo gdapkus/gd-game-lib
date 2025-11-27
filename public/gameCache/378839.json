@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T19:31:20.443Z",
+  "gameDetails": {
+    "id": "378839",
+    "name": "7 Wonders: Edifice",
+    "type": "boardgameexpansion",
+    "description": "7 Wonders: Edifice gives players the opportunity to work together to construct communal buildings. If you do your part and the building comes to be, you'll be rewarded. You don't have to participate, but if you don't &mdash; and the building never comes to be &mdash; you'll suffer a penalty.\n\nIn more detail, this expansion contains fifteen edifice cards: five each in ages I, II, and III. To set up, choose one card from each age at random, then place it project side face up on the table and place 2-5 participation markers on each card, depending on the number of players. The project side lists both the potential reward and potential penalty.\n\nOnce during an age, when you construct a level of your wonder, you can pay the cost of the edifice card for the current age (in addition to the cost of that level) and gain a participation marker from that card.\n\nAs soon as the last participation marker is removed from a card, flip the card over to reveal its constructed side and immediately give each player the listed reward. If at the end of the age at least one participation marker remains on the card, each player without one of these markers suffers the penalty. (If a player cannot suffer the full penalty, e.g., paying 5 coins, they instead take a debt token worth -2, -3, or -5 points depending on the age.)\n\n7 Wonders: Edifice contains two new double-sided wonders; one of them, Ur, can only be used with this expansion, while Carthage can be used in any game of 7 Wonders.\n\n7 Wonders: Edifice can be used with any edition of 7 Wonders.\n\n",
+    "image": "https://cf.geekdo-images.com/jUNBUX-I_2cuyjcbUvVsnw__original/img/2MbG0QevHEJQ2XrZKrACGLPVYzE=/0x0/filters:format(jpeg)/pic7416522.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jUNBUX-I_2cuyjcbUvVsnw__small/img/YGqHKTt3F3VjxChC8M93faYT61w=/fit-in/200x150/filters:strip_icc()/pic7416522.jpg",
+    "link": "https://boardgamegeek.com/thing/378839",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "yearPublished": "2023",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "7.45925",
+    "averageWeight": "1.8",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Ancient",
+      "Card Game",
+      "City Building",
+      "Civilization"
+    ],
+    "designers": [
+      "Antoine Bauza"
+    ]
+  }
+}

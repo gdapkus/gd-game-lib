@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:59:24.090Z",
+  "gameDetails": {
+    "id": "109657",
+    "name": "Ocean Limbo",
+    "type": "boardgame",
+    "description": "In Ab in die Tonne, which was republished as Ocean Limbo, players are throwing away their garbage &mdash; but in a contest of sorts. Each player has the same items to throw away and they'll throw them away in the same order; whoever packs their trash best wins, but you want to keep your hands clean, so no rearranging is allowed once something drops below the rim!\n\nEach player has the same fifteen pieces of garbage: a coat hanger, an old cooking pan, a slice of pizza, and so on. Each player also has a cardboard garbage can that consists of a flat playing area with a raised border that is tilted to create a slide of sorts. The top of the garbage can has a vertical series of numbered lines used to calculate a player's score.\n\nThe start player chooses one item, then each player takes that item, places it above the green line on their garbage can playing board, then \"drops\" the item into the can. The next player then chooses one of the remaining items, and everyone drops this item, too. Players cannot touch trash in the can.\n\nOnce all the items are in the bin, a player's score is the largest numbered line covered by some portion of the trash. After two more rounds, now with special chewing gum rules(!), the player with the lowest cumulative score wins.\n\n",
+    "image": "https://cf.geekdo-images.com/5201O4Xgvi-zi2jnIgpHOQ__original/img/kj3a8wKz4zgi2bThgq20Sqp2WMg=/0x0/filters:format(jpeg)/pic7688375.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5201O4Xgvi-zi2jnIgpHOQ__small/img/ZrozOjKXZHJdqo0f3HxYAoFOmKI=/fit-in/200x150/filters:strip_icc()/pic7688375.jpg",
+    "link": "https://boardgamegeek.com/thing/109657",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2,
+      5
+    ],
+    "averageRating": "6.14161",
+    "averageWeight": "1.0588",
+    "boardGameRank": "14654",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity"
+    ],
+    "designers": [
+      "Corné van Moorsel"
+    ]
+  }
+}

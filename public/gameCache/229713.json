@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:04:51.995Z",
+  "gameDetails": {
+    "id": "229713",
+    "name": "War Room",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nLarry Harris presents War Room, a deluxe global World War II game for 2-6 players.  You have been entrusted with the Mantle of Command for your nation.  Collaborate with allies to coordinate maneuvers before resolving your secret, simultaneous orders for movement and production. Assign battle stances for each unit type wisely during conflicts on the land, at sea and air.  Maintain a tight grip on your territories and guard your convoys to control the varied resources required to expand your army.  Attack your enemies where they least expect and crush their national morale.  Strive onward to capture the enemy capitals and secure victory!\n\n",
+    "image": "https://cf.geekdo-images.com/MAMHMKUHeNnhtIhTKMIuXA__original/img/IDD60lrR5Ehl8Ff7DS6z7zaXxAU=/0x0/filters:format(jpeg)/pic6179448.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MAMHMKUHeNnhtIhTKMIuXA__small/img/Rcx-yEaY0PV6s4-AbofVuPh2HiU=/fit-in/200x150/filters:strip_icc()/pic6179448.jpg",
+    "link": "https://boardgamegeek.com/thing/229713",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2019",
+    "playingTime": "360",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "8.22692",
+    "averageWeight": "3.5217",
+    "boardGameRank": "2199",
+    "mechanics": [
+      "Area Movement",
+      "Delayed Purchase",
+      "Dice Rolling",
+      "Scenario / Mission / Campaign Game",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Team-Based Game",
+      "Turn Order: Auction"
+    ],
+    "categories": [
+      "Economic",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Larry Harris, Jr."
+    ]
+  }
+}

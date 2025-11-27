@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:08:20.720Z",
+  "gameDetails": {
+    "id": "156097",
+    "name": "Snake Oil: Elixir",
+    "type": "boardgame",
+    "description": "In the Old West, the wily snake oil salesman had a special talent, getting the most skeptical customers to buy the most dubious products. Now it's your turn! Invent your own zany two-word products &ndash; Rumor Mirror! Burp Balloon! &ndash; and sell them to all types of wacky customers. If the round's customer buys your product, you win!\n\nTo set up Snake Oil: Elixir, each player takes six purple word cards. The customer for the round draws a customer card and announces it. Inventors quickly combine two purple word cards from their hand to form a crazy new product to sell to that customer. When ready, each inventor quickly pitches his or her product directly to the customer. The customer can end any pitch that goes longer than thirty seconds. The customer decides which product to buy and gives the inventor of that product the round's customer card as the prize. Inventors discard all used word cards and take two new word cards each. The player to the left of the customer becomes the next round's customer. Play repeats until each player has been the customer once.\n\nWhoever collects the most customer cards wins.\n\nIntegrates with:\n\n\n    Snake Oil\n    Snake Oil: Party Potion\n\n\n",
+    "image": "https://cf.geekdo-images.com/Bve6w6iafS92_Xq8C5laFQ__original/img/9GYE1tTe9neGg-QN49Us2P3NWKs=/0x0/filters:format(jpeg)/pic1951190.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Bve6w6iafS92_Xq8C5laFQ__small/img/2G8Hk8VQNO8ot6-fZvzFf0fvlsM=/fit-in/200x150/filters:strip_icc()/pic1951190.jpg",
+    "link": "https://boardgamegeek.com/thing/156097",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2015",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "7.40833",
+    "averageWeight": "1",
+    "boardGameRank": "11431",
+    "mechanics": [],
+    "categories": [
+      "Card Game",
+      "Party Game"
+    ],
+    "designers": [
+      "Jeff Ochs"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:56:49.229Z",
+  "gameDetails": {
+    "id": "250532",
+    "name": "King of Tokyo/New York: Monster Pack – Anubis",
+    "type": "boardgameexpansion",
+    "description": "He is coming for you! While rampaging through a history museum, you accidentally stepped on a sarcophagus, causing Anubis to appear, intent upon avenging the profaned mummy. Can you escape the wrath of the God of the Dead as he showers curses on the town?\n\nThe Anubis Monster Pack is compatible with the King of Tokyo and King of New York base games and with all their expansions. The Anubis Monster Pack introduces a new game component in the form of the die of fate! You can use the die of fate in your games even if you play without Evolution cards or are not playing with Anubis.\n\n&mdash;description from publisher\n\nPart of the King of Tokyo series.\n\n",
+    "image": "https://cf.geekdo-images.com/5mj_ott6hsGDpC8uOJrXhQ__original/img/8hxd5QUMHdd5KVseKsidev7Z3B4=/0x0/filters:format(jpeg)/pic4206322.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5mj_ott6hsGDpC8uOJrXhQ__small/img/QgM8Xf9jBqteJM4uLk8pEyJgm4s=/fit-in/200x150/filters:strip_icc()/pic4206322.jpg",
+    "link": "https://boardgamegeek.com/thing/250532",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2018",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.43779",
+    "averageWeight": "1.7778",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Open Drafting",
+      "Player Elimination",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Dice",
+      "Fighting",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Richard Garfield"
+    ]
+  }
+}

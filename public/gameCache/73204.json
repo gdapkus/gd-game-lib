@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:01:44.005Z",
+  "gameDetails": {
+    "id": "73204",
+    "name": "Shed",
+    "type": "boardgame",
+    "description": "Shed is a clever trick-taking game for 2-5 players that fully utilizes all of the unique characteristics of the Decktet Game System. Players start the game with a pool of tokens matching the Decktet&rsquo;s suits and then they try to get rid of them through careful trick taking. The first player to shed all of his tokens is the winner.\n\n",
+    "image": "https://cf.geekdo-images.com/0izVWW31R78SRMzXoZuPIw__original/img/sPotu7GETyjThMioYeD4BmGtcn4=/0x0/filters:format(jpeg)/pic969078.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0izVWW31R78SRMzXoZuPIw__small/img/JgkAONMD6_Stu61rc18R1aFq1do=/fit-in/200x150/filters:strip_icc()/pic969078.jpg",
+    "link": "https://boardgamegeek.com/thing/73204",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "6.88571",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Set Collection",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Greg James"
+    ]
+  }
+}

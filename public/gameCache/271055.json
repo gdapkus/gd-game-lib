@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:09:06.653Z",
+  "gameDetails": {
+    "id": "271055",
+    "name": "Dwellings of Eldervale",
+    "type": "boardgame",
+    "description": "Dwellings of Eldervale is an epic worker placement game set in a once lost magical world. Giant elemental monsters roam while dragons, wizards and warriors battle for dominance over 8 elemental powers. Players control unique factions seeking to adventure, battle, grow in power and ultimately dwell Eldervale, shaping it to their vision.\n\nDwellings of Eldervale blends worker placement, area control, engine building and unique worker units. Players take turns placing a worker in Eldervale or regrouping and activating their tableau of adventure cards. Action spaces include realms key to power: a summoning portal, an ancient mill, the lost fortress, deep dungeons, and a crumbling mage tower and the elemental lands of Earth, Air, Fire, Water, Light, Dark, Order and Chaos! Magic cards grant spells, quests and prophecies to players.\n\nIn the end, the players with the most elemental dominance among the multiple paths to victory will reign over Eldervale.\n\n&mdash;description from the publisher\n\nLink to Unofficial FAQ\n\n",
+    "image": "https://cf.geekdo-images.com/qJQXn0kvzvHBKWzSQN7vpw__original/img/NAq9RfDsv-qPEsco3W0ES8ofHEA=/0x0/filters:format(jpeg)/pic4742944.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qJQXn0kvzvHBKWzSQN7vpw__small/img/nyFpcKV3cBOVO1pEImnBYLc_BRE=/fit-in/200x150/filters:strip_icc()/pic4742944.jpg",
+    "link": "https://boardgamegeek.com/thing/271055",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.11889",
+    "averageWeight": "3.244",
+    "boardGameRank": "122",
+    "mechanics": [
+      "Action Retrieval",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Economic",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Luke Laurie"
+    ]
+  }
+}

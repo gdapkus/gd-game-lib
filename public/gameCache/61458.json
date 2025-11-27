@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:56:40.187Z",
+  "gameDetails": {
+    "id": "61458",
+    "name": "Kaigan",
+    "type": "boardgame",
+    "description": "In 1800, at 55 years of age, Tadataka Ino started his journey to make the first scale map of Japan's coast (Kaigan) using modern surveying techniques.  His project lasted 21 years and resulted in a 1:36000 scale map that remained the definitive map of Japan for over a century.  Ino's work brought renown not only to himself, but to Japan as well.\n\nIn Kaigan, the players, overseeing teams of surveyors, compete against each other to map the coast of Japan.  During the game, the players will generate income by improving their artistic skills and developing relationships with local governments.  Using this money, the players will dispatch their surveyors around the island of Japan in an effort to map its different regions.  After 5 rounds, representing the 21 years it took to complete Tadataka Ino's map, the player who has traveled the farthest and contributed the most to mapping Japan will gain the most honor and will win the game.\n\n",
+    "image": "https://cf.geekdo-images.com/Ye607yuFKADyHEMGe-Id2g__original/img/iUuFcoq0gi3EJ21oxcRczh6rpdA=/0x0/filters:format(jpeg)/pic805573.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ye607yuFKADyHEMGe-Id2g__small/img/vHBbEZkDrBQmJ8FLEgOsUmCG7Ls=/fit-in/200x150/filters:strip_icc()/pic805573.jpg",
+    "link": "https://boardgamegeek.com/thing/61458",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2009",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.91453",
+    "averageWeight": "2.9412",
+    "boardGameRank": "5385",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Hand Management"
+    ],
+    "categories": [
+      "Travel"
+    ],
+    "designers": [
+      "Kenichi Tanabe"
+    ]
+  }
+}

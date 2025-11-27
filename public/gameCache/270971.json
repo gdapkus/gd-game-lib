@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T21:09:27.890Z",
+  "gameDetails": {
+    "id": "270971",
+    "name": "Era: Medieval Age",
+    "type": "boardgame",
+    "description": "Era: Medieval Age serves as the spiritual successor to Roll Through The Ages. While Roll Through The Ages was a pioneer for roll-and-write-style games, Era is a pioneer for roll-and-build!\n\nIn Era, your dice represent different classes of medieval society as players attempt to build the most prosperous city. The \"build\" comes into play as players actually build their cities on their boards. You will use beautifully modeled three-dimensional components such as walls, keeps, farms, and other structures. By the end of the game, each player will have a unique city of their very own!\n\nEra: Medieval Age is made even more challenging as players interact with each other in ways such as extortion, scorched earth, and, of course, disease! Hey, this is the Medieval Age, right? Speaking of which, Era serves as the first of a new series of standalone roll-and-build games from Matt Leacock and eggertspiele!\n\n",
+    "image": "https://cf.geekdo-images.com/WMo5maeCJg0ow-KMyMw7Rg__original/img/8_ATGCcWlAPp72H6XpGfrBWXGEI=/0x0/filters:format(jpeg)/pic4547154.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WMo5maeCJg0ow-KMyMw7Rg__small/img/Prjny2hfmFhRa81eaP3Mnu9k83k=/fit-in/200x150/filters:strip_icc()/pic4547154.jpg",
+    "link": "https://boardgamegeek.com/thing/270971",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "7.18959",
+    "averageWeight": "2.271",
+    "boardGameRank": "1121",
+    "mechanics": [
+      "Dice Rolling",
+      "Enclosure",
+      "End Game Bonuses",
+      "Grid Coverage",
+      "Income",
+      "Push Your Luck",
+      "Re-rolling and Locking",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Take That",
+      "Tech Trees / Tech Tracks"
+    ],
+    "categories": [
+      "City Building",
+      "Civilization",
+      "Dice",
+      "Medieval"
+    ],
+    "designers": [
+      "Matt Leacock"
+    ]
+  }
+}

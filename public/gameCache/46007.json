@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-11-26T20:50:16.876Z",
+  "gameDetails": {
+    "id": "46007",
+    "name": "A Brief History of the World",
+    "type": "boardgame",
+    "description": "A Brief History Of The World is just that: a sweeping ride through the history of mankind in the space of just a few hours. The game features fifty of the mightiest Empires ever known, from the dawn of Civilisation through to the Twentieth Century - Egypt, Assyria, Persia, Greece and Imperial Rome, the Huns and Mongols, the Arabs and the Ottoman Turks, the dynasties of China and kingdoms of India, Incas and Aztecs, Portugal and Spain, France, Britain, and Germany. Can you take on the mantle of Alexander or Caesar, Genghis Khan or Napoleon? Can you write your name into the pages of history and lead your Empires to victory?\n\nComponents include:\n\nGiant Map Board\n180 plastic playing pieces\n130 card counters\n - 32 Area Values\n    * 5 x Epoch 1\n    * 2 x Epoch 2\n    * 6 x Epoch 3\n    * 4 x Epoch 4\n    * 4 x Epoch 5\n    * 11 x Epoch 6\n - 30 City/Capitals\n - 20 Monuments (4 types x 5)\n - 20 Forts\n - 18 Bonus tokens (1's, 2's 3's - 6 of each)\n - 6 Gold Markers (1 in each player colour)\n - 4 Fleets\n42 Empire cards (6 epochs, 7 cards per epoch) \n54 Event cards (6 epochs, 7 cards per epoch, plus 12 initial events)\n6 Epoch maps\n6 Six sided dice\n4 Plastic Stands\n1 Epoch chart\n1 Array\n\nThis is a significantly revised version of History of the World.\n\nRe-implements:\n\n     History of the World\n\n\n",
+    "image": "https://cf.geekdo-images.com/eOSZuUlM_90aBRm9Aqsuew__original/img/3KXthg1m_uP7PPFy5MwxBXOJ49w=/0x0/filters:format(jpeg)/pic508334.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eOSZuUlM_90aBRm9Aqsuew__small/img/-dTFbHysBwnh9XNFGphsv1c55aE=/fit-in/200x150/filters:strip_icc()/pic508334.jpg",
+    "link": "https://boardgamegeek.com/thing/46007",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2009",
+    "playingTime": "180",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.86705",
+    "averageWeight": "2.8617",
+    "boardGameRank": "3706",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Catch the Leader",
+      "Closed Drafting",
+      "Critical Hits and Failures",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Hand Management",
+      "Hidden Victory Points",
+      "Income",
+      "Once-Per-Game Abilities",
+      "Ownership",
+      "Set Collection",
+      "Simulation",
+      "Stat Check Resolution",
+      "Take That",
+      "Turn Order: Role Order",
+      "Turn Order: Stat-Based",
+      "Variable Set-up",
+      "Victory Points as a Resource",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Age of Reason",
+      "Ancient",
+      "Civilization",
+      "Medieval",
+      "Napoleonic",
+      "Pike and Shot",
+      "Post-Napoleonic",
+      "Renaissance",
+      "Wargame"
+    ],
+    "designers": [
+      "Gary Dicken",
+      "Steve Kendall",
+      "Phil Kendall"
+    ]
+  }
+}

@@ -6,6 +6,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const axios = require('axios');
 const { createTrelloCard, getTrelloLists, getGameDetails } = require('./src/services/trelloCards');
+const { fetchUsersFromDb, ensureGamesAndCollections } = require('./src/services/db');
 const xml2js = require('xml2js');
 
 const app = express();
@@ -26,8 +27,17 @@ app.get('/test', (req, res) => {
 });
 
 // Load and serve BGG users data
-app.get('/bgg-users', (req, res) => {
-    res.json(bggUsers); // Send the data to the frontend
+app.get('/bgg-users', async (req, res) => {
+  try {
+    const users = await fetchUsersFromDb();
+    if (users && users.length > 0) {
+      return res.json(users);
+    }
+    console.warn('DB users unavailable or empty; serving fallback JSON.');
+  } catch (error) {
+    console.error('Error loading users from DB:', error.message);
+  }
+  res.json(bggUsers);
 });
 
 // Route to get Trello lists
@@ -192,6 +202,7 @@ async function handleGamesRequest(bggUserId, res) {
                         lastmodified: game.lastmodified,
                         myrating: game.rating,
                         numplays: game.numplays,
+                        status: game.status,
                         thumbnail: gameData.gameDetails.thumbnail,
                         link: gameData.gameDetails.link,
                         minPlayers: gameData.gameDetails.minPlayers,
@@ -272,7 +283,7 @@ app.get('/loadDetails/:bggUserName', async (req, res) => {
 // function to save the BGG collection response to a local JSON cache
 async function loadCollection(userName) {
     const sanitizedUserName = userName.replace(/\s+/g, '_');
-	const collectionUrl = `https://boardgamegeek.com/xmlapi2/collection?username=${encodeURIComponent(userName)}&own=1`;
+	const collectionUrl = `https://boardgamegeek.com/xmlapi2/collection?username=${encodeURIComponent(userName)}`;
 	const cacheFilePath = path.join(__dirname, `public/gameCache/collectionCache_${sanitizedUserName}.json`);
 	const bggUsersFile = 'config/bggUsers.json';
 	const usersData = JSON.parse(fs.readFileSync(bggUsersFile, 'utf8'));
@@ -298,7 +309,7 @@ async function loadCollection(userName) {
     try {
       lastResponseData = null;
       const attempt = retries + 1;
-      console.log(`Requesting owned games from BGG for ${userName} (attempt ${attempt})`);
+      console.log(`Requesting collection from BGG for ${userName} (attempt ${attempt})`);
       const response = await axios.get(collectionUrl, {
 		headers: bggApiToken ? { Authorization: `Bearer ${bggApiToken}` } : {}
 	  }); // Fetch BGG collection
@@ -336,7 +347,7 @@ async function loadCollection(userName) {
         await wait(delay);
         continue;
       }
-      console.log(`Received ${items.length} owned games from BGG for ${userName}`);
+      console.log(`Received ${items.length} games in collection for ${userName}`);
 	  
             // Use a `for...of` loop to handle asynchronous API calls sequentially
             const newGamesList = [];
@@ -377,7 +388,7 @@ async function loadCollection(userName) {
                     cacheModified = true;
 
                         // fetch `postdate`, `rating`, and `ratingTimestamp` for new items and in case Rating has changed
-						const detailsResponse = await axios.get(`${apiUrl}${newGameData.id}&objecttype=thing&userid=${user.userid}`);
+					const detailsResponse = await axios.get(`${apiUrl}${newGameData.id}&objecttype=thing&userid=${user.userid}`);
                         const matchingItem = detailsResponse.data.items.find(item => item.collid === newGameData.collid);
                         if (matchingItem) {
                             newGameData.postdate = matchingItem.postdate ? matchingItem.postdate.split('T')[0] : null;
@@ -391,15 +402,29 @@ async function loadCollection(userName) {
                     newGamesList.push(existingGame);
                 }
             }
-	
+
+            const collectionTimestamp = cacheModified ? new Date().toISOString() : cachedData.timestamp || new Date().toISOString();
+
 	if (cacheModified) {
       const cacheData = {
-        timestamp: new Date().toISOString(),
+        timestamp: collectionTimestamp,
         games: newGamesList
       };
 	      // Write the updated cache to the file
       fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData, null, 2));
 	}
+
+            try {
+                const dbResult = await ensureGamesAndCollections({
+                    userId: user.userid,
+                    collections: newGamesList,
+                    cacheDir,
+                    collectionTimestamp
+                });
+                console.log(`DB sync for ${userName}: ${dbResult.collectionsUpserted} collections, ${dbResult.gamesUpserted} games.`);
+            } catch (dbError) {
+                console.error(`DB sync skipped/failed for ${userName}: ${dbError.message}`);
+            }
 
 	console.log(`Cache modified: ${cacheModified}`);
       return cacheModified ? 'Collection loaded successfully. Refresh to view the cached data.' : 'No changes to collection.';

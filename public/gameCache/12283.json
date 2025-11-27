@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:57:43.664Z",
+  "gameDetails": {
+    "id": "12283",
+    "name": "Manifest Destiny",
+    "type": "boardgame",
+    "description": "Manifest Destiny is a card-driven multi-player strategy game for 3 to 5 players set in North America from colonial times to the present. Designed by Bill Crenshaw as the successor to the Age of Renaissance, and developed by Ken Gutermuth, Manifest Destiny combines the strategic components of earlier, longer civilization-based games with the elegance of streamlined European gaming. While reminiscent of its predecessors in some respects, it is significantly simpler and quicker to play. Designed to appeal to a wide range of gamers, Manifest Destiny combines several unique elements that require strategic balancing to succeed.\n\nEach player controls a mercantile empire as it expands into territories containing new markets across the continent. Players use cash to purchase Progressions and tokens. Progressions give players additional capabilities during the game. Tokens are used for territorial expansion and to purchase Pioneers, cities and additional cards.\n\nEach game is unique, with no standard path to victory. The game has several elements that keep all players competitive; cards and Progressions are designed to assist lagging players. How you balance the competing opportunities will determine whether you achieve your destiny.\n\n",
+    "image": "https://cf.geekdo-images.com/N190cfJXO7FzLGXOejbRcA__original/img/hw9Ew41ae_bNhjyHBaiVRhxjbf4=/0x0/filters:format(jpeg)/pic6976347.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/N190cfJXO7FzLGXOejbRcA__small/img/Ny2iDRE05OLTnTKEIMQmUiNE144=/fit-in/200x150/filters:strip_icc()/pic6976347.jpg",
+    "link": "https://boardgamegeek.com/thing/12283",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2005",
+    "playingTime": "240",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.46975",
+    "averageWeight": "3.1494",
+    "boardGameRank": "6229",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Commodity Speculation",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Political"
+    ],
+    "designers": [
+      "Bill Crenshaw"
+    ]
+  }
+}

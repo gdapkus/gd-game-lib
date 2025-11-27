@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:36:39.557Z",
+  "gameDetails": {
+    "id": "181345",
+    "name": "Dr. Eureka",
+    "type": "boardgame",
+    "description": "The brilliant Dr. Eureka has important experiments for you to complete! You must solve his scientific formulas by mixing the molecules from tube to tube without touching them with your bare hands. Transfer your molecules faster than your competition in Dr. Eureka to prove you're the smartest scientist in the lab.\n\nThe Challenge card deck is shuffled and the top card is turned face up. For fairness it is best to have the player turning the card over to count to, perhaps five, before each player, at the same time, picks up their test tubes and begins to move the balls around until they can match the Tubes shown on the card. The first to complete wins the round and the first player to win 5 rounds is the overall winner.\n\n",
+    "image": "https://cf.geekdo-images.com/SAWf0NIsIICJBRWal4bDNQ__original/img/kShoTHRkodi-hXX9Mb-Ksm6ym8I=/0x0/filters:format(jpeg)/pic2736237.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SAWf0NIsIICJBRWal4bDNQ__small/img/ju66fjflBrOgh2WJHRIufK0TC4o=/fit-in/200x150/filters:strip_icc()/pic2736237.jpg",
+    "link": "https://boardgamegeek.com/thing/181345",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.54884",
+    "averageWeight": "1.0588",
+    "boardGameRank": "2298",
+    "mechanics": [
+      "Pattern Building",
+      "Race",
+      "Real-Time"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Children's Game",
+      "Real-time"
+    ],
+    "designers": [
+      "Roberto Fraga"
+    ]
+  }
+}

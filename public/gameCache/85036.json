@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:23:35.501Z",
+  "gameDetails": {
+    "id": "85036",
+    "name": "20th Century",
+    "type": "boardgame",
+    "description": "In the 20th Century, every country strives to develop and improve, each in its own way. Some become financial leaders. Others become centers of learning. Both science and commerce serve to propel nations toward the future &ndash; but toward what kind of future? Growth produces waste, and the greatest advances may come with the greatest cost to the environment. How will these countries mitigate the inevitable ecological catastrophes?\n\nYour goal is to build a land free of garbage and pollution &ndash; a land where the environment is as healthy as the economy. Only then can you consider your country to be truly developed.\nThe game consists of six rounds, during which you oversee the urbanization of your country. Some lands produce income. Some produce scientific research. Others improve the quality of life. Your research allows you to discover new technologies that will shape the way your nation develops. Science can even help you avert ecological catastrophes. At the end of each round, your lands provide you the money and research that you will need to deal with the challenges of the next round.\n\nYou accumulate points each round, based on your nation&rsquo;s quality of life. At the end of rounds two and four, you also score bonus points for certain aspects of your country&rsquo;s development. At the end of round six, you will score bonus points based on your country&rsquo;s income, research, and environmental quality. The player with the most points wins, having built the country with the highest standard of living.\n\n(from Czech Games Edition website)\n\n",
+    "image": "https://cf.geekdo-images.com/DdNw5O4hYbvnANbHF8Xtsg__original/img/82xFXy7pyKctiJ4qYFA--wOta9k=/0x0/filters:format(jpeg)/pic830922.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DdNw5O4hYbvnANbHF8Xtsg__small/img/ZHfSocYIIIxIGDSiWr4QYEheMxs=/fit-in/200x150/filters:strip_icc()/pic830922.jpg",
+    "link": "https://boardgamegeek.com/thing/85036",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.82524",
+    "averageWeight": "2.9858",
+    "boardGameRank": "2642",
+    "mechanics": [
+      "Auction / Bidding",
+      "Memory",
+      "Point to Point Movement",
+      "Tile Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Civilization",
+      "Economic",
+      "Environmental"
+    ],
+    "designers": [
+      "Vladimír Suchý"
+    ]
+  }
+}

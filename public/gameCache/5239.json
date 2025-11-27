@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:17:31.358Z",
+  "gameDetails": {
+    "id": "5239",
+    "name": "Omaha Beachhead: Battle for the Bocage",
+    "type": "boardgame",
+    "description": "Omaha Beachhead: Battle for the Bocage is a grand tactical simulation of the American amphibious assault against the German-occupied coast of Normandy on June 6, 1944 and the subsequent ten-day battle for the beachhead. In turns representing one day, each player controls a force of infantry, artillery, tank, anti-tank, flak, and ranger units. The map, which was drawn from US Army maps actually carried in the battle, is a 1:50,000 representation of Normandy showing all of the geographical features that played a significant role in the campaign.\n\nGame Scale:\nGame Turn: 1 day\nHex: .6 mile / 1.0 kilometer\nUnits: Battalion\n\nGame Inventory:\nOne 22 x 32\" full color mapsheet\nTwo dual-side printed countersheet (288 5/8\" counters)\nOne 24-page Omaha Beachhead rulebook\nOne single-side printed Turn Record/Terrain Effects Summary/Track Display Player Aid Card\nOne dual-side printed US Player Charts & Table Card\nOne dual-side printed German Player Charts & Table Card\nOne 10-sided die\nOne plastic counter storage tray & lid\n\nSolitaire Playability: Medium\nComplexity Level: Medium\nPlayers: 2 or more\nPlaying Time: 2-5 hours\n\n",
+    "image": "https://cf.geekdo-images.com/nW801zpuhBOec6Yrb-giaw__original/img/on8FnyW687r7QusW098-QiI7-Zc=/0x0/filters:format(jpeg)/pic19608.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nW801zpuhBOec6Yrb-giaw__small/img/_D-i4iE6wbmbpEAw-ZIzNd8yW4A=/fit-in/200x150/filters:strip_icc()/pic19608.jpg",
+    "link": "https://boardgamegeek.com/thing/5239",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1987",
+    "playingTime": "300",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.32061",
+    "averageWeight": "2.8261",
+    "boardGameRank": "13357",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Joseph M. Balkoski"
+    ]
+  }
+}

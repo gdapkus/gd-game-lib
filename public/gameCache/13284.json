@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:24:56.513Z",
+  "gameDetails": {
+    "id": "13284",
+    "name": "Cowpoker",
+    "type": "boardgame",
+    "description": "From the designers:\n\nCowPoker is a game for 2 to 4 live players, though it always has four Ranches, the remainder of which are played by \"deadwood,\" or automatic players. Each player (live or deadwood) controls a ranch in a humorous cow town, and only cards from your own ranch have any effect for you. The game consists of a series of card plays in which players try to accumulate the most points and form the best poker hands by playing valuable cards, making good choices, and winning tricks called \"Gunfights\" and \"Roundups.\"\n\n",
+    "image": "https://cf.geekdo-images.com/tmqogaBs1ZnNyhi9YKN1qA__original/img/Q9xYzx4l5H7ra_Cd1XSDGGEKYiI=/0x0/filters:format(jpeg)/pic125474.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tmqogaBs1ZnNyhi9YKN1qA__small/img/kjYCIEKe9YI_FcZkNG6UIp26qSE=/fit-in/200x150/filters:strip_icc()/pic125474.jpg",
+    "link": "https://boardgamegeek.com/thing/13284",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2006",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.49757",
+    "averageWeight": "1.5185",
+    "boardGameRank": "25033",
+    "mechanics": [
+      "Trick-taking"
+    ],
+    "categories": [
+      "American West",
+      "Card Game",
+      "Humor"
+    ],
+    "designers": [
+      "James Ernest",
+      "Mike Selinker"
+    ]
+  }
+}

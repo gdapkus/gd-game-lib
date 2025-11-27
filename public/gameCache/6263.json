@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:13:30.085Z",
+  "gameDetails": {
+    "id": "6263",
+    "name": "King's Breakfast",
+    "type": "boardgame",
+    "description": "The king has invited you to his castle for breakfast.  During the feast the players will take portions of various dishes from the table to eat.  As a good host, the king will serve all his guests before taking any portion from each course.  From time to time, his pet dragon Emerald will steal some food from his master.  Of course, it is rude for a player to have more of a dish than the king, so players must be careful not to be too greedy.  In the end, the winner is the player who gets the most to eat of the things the king likes best without eating more than the king eats of any dish.\n\nOnline Play\n\n\n     BrettspielWelt (real-time)\n\n\n",
+    "image": "https://cf.geekdo-images.com/LNQQCs79NPy8xblo72Rz-g__original/img/e8gy1t-rWQDQyRtNJ3W206_AUPw=/0x0/filters:format(jpeg)/pic69356.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LNQQCs79NPy8xblo72Rz-g__small/img/P02ZfqZg3jyxr3wwaUjo_UzsaSo=/fit-in/200x150/filters:strip_icc()/pic69356.jpg",
+    "link": "https://boardgamegeek.com/thing/6263",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2003",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.16921",
+    "averageWeight": "1.1769",
+    "boardGameRank": "5024",
+    "mechanics": [
+      "Commodity Speculation",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Alan R. Moon",
+      "Aaron Weissblum"
+    ]
+  }
+}

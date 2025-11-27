@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:56:13.333Z",
+  "gameDetails": {
+    "id": "40446",
+    "name": "Indian Chief",
+    "type": "boardgame",
+    "description": "A card game played with one or two standard 52-card decks.  Players hold 8 cards and on the 7 rounds of the game, in any order, must play a different \"meld,\" a number of cards from 1 to 7 with a different scoring rule for each meld.  The melds are named Rich Man, Poor Man, Beggar Man, Thief, Doctor, Lawyer, and Indian Chief.  The game can accommodate up to 8 with simultaneous play.\n\n",
+    "image": "https://cf.geekdo-images.com/uGpLcWf6rsk13Fe4aHQcNw__original/img/sc4GfInYgeET8l4DlLNE5WpK6FU=/0x0/filters:format(jpeg)/pic474239.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uGpLcWf6rsk13Fe4aHQcNw__small/img/DpzKJIlMfIxuT3_2-_lLI3RVPVY=/fit-in/200x150/filters:strip_icc()/pic474239.jpg",
+    "link": "https://boardgamegeek.com/thing/40446",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2004",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "6.241",
+    "averageWeight": "1.6667",
+    "boardGameRank": "16076",
+    "mechanics": [
+      "Hand Management",
+      "Melding and Splaying",
+      "Pattern Recognition",
+      "Score-and-Reset Game",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Stven Carlberg"
+    ]
+  }
+}

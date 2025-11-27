@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:32:47.407Z",
+  "gameDetails": {
+    "id": "337627",
+    "name": "Voidfall",
+    "type": "boardgame",
+    "description": "For centuries, the Novarchs, descendants of the royal House of Novarchon, have ruled with an iron fist over the feudalistic galactic empire of humankind, the Domineum. During this time, they brought stunning technological innovation and scientific advancements to their domain. This accelerated progression helped the Domineum reach &mdash; and eventually inhabit &mdash; even the farthest segments of the known galaxy, where new Houses emerged to govern the outer sectors of the empire. As the House of Novarchon grew in power, so grew the religious cult that surrounded them, proclaiming grim prophecies about an ancient cosmic being from another dimension: the Voidborn.\n\nMany thought it to be only a myth, but in truth, it was the Voidborn's dark influence that granted the Novarchs the sheer knowledge to achieve rapid expansion for the empire. While the cult of the Novarchs envisaged eternal life through the otherworldly entity, the Voidborn's only intention was satiating its eternal hunger. And so, when the Domineum had achieved a vastness fitting the Voidborn's craving, interdimensional rifts opened at the heart of the Domineum to unleash cosmic corruption. As the House of Novarchon and its followers welcomed the Voidborn and sought their false salvation, the entity infected and spread and seized control over the inner worlds. Now, it is time for the remaining Great Houses to purge the galactic corruption, prevent the Voidborn from fully manifesting in our dimension, and to ultimately overcome the chaos as the new rulers of the Domineum.\n\nVoidfall is a space 4X game that brings the genre to Euro enthusiasts' tables. It combines the tension, player interaction, and deep empire customization of the 4X genre with the resource management, tight decisions, and minimum-luck gameplay of an economic Euro. Win by pushing back the Voidborn in the solo/coop mode, or by overcoming your rivals' influence in restoring the Domineum in the competitive mode &mdash; both using the same rule set and game system. Variability is ensured not only by multiple playable houses with their own strengths and weaknesses, but also by many different map set-ups for all game modes.\n\nAs the leader of a defiant Great House, you play through three cycles, each with a game-altering galactic event, a new scoring condition, and a set number of focus cards that can be played. Focus card decisions and sequencing is the centerpiece of the gameplay. By selecting two of their three impactful actions as you play them, you develop and improve techs; advance on your three house-specific civilization tracks; manage your sectors' infrastructure, population, and production; and conquer new sectors with up to five different types of space fleets. Space battles are fought either against the Voidborn's infected forces (which are present as neutral opponents even in the competitive mode) or against other players. Instead of relying on the luck of a die roll, battles in Voidfall are fully deterministic and reward careful preparation and outsmarting your opponents.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/hItZjdDTNuaCZ7fEztwcUQ__original/img/gIhusTrYRr_2JQGEv0zuSgLtuUo=/0x0/filters:format(jpeg)/pic6153324.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hItZjdDTNuaCZ7fEztwcUQ__small/img/Ov6eWR87PZ2O1XYQtXMO6KvfzOg=/fit-in/200x150/filters:strip_icc()/pic6153324.jpg",
+    "link": "https://boardgamegeek.com/thing/337627",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "240",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "8.52484",
+    "averageWeight": "4.5915",
+    "boardGameRank": "96",
+    "mechanics": [
+      "Command Cards",
+      "Cooperative Game",
+      "Events",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Nigel Buckle",
+      "Dávid Turczi"
+    ]
+  }
+}

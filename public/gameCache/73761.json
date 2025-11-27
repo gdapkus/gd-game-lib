@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:29:00.218Z",
+  "gameDetails": {
+    "id": "73761",
+    "name": "K2",
+    "type": "boardgame",
+    "description": "K2 is the second-highest mountain on Earth as well as the second deadliest. It's known as the Savage Mountain, as it kills one person for every four who have reached the summit... Now your team stands in its shadow, ready to climb for fame and glory.&nbsp;\n\nK2 is a board game in which each player controls a team of 2 mountaineers, trying to climb to the summit of K2 and return before the other players' teams and before the mountain kills them. Every player uses an identical deck of cards. You use the cards to move your climbers on the route pictured on the gaming board, or to acclimatize the members of your team.&nbsp;\nYou can also set up a tent and wait for better weather. You will have to choose your path carefully, as the other mountaineers can block your way, and watch the upcoming weather which can lower your acclimatization to 0, thus killing your climbers.\nK2 is a hand management game for 1-5 players, with strong interaction and low luck factor, lasting up to 60 minutes. The theme is very well represented by the mechanics, including such elements as changing weather, lack of oxygen and death of the mountaineers. The result is an exciting match for gamers and non-gamers alike.\nThe box includes, among other materials, a double-sided board with two different routes to the summit (easier and harder) and two sets of weather tiles (for summer and winter).\n\n",
+    "image": "https://cf.geekdo-images.com/JlUNpGfe_k7FSYLTrh0ovw__original/img/Pq687MoRM6SD6gzbPhriL3JcM00=/0x0/filters:format(jpeg)/pic5875489.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JlUNpGfe_k7FSYLTrh0ovw__small/img/jYzh0MuH2xTed0d4z8kNNCXLqsM=/fit-in/200x150/filters:strip_icc()/pic5875489.jpg",
+    "link": "https://boardgamegeek.com/thing/73761",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.99988",
+    "averageWeight": "2.2471",
+    "boardGameRank": "863",
+    "mechanics": [
+      "Hand Management",
+      "Movement Points",
+      "Player Elimination",
+      "Point to Point Movement",
+      "Push Your Luck",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Sports"
+    ],
+    "designers": [
+      "Adam Kałuża"
+    ]
+  }
+}

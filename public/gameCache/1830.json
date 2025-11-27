@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:59:10.640Z",
+  "gameDetails": {
+    "id": "1830",
+    "name": "Nippon Rails",
+    "type": "boardgame",
+    "description": "Explore the ancient land of Nippon! Build a railroad empire in the land of the rising sun. Use your initial investment to build track. Then pick up commodities where they are grown, mined, or manufactured and deliver them to a lucrative place of demand. Complete a delivery and make the money you need to buy larger, faster trains, and expand your railroad empire. Win the game by building the most effective railroad empire!\n\nWith the countless variations of play provided, Nippon Rails &ndash; an Empire Builder game and part of the crayon_rail_games series &ndash; provides a challenging region for the creation of your network. Obstacles are rival tracks and Japan's great mountains, channels, and rivers and restrictive coastline. Capture the can-do spirit of Japan and build an empire.\n\nNippon Rails is considered to be among the more challenging maps, given many narrow portions that are susceptible to purposeful blockage by opponents. The design includes a unique tunnel feature that links the main island Honshu to the northern island Hokkaido.\n\nThe second edition of Nippon Rails is for 2-3 players, with a variant that allows for play with up to six.\n\n",
+    "image": "https://cf.geekdo-images.com/xgYEl6sObFtYHwK7epS9qQ__original/img/1GtjRYg8OLrryC9sn2jbJks483A=/0x0/filters:format(jpeg)/pic1065519.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xgYEl6sObFtYHwK7epS9qQ__small/img/hNevf5__MRD4EYg_kU85YZAZQRM=/fit-in/200x150/filters:strip_icc()/pic1065519.jpg",
+    "link": "https://boardgamegeek.com/thing/1830",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1992",
+    "playingTime": "240",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.90358",
+    "averageWeight": "2.6154",
+    "boardGameRank": "4814",
+    "mechanics": [
+      "Crayon Rail System",
+      "Hexagon Grid",
+      "Network and Route Building",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Larry Roznai",
+      "Joe Roznai"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:11:40.271Z",
+  "gameDetails": {
+    "id": "133798",
+    "name": "Mage Wars Arena: Forcemaster vs Warlord Expansion Set",
+    "type": "boardgameexpansion",
+    "description": "Mage Wars: Forcemaster vs. Warlord is the first two-mage expansion set for Mage Wars, focusing on two schools of magic not emphasized in the core set: the Mind School and the War School.\n\nThe Forcemaster is a master of telekinetic force and mind magic. With her keen intellect and supreme control over telekinesis she can manipulate the world around her. She is more of a lone warrior, but her powers more than make up for her lack of creature support. All battles are won in the mind first, and the Forcemaster has the greatest mind of all.\n\nThe Warlord is a master of the art of War, trained in both the War and Earth schools of magic. Strong soldiers bend to his every wish, goblin minions build siege towers and manufacture devastating demolitions, and his retinue of legendary warriors follow him wherever he goes. The Warlord is first and foremost a commander of troops. He summons humanoid soldiers to do his bidding, then calls upon the power of Akiro, God of War, to give his troops favor in battle.\n\n",
+    "image": "https://cf.geekdo-images.com/THNETTTrdRyyerWWQ3ljEA__original/img/3M6kq6Q7QrR_CYM1He2ABASBJUk=/0x0/filters:format(png)/pic2507259.png",
+    "thumbnail": "https://cf.geekdo-images.com/THNETTTrdRyyerWWQ3ljEA__small/img/2Qei2YBk7Kwkt89fcDpT9oFLPTY=/fit-in/200x150/filters:strip_icc()/pic2507259.png",
+    "link": "https://boardgamegeek.com/thing/133798",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2013",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.14182",
+    "averageWeight": "3.641",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Open Drafting",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Bryan Pope",
+      "Benjamin Pope"
+    ]
+  }
+}

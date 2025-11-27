@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T19:57:35.394Z",
+  "gameDetails": {
+    "id": "17226",
+    "name": "Descent: Journeys in the Dark",
+    "type": "boardgame",
+    "description": "Descent: Journeys in the Dark is a \"one vs. many\" game in which up to four players will choose characters with a wide assortment of skills and innate abilities to be the heroes who will explore dungeons in search of treasure and adventure, while one player will take on the role of the Overlord and will control the dungeon's many traps, puzzles, and monsters.\n\nThe heroes' goal will be to cooperatively conquer the dungeon, seize its many treasures, and achieve other objectives as set by the scenario. If the heroes cooperate and achieve their goals, they will all win. The Overlord's objective is simply to use all the means at their disposal - from deadly traps to ferocious monsters - to kill the heroes. Each hero has a certain Conquest Point value to the party and if too many Conquest Points are lost through hero death, the party loses and the Overlord wins.\n\nRe-implemented by:\n\n    Descent: Journeys in the Dark (Second Edition) (2012)\n\n\n",
+    "image": "https://cf.geekdo-images.com/915Abv-1k4_f_-__SkXybg__original/img/LEJxK0iifCkmJcX0uytGCk72v8M=/0x0/filters:format(jpeg)/pic249300.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/915Abv-1k4_f_-__SkXybg__small/img/gn1-n9C_vhQufKI9aosUfP6_WwA=/fit-in/200x150/filters:strip_icc()/pic249300.jpg",
+    "link": "https://boardgamegeek.com/thing/17226",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2005",
+    "playingTime": "240",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.2733",
+    "averageWeight": "3.346",
+    "boardGameRank": "605",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Role Playing",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Miniatures"
+    ],
+    "designers": [
+      "Kevin Wilson"
+    ]
+  }
+}

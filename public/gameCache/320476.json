@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:16:03.915Z",
+  "gameDetails": {
+    "id": "320476",
+    "name": "SINS: The Deck-builder",
+    "type": "boardgame",
+    "description": "\n\n\n    \n        GAME SYSTEM\n\n    \n    \n         This entry is to allow for discussion/rating of the game system as a whole. It is not for a specific product or release. Versions will appear on the individual item pages.\n\n    \n\n\n\n SINS is a fantasy card deck-builder with a quick setup and gameplay, filled with a plethora of combos and tough choices throughout the game, in a small package.\n\nTo win, gain power, give despair and resolve your dominance.\n\nComponents\n70 x SINS cards.\n20 x Kosmos (starter) cards.\n2 x Dominance cards.\n5 x rules cards.\n3 x misc. cards.\n\nSetup\nEach box supports 2 players. Use multiple boxes when playing with more than 2 players.\n\nDeal 10 Kosmos (starter) cards to each player. This is their draw pile, placed in their play area.\n\nGive each player a Dominance card and place it with the Cortadoo logo facing up.\n\nShuffle all Sins cards together face-down, from the box sets of your choice. Place the cards in the center of the table to form the Realm.\n\nEach player draws a card from the top of the Realm. The highest card-number is the active player (repeat if there is a tie). Destroy these cards. Destroyed cards are placed back in the box.\n\nThen, draw 5 cards from the top of the Realm, into the center of the table, face-up.\n\nAll players draw 5 starting cards into their hand from their draw pile (this is their hand limit).\n\nThe active player starts the game and takes their first turn.\nHow to win\nWhen a player reaches two dominance, that player wins the game and the game ends immediately.\n\nYou get dominance by resolving opposing despair in the Status phase, and you give despair by attacking your opponents in the Attack phase.\n\nThe Dominance card in front of each player has numbers from zero to three. If you&rsquo;d like to play a longer game, you can optionally play until a player reaches three dominance. For a short (coffee break) game, play for one dominance.\n\n",
+    "image": "https://boardgamegeek.com/image/1657689",
+    "thumbnail": "https://boardgamegeek.com/image/1657689",
+    "link": "https://boardgamegeek.com/thing/320476",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "5",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action / Event",
+      "Deck, Bag, and Pool Building",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Jacob Lindborg"
+    ]
+  }
+}

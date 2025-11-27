@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:01:39.606Z",
+  "gameDetails": {
+    "id": "34869",
+    "name": "Shadow Hunters: Expansion",
+    "type": "boardgameexpansion",
+    "description": "SHADOW HUNTERS Expansion Kit adds 10 new characters to the original Shadow Hunters product. 10 new special abilities and new win conditions of \"Neutrals\" make the gameplay of \"SHADOW HUNTERS\" more exciting. You can choose from 20 characters in total! You can mix freely this expansion's additional 10 characters and the original 10 characters. One of the original characters (Bob) has been reprinted with changed text.\n\n",
+    "image": "https://cf.geekdo-images.com/INpxq2yR5a53tHncrCRwqg__original/img/qC-FTtnYyHV0ipSQUz13jigJDFc=/0x0/filters:format(jpeg)/pic305413.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/INpxq2yR5a53tHncrCRwqg__small/img/YnFlYkYrnjWNlusKqTiIK5aDyq0=/fit-in/200x150/filters:strip_icc()/pic305413.jpg",
+    "link": "https://boardgamegeek.com/thing/34869",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2006",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "7.35502",
+    "averageWeight": "1.8864",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Bluffing",
+      "Card Game",
+      "Horror"
+    ],
+    "designers": [
+      "Yasutaka Ikeda"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:16:26.766Z",
+  "gameDetails": {
+    "id": "1606",
+    "name": "Ambush!: Move Out!",
+    "type": "boardgameexpansion",
+    "description": "Move Out! is the first expansion for Ambush!  It adds four new scenarios along with new weapons, vehicles, and enemies.  The scenarios are designed to be more difficult so that your veteran characters who have survived the 8 missions in the base game have more of a challenge.\n\nContents:\n60 new Character/Vehicle Cards\n11 new Mission Cards\n 1 new Paragraph/Mission Booklet\n\nExpands:\n\n    Ambush!\n\n\n",
+    "image": "https://cf.geekdo-images.com/Yd37Cny_rc8YN3avwjI_zg__original/img/-AjcXCEXAI3COpbyMAgdezZgY4Y=/0x0/filters:format(jpeg)/pic152920.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Yd37Cny_rc8YN3avwjI_zg__small/img/ZITYEjWOOAK169SUTqifyZOZIM0=/fit-in/200x150/filters:strip_icc()/pic152920.jpg",
+    "link": "https://boardgamegeek.com/thing/1606",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "1984",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.63793",
+    "averageWeight": "3.1273",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Movement Points",
+      "Ratio / Combat Results Table",
+      "Scenario / Mission / Campaign Game",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Fighting",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Joseph Reiser"
+    ]
+  }
+}

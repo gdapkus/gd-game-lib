@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:51:49.104Z",
+  "gameDetails": {
+    "id": "119",
+    "name": "Cosmolancer",
+    "type": "boardgame",
+    "description": "Auf Heller und Pfennig takes participants to a medieval marketplace. Each turn, players place tiles onto the grid board that modify (either positively or negatively) the amount of money to be made by the shops that share that tile's row or column. Three times the board is filled with tiles and shop money is earned, after which the player with the most money wins.\n\nIn Kingdoms, the first English-language version of Auf Heller und Pfennig, players try to collect the most gold by establishing castles in the richest regions of the realm while avoiding hazards like dragons, swamps, and trolls. The 2011 edition includes detailed plastic castles, a streamlined rulebook, and the addition of a wizard tile &mdash; one that increases the rank of adjacent castles, multiplying their scores &mdash; previously available only at game conventions.\n\nAs of 2024, Cosmolancer is the newest version of this design, with players taking the role of freelance photographers in space! As in the other versions, the game lasts three rounds, and to start a round, each player draws a random tile and keeps it secret. On a turn, you either:\n\n&bull; Draw a tile and place it in an empty space on the 6x5 grid.\n&bull; Place the tile in your hand.\n&bull; Place one of your tokens, which are numbered 1-4, in an empty space.\n\nWhen all of the spaces are filled, you score each of your tokens, multiplying the number on the token by the sum of the tiles in its row and column, with some special tiles nullifying positive values or splitting a row into two segments. You retrieve all of your 1 tokens, but the others are now out of play. After three rounds, whoever has the highest score wins.\n\n",
+    "image": "https://cf.geekdo-images.com/beS7setHhqAMOp9jXlUBBw__original/img/vIwSktsyDPP0qQCp2cZA7gBTf6k=/0x0/filters:format(png)/pic8457547.png",
+    "thumbnail": "https://cf.geekdo-images.com/beS7setHhqAMOp9jXlUBBw__small/img/7OTTb_tqVSxokbOqamDthmQY8iM=/fit-in/200x150/filters:strip_icc()/pic8457547.png",
+    "link": "https://boardgamegeek.com/thing/119",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1994",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.68979",
+    "averageWeight": "1.838",
+    "boardGameRank": "1774",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Fantasy",
+      "Medieval"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

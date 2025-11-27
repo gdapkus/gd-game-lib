@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:27:14.385Z",
+  "gameDetails": {
+    "id": "6139",
+    "name": "Duel of Ages Set 2: Intensity",
+    "type": "boardgameexpansion",
+    "description": "Ramp up the intensity in this exciting expansion to Duel of Ages.\n\n\n    Enrich your experience with 3 new maps and 72 all-new characters and equipment.\n    Confront 40 new labyrinth guardians.\n    Unleash deadly creatures and machines upon the unsuspecting enemy - the powerful Bengal Tiger, vicious Hachetbeak, the Gemini automated defense system, monstrous Lancer, and others.\n    Take the high ground on new terrain, the lofty Mesa.\n    Defend your team base as you seek to destroy the enemy's.\n    Capture and imprison enemy characters, then interrogate them.\n    Make use of the valuable Lith Strategica.\n    Challenge Lith Alliance, winning new friends through diplomatic efforts.\n\n\nExpands\n\n    Duel of Ages Set 1: Worldspanner\n\n\n",
+    "image": "https://cf.geekdo-images.com/a5ye1M1j5EQmEaPL53M1sg__original/img/gh37CDjsjwVhK6ZqnzJHbHAtnw0=/0x0/filters:format(jpeg)/pic24162.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/a5ye1M1j5EQmEaPL53M1sg__small/img/qAZZSyZGdr2prg5WOz9EmZSWVjQ=/fit-in/200x150/filters:strip_icc()/pic24162.jpg",
+    "link": "https://boardgamegeek.com/thing/6139",
+    "minPlayers": "2",
+    "maxPlayers": "16",
+    "yearPublished": "2003",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "7.41337",
+    "averageWeight": "2.9792",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Modular Board",
+      "Simulation",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Civilization",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Brett G. Murrell"
+    ]
+  }
+}

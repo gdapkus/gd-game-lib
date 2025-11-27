@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:17:15.308Z",
+  "gameDetails": {
+    "id": "3572",
+    "name": "Invasion: America – Death Throes of the Superpower",
+    "type": "boardgame",
+    "description": "Invasion: America is a \"mini-monster\" wargame designed by Jim Dunnigan and published by SPI in 1976. It depicts a hypothetical corps-level invasion of North America by a coalition of three invaders: The European Socialist Coalition (ESC) staging their invasion from Cuba, the South American Union (SAU) invading from Columbia, and the Pan Asiatic League (PAL) invading along the Pacific coast. Defending North America is a coalition of the United States and Canada, with Central America and Mexico having been annexed earlier in the alternate history timeline. It can be played by 2, 3, or 4 players.\n\nThe game is played on a 35 inch by 42 inch map of North America in which each 'hex' is approximately 130 kilometers (81 mi) from side to side. Distinctive color and symbology is used to represent which of the nine different terrain types dominates the hex. There is additional symbology for ports, supply sources, resource centers and amphibious landing zones. There are also map features along the hexsides including rivers, borders, and and other boundaries. Both movement and combat are affected by terrain.\n\nThere are 400 (7 are blank) 1/2-inch cardboard pieces (unit counters) representing the land, air, and naval military and logistics units of each combatant. The unit counters have numerical combat and movement ratings. Land and Air units are double-sided with their actual combat values on one side, and a question mark on the other side to indicate the unit's \"untried\" status, making it the first game to have this feature. Units are initially deployed as untried, and only when they are committed to combat is their true strength revealed.\n\nOn each turn players may move all, some or none of their units through a number of hexes equal to or less than its movement rating allows. After movement is completed units that are adjacent to enemy units may engage in combat. Combat strengths are totaled for all participating units on each side and the relative strengths are expressed as a simplified odds ratio. A 6-sided die is rolled and the appropriate odds column is consulted to determine the combat result. Combat may result in retreats and/or losses to attacker, defender or both.\n\nInvasion: America includes six different scenarios lasting 8 turns and a campaign game of 60 turns. Each turn of the game represents one month. Scenario instructions define each side's order of battle and initial deployment, their unit replacement rates and victory conditions. Victory is determined by control of urban, supply and resource hexes that yield victory points.\n\nInvasion: America was a popular game for SPI and led to a larger, more complicated sequel in 1978, Objective Moscow, in which it was the Soviet Union that was being invaded.\n\n",
+    "image": "https://cf.geekdo-images.com/etTnHS86JZemZSVK33Et0Q__original/img/5kCR2B7X5YouOF_zWRakpw8rOoQ=/0x0/filters:format(jpeg)/pic178463.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/etTnHS86JZemZSVK33Et0Q__small/img/GkA35RusnRu0UzzN1G82AW6AO3U=/fit-in/200x150/filters:strip_icc()/pic178463.jpg",
+    "link": "https://boardgamegeek.com/thing/3572",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "1976",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      1,
+      3
+    ],
+    "averageRating": "6.67291",
+    "averageWeight": "3.1786",
+    "boardGameRank": "9461",
+    "mechanics": [
+      "Hexagon Grid",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Modern Warfare",
+      "Wargame"
+    ],
+    "designers": [
+      "Jim Dunnigan"
+    ]
+  }
+}

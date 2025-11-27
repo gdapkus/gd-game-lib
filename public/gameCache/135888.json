@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:03:23.932Z",
+  "gameDetails": {
+    "id": "135888",
+    "name": "Titanium Wars",
+    "type": "boardgame",
+    "description": "When venturing in Limbo at the edge of the galaxy, scouts found a new form of energy: Titanium. First experiments showed it could push back the frontiers of technology, and even open new horizons for human capabilities. This news was more than enough to stir up the greed of humankind's greatest factions. Each has sent fleets to take over nearby planets where Titanium is abundant &ndash; and even seems to be in constant expansion. From that point on, armed conflicts were bound to happen, and this war will be settled only by controlling the Titanium deposits...\n\nAs leaders of these great factions in Titanium Wars, players will purchase buildings to master new technologies and increase their earnings, build their own fleet of custom battleships to defeat their opponents, and expand their space empire. They will have to prove bold, insightful and tactful if they want any chance to win this fierce war.\n\n",
+    "image": "https://cf.geekdo-images.com/jZ2hYfcomfHxXrKTAUl-1A__original/img/FJMXcIb1zuq3g49ujQlf0XqsYMc=/0x0/filters:format(jpeg)/pic1528436.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jZ2hYfcomfHxXrKTAUl-1A__small/img/evfKThze-6QkyHRUPIVKaUYDXcg=/fit-in/200x150/filters:strip_icc()/pic1528436.jpg",
+    "link": "https://boardgamegeek.com/thing/135888",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.1526",
+    "averageWeight": "2.4",
+    "boardGameRank": "8621",
+    "mechanics": [
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Negotiation",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Frédéric Guérard"
+    ]
+  }
+}

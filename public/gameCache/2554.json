@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:49:16.069Z",
+  "gameDetails": {
+    "id": "2554",
+    "name": "Auf Fotosafari in Ombagassa",
+    "type": "boardgame",
+    "description": "Players are on safari and are given 'photo cards' with a group of animals on. Each player tries to move the animals around the water holes to match the animals on their cards while at the same time trying to move their jeep into a photo taking position. Players also have the chance to take photos from two of their opponents' jeeps as well. First player to snap all their photos wins.\n\n",
+    "image": "https://cf.geekdo-images.com/gwqkbU06SbaOLKw_LgwX3A__original/img/Yawf03WmkghJf7j3scfU61VSIDo=/0x0/filters:format(jpeg)/pic414795.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gwqkbU06SbaOLKw_LgwX3A__small/img/qcqZW-AGRDcMyGwGuqH_v_F3qFw=/fit-in/200x150/filters:strip_icc()/pic414795.jpg",
+    "link": "https://boardgamegeek.com/thing/2554",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "1985",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.81076",
+    "averageWeight": "1",
+    "boardGameRank": "14859",
+    "mechanics": [],
+    "categories": [
+      "Animals",
+      "Racing"
+    ],
+    "designers": [
+      "Reinhold Wittig"
+    ]
+  }
+}

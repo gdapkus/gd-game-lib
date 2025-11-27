@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:18:14.558Z",
+  "gameDetails": {
+    "id": "290484",
+    "name": "Unsettled",
+    "type": "boardgame",
+    "description": "Lost amidst the surreal and bizarre unknowns of the far reaches of the cosmos, your crew of explorers must pull together to discover the resources necessary to survive the long journey home.\n\nUnsettled is a 2-4 player cooperative survival adventure set in the wondrous and unnerving fringes of uncharted space. There are no enemies and no combat, only an environment where every step, every breath, every particle around you could mean immediate, terrifying, death. Enemies are the least of your concerns.\n\nIn these incredible conditions you must complete a series of tasks necessary to your continued survival. Perhaps the water reclamation system on the ship needs repair, or (as usual) food supplies are running low. Before you lies a strange alien landscape - it&rsquo;s up to you to complete these tasks using&hellip;whatever you find out there.\n\nEach time you play you will have a different combination of survival tasks to complete and the things you discover (and their weird properties) will be different as well. So while you always start out knowing what problems you need to solve you have no idea how you&rsquo;re going to use the world before you to do so (or what the world is going to do to you while you try).\n\nAs you explore the environment, encountering wild & unique opportunities along the way, you will work closely with the rest of your crew to achieve your goal of continued existence. The only thing you can be sure of is each other; lose that trust and you&rsquo;ll lose all hope of survival.\n\n&mdash;description from the designer\n\nThis core set comes with 2 planets, Planet 001-Wenora and Planet 002-Grakkis, which are not available individually.\n\nEmbrace your fungal hosts and discover mind-bending abilities beyond your imagination or be absorbed forever. Unsettled: Wenora is the 1st planet box for \"Unsettled\".\n\nWenora is a bizarre and wondrous fungal jungle teeming with alien vegetation and gargantuan spore-based lifeforms.\n\nGrowth in this place is of a scale beyond any we've encountered. Life drips and pulsates disturbingly, mysterious pastes and powders covering most of the planet's crawling surfaces. Simply traversing the land is deeply unnerving, yet awe inspiring all the same. Tentacles, toxic spores and an alarming array of suction cups abound.\n\nThings you may find here:\n\n     Electromagnetic Polypores\n     Incandescent Slime\n     Floating Tentacle Knots\n     Screaming Glow Frogs\n     Telekinetic Microbe Clouds\n\n\nDiscover pathways to the skies to escape violent storms and enormous creatures that haunt the surface. Unsettled: Grakkis is the 2nd planet box for \"Unsettled\".\n\nGrakkis is a sand-swept desert ruins. What was once a massive planet-wide forest of unfathomably large trees is now that forest's graveyard - all the trees having long since petrified to a stone-like state. Some have crumbled into interesting formations. Some had rotted before petrifying, creating strange caves and crevices, many of them thousands of feet above ground. Colossal alien lifeforms, disturbing in their appearance, wander the wasteland. They tower horrifyingly in the distance like gods in some waking existential nightmare.\n\nThings you may find here:\n\n     Musical Stonewood Formation\n     Falling Stone-Fruit Bombs\n     Bioluminescent Paste\n     Blooming Geodes\n     Gaseous Sand Storms\n\n\n",
+    "image": "https://cf.geekdo-images.com/ldAjb0-puj6iiMZO0xuJtw__original/img/kkWT405tYN-PpRDL5oLjJVok19M=/0x0/filters:format(jpeg)/pic5106065.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ldAjb0-puj6iiMZO0xuJtw__small/img/KX2h7qhPJLV94t8vBkHUO1CjpOE=/fit-in/200x150/filters:strip_icc()/pic5106065.jpg",
+    "link": "https://boardgamegeek.com/thing/290484",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.07991",
+    "averageWeight": "3.2756",
+    "boardGameRank": "467",
+    "mechanics": [
+      "Action Retrieval",
+      "Cooperative Game",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Tech Trees / Tech Tracks",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Game System",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Tom Mattson",
+      "Marc Neidlinger"
+    ]
+  }
+}

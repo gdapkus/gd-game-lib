@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:10:15.693Z",
+  "gameDetails": {
+    "id": "27962",
+    "name": "The Yacht Race Game",
+    "type": "boardgame",
+    "description": "From Margaret Hofer's Book 'The Games We Played'.\n\nThe setting for this game The Yacht Race Game is New York Harbor where boats sail in the shadows of the Statue of Liberty, the Brooklyn Bridge, and Governor's Island. The course itself is divided into sections or spaces numbered from 1 to 83 inclusive, the connection on the return is taken up at space 63. The outside course is only to be used in case of a tie.\n\nThe course: The yachts start at square 1 and proceed along the course and around the lightship following spaces as they are listed reaching space 88 and then passing to space 63 to go back on the home stretch returning to space 11 which is located between buoy 15 and the Flagship boat which is the finish line.\n\n",
+    "image": "https://cf.geekdo-images.com/QR8sOXRBZoNsdquioxaFTg__original/img/_zbAvOFQEZLKBq-aYs00XS4enb8=/0x0/filters:format(jpeg)/pic1482643.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QR8sOXRBZoNsdquioxaFTg__small/img/TbV5PdjPJDbbs2KJPPJnBKeQzJQ=/fit-in/200x150/filters:strip_icc()/pic1482643.jpg",
+    "link": "https://boardgamegeek.com/thing/27962",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1887",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "0",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

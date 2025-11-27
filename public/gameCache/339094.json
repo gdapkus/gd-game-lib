@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:12:20.485Z",
+  "gameDetails": {
+    "id": "339094",
+    "name": "Marvel United: X-Men – First Class",
+    "type": "boardgameexpansion",
+    "description": "X-Men: First Class is a Kickstarter Exclusive expansion that brings the first appearance of the X-Men to life! Go back to the first days of Xavier&rsquo;s School for Gifted Youngsters and play with the original incarnation of these iconic Heroes and Villains. These characters not only have game pieces that reflect their classic looks, but also their game mechanics reflect a less experienced and more &ldquo;raw&rdquo; version of them. The Maximoff twins, Scarlet Witch and Quicksilver, form a unique villainous duo, working together to bring down the Heroes. And finally, the set of Locations contained in this expansion also bring the Danger Room, a special Location attachment that gives Heroes access to special Training!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/caWlpyrzP5wdaJr-VPQOyw__original/img/AGEay-SmrtkYkX0cVVwnT6XB2ak=/0x0/filters:format(jpeg)/pic7365034.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/caWlpyrzP5wdaJr-VPQOyw__small/img/TCz-pox2qj4nTkOu6ZOXyOQWi3g=/fit-in/200x150/filters:strip_icc()/pic7365034.jpg",
+    "link": "https://boardgamegeek.com/thing/339094",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.19565",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

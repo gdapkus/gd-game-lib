@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:25:01.538Z",
+  "gameDetails": {
+    "id": "103402",
+    "name": "Cranium Brain Breaks",
+    "type": "boardgame",
+    "description": "Cranium Brain Breaks is a purple brain shaped box with 200 one-minute mini games! Fast, frantic fun that will have your family acting, sketching, sculpting, and word puzzling as you race together to beat the timer. With 200 different activities.\n\nCranium Brain Breaks features lots of activities as seen in other Cranium games, such as sketching, sculpting, acting, humming, word puzzles and more.\n\n(Promo material with sales pitch removed)\n\n",
+    "image": "https://cf.geekdo-images.com/clEod8cWRM-ovwaXC1gg8w__original/img/9B1-i-tDN6_zTsOypqIAtcN-Vtw=/0x0/filters:format(jpeg)/pic1106862.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/clEod8cWRM-ovwaXC1gg8w__small/img/ORcD-mwINR_7yfHd7qrGBYQClNI=/fit-in/200x150/filters:strip_icc()/pic1106862.jpg",
+    "link": "https://boardgamegeek.com/thing/103402",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2010",
+    "playingTime": "1",
+    "minPlayingTime": "1",
+    "maxPlayingTime": "1",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "4.38372",
+    "averageWeight": "1",
+    "boardGameRank": "28925",
+    "mechanics": [
+      "Acting",
+      "Line Drawing",
+      "Paper-and-Pencil",
+      "Singing",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Party Game",
+      "Puzzle",
+      "Trivia",
+      "Word Game"
+    ],
+    "designers": []
+  }
+}

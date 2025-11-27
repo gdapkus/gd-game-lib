@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:09:43.214Z",
+  "gameDetails": {
+    "id": "436126",
+    "name": "Finspan",
+    "type": "boardgame",
+    "description": "You are a marine researcher seeking to find and observe an array of aquatic life in the colorful Sunlight Zone, ghostly Twilight Zone, and pitch-black Midnight Zone of the world's seas and oceans. In Finspan, the fish you discover over four weeks will generate a series of benefits as you dive deeper into the ocean.\n\nEach dive site specializes in a key aspect of expanding your research:\n\n\n     Grow your collection of fish.\n     Discover freshly laid eggs.\n     Hatch eggs into young and consolidate young to form schools.\n\n\nThe winner is the player with the most points gained from fish, eggs, young, schools, and achievements.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/BBefMnVYBDS3EbJ9fPaC8A__original/img/E2VsUBa6HUU0QKlp4eQOsbP1wUo=/0x0/filters:format(jpeg)/pic8634453.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BBefMnVYBDS3EbJ9fPaC8A__small/img/Wo2snzBQJMaVXkFdYl-zXL8PrbA=/fit-in/200x150/filters:strip_icc()/pic8634453.jpg",
+    "link": "https://boardgamegeek.com/thing/436126",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.69378",
+    "averageWeight": "2.3158",
+    "boardGameRank": "610",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Once-Per-Game Abilities",
+      "Solo / Solitaire Game",
+      "Tags"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "David Gordon (I)",
+      "Michael O'Connell (II)"
+    ]
+  }
+}

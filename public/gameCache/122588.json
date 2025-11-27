@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:25:30.162Z",
+  "gameDetails": {
+    "id": "122588",
+    "name": "Dungeon Command: Sting of Lolth",
+    "type": "boardgame",
+    "description": "Dungeon Command: Sting of Lolth is a card-driven skirmish game played on modular interlocking map tiles that uses order cards, creature cards and miniatures. The object of the game is to have the highest remaining Morale when an opposing warband's Morale has been reduced to 0 or below, or if a player ends his or her turn with no creatures on the battlefield.\n\nAs a player, you take on the role of a commander, sending a warband to battle the forces arrayed against you. You recruit troops and deploy them on the battlefield. You issue orders to those creatures, outfit them with spells and equipment, and direct their tactics to break the morale of your enemies and drive them from the field.\n\nDungeon Command: Sting of Lolth includes twelve miniatures, such as an assassin, a priestess, a wizard, spiders, and drow house guards. While each Dungeon Command faction is meant to be played by a single player, quick-start rules allow two players to engage in a shortened version of the game using only one box. Dungeon Command is designed for two players, although up to four can play with a few adjustments explained under the advanced rules.\n\nIntegrates with:\n\n    Dungeon Command: Blood of Gruumsh\n    Dungeon Command: Curse of Undeath\n    Dungeon Command: Sting of Lolth\n    Dungeon Command: Tyranny of Goblins\n    Dungeon Command: Heart of Cormyr\n\n\nCan also integrate with:\n\n    Dungeons & Dragons: Castle Ravenloft Board Game\n    Dungeons & Dragons: The Legend of Drizzt Board Game\n    Dungeons & Dragons: Wrath of Ashardalon Board Game\n    Dungeons & Dragons: Temple of Elemental Evil Board Game\n    Dungeons & Dragons: Tomb of Annihilation Board Game\n    Dungeons & Dragons: Waterdeep – Dungeon of the Mad Mage Board Game\n    Dungeons & Dragons: Ghosts of Saltmarsh Board Game\n\n\n",
+    "image": "https://cf.geekdo-images.com/lHBMWCnZHwvw2Mgr1jX7mg__original/img/j3tjK9unaVkdonyGrB7Bqr31Cks=/0x0/filters:format(jpeg)/pic1314558.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lHBMWCnZHwvw2Mgr1jX7mg__small/img/GIYrhHWPxB-MqRnMqTBAqLHRBsw=/fit-in/200x150/filters:strip_icc()/pic1314558.jpg",
+    "link": "https://boardgamegeek.com/thing/122588",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2012",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.29186",
+    "averageWeight": "2.6226",
+    "boardGameRank": "3317",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Hand Management",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Miniatures",
+      "Wargame"
+    ],
+    "designers": [
+      "Chris Dupuis",
+      "Peter Lee",
+      "Kevin Tatroe",
+      "Rodney Thompson"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:08:18.064Z",
+  "gameDetails": {
+    "id": "18580",
+    "name": "Skallywaggs",
+    "type": "boardgame",
+    "description": "From the publisher:\n\nBe the first to set sail by building a crew of rascally rogues before your opponents can complete their own collection of misfits. You'll need both luck and skill. But beware! This is Skallywaggs, and every pirate worth his parrot knows the tide is quick to turn. There's Scurvy, Hurricanes, and Cursed Sailors aboard, and if you can't batten the hatches your skallywaggs may be hauled off in irons or sent to Parley with Davy Jones.\n\nThe game comes complete in one box, with all 120 cards, and instructions for two to four players. The deck consists of 90 unique, wonderfully illustrated body parts (30 heads, 30 chests, 30 legs) that fit together to build thousands of different characters, and 30 event cards that add peril to every turn. Skallywaggs is a sure hit for hours of cutthroat fun.\n\n",
+    "image": "https://cf.geekdo-images.com/2b_O2ZyYLo9DRbruBngtKw__original/img/PrQmsjCcs--2Gya4Z0kOu2-XVlc=/0x0/filters:format(png)/pic2620972.png",
+    "thumbnail": "https://cf.geekdo-images.com/2b_O2ZyYLo9DRbruBngtKw__small/img/JlyiDRt9QNugbq4BFR9Dl0xk-TU=/fit-in/200x150/filters:strip_icc()/pic2620972.png",
+    "link": "https://boardgamegeek.com/thing/18580",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "5.77627",
+    "averageWeight": "1.7778",
+    "boardGameRank": "20080",
+    "mechanics": [
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Pirates"
+    ],
+    "designers": [
+      "Ben Crenshaw",
+      "Chris Pallace"
+    ]
+  }
+}

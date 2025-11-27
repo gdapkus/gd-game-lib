@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:30:40.252Z",
+  "gameDetails": {
+    "id": "143519",
+    "name": "Quantum",
+    "type": "boardgame",
+    "description": "Send out the scouts! Position the Flagship in tactical orbit! And reconfigure that Battlestation into something new! Your fleet of loyal ships, powered by the might of quantum  probability itself, carries your empire to the far-flung stars. How will history remember you? As a ravenous destroyer? A clever tactician? A dauntless explorer? Command your armada, construct world-shattering technologies, and rally the remnants of humanity for a final confrontation.\n\nIn Quantum, each player is a fleet commander from one of the four factions of humanity, struggling to conquer a sector of space. Every die is a starship, with the value of the die determining the movement of the ship, but also its combat power - with low numbers more powerful. So a [ 6 ] is a quick but fragile Scout and a [ 1 ] is a slow but mighty Battlestation.\n\nEach type of ship also has a special power that can be used once per turn: Destroyers can warp space to swap places with other dice and Flagships can transport other ships. These powers can be used in combination for devastating effects. You're not stuck with your starting ships, however: using Quantum technology, you can spend actions to transform (re-roll) your ships. Randomness plays a role in the game, but only when you want: Quantum is very much a strategy game.\n\nYou win by constructing Quantum Cubes - massive planetary energy extractors. Each time you build a new one, you can expand your fleet, earn a new permanent ability, or take a one-time special move. The board itself is made out of modular tiles, and you can play on one of the 30 layouts that come with the game or design your own. The ship powers, player abilities, and board designs combine to create a limitless set of possibilities for how to play and strategies for how to win.\n\nWith elegant mechanics, an infinity of scenarios, and easy-to-learn rules that lead to deep gameplay, Quantum is a one-of-a-kind game of space combat, strategy and colonization that will satisfy both hard-core and casual players.\n\nQuantum won the 2012 Game Design Award at the IndieCade Festival of Independent Games, as a prototype game with the title Armada d6.\n\n",
+    "image": "https://cf.geekdo-images.com/Bgle3gjd2wTrD31ps_z92w__original/img/VWKSSnMFxzSIdQ7W6hrdw_VCKmI=/0x0/filters:format(jpeg)/pic1727619.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Bgle3gjd2wTrD31ps_z92w__small/img/bjSkZpezCxJBqtucXslJAX2laKA=/fit-in/200x150/filters:strip_icc()/pic1727619.jpg",
+    "link": "https://boardgamegeek.com/thing/143519",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.22375",
+    "averageWeight": "2.4764",
+    "boardGameRank": "750",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Square Grid"
+    ],
+    "categories": [
+      "Dice",
+      "Fighting",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Eric Zimmerman"
+    ]
+  }
+}

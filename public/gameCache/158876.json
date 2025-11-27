@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T19:33:21.136Z",
+  "gameDetails": {
+    "id": "158876",
+    "name": "British vs Pirates: Volume 1",
+    "type": "boardgame",
+    "description": "British Vs Pirates is a miniature ship combat board game set during the golden age of piracy. Strategically sail your ship into favorable positions, play skill cards, roll dice and unleash hellish broadsides to send the enemy to the crushing depths! Be aware of your ship's strengths and weaknesses. Sail her correctly and you will be rewarded with victory. The faction with the last ship afloat wins!\n\n",
+    "image": "https://cf.geekdo-images.com/oadejvaNwZHisn4HdiXXkA__original/img/DZLPtFo4faz3LfnvoCsj3m2M1vE=/0x0/filters:format(jpeg)/pic4668855.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oadejvaNwZHisn4HdiXXkA__small/img/5EVqS7CZtmzV0MEiQ1cunWZSg3o=/fit-in/200x150/filters:strip_icc()/pic4668855.jpg",
+    "link": "https://boardgamegeek.com/thing/158876",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.10255",
+    "averageWeight": "2.5",
+    "boardGameRank": "11631",
+    "mechanics": [
+      "Dice Rolling",
+      "Modular Board"
+    ],
+    "categories": [
+      "Miniatures",
+      "Napoleonic",
+      "Nautical",
+      "Pirates"
+    ],
+    "designers": [
+      "Apollo Randall"
+    ]
+  }
+}

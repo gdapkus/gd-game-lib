@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-11-26T20:30:31.235Z",
+  "gameDetails": {
+    "id": "19554",
+    "name": "Plext",
+    "type": "boardgame",
+    "description": "from the rule book:\n\nPlext: The Game of Few Words\n\nThe object of Plext is to find as few words as possible that contain, in order, the 14 letter dice.  Make a low bid to prove your vocabulary skills.  If you prove your bid is correct, you score points!  If you are not correct, the next lowest bidder will have a chance at the points.  After 8 rounds the player who has the most points wins!\n\n",
+    "image": "https://cf.geekdo-images.com/k4zVrjwzsU6cQwxZdS3dOw__original/img/4_0X4X9hjkSMB6Ya_FmB2ztQaQY=/0x0/filters:format(jpeg)/pic4191924.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/k4zVrjwzsU6cQwxZdS3dOw__small/img/PZGuBd9WXgh5u74IeDAFbAOWE18=/fit-in/200x150/filters:strip_icc()/pic4191924.jpg",
+    "link": "https://boardgamegeek.com/thing/19554",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2005",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "6.20746",
+    "averageWeight": "2.0909",
+    "boardGameRank": "19605",
+    "mechanics": [],
+    "categories": [
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "Chris Handy (I)"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:32:27.199Z",
+  "gameDetails": {
+    "id": "160669",
+    "name": "Town Center (Fourth Edition)",
+    "type": "boardgame",
+    "description": "In Town Center, players build a city &ndash; in particular, the town center. They add cubes on their personal board and try to arrange them as best as possible in order to score the most victory points. Each cube represents a different type of module. Flats, shops, offices, generators, lifts, car parks, town hall can be built and stacked during the course of the game. Each module generates influence on adjacent land and on cubes directly below or above.\n\nEach round, players will draft two cubes of various colors, build them on their game board, then eventually stack them in order to make towers according to the building rules. If the players have done their job well, some modules will evolve, becoming bigger in three dimensions. The last phase is an income phase in which players gain money from the shops and parking lots if they are supplied with electricity.\n\nThe bigger and higher your city is, the more victory points players will have at the end of the game, which lasts ten rounds &ndash; but do not forget to provide electricity to all your flats, shops, and lifts to make them more efficient.\n\n\nChanges in the fourth edition:\n\nHas a new alternative (two by four) map printed on the reverse of the boards.\n\nContains the Central Park solo board, previously released separately as the Manhattan t-shirt, on the back of the central board.\n\nHas a bigger box that now fits all the cubes comfortably, and has space for expansions.\n\nHas a bigger rulebook, in separate languages, with updated rules, including rules for up to 8 players to play together by combining two sets of the game.\n\n16 player cubes in 8 colors in each box to allow for games with more than 4 players, by combining 2 copies of Town Center.\n\nRevamped player maps with wider streets that are compatible with future planned expansions.\n\nAdded central board with a track around it, a simpler method to track income and points.\n\nImproved player aid that now includes Phase V (in Editions 1&ndash;3, Phases IV and V were both encompassed in Phase IV) and more detail in Phase I explanation.\n\nDoubled the size of the cloth bag - now all cubes can all be stored in it without spilling out, and there's space for enough cubes for 5-8 players to be pulled from it.\n\nNote: You need two copies of the same edition* (or a copy of the 3rd edition and a copy of the 4th edition) to play with up to 8 players. Each copy contains enough building cubes and player boards for up to 4 players.\n\n* 3rd and 4th edition are the only 2 editions with the same size of cubes. 1st edition's much smaller cubes, 2nd editions LEGO bricks, and Deluxe edition's way larger cubes are not compatible with the 3rd and 4th edition cubes; the 5&ndash;8-player rules require all players to select their cubes from the same draft towers.\n\n",
+    "image": "https://cf.geekdo-images.com/FQmul7o9QFk1ALQegMa10w__original/img/nRDu0YS0WxUaeYSSX0MdFp4uHTs=/0x0/filters:format(jpeg)/pic2059391.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FQmul7o9QFk1ALQegMa10w__small/img/m8Xvv0c00KiU45cVbmcRJmrdM78=/fit-in/200x150/filters:strip_icc()/pic2059391.jpg",
+    "link": "https://boardgamegeek.com/thing/160669",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      1,
+      3
+    ],
+    "averageRating": "6.7415",
+    "averageWeight": "3.2778",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "City Building"
+    ],
+    "designers": [
+      "Alban Viard"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:58:30.482Z",
+  "gameDetails": {
+    "id": "30630",
+    "name": "Monopoly: Harley-Davidson Legendary Bikes",
+    "type": "boardgame",
+    "description": "From the Manufacturer:\n\nThe ultimate board game and a must have collectible for the Harley-Davidson enthusiast, this game incorporates buying, selling and trading the all-time greatest motorcycles in a quest to own the most legendary bikes in Harley-Davidson history.\n\n",
+    "image": "https://cf.geekdo-images.com/lnUIJxegEO5y1hdTfnODcg__original/img/mhcAFea3I9Sv2pASMy2GY3b94BE=/0x0/filters:format(jpeg)/pic199313.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lnUIJxegEO5y1hdTfnODcg__small/img/qvO56fbBoQj45ODGMEZVyJ54WmM=/fit-in/200x150/filters:strip_icc()/pic199313.jpg",
+    "link": "https://boardgamegeek.com/thing/30630",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "5.5",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Player Elimination",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Trading"
+    ],
+    "categories": [
+      "Economic",
+      "Negotiation"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

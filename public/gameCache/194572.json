@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:17:05.157Z",
+  "gameDetails": {
+    "id": "194572",
+    "name": "Statecraft: The Political Card Game – National Politics Expansion (UK & USA)",
+    "type": "boardgameexpansion",
+    "description": "The first expansion for Statecraft - the Political Card Game.\n\nNational Politics adds in a real dimension to the world of Statecraft, with contemporary and historical policies, characters, events and actions available to exploit in your nefarious political campaigns to dominate whichever nation you've surged to the fore in.\n\nNational Politics (UK & USA) contains 27 cards which fully integrate with the core Statecraft set, and offers players further customisation of their starting set up, as well as new policies and actions to field in-game.\n\n",
+    "image": "https://cf.geekdo-images.com/2m2aaaoFPDzPML_Wd-Hifg__original/img/PtLCNTAmJHlz9rhas6bB4A4fGyg=/0x0/filters:format(jpeg)/pic2911569.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2m2aaaoFPDzPML_Wd-Hifg__small/img/tqClPp_aZPrb5Yp59zV3bE5Zjc4=/fit-in/200x150/filters:strip_icc()/pic2911569.jpg",
+    "link": "https://boardgamegeek.com/thing/194572",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "60",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "6.59524",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Card Game",
+      "Educational",
+      "Expansion for Base-game",
+      "Political"
+    ],
+    "designers": [
+      "Peter Blenkharn"
+    ]
+  }
+}

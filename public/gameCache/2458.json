@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:24:07.157Z",
+  "gameDetails": {
+    "id": "2458",
+    "name": "Battle Cattle: The Card Game",
+    "type": "boardgame",
+    "description": "Like Car Wars: The Card Game, Battle Cattle: The Card Game will be a standalone game, with everything you need in one package. And the two games will be completely compatible, allowing you to take your souped-up hot rods out gunning for Bessie... but this time, Bessie shoots back!  Six Cow cards and 112 Moo-ve cards, all full-color, and a rules sheet.\n\n",
+    "image": "https://cf.geekdo-images.com/fts6_kAReMYEyZp58iybSg__original/img/Uht2qTWCV2xZtvCbsDNUr1VxeGM=/0x0/filters:format(jpeg)/pic413597.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fts6_kAReMYEyZp58iybSg__small/img/sfBXroP9t4g9_Hm5UPPvpFVrzYk=/fit-in/200x150/filters:strip_icc()/pic413597.jpg",
+    "link": "https://boardgamegeek.com/thing/2458",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2001",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "5.38284",
+    "averageWeight": "1.2667",
+    "boardGameRank": "28233",
+    "mechanics": [
+      "Campaign / Battle Card Driven"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Fighting"
+    ],
+    "designers": [
+      "Aldo Ghiozzi",
+      "Philip Reed"
+    ]
+  }
+}

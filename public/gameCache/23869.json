@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:54:32.719Z",
+  "gameDetails": {
+    "id": "23869",
+    "name": "The Glass Bead Game",
+    "type": "boardgame",
+    "description": "The Glass Bead Game was created by the Dutch game inventor Christian Freeling in the late 1970s. It was named after the final novel of the German writer Hermann Hesse which was published in 1943 (\"Das Glasperlenspiel\"). Hesse was put on the Black List of the Nazis while living as a refugee in Switzerland. After continental Europe was liberated, Hesse was awarded the Nobel Prize in Literature in 1946. Freeling's game is one of many conceptualizations that were inspired by Hesse's novel.\n\nThe game differs from most traditional Mancala games in having counters with different values. Another unusual concept of the game is that there are two types of capturing (direct and indirect). The game can be played online at Freeling's homepage.\n\n",
+    "image": "https://cf.geekdo-images.com/sf-ksH7lD3rVQ7p5rcdQRw__original/img/dv4oRpmaPISMnh_ahLd7Frdvh1c=/0x0/filters:format(jpeg)/pic202493.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sf-ksH7lD3rVQ7p5rcdQRw__small/img/U_8U-XXD8pnzSWc21fSoTC9SbwQ=/fit-in/200x150/filters:strip_icc()/pic202493.jpg",
+    "link": "https://boardgamegeek.com/thing/23869",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1986",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.8125",
+    "averageWeight": "3.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Mancala"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Christian Freeling"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:28:24.531Z",
+  "gameDetails": {
+    "id": "26005",
+    "name": "HeroCard: Rise of the Shogun – Miko Expansion Deck",
+    "type": "boardgameexpansion",
+    "description": "Miko Expansion Deck\n\nThe Miko Matches her spiritual power with her mental and physical strength to fulfil her destiny.\n\nThe Miko is a HeroCard expansion deck for HeroCard Rise of the Shogun, an epic battle for feudal Japan. The Miko can compete in any HeroCard game or can be combined with other decks to create a customized character.\n\nExpands\n\n    HeroCard Rise of the Shogun\n\n\n",
+    "image": "https://cf.geekdo-images.com/grZcVFAfp_AHGxtdkNWZKA__original/img/Ys58wgwtMPLeFgG-GCEdnRGjRlQ=/0x0/filters:format(jpeg)/pic154249.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/grZcVFAfp_AHGxtdkNWZKA__small/img/lh2LyAte0Nl3IC4Nwvk40EogKPU=/fit-in/200x150/filters:strip_icc()/pic154249.jpg",
+    "link": "https://boardgamegeek.com/thing/26005",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2006",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.47959",
+    "averageWeight": "2.1429",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Fighting"
+    ],
+    "designers": [
+      "Alexei Othenin-Girard"
+    ]
+  }
+}

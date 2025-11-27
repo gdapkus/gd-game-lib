@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:54:17.416Z",
+  "gameDetails": {
+    "id": "137669",
+    "name": "Gearworld: The Borderlands",
+    "type": "boardgame",
+    "description": "The Sky People retreated above the clouds and left the Borderlands to crumble and decay. The old machines are rusted and broken and the scavengers of Gearworld live off scraps from the past and refuse from the Sky People's flying cities. The scavengers' only hope for a better life is to build great towering skyworks and gain the favor of the World Above, allowing them to outlast and outlive their rival scavenger gangs. In the Borderlands, survival is an exception.\n\nGearworld: The Borderlands is a game of conquest and survival in a post-apocalyptic world for 2-4 players who must gather resources and use them wisely. Players need those resources in order to strengthen their military might, to enhance their transport capabilities, and to reach the final goal of building the skyworks. Resources can be produced in areas with resource tokens, traded with other players, and taken by force. To build a development &ndash; e.g., weapons, transport vehicles or skyworks &ndash; all of the required resources have to be located in the same space on the map. This makes effective transport an important issue in the game. At the same time players must be strong enough to protect their resources from the other players while investing resources in their skyworks in order to win the game.\n\nSeize territory, marshal resources and defend yourself from your rivals. Reclaim the machines of old to build powerful weapons and enormous skyworks. Can you forge a new future from the rusted remnants of the past?\n\nMicrobadges:\n  \n[microbadge=28656 original inline] Gearworld: The Borderlands fan\n\n",
+    "image": "https://cf.geekdo-images.com/oHcJ4QVekO0AfFCa0gMW3w__original/img/reAjKND0iBCjZsGJKzzs2J1CGDU=/0x0/filters:format(jpeg)/pic1639632.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oHcJ4QVekO0AfFCa0gMW3w__small/img/L46oW_BTd71g53woKp0isDYbDvI=/fit-in/200x150/filters:strip_icc()/pic1639632.jpg",
+    "link": "https://boardgamegeek.com/thing/137669",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.47458",
+    "averageWeight": "2.8966",
+    "boardGameRank": "27541",
+    "mechanics": [
+      "Area Movement",
+      "Trading"
+    ],
+    "categories": [
+      "Industry / Manufacturing",
+      "Negotiation",
+      "Political",
+      "Science Fiction",
+      "Territory Building",
+      "Transportation",
+      "Wargame"
+    ],
+    "designers": [
+      "Bill Eberle",
+      "Jack Kittredge",
+      "Peter Olotka"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T19:31:26.832Z",
+  "gameDetails": {
+    "id": "37612",
+    "name": "Apples to Apples to Go",
+    "type": "boardgame",
+    "description": "This is a portable version of Apples to Apples, with 270 red apple cards and 90 green apple cards, in a magnet-snapped box with a handle.  All of the cards are new with this version.\n\nThe game is exclusive to Target stores and its partners (such as Amazon.com).\n\n",
+    "image": "https://cf.geekdo-images.com/zSk5El7tM8TJGH94EwC5ag__original/img/YydyxLLAeYaQTK55pjQIq7_dpkM=/0x0/filters:format(jpeg)/pic358618.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zSk5El7tM8TJGH94EwC5ag__small/img/5f3LMW7zgAzXvfjjcbhHRoxRM3E=/fit-in/200x150/filters:strip_icc()/pic358618.jpg",
+    "link": "https://boardgamegeek.com/thing/37612",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2007",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "5.67518",
+    "averageWeight": "1.0741",
+    "boardGameRank": "19999",
+    "mechanics": [
+      "Hand Management",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "Matthew Kirby"
+    ]
+  }
+}

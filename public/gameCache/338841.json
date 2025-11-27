@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:57:29.990Z",
+  "gameDetails": {
+    "id": "338841",
+    "name": "Lost Ruins of Arnak: The Search for Professor Kutil",
+    "type": "boardgameexpansion",
+    "description": "Find out what happened to professor Kutil and his missing team in this free, four-chapter solo campaign for Lost Ruins of Arnak. Available at https://www.czechgames.com/games/lost-ruins-of-arnak\n\nThe famous scholar's expedition vanished somewhere in the uncharted waters of the Pacific Ocean&mdash;while searching for a mysterious island nobody believed existed. It seems the professor may have found what he was looking for, but what happened to his expedition? Only scarce traces of the team&rsquo;s presence remain, but nothing truly explains where they are or what happened to them.\n\nDiscover the story of the lost expedition while beating your former student-turned-rival, who arrived on the island with her own unknown agenda, making your search for professor Kutil and his team more complicated.\n\nTo play the campaign, you will need a copy of Lost Ruins of Arnak and access to our free web application, which will guide you through the campaign setup, rules, and story. The app is playable on both computers and mobile devices. If you don&rsquo;t want to play the campaign with the app, you can print it out with a free print-and-play file.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/z4QtTBaabg2OCJfGNQ1x6g__original/img/NUFJwcD5FzTJoxEkSajWV_KDRO0=/0x0/filters:format(png)/pic6177915.png",
+    "thumbnail": "https://cf.geekdo-images.com/z4QtTBaabg2OCJfGNQ1x6g__small/img/pCv-Ojnr07dqZRdst7KtZDiOkGU=/fit-in/200x150/filters:strip_icc()/pic6177915.png",
+    "link": "https://boardgamegeek.com/thing/338841",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2021",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "8.58797",
+    "averageWeight": "2.95",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Scenario / Mission / Campaign Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Card Game",
+      "Exploration",
+      "Print & Play"
+    ],
+    "designers": [
+      "Elwen",
+      "Mín"
+    ]
+  }
+}

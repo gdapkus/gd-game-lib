@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:49:47.529Z",
+  "gameDetails": {
+    "id": "148531",
+    "name": "Beer Mug Dice",
+    "type": "boardgame",
+    "description": "The innkeeper of \"The Wild Boar\" tavern is a sly old dog! While they treat humble guests who don't ask for much to free rounds, for hard-drinking boozers they close the tap and keep the cool brew for themself.\n\nPolterfass is a dice-rolling game without dice! Yes, the dice have been replaced by small beer barrels, and the active player each round is the innkeeper who shares their brew with players who keep their requests modest.\n\nThe game includes nine barrels &mdash; two of them being special ones &mdash; that are rolled out of a dice cup. The normal barrel bases show numbers, while the special barrel bases show symbols that allow the innkeeper to double other values or cancel them. After each roll, only the values/symbols of \"standing\" barrels count.\n\nAfter the active player has rolled for the first time, the other players secretly place cards with numbers in front of them. The active player then decides whether to reroll, change the values, or end their turn. Once their turn ends, the guests reveal their cards and sum them. If the innkeeper's total is less than this sum, they win this round, keeping all the beer for themself while the guest with the highest card actually loses points! If the innkeeper's total is higher, each player scores the value of their played card, and the innkeeper keeps the rest.\n\nWhen one player has at least 75 points, the game ends, and the player with the most points wins!\n\n",
+    "image": "https://cf.geekdo-images.com/yiESulMf2-1Opb54BP9EJw__original/img/zrtp8jItPm_8UBZEor9bhUMd73s=/0x0/filters:format(jpeg)/pic8905595.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yiESulMf2-1Opb54BP9EJw__small/img/Jky78oJao0IHz1nb2FsrSSkW0iw=/fit-in/200x150/filters:strip_icc()/pic8905595.jpg",
+    "link": "https://boardgamegeek.com/thing/148531",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2013",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.38721",
+    "averageWeight": "1.5769",
+    "boardGameRank": "6847",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Dice"
+    ],
+    "designers": [
+      "Andreas Schmidt"
+    ]
+  }
+}

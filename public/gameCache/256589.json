@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:00:34.248Z",
+  "gameDetails": {
+    "id": "256589",
+    "name": "Rallyman: GT",
+    "type": "boardgame",
+    "description": "Rallyman: GT is a Roll and Move racing game that will have you rolling dice and pushing your luck to be the first over the finish line!\n\nWill you risk it all to win?\n\nTHE GAME\n\nThe base mechanics of Rallyman GT are simple. You have 6 Gear dice, representing the gears of your car. You'll be rolling these dice to move, and each one allows you to move 1 space along the track.\n\nThe dice must be rolled in ascending and/or descending order, and each die can only be rolled once per turn.\n\nYou also have a Coast dice that allow you to maintain your current speed, which can help you wring a few extra spaces of movement out of your turn.\n\nIf there's a sharp corner coming up, you can use Brake dice to drastically reduce your speed, but beware, they also make maneuvers more dangerous.\n\nEach die has a certain number of Warning symbols. If you get 3 in one roll, you'll spin out! Losing control of your car will lose you time and distance, and even causing damage to your vehicle.\n\nYou can choose to play it safe by rolling your dice one by one. If the warning symbols start stacking up, you can end your turn whenever you choose without suffering any consequences.\n\nRallyman GT is a fast, exciting racing game with simple mechanics and rules. The Hexagonal tiles allow players to create their own tracks in a flash.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/j60l2hVjQna2-Kwdsu2ZtA__original/img/1tzgj_xYONNVOYGRKQZGlCQdbCg=/0x0/filters:format(jpeg)/pic7976587.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/j60l2hVjQna2-Kwdsu2ZtA__small/img/_81nJAdHIw6p6Oim9oJuWXDIe-I=/fit-in/200x150/filters:strip_icc()/pic7976587.jpg",
+    "link": "https://boardgamegeek.com/thing/256589",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.1195",
+    "averageWeight": "2.2044",
+    "boardGameRank": "1270",
+    "mechanics": [
+      "Dice Rolling",
+      "Different Dice Movement",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Modular Board",
+      "Push Your Luck",
+      "Race",
+      "Roll / Spin and Move",
+      "Simulation",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Jean-Christophe Bouvier"
+    ]
+  }
+}

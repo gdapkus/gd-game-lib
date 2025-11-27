@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T19:31:29.789Z",
+  "gameDetails": {
+    "id": "361598",
+    "name": "At the Helm",
+    "type": "boardgame",
+    "description": "The sea is a dangerous place. Whether it&rsquo;s storms or sea serpents, you&rsquo;re putting your life on the line each time you set sail. Boldly face the challenges of the open ocean as you steer your ship into uncharted waters.\n\nAt the Helm is a heavy nautical theme game inspired by the old captain's ship logs. Often in these ship logs you'd see drawings and we used that as inspiration. It's solo and it's a deckbuilder.\n\nOver a series of turns, build a deck and use it to complete the three selected challenges before you run out of time or health. Turns proceed as follows:\n\n1. Choose 1 or 2 cards from your hand. For each chosen card, either resolve its ability and place it in the discard pile, or discard it (ignoring its ability).\n\n2. Resolve the effects of incomplete challenges.\n\n3. Draw cards form the deck until you have 3 cards in hand. Take 1 damage for each broken heart.\n\nIf the market and deck both run out of cards and you need to draw a card, or your health reaches the skull and bones, you lose the game.\n\nOtherwise, when you complete the win conditions of the selected challenges, you win the game!\n\n&mdash;description from the publisher\n\n\nA 15 minute game in which you captain your sailboat through various challenges of the open ocean.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/_xOWABFzrx3z4D1Ha1C5vQ__original/img/82dYqxZuP8SykMpguo2tREezAik=/0x0/filters:format(png)/pic7069688.png",
+    "thumbnail": "https://cf.geekdo-images.com/_xOWABFzrx3z4D1Ha1C5vQ__small/img/M5_RgQKXJWD5zf9EKMl5M68pjNA=/fit-in/200x150/filters:strip_icc()/pic7069688.png",
+    "link": "https://boardgamegeek.com/thing/361598",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2022",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.16752",
+    "averageWeight": "1.7692",
+    "boardGameRank": "5386",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Nautical",
+      "Print & Play"
+    ],
+    "designers": [
+      "Ted Heidersdorf"
+    ]
+  }
+}

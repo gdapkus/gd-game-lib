@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:02:49.925Z",
+  "gameDetails": {
+    "id": "434906",
+    "name": "Tag Team",
+    "type": "boardgame",
+    "description": "Inspired by classic arcade-fighting games, Tag Team is an auto battler combined with a deck-building game. Make your team of two fighters from the twelve available &mdash; each with their own techniques and special moves &mdash; and build an unbeatable synergy by combining their two unique decks!\n\nIn more detail, you start with a deck of only two cards, and the fight unfolds automatically: Flip your cards one at a time and apply their effects. At the end of each round, you get to turn up the heat on the opposing team by strategically adding new cards to program your deck &mdash; but without reordering the cards already present. Determine what makes your tag team tick, play devastating combos, and dominate your opponent by deftly blocking their attacks. Timing is everything if you want to emerge victorious and knock out your foe!\n\n",
+    "image": "https://cf.geekdo-images.com/sLSlzWRe8Ixnksqawkzb3Q__original/img/EylfRGx2qLzoQ3scqz19GPQYxo0=/0x0/filters:format(jpeg)/pic8805857.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sLSlzWRe8Ixnksqawkzb3Q__small/img/O9Kg90i8kSi8N2ndrOKXaTTrQXE=/fit-in/200x150/filters:strip_icc()/pic8805857.jpg",
+    "link": "https://boardgamegeek.com/thing/434906",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.75874",
+    "averageWeight": "2.0196",
+    "boardGameRank": "1737",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Gricha German",
+      "Corentin Lebrat"
+    ]
+  }
+}

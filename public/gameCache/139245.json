@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:25:13.392Z",
+  "gameDetails": {
+    "id": "139245",
+    "name": "Dilluvia Project",
+    "type": "boardgame",
+    "description": "Planet earth is overpopulated but recent technological developments open new possibilities &ndash; whole cities hovering high in the skies.\n\nThe first sky city was planned and named Dilluvia Project. Will it succeed, will it attract people living detached from their friends in the skies?\n\nIt is an important time for mankind!\n\nThe players are entrepreneurs managing the construction of this first sky-city. During seven game turns the main goal of the players is to attract new inhabitants to the city. Who is building the city most efficiently, who is attracting the most population and winning Dilluvia Project?\n\n",
+    "image": "https://cf.geekdo-images.com/6fgoKqdjn4JBfgVykPr6wA__original/img/zl7yIOKi3BUEj5QmTYDnFPXYVYc=/0x0/filters:format(jpeg)/pic2602443.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6fgoKqdjn4JBfgVykPr6wA__small/img/AasZiDHeaRZtlVi0tN7lDML-lmk=/fit-in/200x150/filters:strip_icc()/pic2602443.jpg",
+    "link": "https://boardgamegeek.com/thing/139245",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.14683",
+    "averageWeight": "3.6512",
+    "boardGameRank": "3997",
+    "mechanics": [
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "designers": [
+      "Alexandre Garcia"
+    ]
+  }
+}

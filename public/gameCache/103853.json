@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:31:02.297Z",
+  "gameDetails": {
+    "id": "103853",
+    "name": "Rattus: Jester Promo Card",
+    "type": "boardgameexpansion",
+    "description": "The Rattus promocard The Jester was especially developed for Boardgamegeek by designers &Aring;se and Henrik Berg. The card was published by Dutch board game publisher White Goblin Games. The card even stars Ernie, the mascot of Boardgamegeek.\n\nDuring the Middle Ages, it was the jester&rsquo;s task to entertain the people. So there&rsquo;s an obvious link between this card, the game and Boardgamegeek. Besides that, a jester is a funny and strange guy so this card also lets you do something funny and strange: The player who has the jester, is allowed to take 2 cubes from his supply in hands and drop them on the board from about 30 to 40 cm height. Where the cubes end, they will settle. The card can be combined with the base game, as well as with each and every expansion.\n\nThis card is a Boardgamegeek exclusive and will only be available from the Boardgamegeek store.\n\n",
+    "image": "https://cf.geekdo-images.com/DZ85OzhxmpEKe9-JXv6KFQ__original/img/zFWMk9h3srI9w5xROaH6wzwYNmY=/0x0/filters:format(jpeg)/pic1055536.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DZ85OzhxmpEKe9-JXv6KFQ__small/img/XbHvDS8bHzlX2nAfCbsQjrDbevM=/fit-in/200x150/filters:strip_icc()/pic1055536.jpg",
+    "link": "https://boardgamegeek.com/thing/103853",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.693",
+    "averageWeight": "1.7273",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Medieval"
+    ],
+    "designers": [
+      "Åse Berg",
+      "Henrik Berg"
+    ]
+  }
+}

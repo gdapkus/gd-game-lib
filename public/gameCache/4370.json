@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:53:24.056Z",
+  "gameDetails": {
+    "id": "4370",
+    "name": "Fische Fluppen Frikadellen",
+    "type": "boardgame",
+    "description": "What a fuss. The frightfully fearsome feudal lord Fieso has held the fascinating fairy Fabula in captivity since the famous February festivities. In order to free the fairy must you redeem her from the Fieso's fetid and fusty feculent fetter. Frustrated you flee into the Finnish fjords in order to fetch a few of the fascinating fetishes so highly favored by the foul prince. Frantically you begin bartering with the local folks: a few Florins will get you some Fish which can be traded for Flowers, which again can be traded for Fur, Fruits, Flutes, Fettucine, Furniture, Fuel, Fiddles or maybe even a fridge. When your finances allow you to obtain 3 different fetishes you have won the game.\n\nIn Fische Fluppen Frikadellen, players are traders running (or sailing on a raft!) around a town, visiting various market stalls in order to buy, sell, or trade goods.  There are three different types of stalls in the game.  Merchants will sell you a specific good of the 5 base goods in the game according to current market prices, and will also buy a specific good from you, also according to market prices.  Traders will accept a specific good and give you two of a specific good in return.  Finally, there are dealer stalls which offer fetishes.  They each want specific combinations of goods, offering you a fetish in return.  There are three different fetishes in the game, and the first player to trade for all three fetishes wins!\n\nFurthermore, whenever a player visits a market stall, a special ability of that stall activates.  These special abilities cause all sorts of game events, such as production of goods at merchants (you can't buy a good at a merchant if he doesn't have any available), price increases of goods, getting an extra turn or free commodity, changing the position of two merchants, etc.  Often times, players will need to utilize these special abilities to conquer their goals.\n\nThe really unique feature of Fische Fluppen Frikadellen is that there are three different versions of the game, so it can be played by up to 15 people on three different, interconnected tables!  You'll need one copy of the game for every 5 players.\n\nAt the start of a 15-player game, for example, there will be three boards, with 5 players at each board.  Each board is set up individually by the players starting there, and there are 36 merchants in the game with only 12 of them used per board, so it is very possible for each board to be significantly different than the others!  Furthermore, there will only be one of the three fetishes available at each board, so players will need to sail off to all three boards over the course of the game in order to win!  This means picking up all of your things and moving to a different table.\n\nYou aren't allowed to peek at the other tables before you move, which means it is a complete surprise what the market conditions and various stalls will be on the board that you move to.  This mechanic also means that there will not always be an equal amount of players at each board throughout the game, so players at boards with less players will likely get turns more frequently than players at boards with more players; another reason to leave your current board for a different one!\n\n",
+    "image": "https://cf.geekdo-images.com/5N36_BZn_y3ZY9ulKeyY1A__original/img/SOswxfD7C2iVEF1yUwnHtZ8radI=/0x0/filters:format(jpeg)/pic13744.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5N36_BZn_y3ZY9ulKeyY1A__small/img/sOoksEiEkznli47v_j1kgattGLo=/fit-in/200x150/filters:strip_icc()/pic13744.jpg",
+    "link": "https://boardgamegeek.com/thing/4370",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2002",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.58776",
+    "averageWeight": "2.5376",
+    "boardGameRank": "4275",
+    "mechanics": [
+      "Hand Management",
+      "Market",
+      "Movement Points",
+      "Multiple Maps",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Race",
+      "Resource to Move",
+      "Set Collection",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

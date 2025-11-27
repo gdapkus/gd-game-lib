@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:02:19.849Z",
+  "gameDetails": {
+    "id": "218074",
+    "name": "Detective: City of Angels",
+    "type": "boardgame",
+    "description": "Detective: City of Angels, set in the dark and violent world of 1940s Los Angeles, is a game of mystery, deception, and investigation for 1&ndash;5 players. Most players will step into the shoes of LAPD homicide detectives, hungry for glory and willing to do whatever it takes to successfully close a case, even if that means intimidating suspects, concealing evidence, and hiring snitches to rat on their fellow detectives. One player, however, will take on the role of The Chisel, whose only goal is to stall and misdirect the detectives at every turn using bluffing, manipulation, and (often) outright lies.\n\nDetective: CoA uses the innovative ARC (Adaptive Response Card) System to create the feel of interrogating a suspect. Suspects do not simply give paragraph-book responses; instead The Chisel carefully chooses how they will answer. When Billy O'Shea insists that the victim was a regular at Topsy's Nightclub, is he telling the truth or is The Chisel subtly leading the detectives toward a dead end that will cost them precious time? Detectives can challenge responses that they think are lies but at great risk: If they're wrong, The Chisel will acquire leverage over them, making the case that much harder to solve.\n\nDetective: CoA includes separate, detailed casebooks for both the detectives and The Chisel. Each crime is a carefully constructed puzzle that can unfold in a variety of ways depending on how the detectives choose to pursue their investigations. As the detectives turn the city upside down, uncovering fresh evidence and \"hot\" leads, hidden suspects may be revealed and new lines of questioning will open up, creating a rich, story-driven experience.\n\nInspired by classic film noir like The Big Sleep, the works of James Ellroy (L.A. Confidential), and the video game L.A. Noire from Rockstar Games, Detective: City of Angels is a murder-mystery game unlike any other. Will one detective rise above the rest and close the case on L.A.'s latest high profile murder? Or will The Chisel sow enough doubt and confusion to prevent the detectives from solving the crime?\n\n&mdash;description from the publisher\n\nA \"sleuth\" mode allows 1 or more players to play fully cooperatively, solving the cases together.\n\n",
+    "image": "https://cf.geekdo-images.com/xWdK1lL-2ZTdzBZGYjjqkw__original/img/952nbRCH-EE0TtcMD_Cpol0tRXQ=/0x0/filters:format(jpeg)/pic3469246.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xWdK1lL-2ZTdzBZGYjjqkw__small/img/wl_YxOhd-S6QbpyHAQZGhV109rw=/fit-in/200x150/filters:strip_icc()/pic3469246.jpg",
+    "link": "https://boardgamegeek.com/thing/218074",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "150",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.86991",
+    "averageWeight": "2.3605",
+    "boardGameRank": "632",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Cooperative Game",
+      "Team-Based Game",
+      "Traitor Game"
+    ],
+    "categories": [
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Evan Derrick"
+    ]
+  }
+}

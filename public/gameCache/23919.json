@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:51:08.563Z",
+  "gameDetails": {
+    "id": "23919",
+    "name": "China Rails",
+    "type": "boardgame",
+    "description": "Another addition to the venerable Empire Builder series of crayon rail games.  This time around, players are building track and making deliveries in The People's Republic of China and Taiwan.\n\nThis one is rather similar in to other Empire Builder games, plus have some unique events that are tailored to the map (i.e. Congress event).   Cards tend to indicate that one needs to venture out west to have any hope of getting the big payoffs.\n\n",
+    "image": "https://cf.geekdo-images.com/DnY4V4Af3abaklNCjC12zg__original/img/5RJeQsFS10Fch98W_nGS3QjO42A=/0x0/filters:format(jpeg)/pic223895.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DnY4V4Af3abaklNCjC12zg__small/img/uDI6LmHVbK09QFiAWAWljnsMGU0=/fit-in/200x150/filters:strip_icc()/pic223895.jpg",
+    "link": "https://boardgamegeek.com/thing/23919",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "240",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.05217",
+    "averageWeight": "2.7308",
+    "boardGameRank": "6595",
+    "mechanics": [
+      "Crayon Rail System",
+      "Hexagon Grid",
+      "Network and Route Building",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Michael Dreiling"
+    ]
+  }
+}

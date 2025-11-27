@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:07:47.437Z",
+  "gameDetails": {
+    "id": "353545",
+    "name": "Next Station: London",
+    "type": "boardgame",
+    "description": "The city of London has commissioned you to redesign its underground network! Optimise connections, serve as many sights as possible and exploit the tunnels that pass under the Thames. Be careful to respect the specifications set by the city.\n\n\n     Reveal the next Station card.\n     Draw a new section\n     Optimise the 4 tube lines\n\n\nWho will be the best project manager?\n\nWhich of you will be the best project manager?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/T-eq9Ux4gkmqfEXry8HC1w__original/img/FgPzhjwC0X0-6ZNLhowN8iccREA=/0x0/filters:format(jpeg)/pic9018430.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/T-eq9Ux4gkmqfEXry8HC1w__small/img/6OG1_bmI_3NkAeD-IT9dJnFHmmc=/fit-in/200x150/filters:strip_icc()/pic9018430.jpg",
+    "link": "https://boardgamegeek.com/thing/353545",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "30",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "7.42548",
+    "averageWeight": "1.4875",
+    "boardGameRank": "581",
+    "mechanics": [
+      "Bingo",
+      "Connections",
+      "End Game Bonuses",
+      "Line Drawing",
+      "Network and Route Building",
+      "Paper-and-Pencil"
+    ],
+    "categories": [
+      "City Building",
+      "Trains"
+    ],
+    "designers": [
+      "Matthew Dunstan"
+    ]
+  }
+}

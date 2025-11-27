@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:32:38.357Z",
+  "gameDetails": {
+    "id": "15412",
+    "name": "Tunebaya",
+    "type": "boardgame",
+    "description": "\"From the SimplyFun website\"\n\nTunebaya&trade;\nNo Previous Singing Experience Required\n\nYou Ain't Nothin' But a Hound Dog! &mdash; Did you just sing that out loud? Yes, and so did everyone else. When other players sing along, you and the other players score points. Match a song with someone else and score the big bonus. Everyone join in and sing Tunebaya!\n\nIncludes:\n100 Double-Sided Topic Cards\n7 Small Microphones\n1 Large Singing Microphone\n8 Pencils\n8 Scoreboards\n1 Pad of Answer Sheets\n1 Instruction Booklet\n1 FunMemories&trade; Booklet\n\n",
+    "image": "https://cf.geekdo-images.com/5zZd6E3dYYSnGoNPTtKW2Q__original/img/2HlO7b2BF92t4eYAmbbAgPozw0Q=/0x0/filters:format(jpeg)/pic2521129.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5zZd6E3dYYSnGoNPTtKW2Q__small/img/7d7oDyPoye2nPrcgEUeS2uKR1Yc=/fit-in/200x150/filters:strip_icc()/pic2521129.jpg",
+    "link": "https://boardgamegeek.com/thing/15412",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2005",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "5.54878",
+    "averageWeight": "1.1667",
+    "boardGameRank": "24655",
+    "mechanics": [
+      "Singing"
+    ],
+    "categories": [
+      "Party Game"
+    ],
+    "designers": [
+      "Michael Adams",
+      "Andrea Meyer",
+      "Peter Sarrett"
+    ]
+  }
+}

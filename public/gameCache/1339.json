@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:25:33.638Z",
+  "gameDetails": {
+    "id": "1339",
+    "name": "Dungeon!",
+    "type": "boardgame",
+    "description": "In many ways \"Dungeon!\" is similar to Dungeons & Dragons, although much simplified and transformed into a board game. Players explore a dungeon that is divided into levels of increasing difficulty, fighting monsters for valuable treasure. As players venture deeper into the dungeon, the monsters become more difficult and the treasure more valuable. Several character classes each have slightly different fighting abilities &ndash; most notably the wizard, who can cast spells. Combat is simulated using dice; players roll the dice to attack a monster, and if unsuccessful, the dice are rolled to determine the effect of the monster's counter-attack.\n\nThe winner is the first player to bring a certain amount of treasure back to the Dungeon's entrance.\n\nReimplemented by:\n\n\n    The Classic Dungeon\n    The New Dungeon\n\n\n",
+    "image": "https://cf.geekdo-images.com/fvhkcw4s6Q4-nMwwok1J6A__original/img/WJFmTRWQRzOInBnWAjH39F3RyMg=/0x0/filters:format(png)/pic6569894.png",
+    "thumbnail": "https://cf.geekdo-images.com/fvhkcw4s6Q4-nMwwok1J6A__small/img/zXW1s2ZXq1dZkvbAzYdr9o1xRNQ=/fit-in/200x150/filters:strip_icc()/pic6569894.png",
+    "link": "https://boardgamegeek.com/thing/1339",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "yearPublished": "1975",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.00352",
+    "averageWeight": "1.5531",
+    "boardGameRank": "5220",
+    "mechanics": [
+      "Area Movement",
+      "Critical Hits and Failures",
+      "Dice Rolling",
+      "Events",
+      "Grid Movement",
+      "Role Playing",
+      "Simulation",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "David R. Megarry"
+    ]
+  }
+}

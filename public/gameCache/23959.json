@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:14:24.598Z",
+  "gameDetails": {
+    "id": "23959",
+    "name": "Piranha Panic",
+    "type": "boardgame",
+    "description": "From the publisher:  Race to escape the feeding frenzy!  Escape the jaws of the piranhas!  It's a slippery race upstream while you try to get the other players hooked...and eaten!  But, watch out.  Those hungry piranhas are ready to attack any which way they can!  Who will survive?!\n\n",
+    "image": "https://cf.geekdo-images.com/WR8iDH_L52DFtnQuGv5FxA__original/img/S7y4j194ZynbtLJDpiPE79Dzlvk=/0x0/filters:format(jpeg)/pic129759.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WR8iDH_L52DFtnQuGv5FxA__small/img/Rj3RVL9nc4ob0iXF1EYZZbthyDg=/fit-in/200x150/filters:strip_icc()/pic129759.jpg",
+    "link": "https://boardgamegeek.com/thing/23959",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": null,
+    "averageRating": "5.11077",
+    "averageWeight": "1",
+    "boardGameRank": "28947",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Animals",
+      "Children's Game"
+    ],
+    "designers": [
+      "Westley Ciaramella",
+      "Keith Millman"
+    ]
+  }
+}

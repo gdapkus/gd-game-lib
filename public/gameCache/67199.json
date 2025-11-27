@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:16:49.909Z",
+  "gameDetails": {
+    "id": "67199",
+    "name": "The Coming Storm: Quadrigame of the Fourth Coalition October 1806 - June 1807",
+    "type": "boardgame",
+    "description": "From the Publisher: \nour games explore the major battles of 1806-07, where the French Army encountered two different opponents with different capabilities, from the leadership-challenged Prussians in Thuringia and Saxony to the chaotic battle conditions in winter against the Russians. Based on OSG's Special Studies, which provide a turn by turn narrative of the four battles. Each game shows the approach to the battlefield on the day before battle. The Jena-Auerst&auml;dt game has both battlefields on one map and allows both sides to re-deploy before battle. Set at the scale of Napoleon's Last Battles-525 yards per hex and one hour turns-the game retains the Command System of Commanders and Corps Officers.\n\nBATTLES SIMULATED\nJENA-AUERST&Auml;DT-13-14 October 1806\nPULTUSK/GOLYMIN-24-25 December 1806\nEYLAU-7-8 February 1807\nFRIEDLAND-13-14 June 1807\n\nDESCRIPTION\nNapoleon's Last Battles system, following Four Lost Battles: 525 yards (480 meters) per hex, 1 hour per turn, 500-800 men per strength point. Each game lasts about 40 turns.\n\nCOMPONENTS\nFour 22 x 34\" full-color maps\nTwo Rulebooks (36 pages and 24 pages)\nOne 2\" game box\nTwo counter sheets = 560 units\nThree player aid sheets\nFour player aid cards\nTwo decks of 50 playing cards = 100 cards\n\nGAME SYSTEM \nNapoleon's Last Battles (NLB-Series) \n- scale = 480m/hex, \n- time = 1hour/GT,\n- strength = 500-800 men/SP.\n\n",
+    "image": "https://cf.geekdo-images.com/83OAN2LRrnADHowpo77_Xw__original/img/tBss3YNsCsKaRAAZnmKTmYvXnek=/0x0/filters:format(jpeg)/pic739809.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/83OAN2LRrnADHowpo77_Xw__small/img/YYmr4iqLOrDWQN64-zaZBichxZ0=/fit-in/200x150/filters:strip_icc()/pic739809.jpg",
+    "link": "https://boardgamegeek.com/thing/67199",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2010",
+    "playingTime": "360",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.04204",
+    "averageWeight": "3.0741",
+    "boardGameRank": "7800",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Simulation",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "Kevin Zucker"
+    ]
+  }
+}

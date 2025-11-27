@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:23:46.274Z",
+  "gameDetails": {
+    "id": "228959",
+    "name": "Alubari: A Nice Cup of Tea",
+    "type": "boardgame",
+    "description": "Darjeeling is a town and a municipality in the Indian state of West Bengal. It is located in the Lesser Himalayas and is noted for its tea industry, the spectacular views of Kangchenjunga, the world's third-highest mountain, and the Darjeeling Himalayan Railway. Tea planting in Darjeeling began in 1841 using seeds of the Chinese tea plant (Camellia sinensis); the British government also established tea nurseries, during the period, and the Alubari tea garden was opened by the Kurseong and Darjeeling Tea company in 1856 to be quickly followed by more than 80 Tea Estates.\n\nIn A Nice Cup of Tea, players compete to cultivate and harvest their own Tea Estates and assist in the building of the Darjeeling and Himalayan Railway, from Siliguri Town to &lsquo;the summit&rsquo; at Ghum. Guided by the placement actions of their laborers, players can also use their harvested tea leaves to make Chai for their thirsty workforce to boost their actions even more! When the railway is completed, the player who has contributed the most to the railway, the building of the towns along the way and the most auspicious Tea gardens will be declared the winner.\n\nA Nice Cup of Tea is a new game in the Snowdonia family.\n\n",
+    "image": "https://cf.geekdo-images.com/_1-7QfNv7_22GTEEo4bEEg__original/img/LML_bskFfmD0z6qhtDNtw9dNuXE=/0x0/filters:format(jpeg)/pic4949326.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_1-7QfNv7_22GTEEo4bEEg__small/img/_vr5QTX-mDLguGaogCZ1P__vNbo=/fit-in/200x150/filters:strip_icc()/pic4949326.jpg",
+    "link": "https://boardgamegeek.com/thing/228959",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "120",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.16349",
+    "averageWeight": "3.0357",
+    "boardGameRank": "2466",
+    "mechanics": [
+      "Contracts",
+      "Turn Order: Claim Action",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Farming",
+      "Trains"
+    ],
+    "designers": [
+      "Tony Boydell"
+    ]
+  }
+}

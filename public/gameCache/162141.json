@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:02:45.428Z",
+  "gameDetails": {
+    "id": "162141",
+    "name": "Swedish Parliament 2014",
+    "type": "boardgame",
+    "description": "In Swedish Parliament 2014, you play as one of eight Swedish parties and compete to become the most influential party after the 2014 parliament elections.\n\nThe most influential party is the one that becomes the \"center of gravity\" in the next cabinet. To achieve this, you need as many votes for yourself as possible, but more importantly, you need to have better relations with other parties than they have with each other.\n\nEach turn, you play \"idea cards\" that move the parties' positions on one of the eight political scales (high tax/low tax, immigration/nationalism etc). Parties who move in concert may strengthen their relation; parties who don't risk weakening theirs. Every move gives the parties more or less favor with the eight voter groups (old/young, men/women etc), which determines the votes cast by the game's sixteen voters (representing every combination of the four voter groups).\n\nThe game is an act of balances: Stick out your neck enough to keep a clear profile and win voters that give you political weight, but co-operate enough to place this weight in the right position of the winning coalition.\n\n",
+    "image": "https://cf.geekdo-images.com/w4rS1_dpSqvXSitJoTRN6A__original/img/1kDVqIzlAu8fJAdWJI23-wRaVaM=/0x0/filters:format(png)/pic2081497.png",
+    "thumbnail": "https://cf.geekdo-images.com/w4rS1_dpSqvXSitJoTRN6A__small/img/N43Hqp_ZwvyHueIgOHB8gspDRwQ=/fit-in/200x150/filters:strip_icc()/pic2081497.png",
+    "link": "https://boardgamegeek.com/thing/162141",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "yearPublished": "2014",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.84182",
+    "averageWeight": "3",
+    "boardGameRank": "16332",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Negotiation",
+      "Political"
+    ],
+    "designers": [
+      "Harald Enoksson"
+    ]
+  }
+}

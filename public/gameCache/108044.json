@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:58:55.037Z",
+  "gameDetails": {
+    "id": "108044",
+    "name": "Nefarious",
+    "type": "boardgame",
+    "description": "Your genius could have been such a boon to humanity. Your death ray had wonderful pest control applications, and your volcano activator was perfect for fighting global warming. But the fools at the institute, they wouldn't listen. They called you mad! You built a monster to rend them limb from limb, which your minions assured you was the very worst way to be rended. When it became clear that the only hope for the world was your own benign leadership, you took control of TV to announce this fact. But your broadcast was interrupted by someone else taking control of TV and announcing his own plan for world domination &ndash; and then that broadcast was interrupted by yet another interloper. So. Competition. Well, the world will never be as scared of these upstarts as it will be of you. Archimedes once said, \"Give me a long enough lever and a place to stand, and I will move the world.\" You will be the most terrifying lever the world has ever seen.\n\nNefarious is a quick-playing game in which the players race to build inventions like a freeze ray, cloaking device, or robotic pet before their opponents can do the same. (Interesting side note: Eighteen different artists contributed to the artwork on the different inventions in the game.)\n\nNefarious is played over several rounds. In each round the players simultaneously choose and reveal one of their actions that will allow them to allocate one of their Minions to an area on their Lair, obtain money, obtain a blueprint for an invention, or build one of their inventions if they have enough money to do so. The minions that you allocate to your Lair can earn you additional income depending on the actions that your neighbors choose. The first player to build 20 or more points worth of Inventions AND have more points than any other player wins.\n\nThere is a twist to the game, though &ndash; actually, two twists! At the beginning of the game, you randomly draw two Twist cards, which change the environment so that the game plays differently each time. This means that in order to win, the players will have to revise their strategies each time they play Nefarious.\n\n",
+    "image": "https://cf.geekdo-images.com/GsTDQa-ln8ZGILcnZRpYBA__original/img/K_HgDc6Bj9qGDv8CmqNWF2WyA-0=/0x0/filters:format(jpeg)/pic2568631.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GsTDQa-ln8ZGILcnZRpYBA__small/img/cmj6OCzYFEnb4PEGr3KmsZiIQgc=/fit-in/200x150/filters:strip_icc()/pic2568631.jpg",
+    "link": "https://boardgamegeek.com/thing/108044",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2011",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.25336",
+    "averageWeight": "1.7312",
+    "boardGameRank": "3865",
+    "mechanics": [
+      "Hand Management",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Donald X. Vaccarino"
+    ]
+  }
+}

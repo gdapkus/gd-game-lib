@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:29:04.607Z",
+  "gameDetails": {
+    "id": "333255",
+    "name": "Keep the Heroes Out!",
+    "type": "boardgame",
+    "description": "An asymmetric, cooperative dungeon defense game where you play as the monsters protecting their hard earned treasures against invading hordes of looters (so-called heroes) trying to steal it.\n\nIn their turn players draw 5 cards and play, these cards allow them to move, activate the tiles they are to perform the tiles actions, attack heroes, and move their units around. After each player, draw and perform cards from the heroes deck.\n\nYour goal as a team in every scenario is to survive the 2 waves of invading heroes by protecting the treasures on each room. If the main treasure is taken, the game ends and you lose, but if you manage to protect the treasures for long enough, you all win.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__original/img/qtWs6Wg0a241k2D1TWWbesVwu-s=/0x0/filters:format(jpeg)/pic6985339.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__small/img/3et-UTpNaMhKlHPgnj89mkTkGkU=/fit-in/200x150/filters:strip_icc()/pic6985339.jpg",
+    "link": "https://boardgamegeek.com/thing/333255",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.92055",
+    "averageWeight": "2.5025",
+    "boardGameRank": "382",
+    "mechanics": [
+      "Action Retrieval",
+      "Area Movement",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Luís Brueh"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:04:26.454Z",
+  "gameDetails": {
+    "id": "343384",
+    "name": "Unlock!: Star Wars – Flucht von Hoth",
+    "type": "boardgame",
+    "description": "Echo Base, an important Rebel stronghold, has managed to remain hidden on the ice planet Hoth for some time. The hostile climate provides excellent cover and protection from the Empire- but you must always remain vigilant!\n\nYou head out on a routine patrol with your trusty tauntaun mount, a hearty creature native to Hoth. After an uneventful morning, you take a brief break to rest your tauntaun while you contact Echo Base with an update. However, due to heavy atmospheric disturbance, you can&lsquo;t reach them.\n\n",
+    "image": "https://cf.geekdo-images.com/lgUOUP4b-t11lsz8HVHwKg__original/img/0M-chGxzfadRPx8mbwHkDlEQDG8=/0x0/filters:format(jpeg)/pic6322417.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lgUOUP4b-t11lsz8HVHwKg__small/img/G9Cy6jF4BvJj0chLG9z6gyGxiSg=/fit-in/200x150/filters:strip_icc()/pic6322417.jpg",
+    "link": "https://boardgamegeek.com/thing/343384",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2021",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.65281",
+    "averageWeight": "1.5",
+    "boardGameRank": "13451",
+    "mechanics": [
+      "Cooperative Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Movies / TV / Radio theme",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Cyril Demaegd"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:12:31.378Z",
+  "gameDetails": {
+    "id": "339184",
+    "name": "Marvel United: X-Men – Storm (Mohawk)",
+    "type": "boardgameexpansion",
+    "description": "Kickstarter Exclusive Miniature packaged in its own box, only available with Apocalypse or Uncanny Pledge.\n\nAn additional hero.\n\nStorm with a Mohawk\n12 cards\n\n",
+    "image": "https://cf.geekdo-images.com/9neNTGivpaWvA7tnqEVLFw__original/img/0g4YMi28HUG5QioSrJOmESxVEa4=/0x0/filters:format(jpeg)/pic7280900.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9neNTGivpaWvA7tnqEVLFw__small/img/muak4JJK6RlkUVyNr0T-VY4SdFQ=/fit-in/200x150/filters:strip_icc()/pic7280900.jpg",
+    "link": "https://boardgamegeek.com/thing/339184",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": null,
+    "averageRating": "8.22667",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

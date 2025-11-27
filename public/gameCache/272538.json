@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:47:38.269Z",
+  "gameDetails": {
+    "id": "272538",
+    "name": "1828",
+    "type": "boardgame",
+    "description": "Design-wise, think of 1828 as 1830 with 16 companies, 7 ranks of trains, 4 rusting events, money- and asset-losing mergers & an even more perilous stock market in 3-5 hours.  So, really not much like 1830 at all other than surface appearances.\n\nDesigned on request by a friend for a game that would help teach second-order concepts in the 18xx.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/88By4qoBj1cJW6ghwmxwUw__original/img/U1viYoJohcRwew2GZb7csaTpvEM=/0x0/filters:format(jpeg)/pic4591267.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/88By4qoBj1cJW6ghwmxwUw__small/img/wuazBMzhak6Hut0YdH_Bzms7pyk=/fit-in/200x150/filters:strip_icc()/pic4591267.jpg",
+    "link": "https://boardgamegeek.com/thing/272538",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "420",
+    "minPlayingTime": "210",
+    "maxPlayingTime": "420",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.887",
+    "averageWeight": "4.2308",
+    "boardGameRank": "6233",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Stock Holding",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "J. C. Lawrence"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:38:25.470Z",
+  "gameDetails": {
+    "id": "246912",
+    "name": "Take 5 & Take A Number",
+    "type": "boardgame",
+    "description": "Take 5 & Take A Number combines 6 nimmt! and X nimmt! in a single box.\n\nIn 6 nimmt!, you want to score as few points as possible. To play the game, you shuffle the 104 number cards, lay out four cards face-up to start the four rows, then deal ten cards to each player. Each turn, players simultaneously choose and reveal a card from their hand, then add the cards to the rows, with cards being placed in ascending order based on their number; specifically, each card is placed in the row that ends with the highest number that's below the card's number. When the sixth card is placed in a row, the owner of that card claims the other five cards and the sixth card becomes the first card in a new row.\n\nIn addition to a number from 1 to 104, each card has a point value. After finishing ten rounds, players tally their score and see whether the game ends because someone has passed a particular point threshold. When this happens, the player with the fewest points wins!\n\nX nimmt! starts with the same premise as 6 nimmt!, but changes these rules a few ways. Each player starts with eight cards in hand and a personal X row. Played cards will be placed into three rows, with those rows being able to hold three, four or five cards. Whenever someone takes cards from a row, those cards go into the player's hand, then the player must play one card into their personal X row.\n\nAll cards in this X row must also be played in ascending order! If you can't do this, then you place all of those X cards aside in order to start a new X row, with the value of those set-aside cards now being doubled.\n\nA round ends after someone plays the final card in their hand, and whoever has the fewest negative points after two rounds wins.\n\n",
+    "image": "https://cf.geekdo-images.com/F4QVKZx_DlQMoVdJZouJgQ__original/img/qCRVl4WKw3D-R1wq9MLHY7q-7NE=/0x0/filters:format(jpeg)/pic6684008.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/F4QVKZx_DlQMoVdJZouJgQ__small/img/0pwUJ2-xu9krm4hMJPdZMuvlPPc=/fit-in/200x150/filters:strip_icc()/pic6684008.jpg",
+    "link": "https://boardgamegeek.com/thing/246912",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "2018",
+    "playingTime": "45",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5,
+      7
+    ],
+    "averageRating": "7.51459",
+    "averageWeight": "1.4211",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Number"
+    ],
+    "designers": [
+      "Wolfgang Kramer",
+      "Reinhard Staupe"
+    ]
+  }
+}

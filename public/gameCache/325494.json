@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T20:56:24.610Z",
+  "gameDetails": {
+    "id": "325494",
+    "name": "ISS Vanguard",
+    "type": "boardgame",
+    "description": "ISS Vanguard is a 1-4 player co-operative campaign Board Game. It will bring players right into epic Sci-Fi adventure, as they will play as 4 sections (security, recon, science, engineering) onboard the first human ship with the potential to reach outer space.  The campaign will introduce the unique story written by Krzysztof Piskorski (Tainted Grail) full of hard player choices, twists and branching storylines. The game comes with over 100 different Crew members, each with unique characteristics.\n\nA game session takes you through a Ship Management phase (using a large binder with printed sleeves) in which you choose your destination for your ship then research technologies, produce equipment, recruit crewmembers and resolve situations, and then commence a Planetary Exploration phase. During said Planetary Exploration phase you will proceed with a daring landing procedure with your Lander, explore the planet for information or resources, fighting back a barrage of threats as well as a running timer of supplies depletion before you have to run back to the Lander to lift off back to ISS Vanguard. What follows is the remainder of the Ship Management phase, which takes you through unloading discoveries and resources from the Lander, healing or memorialising crewmembers and taking apart the game board and recording changes to the planet on which you've just conducted your Planetary Exploration on, preserving its status for when you will want or need to return to it.\n\nThe Ship Management phase works allows players to make strategic decisions as to their resources and a way forward in the unknown galaxy chasing the mystery encoded in human's DNA. The Planetary Exploration draws the focus to the tactical, as players decide on cards, dice, crewmembers and equipment to bring to fulfill dice checks on the planet's Places of Interest. The players also decide which of the variety of specialised Landers they want to use and how to outfit their Lander for the perilous descent into the chosen planet's atmosphere (or lack thereof). Throughout the game, the narrative system relies on a web of structured and linked Mission Logs, often snippets of journal entries or dialogue, to provide gameplay choices and storyline information as well as keep track of progress throughout the universe.\n\n",
+    "image": "https://cf.geekdo-images.com/1ySeZNVkVwTvqykMGtHFFQ__original/img/WMa7R2ViiGzzWpKWEdJAOv518PU=/0x0/filters:format(jpeg)/pic7245199.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1ySeZNVkVwTvqykMGtHFFQ__small/img/pXp7JQo64YalithQyDM7tufyasA=/fit-in/200x150/filters:strip_icc()/pic7245199.jpg",
+    "link": "https://boardgamegeek.com/thing/325494",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "8.40323",
+    "averageWeight": "3.6645",
+    "boardGameRank": "152",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Narrative Choice / Paragraph",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Novel-based",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Andrzej Betkiewicz",
+      "Krzysztof Piskorski",
+      "Paweł Samborski",
+      "Marcin Świerkot"
+    ]
+  }
+}

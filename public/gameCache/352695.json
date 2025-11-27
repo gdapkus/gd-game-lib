@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:30:21.522Z",
+  "gameDetails": {
+    "id": "352695",
+    "name": "Oranienburger Kanal",
+    "type": "boardgame",
+    "description": "The Oranienburg canal, which gave this game its name, was built between 1832 and 1837 in Brandenburg. The Havel River was difficult to navigate near the Oranienburg mills, so a canal was built from the Havel that crossed the older Ruppin canal, thereby forming the Oranienburg canal cross. During the industrialization in the 19th century, lots of companies and businesses were formed at this important waterway. Moreover, additional streets and railways were built.\n\nIn Oranienburger Kanal, you erect new industries and shape the infrastructure by building pathways, streets, railways, and canals. Most important of all are bridges that connect buildings. To do all of this, you have access to various actions that you select in the right moments.\n\nAt the end of the game, the player with the best industrial area and the best infrastructure wins.\n\nOranienburger Kanal also includes a solo game!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/NTNhldVlXHY-EncaJAm-wA__original/img/bHLkQhE6NVlKEgrwty4fqtkd_2k=/0x0/filters:format(png)/pic6683325.png",
+    "thumbnail": "https://cf.geekdo-images.com/NTNhldVlXHY-EncaJAm-wA__small/img/3_S3OdKZ27F1fod8VHrCaAWaxq8=/fit-in/200x150/filters:strip_icc()/pic6683325.png",
+    "link": "https://boardgamegeek.com/thing/352695",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2023",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.96699",
+    "averageWeight": "3.2222",
+    "boardGameRank": "1633",
+    "mechanics": [
+      "Increase Value of Unchosen Resources",
+      "Market",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Economic",
+      "Industry / Manufacturing",
+      "Territory Building"
+    ],
+    "designers": [
+      "Uwe Rosenberg"
+    ]
+  }
+}

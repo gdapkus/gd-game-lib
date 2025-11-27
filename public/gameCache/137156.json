@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:09:04.263Z",
+  "gameDetails": {
+    "id": "137156",
+    "name": "Zombie House Blitz",
+    "type": "boardgame",
+    "description": "Zombie House Blitz is a speed card game in which players try to save members of their family from zombies by getting people (cards) out of the house (stack) and into the cars (points piles) to safety. Players don't take turns, but rather race madly to get their cards into the shared scoring piles in the center of the table.\n\nEach round of the game, players start with a stack of cards (their house) and three face-up cards (escape routes) next to them. When everyone is ready, play begins with each player flipping cards from his draw deck. Any face-up cards can be moved into the scoring area as long as they can be placed on top of a card of the same suit in ascending order (1-6). Once all the cards in a player's house stack are gone, the round ends. Players score points for family members who escaped (made it to the scoring area), but lose points for people eaten by zombies.\n\n",
+    "image": "https://cf.geekdo-images.com/lEYvbTAOmEPxPiHuH-jeyA__original/img/baeoid7WjbAEUVI87gnv2OhzVjY=/0x0/filters:format(jpeg)/pic2432733.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lEYvbTAOmEPxPiHuH-jeyA__small/img/_Li2rE0P3KLRaOuwSOAA2Sh4sxo=/fit-in/200x150/filters:strip_icc()/pic2432733.jpg",
+    "link": "https://boardgamegeek.com/thing/137156",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.11341",
+    "averageWeight": "1.8",
+    "boardGameRank": "21889",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Horror",
+      "Real-time",
+      "Zombies"
+    ],
+    "designers": [
+      "Jeremiah Lee"
+    ]
+  }
+}

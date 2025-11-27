@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:31:55.245Z",
+  "gameDetails": {
+    "id": "7989",
+    "name": "Spooks",
+    "type": "boardgame",
+    "description": "From the publisher's web site...\n\nYou don't have to outrun the monsters... if you can outrun your friends.\n\nIn this fast-moving game, you play your cards by matching numbers and suits. The first player to empty his hand wins... and the spooks get everybody else! Each suit (Spiders, Ghosts, Goblins, Skeletons, and Bats) has a special rule, and the top card in each suit has a special power... so you don't know who will be first to escape the haunted house until the final card is played. Spooks is a great quick party game... kids will enjoy it, too!\n\n",
+    "image": "https://cf.geekdo-images.com/x2aXf3_FVP8Phkm9L1nppA__original/img/KymnsNqSdPJbd7MKSsZXbRPjmXU=/0x0/filters:format(jpeg)/pic33318.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/x2aXf3_FVP8Phkm9L1nppA__small/img/WOVfJXhRLQuEx84lcg3f8tagfgQ=/fit-in/200x150/filters:strip_icc()/pic33318.jpg",
+    "link": "https://boardgamegeek.com/thing/7989",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2003",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.05097",
+    "averageWeight": "1.5161",
+    "boardGameRank": "11234",
+    "mechanics": [
+      "Hand Management",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game",
+      "Horror"
+    ],
+    "designers": [
+      "Jason Wittman"
+    ]
+  }
+}

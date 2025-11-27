@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:27:02.908Z",
+  "gameDetails": {
+    "id": "402677",
+    "name": "Daitoshi",
+    "type": "boardgame",
+    "description": "We have finally perfected the power of steam, and we can now use it to our advantage! We live in an unprecedented era of progress, and new steam-powered inventions are developed faster than ever. Cities are growing, trade is flourishing, and we are developing our most ambitious machine ever: a giant contraption that will bring even more progress to the city. Yes, some trees are being cut down, and the river doesn't flow as plentifully as before, but there's still an abundance of trees and water, and we can use the extra space to expand our city &mdash; and it's not like the old creatures on those forests can do anything about it.\n\nOn your turn in Daitoshi, you either produce or move your magnate to a new district in which you will be able to send your workers to work, command the exploit of forest or river hexes to fuel your endless need for steam, and perform an action to expand and show your greatness to the city.\n\nThese actions not only help you in your search for acknowledgement, but help all the inhabitants of the big city. You will expand the city and electrify its districts, discover and develop new steam-powered inventions, and trade with faraway cities. You may even help the city build its gargantuan project: the mega-machine. Some forests might be cut down, and some rivers may be dried up, but in your generosity, you will help the displaced workers from those areas by giving them new jobs at your service.\n\nOld legends suggest the forests and rivers are guarded by Yōkai, but progress can't be stopped because of some old fairy tales. Just in case, though, it could be wise to participate on some reforestation projects and hide your participation in the abuse of the natural resources...\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/RCQf2kr9tPW3RrrZj-9lvA__original/img/tCt01H_w1VQr-lU99inHPt1QJj8=/0x0/filters:format(jpeg)/pic7774194.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RCQf2kr9tPW3RrrZj-9lvA__small/img/--Lgerr-HDIhLb7kxrNWV2HLnGY=/fit-in/200x150/filters:strip_icc()/pic7774194.jpg",
+    "link": "https://boardgamegeek.com/thing/402677",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.47852",
+    "averageWeight": "3.9388",
+    "boardGameRank": "2254",
+    "mechanics": [
+      "Follow",
+      "Modular Board",
+      "Rondel",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "City Building"
+    ],
+    "designers": [
+      "Dani Garcia"
+    ]
+  }
+}

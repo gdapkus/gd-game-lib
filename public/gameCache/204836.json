@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:27:25.986Z",
+  "gameDetails": {
+    "id": "204836",
+    "name": "Escape Room: The Game",
+    "type": "boardgame",
+    "description": "Take the viral social experience of Escape Rooms to the comfort of your own home and for a fraction of the cost that you would pay! Included in this game are 4 unique 60 minute escape room puzzles that will test your cranial skills. Use images, gears, words, keys, shapes, maps and more to solve the three stages within each escape room. An analog timer on the Chrono Decoder centerpiece incessantly counts down, emitting ominous noises to create an environment shut out from the outside world. If the puzzles stump you for too long, slide a hint card into the Hint Decoder to keep your team moving. Slide 4 keys into the Chrono Decoder when you think you have the answer... but beware, if you're wrong, a precious minute will be taken from you.\n\nThe 4 escape rooms vary in difficulty, designed to give any group the experience they expect and deserve. If you're craving more puzzles, Escape Room expansions will be available, but you'll need the base game first as the Chrono Decoder is essential to the experience. Included in the base game in order of difficulty is: Prison Break, Virus, Nuclear Countdown, and Temple of the Aztec\n\nPrison Break: Ten years in prison for a crime you didn't commit. Ten years of your life wasted for being in the wrong place at the wrong time, it hardly seemed fair. You know the guards will reach your cell during the rounds in an hour. Every bone in your body tells you this is the opportunity of a lifetime; you're 60 minutes away from freedom!\n\nVirus: What a time to faint! You swear you could kill your lab partner, but you know that won't be necessary. The liquid that's oozing out of the broken bottle will kill everybody in the room soon enough...\n\nNuclear Countdown: The table is filled with all kinds of materials that send shivers down your spine. At that moment your phone rings and your worst nightmare becomes reality, the bomb threat is real!\n\nTemple of the Aztec: The stories told about the temple were numerous. Anybody that had entered the temple was never seen again, supposedly killed by vipers. But stories also spoke of the Eye of Aztec, the largest diamond that ever existed\n\n--description from the publisher\n\nThis entry is for the original base game, containing the four escape rooms mentioned above.\n\nSeveral editions of the base game contain different combinations of escape rooms. These editions have separate entries on BGG:\n\n     Escape Room: The Game Prison Break + Virus + Nuclear Countdown (Polish, Estonian, Ukrainian and Italian editions)\n     Escape room: Το παιχνίδι Prison Break + Virus + Temple of the Aztec (Greek edition)\n     Escape Room: The Game Prison Break + Virus + Welcome to Funland + Murder Mystery (Second English edition)\n     이스케이프 룸 방 탈출 게임 (Escape Room: The Game) Prison Break + Virus + Welcome to Funland + Temple of the Aztec (Korean edition)\n\n\nOne of the escape rooms from this edition has been published separately (in English):\n\n     Escape Room: The Game – Nuclear Countdown\n\n\n",
+    "image": "https://cf.geekdo-images.com/1CIfreuv-gqcaUndxUAExw__original/img/1-lAwj58R_C50ogYHKN34mWVoR0=/0x0/filters:format(png)/pic3117400.png",
+    "thumbnail": "https://cf.geekdo-images.com/1CIfreuv-gqcaUndxUAExw__small/img/ve4j9SWc6dtPQhF-fRcRjPmqUxc=/fit-in/200x150/filters:strip_icc()/pic3117400.png",
+    "link": "https://boardgamegeek.com/thing/204836",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2016",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.87633",
+    "averageWeight": "2.2586",
+    "boardGameRank": "1567",
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Elapsed Real Time Ending"
+    ],
+    "categories": [
+      "Electronic",
+      "Puzzle"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:38:46.622Z",
+  "gameDetails": {
+    "id": "358085",
+    "name": "Village Rails",
+    "type": "boardgame",
+    "description": "In the sleepy English countryside, life continues undisturbed as it has for centuries. It is up to you to travel to every corner of this land, bearing the promise of modernisation, accommodating the oddly specific demands of the locals, and ushering in the age of steam.\n\nIn Village Rails, you will be criss-crossing the fields of England with railway lines, connecting villages together, and navigating the complex and ever-changing demands of rural communities. Connect stations and farmsteads to your local network while placing your railway signals and sidings ever so carefully. Meet the exacting standards of cantankerous locals planning strangely specific trips, and weigh their demands against your limited funding. There is much to balance in this tricky tableau-building card game of locomotives and local motives.\n\n\nMicrobadge: \n\n",
+    "image": "https://cf.geekdo-images.com/88ZX_q3-bAKpyKYrffyBYQ__original/img/i7SHGkS8onN8AkZK_w0g-8r3VQg=/0x0/filters:format(jpeg)/pic6728813.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/88ZX_q3-bAKpyKYrffyBYQ__small/img/E6Qysis66x4k2dZooI59Geygxxo=/fit-in/200x150/filters:strip_icc()/pic6728813.jpg",
+    "link": "https://boardgamegeek.com/thing/358085",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.2326",
+    "averageWeight": "2.1667",
+    "boardGameRank": "2066",
+    "mechanics": [
+      "Increase Value of Unchosen Resources",
+      "Network and Route Building",
+      "Open Drafting",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Card Game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Matthew Dunstan",
+      "Brett J. Gilbert"
+    ]
+  }
+}

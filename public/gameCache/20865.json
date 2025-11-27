@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:50:03.419Z",
+  "gameDetails": {
+    "id": "20865",
+    "name": "Bolide",
+    "type": "boardgame",
+    "description": "Bolide presents itself as a revolutionary car racing game since no cards or dice move the cars.\n\nEach driver can take total control of his own car by applying a move mechanism based on a second pawn, able to reproduce the real accelerations, decelerations and inertial movements of the cars during the races.\n\nTo learn such a mechanism means to learn driving a racing car and to experience a very high simulation level: the drivers can work out the best routes along the squares of the track and push their car at the speed they want, racing opponents and making breathtaking over-takings or extreme braking.\n\nThey really play with their driving style. But they should make sure they preserve their engine and tires for the last part of the race...\n\nMoving on to the advanced level, the top drivers, besides their driving skills, will have to demonstrate their strategic abilities by choosing the best tires, by deciding between pit stops tactics or long race ones and by identifying the optimum set-up to push the car ahead of all others.\n\nTo improve the level of simulation and play, a die is provided to rule superior performance requests, unforeseen events & risky situations: this adds a touch of the unexpected to the Bolide race.\n\nThe game comes with multilingual rules (Italian, English, German)\n\nExpanded by:\n\n    Bolide Tracks #1: Roma (Italy) and O Copo (Brazil)\n    Bolide Tracks #2: Bugeleisenring (Germany) and Tsunami (Japan)\n\n\nDeveloped from:\n\n    Racetrack\n\n\nSimilar to:\n\n    Tacara\n\n\n",
+    "image": "https://cf.geekdo-images.com/nUX9N-cyeXhWN1Jobkg8cg__original/img/9OV-ijEEzVg5ly1DoTsRuaFRv6s=/0x0/filters:format(jpeg)/pic215716.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nUX9N-cyeXhWN1Jobkg8cg__small/img/UV6YkZ9SIlxuXelz0cBHwszuYV4=/fit-in/200x150/filters:strip_icc()/pic215716.jpg",
+    "link": "https://boardgamegeek.com/thing/20865",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2005",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "6.47906",
+    "averageWeight": "2.7426",
+    "boardGameRank": "5819",
+    "mechanics": [
+      "Dice Rolling",
+      "Point to Point Movement",
+      "Race",
+      "Simulation"
+    ],
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Alfredo Genovese"
+    ]
+  }
+}

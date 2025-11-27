@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:10:21.089Z",
+  "gameDetails": {
+    "id": "34295",
+    "name": "Hamburgum: Lisboa",
+    "type": "boardgameexpansion",
+    "description": "This is an alternative map especially created for LeiriaCon 2008 and SpielPortugal by Mac Gerdts.\n\nThe map represents the city of Lisbon and its churches.\n\nIt has some changes in the rules such as:\nThe donations have to follow a given order (from #1 to #5)\nThe map has no divisions. Meaning that every bonus is related to the whole map and not only to a given neighborhood.\nFor historical and cultural flavor, players produce Wine instead of Beer.\n\nThe game components:\n1 Map of Lisboa\n30 bonus tiles of 6 different churches\n\nThe rest of the materials are from Hamburgum.\n\nExpands\n\n    Hamburgum\n\n\n",
+    "image": "https://cf.geekdo-images.com/HVjfr58na9Jp0bQNWilGbw__original/img/x2X7Uu8Iq8tBWWeSgmaO4nAnlTE=/0x0/filters:format(jpeg)/pic398912.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HVjfr58na9Jp0bQNWilGbw__small/img/Vo1hHOPraLEceaRfatNX-s3O7Fk=/fit-in/200x150/filters:strip_icc()/pic398912.jpg",
+    "link": "https://boardgamegeek.com/thing/34295",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2008",
+    "playingTime": "75",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.67563",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Network and Route Building"
+    ],
+    "categories": [
+      "City Building",
+      "Expansion for Base-game",
+      "Medieval"
+    ],
+    "designers": [
+      "Mac Gerdts"
+    ]
+  }
+}

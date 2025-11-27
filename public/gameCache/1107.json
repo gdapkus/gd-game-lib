@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:59:17.456Z",
+  "gameDetails": {
+    "id": "1107",
+    "name": "Nyet!",
+    "type": "boardgame",
+    "description": "In each opening round of the trick-taking card game Nyet!, players take turns crossing out possible choices for starting player, trump, super trump, the number of cards you discard, and the value of tricks taken on a grid, leaving only one option in each category. Once the starting player is determined, that player chooses a partner, then the teams play out the round based on the conditions they collectively chose.\n\n",
+    "image": "https://cf.geekdo-images.com/Hb83ZU4ZznMu__-hEm6-9A__original/img/hzVdqj1ta-Z2M1T77OMVKverFvc=/0x0/filters:format(jpeg)/pic2592080.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Hb83ZU4ZznMu__-hEm6-9A__small/img/p-L596k0hrrI89dKicIg5m14GoA=/fit-in/200x150/filters:strip_icc()/pic2592080.jpg",
+    "link": "https://boardgamegeek.com/thing/1107",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "1997",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.78649",
+    "averageWeight": "1.8932",
+    "boardGameRank": "2064",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Team-Based Game",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "Stefan Dorra"
+    ]
+  }
+}

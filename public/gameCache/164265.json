@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:05:23.139Z",
+  "gameDetails": {
+    "id": "164265",
+    "name": "Witness",
+    "type": "boardgame",
+    "description": "Witness is set in the world of Blake and Mortimer, a Belgian comic series started in the 1940s by writer/artist Edgar P. Jacobs. In the game, which is playable strictly by four players, you each represent one of four characters and your goal is to solve mysteries or crimes by sharing information with one another &mdash; but you are quite restricted in how you can share information!\n\nWitness includes 64 cases for you to solve, and each case starts with an explanatory scene or image or both that someone reads or shows to the group. Each player then looks in their personal casebook to find information available only to their character. Players randomly decide who shares information first and in which direction, e.g., player A might whisper information to player B while player C talks to player D. Next, B will share both their information and A's information to C while D talks to A.\n\nAfter two more rounds of the most inefficient crime-solving system ever created, players read the conclusion of the case, which might offer additional information or another visual, then they each individually answer three questions about the case, with the group scoring one point for each correct answer for a final score ranging from 0 to 12.\n\n",
+    "image": "https://cf.geekdo-images.com/E-432DX7M9-UJpFO88uJ6w__original/img/1EbX-Sm44IJZ1XUXqVOs4mjndpo=/0x0/filters:format(jpeg)/pic2336025.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/E-432DX7M9-UJpFO88uJ6w__small/img/5FX8yNyKO898-jHjxI5JviBHTpE=/fit-in/200x150/filters:strip_icc()/pic2336025.jpg",
+    "link": "https://boardgamegeek.com/thing/164265",
+    "minPlayers": "4",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.22838",
+    "averageWeight": "1.4928",
+    "boardGameRank": "1398",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Memory",
+      "Storytelling"
+    ],
+    "categories": [
+      "Comic Book / Strip",
+      "Deduction",
+      "Memory",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Dominique Bodin"
+    ]
+  }
+}

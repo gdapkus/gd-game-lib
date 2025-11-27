@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:12:46.729Z",
+  "gameDetails": {
+    "id": "202305",
+    "name": "Massive Darkness: Enemy Box – Troglodytes",
+    "type": "boardgameexpansion",
+    "description": "Expansion for Massive Darkness containing:\n\n6 Troglodyte Brute Minions\n1 Troglodyte Brute Boss\n1 Troglodyte Agent\n12 Troglodyte Warrior Minions\n1 Troglodyte Warrior Boss\n1 Bloodseeker Minotaur\n\n",
+    "image": "https://cf.geekdo-images.com/Alng2DsqPHHL2JqXY17Wsw__original/img/1Ewx9Hgznh3C2DEc_CrLYz74b74=/0x0/filters:format(jpeg)/pic3687940.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Alng2DsqPHHL2JqXY17Wsw__small/img/8f5jCg1jTq5akalgUNmNYoSx1HQ=/fit-in/200x150/filters:strip_icc()/pic3687940.jpg",
+    "link": "https://boardgamegeek.com/thing/202305",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.37312",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "designers": [
+      "Raphaël Guiton",
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:54:01.852Z",
+  "gameDetails": {
+    "id": "16366",
+    "name": "Funny Friends",
+    "type": "boardgame",
+    "description": "Each player plays a character who starts the game as a teenager and then must choose the cards that will make his life take shape. He can repeat a school year and get new friends, start smoking, take part in a Bible discussion group and have his first sexual intercourse during Oktoberfest &ndash; all very realistic. Every event in the life of a character has some effect on his main characteristics - tobacco addiction, alcohol addiction, drug addiction, wealth, health, sadness, spirituality and wisdom. Excess comes at a price, though, and when a characteristic gets too high, it cancels another one &ndash; if you smoke too much, you get thin; if you get too fat, you must stop drinking; if you drink too much you lose your wisdom, and so on &ndash; once more, very realistic. During game, you can get friends, and often more, with other player&rsquo;s characters. This is an important feature in the game, since what happens to you usually affects, in good or bad, your friends, and this is one of the main interaction aspects of the game.\n\nDescription from Bruno Faidutti's ideal game library.\n\n",
+    "image": "https://cf.geekdo-images.com/F2DEzgjhW1SHIP1HiCaowA__original/img/5i1CyMNZVX_SShH4GJaz8n1ftXk=/0x0/filters:format(jpeg)/pic133493.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/F2DEzgjhW1SHIP1HiCaowA__small/img/Ay04SAQmrmMHpnzSE4uxcsgudWY=/fit-in/200x150/filters:strip_icc()/pic133493.jpg",
+    "link": "https://boardgamegeek.com/thing/16366",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2005",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.50358",
+    "averageWeight": "2.2746",
+    "boardGameRank": "2891",
+    "mechanics": [
+      "Auction / Bidding",
+      "Hand Management",
+      "Open Drafting",
+      "Simulation"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Mature / Adult"
+    ],
+    "designers": [
+      "Friedemann Friese",
+      "Marcel-André Casasola Merkle"
+    ]
+  }
+}

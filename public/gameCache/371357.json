@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:13:41.514Z",
+  "gameDetails": {
+    "id": "371357",
+    "name": "Naturopolis: Nessie",
+    "type": "boardgameexpansion",
+    "description": "A one card disaster hits Naturopolis.\n\nNessie is a one-card monster intent on wrecking your beautiful landscape, unless you connect enough rivers to neutralize the threat.\n\n\n1-card expansion that mirrors Sprawlopolis: Wrecktar.\n\n",
+    "image": "https://cf.geekdo-images.com/09uS2cRL3UvEtoWODpt0mw__original/img/5-Z5Jgt1b5yKpWcRn1xQG3pfloY=/0x0/filters:format(png)/pic7091213.png",
+    "thumbnail": "https://cf.geekdo-images.com/09uS2cRL3UvEtoWODpt0mw__small/img/RDXjy3skVNIvvW5NCvsxm-LNdc8=/fit-in/200x150/filters:strip_icc()/pic7091213.png",
+    "link": "https://boardgamegeek.com/thing/371357",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "7.08207",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Layering",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "City Building",
+      "Territory Building"
+    ],
+    "designers": [
+      "Steven Aramini",
+      "Danny Devine",
+      "Paul Kluka"
+    ]
+  }
+}

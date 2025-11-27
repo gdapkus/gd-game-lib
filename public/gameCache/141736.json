@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:01:10.446Z",
+  "gameDetails": {
+    "id": "141736",
+    "name": "Sail to India",
+    "type": "boardgame",
+    "description": "The Age of Discovery, Portugal, 15th&ndash;16th century: With the Mediterranean under Osman Turk control, the Portuguese were severely limited in the Mediterranean and looking for other trade routes. Better ships, better compasses, and a general centralization of power helped push the Portuguese explorers into the Atlantic, and sailors like Prince Henry, Bartolomeu Dias and Vasco da Gama took to the seas.\n\nIn Sail to India (セイルトゥインディア), the players are nobles who support these sailors in their efforts to discover a route to India and to be the foremost and most famous explorer of all. Players must manage their resources to develop sales channels to India, and they have only two Action Points with which to do it. A player's money, score, ship and building are all affected by the same pawn, and to do well you'll need to manage the movement of that pawn to make full use of twelve types of actions, six kinds of products, and three different buildings.\n\n",
+    "image": "https://cf.geekdo-images.com/v9kLv-QFjWxnxs6HLhZ1Mg__original/img/HEVripGGmDGLgCXBmasuERyXaXg=/0x0/filters:format(jpeg)/pic1756958.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/v9kLv-QFjWxnxs6HLhZ1Mg__small/img/qzv7feiiXqmvJmCzkmVRQwvfzvA=/fit-in/200x150/filters:strip_icc()/pic1756958.jpg",
+    "link": "https://boardgamegeek.com/thing/141736",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.66506",
+    "averageWeight": "2.2053",
+    "boardGameRank": "2471",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Set Collection"
+    ],
+    "categories": [
+      "Economic",
+      "Exploration",
+      "Nautical",
+      "Renaissance"
+    ],
+    "designers": [
+      "Hisashi Hayashi"
+    ]
+  }
+}

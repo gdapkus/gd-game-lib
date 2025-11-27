@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:29:38.348Z",
+  "gameDetails": {
+    "id": "139030",
+    "name": "Mascarade",
+    "type": "boardgame",
+    "description": "Who are you in Mascarade? Whoever you want to be... at least until someone else calls you out on it!\n\nEach character receives a face-down role card at the start of the game, and in a game with 4&ndash;5 players, some role cards are placed in the center of the table. On a turn, you take one of three actions:\n\n\n     Announce your character: Claim the power of a certain character and take the associated action. You don't have to have that character card in front of you to take this action, but if someone else says that they're that character and reveals the card to prove it, that player takes the action instead while you lose one coin to the tribunal.\n     Swap cards or not: Take another player's character card along with yours, place them under the table, shuffle them around a bit, then give one card back to the other player while keeping one for yourself. You (presumably) know whether you changed characters and can have some idea of who you are now, but that other player might be in the dark.\n     Secretly look at your character: Look at your character card to make sure of who you are.\n\n\nPlay continues until one player has collected 13 coins and wins &ndash; or until a player has lost all of their coins, in which case the player with the most coins wins.\n\nMascarade includes more character cards than the number of players, so not all characters will be used in each game. The rules suggest that you use certain characters in your first games, but once you know the game and its roles, you can try many other configurations.\n\n",
+    "image": "https://cf.geekdo-images.com/OS3ckk3rZbwFi8en1rjiGQ__original/img/LhjLUWnk4Cy0ropDcLAA4A4V20w=/0x0/filters:format(jpeg)/pic1762410.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OS3ckk3rZbwFi8en1rjiGQ__small/img/p4r9ENijnNYPOB9L_i4ZkPCCACg=/fit-in/200x150/filters:strip_icc()/pic1762410.jpg",
+    "link": "https://boardgamegeek.com/thing/139030",
+    "minPlayers": "2",
+    "maxPlayers": "13",
+    "yearPublished": "2013",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "6.55319",
+    "averageWeight": "1.5301",
+    "boardGameRank": "1727",
+    "mechanics": [
+      "Hidden Roles",
+      "Memory",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Medieval",
+      "Party Game"
+    ],
+    "designers": [
+      "Bruno Faidutti"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:15:45.430Z",
+  "gameDetails": {
+    "id": "284848",
+    "name": "Seasons of Rice: Jasmine & Ginger",
+    "type": "boardgameexpansion",
+    "description": "Jasmine rice is one of the most prominent types of rice exported out of Cambodia that is produced during the Wet Season. Other types, such as ginger rice, are also economically important. Though it is grown all year round, it is a primary crop during the Dry Season.\n\nJasmine & Ginger (2 cards) will alter early game strategies.\n\nThe Jasmine Rice Contract is awarded to the player with the most points at the end of the Wet Season, while the Ginger Rice Contract is awarded to the other player. The player with lesser points will still draft the first card from the Dry Season.\n\n\n     Jasmine Rice Contract: Player immediately earn 9 points minus 1 for every farmer in their landscape.  \n     Ginger Rice Contract: During the Dry Season, earn +2 points for every paddy closed.\n\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/jRO0dLyAz-moD1WsmZtLdQ__original/img/mnhj-DfUKbt4pJRTUZArhgRGjN8=/0x0/filters:format(jpeg)/pic4872616.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jRO0dLyAz-moD1WsmZtLdQ__small/img/vefg1Mc9ZpfVWq8tcQI3LlG5TTo=/fit-in/200x150/filters:strip_icc()/pic4872616.jpg",
+    "link": "https://boardgamegeek.com/thing/284848",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2019",
+    "playingTime": "15",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.18281",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game",
+      "Farming",
+      "Print & Play"
+    ],
+    "designers": [
+      "Corry Damey"
+    ]
+  }
+}

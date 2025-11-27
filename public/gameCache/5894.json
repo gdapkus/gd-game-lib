@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:03:44.447Z",
+  "gameDetails": {
+    "id": "5894",
+    "name": "Twister",
+    "type": "boardgame",
+    "description": "A large vinyl playing mat is placed on the floor, with a 6 x 4 array of spots, each spot about 6 inches in diameter. The spots are colored red, blue, yellow, and green. A player is chosen to moderate, and the rest of the players, up to 4, stand on the play mat with their feet on different spots.\n\nEach turn consists of the moderator spinning a spinner, which gives a result matching a random color with a random element from the set (left hand, right hand, left foot, right foot). Each player must put the relevant bodypart on the relevant color spot. If the bodypart is already on a spot of that color it is moved to another spot of the same color. No two players bodyparts can share the same spot. If a player falls or touches an elbow or knee to the ground they are eliminated.\n\nIterate until one player remains.\n\nThis classic party game became an overnight hit when on May 3, 1966 when Johnny Carson played it during the Tonight Show with Eva Gabor (see: http://www.boardgamegeek.com/image/104221).\n\n",
+    "image": "https://cf.geekdo-images.com/q-24XBqu2o3KGnaGzNVnuA__original/img/N0hzmxDpAtdWbNcnqUFepvsKSOQ=/0x0/filters:format(jpeg)/pic6684003.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/q-24XBqu2o3KGnaGzNVnuA__small/img/seN1GsAiHaK4Y8u29auI1rUwAEU=/fit-in/200x150/filters:strip_icc()/pic6684003.jpg",
+    "link": "https://boardgamegeek.com/thing/5894",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1966",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "4.55625",
+    "averageWeight": "1.0903",
+    "boardGameRank": "29586",
+    "mechanics": [
+      "Player Elimination"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Children's Game",
+      "Party Game"
+    ],
+    "designers": [
+      "Chuck Foley",
+      "Reyn Guyer",
+      "Neil W. Rabens"
+    ]
+  }
+}

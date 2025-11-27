@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:01:19.555Z",
+  "gameDetails": {
+    "id": "1081",
+    "name": "Die Schlacht der Dinosaurier",
+    "type": "boardgame",
+    "description": "Players set up their dinosaur armies consisting of 15 dinosaurs each in their areas.  Dinosaurs may be setup in any way as long as they are within the defined area, and there's only one dinosaur per space.\n On your turn, you *must*  play three action cards from your hand one after the other (two if your general was eliminated).\n\nYou may additionally use lava pieces.\n\nAll used cards go to the discard pile. Reshuffle if draw pile is empty.\n Draw sufficient cards, to fill your hand to six cards again.\n\nThe game ends, when the first dinosaur army is eliminated. The player with the most dinosaurs left is declared the winner.  All players count their dinosaurs . The player with the most dinosaurs wins. If there is a draw, the game continues, until one player has more dinosaurs than any other\n\n",
+    "image": "https://cf.geekdo-images.com/tSnTqlvv9v9CFwML32rtdA__original/img/40jRKeU70BkmisATo80IhA9gPyY=/0x0/filters:format(jpeg)/pic146636.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tSnTqlvv9v9CFwML32rtdA__small/img/IYLbFhsIch5_6InAv2qKMaXrB9s=/fit-in/200x150/filters:strip_icc()/pic146636.jpg",
+    "link": "https://boardgamegeek.com/thing/1081",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1993",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.36556",
+    "averageWeight": "1.3333",
+    "boardGameRank": "12727",
+    "mechanics": [],
+    "categories": [
+      "Prehistoric"
+    ],
+    "designers": [
+      "Stephen Baker",
+      "Roger Ford"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:29:56.496Z",
+  "gameDetails": {
+    "id": "208895",
+    "name": "New York Slice",
+    "type": "boardgame",
+    "description": "You've just been given a shot at being the head chef at the prestigious New York Slice pizza parlor. Now you and your fellow pizza chef wannabes have to make the most amazing pizzas...one slice at a time!\n\nIn New York Slice, each player slices pizzas into portions, giving their opponents first choice, while they take the leftovers. There are a dozen kinds of pizza to work with, from veggie to hawaiian to meat lover's, and each player decides if they want to eat or keep some of the slices, building the best collection of pizzas possible!\n\nEach time a player slices a pizza, there's a different special to go along with it, whether it's allocated to one of the portions or placed on its own. Specials provide the player with special powers or points, such as calling dibs on a slice before the pizza is divided, getting one of the normally-out-of-the-game \"mystery slices', having an opportunity to \"sneak a slice\" by moving it from one portion to another when they choose, and many more&mdash;there are 14 different \"Today's Specials\" in the game.\n\nSome slices have anchovies on them (yuck!), which are worth negative points to anyone who collects them &mdash; but anchovies might show up on different pizza types you're collecting, so in order to have the majority of a type, you just might have to collect one with anchovies on it!\n\nIf you tie another player for the most slices of a type, neither of you gets any points &mdash; but a bunch of slices have two types of pizza on them, with each combo slice being worth half a slice of each type, which is great for breaking ties.\n\nMost slices have pepperoni on them, which you can eat for points (instead of collecting to go for the majority of each slice type).\n\n",
+    "image": "https://cf.geekdo-images.com/pqJB3ccbvCW4Fii-uQG1kA__original/img/umEFTPSPVQAE2z4toFzvMXHTnSk=/0x0/filters:format(jpeg)/pic3211823.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pqJB3ccbvCW4Fii-uQG1kA__small/img/ZUFpifMTH57E3B8bSuca3Eq7Xfc=/fit-in/200x150/filters:strip_icc()/pic3211823.jpg",
+    "link": "https://boardgamegeek.com/thing/208895",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.66867",
+    "averageWeight": "1.4483",
+    "boardGameRank": "2047",
+    "mechanics": [
+      "I Cut, You Choose",
+      "Once-Per-Game Abilities",
+      "Set Collection",
+      "Turn Order: Progressive"
+    ],
+    "categories": [
+      "Party Game"
+    ],
+    "designers": [
+      "Jeffrey D. Allers"
+    ]
+  }
+}

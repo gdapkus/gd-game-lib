@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:51:04.111Z",
+  "gameDetails": {
+    "id": "29773",
+    "name": "Cheeky Monkey",
+    "type": "boardgame",
+    "description": "The push-your-luck game Cheeky Monkey includes eight sets of animals &ndash; three elephants, four seals, and so on up to ten monkeys &ndash; with a plastic chip representing each animal. To start the game, you place all the chips in a bag.\n\nOn a turn, a player may draw chips until either (1) he chooses to stop or (2) he draws an animal that he has lying in front of him from a previous draw this turn. In this latter case, he returns all chips in front of him from the current turn to the bag, and the next player then takes his turn. In the former case, he stacks the chips in whatever order he wants on top of any chips he's collected in previous turns. (If a player has animals of only a single type, he can tuck them on the bottom of his stack.) Two special rules come into play while the player draws chips:\n\n\n     If a player draws an animal chip that matches the animal on top of an opponent's stack, the player can steal this animal, adding it to the chips currently in front of him. (If he busts for drawing a duplicate animal, this stolen chip is also returned to the bag.)\n     If a player draws a monkey, he can either keep the monkey (as with any other animal) or he can swap the monkey for the chip on top of an opponent's stack.\n\n\nWhen the last chip has been added to a stack, the game ends. Any player who has more chips of an animal type than any other player receives bonus points equal to the total number of that animal in the game. The player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/58vJ4h81Ccurfd8XA-ubHQ__original/img/-yWQglLW93Fnv1A2BBB_yKofk-M=/0x0/filters:format(jpeg)/pic4226432.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/58vJ4h81Ccurfd8XA-ubHQ__small/img/Lwmow-iotLePxSuhxMaLZ9Lk57U=/fit-in/200x150/filters:strip_icc()/pic4226432.jpg",
+    "link": "https://boardgamegeek.com/thing/29773",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.63645",
+    "averageWeight": "1.1443",
+    "boardGameRank": "3796",
+    "mechanics": [
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "categories": [
+      "Animals",
+      "Children's Game"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

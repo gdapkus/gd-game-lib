@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:07:32.650Z",
+  "gameDetails": {
+    "id": "145308",
+    "name": "Marrying Mr. Darcy",
+    "type": "boardgame",
+    "description": "Marrying Mr. Darcy is a role-playing game where players are one of the female characters from Jane Austen&rsquo;s novel Pride and Prejudice. Players work to improve themselves and become more desirable as potential wives for the available Suitors. The ladies do this by attending Events and improving their Characters, but advantage can be gained by the use of Cunning. All of their efforts are in hopes of securing the husband that will make them the most satisfied character at the end of the game.\n\nGame play is divided into two stages: the initial Courtship Stage and the concluding Proposal Stage.\n\nThe Courtship Stage is when players try to improve their Heroine&rsquo;s chances of happiness by earning points playing Character Cards, and acquiring or playing Cunning Cards. Character Points help you to attract Suitors, and also count toward your total number of Character points at the end of the game.Cunning Points do not count towards your building your Character. However, the Heroine who has acquired the most Cunning will be the first player to enter the Proposal Stage later in the game, putting her at a significant advantage.\n\nThe Proposal Stage begins when Event Cards have been played. In this stage, players will roll to see which Suitor proposes to them, decide if they will marry them, and calculate their final score.\n\n",
+    "image": "https://cf.geekdo-images.com/F0aI6AMk7djrUjtx6DmHiQ__original/img/7N_cxPbVZVzshBRdv2iMa1AskEI=/0x0/filters:format(jpeg)/pic2013885.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/F0aI6AMk7djrUjtx6DmHiQ__small/img/2Ults69nt5rIXfQSUKgVjwKrqUY=/fit-in/200x150/filters:strip_icc()/pic2013885.jpg",
+    "link": "https://boardgamegeek.com/thing/145308",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2014",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.39684",
+    "averageWeight": "1.4",
+    "boardGameRank": "4177",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Dice Rolling",
+      "Hand Management",
+      "Push Your Luck",
+      "Role Playing",
+      "Set Collection",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Napoleonic",
+      "Novel-based",
+      "Print & Play"
+    ],
+    "designers": [
+      "Erika Svanoe"
+    ]
+  }
+}

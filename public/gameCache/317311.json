@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:17:19.420Z",
+  "gameDetails": {
+    "id": "317311",
+    "name": "Switch & Signal",
+    "type": "boardgame",
+    "description": "All Aboard! &mdash; The Cooperative Train Game\n\nYou begin this cooperative, family-friendly train game by controlling just a few trains on the tracks. At first, it&rsquo;s easy to make them travel where you like. As more trains arrive, you have to plan and coordinate your train schedules. Is the signal green? Where is this train going? Oh no, the switch wasn&rsquo;t set! If your train heads off in the wrong direction, your goods won&rsquo;t arrive on time! Only by working together to schedule and move your trains efficiently, will you and your team of conductors be able to win the game.\n\nThe two different gameboards, Central Europe and North America, each bring fun challenges to overcome. In this cooperative strategy train game work with your teammates to build a network of trains that run at different speeds to transport goods as efficiently as possible. It has simple rules that are easy to learn and allow you to jump right into the action. Switch & Signal features a double-sided game board, city tile variants, and customizable difficulty levels.\n\n",
+    "image": "https://cf.geekdo-images.com/yRliFmp8SCRMxKVR8cApJg__original/img/FFiYzKYdfS7CfgEt3aYD7IaADgk=/0x0/filters:format(jpeg)/pic6630215.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yRliFmp8SCRMxKVR8cApJg__small/img/2G-SpqNWmlyMby7xDybCOo-pAB0=/fit-in/200x150/filters:strip_icc()/pic6630215.jpg",
+    "link": "https://boardgamegeek.com/thing/317311",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.10124",
+    "averageWeight": "2.0962",
+    "boardGameRank": "2061",
+    "mechanics": [
+      "Cooperative Game",
+      "Network and Route Building",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "David Thompson (I)"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:32:20.532Z",
+  "gameDetails": {
+    "id": "236217",
+    "name": "Time Bomb",
+    "type": "boardgame",
+    "description": "Each player will be assigned a secret identity, Agent or Terrorist.\nThe game will unroll in a maximum of four rounds in which the agents want to defuse the bomb and the terrorists want it to explode.\nEach player will be dealt wire cards, which he will see and then will shuffle. Starting with the first player, he will be choosing a secret card and play it. Each card will have an action. Players will follow this way doing actions to try and defuse or explode the bomb.\nThe game ends if all the success cards are revealed (agents win), the explosion card is revealed (terrorists win), or the 4th round ends without the bomb being defused (terrorists win).\n\n",
+    "image": "https://cf.geekdo-images.com/hweNbBZPFWup4oNyQWjhFQ__original/img/SS1PSUOxdOyFsExhAwRwi9ajJK0=/0x0/filters:format(jpeg)/pic4314256.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hweNbBZPFWup4oNyQWjhFQ__small/img/KSGV1kmoXyGVwCdaI7Zlfpe7xKo=/fit-in/200x150/filters:strip_icc()/pic4314256.jpg",
+    "link": "https://boardgamegeek.com/thing/236217",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2016",
+    "playingTime": "30",
+    "minPlayingTime": "1",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "7.14759",
+    "averageWeight": "1.0702",
+    "boardGameRank": "2022",
+    "mechanics": [
+      "Hidden Roles",
+      "Role Playing",
+      "Team-Based Game",
+      "Traitor Game"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Party Game",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "佐藤 雄介 (Yusuke Sato)"
+    ]
+  }
+}

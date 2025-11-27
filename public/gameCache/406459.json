@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:29:20.428Z",
+  "gameDetails": {
+    "id": "406459",
+    "name": "Love Letter: Bridgerton",
+    "type": "boardgame",
+    "description": "Love Letter: Bridgerton features the same gameplay as Love Letter: Each turn, draw a card from the deck, then play one of the two cards in your hand and resolve its effect. You want to eliminate all of the other players or have the highest-valued card in hand when the deck is empty. The winner of the round receives a diamond, and whoever collects a pre-determined number of diamonds wins.\n\nMultiple characters from the Bridgerton series on Netflix are featured in Love Letter: Bridgerton, and thematically you are trying to figure out Lady Whistledown's identity. The game includes Queen Charlotte as a special character who gives you the power to eliminate multiple players in a single turn.\n\n",
+    "image": "https://cf.geekdo-images.com/R_TQ9j-mH91UZhZULgUysw__original/img/N7dIbZiaLGiwG3fVAa9PcPUJVDI=/0x0/filters:format(jpeg)/pic8028555.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/R_TQ9j-mH91UZhZULgUysw__small/img/AwFvBO_S2hgJhUyADIYy6p401ms=/fit-in/200x150/filters:strip_icc()/pic8028555.jpg",
+    "link": "https://boardgamegeek.com/thing/406459",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2024",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.76303",
+    "averageWeight": "1.3333",
+    "boardGameRank": "9572",
+    "mechanics": [
+      "Deduction",
+      "Hand Management",
+      "Player Elimination",
+      "Score-and-Reset Game",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Movies / TV / Radio theme",
+      "Renaissance"
+    ],
+    "designers": [
+      "Seiji Kanai"
+    ]
+  }
+}

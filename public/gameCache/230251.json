@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:13:14.897Z",
+  "gameDetails": {
+    "id": "230251",
+    "name": "Mint Delivery",
+    "type": "boardgame",
+    "description": "Mint Delivery is a mint tin-sized, pick-up-and-deliver board game designed to be quick-to-play and easy-to-learn.\n\nIn the game, players take the role of a mint delivery truck driver, driving around the area taking orders for mints, then delivering them. Each player has two actions on their turn, such as moving, loading their truck, and upgrading the mints they are carrying.\n\nOnce enough orders have been fulfilled, the game ends. Whoever has fulfilled the highest value of orders will be deemed the employee of the month and win.\n\n",
+    "image": "https://cf.geekdo-images.com/bVaQt6bySelGamGztEGnMQ__original/img/hVNm0XaTvqD9KdnaFQpdtgNx1n8=/0x0/filters:format(png)/pic3634430.png",
+    "thumbnail": "https://cf.geekdo-images.com/bVaQt6bySelGamGztEGnMQ__small/img/WlghGu6_EfKQRvqS6_fTRt9YCXs=/fit-in/200x150/filters:strip_icc()/pic3634430.png",
+    "link": "https://boardgamegeek.com/thing/230251",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2017",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.15847",
+    "averageWeight": "1.625",
+    "boardGameRank": "4421",
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "Increase Value of Unchosen Resources",
+      "Pick-up and Deliver",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Justin Blaske"
+    ]
+  }
+}

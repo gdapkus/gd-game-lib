@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:16:49.583Z",
+  "gameDetails": {
+    "id": "263778",
+    "name": "Spirit Island: Promo Pack 2",
+    "type": "boardgameexpansion",
+    "description": "This is a promo pack that includes:\n\nSpirit: Finder of Paths Unseen\nSpirit: Downpour Drenches the World\nAdversary: Kingdom of Scotland\n5 New Aspect Cards\n5 New Fear Cards\n2 New Scenarios\n\n",
+    "image": "https://cf.geekdo-images.com/PceBaQYSFgxt6jxuQePaPQ__original/img/Pf1vnNVn5eybCeNN6bi45h-oWwA=/0x0/filters:format(jpeg)/pic5634819.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PceBaQYSFgxt6jxuQePaPQ__small/img/EhsNfvN7l-UXA5juz9MlxV3dnww=/fit-in/200x150/filters:strip_icc()/pic5634819.jpg",
+    "link": "https://boardgamegeek.com/thing/263778",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "9.07044",
+    "averageWeight": "4.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy",
+      "Fighting",
+      "Mythology",
+      "Territory Building"
+    ],
+    "designers": [
+      "R. Eric Reuss"
+    ]
+  }
+}

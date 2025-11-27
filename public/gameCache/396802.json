@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-11-26T21:10:00.732Z",
+  "gameDetails": {
+    "id": "396802",
+    "name": "Gaia Project: The Lost Fleet",
+    "type": "boardgameexpansion",
+    "description": "Gaia Project: The Lost Fleet is an expansion for Gaia Project, containing:\n\n\n    Four new factions: Darkanians, Mowyed, Space Giants, Tinkeroids, corresponding to 2 new planet types: proto planets and asteroids\n    New map layouts, featuring holes where the ships of the lost fleet and some new planet types will be placed\n    New smaller sector tiles (\"interspace\" and \"deep space\" sectors) containing the new planet types\n    New ships from the Lost Fleet to explore, allowing access to new action spaces, technologies, technology tiles and federation tokens. No standard Q.I.C. actions anymore - Q.I.C. actions are now only available on ships\n    3 new standard tech tiles and 6 new advanced tech tiles\n    4 new round boosters\n    3 new round scoring tiles\n    3 new final scoring tiles\n    Some faction balancing (start resources, income, additional actions or different costs to explore a ship); Lantids get cover up tiles for their PI (1-3 player)\n\n\nA webapp implementation of The Lost Fleet expansion solo Automa is available.\n\n",
+    "image": "https://cf.geekdo-images.com/_5YSgeLRfCNtBMiUQrf_8Q__original/img/uDvci2FmafPPfBd-GZrVdOJGiYM=/0x0/filters:format(jpeg)/pic8221432.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_5YSgeLRfCNtBMiUQrf_8Q__small/img/7B_qgFRuJ9xD3Fi1Vk1TssDlqCs=/fit-in/200x150/filters:strip_icc()/pic8221432.jpg",
+    "link": "https://boardgamegeek.com/thing/396802",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.94586",
+    "averageWeight": "4.4483",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hexagon Grid",
+      "Income",
+      "Modular Board",
+      "Network and Route Building",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Tech Trees / Tech Tracks",
+      "Turn Order: Pass Order",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Civilization",
+      "Economic",
+      "Miniatures",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "designers": [
+      "Jens Drögemüller",
+      "Helge Ostertag"
+    ]
+  }
+}

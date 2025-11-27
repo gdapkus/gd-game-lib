@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:16:48.291Z",
+  "gameDetails": {
+    "id": "172736",
+    "name": "Chaos of Cthulhu",
+    "type": "boardgame",
+    "description": "Chaos of Cthulhu is the Necromicon mix-and-match dice battle game designed by Darth Rimmer and produced by Imp House, LLC.\nThe Chaos awakens:\n\nSummon forth a unique Lovecraftian nightmare, mix-and-matched from 6 different Old Ones & Dark Minions. Then clash in strategic dice battle to be the first to assemble a fully matched monster. Part strategy, part luck&hellip;all madness!\n\n",
+    "image": "https://cf.geekdo-images.com/HxLCnST4UzoWnUBLKW1W4w__original/img/GRKInc9wIDPHStV6icBxjgywdpE=/0x0/filters:format(jpeg)/pic2400736.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HxLCnST4UzoWnUBLKW1W4w__small/img/-P2jNQ_PXPAeXeTFs6Gq3WtllpM=/fit-in/200x150/filters:strip_icc()/pic2400736.jpg",
+    "link": "https://boardgamegeek.com/thing/172736",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.23438",
+    "averageWeight": "1",
+    "boardGameRank": "25754",
+    "mechanics": [
+      "Dice Rolling",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Dice",
+      "Horror"
+    ],
+    "designers": [
+      "Darth Rimmer"
+    ]
+  }
+}

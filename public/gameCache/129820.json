@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:01:14.916Z",
+  "gameDetails": {
+    "id": "129820",
+    "name": "Salmon Run",
+    "type": "boardgame",
+    "description": "Every year, thousands of salmon are compelled to leave the ocean and return to the river of their birth. This perilous journey can span hundreds of miles and is fraught with danger. Strong rapids, waterfalls, hungry bears, and eagles all await the salmon on their quest to spawn. Only the most fit will complete the salmon run!\n\nSalmon Run is a fast-paced racing game in which you'll maneuver your salmon upriver, avoiding obstacles and jumping over waterfalls. Behold the immense power of the river's currents! Avoid ferocious bears! Beware of stealthy eagles, waiting to snatch victory from your hand! Most of all, pace yourself to avoid debilitating fatigue. Salmon Run features:\n\n\n    Deck-building: The path you choose upriver will determine which cards you may add to your swimming deck. Enhance your swimming ability by gaining powerful swim cards!\n    Player Interaction: Acquire cards to unleash hungry bears and eagles on your opponent's salmon! Unlock the power of the river's raging rapids and strong currents!\n    Fatigue: Overexertion leads to the build-up of fatigue which will slow you down!\n    Modular boards: Experience a new river each game! The river's difficulty and length can be customized to your liking!\n\n\n",
+    "image": "https://cf.geekdo-images.com/hXwSDefbtIVlJspLaNhnoA__original/img/RlJdPpnA0hQuxhd-owL4qC3Xo2M=/0x0/filters:format(jpeg)/pic1594719.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hXwSDefbtIVlJspLaNhnoA__small/img/jzVdlvxtLTUFvwJC3lse79PeTMw=/fit-in/200x150/filters:strip_icc()/pic1594719.jpg",
+    "link": "https://boardgamegeek.com/thing/129820",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "45",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.50778",
+    "averageWeight": "1.825",
+    "boardGameRank": "5752",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Modular Board",
+      "Race"
+    ],
+    "categories": [
+      "Animals"
+    ],
+    "designers": [
+      "Jesse Catron"
+    ]
+  }
+}

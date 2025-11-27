@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:15:41.097Z",
+  "gameDetails": {
+    "id": "414648",
+    "name": "The Search for UAPs",
+    "type": "boardgame",
+    "description": "The past one hundred years has brought many sightings of unidentified flying objects. While this has often been credited to the sci-fi craze of the mid 20th century, recent sightings by respected members of the military and captured video show that something is out there that we can't quite identify. The search is on to discover and fully document this phenomena so that we may understand more about it.\n\nThe Search for UAPS is a game about this real-world search. You are astronomy enthusiasts, and you've recently seen something in your evening stargazing that you can't explain. Using your telescope, camera, and computer research, you're trying to track down this Unidentified Anomalous Phenomena (UAP) to help the global scientific community gain a better understanding of what's out there. While UAPs have been spotted all over the world, you'll be focusing on the edge of space, where it is possible that these objects might be.\n\nDeduction fans will enjoy new gameplay elements such as variable quantities of objects, analyzing satellites, and major new twists, such as rotating orbits that result in continually changing placement and adjacency. Objects can be next to something, above it, below it, in the same quadrant from it, or even directly across from it. As the Earth rotates, the options continue to expand! Search for and take pictures of satellites, the International Space Station, or the Hubble Telescope to help you track down mysterious UAPs!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/BcApmPMZ1IpNDLH2zu4J2A__original/img/Fqf549GG966jO_GpFSocieIHrLA=/0x0/filters:format(jpeg)/pic8033454.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BcApmPMZ1IpNDLH2zu4J2A__small/img/HeXDsk1ohHwT2wFlq7GCpcDhpAc=/fit-in/200x150/filters:strip_icc()/pic8033454.jpg",
+    "link": "https://boardgamegeek.com/thing/414648",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.09395",
+    "averageWeight": "3.1429",
+    "boardGameRank": "7946",
+    "mechanics": [
+      "Action Points",
+      "Deduction",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Deduction",
+      "Exploration",
+      "Puzzle",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Ted Alspach"
+    ]
+  }
+}

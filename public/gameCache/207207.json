@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:54:35.034Z",
+  "gameDetails": {
+    "id": "207207",
+    "name": "Glüx",
+    "type": "boardgame",
+    "description": "Gl&uuml;x is a family game all about illuminating rooms. Every player tries to play the brightest light tokens in different areas on the board, thus gaining the majority in those areas. Who can place their light tokens in the cleverest way and illuminate the most areas?\n\n",
+    "image": "https://cf.geekdo-images.com/JiPNycwy19on9EOTzJPB4A__original/img/GCYMd-Azpyr-tGqR0tmJcLWHHrU=/0x0/filters:format(jpeg)/pic3159758.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JiPNycwy19on9EOTzJPB4A__small/img/BjAUFCyQGVTD2oLuhwjW02mSdh8=/fit-in/200x150/filters:strip_icc()/pic3159758.jpg",
+    "link": "https://boardgamegeek.com/thing/207207",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.06698",
+    "averageWeight": "1.5946",
+    "boardGameRank": "2480",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Grid Movement",
+      "Square Grid"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Jakob Andrusch"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:58:21.267Z",
+  "gameDetails": {
+    "id": "105187",
+    "name": "MIL (1049)",
+    "type": "boardgame",
+    "description": "Your family struggles for prestige and influence in a medieval society. Will you succeed?\n\nIn MIL (1049), you can harvest your lands for resources, recruit soldiers, and have descendants. But that's just the first generation! If you have a male heir, he can be married to another player's daughter&mdash;the one with the biggest dowry, of course! A strategical key point, though: keep in mind that during the game your knights will die or retire and their sons will have to take their place.\n\nKnowing the ins-and-outs of the court will help you gain influence and vassals, while in the market you will be able to trade resources and recruit the necessary workforce to build a castle. How about going to battle to get some new lands or helping the curia to build the Cathedral? The abbess of the monastery can bless you with influence, while the echoes of the Crusades resound in a faraway land with songs of glory and honor. There isn't one single way that leads to victory&mdash;so which one will you choose?\n\n",
+    "image": "https://cf.geekdo-images.com/0UW3tNg48BUpC7VpBqeJjQ__original/img/jw_H-WtjohZHariFms_GRMz6kis=/0x0/filters:format(jpeg)/pic1103828.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0UW3tNg48BUpC7VpBqeJjQ__small/img/tBx7aAYoYLOmNgUln_V5TxHB3g8=/fit-in/200x150/filters:strip_icc()/pic1103828.jpg",
+    "link": "https://boardgamegeek.com/thing/105187",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.53199",
+    "averageWeight": "3.8049",
+    "boardGameRank": "5665",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Medieval"
+    ],
+    "designers": [
+      "Firmino Martínez"
+    ]
+  }
+}

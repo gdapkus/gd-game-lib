@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T20:36:53.568Z",
+  "gameDetails": {
+    "id": "363077",
+    "name": "Furnace: Interbellum",
+    "type": "boardgameexpansion",
+    "description": "Furnace expands into the twenties and thirties of the twentieth century &mdash; the interwar period known as the interbellum. In this expansion, you will find new Company cards and Capitalists, new abilities, Manager tokens, variable Capital discs, a set of components for a fifth player, and new Agents for two-player and single-player games. All of this exists within beautiful industrial buildings and structures from the epoch of Art Deco, Constructivism, and Bauhaus.\n\nInterbellum is designed for players who are already familiar with Furnace. The expansion is best played if all of its elements are added to the base game, but if you don&rsquo;t feel up to it, you can get to know it piece by piece.\n\n",
+    "image": "https://cf.geekdo-images.com/7JL6HtyyMMhJLwCwKhxkow__original/img/0MIGZAoz-hfCuHMMIqXm18Ak8yo=/0x0/filters:format(jpeg)/pic6918521.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7JL6HtyyMMhJLwCwKhxkow__small/img/vyttrUmO7Y0u-CMXK7gHD8GShHc=/fit-in/200x150/filters:strip_icc()/pic6918521.jpg",
+    "link": "https://boardgamegeek.com/thing/363077",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.67956",
+    "averageWeight": "2.8235",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Auction Compensation",
+      "Auction: Fixed Placement",
+      "Auction: Multiple Lot",
+      "Constrained Bidding",
+      "Open Drafting",
+      "Turn Order: Progressive",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Economic",
+      "Industry / Manufacturing",
+      "Post-Napoleonic"
+    ],
+    "designers": [
+      "Ivan Lashin"
+    ]
+  }
+}

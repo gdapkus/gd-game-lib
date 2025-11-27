@@ -1,0 +1,49 @@
+{
+  "timestamp": "2025-11-26T20:38:30.420Z",
+  "gameDetails": {
+    "id": "426869",
+    "name": "Tikal Legend",
+    "type": "boardgame",
+    "description": "Tikal Legend is a game of exploration, placement, and majority in which the players explore the Central American jungles and search for lost temples and treasures.\n\nAs in&nbsp;the award-winning Tikal, your ultimate goal is to score the most prestige points during the in-game scoring phases, but the toolbox to do so in Tikal Legend becomes way wider!\n\nIn addition to exploring the jungle, controlling temples, and collecting treasures, you get to pick and perform actions in the order of your choosing &mdash; and spending your action points is only one of the available options! Claim different terrains, benefit from card effects, manipulate the map, recruit additional expedition members, and do so much more &mdash; all to excavate a whole new level of tactical and strategic planning in Tikal Legend!\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tNote:Two different versions of the game (standard and deluxe with upgrade components) will be available in both English and French. With either version, you'll get everything to play the base game of Tikal, a whole new game of Tikal Legend, and a new solo mode developed by John Albertson, Aleksandr Saranac, and Jeremy Avery, with D&aacute;vid Turczi. It is NOT possible to play Tikal Legend with only a copy of Tikal.\n\n",
+    "image": "https://cf.geekdo-images.com/bq1ATGg_72nyaph9B66dbQ__original/img/icRpN_RcO7k-0kv__Nj3aqyCHuY=/0x0/filters:format(jpeg)/pic8367488.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bq1ATGg_72nyaph9B66dbQ__small/img/zqYNpJHQPMtWZ9GkUffxc8q4OC4=/fit-in/200x150/filters:strip_icc()/pic8367488.jpg",
+    "link": "https://boardgamegeek.com/thing/426869",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "180",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.28571",
+    "averageWeight": "3.6667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Layering",
+      "Map Addition",
+      "Modular Board",
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Set Collection",
+      "Tile Placement",
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Exploration",
+      "Territory Building"
+    ],
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ]
+  }
+}

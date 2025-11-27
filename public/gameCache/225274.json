@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T19:31:50.249Z",
+  "gameDetails": {
+    "id": "225274",
+    "name": "Deep Space D-6: Armada",
+    "type": "boardgame",
+    "description": "Deep Space D-6: Armada is the standalone multiplayer sequel to Deep Space D-6.\n\nIn the far reaches of the galaxy, a local cluster of planets has been overtaken by a hostile regime known as The Federation. Players will take command of starships and work together to complete missions while defending the system from enemy fleets.\n\nEach player begins the game with their own starship with unique capabilities and basic crew. As you earn credits from completing missions, you'll be able to upgrade your ship and hire advanced Heroic crew members. Your crew are your dice and players will roll them, then assign them to their ship's stations in order to perform actions during combat or to complete missions.\n\nShip to ship combat in Armada involves managing your crew and ship stations. As your ship takes damages, your stations become disabled and require repair actions by engineers. Your crew is also susceptible to injury and you'll take medic actions to revive them. Ships can be customized to your individual playstyle, whether you prefer to deal direct damage, or support teammates by disabling enemy shields and stations.\n\nEach round consists of the following phases:\n1) Planning: Players travel to nearby planets. Players may also repair and upgrade their ships or hire new crew members during this time.\n2) Encounter: Players combat enemy fleets or resolve missions (together or alone).\n3) Resolution: Event cards and hazard effects are resolved. Enemy reinforcements will also appear at this time.\n\nOnce players have collected enough Data tokens, a final encounter is revealed. If they can defeat this final encounter, the players will win the game. What challenge faces our Captains? And who is behind all the terror?\n\nDSD6: Armada takes the gameplay of Deep Space D-6 and enhances it with ship upgrades, dice mitigation, missions, and co-operative gameplay- all while retaining the game's signature minimalist style.\n\nDSD6: Armada is not an expansion and does not require the original Deep Space D-6.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/-vlZQET2j74jlyg568Bs9A__original/img/GbIdTEyiVMHNlTyPj-wnyznlE0A=/0x0/filters:format(png)/pic4340791.png",
+    "thumbnail": "https://cf.geekdo-images.com/-vlZQET2j74jlyg568Bs9A__small/img/bWbf6gMHus8pDPAHEXOq0Z8dD0Q=/fit-in/200x150/filters:strip_icc()/pic4340791.png",
+    "link": "https://boardgamegeek.com/thing/225274",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.29919",
+    "averageWeight": "2.7143",
+    "boardGameRank": "11423",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Point to Point Movement",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Dice",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Tony Go"
+    ]
+  }
+}

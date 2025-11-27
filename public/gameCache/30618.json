@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:52:30.532Z",
+  "gameDetails": {
+    "id": "30618",
+    "name": "Eat Poop You Cat",
+    "type": "boardgame",
+    "description": "Each player starts with a piece of paper and a pencil. At the top of the paper, each player writes a sentence. Then they pass the papers to their left. The next player \"draws\" the sentence a la Pictionary, then folds the paper so only the drawing is visible and passes it to their left. The next player looks at the drawing and writes a sentence that they think the drawing represents. This continues until all players have their original paper back. At the end, all players unfold their paper, and much hilarity ensues as \"I am the Walrus, koo-koo-ca-choo\" becomes \"Hitler and I danced the night away in a disco.\"\n\nThe game continues until everyone runs out of paper or everyone has added something to each paper, always ending on a sentence.\n\nEat Poop You Cat does not comport with the BGG guidelines for what constitutes a game, but is kept in the database by popular demand and administrative fiat. E.g. Telestrations  or  Mutabo took its inspiration from this activity\n\n",
+    "image": "https://cf.geekdo-images.com/XMkoh0Iwise1NlrwQpdqHA__original/img/8_Kn8akS9cUDREE_1uTx10xRNr0=/0x0/filters:format(jpeg)/pic611630.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XMkoh0Iwise1NlrwQpdqHA__small/img/KWRRhH2qTnJoQgCyaS6Y0nLSST4=/fit-in/200x150/filters:strip_icc()/pic611630.jpg",
+    "link": "https://boardgamegeek.com/thing/30618",
+    "minPlayers": "3",
+    "maxPlayers": "99",
+    "yearPublished": "0",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      7,
+      9
+    ],
+    "averageRating": "7.45717",
+    "averageWeight": "1.1074",
+    "boardGameRank": "1693",
+    "mechanics": [
+      "Drawing",
+      "Paper-and-Pencil"
+    ],
+    "categories": [
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:03:53.461Z",
+  "gameDetails": {
+    "id": "403062",
+    "name": "Unlock! Epic Adventures: Die siebte Vorstellung",
+    "type": "boardgame",
+    "description": "Unlock! is a co-operative card game inspired by escape rooms that uses a simple system which allows you to search scenes, combine objects, and solve riddles. Play Unlock! to embark on great adventures, while seated at a table using only cards and a companion app that can provide clues, check codes, monitor time remaining, etc.\n\nGrab your popcorn! Tonight, the horror movie \"The Werewolf's Final Night\" premiers. Will you get through unharmed?\n\nSchnappt euch Popcorn, macht es euch im Kino gem&uuml;tlich und erlebt den neuen Horrorstreifen \"Die letzte Nacht des Werwolfs\". G&auml;nsehaut garantiert.\n\n",
+    "image": "https://cf.geekdo-images.com/l50bdmn0d73O2AVD8ngxKA__original/img/RArOSJRcRcMq4tAoi3QMkhLpaCs=/0x0/filters:format(jpeg)/pic7811088.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/l50bdmn0d73O2AVD8ngxKA__small/img/lzYOgFRdPhELsTB4iXkLSv95wfU=/fit-in/200x150/filters:strip_icc()/pic7811088.jpg",
+    "link": "https://boardgamegeek.com/thing/403062",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.22841",
+    "averageWeight": "1",
+    "boardGameRank": "15313",
+    "mechanics": [
+      "Cooperative Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Horror",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Mathieu Casnin"
+    ]
+  }
+}

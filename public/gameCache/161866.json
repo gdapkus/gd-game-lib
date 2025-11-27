@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:19:12.160Z",
+  "gameDetails": {
+    "id": "161866",
+    "name": "Zombicide Season 3: Rue Morgue",
+    "type": "boardgame",
+    "description": "Zombicide Season 3: Rue Morgue is a cooperative game set in an action-movie universe for 1 to 12 players, ages 13 and up. Players control teams of survivors as they fight off a zombie horde controlled by the game itself. Survivors find weapons, battle zombies, and gain experience. The more experienced they get, the more powerful they become, but the more zombies they attract!\n\nZombicide Season 3: Rue Morgue introduces a terrifying new zombie type: the Skinner Zombie! Make sure you put these zombies down hard, otherwise something might come crawling for you! And don't forget Season 3's new big bad is the A-Bomb Abomination! An Abomination so twisted and mutated that its elongated arms can drag you back to it as you try to escape!\n\nWith all these new foes you're going to need to team up if you want to survive!! Zombicide Season 3: Rue Morgue introduces teams into the Zombicide franchise! Players pick from the largest pool of survivors in a Zombicide game yet and form teams to scavenge, loot, and kill zombies!  And if you really want to shred through the shuffling dead, you&rsquo;ll first need to make sure your team has skills that complement each other well.\n\nZombicide Season 3: Rue Morgue has new zombies, new weapons, new survivors, and even new team mechanics, but the biggest game changer of all is the new optional Player versus Player rule set! Yes, in Rue Morgue players' teams can go toe-to-toe to see which set of Survivors really deserve to survive! If the zombie apocalypse isn't horrifying enough for you, then prepare to face off against the deadliest foe yet: Man!\n\n",
+    "image": "https://cf.geekdo-images.com/X23vClLnMupg9qrvfXh4ig__original/img/UgwOYqJ3PvfbwWT9I_vEaviRtsU=/0x0/filters:format(jpeg)/pic4287832.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X23vClLnMupg9qrvfXh4ig__small/img/Olew3kt2kSCo0si3KyvPpxDESgc=/fit-in/200x150/filters:strip_icc()/pic4287832.jpg",
+    "link": "https://boardgamegeek.com/thing/161866",
+    "minPlayers": "1",
+    "maxPlayers": "12",
+    "yearPublished": "2015",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.4858",
+    "averageWeight": "2.4819",
+    "boardGameRank": "1299",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Horror",
+      "Miniatures",
+      "Zombies"
+    ],
+    "designers": [
+      "Raphaël Guiton",
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult"
+    ]
+  }
+}

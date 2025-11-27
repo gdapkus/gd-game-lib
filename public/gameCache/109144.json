@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:32:04.191Z",
+  "gameDetails": {
+    "id": "109144",
+    "name": "Steam: Map Expansion #2",
+    "type": "boardgameexpansion",
+    "description": "Steam: Map Expansion #2 provides three maps in the same pack that can be used with the Steam base game. One side of the four-panel game board features a map of Great Britain suitable for 3-4 players that's subtitled \"Progress from Canals to Rails\". The other side of the game board has two maps, each covering two panels of the game board: California 2090 (\"Gain Prestige but Prepare for Disaster\" for three players) and China (\"Unite the Country on the Floodplains\" for 2-4 players).\n\nSteam: Map Expansion #2 also includes an extra tile sheet for Steam.\n\n",
+    "image": "https://cf.geekdo-images.com/rWcG5F94S6L6voEBCev9aQ__original/img/R53cGQlBJO3R80kFZ598flHDHFw=/0x0/filters:format(png)/pic6310573.png",
+    "thumbnail": "https://cf.geekdo-images.com/rWcG5F94S6L6voEBCev9aQ__small/img/HAs3otEKQcJAsyNT_oREAUig0PU=/fit-in/200x150/filters:strip_icc()/pic6310573.png",
+    "link": "https://boardgamegeek.com/thing/109144",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "7.93",
+    "averageWeight": "3.6667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Morgan Dontanville"
+    ]
+  }
+}

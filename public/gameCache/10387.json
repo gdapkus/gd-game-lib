@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:18:45.780Z",
+  "gameDetails": {
+    "id": "10387",
+    "name": "Starbattles: Mainline",
+    "type": "boardgame",
+    "description": "Includes - 28 pages of rules, one 24\" x 24\" map-sheet, 17 Control Sheet Diagrams, 1 Combat Reference Diagram, 180 counters.  An intermediate-level game of tactical space combat.  The Designer's Notes state Starbattles is a game that was originally designed as a modification of another game, but meant to be a separate game.\"  That other game is clearly Task Force Games' Starfire.  The ship component system here is similar, but components are positioned on a hex diagram rather than being written in a single line.\n\n",
+    "image": "https://cf.geekdo-images.com/RqZrtJvcEPEiHxDajF0dwQ__original/img/bMu-f8RwbV5sUBSbIZwpy5jVFXM=/0x0/filters:format(jpeg)/pic43056.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RqZrtJvcEPEiHxDajF0dwQ__small/img/IkHKUS06YqUfykR3bgImv-lCnCc=/fit-in/200x150/filters:strip_icc()/pic43056.jpg",
+    "link": "https://boardgamegeek.com/thing/10387",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1983",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.5",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Perrin D. Tong"
+    ]
+  }
+}

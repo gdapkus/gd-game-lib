@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:15:17.580Z",
+  "gameDetails": {
+    "id": "156823",
+    "name": "Robinson Crusoe: Adventures on the Cursed Island – Sailor Character",
+    "type": "boardgameexpansion",
+    "description": "This character was created for the Kickstarter campaign of the book Board Games That Tell Stories.\n\nThe Sailor character is Ignacy's nemesis. He tried to design it in 2012 for the base game, but he didn't succeed. One year later he tried it again for the expansion Voyage of the Beagle, but failed at it again. The book's campaign was a success, and Ignacy promised to give the Sailor character another chance. And here it is.\n\nThe sailor is a great swimmer. He can discard two determination tokens to ignore river tiles when calculating distance on the island.\n\nThe sailor has a treasure map. For three determination tokens, he can take a special gathering action once on an island tile with a totem icon. If successful, the Sailor draws a mystery card, resolving only a trap or a treasure. This ability may only be used once per tile, even if the tile has more than one totem icon.\n\nThe sailor has some tricks to conserve food. For 2 determination tokens, he can change one food into one non-perishable food.\n\nThe sailor is also tough. He can discard 1 determination token to re-roll an injury die (brown, grey or green).\n\n",
+    "image": "https://cf.geekdo-images.com/Fmvs7d8oAU-Wq4viY3kyhQ__original/img/wipSVOPpFo3mAwe_q4C4m7ayapo=/0x0/filters:format(jpeg)/pic3636879.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Fmvs7d8oAU-Wq4viY3kyhQ__small/img/YdsV082BpPzINQRQUedlImar1VQ=/fit-in/200x150/filters:strip_icc()/pic3636879.jpg",
+    "link": "https://boardgamegeek.com/thing/156823",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      1,
+      3
+    ],
+    "averageRating": "7.62102",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Exploration",
+      "Nautical",
+      "Novel-based"
+    ],
+    "designers": [
+      "Ignacy Trzewiczek"
+    ]
+  }
+}

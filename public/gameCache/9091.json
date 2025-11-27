@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:59:06.156Z",
+  "gameDetails": {
+    "id": "9091",
+    "name": "The Newlywed Game",
+    "type": "boardgame",
+    "description": "One partner is asked a series of questions, after which their partner is quizzed to see if their answers correspond. Each correct answer gives the couple points, and after several rounds the couple with the most points wins. The usually embarrassing nature of the questions makes this a great couple/party game for adults.\n\nBased on the classic game show of the same name, devised by Nicholson-Muir and produced by Chuck Barris.\n\n",
+    "image": "https://cf.geekdo-images.com/Pth_EeKL8A6H6vCl8Z0JQQ__original/img/BMMiOW6QVpp98DK4plSbdbMkIS0=/0x0/filters:format(jpeg)/pic192867.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Pth_EeKL8A6H6vCl8Z0JQQ__small/img/pRexGIqK2OoKOG4yA2ecN6w9ZgM=/fit-in/200x150/filters:strip_icc()/pic192867.jpg",
+    "link": "https://boardgamegeek.com/thing/9091",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "1967",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      8
+    ],
+    "averageRating": "4.81764",
+    "averageWeight": "1.375",
+    "boardGameRank": "28901",
+    "mechanics": [
+      "Questions and Answers",
+      "Storytelling",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Humor",
+      "Movies / TV / Radio theme",
+      "Party Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

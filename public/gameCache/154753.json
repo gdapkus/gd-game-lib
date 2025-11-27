@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:56:06.523Z",
+  "gameDetails": {
+    "id": "154753",
+    "name": "Ice Cold Ice Hockey",
+    "type": "boardgame",
+    "description": " >>> ICE COLD ICE HOCKEY IS NOW LIVE ON BOARDGAMEARENA.COM!!!\n\nIce Cold Ice Hockey is a thinking-man's card game that has been designed to simulate all the excitement of professional ice hockey. An action deck of 64 cards, three rink-cards and comprehensive yet easy-to-understand rules comprise the complete game (although you'll need to supply a small token, disc or coin). The cards serve multiple purposes, including passing, skating, shooting, defense, shot-blocking and goaltending. Experienced players will be able to complete a game in about an hour.\n\nNote that this is NOT just a &ldquo;draw and play cards (or a take-that!) game.&rdquo; Card combinations and good decisions are key in ICIH. You&rsquo;ll always want to keep an Inside Shot card in your hand, for example, in the hope of pairing it up with a Pass or Skate card that leads to an Inside Shot. (Your brain will be working on all cylinders during the entire game, and your play will improve over time as you learn to watch for the appearance of important cards.)\n\nI call the above a &ldquo;set-up.&rdquo; Three and even four-card set-ups are possible, and over time you&rsquo;ll learn what they are. You can also bluff a bit; for example, if you have a surplus of Offensive Zone (OZ) Skate or Pass cards but no Inside Shot card, you can play an OZ card which allows the play of a defensive card to tease one out of your opponent&rsquo;s hand.\n\nICIH features realistic shots on goal, scoring and game play. Sometimes you&rsquo;ll effortlessly set up end-to-end plays while at other times you&rsquo;ll only be able to dump the puck out of your own defensive zone. You&rsquo;ll shoot from the point and, after some effort, from close-in. On defense, sometimes you&rsquo;ll be able to challenge the puck-carrier and sometimes you won&rsquo;t. Sometimes you&rsquo;ll have to risk a penalty to stop an opponent&rsquo;s scoring chance. Loose pucks, blocked shots, breakaways, fighting, momentum, penalties, super-saves &ndash; they&rsquo;re all here in Ice Cold Ice Hockey!\n\n",
+    "image": "https://cf.geekdo-images.com/euEb0pdD6jfGJSgb3JKaPA__original/img/l7pN6E8sTbYzhhs1KDlIrFxpiUs=/0x0/filters:format(jpeg)/pic1954979.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/euEb0pdD6jfGJSgb3JKaPA__small/img/4ysdn3sLDy7OQfP11-9eDPjqePU=/fit-in/200x150/filters:strip_icc()/pic1954979.jpg",
+    "link": "https://boardgamegeek.com/thing/154753",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2014",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "4.69384",
+    "averageWeight": "1.5",
+    "boardGameRank": "28960",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play",
+      "Sports"
+    ],
+    "designers": [
+      "Andrew S. Fischer"
+    ]
+  }
+}

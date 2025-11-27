@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:10:28.650Z",
+  "gameDetails": {
+    "id": "422961",
+    "name": "Hedge Mage: Blizzard Wizard",
+    "type": "boardgameexpansion",
+    "description": "Blizzard Wizard is a deluxe expansion to Hedge Mage, an enchanting game of tricky thickets!\n\nBlizzard Wizard introduces new acrylic Ice Gnomes to collect, special SGNOW-mes to build in the hedge maze, Winter Events to throw a \"COOL\" twist on each round, and more!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/hkQBrgL-W3qSxQ9Bax0H8g__original/img/4Dtqs9fn5fHNtySlNdg392B7MCY=/0x0/filters:format(png)/pic8254571.png",
+    "thumbnail": "https://cf.geekdo-images.com/hkQBrgL-W3qSxQ9Bax0H8g__small/img/vbtxzHY7xMPsXDb5rcPoz1LdhGc=/fit-in/200x150/filters:strip_icc()/pic8254571.png",
+    "link": "https://boardgamegeek.com/thing/422961",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "8.5",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Grid Movement",
+      "Movement Points",
+      "Moving Multiple Units",
+      "Pick-up and Deliver",
+      "Simultaneous Action Selection",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Maze",
+      "Miniatures",
+      "Territory Building"
+    ],
+    "designers": [
+      "Charlie McCarron"
+    ]
+  }
+}

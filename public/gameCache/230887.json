@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:11:13.472Z",
+  "gameDetails": {
+    "id": "230887",
+    "name": "Killbots Inc.",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nWhat are robots for if not competitive combat? Take the role of a master builder and square off against fellow scientists and engineers in a battle of robo-supremacy in KILLBOTS!\n\nThere's a small catch though...\n\nEach robot has a positive and negative action. Every time a robot attacks it could deal damage, heal a fellow robot, or even steal another player's cards. But maybe something will go wrong and your robot will attack you, or switch sides, or simply explode. Robots are unpredictable - they're more of an art than a science, really. This element of chance keeps the action dynamic and unpredictable, as well as leveling the playing field a bit for new players. Players able to better manage their robots in play and anticipate these events will ultimately come out on top!\n\nKillbots is a competitive tabletop card game for 2 to 6 players where each player builds and controls an army of imperfect killer robots. The functions of each robot are determined by a custom 8-sided die - effectively making all moves calculated (or uncalculated) risks and keeping gameplay fresh.\n\n",
+    "image": "https://cf.geekdo-images.com/V6AmUNSl6KXJWjbcLjlNnQ__original/img/CIHY0VXkB7omHan0NeQXBdQMfLc=/0x0/filters:format(jpeg)/pic5793608.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/V6AmUNSl6KXJWjbcLjlNnQ__small/img/MxvUSSfFQgORweUh975aZfOu0Yc=/fit-in/200x150/filters:strip_icc()/pic5793608.jpg",
+    "link": "https://boardgamegeek.com/thing/230887",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "3.71429",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Player Elimination",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Fighting"
+    ],
+    "designers": []
+  }
+}

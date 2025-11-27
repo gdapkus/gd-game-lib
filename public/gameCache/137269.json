@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:38:17.970Z",
+  "gameDetails": {
+    "id": "137269",
+    "name": "Spyrium",
+    "type": "boardgame",
+    "description": "Spyrium is set in an alternate world, an England set in a steampunk-based universe. Players build factories, needing workers to manage the production of a commodity previously unknown to us called \"Spyrium\". Producing Spyrium in one factory, then processing it in the next results in victory points (VPs) for that particular player. Alternatively, Spyrium can be purchased, but the material is rare and expensive, and players are constantly scraping for money.\n\nOnly those who from the beginning of the game manage to increase their regular income or their base of permanently employed workers (who can be used again and again to raise money) will be flexible enough to get their hands on the important end-of-game buildings to generate many VPs.\n\nThe circular nature of the game is flexible as each player can decide for himself when to move out of the placement phase and into the activation phase. With the two tracks in the game, those involved with delivery during the worker phase can then be used to raise money, to purchase an adjacent card, or to work on their own in an idle factory. All of these things are important, but in the end only the player who has dealt best with the lack of money, workers, and Spyrium will win.\n\n",
+    "image": "https://cf.geekdo-images.com/ze4QFonaGDFj9QTapBQYlg__original/img/0wMKApUujUy_1RbbuZT7CC4kwfc=/0x0/filters:format(jpeg)/pic1808509.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ze4QFonaGDFj9QTapBQYlg__small/img/opVobJGfklKTacqs512ty9kq5QE=/fit-in/200x150/filters:strip_icc()/pic1808509.jpg",
+    "link": "https://boardgamegeek.com/thing/137269",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2013",
+    "playingTime": "75",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.03949",
+    "averageWeight": "2.8974",
+    "boardGameRank": "1020",
+    "mechanics": [
+      "Auction: Dutch Priority",
+      "Events",
+      "Income",
+      "Worker Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Economic",
+      "Industry / Manufacturing",
+      "Science Fiction"
+    ],
+    "designers": [
+      "William Attia"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:29:16.090Z",
+  "gameDetails": {
+    "id": "277085",
+    "name": "Love Letter",
+    "type": "boardgame",
+    "description": "The noble Princess is looking for an ideal partner and confidant to help with her royal duties when she one day assumes the throne. You must prove your worth and gain her trust by enlisting allies, friends, and family of the Princess to carry a letter of intent to her. Can you earn the Princess' trust and become her confidant?\n\nPlaying cards one at a time, players in Love Letter use the abilities of these key people in the Princess' life to outwit their opponents and successfully deliver their letter and gain her favor. Players must utilize each character's special skill to avoid being caught and successfully deliver their letter to the Princess. Once a set number of favor tokens are acquired, that player wins and becomes the Princess' confidant.\n\nThis 2019 edition of Love Letter features new artwork by Citadels artist Andrew Bosley, screen-printed tokens, and two new characters (five cards in total) that allow for games with up to six players. When played, the Chancellor (value 6) allows you to draw two new cards, add those to your hand, then place two cards of your choice on the bottom of the deck. The Spy (value 0) wins you a favor token if you were the only player to play or discard a spy during the round.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/V7WQjhAh0AatPXTYOrXtCQ__original/img/peOFPtAkzWUSpOSVTJu3pTDv2ck=/0x0/filters:format(png)/pic4766499.png",
+    "thumbnail": "https://cf.geekdo-images.com/V7WQjhAh0AatPXTYOrXtCQ__small/img/PNp3MFmie6ffR5RtyNs7TsVV4wA=/fit-in/200x150/filters:strip_icc()/pic4766499.png",
+    "link": "https://boardgamegeek.com/thing/277085",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2019",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.5055",
+    "averageWeight": "1.1138",
+    "boardGameRank": "328",
+    "mechanics": [
+      "Deduction",
+      "Hand Management",
+      "Player Elimination",
+      "Score-and-Reset Game",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Renaissance"
+    ],
+    "designers": [
+      "Seiji Kanai",
+      "Justin Kemppainen",
+      "Alexandar Ortloff-Tang"
+    ]
+  }
+}

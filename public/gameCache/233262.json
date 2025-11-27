@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:03:12.909Z",
+  "gameDetails": {
+    "id": "233262",
+    "name": "Tidal Blades: Heroes of the Reef",
+    "type": "boardgame",
+    "description": "Welcome Heroes! Many magnificent contestants have signed up for the tournament but only a handful will be chosen to join the Tidal Blades, the elite guards of our island realm. To succeed in the Tournament and be chosen as a Tidal Blade, you must compete in Challenges held in the 3 Arenas, rise to the top of the Champion&rsquo;s Board, and protect the realm from the ever increasing threat of the Monsters from the mysterious Fold.\n\nIt has been fifteen years since the Great Battle; 15 years since the Arcanists from the Citadel of Time made their terrible choice and created the Fold; 15 years since the last assemblage of Tidal Blades. The Arcanists folded space and time to stop the onslaught of creatures from the depths, but now new Monsters have appeared, the hard-earned days of peace are coming to a close and the islands need protection. A tournament has been called, the Arenas are ready, the inhabitants of all the islands are gathering, and young heroes from across the realm are showing up to compete to be named a Tidal Blade: Hero of the Reef.\n\nIn Tidal Blades: Heroes of the Reef, each player takes the role of a young hero competing to be named a Tidal Blade. The tournament takes place over 5 Days and Nights. By gathering the needed resources, signing up to compete in Challenges and timing your arrival at different islands you can make the most of your Hero&rsquo;s turns and rise in the ranks of the contestants.\n\nEach day you will send your hero to take actions on the different Locations and to undertake Challenges. Each action will gain you the resource or effect listed on the action space as well as the Location bonus. At the Arenas you may then attempt a Challenge that matches your Location, and at the Fold you may battle a monster. Completing Challenges and fighting monsters will advance your character in the four traits of Focus, Spirit, Resilience and Synergy.\n\nEach Tidal Blade will be judged at the end of the 5 rounds based on the Challenges they have completed, the level of each of their Traits, their standing on the Champions Board, and the monsters they have fought.\n\n",
+    "image": "https://cf.geekdo-images.com/4PRD3SvbYGPUr-fRjy0O6Q__original/img/epwiTjfYAfJuJHKEbEtu-xDV7bQ=/0x0/filters:format(jpeg)/pic4309360.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4PRD3SvbYGPUr-fRjy0O6Q__small/img/9cjReRwyhOaCTQ3DoHiLFuStxLU=/fit-in/200x150/filters:strip_icc()/pic4309360.jpg",
+    "link": "https://boardgamegeek.com/thing/233262",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.45433",
+    "averageWeight": "2.9551",
+    "boardGameRank": "1079",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Kill Steal",
+      "Open Drafting",
+      "Re-rolling and Locking",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Turn Order: Claim Action",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Fantasy"
+    ],
+    "designers": [
+      "Tim Eisner",
+      "Ben Eisner"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:36:37.243Z",
+  "gameDetails": {
+    "id": "381308",
+    "name": "Dixit: Disney Edition",
+    "type": "boardgame",
+    "description": "Each turn in Dixit, one player is the storyteller, chooses one of the six cards in their hand, then makes up a sentence based on that card's image and says it out loud without showing the card to the other players. Each other player then selects the card in their hand that best matches the sentence and gives the selected card to the storyteller, without showing it to anyone else.\n\nThe storyteller shuffles their card with all of the received cards, then reveals all of these cards. Each player other than the storyteller then secretly guesses which card belongs to the storyteller. If nobody or everybody guesses the correct card, the storyteller scores 0 points, and each other player scores 2 points. Otherwise, the storyteller and whoever found the correct answer score 3 points. Additionally, the non-storyteller players score 1 point for every vote received by their card.\n\nThe game ends when the deck is empty or if a player has scored at least 30 points. In either case, the player with the most points wins.\n\nDixit: Disney Edition features 84 cards, with each card representing one of 84 films in the Disney or Pixar catalog from Steamboat Willie to Turning Red.\n\n",
+    "image": "https://cf.geekdo-images.com/BhkW--GOy1cSYH5b7jmSag__original/img/3YLwj3pZ1EcuxNOzNs9taqAKO6c=/0x0/filters:format(png)/pic7403703.png",
+    "thumbnail": "https://cf.geekdo-images.com/BhkW--GOy1cSYH5b7jmSag__small/img/1mlxU6nKHIqHrhK_YupAYa6Uv28=/fit-in/200x150/filters:strip_icc()/pic7403703.png",
+    "link": "https://boardgamegeek.com/thing/381308",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "7.3882",
+    "averageWeight": "1.1",
+    "boardGameRank": "2011",
+    "mechanics": [
+      "Storytelling",
+      "Targeted Clues",
+      "Voting"
+    ],
+    "categories": [
+      "Card Game",
+      "Party Game"
+    ],
+    "designers": [
+      "Jean-Louis Roubira"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:03:10.536Z",
+  "gameDetails": {
+    "id": "205125",
+    "name": "Ticket to Ride: First Journey (U.S.)",
+    "type": "boardgame",
+    "description": "Ticket to Ride: First Journey takes the gameplay of the Ticket to Ride series and scales it down for a younger audience.\n\nIn general, players collect train cards, claim routes on the map, and try to connect the cities shown on their tickets. In more detail, the game board shows a map of the United States with certain cities being connected by colored paths. Each player starts with four colored train cards in hand and two tickets; each ticket shows two cities, and you're trying to connect those two cities with a contiguous path of your trains in order to complete the ticket.\n\nOn a turn, you either draw two train cards from the deck or discard train cards to claim a route between two cities; for this latter option, you must discard cards matching the color and number of spaces on that route (e.g., two yellow cards for a yellow route that's two spaces long). If you connect the two cities shown on a ticket with a path of your trains, reveal the ticket, place it face up in front of you, then draw a new ticket. (If you can't connect cities on either ticket because the paths are blocked, you can take your entire turn to discard those tickets and draw two new ones.)\n\nIf you connect one of the West Coast cities to one of the East Coast cities with a path of your trains, you immediately claim a Coast-to-Coast ticket.\n\nThe first player to complete six tickets wins! Alternatively, if someone has placed all twenty of their trains on the game board, then whoever has completed the most tickets wins!\n\nPart of Ticket to Ride series.\n\n",
+    "image": "https://cf.geekdo-images.com/bGvfrC4pLxR-xkK_nN31DA__original/img/YyJlEee0IXZKQKeDD9UxPwQgRk8=/0x0/filters:format(jpeg)/pic3116341.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bGvfrC4pLxR-xkK_nN31DA__small/img/oHlL9FSE6aJxTGwxAY7hVYqz7Ew=/fit-in/200x150/filters:strip_icc()/pic3116341.jpg",
+    "link": "https://boardgamegeek.com/thing/205125",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.85272",
+    "averageWeight": "1.4167",
+    "boardGameRank": "2245",
+    "mechanics": [
+      "Hand Management",
+      "Network and Route Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Children's Game",
+      "Trains"
+    ],
+    "designers": [
+      "Alan R. Moon"
+    ]
+  }
+}

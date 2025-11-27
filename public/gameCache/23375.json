@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:28:22.363Z",
+  "gameDetails": {
+    "id": "23375",
+    "name": "HeroCard: Rise of the Shogun",
+    "type": "boardgame",
+    "description": "From the website:\n\nIt is the late 12th century. The sun has set on the classical period of Japan. The emperor&rsquo;s power has waned and a new power is growing on the horizon. Now, through alliances, court manipulation, and hand to hand combat, competing factions will battle in an epic struggle for control of feudal Japan.\n\nRise of the Shogun is a two player HeroCard game that can be expanded to a three or four player game with additional decks.\n\nExpanded by:\n\n    HeroCard Rise of the Shogun Miko Expansion Deck\n    HeroCard Rise of the Shogun Prince Expansion Deck\n\n\n",
+    "image": "https://cf.geekdo-images.com/eJXx_-AHJb0HlUiiU4L0mQ__original/img/V1Z8Y2kJ2Zhdr1aTGQ9kqByKqNI=/0x0/filters:format(jpeg)/pic222584.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eJXx_-AHJb0HlUiiU4L0mQ__small/img/W2BFuiW1dP1hgKbpUI_D4xIZCvs=/fit-in/200x150/filters:strip_icc()/pic222584.jpg",
+    "link": "https://boardgamegeek.com/thing/23375",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2006",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.30514",
+    "averageWeight": "2.4444",
+    "boardGameRank": "13569",
+    "mechanics": [
+      "Area Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Medieval"
+    ],
+    "designers": [
+      "Alexei Othenin-Girard"
+    ]
+  }
+}

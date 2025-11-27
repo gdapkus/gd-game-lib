@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-11-26T20:31:37.284Z",
+  "gameDetails": {
+    "id": "359438",
+    "name": "Skymines",
+    "type": "boardgame",
+    "description": "Fifty years ago, humanity began mining the Moon and the asteroids, and for decades that task was firmly kept in the hands of the World Government. But the turmoils of recent years have caused this enterprise to collapse. Now, adventurous companies and private investors take to the sky to revive this mining network.\n\nAs investors, you try to earn the most CrypCoin over the course of seven rounds. You do this by investing mined resources in companies and by spreading their outposts. You can improve your earnings by supporting your scientists&rsquo; research and by having them collect precious helium-3.\n\nThe heart of Skymines is a unique card programming and hand management system that requires careful and clever planning. It provides deep player interaction by letting you invest in any of the four companies as you see fit.\n\nAnd as the combination of company abilities changes each game, there are endless synergies and strategies to explore.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/loa-OQHFaTlKV2eU_WKVFw__original/img/x7qsiqjs4OLfVfrcvlMDIvyCuDA=/0x0/filters:format(jpeg)/pic6800089.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/loa-OQHFaTlKV2eU_WKVFw__small/img/Jsvw38z4mMfKZzKCDjiQRe7mJ9k=/fit-in/200x150/filters:strip_icc()/pic6800089.jpg",
+    "link": "https://boardgamegeek.com/thing/359438",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "150",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.94812",
+    "averageWeight": "3.9032",
+    "boardGameRank": "566",
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Investment",
+      "Open Drafting",
+      "Resource to Move",
+      "Roles with Asymmetric Information",
+      "Scenario / Mission / Campaign Game",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Stock Holding",
+      "Turn Order: Claim Action",
+      "Variable Player Powers",
+      "Victory Points as a Resource",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Viktor Kobilke",
+      "Alexander Pfister"
+    ]
+  }
+}

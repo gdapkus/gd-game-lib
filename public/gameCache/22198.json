@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:28:11.153Z",
+  "gameDetails": {
+    "id": "22198",
+    "name": "Great Wall of China",
+    "type": "boardgame",
+    "description": "This game lets each player take on the role of a Northern Chinese prince. Their task: the construction of a massive wall. Their reward: Honor everlasting! To gain the honor, though, requires some sweat. The requirements are the same for each player. Each player has a set of cards in their color: seven wall cards (worth 1 point), three gate cards (worth 2 points) and one watchtower card (worth 3 points). Additionally, each player gets nine more cards of varying point values and which may also allow special actions to be carried out.\n\nAt the start of the game, each player shuffles their deck of 20 cards and places it face-down in front of themselves. They then draw five cards from the deck. Now, depending on the number of players, 2 to 4 pairs of prestige tiles (with values from 1 to 8) are set out as the starts of card rows.\n\nOn a player's turn, they first check to see if they have a point majority in any of the card rows. Then, they carry out two additional actions. They have the choice of either drawing another card from the deck or adding cards to one of the rows. The added cards must be identical. It is then the next player's turn.\n\nIf, when checking point totals, a player sees that they have one or more majorities, they then choose one of the prestige tiles and put it onto one of their cards in that row. That prestige comes at a price: as long as the second prestige tile isn't claimed, the value of the prestige is subtracted from that player's total for that row. Once the second tile is claimed (which can be by the same player on a later turn), then both winning players set the tiles they won aside to score. Two new prestige tiles are revealed and the prestige for that row replenished.\n\nThe fight for prestige is also influenced by cards with special actions. For example, if a 'noble' card (1) is played, then the values of all cards in that row are reduced to 1. A 'dragon' card (1) can be played onto another player's card, neutralizing it. 'Cavalry' (2) are worth 2 points, and, equally valuably, do not cost an action. 'Infantry' (5) are strong in groups. A single 'infantry' card is only worth 1 point, but the next one is worth 2, and then 3, etc.\n\nThe game ends either when one player has played their last card or when the last prestige tile is taken. Afterwards, each player gets one last turn and then all card rows are resolved in turn order. The player with the most prestige at the end of the game wins. Players only receive prestige for tiles they have set aside for scoring. Tiles remaining on wall segments do not score.\n\n",
+    "image": "https://cf.geekdo-images.com/PQC7zA8hI18R6kiT5SX8jw__original/img/Y1P36wx-DxqEyRKL-ZpcSnfmZpQ=/0x0/filters:format(jpeg)/pic145572.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PQC7zA8hI18R6kiT5SX8jw__small/img/PAwXwP4C_9ZkvA_etm11suc0JJc=/fit-in/200x150/filters:strip_icc()/pic145572.jpg",
+    "link": "https://boardgamegeek.com/thing/22198",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2006",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.17329",
+    "averageWeight": "1.8544",
+    "boardGameRank": "4414",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

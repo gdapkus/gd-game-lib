@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:31:41.876Z",
+  "gameDetails": {
+    "id": "55601",
+    "name": "Sneaks & Snitches",
+    "type": "boardgame",
+    "description": "In this fast paced game you are the boss of sneaky thieves who are after prestige rather than money. Decide well what category of items you will be after and try to predict what other bosses will do. Send your team to the least expected location. Send your snitch to give police information about competing groups. Let the world know who&rsquo;s number one in your domain!\n\nImagine you are the head of a company of thieves. Oh, not a filthy band of cutpurses and pickpockets, but rather an elite cadre of elegant ladies and gentlemen skilled in the art of illegal acquisition. As their criminal mastermind, your job is to coordinate their efforts and gain recognition as the best in the business.\n\nYou decide whether to enter the presitigious and risky field of information theft. You decide how much effort to focus on stealing artifacts and jewelry. And don&rsquo;t forget about gold! Only the top thieves in each category will win the respect and admiration of their peers. Out-guess your competition and foil their plans, while sending your team after items no one expected you to steal.\n\nSneaks and Snitches is a fast-paced game of psychological suspense. To win, you will need to be perceptive, clever, and daring.\n\n",
+    "image": "https://cf.geekdo-images.com/ei9JnKKvWj6-Qk6o_EIYvA__original/img/pNuuDg-T9CtRUMYi4qeMR28VCQk=/0x0/filters:format(jpeg)/pic795565.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ei9JnKKvWj6-Qk6o_EIYvA__small/img/1niWh1E51P4kIj0iQsEU3EqODJU=/fit-in/200x150/filters:strip_icc()/pic795565.jpg",
+    "link": "https://boardgamegeek.com/thing/55601",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.30118",
+    "averageWeight": "1.4079",
+    "boardGameRank": "5434",
+    "mechanics": [
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Vlaada Chvátil"
+    ]
+  }
+}

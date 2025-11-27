@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:54:13.053Z",
+  "gameDetails": {
+    "id": "72290",
+    "name": "Gasp!",
+    "type": "boardgame",
+    "description": "Gasp! is a chaotic, extremely interactive trick-taking game for the Basic Decktet, a handful of its suited tokens and 2-5 players. Players are likely to gasp in astonishment as they watch their fortunes change with alarming frequency and rapidity.\n\nOne token in the reigning suit is awarded after each hand and the winner will be the first player to acquire 2 tokens in each of the Decktet&rsquo;s 6 suits.\n\n",
+    "image": "https://cf.geekdo-images.com/eBveRsKdn_pETwF6py6U7g__original/img/67iFUs_EwfAQ1V3mf-nu8NYn4lU=/0x0/filters:format(jpeg)/pic736201.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eBveRsKdn_pETwF6py6U7g__small/img/8V_pImZypx70MhgrLmdswXwRJIA=/fit-in/200x150/filters:strip_icc()/pic736201.jpg",
+    "link": "https://boardgamegeek.com/thing/72290",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.85",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Set Collection",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Greg James"
+    ]
+  }
+}

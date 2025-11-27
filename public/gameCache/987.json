@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:56:58.113Z",
+  "gameDetails": {
+    "id": "987",
+    "name": "Kingmaker",
+    "type": "boardgame",
+    "description": "Kingmaker simulates the Wars of the Roses, the period of sporadic Civil War in England between 1450 and 1490. Ruled by a weak and mentally unstable king, Henry VI, demoralized by the defeat in France at the end of the Hundred Years War, and encouraged by the ambitions of Richard, Duke of York, and his sons; the country's noble families used their large private armies in attempts to gain control of the throne.\n The game is based on the premise that the powerful Noble families used the Lancastrian and Yorkist princes as pawns in a greater struggle to gain control of England. The nobles in a player's faction use their military and political powers to gain control of royal heirs in an effort to crown one and put him or her on the throne. Of course everyone is out to capture and control the last heir alive, so once acquired, an heir needs to be protected. \n Kingmaker has been published by several companies, starting with Philmar under their Ariel imprint in 1974, by Avalon Hill in 1976, by Gibsons Games in 1983, and by TM Games in 1988/9. In 2023, Gibsons Games published a new edition, which has its own entry under Kingmaker (2023).\n\n",
+    "image": "https://cf.geekdo-images.com/xzr4Tjp1pM5zUfit5YAeNA__original/img/vjYaW6fvEf7xeTBUfSy-PWbA_IE=/0x0/filters:format(jpeg)/pic3187811.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xzr4Tjp1pM5zUfit5YAeNA__small/img/9GXaqizIhSQuun_zYk3HdUBuMzk=/fit-in/200x150/filters:strip_icc()/pic3187811.jpg",
+    "link": "https://boardgamegeek.com/thing/987",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "yearPublished": "1974",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.5424",
+    "averageWeight": "3.0525",
+    "boardGameRank": "2945",
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Events",
+      "Movement Points",
+      "Simulation",
+      "Voting"
+    ],
+    "categories": [
+      "Civil War",
+      "Medieval",
+      "Political",
+      "Renaissance",
+      "Wargame"
+    ],
+    "designers": [
+      "Andrew McNeil"
+    ]
+  }
+}

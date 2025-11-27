@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T21:03:05.820Z",
+  "gameDetails": {
+    "id": "145371",
+    "name": "Three Kingdoms Redux",
+    "type": "boardgame",
+    "description": "The Han Dynasty, founded in 206 BC, ruled the central plains and much of modern day China for nearly four hundred years. However, by late second century, court politics and poor governance has left it in rapid decline. The government was dominated by corrupt eunuchs and officials who levied heavy taxes on the peasants, resulting in public discontent. This culminated in the Yellow Turban Rebellion led by Zhang Jiao in 184 AD during the reign of Emperor Ling (168-189 AD).\n\nAlthough the Yellow Turban Rebellion was eventually put down, many surviving followers went on to become bandits and continued to create problems for the government. The Han army was unable to control the bandits and Emperor Ling granted direct administrative power over provinces and command of regional military to local lords. Many feudal lords took the opportunity to sever ties with the Han government and ruled independently. The more ambitious lords annexed neighboring territories to expand their power bases. This led to the emergence of the three power blocs of Wei, Wu and Shu, and ushered in the Three Kingdoms period.\n\nThree Kingdoms Redux is a board game that seeks to recreate the tripartite between the states of Wei, Wu and Shu. You assume the role of one of the three lords &ndash; Cao Cao leading Cao Wei, Sun Jian leading Eastern Wu or Liu Bei leading Shu Han. Players start the game from asymmetrical positions, reflecting the manpower advantages Wei enjoyed in the early part of the period. The weaker states of Wu and Shu protect themselves by forming an alliance. As a feudal lord, you manage the different aspects of running a state whilst guarding your borders against both rebellious border tribes and external enemies. Managing each aspect well earns victory points for your state. But beware, for the balance of power shifts constantly during the game. Understand and take advantage of the power shifts, and you will fulfill your grand ambition of re-unifying China!\n\nIn more detail, Three Kingdoms Redux is played over a number of rounds, up to a maximum of twelve. Players bid for various actions with their general tokens. The highest bidder of each action space obtains the right to carry out the actions.\n\nThese actions allow players to improve your state&rsquo;s domestic development, gain military strength, construct state enhancements, increase popularity with your people, improve relationships with border tribes and gain promotion for the lord, to the next higher rank.\n\nThe actions available to each player are: \n\n     develop your state&rsquo;s farm or marketplace, \n     recruit or train army units, \n     produce weapons, \n     trade resources, \n     construct state enhancements,  \n     control the Han emperor, \n     demand tributes from your vassals, \n     win support from your people, \n     import technology, \n     improve your relationship with your border tribe, or \n     wage battle against other states to expand your borders.\n\n\nThe winner is the player with the most victory points (VPs) at the end of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/YrOY2Id05RPDUyCe0EdNxw__original/img/gkwBxQymju0-xHXn6uvdmgTC6-Q=/0x0/filters:format(jpeg)/pic1981282.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YrOY2Id05RPDUyCe0EdNxw__small/img/SvOlTLv7XwRIqCcUvf7xSbbP2Ms=/fit-in/200x150/filters:strip_icc()/pic1981282.jpg",
+    "link": "https://boardgamegeek.com/thing/145371",
+    "minPlayers": "3",
+    "maxPlayers": "3",
+    "yearPublished": "2014",
+    "playingTime": "165",
+    "minPlayingTime": "135",
+    "maxPlayingTime": "165",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.84213",
+    "averageWeight": "3.9793",
+    "boardGameRank": "1322",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Catch the Leader",
+      "Hand Management",
+      "Negotiation",
+      "Open Drafting",
+      "Variable Player Powers",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Ancient",
+      "Civilization",
+      "Economic",
+      "Novel-based",
+      "Territory Building"
+    ],
+    "designers": [
+      "Yeo Keng Leong",
+      "Christina Ng Zhen Wei"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:24:34.880Z",
+  "gameDetails": {
+    "id": "394512",
+    "name": "Cargo Empire",
+    "type": "boardgame",
+    "description": "Cargo Empire is a pick-up-and-deliver board game with point-to-point network building. Players immerse themselves in a complex world of transportation networks, striving for glory, wealth, and power as leaders of one of the four major families on the continent of Dyorle.\n\nThere is only one action in this game, and that is transporting cargo. Players must navigate a changing landscape, weaving between cities and using various transport modes to score points. To dominate, players must plan their network of trading posts meticulously and keep a sharp eye on long-term rewards.\n\nCan you build the mightiest cargo empire? Simple choices derived from an intriguing combination of mechanisms will challenge your skills in resource management and strategic thinking. Only one can become the king of commerce!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/WJKSa7PqnAt4kCq0svoudA__original/img/XSDtrx_u1EoJXHhWOBLrJaT0cnU=/0x0/filters:format(jpeg)/pic7635828.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WJKSa7PqnAt4kCq0svoudA__small/img/UsMDvWbLuVs38FpYqE9WF_Dvfkk=/fit-in/200x150/filters:strip_icc()/pic7635828.jpg",
+    "link": "https://boardgamegeek.com/thing/394512",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.03587",
+    "averageWeight": "2.375",
+    "boardGameRank": "10632",
+    "mechanics": [
+      "Contracts",
+      "Hand Management",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Resource to Move",
+      "Track Movement",
+      "Turn Order: Auction",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Economic",
+      "Fantasy",
+      "Transportation"
+    ],
+    "designers": [
+      "Alexander Bogdanovsky",
+      "Pini Shekhter"
+    ]
+  }
+}

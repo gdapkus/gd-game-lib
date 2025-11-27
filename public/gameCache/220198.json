@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:50:01.240Z",
+  "gameDetails": {
+    "id": "220198",
+    "name": "BOLD",
+    "type": "boardgame",
+    "description": "Are you a risk taker? How well do you trust your memory? Do you believe in luck?\n\nIn the card game BOLD, you're trying to match cards that show three kinds of containers that vary in color, size, and pattern. Can you remember where the matches are? And will you be willing to put your points where your memory is? Shuffle the cards, then place them face down in a grid formation. The first player reveals two cards. Do the containers match in type, color, size, or pattern? If yes, that's a pair! Now comes a test of your mettle: Will you take your points and run, or will you gamble them by flipping another card and hoping it shares a feature with the first two? The game becomes more intense as it goes on and you remember more!\n\n",
+    "image": "https://cf.geekdo-images.com/X8MwsLtg3UiOMy2zbiGB1Q__original/img/-rUI77srhRnYtDPsm1rA3exAnuA=/0x0/filters:format(jpeg)/pic3408589.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X8MwsLtg3UiOMy2zbiGB1Q__small/img/0si9p5QbLoccSv2NDFX830J3Qto=/fit-in/200x150/filters:strip_icc()/pic3408589.jpg",
+    "link": "https://boardgamegeek.com/thing/220198",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "30",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.73714",
+    "averageWeight": "1",
+    "boardGameRank": "23029",
+    "mechanics": [
+      "Memory",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Jack Hanauer"
+    ]
+  }
+}

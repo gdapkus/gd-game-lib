@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:24:17.644Z",
+  "gameDetails": {
+    "id": "90137",
+    "name": "Blood Bowl: Team Manager – The Card Game",
+    "type": "boardgame",
+    "description": "Game description from the publisher:\n\nBlood Bowl: Team Manager - The Card Game is a bone-breaking, breathtaking standalone card game of violence and outright cheating for two to four players. Chaos, Dwarf, Wood Elf, Human, Orc, and Skaven teams compete against each other over the course of a brutal season. Customize your team by drafting Star Players, hiring staff, upgrading facilities, and cheating like mad. Lead your gang of misfits and miscreants to glory over your rivals all to become Spike! Magazine's Manager of the Year!\n\nOnce a manager has chosen one of the six teams, he has five weeks to groom them into the best in the league, culminating with the Blood Bowl tournament. He does this by competing at highlights, collecting payouts, upgrading his personnel, and drafting Star Players.\n\nManagers begin the season with a starting team deck full of basic scrub players. These players are none too bright and have limited talents, but a clever manager can play to their strengths by carefully positioning them to excel on the pitch.\n\nIs your team ready to compete against other teams in head-to-head highlights? Highlights are the randomly determined matchups over which players compete. The more highlights a team wins, the more it improves and the more fans it accumulates.\n\nThe season culminates with the Blood Bowl tournament. After the Blood Bowl, the season ends. Players then tally up their total fans and the manager with the most fans wins the game.\n\n",
+    "image": "https://cf.geekdo-images.com/45THq8eYHMqv3wEfckUVmQ__original/img/vvBuagEfHUHj0gvrxWrdgPvwNn4=/0x0/filters:format(jpeg)/pic1222746.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/45THq8eYHMqv3wEfckUVmQ__small/img/e5u99K5CrwckRe_CYm5A7W1FhsI=/fit-in/200x150/filters:strip_icc()/pic1222746.jpg",
+    "link": "https://boardgamegeek.com/thing/90137",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.39974",
+    "averageWeight": "2.3462",
+    "boardGameRank": "437",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting",
+      "Sports"
+    ],
+    "designers": [
+      "Jay Little"
+    ]
+  }
+}

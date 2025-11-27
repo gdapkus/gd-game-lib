@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:57:07.175Z",
+  "gameDetails": {
+    "id": "82948",
+    "name": "Konexi",
+    "type": "boardgame",
+    "description": "The gravity-defying word game!\nKonexi is the 3D word-building game that will have you pushing your luck and on the edge of your seat!\n\nIf Scrabble and Jenga got together and had a bit too much to drink, Konexi might be their \"gift\" nine months later.\n\nTake turns adding letters to a teetering tower of words. Go for longer words &mdash; upward, downward, or sideways &mdash; to score more points. But watch out...the next letter may cause gravity to kick in and a Konexi collapse! It&rsquo;s thrilling fun for the whole family!\n\n",
+    "image": "https://cf.geekdo-images.com/8Tj1xzZ3P70X-2xdX9oQ4A__original/img/1Fr9nowYbaMHhUT32XSpi-LE_OM=/0x0/filters:format(jpeg)/pic2568245.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8Tj1xzZ3P70X-2xdX9oQ4A__small/img/aMP4ACVBgPBnIh7CIrNKdJwpTcw=/fit-in/200x150/filters:strip_icc()/pic2568245.jpg",
+    "link": "https://boardgamegeek.com/thing/82948",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.21956",
+    "averageWeight": "1.25",
+    "boardGameRank": "12065",
+    "mechanics": [
+      "Dice Rolling",
+      "Spelling"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Word Game"
+    ],
+    "designers": [
+      "Forrest-Pruzan Creative"
+    ]
+  }
+}

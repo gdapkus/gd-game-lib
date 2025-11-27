@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:32:36.189Z",
+  "gameDetails": {
+    "id": "26025",
+    "name": "Tumba",
+    "type": "boardgame",
+    "description": "The game involves placing wooden pieces on a tower, each piece consisting of a line of 5 colored cubes in different arrangements, so that each piece touches the piece(s) below it only where the colors match.  The player who is unable to place a piece or who knocks the tower down is eliminated.\n\nThe game comes with a solid wooden plinth to place the first piece on, 60 wooden pieces and a large cloth bag to draw them from.\n\n",
+    "image": "https://cf.geekdo-images.com/yKAN7YJENVAwNNSnrhIH9w__original/img/rUB1sh5D-sHp-6b-YLGkonL-hn8=/0x0/filters:format(jpeg)/pic170986.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yKAN7YJENVAwNNSnrhIH9w__small/img/MY5x6J4AZNbVzwzDnP3-ADpUyP4=/fit-in/200x150/filters:strip_icc()/pic170986.jpg",
+    "link": "https://boardgamegeek.com/thing/26025",
+    "minPlayers": "1",
+    "maxPlayers": "99",
+    "yearPublished": "2006",
+    "playingTime": "5",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "5",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.5377",
+    "averageWeight": "1",
+    "boardGameRank": "24983",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity"
+    ],
+    "designers": [
+      "Noel Donegan",
+      "Luz Java"
+    ]
+  }
+}

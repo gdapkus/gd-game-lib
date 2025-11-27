@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:07:33.875Z",
+  "gameDetails": {
+    "id": "99875",
+    "name": "Martian Dice",
+    "type": "boardgame",
+    "description": "Your mission, Martians, is to swoop down on the pathetic denizens of the primitive planet Earth and scoop up as many of the inhabitants as you can manage. We are interested in samples of the chicken, cow, and human populations so that we can determine which of them is actually in charge. The Earthlings might manage to put up a feeble defense, but surely nothing that a small taste of your death rays can't handle. Make Mars proud &ndash; be the first Martian to fill your abduction quota!\n\nIn Martian Dice, you roll thirteen custom dice in an effort to set aside (\"abduct\") humans, chickens, and cows. With each roll, you must first set aside any tanks, representing the human military coming to fend off your alien invasion, then you may choose one type of die to set aside as well &mdash; one type of earthlings to abduct, or death rays to combat the military. At the end of your turn, if you have at least as many death rays as tanks, then you may abduct the earthlings you've been setting aside. You can't pick any type of Earthling twice in one turn, but if you manage to abduct at least one of each, you'll score a bonus!\n\nWith each roll you will ask yourself, do you feel lucky?\n\n",
+    "image": "https://cf.geekdo-images.com/y3lAFsCTULz0iIbYVR0yZQ__original/img/PvbdirZXTybI0mwwIBulQx5MsUo=/0x0/filters:format(png)/pic8716684.png",
+    "thumbnail": "https://cf.geekdo-images.com/y3lAFsCTULz0iIbYVR0yZQ__small/img/GvhaUs7S_-njCotdr0ojAG7J0us=/fit-in/200x150/filters:strip_icc()/pic8716684.png",
+    "link": "https://boardgamegeek.com/thing/99875",
+    "minPlayers": "2",
+    "maxPlayers": "99",
+    "yearPublished": "2011",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.1381",
+    "averageWeight": "1.0687",
+    "boardGameRank": "3822",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Re-rolling and Locking",
+      "Set Collection"
+    ],
+    "categories": [
+      "Dice",
+      "Humor",
+      "Party Game",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

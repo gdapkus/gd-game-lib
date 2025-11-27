@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T19:31:26.313Z",
+  "gameDetails": {
+    "id": "10810",
+    "name": "Anno 1503: Aristokraten und Piraten",
+    "type": "boardgameexpansion",
+    "description": "Anno 1503 - Piraten und Aristokraten\n\nThis is an expansion for Anno 1503 and requires the original game to play. An extra board opens up the eastern sea, filled with pirates and luxuries for the aristocrats back home.\n\nExpands:\n\n    Anno 1503\n\n\n",
+    "image": "https://cf.geekdo-images.com/8AVh_FF4VQ-arHHpN9PIpg__original/img/flBVyUJJ9y8WxbB-qkUqFBKIoEI=/0x0/filters:format(jpeg)/pic607833.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8AVh_FF4VQ-arHHpN9PIpg__small/img/OD4FeUXtR7KlpKOTxupPr5UB1kU=/fit-in/200x150/filters:strip_icc()/pic607833.jpg",
+    "link": "https://boardgamegeek.com/thing/10810",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.56994",
+    "averageWeight": "2.5238",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Pirates"
+    ],
+    "designers": [
+      "Klaus Teuber"
+    ]
+  }
+}

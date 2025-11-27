@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:58:39.226Z",
+  "gameDetails": {
+    "id": "134964",
+    "name": "Moonbase Alpha",
+    "type": "boardgame",
+    "description": "The two men knelt in the shadow of the rock outcropping and gazed at the destruction in the crater below them. Combat reporters, they made their living with words, but this time words failed them. The ambush had been perfectly executed. For less than an hour of soundless fury, moondust had erupted below them as the well-hidden crawlers, MCUs, and PMC soldiers of the Luna Mining Corp poured fire into the exposed ranks of the troops and MCUs of Mond Bergbau AG. Now as the dust drifted lethargically down, the two men could see wreckage and death spread out before them across the lunar surface.\n\nMoonbase Alpha is a simulation of lunar combat in an alternative history between two exo-planetary private corporations that have hired private \"security\" companies to enforce their territorial and intellectual property rights. In Moonbase Alpha, the first player to inflict enough casualties on his or her opponent to drive their stock price down or earn enough profit to maximize their own stock price wins a major victory. The corporation with the highest stock price at the end of negotiations wins a minor victory.\n\n",
+    "image": "https://cf.geekdo-images.com/vo-i-jUbKUOGkrjsOeqVmA__original/img/EsJGbCIEcGL9H0z-ljNW89YyBsg=/0x0/filters:format(jpeg)/pic1502317.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vo-i-jUbKUOGkrjsOeqVmA__small/img/TnwpHnEtlQDNJBhQmH-F9BkXYZI=/fit-in/200x150/filters:strip_icc()/pic1502317.jpg",
+    "link": "https://boardgamegeek.com/thing/134964",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2012",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.90969",
+    "averageWeight": "2.5",
+    "boardGameRank": "12670",
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Chris Taylor (I)"
+    ]
+  }
+}

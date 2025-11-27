@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:56:37.980Z",
+  "gameDetails": {
+    "id": "4984",
+    "name": "Jutland",
+    "type": "boardgame",
+    "description": "Dunnigan's first game for Avalon Hill, this is a \"play on the floor\" game with measured movement and range finding, enabling you to re-fight the great WWI battle with up to 72 individual ships. Reissued in 1974.\n\nAvalon Hill Complexity Rating - 6\n\n",
+    "image": "https://cf.geekdo-images.com/dILrNk0LPs9A8_Bk-NbAmg__original/img/Z8CM5PcrrVqIeL91rbmgz0EdYXg=/0x0/filters:format(jpeg)/pic75921.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dILrNk0LPs9A8_Bk-NbAmg__small/img/bk3h2GK2ebnC5KttZPuJuSZ1RIQ=/fit-in/200x150/filters:strip_icc()/pic75921.jpg",
+    "link": "https://boardgamegeek.com/thing/4984",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "1967",
+    "playingTime": "360",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.69503",
+    "averageWeight": "2.9125",
+    "boardGameRank": "6394",
+    "mechanics": [
+      "Dice Rolling",
+      "Measurement Movement",
+      "Movement Template",
+      "Paper-and-Pencil",
+      "Player Elimination",
+      "Ratio / Combat Results Table",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "Miniatures",
+      "Nautical",
+      "Wargame",
+      "World War I"
+    ],
+    "designers": [
+      "Jim Dunnigan"
+    ]
+  }
+}

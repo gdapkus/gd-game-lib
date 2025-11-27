@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:04:02.232Z",
+  "gameDetails": {
+    "id": "216092",
+    "name": "Unlock!: Escape Adventures – Squeek & Sausage",
+    "type": "boardgame",
+    "description": "Unlock! is a cooperative card game inspired by escape rooms that uses a simple system which allows you to search scenes, combine objects, and solve riddles. Play Unlock! to embark on great adventures, while seated at a table using only cards and a companion app that can provide clues, check codes, monitor time remaining, etc.\n\nIn the cartoon-style adventure Unlock! Squeek & Sausage, you need to stop the mad Professor Noside from destroying the world. In your attempt to thwart his plot, the evil genius has caught you in a trap, and you can't stop him until you've found a way out. Can you escape and foil his plot before the clock hits zero?\n\nAn included ten-card tutorial allows you to learn how to play without reading the game rules. Note: Unlock! requires a free application to be downloaded from the App Store or Google Play. Once downloaded, an internet connection is not required during game play.\n\n",
+    "image": "https://cf.geekdo-images.com/bd0-F78utsbv1KEY_B9FyQ__original/img/90MBSvDSDbsfCGW9CM4clHtd2tA=/0x0/filters:format(jpeg)/pic3372429.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bd0-F78utsbv1KEY_B9FyQ__small/img/R2W46TpelN4RhUZY82zxCawI-Ls=/fit-in/200x150/filters:strip_icc()/pic3372429.jpg",
+    "link": "https://boardgamegeek.com/thing/216092",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.15244",
+    "averageWeight": "2.0541",
+    "boardGameRank": "1411",
+    "mechanics": [
+      "Cooperative Game",
+      "Elapsed Real Time Ending",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Puzzle"
+    ],
+    "designers": [
+      "Vincent Goyat"
+    ]
+  }
+}

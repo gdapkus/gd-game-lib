@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:54:15.222Z",
+  "gameDetails": {
+    "id": "129293",
+    "name": "Gauntlet of Fools",
+    "type": "boardgame",
+    "description": "Gauntlet of Fools is an adventure game of skill and fortune for 2-6 that plays in under 30 minutes. Choose your hero from hundreds of possible combinations. You'll make ridiculous boasts to get the best hero &ndash; but every boast comes at a cost. How awesome is your knight with a flaming sword after you boast that he'll fight blindfolded with a hangover?\n\nYou'll find out in the gauntlet: fifty encounters that will kill you. That's right. You will die, fool! But even a fool wants his gold, and the monsters have it. Roll a handful of dice, slay a monster, get its treasure. Die with the most gold to win the game.\n\nThe contents of Gauntlet of Fools is:\n\n20 class cards\n20 weapon cards\n50 encounter cards\n30 dice\n30 boasts tokens (5 of each)\n20 wound tokens\n50 gold tokens\n..1-value: 24 tokens\n..5 value: 12 tokens\n..10-value: 12 tokens\n..25-value: 2 tokens\n41 ability tokens\n28 penalty tokens\n30 bonus tokens\nPlaymat\nRulebook\nPlay example appendix\n\n",
+    "image": "https://cf.geekdo-images.com/bx6LXwI-yrKeNNVhF6-n9Q__original/img/g009flZGpztVJXaWjjizHMR_HOE=/0x0/filters:format(png)/pic1392572.png",
+    "thumbnail": "https://cf.geekdo-images.com/bx6LXwI-yrKeNNVhF6-n9Q__small/img/3fTr3t96mK5cn86sD-UMIidL810=/fit-in/200x150/filters:strip_icc()/pic1392572.png",
+    "link": "https://boardgamegeek.com/thing/129293",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2012",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "5.98235",
+    "averageWeight": "1.4648",
+    "boardGameRank": "7589",
+    "mechanics": [
+      "Auction / Bidding",
+      "Dice Rolling",
+      "Player Elimination",
+      "Push Your Luck",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Dice",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Donald X. Vaccarino"
+    ]
+  }
+}

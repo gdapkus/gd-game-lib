@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:29:44.974Z",
+  "gameDetails": {
+    "id": "166109",
+    "name": "Meteor",
+    "type": "boardgame",
+    "description": "There is a storm of meteors heading directly toward our planet! Estimated time of impact is five minutes. We need to work together to destroy them all or the world will be blown to bits. Are you brave and resourceful enough to save our planet? If even one meteor gets through our defenses and hits the planet, life as we know it will be no more. Good luck citizens. It&rsquo;s up to you.\n\nMeteor is a real-time, cooperative, resource management card game.\n\nYou need to work together building and launching rockets as the time ticks down and the meteors get closer and closer to destroying the planet. Will you blow up all the meteors in time? Only one way to know for sure.\n\nMeteor plays as a real-time card game. Each player has a hand of cards and a build area (build areas are shared in the six player game). A number of meteor cards are placed in the center of the table. Players must co-cooperatively build rockets to launch at the meteors before the time runs out.\n\n\nDifferences from earlier edition:\n\nThe Mayday Games edition includes more cards and additional gameplay options over the earlier edition of Meteor. The Mayday Games version is for 1-5 players; The Game Crafter edition was for 1-6 players.\n\n",
+    "image": "https://cf.geekdo-images.com/mVC1JCvb488GJFhNF1idsA__original/img/G1UroUSm25FSY7LQXpPu6f6--20=/0x0/filters:format(png)/pic2256875.png",
+    "thumbnail": "https://cf.geekdo-images.com/mVC1JCvb488GJFhNF1idsA__small/img/Bx9UJsNZV8eF7kebFJlFoCqvtUw=/fit-in/200x150/filters:strip_icc()/pic2256875.png",
+    "link": "https://boardgamegeek.com/thing/166109",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2014",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.05518",
+    "averageWeight": "1.8571",
+    "boardGameRank": "9816",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Real-Time"
+    ],
+    "categories": [
+      "Card Game",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Mike Young"
+    ]
+  }
+}

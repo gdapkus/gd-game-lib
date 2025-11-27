@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:24:47.376Z",
+  "gameDetails": {
+    "id": "815",
+    "name": "Chrononauts",
+    "type": "boardgame",
+    "description": "In Chrononauts, each player becomes a time traveler, with a unique identity and a secret mission. During the game, players travel backwards and forwards through history, doing all those things people have always dreamed of using a time machine to do: Visiting the great moments of the past, peeking into the future, collecting up impossible artifacts and priceless works of art (at the moment just before history records their destruction), coming to grips with the paradoxes of time travel, and of course, changing pivotal events and altering the course of history itself. How would the timeline be different if Lincoln and JFK had not been assassinated? And is that the version of reality that you came from originally...the one you must return to in order to win? It's all packed into a fast and easy Fluxx-style card game that will take you to the beginning of time and back again.\n\n",
+    "image": "https://cf.geekdo-images.com/Ksgr5efCoSoXzjveNPJvVA__original/img/mf7xCjyNjyoKR0OZzk4t9PvH9Ik=/0x0/filters:format(jpeg)/pic1909256.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ksgr5efCoSoXzjveNPJvVA__small/img/G03u9daaIYtY5q8wmPHGDm8QBEU=/fit-in/200x150/filters:strip_icc()/pic1909256.jpg",
+    "link": "https://boardgamegeek.com/thing/815",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2000",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.19075",
+    "averageWeight": "1.8495",
+    "boardGameRank": "3491",
+    "mechanics": [
+      "Contracts",
+      "Hand Management",
+      "Modular Board",
+      "Race",
+      "Solo / Solitaire Game",
+      "Sudden Death Ending",
+      "Tags",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Card Game",
+      "Educational",
+      "Political",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Andrew Looney"
+    ]
+  }
+}

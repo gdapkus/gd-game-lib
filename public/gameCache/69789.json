@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:35:53.032Z",
+  "gameDetails": {
+    "id": "69789",
+    "name": "Ascension: Deckbuilding Game",
+    "type": "boardgame",
+    "description": "Ascension: Deckbuilding Game &mdash; originally released as Ascension: Chronicle of the Godslayer &mdash; is a fast-paced deck-building game designed by Magic: The Gathering Pro Tour champions Justin Gary, Rob Dougherty, and Brian Kibler, with artwork by Eric Sabee.\n\nAscension is a deck-building game in which players spend Runes to acquire more powerful cards for their deck. It offers a dynamic play experience where players have to react and adjust their strategy accordingly. Each player starts with a small deck of cards, and uses those cards to acquire more and better cards for their deck, with the goal of earning the most Honor Points by gaining cards and defeating monsters.\n\n",
+    "image": "https://cf.geekdo-images.com/DP20jf4R3RcsjJUwwV1vCw__original/img/O_DcqcBQGcWqO0HhJVojg5-VMoc=/0x0/filters:format(jpeg)/pic2382123.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DP20jf4R3RcsjJUwwV1vCw__small/img/SWczusxnG6IavIPNQXwvorFfqwo=/fit-in/200x150/filters:strip_icc()/pic2382123.jpg",
+    "link": "https://boardgamegeek.com/thing/69789",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.04319",
+    "averageWeight": "2.1377",
+    "boardGameRank": "795",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Robert Dougherty",
+      "John Fiorillo",
+      "Justin Gary",
+      "Brian M. Kibler"
+    ]
+  }
+}

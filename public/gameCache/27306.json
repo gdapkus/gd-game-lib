@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:13:48.287Z",
+  "gameDetails": {
+    "id": "27306",
+    "name": "Venedig",
+    "type": "boardgame",
+    "description": "N&uuml;rnberg 2007 release for 2-5 players aged 10 and above. Contents: 86 swamp tiles, 42 buildings, 42 building cards, 20 treasure tiles, 5 gondolas, 4 builders, 1 board, 1 rules booklet.\n\nThe players use cards to construct buildings in Venice, which is one way of advancing their respective gondolas.\nIn addition, players collect treasure tiles if they place a building in a district adjacent to their gondola, and drain swamps to collect swamp tiles. Swamp and treasure tiles can also be used to advance a player's gondola. At the end of the game, the player whose gondola has moved the farthest, wins.\n\nOnline Play\n\n\n     BrettspielWelt (real-time)\n\n\n",
+    "image": "https://cf.geekdo-images.com/BGKvsFI1JpRTmp655eJ9Kw__original/img/VbW6_CkbqrsUYIuvUwAOGpN4eXk=/0x0/filters:format(jpeg)/pic8865452.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BGKvsFI1JpRTmp655eJ9Kw__small/img/rfPwpMuYAcop9paA-snsZl1ipz4=/fit-in/200x150/filters:strip_icc()/pic8865452.jpg",
+    "link": "https://boardgamegeek.com/thing/27306",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2007",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.28054",
+    "averageWeight": "2.0769",
+    "boardGameRank": "8908",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "City Building"
+    ],
+    "designers": [
+      "Klaus-Jürgen Wrede"
+    ]
+  }
+}

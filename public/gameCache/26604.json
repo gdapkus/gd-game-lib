@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:53:30.968Z",
+  "gameDetails": {
+    "id": "26604",
+    "name": "Forceball",
+    "type": "boardgame",
+    "description": "Forceball is a fast and futuristic sport card game for 2 players. Each match consists of three periods. A period starts with a face-off to decide who's the attacker and who's the defender, and then progresses with the players taking turns either attacking or defending. The period ends when all cards in the deck have been used, and the deck is then reshuffled for the next period.\n\nDuring a period the attacker uses his attack maneuvers &ndash; Pass, Dribble or Shot &ndash; to try to score a goal. The defender uses his defense maneuvers &ndash; Block, Tackle or Interception &ndash; to try to prevent a goal. If the attacker scores a goal or the defender intercepts the ball, the roles are reversed and the game continues.\n\nIn addition to the regular attack and defense maneuvers, the players can use special maneuvers to score a lucky shot or intercept the ball using the goalie. It's also possible to foul by making illegal maneuvers, but beware &ndash; you don't want the referee to see you.\n\nForceball consists of 56 cards and is a complete game in itself, not a trading card game. The game is easy to learn, easy to carry around in your pocket, and a period takes less than 15 minutes. It's suitable both as a filler and for lengthy tournaments.\n\n",
+    "image": "https://cf.geekdo-images.com/zYu6LM7bNnNhHUxMfovqKA__original/img/6mnjdshObQnwJNjD1yyLLvLqxqE=/0x0/filters:format(jpeg)/pic162508.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zYu6LM7bNnNhHUxMfovqKA__small/img/DA995TnwnmZhMIZ3D8j7xsiCqYs=/fit-in/200x150/filters:strip_icc()/pic162508.jpg",
+    "link": "https://boardgamegeek.com/thing/26604",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2006",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.03632",
+    "averageWeight": "2",
+    "boardGameRank": "19350",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Science Fiction",
+      "Sports"
+    ],
+    "designers": [
+      "Daniel Ahlm",
+      "Christoffer Krämer",
+      "Johan Salomonsson"
+    ]
+  }
+}

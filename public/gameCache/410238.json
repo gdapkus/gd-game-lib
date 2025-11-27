@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:11:29.556Z",
+  "gameDetails": {
+    "id": "410238",
+    "name": "Logic & Lore",
+    "type": "boardgame",
+    "description": "Logic & Lore is a cozy-but-competitive deduction game for two players.\n\nRivals race to be the first to align their hidden stars, numbered 1-9. Each player has dragons and mice working together to organize the cosmos: they send their dragons out to gather information and the mice stay back to take notes and make conclusions based on the knowledge brought back by their dragons.\n\nPlayers each start with their set of cards face-down and shuffled. The game ends when either one player aligns all of their cards correctly OR a player chooses to reveal all of their cards. If the cards are correct, they win; otherwise, their opponent wins.\n\nA player's turn is made up of the following steps:\n\nChoose Focus - Pick two cards to find more information\nSearch the Skies - Ask questions about the cards \nMove the Heavens - Move cards to new locations - (Optional)\nAlign the Stars (Optional)\nIf a player either thinks that all of their cards are aligned, they reveal all of their face-down cards and, if they are all correct, they win. Otherwise, they lose.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/lrHAQv_mccR-gulDoHxaJA__original/img/YciAtUa8J2DkWhR8hYFi9nlNrHk=/0x0/filters:format(png)/pic8003054.png",
+    "thumbnail": "https://cf.geekdo-images.com/lrHAQv_mccR-gulDoHxaJA__small/img/zKAq5l0g8qGZgy0kIVmzK4FgUEA=/fit-in/200x150/filters:strip_icc()/pic8003054.png",
+    "link": "https://boardgamegeek.com/thing/410238",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.0709",
+    "averageWeight": "2",
+    "boardGameRank": "8684",
+    "mechanics": [
+      "Deduction",
+      "Questions and Answers"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction"
+    ],
+    "designers": [
+      "Jason Hager",
+      "Darren Reckner"
+    ]
+  }
+}

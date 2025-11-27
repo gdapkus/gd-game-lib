@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T19:33:33.267Z",
+  "gameDetails": {
+    "id": "448445",
+    "name": "Dark Pact",
+    "type": "boardgame",
+    "description": "To win the deck-building game Dark Pact, you need to complete one of the game's thirteen Dark Pacts, each of which has a unique winning condition.\n\nTo set up, each player has a deck of ten cards, with cards being either actions, treasures, or multipliers. Players take turns clockwise until someone achieves a Dark Pact: \"Keeper\" Dark Pacts can stay in play, and if you ever meet their condition based on the cards you have in play, you win; \"Instant\" Dark Pacts are played as an action, and if you meet their condition based on the cards you have in hand, you win. (Alternatively, if the deck runs out, the player with the highest sum of Insight minus Curses wins.)\n\nOn a turn, you play one action from your hand, and an action might let you play additional actions; draw cards; gain cards from the supply; exile cards; and so on. Some cards attack opponents, and they can reveal a react card in response. Played cards stay in your play area.\n\nNext, you can buy cards, first playing treasures from your hand to gain coins. (Action cards played earlier might also have coins on them.) You can purchase cards from the ten-card supply, as well as one card from your grimoire, which starts with three specific cards and to which you can add other cards during play.\n\nYou can modify an action or a treasure by playing x2 and x3 multipliers at the same time. Multipliers affect all numerals on the action or treasure, whether for coins, curses, draws, actions, etc.\n\nTo end your turn, clean up, first carrying out \"clean up\" effects on played cards, then discarding all played cards (except those that can remain in play, such as some Dark Pacts) and cards from your hand that you don't want. If necessary, draw to fill your hand to five cards.\n\nDark Pact includes solitaire rules in which you compete against a bot that tries to win in one of three ways.\n\n",
+    "image": "https://cf.geekdo-images.com/CH49NXU6K7A7l2HmH4m_yA__original/img/NwZ4r5BgvmNOUC0xCbWmybpUVg0=/0x0/filters:format(jpeg)/pic8942612.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CH49NXU6K7A7l2HmH4m_yA__small/img/l9ZH8g_G-0FOVR2COItVBJE4pMk=/fit-in/200x150/filters:strip_icc()/pic8942612.jpg",
+    "link": "https://boardgamegeek.com/thing/448445",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "50",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "50",
+    "bestAtCount": null,
+    "averageRating": "7.5",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Thomas Lehmann"
+    ]
+  }
+}

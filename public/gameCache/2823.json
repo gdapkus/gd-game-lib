@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:09:41.055Z",
+  "gameDetails": {
+    "id": "2823",
+    "name": "Finish Lines",
+    "type": "boardgame",
+    "description": "From the box:\n\n\"... the mind-bending phrase game that challenges players to finish popular quotes from life to literature, from TV to tunes, and from proverbs to Presidents.\n\n\"Be the first player to correctly answer eleven Finish Lines phrases and you're the winner! But remember, \"It's not whether you win or lose...\" Well, you know the rest!\"\n\n",
+    "image": "https://cf.geekdo-images.com/NYubiw4082-hUohhfaPoTg__original/img/o6yVHWuDUDDPAhtrucCffQFa5WY=/0x0/filters:format(jpeg)/pic10378.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NYubiw4082-hUohhfaPoTg__small/img/NefPd4crzO16yJzTsS6274O08CU=/fit-in/200x150/filters:strip_icc()/pic10378.jpg",
+    "link": "https://boardgamegeek.com/thing/2823",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1997",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "5.08371",
+    "averageWeight": "1.4545",
+    "boardGameRank": "27632",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Party Game",
+      "Trivia"
+    ],
+    "designers": [
+      "Joan Moravick"
+    ]
+  }
+}

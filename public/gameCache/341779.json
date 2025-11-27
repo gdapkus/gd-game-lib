@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:07:26.442Z",
+  "gameDetails": {
+    "id": "341779",
+    "name": "Kim-Joy's Magic Bakery",
+    "type": "boardgame",
+    "description": "Your favorite British Baker, Kim-Joy, has moved to a magical forest and opened up a small bakery. Now she needs your help to keep customers happy. From sly foxes to needy cats, gossipy ducks to clumsy dinosaurs, you&rsquo;re about to have your hands full keeping this bakery running smoothly!\n\nKim-Joy&rsquo;s Magic Bakery is a light cooperative card game for 2 to 5 players that tells an adorable story over 10 unique scenarios. No baking experience required!\n\nKim-Joy&rsquo;s Magic Bakery is a cooperative baking card game in which you and your friends are working together to run a bakery in a magical forest. The goal of the game is to bake as many treats as you can for your customers before the day ends and the customers leave. In game terms this means that you and your friends will have a limited number of actions to put together specific sets of ingredients and layers in order to bake increasingly complex treats for your customers.\n The game takes place over a series of 10 scenarios that get progressively tougher. Each scenario adds a new challenge to the game that will force you to adapt and change your strategies. Every time you play, you can work your way through the Scenarios to experience the story, or you can play in freeplay mode to mix and match scenarios for the ultimate co-op baking challenge!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/8erQCUG1vQw9EnCAX1d59Q__original/img/WQbsI4xofJfNa-HIvOa_LsFAcaU=/0x0/filters:format(png)/pic6267705.png",
+    "thumbnail": "https://cf.geekdo-images.com/8erQCUG1vQw9EnCAX1d59Q__small/img/PtjcJWjaj7MCH7386B8VX--bSwk=/fit-in/200x150/filters:strip_icc()/pic6267705.png",
+    "link": "https://boardgamegeek.com/thing/341779",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2021",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.85885",
+    "averageWeight": "1.4444",
+    "boardGameRank": "6729",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Ben Kepner"
+    ]
+  }
+}

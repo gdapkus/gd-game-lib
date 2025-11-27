@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:35:59.881Z",
+  "gameDetails": {
+    "id": "397298",
+    "name": "The Automata Initiative: Liberation – Part 1 (fan expansion for Android: Netrunner)",
+    "type": "boardgameexpansion",
+    "description": "\"Brazil has long been a haven for androids, with human rights extended to both clones and bioroids within its borders. Legislation has been introduced into the Brazilian parliament that would strip bioroids of those very rights and protections. This &ldquo;Automata Initiative&rdquo; would remove their legal personhood from the constitution and cement the status of bioroids as robots without soul or sentience. With tensions building between corporate meddlers, a protesting populace, and sympathetic Runners, the stage is set for a conflict that questions the very nature of what it means to be a person.\"\n\nThe first half of the Liberation cycle for Netrunner. Contains 65 new cards and implements new mechanics.\n\n",
+    "image": "https://cf.geekdo-images.com/lJ1UDgAmRgCk5mDiI8HFqw__original/img/FcUePtzh6LHBvHnApSsA9fsdPlM=/0x0/filters:format(jpeg)/pic7684533.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lJ1UDgAmRgCk5mDiI8HFqw__small/img/Pe8aPkBf3Yw5J5m8NUW-FWIGMKU=/fit-in/200x150/filters:strip_icc()/pic7684533.jpg",
+    "link": "https://boardgamegeek.com/thing/397298",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2023",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "9.00169",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck Construction",
+      "Roles with Asymmetric Information",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fan Expansion",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Julien Chaput",
+      "Zoe Cohen",
+      "McGregor Crowley",
+      "June Valencia Cuervo"
+    ]
+  }
+}

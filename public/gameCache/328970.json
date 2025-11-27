@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:17:47.995Z",
+  "gameDetails": {
+    "id": "328970",
+    "name": "Top Pop",
+    "type": "boardgame",
+    "description": "It is the 1960s, and soda pop has taken off as America's go-to drink. Instead of just getting the refreshing drink over the counter, the soda companies have bottled their sensational soft drink. These bottles are showing up in all of the major cities in grocery stores and vending machines. As the owner of a soda pop company, you need to make sure that your product captures the market it deserves in all of the major cities and that it knocks out the competition leaving just one top pop.\n\nTop Pop is a card game in which players are placing city cards onto the table and stacking bottle caps (which represent the company's influence) onto the played cities on the table. At the start of a player's turn, if their bottle cap is on a higher stack than the other players on a city card, that player collects that city; if not, they continue to try to gain dominance on city cards where they can. Each city comes in two types: day and night. Day city cards are played face-up on the table for all to see. Night city cards are played face down and only the player who played the card and whoever it is in front of can see it. At the end of the game, players earn points for majority control in a city and sets of cities collected.\n\nIn the advanced version of the game, cities also have powers that are earned when a city is collected. A player continues to maintain their power until another player has collected the associated city, at which the power is then transferred.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/LpYv8MhEHIjcMbiI-Z_e9g__original/img/p_sq-ApKyeG9AdD0romflL8wxMk=/0x0/filters:format(png)/pic5953984.png",
+    "thumbnail": "https://cf.geekdo-images.com/LpYv8MhEHIjcMbiI-Z_e9g__small/img/YIhF1M3r-wSaFNonfhi3v9Ctiig=/fit-in/200x150/filters:strip_icc()/pic5953984.png",
+    "link": "https://boardgamegeek.com/thing/328970",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.68049",
+    "averageWeight": "2",
+    "boardGameRank": "17731",
+    "mechanics": [
+      "Set Collection"
+    ],
+    "categories": [
+      "Territory Building"
+    ],
+    "designers": [
+      "Mark McGee",
+      "Joshua J Mills"
+    ]
+  }
+}

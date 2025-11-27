@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T21:09:03.937Z",
+  "gameDetails": {
+    "id": "209660",
+    "name": "Dungeon Alliance",
+    "type": "boardgame",
+    "description": "In the days before the Void consumed much of the Old World, there were stalwart humans, elves, dwarves, and gnomes who banded together to invade the deep places of the earth. These heroes forged unbreakable alliances in search of knowledge, treasure, and glory. Rival adventuring parties would often descend into the same dungeon, and these companies fought one another as fiercely as they battled the monsters that lurked behind every dark corner. These were daring times, when nothing in the world was considered more sacred than the oath that bound those who shared the dangers of the pit together. This was the age of the Dungeon Alliance.\n\nDungeon Alliance is a deck-building, dungeon-crawling miniatures adventure game that allows players to send 1-4 different teams of adventurers into perilous dungeons in search of experience and treasure. At the start of the game, each player drafts their own team of four heroes (from the 17 included in the game) and uses tactical movement and card play to overcome the dungeon's monsters and treasures. Each player starts with a unique twelve-card starting deck that includes the starting cards from all four of their heroes.\n\nRival teams may compete with one another to slay monsters, or even battle one another for complete domination. As each team of heroes overcomes monsters and challenges, they earn experience point (XP) tokens that they can spend to purchase new cards for their alliance decks. Once spent, XP tokens are flipped face down and kept until the end of the game. When the sun greets those who emerge from the pit, the alliance that has accrued the most XP claims the mantle of victory.\n\nDungeon Alliance includes rules for competitive, cooperative, and solo play.\n\nMicrobadges:\n\n\n      Dungeon Alliance fan\n\n\nSpecial Articles:\n\nDungeon Alliance Store\n\nDungeon Alliance FAQ\n\nDungeon Alliance: A Webcomic Adventure\n\nYour First Game of Dungeon Alliance: Advice for your First Steps into Darkness\n\n",
+    "image": "https://cf.geekdo-images.com/Lk09rCRNCXoeJuzkYHBbvg__original/img/iQMu7tp22FOOkjKYVOMGqb4OJ6c=/0x0/filters:format(jpeg)/pic3285236.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Lk09rCRNCXoeJuzkYHBbvg__small/img/srHfGLCVNwZAr68BTgMqkTWR4Ao=/fit-in/200x150/filters:strip_icc()/pic3285236.jpg",
+    "link": "https://boardgamegeek.com/thing/209660",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "180",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.47644",
+    "averageWeight": "3.6714",
+    "boardGameRank": "2543",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Miniatures"
+    ],
+    "designers": [
+      "Andrew Parks"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:50:45.728Z",
+  "gameDetails": {
+    "id": "140343",
+    "name": "Carnival Zombie",
+    "type": "boardgame",
+    "description": "The ancient manuscripts talk about a Leviathan, a huge creature lying on the silt bed of the lagoon on whose back the city has its foundations. All manuscripts agree on its eternal sleep and they all tell that the beast will wake up one day, shaking the city from its muddy roots, smashing the vitrified stilts on which the city stands, and crashing it into the seething sea where the monster will rise. The ancients say, however, that there will be signs; it is written that the Venetians will feel the tremors, that they would therefore save themselves from the monster, who will recover his freedom by plunging into the waves a deserted city.\n\nBut there were no signs. What ancients did not know is that the Leviathan is not alive. For centuries, the city lived and prospered on the back of a corpse. That corpse, though, is now awakening &ndash; and with it the dead arise from the lagoon...\n\nIn the cooperative game Carnival Zombie, players lead a group of characters who are fleeing on terra firma from the terror that has emerged from the lagoon of Venice. This group of characters must make its way through hordes of rotting \"Infected\" to leave the city, and players need to rush as the Leviathan upon which the foundations of Venice were built is awakening. Thus, it's only a matter of time before the city sinks in the dark waters of the lagoon.\n\nEach game is divided into several nights and days. During the nights, players hide in trenches behind the barricades to resist the attacks of the Infected. During the day, players move through the city, which is shaken by tremors. The Infected are drawn by the groans of the Leviathan in the abyss to help their master free itself from the rotting stilts that nail it to the silt bed.\n\nPlayers have several ways to get out of town, but little time to do it &ndash; and their path is hindered by the bosses, the most implacable servants of the Leviathan. If the players do make it out, they can assess their skills &ndash; and set a goal for next time &ndash; by counting the points scored during the game.\n\n",
+    "image": "https://cf.geekdo-images.com/0IwezV4ro3Rxx6QkxEs9VQ__original/img/2W60LU1RPGcfVfV_t9iVLDPsfFc=/0x0/filters:format(jpeg)/pic1616173.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0IwezV4ro3Rxx6QkxEs9VQ__small/img/XEWK57j-fgcpvuPs08Gkw46r5q0=/fit-in/200x150/filters:strip_icc()/pic1616173.jpg",
+    "link": "https://boardgamegeek.com/thing/140343",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2013",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      6
+    ],
+    "averageRating": "7.04267",
+    "averageWeight": "3.3036",
+    "boardGameRank": "3848",
+    "mechanics": [
+      "Action Points",
+      "Action Queue",
+      "Area Movement",
+      "Cooperative Game",
+      "Point to Point Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Horror",
+      "Renaissance",
+      "Zombies"
+    ],
+    "designers": [
+      "Matteo Santus"
+    ]
+  }
+}

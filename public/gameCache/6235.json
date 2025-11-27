@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:07:59.687Z",
+  "gameDetails": {
+    "id": "6235",
+    "name": "The Perilous Parlor Game",
+    "type": "boardgame",
+    "description": "Board game inspired by and based on the Series of Unfortunate Events childrens books by anonymous author \"Lemony Snicket\" in which the Baudelaire orphans are cared for by the evil Count Olaf while hoping for visits from the friendly Mr. Poe, the executor of their estate. Set in the Olaf mansion, one player is Count Olaf, while the other player(s) are the Baudelaire children. The game lasts roughly 24 turns, which is how long it will take Mr. Poe to travel to the bank and back to the mansion to visit the children. While he's gone, it is Count Olaf's job to successfully play Tragedy cards to damage The Guardians health (by moving into a room in the manor on which The Guardian's marker is in then playing a special card), while the children attempt to collect items in the manor with which they can thwart Olaf's schemes and restore health to The Guardian. The children win if Poe manages to get back from the bank, but Olaf wins if he drains all of The Guardian's health and kills him. The theme is extremely well used in this high-presentation childrens game.\n\nExcerpt from the box:\n\"If you wish to play a game where the hero always wins, the villain is forever defeated, and innocent children are brought to warmth and safety, then I encourage you to put this box down immediately and for something involving lollipops, ponies, or educational flashcards. The lives of Violet, Sunny, and Klaus Baudelaire are fraught with sorrow, mis-fortunate, and unpleasantness, and the game in their honor contains the exact same things.\"\n\n",
+    "image": "https://cf.geekdo-images.com/XwoUZLCHvSdNE2CD_qCSTA__original/img/B-aWwOWTTTjVoY4s0NEQzpdhCdw=/0x0/filters:format(jpeg)/pic308160.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XwoUZLCHvSdNE2CD_qCSTA__small/img/quPYlrHCrEjUpa0Rof0IFWARIwM=/fit-in/200x150/filters:strip_icc()/pic308160.jpg",
+    "link": "https://boardgamegeek.com/thing/6235",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2002",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.55718",
+    "averageWeight": "1.76",
+    "boardGameRank": "26120",
+    "mechanics": [
+      "Dice Rolling",
+      "Memory",
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Children's Game",
+      "Dice",
+      "Humor",
+      "Memory",
+      "Novel-based"
+    ],
+    "designers": [
+      "Brian Yu"
+    ]
+  }
+}

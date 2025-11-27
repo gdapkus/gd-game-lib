@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:23:30.434Z",
+  "gameDetails": {
+    "id": "292904",
+    "name": "18Saxonia",
+    "type": "boardgame",
+    "description": "18SX Saxony is an 18XX design that contains thirteen corporations, with up to ten of them being put into play over the course of the game, with \"concessions\" being made to determine who may start which companies distributed in a start-packet system.\n\nThe game has a unique track system in which directors have to choose between single and double track, with those choices having an effect on route length.\n\n18SX Saxony is a heavy reworking of 18SX from the same author.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/_tUcra4JyrPdv2GIUZSb3Q__original/img/zbOS979WwfR9iTm5WkiyhPRN-oI=/0x0/filters:format(jpeg)/pic6419590.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_tUcra4JyrPdv2GIUZSb3Q__small/img/tE9QPZe-YzZfTdtqfTYyAW1bL4s=/fit-in/200x150/filters:strip_icc()/pic6419590.jpg",
+    "link": "https://boardgamegeek.com/thing/292904",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2026",
+    "playingTime": "360",
+    "minPlayingTime": "150",
+    "maxPlayingTime": "360",
+    "bestAtCount": null,
+    "averageRating": "7",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Investment",
+      "Market",
+      "Network and Route Building",
+      "Stock Holding",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Wolfram Janich"
+    ]
+  }
+}

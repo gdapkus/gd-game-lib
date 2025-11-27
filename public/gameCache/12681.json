@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:58:59.476Z",
+  "gameDetails": {
+    "id": "12681",
+    "name": "Neuland",
+    "type": "boardgame",
+    "description": "Neuland is a game about logistics and planning.  In the beginning of the game, the land lies undeveloped, a series of blank hexes representing mountains, forests, and grasslands.  Players win by building and using prestige properties that allow them to place their family's coat-of-arms onto the board -- first to place all their coats of arms wins.\n\nTo use these buildings, though, requires the player have the correct raw materials.  Swords and cloth, for example, or coins and paper.   Each one of these materials needs even more basic materials, such as iron ore, coal, and so on backward toward the most basic elements such as food, wood, and stone.\n\nTo cull these materials from the land, one builds buildings -- a Stonecutter's Hut, Smelter, Coin Manufactury, and so on.  Once on the board, buildings can be used by any player, not just the one who built them.\n\nA player doesn't collect these resources for safekeeping as in The Settlers of Catan or Keythedral.  Instead, resources claimed via buildings must be used up either in the player's current turn or his next one.  If he doesn't, the resources spoil and are removed from the board.\n\nEssentially, the challenge of the game is one of planning logistical supply chains which will allow one to process these resources most efficiently to build the prestige properties the fastest.  Since it's a perfect information game, one can also see what one's opponents are scheming, and place workers to interrupt their supply chains, possibly causing their resources to spoil and making the player start from zero again.\n\nNeuland's most interesting innovation is perhaps its Time Track Mechanism, in which players who take less actions in a turn will have turns more frequently, and can forward-plan in order to take a long turn of nearly twenty actions instead of the ordinary maximum of ten.\n\nNeuland was originally published by eggertspiele in 2004, and republished by Z-man in 2006 with some significant rules changes.  A majority of BGG users seem to strongly prefer the original eggertspiele rules. Also heavily recommended is the rules re-write file available for download here on BGG, for the one that comes with the 2nd edition is nearly incomprehensible.\n\n",
+    "image": "https://cf.geekdo-images.com/QgMrh4uKVO_f6VwYcDHCuQ__original/img/wEb5mdb8pWkLYw81So7cTUspY9Q=/0x0/filters:format(jpeg)/pic299414.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QgMrh4uKVO_f6VwYcDHCuQ__small/img/uNtBFW7e1HUNDOAnlPXcFz70H8g=/fit-in/200x150/filters:strip_icc()/pic299414.jpg",
+    "link": "https://boardgamegeek.com/thing/12681",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.45981",
+    "averageWeight": "3.7",
+    "boardGameRank": "3957",
+    "mechanics": [
+      "Action Points",
+      "Tile Placement",
+      "Turn Order: Time Track",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Civilization",
+      "Economic"
+    ],
+    "designers": [
+      "Peter Eggert",
+      "Tobias Stapelfeldt"
+    ]
+  }
+}

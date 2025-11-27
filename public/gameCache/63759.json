@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:31:27.861Z",
+  "gameDetails": {
+    "id": "63759",
+    "name": "Seeland",
+    "type": "boardgame",
+    "description": "Seeland plays in the golden era of the Netherlands (17th century). In this time the province Seeland (Zeeland) gains ever more power, prosperity and significance. The object of the game is to expand and extract more land surface from the sea. Players live as a respected burgher in this time and take part in the land reclamation.\n\nThe game board shows 3 main sections - the scoring track around the edge, a rondel where you gather seed tiles and windmill tiles, and the land area where you place and/or reveal tiles for scoring. Setup includes randomly placing \"island\" tiles on spaces designated in the land area. At the beginning of the game, you place one of your 4 windmill pawns in the special starting area indicated in approximately the center of the land area.\n\nThe rondel uses a unique method for determining which tiles are available in the inner ring of the market. If you select a seed tile, (cabbage, rapeseed, or tulips) you must place it on an empty space adjacent to one of your windmill pawns. If you choose a windmill tile, you place it on an empty space adjacent to a space already containing a tile. All tiles have a victory point number (some are zero). When you surround a windmill, you total the adjacent tiles and score that amount on the track, if you have at least 2 types of seed amongst the adjacent tiles. If all tiles are of the same type, no points are scored. If all 3 types are present, add 5 points to the total.\n\nIf you place a windmill next to one or more island tiles, you flip them over to reveal their type. They may be seeds or a farm. If you reveal a farm, you get a coin which can be used to take an immediate second turn.\n\nWhen either the supply of windmill tiles or of seed tiles is exhausted, the game will soon end. (The exact end time depends on the movement within the rondel.)\n\nIf you are playing with the set of rules that allow for end game bonus points, score them, and the player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/6sU4Tpzy692G286VEfL8Ew__original/img/FP9pJDbIXX42RW2mbqi02B-O-AU=/0x0/filters:format(jpeg)/pic626413.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6sU4Tpzy692G286VEfL8Ew__small/img/dkULph9U6Kw_65g6XVsLB46DDV8=/fit-in/200x150/filters:strip_icc()/pic626413.jpg",
+    "link": "https://boardgamegeek.com/thing/63759",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.90244",
+    "averageWeight": "2.2963",
+    "boardGameRank": "2250",
+    "mechanics": [
+      "Hexagon Grid",
+      "Rondel",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Günter Burkhardt",
+      "Wolfgang Kramer"
+    ]
+  }
+}

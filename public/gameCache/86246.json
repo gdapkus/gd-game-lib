@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:27:12.176Z",
+  "gameDetails": {
+    "id": "86246",
+    "name": "Drum Roll",
+    "type": "boardgame",
+    "description": "In Drum Roll each player takes over the role of a circus owner in the early 1900s. Each player moves around Europe hiring performers and giving shows.\n\nThere are five main categories of performers: the Tamers, the Acrobats, the Bizarre, the Magicians, and the Jugglers. Each of them have different demands the player must fulfill in order to give their best performance.\n\nThe requirements, which vary between performers, are Rehearsal, Equipment, Supplies, Costumes, and Promotion. There are three levels of performances that each performer can end up doing in a show: a poor one, a good one, and an outstanding one. The higher the level of performance, the more requirements each performer will have to fulfill in order to achieve it.\n\nThe better the performance, the more each player can get out of it. When performers do outstanding performances, the player must choose between getting the maximum amount of benefit out of them, or getting the Prestige Points they are offering. There are also other ways to improve a circus such as trailers, investments, and personnel that will help your performers do their best.\n\n",
+    "image": "https://cf.geekdo-images.com/eqE8QDBDSZn-yOFuGbLNUA__original/img/3u-mi4EcYq3UzvB1O3v3zdCEv1g=/0x0/filters:format(jpeg)/pic979376.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eqE8QDBDSZn-yOFuGbLNUA__small/img/qgxzZjaFcY6qo0aP-SioW0gkx4s=/fit-in/200x150/filters:strip_icc()/pic979376.jpg",
+    "link": "https://boardgamegeek.com/thing/86246",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.85924",
+    "averageWeight": "3.0301",
+    "boardGameRank": "2569",
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection",
+      "Voting",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic"
+    ],
+    "designers": [
+      "Dimitris Drakopoulos",
+      "Konstantinos Kokkinis"
+    ]
+  }
+}

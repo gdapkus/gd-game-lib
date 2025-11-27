@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T19:33:22.715Z",
+  "gameDetails": {
+    "id": "338957",
+    "name": "Caesar!: Seize Rome in 20 Minutes!",
+    "type": "boardgame",
+    "description": "The Roman Republic is coming to an end, but not before a power struggle between Caesar and Pompey. Players will command their legions, strategically deploying them to key battlegrounds to try and seize control of the provinces and become ruler of the republic.\n\nPlayers draw tokens from a bag to determine their starting forces and to replenish their losses. Players allocate their resources to each province, gaining tactical advantages and vying for control of the republic.\n\nThree modules to expand the game are included: poison your opponent, deploy powerful Centurions and use underhanded tactics to gain advantages in the Expansions of Rome.\n\n",
+    "image": "https://cf.geekdo-images.com/Mw_WmNeSTRgEgiQG87YPgQ__original/img/fgw5B0oFNDZlNj6Yig97m4625lI=/0x0/filters:format(png)/pic6228356.png",
+    "thumbnail": "https://cf.geekdo-images.com/Mw_WmNeSTRgEgiQG87YPgQ__small/img/vq3rQ-SOu-77cD61UeJq58dcZZQ=/fit-in/200x150/filters:strip_icc()/pic6228356.png",
+    "link": "https://boardgamegeek.com/thing/338957",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2021",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.5219",
+    "averageWeight": "1.9492",
+    "boardGameRank": "797",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Chit-Pull System",
+      "Simulation",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Ancient",
+      "Civil War",
+      "Wargame"
+    ],
+    "designers": [
+      "Paolo Mori"
+    ]
+  }
+}

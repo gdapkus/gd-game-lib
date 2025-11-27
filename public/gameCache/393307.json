@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:32:25.030Z",
+  "gameDetails": {
+    "id": "393307",
+    "name": "Tower Up",
+    "type": "boardgame",
+    "description": "Congratulations! Your architectural firm has been selected to renovate the city's downtown...but you're not the only ones. To pip your opponents at the post, you need to manage your resources and carefully plan your constructions. Be careful not to leave too many opportunities to your competitors!\n\nEach turn in Tower Up, you either:\n\n\n     Pick a card and take the corresponding resources, or\n     Use your resources to construct a new building: choose an empty spot, pay the cost to adjacent buildings, place a roof, and earn the corresponding points.\n\n\n",
+    "image": "https://cf.geekdo-images.com/3GBPmFILs8upxBhdQIvwTA__original/img/Htgk-wtMFcr6_8n2DAvur_y1TdA=/0x0/filters:format(jpeg)/pic8143457.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3GBPmFILs8upxBhdQIvwTA__small/img/1jM40AdYqOdA76UK6nghT_19emk=/fit-in/200x150/filters:strip_icc()/pic8143457.jpg",
+    "link": "https://boardgamegeek.com/thing/393307",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.34275",
+    "averageWeight": "1.8676",
+    "boardGameRank": "1656",
+    "mechanics": [
+      "End Game Bonuses",
+      "Kill Steal",
+      "King of the Hill",
+      "Open Drafting",
+      "Race",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "City Building"
+    ],
+    "designers": [
+      "Frank Crittin",
+      "Grégoire Largey",
+      "Sébastien Pauchon"
+    ]
+  }
+}

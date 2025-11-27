@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:00:47.410Z",
+  "gameDetails": {
+    "id": "33451",
+    "name": "The Red Dragon Inn 2",
+    "type": "boardgame",
+    "description": "The Red Dragon Inn 2 is a standalone game that can be combined with the original The Red Dragon Inn to create adventuring parties of up to eight drunken players. The Red Dragon Inn 2 includes its own drink deck, player mats, counters, Gold, markers, and the following heroic adventurers:\n\n\n    Dimli the Dwarf: Grumpy, but tough and loyal, Dimli always seems to have a stash of gold secreted away somewhere. He can pretty much drink anyone else under the table. He's really, really good with his matched set of dwarven axes. He's not so good with darts, though. When he starts playing, duck. \n    Eve the Illusionist: Eve defies description, mostly because we don't know what she really looks like. Her powers of illusion have saved her friends countless times from the extremely gullible monsters of the deep dungeon. She's been known to use her skills on her fellow party members when she gets bored. \n    Fleck the Bard: Fleck is a dashing half-elf, ready with a smile or a song. His heroic tales and stirring lute-playing raises his friends' spirits, filling them with courage as they face the horrors of the deep dungeon. Fleck is always up for carousing, no matter the day or night. All the girls think he's so dreamy. \n    Gog the Half-Ogre: A hulking brute from the flinty mountains who unfortunately doesn't know his own strength. He's not the brightest torch in the dungeon, but he's a nice guy and he tries hard. Never, ever dance with Gog.\n\n\n",
+    "image": "https://cf.geekdo-images.com/IN7_CaqjdA1y-wk83q4Ttg__original/img/uyi-5ug8cC7IGrGofB9gC3OsliY=/0x0/filters:format(jpeg)/pic8623829.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/IN7_CaqjdA1y-wk83q4Ttg__small/img/65cyRKdoTWo6ukznkq74qSrQmj8=/fit-in/200x150/filters:strip_icc()/pic8623829.jpg",
+    "link": "https://boardgamegeek.com/thing/33451",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.91723",
+    "averageWeight": "1.8056",
+    "boardGameRank": "1933",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Hand Management",
+      "Player Elimination",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Humor",
+      "Medieval",
+      "Party Game"
+    ],
+    "designers": [
+      "Cliff Bohm",
+      "Geoff Bottone",
+      "Colleen Skadl"
+    ]
+  }
+}

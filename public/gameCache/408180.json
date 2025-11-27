@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:31:32.441Z",
+  "gameDetails": {
+    "id": "408180",
+    "name": "Shackleton Base: A Journey to the Moon",
+    "type": "boardgame",
+    "description": "A permanent base is being built in the Shackleton crater at the Moon's South Pole. You're leading one of the space agencies that are working together to expand their presence on the base, while at the same time the three major corporations sponsoring the mission are each pursuing their own agenda. In Shackleton Base: A Journey to the Moon, you will build structures on the base, while also funding projects from the corporations that provide special abilities and scoring opportunities.\n\nAt the start of the game, pick three corporations randomly from the seven available. Each corporation introduces new projects, actions, and scoring opportunities, along with their specific mechanisms. The game is played over three rounds, each divided into three phases:\n\n&bull; Shuttle phase: Each player drafts a shuttle tile from an open display to determine which type of astronauts and resources they can use that round, as well as the turn order for the next phase.\n\n&bull; Action phase: Players take turns deploying their astronauts on the moon to collect resources, build structures, or fund projects. Depending on which corporations were selected, different types of resources will be available, resources that can be used in various ways for the projects or to build structures. Each project provides ongoing abilities and scoring opportunities. Each corporation provides different ways to score points, which could be during the action phase, the maintenance phase, or at game's end.\n\n&bull; Maintenance phase: Deployed astronauts are assigned to work on the structures (providing a bonus to the player owning them), then players collect income and pay maintenance costs. If corporations in play have end-round effects, those effects take place.\n\nThe end of the game brings a final scoring, then the player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__original/img/-QciIr30xD5cVmYZVZ_VwuigwSQ=/0x0/filters:format(jpeg)/pic7897060.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__small/img/DAbZgOJbckBSg9Qq8rpdEhzpq_I=/fit-in/200x150/filters:strip_icc()/pic7897060.jpg",
+    "link": "https://boardgamegeek.com/thing/408180",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.00943",
+    "averageWeight": "3.8805",
+    "boardGameRank": "718",
+    "mechanics": [
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Fabio Lopiano",
+      "Nestore Mangone"
+    ]
+  }
+}

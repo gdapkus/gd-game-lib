@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:28:00.114Z",
+  "gameDetails": {
+    "id": "18207",
+    "name": "Gloom: Unhappy Homes",
+    "type": "boardgameexpansion",
+    "description": "The Gloom: Unhappy Homes expansion adds one player and 55 cards to the game. Here is a description of the expansion from the publisher:\n\nIn the Gloom card game, you make your eccentric family of misfits suffer the greatest tragedies possible before helping them pass on to the well-deserved respite of death. Just mix the 55 transparent cards included in this set together with your copy of Gloom to add morbid new Modifiers, Events, and Untimely Deaths, and a new family -- the artistes of Le Canard Noir, whose creative endeavors always end in disaster.\n\nWhen art lets you down, the Black Duck is there for you. This dingy cafe is home to a motley assortment of washed-up bohemians. Here the tormented painter Rosseau buys drinks for neurotic models and destitute poets, while a troubled actress and sickly courtesan compare notes across the way.\n\nAlso included are five Residences with a light blue background behind their central illustration. These are each placed next to their related family at the start of the game. New cards called Mysteries, which have a dark blue effects bar at the bottom, are also shuffled into the deck before play. A Mystery is the only card that can be placed on a Residence (and only a Residence), and can be placed on any Residence as either of your two plays. It gives that Residence's player a special effect and Pathos points that count toward his final Family Value. A Mystery remains even if the requirements for playing it are lost. You may discard a Mystery from your hand as a free play.\n\n",
+    "image": "https://cf.geekdo-images.com/X4r-ot5LLbkW_NQnQqgkRw__original/img/iTYwyKXiViNPLvfd-Qc0mw8a598=/0x0/filters:format(jpeg)/pic2031889.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X4r-ot5LLbkW_NQnQqgkRw__small/img/z2hIYWd_YwYunohguw9hc6OMjPo=/fit-in/200x150/filters:strip_icc()/pic2031889.jpg",
+    "link": "https://boardgamegeek.com/thing/18207",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2005",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.6493",
+    "averageWeight": "1.697",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Storytelling",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Humor"
+    ],
+    "designers": [
+      "Keith Baker"
+    ]
+  }
+}

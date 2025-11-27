@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:15:14.942Z",
+  "gameDetails": {
+    "id": "306722",
+    "name": "Rise of Tribes: Beasts & Bronze",
+    "type": "boardgameexpansion",
+    "description": "In Rise of Tribes players built villages, discovered pottery and tamed a mammoth - now it's time to take it to the next level with Beasts & Bronze.\n\nBeasts is a deck of new animal-themed events that can be played alone or mixed with the original event deck. Players will face off against crocodiles, cave bears and wolf packs along with other creatures, some helpful and some best avoided.\n\nBronze provides a new path to victory - complete the tasks to acquire Trade Routes, Metallurgy and Writing and players immediately advance to the Bronze Age, and win! Victory points are so Stone Age.\n\nBeasts & Bronze may be played separately or combine them together along with any of the special terrain, tribal elders, or leader powers from the base game - adding to the array of Rise of Tribes Advanced Play modules available as we step into the future!\n\n",
+    "image": "https://cf.geekdo-images.com/Co_HZRbYLvJl0yJJ78OY3A__original/img/IT3fxJlsjF9AtqKav7oWRzavZ6g=/0x0/filters:format(jpeg)/pic5331350.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Co_HZRbYLvJl0yJJ78OY3A__small/img/3CBNVaanWf-2RQ0wipke06EbTLk=/fit-in/200x150/filters:strip_icc()/pic5331350.jpg",
+    "link": "https://boardgamegeek.com/thing/306722",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.52643",
+    "averageWeight": "2.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Animals",
+      "Civilization",
+      "Dice",
+      "Expansion for Base-game",
+      "Prehistoric"
+    ],
+    "designers": [
+      "Brad Brooks"
+    ]
+  }
+}

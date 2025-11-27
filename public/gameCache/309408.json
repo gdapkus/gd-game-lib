@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T19:31:27.348Z",
+  "gameDetails": {
+    "id": "309408",
+    "name": "Arcana Rising",
+    "type": "boardgame",
+    "description": "Arcana Rising invites up to six spellcasters to participate in a competition to acquire arcane artifacts and cast mighty spells in an effort to gain knowledge and power. As they gather their mystical relics, they note the passing of the moons, which amplify the power of certain schools of magic, allowing wizards to cast spells at the peak of their power!\n\nArcana Rising is a drafting and engine-building game in which players compete over three rounds to craft a magical engine that will power their collected artifacts and generate points for them at the end of the game.\n\nOn a turn, players select a single card from the pile they are passed. Once a card has been selected, players pass the remaining cards clockwise, then choose whether to add the newly acquired card to their tableau OR to discard the card in order to run their engine and cast their spells. Randomized moon tokens tell players which of their spells may be cast. Therefore, the timing of executing your powers is nearly as important as the powers themselves.\n\nThe cards fall into schools of Charms, Herbology, Blood Arts, Potions, Alchemy, and Artifacts. Only a single type of spell can be cast each turn,  depending on a randomized order for that round.\n\nAfter three rounds of drafting, players calculate their scores based on the unique set of artifacts they have collected, and the player with the most victory points wins!\n\n&mdash;description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/FXDfYentfwG-5f7Bui-pPw__original/img/JFaGPGqMLhOzjM12llt9FiQMnZg=/0x0/filters:format(jpeg)/pic5529076.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FXDfYentfwG-5f7Bui-pPw__small/img/TQUwA3QGS8vYqsa1O37hXYj89TM=/fit-in/200x150/filters:strip_icc()/pic5529076.jpg",
+    "link": "https://boardgamegeek.com/thing/309408",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "60",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.82098",
+    "averageWeight": "2.125",
+    "boardGameRank": "3875",
+    "mechanics": [
+      "Closed Drafting",
+      "End Game Bonuses",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Fantasy"
+    ],
+    "designers": [
+      "Tim Armstrong (II)"
+    ]
+  }
+}

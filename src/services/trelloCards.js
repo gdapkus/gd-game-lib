@@ -30,6 +30,7 @@ async function getGameDetails(bggGameId) {
     // Query the BGG API for game details
     try {
         console.log(`Retrieving Game ID:${bggGameId}`);
+            await wait(2000); // wait 1 seconds before moving on to the next game
         const response = await axios.get(`https://boardgamegeek.com/xmlapi2/thing?id=${bggGameId}&stats=1`, {
             headers: bggApiToken ? { Authorization: `Bearer ${bggApiToken}` } : {}
         });
@@ -277,6 +278,11 @@ async function getInstructionalVideoLink(gameId) {
 }
 
 
+// Helper function to add a delay
+function wait(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 
 // Export the functions
 module.exports = { createTrelloCard, getTrelloLists, getGameDetails};
+

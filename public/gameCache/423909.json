@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:35:57.461Z",
+  "gameDetails": {
+    "id": "423909",
+    "name": "Ashes Reborn: Red Rains – The Spawn of Shadowreck",
+    "type": "boardgameexpansion",
+    "description": "The haggard, spired city of Shadowreck has become host to a hulking, insectoid Chimera. Screams echo through the streets as folk are snatched away, their bodies devoured, or worse, entombed in webs in the catacombs beneath the streets. There citizens hang, helpless, watching the pulsating egg sacs whose hatchlings they have been doomed to feed!\n\nPlay as returning Phoenixborn Rimea, Sembali, Victoria, or Hope, each wielding exciting new signature cards. Use the included new illusion magic player deck to slay this new fiendish terror. Confound the monster with deceitful spells before its brood can erupt!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/m9KAKC5zYAmhUu2RTWAlqw__original/img/E33QGxJwIRyUDOdePd1seCIJba0=/0x0/filters:format(png)/pic8282757.png",
+    "thumbnail": "https://cf.geekdo-images.com/m9KAKC5zYAmhUu2RTWAlqw__small/img/jk9qRTLwecFETpmIe2J7FAjVT0M=/fit-in/200x150/filters:strip_icc()/pic8282757.png",
+    "link": "https://boardgamegeek.com/thing/423909",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "8.67179",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Cooperative Game",
+      "Deck Construction",
+      "Dice Rolling"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Dice"
+    ],
+    "designers": [
+      "Nick Conley",
+      "Isaac Vega"
+    ]
+  }
+}

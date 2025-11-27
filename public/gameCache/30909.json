@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:24:31.349Z",
+  "gameDetails": {
+    "id": "30909",
+    "name": "Ca$h 'n Gun$: Yakuzas",
+    "type": "boardgameexpansion",
+    "description": "With this expansion you can play Ca$h'n Gun$ with 9 players now. \nAlso there are new weapons (Tantos, Shuriken & Shotgun), new cards with special powers and some nice object-cards.\n\nExpands:\n\n    Ca$h 'n Gun$\n\n\n",
+    "image": "https://cf.geekdo-images.com/r98HIaiZIRgfCw4fvS7SYg__original/img/RsEwXAdzwsKcblfddM7RGSTV4Kw=/0x0/filters:format(jpeg)/pic230802.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/r98HIaiZIRgfCw4fvS7SYg__small/img/sOFhZde9I6WWAnQGOmnqOX9zWKE=/fit-in/200x150/filters:strip_icc()/pic230802.jpg",
+    "link": "https://boardgamegeek.com/thing/30909",
+    "minPlayers": "6",
+    "maxPlayers": "9",
+    "yearPublished": "2007",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      9
+    ],
+    "averageRating": "6.53559",
+    "averageWeight": "1.5385",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Player Elimination",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Expansion for Base-game",
+      "Fighting",
+      "Humor",
+      "Mafia",
+      "Negotiation",
+      "Party Game"
+    ],
+    "designers": [
+      "Ludovic Maublanc"
+    ]
+  }
+}

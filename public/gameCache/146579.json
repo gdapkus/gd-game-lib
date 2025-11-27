@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:08:06.952Z",
+  "gameDetails": {
+    "id": "146579",
+    "name": "Quilt Show",
+    "type": "boardgame",
+    "description": "Award-winning quilt makers devote considerable effort to collecting fabrics for their stashes. They shop for specific colors, often ranging into neighboring hues to achieve a nuanced, scrappy look. Quilters love a sale, where they may buy fabric just to have it on hand. If they can't find the colors they want, they sometimes hand dye their own fabric. They use their time and skills converting fabric into blocks, which they combine to make quilts. Often, quilters work on more than one quilt at a time to keep things interesting. They may embellish their quilts with intricate quilting stitches. The best quilters make good color choices, combine blocks skillfully, use their time well, and win generous purchase awards when they enter their quilts in shows.\n\nIn Quilt Show, \"quilters\" collect fabric cards, which can be exchanged for block tiles. The quilters race the clock as they amass block tiles that they can combine into one or more quilts at a time. They can mix block tiles of a single color or a single pattern to make a quilt. Three times during the game, when the clock reveals it is time for a quilt show, quilts are entered and prize money is awarded. At game's end, the quilter with the most prize money wins!\n\n",
+    "image": "https://cf.geekdo-images.com/8YaG0qBBYGda6X6Lmws31g__original/img/2hY0-0b6tyQPt_oOmFCtUqXcNOg=/0x0/filters:format(jpeg)/pic1868666.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8YaG0qBBYGda6X6Lmws31g__small/img/4Fuk_bEdphxNzNUMkEAkN9yVj80=/fit-in/200x150/filters:strip_icc()/pic1868666.jpg",
+    "link": "https://boardgamegeek.com/thing/146579",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.39613",
+    "averageWeight": "1.8974",
+    "boardGameRank": "7271",
+    "mechanics": [
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [],
+    "designers": [
+      "Steve Bennett",
+      "Judy Martin"
+    ]
+  }
+}

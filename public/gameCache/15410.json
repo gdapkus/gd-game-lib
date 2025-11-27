@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:32:49.594Z",
+  "gameDetails": {
+    "id": "15410",
+    "name": "Walk the Dogs",
+    "type": "boardgame",
+    "description": "\"From the SimplyFun website\"\n\nWalk the Dogs&trade;\nUnleash 63 Miniature Dogs That Won't 'Flea' From Your Table\n\nGrab a leash and get ready to Walk the Dogs! Each player collects dogs from the front or back of a long line by drawing and playing cards. But, beware of the dog catcher who may steal some of your favorite dogs. To win, collect five of the same breed in a row, or have the most dog points in your own line. Woof!\n\nWhat breeds come in the game?\nPoodle, Pug, Brittany Spaniel, Shitzu, Scottish Terrier, Golden Retriever, and Pomeranian...and they're all rescue dogs!\n\nIncludes:\n63 Miniature Dogs in 7 different breeds\n53 Cards - 18 red, 18 green, 6 yellow, 3 dog catchers, 5 bones and 3 leashes \n1 \"Doggie Bag\"\n2 Score Sheets\n1 Instruction Booklet\n1 FunMemories&trade; Booklet\n\nWHAT THEY'LL LEARN: Counting & Early Multiplication, Risk & Reward\n\n",
+    "image": "https://cf.geekdo-images.com/1J6wYpgA1U5nNgOKtsAd7Q__original/img/WH7fL9ZcKIPduKkHBPrgzpNkeeI=/0x0/filters:format(jpeg)/pic352854.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1J6wYpgA1U5nNgOKtsAd7Q__small/img/WbNwyypt-LuFJMK5AaFzXnD5ov0=/fit-in/200x150/filters:strip_icc()/pic352854.jpg",
+    "link": "https://boardgamegeek.com/thing/15410",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2004",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.14498",
+    "averageWeight": "1.1875",
+    "boardGameRank": "9216",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "Animals"
+    ],
+    "designers": [
+      "Alan R. Moon",
+      "Aaron Weissblum"
+    ]
+  }
+}

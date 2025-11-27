@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:02:56.687Z",
+  "gameDetails": {
+    "id": "38929",
+    "name": "Taurus",
+    "type": "boardgame",
+    "description": "Translated & abbreviated from the publisher's site:\n\nTaurus is a 100% strategy game without long waiting times for players.\nThe object of the game is to catch Bulls by planning fences. You catch them between long and short cords between poles you plant on the gameboard.\n\nThe game is made in a limited edition, with luxurious parts: A wooden board (40 x 40 cm) with pre-drilled holes for the wooden poles, more than 100 cords, 48 tin Bulls\n\n",
+    "image": "https://cf.geekdo-images.com/78yTHjsZi72GEOcp9JFetA__original/img/UDGacKgr6bFGH7JxdvSxUMYdZ_4=/0x0/filters:format(jpeg)/pic5103128.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/78yTHjsZi72GEOcp9JFetA__small/img/nA10uOZTlfLdT7fFRA3BkQZNyh0=/fit-in/200x150/filters:strip_icc()/pic5103128.jpg",
+    "link": "https://boardgamegeek.com/thing/38929",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.70303",
+    "averageWeight": "2.5",
+    "boardGameRank": "15991",
+    "mechanics": [],
+    "categories": [
+      "Abstract Strategy",
+      "Animals"
+    ],
+    "designers": [
+      "Peter Wichmann"
+    ]
+  }
+}

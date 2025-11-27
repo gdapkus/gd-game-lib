@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:54:41.671Z",
+  "gameDetails": {
+    "id": "69638",
+    "name": "Goblin Market",
+    "type": "boardgame",
+    "description": "Backwards up the mossy glen\nTurned and trooped the goblin men\nWith their shrill repeated cry,\n\"Come buy, come buy.\"\n\nDealing with goblins is always a struggle with temptation, leading through in the loss of innocence, ultimately revealing the power of sisterhood. Yet goblins are oblivious to symbolism. For them, it is just a matter of economics.\n\nThis Decktet game, inspired by Christina Rossetti's poem of the same name, is a series of auctions in which players buy cards on the goblins' terms: They'll give you coins for nothing, until you've won some auctions --- but later, your only way to get more coins will be from your fellow players.\n\nThis description is adapted from the Decktet Book, where the game first appeared.\n\nRules: Decktet Wiki\n\n",
+    "image": "https://cf.geekdo-images.com/oryC09J_yhNV7BQ2WsmQ4Q__original/img/AnQtAY3_6hjd_vi6r5_yqXWUiFE=/0x0/filters:format(jpeg)/pic738724.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oryC09J_yhNV7BQ2WsmQ4Q__small/img/wbIgYVHUQwmCTsHy1QfdfmRSGWo=/fit-in/200x150/filters:strip_icc()/pic738724.jpg",
+    "link": "https://boardgamegeek.com/thing/69638",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2010",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.73061",
+    "averageWeight": "1.3333",
+    "boardGameRank": "16927",
+    "mechanics": [
+      "Auction / Bidding",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Fantasy",
+      "Print & Play"
+    ],
+    "designers": [
+      "P. D. Magnus"
+    ]
+  }
+}

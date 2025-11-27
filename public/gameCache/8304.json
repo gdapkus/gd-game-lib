@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:02:08.701Z",
+  "gameDetails": {
+    "id": "8304",
+    "name": "So Long Sucker",
+    "type": "boardgame",
+    "description": "Hausner, M., Nash, J. F., Shapley, L. S. and Shubik, M., (1964), \"'So Long Sucker,' A Four-Person Game\". In M. Shubik (ed.) Game Theory and Related Approaches to Social Behavior, John Wiley & Sons, Inc., New York.\n\nThis game was devised in 1950 as a simple social game to model the behavior of people when forming coalitions.  To make progress in the game you must form a coalition with at least one other player, but to actually win requires betraying your coalition.  It is said that 'The four authors still occasionally talk to each other' and the initial tests of the game resulted in married couples going home from parties in separate cabs.\n\nThe objective is to be the last player with a stockpile of chips.  (Each player starts with seven of a unique color.) Each play reduces your stockpile by one chip, and it is replenished through captures or gifts from other players. Players have some measure of control over who plays next, but captures either benefit another player or require that another player chooses to let you make a capture.\n\nPlayers may form any non-binding agreements provided that all discussion is done at the table.  Working together allows players to capture chips and force other players out of the game.  In the end, one player must betray their coalitions to win.\n\nThe authors are also responsible for inventing the dollar auction and a great deal of economic theory.\n\n",
+    "image": "https://cf.geekdo-images.com/UvvNEJqcgl0MLF22tTvQrg__original/img/vV8H69xxLNFwtses5-1T-CpwKjA=/0x0/filters:format(jpeg)/pic80667.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UvvNEJqcgl0MLF22tTvQrg__small/img/N4tUV9KX8-EmkywflzZGrqYCzmA=/fit-in/200x150/filters:strip_icc()/pic80667.jpg",
+    "link": "https://boardgamegeek.com/thing/8304",
+    "minPlayers": "4",
+    "maxPlayers": "4",
+    "yearPublished": "1964",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.2589",
+    "averageWeight": "1.8333",
+    "boardGameRank": "16594",
+    "mechanics": [
+      "Player Elimination",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Economic",
+      "Negotiation"
+    ],
+    "designers": [
+      "Mel Hausner",
+      "John Nash",
+      "Lloyd S. Shapley"
+    ]
+  }
+}

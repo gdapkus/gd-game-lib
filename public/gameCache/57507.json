@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:29:09.168Z",
+  "gameDetails": {
+    "id": "57507",
+    "name": "Kriegbot Expansion",
+    "type": "boardgameexpansion",
+    "description": "Includes new weapons, systems and skins to fight with, including but not limited to: Cluster Bombs, Infantry Pods, Electrolasers, UAVs, Super-steel Rams, Limpet Mines, and Thermal Lances.\n\nThe Expansion also introduces a new type of card, the Powercore, which tracks your robot's battery level. Use your stored energy to activate the Powercore's special ability or to overcharge your electrical weaponry and unleash devastating attacks, but manage your energy levels wisely otherwise you might find your robot out of juice when you need it most.\n\nThe Expansion also introduces infantry to the fray and provides rules allowing your pilots to fight on foot if their robot becomes crippled.\n\nTen new scenarios are included which cover new ground including solitaire, pilot rescues, orbital insertions, free-for-alls and a post-apocalyptic campaign.\n\nIncludes:\n\n6 Extra Vehicle Figures\n6 Power Core Cards\n32 Design Cards\n20 infantry, Mine, & UAV Tents\nExpansion Game Rules\nScience Behind the Game\nKriegbot Errata\n\n",
+    "image": "https://cf.geekdo-images.com/Mdd1Q_2T5sfRN-tWtqm8qw__original/img/yyGpF1ukHmUbrdSNvq0OuqTjXmE=/0x0/filters:format(jpeg)/pic571616.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Mdd1Q_2T5sfRN-tWtqm8qw__small/img/EugEXr0VsEif6BUmXXMvTf8F7yc=/fit-in/200x150/filters:strip_icc()/pic571616.jpg",
+    "link": "https://boardgamegeek.com/thing/57507",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2009",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.37105",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Matt Eklund"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:18:33.756Z",
+  "gameDetails": {
+    "id": "445044",
+    "name": "Wispwood",
+    "type": "boardgame",
+    "description": "Is that a light at the end of the&hellip; branch?\n\nA curious cat prowls into the forest, lured by flickering lights of all colors dancing through the trees. What are they? Oh, the wisps from the old tales! Each one sparkles with charm and mischief, carrying a unique personality. Can you guide them just right and make your forest the brightest?\n\nWelcome to Wispwood, a magical place populated by glowing wisps. On your turn, choose a wisp tile and a shape to place in your personal grid &mdash; your very own growing forest. Each wisp has desires about where it wants to shine, and even the magical trees have preferences! You'll aim to meet their expectations across three scoring rounds. Between rounds, the forest shifts &mdash; fading and expanding &mdash; yet the wisps you've already placed remain, shaping the possibilities ahead.\n\nWith each game, new goal cards redefine the wisps' whims, ensuring your forest grows in a unique way every time. Enter the forest and explore the magic of Wispwood!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/OymEgib8Sh3Mhup64pJX-A__original/img/pIvle5n77Ysb9_9Bzjwtguq1QHE=/0x0/filters:format(jpeg)/pic8857307.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OymEgib8Sh3Mhup64pJX-A__small/img/wXH1XB5k_jQ8-oZdkcaSbdVzcjo=/fit-in/200x150/filters:strip_icc()/pic8857307.jpg",
+    "link": "https://boardgamegeek.com/thing/445044",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.53792",
+    "averageWeight": "2",
+    "boardGameRank": "6465",
+    "mechanics": [
+      "Grid Coverage",
+      "Open Drafting",
+      "Pattern Building",
+      "Score-and-Reset Game",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Fantasy"
+    ],
+    "designers": [
+      "Reed Ambrose"
+    ]
+  }
+}

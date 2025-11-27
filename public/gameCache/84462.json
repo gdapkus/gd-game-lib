@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:14:41.171Z",
+  "gameDetails": {
+    "id": "84462",
+    "name": "Power Grid: Warehouse",
+    "type": "boardgameexpansion",
+    "description": "Power Grid: Warehouse (Funkenschlag - Lagerhalle) is part of the Power Grid: BGG Promo Card Set.\n\nIt was originally a limited edition 3 card set for Power Grid (aka Funkenschlag 2nd Edition) available for a donation at the Essen Spiel show 2010.\n\nYou can store up to three resources of any type in the Warehouse for future use in your own power plants. Stored resources cannot be dumped and must be used in the power plants.\n\nThe two \"event cards\" either remove three tokens of the cheapest resource or add three tokens of the most expensive resource from or to the resource market (only one token, if this is uranium).\n\nIf there is a tie for cheapest or most expensive, resolve in the order coal, oil, garbage, uranium.\n\n",
+    "image": "https://cf.geekdo-images.com/SUsVr1xYaRMPLtS0E4mC_g__original/img/BxL8lTA3-FTUmwDkgiEabbxin1c=/0x0/filters:format(jpeg)/pic820296.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SUsVr1xYaRMPLtS0E4mC_g__small/img/cHrZrgvjEUP7azOBz07HnG0Jdr0=/fit-in/200x150/filters:strip_icc()/pic820296.jpg",
+    "link": "https://boardgamegeek.com/thing/84462",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2010",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.17235",
+    "averageWeight": "3.2273",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:51:10.765Z",
+  "gameDetails": {
+    "id": "2386",
+    "name": "Chinese Checkers",
+    "type": "boardgame",
+    "description": "Chinese Checkers, or Stern-Halma, is a version of Halma supporting up to six players. Parenthetically, it is neither Chinese nor is it Checkers. In many countries, it's known as Chinese Chess or China-Chess which is even less accurate and definitely shouldn't be confused with Xiangqi which is the true Chess variant from China.\n\nPlayers jump over their own and/or their opponents' pieces with the objective of being the first to move all their pieces from one side to the opposing side.\n\nRe-implements\n\n    Halma\n\n\n",
+    "image": "https://cf.geekdo-images.com/MFhxbJJRHjIb4oWn70pJuQ__original/img/zvWQ28-I0i77QCaJlbNagykZHGo=/0x0/filters:format(jpeg)/pic113974.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MFhxbJJRHjIb4oWn70pJuQ__small/img/dFpzaSl1vXFC4WqqZu-96SBbfhA=/fit-in/200x150/filters:strip_icc()/pic113974.jpg",
+    "link": "https://boardgamegeek.com/thing/2386",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1893",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "5.21315",
+    "averageWeight": "1.5882",
+    "boardGameRank": "29534",
+    "mechanics": [
+      "Enclosure",
+      "Grid Movement",
+      "Point to Point Movement",
+      "Race",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

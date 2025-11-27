@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:08:04.637Z",
+  "gameDetails": {
+    "id": "123609",
+    "name": "Puzzle Strike Shadows",
+    "type": "boardgame",
+    "description": "Puzzle Strike Shadows is the standalone expansion to Puzzle Strike (3rd Edition). You can play it by itself or combine it with the base set. The expansion contains 10 new characters, 24 new puzzle chips, as well as:\n\n\n    Panic Time rule to prevent games from going too long\n    A 3-player and 4-player mode with no player elimination and that allows crashing your gems to whoever you want\n    A 2v2 Team Battle Mode\n    A Custom Clockwork mode to draft your own character\n    Puzzle chips and character chips updated to ensure healthy competitive play in tournaments\n    New components: game boards and screens\n\n\nPuzzle Strike is a card game played with cardboard chips instead of cards that simulates a puzzle video game such as Puzzle Fighter or Tetris.\n\nIt's a deckbuilding game, which means you build your deck *as* you play the game. Every game is different because the bank starts with a different set of chips each time. Also, there are 10 characters to choose from in the base set, each with different gameplay. Between all that, there are over 411 MILLION starting conditions in a 4-player game, and even more if you include the expansion.\n\nA built-in comeback mechanic means that when you're on the edge of losing, you're also able to do even more combos than usual.\n\nYou don't have to worry about shuffling cards because you just put your cardboard tokens in a bag and shake them up to shuffle! Plus, it&rsquo;s pretty ballin&rsquo; to play a game with chips. Play it on your yacht, impress potential mates, etc.\n\nThough the game is fun even if you're terrible at it, it's also balanced for high level play by veteran asymmetric game balancer David Sirlin (Street Fighter HD Remix, Puzzle Fighter HD Remix, Kongai, Yomi, and Flash Duel).\n\nIntegrates with:\n\n    Puzzle Strike: Third Edition\n\n\n",
+    "image": "https://cf.geekdo-images.com/FwUzmTW87tcuBHEyf8YiZw__original/img/sAVeQUDjfg7IhIIMlKzIaQfvWIg=/0x0/filters:format(jpeg)/pic1288708.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FwUzmTW87tcuBHEyf8YiZw__small/img/W19p_7vHX6UPWQ2B0LVyaJxvJ-w=/fit-in/200x150/filters:strip_icc()/pic1288708.jpg",
+    "link": "https://boardgamegeek.com/thing/123609",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.74986",
+    "averageWeight": "3.0333",
+    "boardGameRank": "3199",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Video Game Theme"
+    ],
+    "designers": [
+      "David Sirlin"
+    ]
+  }
+}

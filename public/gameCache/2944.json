@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:28:17.878Z",
+  "gameDetails": {
+    "id": "2944",
+    "name": "Halli Galli",
+    "type": "boardgame",
+    "description": "Halli Galli is a speed action game in which players watch for sets of exactly five fruit. The deck contains 56 playing cards showing four kinds of fruit in groups of 1 to 5 and a bell of the type found at hotel reception desks.\n\nThe deck is distributed evenly between the players. All players hold their deck face down and take turns dealing one card face up in front of them. As each player reveals her next card, the instant you see a total of five of one kind of fruit on the table, hit the bell. If you're correct, you pick up all the played cards and put them into your deck; if you're wrong, you pay the other players one card each. When you run out of cards, you're out. When two players are left, they play until the bell is struck once more, then the game ends and the taller deck wins.\n\nKeep in mind that a five-of-a-kind can occur both when cards are revealed and when they're covered. If, for example, cards showing 3, 1 and 4 bananas are on the table and the 3 is then covered by a non-banana card, suddenly five bananas are showing and somebody better be reaching for the bell.\n\n",
+    "image": "https://cf.geekdo-images.com/gm-LiZvjkluOeKqPvuUjDg__original/img/LK1FFqGshBAiepAk37cyGEm3DI0=/0x0/filters:format(jpeg)/pic8223481.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gm-LiZvjkluOeKqPvuUjDg__small/img/eTHCJERXOmqmzJP-b0QQCChDhn8=/fit-in/200x150/filters:strip_icc()/pic8223481.jpg",
+    "link": "https://boardgamegeek.com/thing/2944",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1990",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "5.79956",
+    "averageWeight": "1.015",
+    "boardGameRank": "7929",
+    "mechanics": [
+      "Pattern Recognition",
+      "Player Elimination"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Card Game",
+      "Children's Game",
+      "Party Game",
+      "Real-time"
+    ],
+    "designers": [
+      "Haim Shafir"
+    ]
+  }
+}

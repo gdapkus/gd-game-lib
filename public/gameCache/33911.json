@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:23:58.688Z",
+  "gameDetails": {
+    "id": "33911",
+    "name": "Bacchus' Banquet",
+    "type": "boardgame",
+    "description": "From the publisher:\n\n\"It is 37 AD and Caligula is the extravagant Emperor of Rome! It is a time of excesses. It is a time of intrigue. And the latest gala in Caligula&rsquo;s short reign is starting tonight&mdash;Bacchus&rsquo; Banquet!\"\n\nFrom BoardgameNews.com:\n\n\"As a player, you are one of the nine &ldquo;honored&rdquo; guests&mdash;each with his or her own secret objective. You might be a glutton who is only there for the food and wine. You might be an avaricious opportunist longing for the presents that are often bestowed. You might be a conspirator in one of the many plots to kidnap or assassinate the Emperor. You might even be Caligula himself, exploiting the all-too-human foibles of his groveling subjects.\"\n\n",
+    "image": "https://cf.geekdo-images.com/Y-5TA11Z6WKv3iM91yBQcg__original/img/oiDyYvVAXbX_jH0ngjGlJUJl0FQ=/0x0/filters:format(jpeg)/pic311881.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Y-5TA11Z6WKv3iM91yBQcg__small/img/OALLsExFzEBFsrxAJ6P1pRnnztc=/fit-in/200x150/filters:strip_icc()/pic311881.jpg",
+    "link": "https://boardgamegeek.com/thing/33911",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2008",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "5.97104",
+    "averageWeight": "1.6329",
+    "boardGameRank": "9355",
+    "mechanics": [
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Ancient",
+      "Bluffing",
+      "Card Game",
+      "Political"
+    ],
+    "designers": [
+      "Fréderic Moyersoen"
+    ]
+  }
+}

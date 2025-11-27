@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:35:33.422Z",
+  "gameDetails": {
+    "id": "410103",
+    "name": "7 Empires",
+    "type": "boardgame",
+    "description": "In Europe in the age of Ancien Regime in 7 Empires, 2-6 players compete for political and military dominance. They gain and lose shifting control over seven old empires, some of them more powerful than others: Great Britain, Kingdom of France, Kingdom of Prussia, Russian Empire, Habsburg Empire, Ottoman Empire, and Kingdom of Spain. Try to build up your influence on the most powerful Empires, and let them fight with frigates, ships of the line, infantry, and artillery, all to your personal favor!\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/z60r27u5sZiqNm02hwlGWA__original/img/-n1cYMV7j4BNMQVf-GMU6b8tTJA=/0x0/filters:format(jpeg)/pic8430006.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/z60r27u5sZiqNm02hwlGWA__small/img/Hh6AO6p31Jwxba8R9uTFP-NNpsk=/fit-in/200x150/filters:strip_icc()/pic8430006.jpg",
+    "link": "https://boardgamegeek.com/thing/410103",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2024",
+    "playingTime": "150",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.46676",
+    "averageWeight": "2.9722",
+    "boardGameRank": "3902",
+    "mechanics": [
+      "Alliances",
+      "Area Movement",
+      "Turn Order: Claim Action",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Age of Reason",
+      "Economic",
+      "Nautical",
+      "Political",
+      "Wargame"
+    ],
+    "designers": [
+      "Mac Gerdts"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "timestamp": "2025-11-26T21:02:20.028Z",
+  "gameDetails": {
+    "id": "128671",
+    "name": "Spartacus: A Game of Blood and Treachery",
+    "type": "boardgame",
+    "description": "In Spartacus: A Game of Blood & Treachery, an exciting game of twisted schemes and bloody combats inspired by the hit STARZ Original series, each player takes on the role of Dominus, head of a rising house in the ancient Roman city of Capua. Each house is competing for Influence to gain the favor of Rome. Through a combination of political schemes and glorious battles on the arena sands your house will rise in fame and stature. As Dominus, you have a variety of resources at your disposal. Guards protect you from schemes launched by rivals. Slaves run your household and earn gold. Gladiators compete to bring glory to themselves and influence to their Dominus.\n\nThree main phases occur in each game round of Spartacus: A Game of Blood & Treachery.\n\nThe Intrigue Phase is when players launch their Schemes, hoping to raise their fortunes while undermining their rivals.  Schemes and Reactions are represented by cards in the Intrigue Deck. Players wield their Influence to put their Schemes into play, often asking for (or bribing) another player&rsquo;s help in hatching the most complex plots.\n\nThe Market Phase is when players buy, sell and trade Assets (Gladiators, Slaves, Equipment and Guards). Players also bid against each other to acquire new Assets at Auction. Wealth is not the only path to success as players bluff and bargain with each other to acquire the Assets they covet.\n\nThe Arena Phase is when the bloody games are held. Gladiators from two rival Houses are pitted against each other in a brutal fight for glory. The spectacles of the games are represented by miniature combat on the arena board. Fighters pit their Attack, Defense and Speed dice against one another to determine the victor. All players seek to increase their fortunes by betting on the outcome of the gruesome conflict. Fighters who emerge from the arena victorious gain Favor and their Dominus gain Influence.\n\nThe goal of the game is to become the most influential house in Capua, securing your family&rsquo;s power for years to come.  During the game, players will bribe, poison, betray, steal, blackmail, and undermine each other. Gold will change hands again and again to buy support, stay someone&rsquo;s hand or influence their decisions. Will you be the honorable player whose word is their bond or the treacherous schemer whose alliances change with the wind?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/_nPXf80oO-wC8eW2drZx1Q__original/img/ZAOE10XXVdOq92w-vmFk9aTaDAc=/0x0/filters:format(jpeg)/pic6166144.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_nPXf80oO-wC8eW2drZx1Q__small/img/jxw0q-ua1ix06a8HUM0X5FLpHJA=/fit-in/200x150/filters:strip_icc()/pic6166144.jpg",
+    "link": "https://boardgamegeek.com/thing/128671",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.46437",
+    "averageWeight": "2.7311",
+    "boardGameRank": "486",
+    "mechanics": [
+      "Auction / Bidding",
+      "Betting and Bluffing",
+      "Bribery",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Movement Points",
+      "Sudden Death Ending",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Ancient",
+      "Dice",
+      "Fighting",
+      "Miniatures",
+      "Movies / TV / Radio theme",
+      "Negotiation"
+    ],
+    "designers": [
+      "Aaron Dill",
+      "John Kovaleski",
+      "Sean Sweigart"
+    ]
+  }
+}

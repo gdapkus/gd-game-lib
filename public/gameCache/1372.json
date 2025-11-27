@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:17:43.913Z",
+  "gameDetails": {
+    "id": "1372",
+    "name": "Rise of the Luftwaffe",
+    "type": "boardgame",
+    "description": "\"Rise of the Luftwaffe\" is the first in Down in Flames series of card wargames that simulate World War 2 air combat. Each player has a hand of maneuver cards which he uses to improve his position relative to an enemy plane or fire on the enemy. The opponent is allowed to counter the maneuver by playing cards of his own, to which original player can counter back, etc. The last player to play a card determines whether the original action occurs or not.\n\nEach plane is rated with horsepower (which indicates how many card you can draw), performance (how many cards to be held), burst (the values of fire cards that can be played), etc. The number of cards in your hand abstractly represents the momentum of each aircraft.\n\nA dogfight lasts a mere 6 turns and take about 15 minutes to play. There are also campaign games which represent a number of interconnected missions and various operations the players can take. A campaign can take about 2-3 hours.\n\n",
+    "image": "https://cf.geekdo-images.com/Wdcb2K-r4NAqpZqGYnzP3A__original/img/xke5aFbsdRLdIKo_mDHOV6-4kyI=/0x0/filters:format(jpeg)/pic1521621.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Wdcb2K-r4NAqpZqGYnzP3A__small/img/xhBnkgJ77ZS6l0do_xop2JN79hY=/fit-in/200x150/filters:strip_icc()/pic1521621.jpg",
+    "link": "https://boardgamegeek.com/thing/1372",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "1993",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.06874",
+    "averageWeight": "2.1385",
+    "boardGameRank": "4769",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Hand Management",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Card Game",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Gene Billingsley",
+      "Rodger B. MacGowan",
+      "Dan Verssen"
+    ]
+  }
+}

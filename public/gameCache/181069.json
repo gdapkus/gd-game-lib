@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:51:40.289Z",
+  "gameDetails": {
+    "id": "181069",
+    "name": "Corner Lot",
+    "type": "boardgame",
+    "description": "A small economic auction game loosely themed around property investing, but focused on set-collecting and reminiscent of the private auction in many 18xx games.\n\n",
+    "image": "https://cf.geekdo-images.com/78B58Sg-_z3QQ7E3tzAF4w__original/img/o6aIpcPrwDWAoaYUqRw7dkTCxRQ=/0x0/filters:format(jpeg)/pic2599190.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/78B58Sg-_z3QQ7E3tzAF4w__small/img/XwA6akqj2AOHXTI5asWB4IVSbgE=/fit-in/200x150/filters:strip_icc()/pic2599190.jpg",
+    "link": "https://boardgamegeek.com/thing/181069",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "5.82143",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Economic",
+      "Print & Play"
+    ],
+    "designers": [
+      "J. C. Lawrence"
+    ]
+  }
+}

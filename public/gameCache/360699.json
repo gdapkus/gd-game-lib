@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:00:14.173Z",
+  "gameDetails": {
+    "id": "360699",
+    "name": "QE: Commodities",
+    "type": "boardgameexpansion",
+    "description": "Q.E. Commodities now presents new investment opportunities for each country! As an expansion to Q.E., you will now have the ability to diversify your portfolio by investing in gold, oil, and crypto. Each commodity adds additional variable victory points to bolster your score. The biggest element of the expansion however is that it now enables you to lower your total spend throughout the game, providing extra layers of strategy and unexpected twists!\n\n-description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/8tdXeeVwvQS-ugWPxKlAvA__original/img/VEmhn2t-Az4AXzVKn3p5EgKF1J8=/0x0/filters:format(jpeg)/pic6854293.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8tdXeeVwvQS-ugWPxKlAvA__small/img/X3vTsM9V8lc8BYGBIHJ-XvoloPY=/fit-in/200x150/filters:strip_icc()/pic6854293.jpg",
+    "link": "https://boardgamegeek.com/thing/360699",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.94713",
+    "averageWeight": "2.375",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Jonathan Gilmour-Long"
+    ]
+  }
+}

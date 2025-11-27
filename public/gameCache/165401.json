@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:05:20.929Z",
+  "gameDetails": {
+    "id": "165401",
+    "name": "Wir sind das Volk!",
+    "type": "boardgame",
+    "description": "1949: Germany, still in ruins from WWII, is split in two, as the Iron Curtain of the Cold War descends. East Germany and West Germany become bitter rivals, each wanting to show its system is superior. Which will reconstruct quicker? Which will make its people happier? Socialism vs Capitalism; collectivism vs individualism - which will triumph?\n\nWir sind das Volk! (\"We are the people!\" &mdash; the main slogan of the East German demonstrators in 1989) recreates the history of the divided Germany, from the Berlin Airlift to the fall of the Berlin Wall. Flowing from how the 84 individually designed action cards are played, each game is different. There are many possible strategies. Will East Germany build the Wall or stem the exodus of its citizens another way?\n\nEast vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don&rsquo;t fall behind, or you will face widespread unrest. Also win the contest for international prestige. Precise planning is the key to victory. But be careful! Even the best plans may be derailed by events like the 1973 Oil Crisis or the Monday demos. Mass protests, that may seal your fate, are always on the horizon.\n\n",
+    "image": "https://cf.geekdo-images.com/em65Za2y7FNo-otQ6IgUCQ__original/img/cCyRJX4pyij34e2YFsQ_XoNPEEs=/0x0/filters:format(jpeg)/pic2239210.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/em65Za2y7FNo-otQ6IgUCQ__small/img/UAL4JsaK6Rph7YS0lxDOKG1kWrw=/fit-in/200x150/filters:strip_icc()/pic2239210.jpg",
+    "link": "https://boardgamegeek.com/thing/165401",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2014",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.76938",
+    "averageWeight": "3.7353",
+    "boardGameRank": "844",
+    "mechanics": [
+      "Action / Event",
+      "Network and Route Building",
+      "Open Drafting",
+      "Simulation",
+      "Tug of War"
+    ],
+    "categories": [
+      "Economic",
+      "Political"
+    ],
+    "designers": [
+      "Richard Sivél",
+      "Peer Sylvester"
+    ]
+  }
+}

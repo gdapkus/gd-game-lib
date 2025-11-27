@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:11:01.338Z",
+  "gameDetails": {
+    "id": "118023",
+    "name": "Keltis: Das Würfelspiel",
+    "type": "boardgame",
+    "description": "Keltis: Das W&uuml;rfelspiel recreates Reiner Knizia's Keltis gaming system as a dice game, with players once again trying to blaze through regions of negative points to reach sweet, VP-rich territory.\n\nKeltis: Das W&uuml;rfelspiel has five dice (with a different colored symbol on each face), a game board, 40 wishing stone tiles, and 16 wooden playing pieces. On a turn, a player rolls all the dice, rerolls any number of dice once, then chooses on which of the five tracks on the game board he advances one of his four playing pieces.\n\nThe first spaces on a track are worth negative points to whoever sits on them at game's end, so players must make sure to advance their pieces far enough to score points. Along the way, they also collect wishing stones, either by rolling two wishing stone symbols or by moving a playing piece onto a wishing stone field; a player also earns or loses points based on the number of wishing stones collected.\n\nAfter a certain number of playing pieces reach the far fields on the track, the game ends and the player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/5LRkl6xehZKu4RFMluyVYA__original/img/Z5LQjtnLsqD2NZ6VrG-F8vX4X4s=/0x0/filters:format(jpeg)/pic1210132.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5LRkl6xehZKu4RFMluyVYA__small/img/jn1UlekyyvmSO1M_CLyO_hn_J9w=/fit-in/200x150/filters:strip_icc()/pic1210132.jpg",
+    "link": "https://boardgamegeek.com/thing/118023",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.44497",
+    "averageWeight": "1.2308",
+    "boardGameRank": "6171",
+    "mechanics": [
+      "Dice Rolling",
+      "Set Collection",
+      "Track Movement"
+    ],
+    "categories": [
+      "Dice"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

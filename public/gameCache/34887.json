@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:31:11.304Z",
+  "gameDetails": {
+    "id": "34887",
+    "name": "Revolution!",
+    "type": "boardgame",
+    "description": "Blackmail the printer. Threaten the innkeeper. Bribe the priest. Welcome to Revolution!\n\nSecretly bid against your opponents to gain victory points, control territories (worth victory points at the end of the game) and collect more Gold, Blackmail, and Force tokens for the next round of bidding! Will you try to control the tavern or the fortress? The harbor or the plantation? Knowing where to push for points &ndash; and where to back away and let your opponents fight &ndash; is the key to victory. Whoever has the most victory points at the end of the game wins.  It's a game of bluff, counter-bluff, and surprise!\n\nBidding tokens have different shapes and colors for easy identification. Colorful cardstock shields keep your bids private, and also provide a handy rules reference during the auction. Brightly-colored wooden blocks allow players to see, at a glance, who controls which colonial-themed territories.\n\nRevolution! is for three or four players. The rules can be taught in minutes, and a complete game takes less than an hour. Each new game lets players find new strategies and tactics.\n\nGet ready for Revolution!\n\n",
+    "image": "https://cf.geekdo-images.com/QNfiVUjQUb3WizjliCu1NQ__original/img/cOLsJLDgN48hxRgmkQOBq6mIDaw=/0x0/filters:format(jpeg)/pic470283.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QNfiVUjQUb3WizjliCu1NQ__small/img/kRlifxVWcTgtaHcZyCfad27nAwk=/fit-in/200x150/filters:strip_icc()/pic470283.jpg",
+    "link": "https://boardgamegeek.com/thing/34887",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2009",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.71944",
+    "averageWeight": "2.0357",
+    "boardGameRank": "1913",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Auction: Multiple Lot",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Political"
+    ],
+    "designers": [
+      "Philip duBarry"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:11:16.288Z",
+  "gameDetails": {
+    "id": "287938",
+    "name": "Kitchen Rush (Revised Edition)",
+    "type": "boardgame",
+    "description": "The great world of cooking awaits you! Together with your friends you have purchased an old restaurant and are now responsible for its fate and success. Use only the best ingredients, the freshest herbs and don't let your guests wait - then your restaurant will develop splendidly and you will have a golden future!\n\nKitchen Rush is a cooperative real-time game. Receive your guests, take their orders, use the right ingredients and prepare tasty meals.\n\nOver the course of 8 scenarios, your restaurant evolves and more challenging tasks are added. Do you have the potential to become a star chef?\n\nThis 2019 Edition of Kitchen Rush (Revised German Edition) features new artwork, a new rule structure and some new mechanisms are added. The modular board allows you to really level up your old restaurant step by step. The new rule structure lets you learn the game step by step in 8 scenarios.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/kE0C-vBrqQ1w4j_P2sqb8g__original/img/xYNIHY_mPzSnh_uXr1Oyg9bfNpI=/0x0/filters:format(jpeg)/pic4906385.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kE0C-vBrqQ1w4j_P2sqb8g__small/img/nUNoUx9kAKDTjuF-6BoA45t-knE=/fit-in/200x150/filters:strip_icc()/pic4906385.jpg",
+    "link": "https://boardgamegeek.com/thing/287938",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.43611",
+    "averageWeight": "2.1268",
+    "boardGameRank": "1509",
+    "mechanics": [
+      "Action Timer",
+      "Cooperative Game",
+      "Modular Board",
+      "Real-Time",
+      "Variable Phase Order",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Real-time"
+    ],
+    "designers": [
+      "Vangelis Bagiartakis",
+      "Dávid Turczi"
+    ]
+  }
+}

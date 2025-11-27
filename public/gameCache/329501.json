@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-11-26T20:51:53.496Z",
+  "gameDetails": {
+    "id": "329501",
+    "name": "Counting Campers",
+    "type": "boardgame",
+    "description": "Counting Campers is the fun counting game for your little camper. Players move their pegs forward or backward along the hiking trail by drawing a &lsquo;plus&rsquo; or &lsquo;minus&rsquo; card. Follow the winding path through the muddy swamp, across the fishing pond, over the old bridge, and more, to get back to the campsite. The first &lsquo;camper&rsquo; back to camp wins the game!\n\nIn more detail, each player chooses a Camper and places it in the starting space on the game board in its matching color trail. Shuffle the cards and place them to the side of the board, facedown. Let the camping trip begin!\n\nOn your turn, draw a card from the playing deck. If a plus card (+) is drawn, jump your Camper forward the number shown. If a minus (-) card is drawn, move backwards the number shown. It's a great way for young players to practice counting skills and learn the concept of plus (+) and minus (-) while having fun!\n\nWatch for special Camper cards while you play! If a card is drawn with a happy Camper with a sun/rainbow, draw two more cards and move. If a card is drawn with an unhappy Camper under a rain cloud, you lose a turn.\n\nThe first Camper to reach the campsite wins! For additional challenge for older players, the exact number card must be drawn in order to move the remaining spaces to the finish.\n\n",
+    "image": "https://boardgamegeek.com/image/1657689",
+    "thumbnail": "https://boardgamegeek.com/image/1657689",
+    "link": "https://boardgamegeek.com/thing/329501",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "20",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "3",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Children's Game",
+      "Educational",
+      "Math"
+    ],
+    "designers": []
+  }
+}

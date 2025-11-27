@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:58:52.667Z",
+  "gameDetails": {
+    "id": "1662",
+    "name": "Napoléon: The Waterloo Campaign, 1815",
+    "type": "boardgame",
+    "description": "On June 18, 1815, one of the most decisive battles in military history was fought in Belgian fields twenty miles southeast of Brussels. Within a short 100 days, Napoleon, former emperor of France, had returned from exile on the island of Elba, again seized power, quickly assembled an army, and marched to defeat the dispersed British and Prussian armies now preparing to invade France.\n\nNapoleon invaded Belgium on June 15th, defeated the Prussians at the Battle of Ligny on the 16th and after a day of pursuit, faced the British and Dutch army commanded by Wellington. Aided by superb defensive tactics and the timely arrival of Prussian reinforcements, Wellington defeated the French in the great Battle of Waterloo, ending forever the military ambitions of the great Napoleon.\n\nHighlights:\n\n\n     Mapboard which is a color map of southern Belgium. \n\n\n\n     Wooden Blocks as counters provide step-reduction and fog of war with no muss or fuss \n\n\n\n     Two or three player game - Napoleon can be played by two or three players. With three, the allied side has two players, one British and one Prussian, and some special rules apply. \n\n\n\n     Note that there are essentially three different versions of the game which means that the rules are somewhat different. Key Differences in the various editions:\n         1st and 2nd edition had 48 blocks--shorter (60+ min.) play time -- vs.-- 3rd edition has 84 blocks--more accurate division level\n          3rd edition had Bl&uuml;cher, Napoleon, and Wellington leader blocks that give slight combat and movement bonuses. Although units have increased nearly two fold, the 3rd edition map remains same size, leading to overcrowding.\n          4th edition has 56 blocks and a larger map - play time is usually 90 minutes or less.\n    \n\n\n",
+    "image": "https://cf.geekdo-images.com/P7db3wF_zkWaQbhYUVvmQw__original/img/GoHb03FMpCCuJyFQ77SfP65mg-8=/0x0/filters:format(jpeg)/pic1728935.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/P7db3wF_zkWaQbhYUVvmQw__small/img/-u7y2taS294Ty3x0vo7-ZgaUZTA=/fit-in/200x150/filters:strip_icc()/pic1728935.jpg",
+    "link": "https://boardgamegeek.com/thing/1662",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "1974",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.38159",
+    "averageWeight": "2.4699",
+    "boardGameRank": "2219",
+    "mechanics": [
+      "Dice Rolling",
+      "Minimap Resolution",
+      "Movement Points",
+      "Point to Point Movement",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "Tom Dalgliesh",
+      "Ron Gibson",
+      "Lance Gutteridge"
+    ]
+  }
+}

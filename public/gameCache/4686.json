@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:04:49.713Z",
+  "gameDetails": {
+    "id": "4686",
+    "name": "War at Sea 2",
+    "type": "boardgameexpansion",
+    "description": "An expansion for Avalon Hill's War at Sea game of WWII naval combat in the European theater. It is a compendium of variants published in The General Volumes 13-15, as well as some new elements.\n\nWar at Sea variants used from the various General mags:\n\n    Vol. 13 No. 3 (The Mediterranean)\n    Vol. 14 No. 3 (The French Navy)\n    Vol. 14 No. 4 \n    Vol. 15 No. 1 \n    Vol. 15 No. 3 (The Russian Navy)\n    Vol. 15 No. 5 \n\n\nWAR AT SEA 2 game components:\n\n     22\" x 24\" unmounted mapboard \n     1 Counter sheet\n     3 Player aid cards\n     Two Allied OBs\n     One Axis OB\n     1 Rulebook\n\n\n",
+    "image": "https://cf.geekdo-images.com/VYqWpT69JaYAMIBdwfF-_g__original/img/M1MAR0VKHNM0ZuOtEgJL2XAX3C4=/0x0/filters:format(jpeg)/pic70146.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VYqWpT69JaYAMIBdwfF-_g__small/img/3QfgeQAo9HIQVAz6AdwxE1w4tzY=/fit-in/200x150/filters:strip_icc()/pic70146.jpg",
+    "link": "https://boardgamegeek.com/thing/4686",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1977",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.66535",
+    "averageWeight": "2.0667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Movement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Nautical",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Paul Kaster",
+      "Alan R. Moon"
+    ]
+  }
+}

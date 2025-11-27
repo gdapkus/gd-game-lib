@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:13:35.088Z",
+  "gameDetails": {
+    "id": "263",
+    "name": "Manitou",
+    "type": "boardgame",
+    "description": "It is time for the buffalo hunt.  Each player displays the hunters and great warriors of his tribe which make up his hunting party.  Great warriors can capture opponents' tribesmen and score points for you.  Strong hunters can win buffalo for the tribe.  Whoever plays his cards with the greatest skill over the three hunts wins the game.\n\nPart of the Goldsieber à la Carte line of games.\n\nRe-implemented as:\n\n\n     Big Manitou\n\n\n",
+    "image": "https://cf.geekdo-images.com/b-JI7jNQioP5BP1TLxwlrA__original/img/88BHTHA8ZGuAHvxjhpNu2-4SN3c=/0x0/filters:format(jpeg)/pic158910.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/b-JI7jNQioP5BP1TLxwlrA__small/img/u-yuzibDFI8cKb24xB-3IyVsMX8=/fit-in/200x150/filters:strip_icc()/pic158910.jpg",
+    "link": "https://boardgamegeek.com/thing/263",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1997",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.08915",
+    "averageWeight": "1.9655",
+    "boardGameRank": "9793",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Open Drafting",
+      "Rock-Paper-Scissors"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Günter Burkhardt"
+    ]
+  }
+}

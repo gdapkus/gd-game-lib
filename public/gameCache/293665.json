@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:02:20.480Z",
+  "gameDetails": {
+    "id": "293665",
+    "name": "Ensemble",
+    "type": "boardgame",
+    "description": "In the co-operative game Ensemble, all players must vote &mdash; without communicating &mdash; on one of the cards on display that they think best matches a card in the middle of the table. Communication is allowed only once all the players' votes have been revealed, and if all players have voted the same way (with a small, variable tolerance depending on the number of players), the group moves on to the next level. Otherwise, they lose a life.\n\nThe goal of the game is to win level 9 &mdash; and once the game is won for the first time, the first scenario deck (of three) is unlocked, with new rules and cards being available for future games.\n\n",
+    "image": "https://cf.geekdo-images.com/PrG5-okOUPiHsRRDJ-pYhg__original/img/xEhmfzUfsQaXelCeX7z6qzycMbw=/0x0/filters:format(png)/pic6099545.png",
+    "thumbnail": "https://cf.geekdo-images.com/PrG5-okOUPiHsRRDJ-pYhg__small/img/PnGHI7fc15CxYRhq8PzUf3dCnjs=/fit-in/200x150/filters:strip_icc()/pic6099545.png",
+    "link": "https://boardgamegeek.com/thing/293665",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "2021",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5,
+      7
+    ],
+    "averageRating": "6.76814",
+    "averageWeight": "1.04",
+    "boardGameRank": "5115",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Scenario / Mission / Campaign Game",
+      "Simultaneous Action Selection",
+      "Voting"
+    ],
+    "categories": [
+      "Party Game"
+    ],
+    "designers": [
+      "Luigi Ferrini",
+      "Daniele Ursini"
+    ]
+  }
+}

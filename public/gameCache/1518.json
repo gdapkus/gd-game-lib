@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:16:59.479Z",
+  "gameDetails": {
+    "id": "1518",
+    "name": "Executive Decision",
+    "type": "boardgame",
+    "description": "First, you decide on what finished goods you want to sell and how much, based on your capital.  Based on that, you buy the raw materials necessary to do that. You combine raw materials to make finished goods. You sell the finished goods.\n\nYou have to bid on the purchase price of the raw materials and the sales price of the finished goods. When supply exceeds demand the prices drop. When demand exceeds supply the prices rise. If you bid less than the going price, you get nothing.\n\nEasy to learn, but interesting strategies. Somewhat mechanical, but a good game by Sid Sackson.\n\nPart of the 3M Bookshelf Series.\n\n",
+    "image": "https://cf.geekdo-images.com/RKyfoSLBA3sMZXRJCoKmTg__original/img/i47DFgDN_BQUflBniDDg9y5JPXQ=/0x0/filters:format(jpeg)/pic1512663.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RKyfoSLBA3sMZXRJCoKmTg__small/img/BkKdXZyhMhh0DCbl_ESs-Wo5_BQ=/fit-in/200x150/filters:strip_icc()/pic1512663.jpg",
+    "link": "https://boardgamegeek.com/thing/1518",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1971",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.07156",
+    "averageWeight": "2.3023",
+    "boardGameRank": "9871",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Simultaneous Action Selection",
+      "Trading"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Math",
+      "Negotiation"
+    ],
+    "designers": [
+      "Sid Sackson"
+    ]
+  }
+}

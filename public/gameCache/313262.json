@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:38:10.934Z",
+  "gameDetails": {
+    "id": "313262",
+    "name": "Shamans",
+    "type": "boardgame",
+    "description": "Shamans try to restore harmony in a world threatened by Shadows. You'll need to pick a side.\n\nThe game combines with ingenuity: hidden roles, competitive play and an original card playing mechanic.\nEach played card allows you to stabilise the spirit world, perform a Ritual, acquire an Artefact ; and together they will bring you closer to the final showdown between Shadows and Shamans.\nWhen time comes, the victor will be the one who managed to read through his rivals and stuck to the right side in this never-ending confrontation.\n\n&mdash;description from the publisher (translated)\n\n",
+    "image": "https://cf.geekdo-images.com/BNmYPPip0PZBPx9qJCEUxA__original/img/Xw4rULooxkzXr-px2P2a1naITIk=/0x0/filters:format(jpeg)/pic6021323.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BNmYPPip0PZBPx9qJCEUxA__small/img/B5l81b4CUT3OYafXEk4QNi_nxkY=/fit-in/200x150/filters:strip_icc()/pic6021323.jpg",
+    "link": "https://boardgamegeek.com/thing/313262",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2021",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.87216",
+    "averageWeight": "2",
+    "boardGameRank": "2349",
+    "mechanics": [
+      "Deduction",
+      "Hand Management",
+      "Hidden Roles",
+      "Team-Based Game",
+      "Track Movement",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Fantasy"
+    ],
+    "designers": [
+      "Cédrick Chaboussit"
+    ]
+  }
+}

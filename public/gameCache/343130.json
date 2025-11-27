@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:36:26.329Z",
+  "gameDetails": {
+    "id": "343130",
+    "name": "Detective Rummy",
+    "type": "boardgame",
+    "description": "Detective Rummy is a rummy-style card game with a storytelling element revealed in a series of seven different cases. Players take the roles of detectives vying to solve the cases and gain fame.\n\nThe story begins at the legendary Rummy Detective Agency, and each case takes you to various locations to solve a crime, including the diner with the best doughnuts in town, the cozy \"Quarter to 3 Bar\", a ritzy fashion emporium, the circus, the most elite jazz nightclub in town, and more.\n\nThe cases in Detective Rummy can be played in two different ways: Campaign Mode and Case Mode. In Campaign Mode, you play all seven cases in order. In Case Mode, you can play cases 2 to 6 as standalone Detective Rummy games one at a time. Since new \"Game Changer\" cards are discovered in each case in different orders (if at all) each time you play, cases will never resolve the same way twice. You can play both the campaign mode or the individual cases as many times as you like.\n\n",
+    "image": "https://cf.geekdo-images.com/MNWWu3GopALEXTnOPyGzPQ__original/img/-cNwlhfAtRbg_LczhzQrNuU-fyA=/0x0/filters:format(jpeg)/pic6505453.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MNWWu3GopALEXTnOPyGzPQ__small/img/eJ1fbikTIHgjuMpZbDNMejWD_dM=/fit-in/200x150/filters:strip_icc()/pic6505453.jpg",
+    "link": "https://boardgamegeek.com/thing/343130",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.28049",
+    "averageWeight": "0",
+    "boardGameRank": "26130",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Ralph H. Anderson",
+      "Mike Fitzgerald"
+    ]
+  }
+}

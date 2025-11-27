@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:13:21.939Z",
+  "gameDetails": {
+    "id": "31137",
+    "name": "Monopoly Junior: Shrek 2",
+    "type": "boardgame",
+    "description": "Travel around the board buying your favorite landmarks from the movie Shrek 2.  The game is over when one player runs out of money.\n\nFor 2 - 4 players Ages 5 and up\n\n",
+    "image": "https://cf.geekdo-images.com/80nOdsa3i77NngTP2sIeAQ__original/img/bKUmBHapNGMpDitnb35fyVjZspk=/0x0/filters:format(jpeg)/pic234977.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/80nOdsa3i77NngTP2sIeAQ__small/img/jEcYXv_edhHHJbCM2nzel55mmOc=/fit-in/200x150/filters:strip_icc()/pic234977.jpg",
+    "link": "https://boardgamegeek.com/thing/31137",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "4.54211",
+    "averageWeight": "1.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Roll / Spin and Move",
+      "Set Collection"
+    ],
+    "categories": [
+      "Children's Game",
+      "Economic",
+      "Fantasy",
+      "Movies / TV / Radio theme"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

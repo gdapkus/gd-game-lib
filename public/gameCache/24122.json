@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:54:59.667Z",
+  "gameDetails": {
+    "id": "24122",
+    "name": "Greentown",
+    "type": "boardgame",
+    "description": "Description from Good Game Guide:\n\nThis game is about building attractions in a city through which tourists will later move. The game board consists of hexes, and both new hexes as well as new paths on existing hexes can be added. Various buildings are placed onto the tiles. The player figures move over the paths, although only over certain spaces as dictated by assignment cards. A 4-player play test had some downtime, but the game should appeal to thinkers. Essen 2006.\n\n",
+    "image": "https://cf.geekdo-images.com/okDgw_9t_oT1oMF-KVpGSA__original/img/7VnB1kJVvhsZNMf9mc8GFKapKnk=/0x0/filters:format(jpeg)/pic331436.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/okDgw_9t_oT1oMF-KVpGSA__small/img/LLlrv1mzlDMjbZSPlPW4gJg-UcU=/fit-in/200x150/filters:strip_icc()/pic331436.jpg",
+    "link": "https://boardgamegeek.com/thing/24122",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2006",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.30233",
+    "averageWeight": "2.7391",
+    "boardGameRank": "12904",
+    "mechanics": [
+      "Modular Board",
+      "Tile Placement"
+    ],
+    "categories": [
+      "City Building"
+    ],
+    "designers": [
+      "Günter Cornett",
+      "Michael Uhlemann"
+    ]
+  }
+}

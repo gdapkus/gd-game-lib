@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:10:44.083Z",
+  "gameDetails": {
+    "id": "427334",
+    "name": "In the Footsteps of Darwin: Correspondence",
+    "type": "boardgameexpansion",
+    "description": "England, 1856: Charles Darwin finishes writing On the Origin of Species while you are on your way home. Your correspondence with the illustrious scientist during your journey has paid off as his book will soon be published &mdash; but you're not done yet.\n\nIn the In the Footsteps of Darwin: Correspondence expansion, you will gain the support of historical figures and make fascinating new discoveries thanks to several new features for the base game: publication tokens, classification tokens, envelope tokens, and new characters such as Emma Darwin and Queen Victoria.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/7_0yatrkoQMrlqIjrmBH5g__original/img/ox9EoGcxUkzgqxKegyc8LRgqCLY=/0x0/filters:format(png)/pic8632603.png",
+    "thumbnail": "https://cf.geekdo-images.com/7_0yatrkoQMrlqIjrmBH5g__small/img/T-lb31hHzrGUKCXYjesdZjxL62g=/fit-in/200x150/filters:strip_icc()/pic8632603.png",
+    "link": "https://boardgamegeek.com/thing/427334",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      5
+    ],
+    "averageRating": "8.4089",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Grid Coverage",
+      "Open Drafting",
+      "Rondel",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Educational"
+    ],
+    "designers": [
+      "Grégory Grard",
+      "Matthieu Verdier"
+    ]
+  }
+}

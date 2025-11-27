@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:09:35.821Z",
+  "gameDetails": {
+    "id": "3990",
+    "name": "Fact or Crap",
+    "type": "boardgame",
+    "description": "Basic trivia game where players try to figure out if a statement is a Fact, or just a load of Crap.\n\nThe players take turns being the Reader in a clockwise direction.\n\nAfter the Reader has read the first question, the other players have to decide as fast as they can whether the answer is Fact or Crap.  The players indicate their answer by putting face down either their Fact Answer card or Crap Answer card.  The Reader then determines which player was the first to put their Answer card down.  Once all of the Answer cards are down, the player who was first to answer turns over their Answer card.  If the answer is correct, they receive 2 tokens from the middle pile.  The Reader will then ask everyone to turn their Answer cards over.  All other players with the correct answer will receive 1 token.  All players with the wrong answer (including the player who puts their Answer card down first) will have to put 1 token back in the middle pile.\nThe Reader&rsquo;s turn is complete when all 3 questions have been read.  The Question card is then returned, face down, to the bottom of the Question card pile.\n\nDuring the game you will randomly draw Rush Hour cards.  The Reader who picks up a Rush Hour card may nominate any player to answer the Rush Hour questions.  Once the nomination has been made, the egg timer is turned over and the Reader begins to read the questions.  The aim is to have all 5 questions asked and answered within the time limit so that both Reader and the answering player have a chance to win as many extra tokens as possible.\n\nThere are two ways to win Fact or Crap.\n- The game ends when all tokens from the middle pile are gone.  Players then count up their tokens.  The player with the most tokens is the winner, proving they know the most Fact or Crap!\n- In the event that all players but 1 have lost their tokens, the remaining player is deemed the winner.\nIf at any time during the game a player loses all of their tokens, s/he is then out of the game.\n\nRe-implemented as:\n\n    SpongeBob SquarePants Fact or Fishy DVD Game\n\n\n",
+    "image": "https://cf.geekdo-images.com/1eRMHGhyvSDk5z7LRpGHzg__original/img/iL9t81CMGzu3w-jtHsPeVQG-ex0=/0x0/filters:format(jpeg)/pic500761.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1eRMHGhyvSDk5z7LRpGHzg__small/img/7xRVjeDcakvD0yZAUeR0BpePb3Q=/fit-in/200x150/filters:strip_icc()/pic500761.jpg",
+    "link": "https://boardgamegeek.com/thing/3990",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2001",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      6,
+      8
+    ],
+    "averageRating": "3.84752",
+    "averageWeight": "1.1842",
+    "boardGameRank": "29562",
+    "mechanics": [
+      "Memory",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Card Game",
+      "Party Game",
+      "Trivia"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

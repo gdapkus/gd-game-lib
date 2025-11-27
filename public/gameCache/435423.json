@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:35:44.642Z",
+  "gameDetails": {
+    "id": "435423",
+    "name": "Alibis",
+    "type": "boardgame",
+    "description": "Whodunnit? In Alibis, a suspicious lineup of supervillains lies before you and your team, and you&rsquo;re tasked with finding the true criminal.\n\nTo start the game, you&rsquo;re secretly given information about two innocent suspects.\n\nCooperatively, associate your two characters with a one-word clue. If everyone does that correctly, you&rsquo;ve found the culprit!\n\nBe careful; your clue might erroneously point at another player&rsquo;s villain.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/q5-3hPj2OEQhN16hqisoyg__original/img/J4jc6wH8oTiShCSWK-TIOtwQ-Hw=/0x0/filters:format(jpeg)/pic8600231.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/q5-3hPj2OEQhN16hqisoyg__small/img/Jl_vjuGtXqEeWXAmWhrLwvBxJ7c=/fit-in/200x150/filters:strip_icc()/pic8600231.jpg",
+    "link": "https://boardgamegeek.com/thing/435423",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "7.13292",
+    "averageWeight": "1.4286",
+    "boardGameRank": "5257",
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Roles with Asymmetric Information"
+    ],
+    "categories": [
+      "Deduction",
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "佐藤 雄介 (Yusuke Sato)"
+    ]
+  }
+}

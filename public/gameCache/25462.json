@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:54:19.592Z",
+  "gameDetails": {
+    "id": "25462",
+    "name": "German Whist",
+    "type": "boardgame",
+    "description": "A two-player derivative of Whist where players spend the first half of the game playing tricks to improve their hand, then the second half playing out that hand.\n\nOnly half the deck is dealt, and the game begins with additional series of 13 non-scoring tricks in which each trick determines how the top two cards of the draw deck are dealt to the players, the winner of each trick getting the top card (which is always revealed before the trick is played) and the losing player getting the second (hidden) card.\n\nThe game is a quick to learn, easy to arrange, and fast-playing introduction to trick-taking games and serves as a good first step to learning to play Whist or Bridge for players unfamiliar with trick-taking.\n\n",
+    "image": "https://cf.geekdo-images.com/oWkH6grdpunOSwhrbe7_7A__original/img/tQMSAuNkC_zomFxu2Cteo72ZJ1s=/0x0/filters:format(jpeg)/pic146261.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oWkH6grdpunOSwhrbe7_7A__small/img/6WmIZ5uWGqDSIV_Pu81moXjT0n8=/fit-in/200x150/filters:strip_icc()/pic146261.jpg",
+    "link": "https://boardgamegeek.com/thing/25462",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1894",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.46116",
+    "averageWeight": "1.8571",
+    "boardGameRank": "10374",
+    "mechanics": [
+      "Hand Management",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

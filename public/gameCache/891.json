@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:24:58.201Z",
+  "gameDetails": {
+    "id": "891",
+    "name": "Cranium",
+    "type": "boardgame",
+    "description": "Cranium bills itself as the \"whole-brain\" game.  It's a party game that borrows from a host of other popular party games of recent times.  Players have to successfully complete activities in each of four sections to win:  In \n - Creative Cat : A player must clue a word to his or her teammates by drawing it, sculpting it in clay, or drawing it with his or her eyes closed.\n - Data Head :  A variety of trivia questions.  \n - Word Worm : Players unscramble words, spell challenging words, guess definitions, identify words with letters left out, or spell words backwords.  \n - Star Performer : players must whistle a song, impersonate a celebrity, or act out a clue.\n\nCranium has elements similar to those of Pictionary, Charades, Trivial Pursuit: Genus Edition, Celebrities, Huggermugger, Claymania, etc.\n\nExpanded by:\n\n    Cranium Booster Box 1\n    Cranium Booster Box 2\n    Cranium New York Booster Pack\n\n\n",
+    "image": "https://cf.geekdo-images.com/-RAQw4eCx3i__6ctz6-N9A__original/img/Z1nfWJlFJQiirtkqCoMmoDbIQIE=/0x0/filters:format(jpeg)/pic4994220.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-RAQw4eCx3i__6ctz6-N9A__small/img/6zwKtSbuLcz8negvxaM4hRA6rBw=/fit-in/200x150/filters:strip_icc()/pic4994220.jpg",
+    "link": "https://boardgamegeek.com/thing/891",
+    "minPlayers": "4",
+    "maxPlayers": "99",
+    "yearPublished": "1998",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      8
+    ],
+    "averageRating": "5.68368",
+    "averageWeight": "1.4149",
+    "boardGameRank": "10771",
+    "mechanics": [
+      "Acting",
+      "Line Drawing",
+      "Paper-and-Pencil",
+      "Roll / Spin and Move",
+      "Singing",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Party Game",
+      "Puzzle",
+      "Trivia",
+      "Word Game"
+    ],
+    "designers": [
+      "Whit Alexander",
+      "Richard Tait"
+    ]
+  }
+}

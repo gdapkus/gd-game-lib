@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:57:39.223Z",
+  "gameDetails": {
+    "id": "122691",
+    "name": "Magnum Opus",
+    "type": "boardgame",
+    "description": "Magnum Opus is a deck-building game in which each player is an Alchemist trying to be the first and only scientist to complete their life's great work by successfully fabricating the ultimate alchemical substance&ndash; the Philosophers' Stone.\n\nUnlike most victory point-oriented deck-building games, Magnum Opus is goal-oriented and plays more like a traditional card game but with a deck-building twist. Players collect different alchemical ingredients, called reagents, over the course of the game and combine them in a series of experiments in order to discover the mysteries of the Philosophers' Stone. The Discovery Matrix is where all of these experiments are conducted and the random selection and placement of Research and Discovery cards in the matrix insures that no two games are ever the same.\n\nEarn the gold you need to purchase your reagents, gain experience from your failures and knowledge from your successes, transmute the physical and mystical elements into the Philosopher's Stone and you will go down in history for your Magnum Opus.\n\n",
+    "image": "https://cf.geekdo-images.com/8uKuJDOUTGYpDUeTfXkGXw__original/img/XaRmB5OIU2vcSRPmG67BS4V3Mx0=/0x0/filters:format(jpeg)/pic1628950.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8uKuJDOUTGYpDUeTfXkGXw__small/img/fGt6qn9c7XeSl5lB96Z9DJKcV-g=/fit-in/200x150/filters:strip_icc()/pic1628950.jpg",
+    "link": "https://boardgamegeek.com/thing/122691",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.95927",
+    "averageWeight": "2.5385",
+    "boardGameRank": "9085",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Modular Board",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Medieval",
+      "Mythology"
+    ],
+    "designers": [
+      "Ian Stedman"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:36:12.326Z",
+  "gameDetails": {
+    "id": "202265",
+    "name": "Chicago & NorthWestern",
+    "type": "boardgame",
+    "description": "American Robber Barons look to exploit America's midwest in this collusive game of explosive railroad expansion in the late 1800s. In Chicago & NorthWestern, players start and expand railroads from Chicago to the Rocky Mountains. Money talks in this game of savvy decisions and smart execution, with dividends fueling further expansion. Shifting stockholder alliances focus on attaining more and more wealth for the stockholders. Self interest drives this game. The game lasts about an hour and the player with the most money at the end of it wins.\n\nThis is not a friendly game.\n\n",
+    "image": "https://cf.geekdo-images.com/ll51xrFT1X70WVb7eY1Zxg__original/img/W3F8plcfpngHpEhrGMZDYT8nC88=/0x0/filters:format(png)/pic7780118.png",
+    "thumbnail": "https://cf.geekdo-images.com/ll51xrFT1X70WVb7eY1Zxg__small/img/YE_DCUKN2Gl_2ArB5BBO0Q7ey5g=/fit-in/200x150/filters:strip_icc()/pic7780118.png",
+    "link": "https://boardgamegeek.com/thing/202265",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2016",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.8064",
+    "averageWeight": "3.2",
+    "boardGameRank": "11554",
+    "mechanics": [
+      "Income",
+      "Network and Route Building",
+      "Stock Holding",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "John Bohrer"
+    ]
+  }
+}

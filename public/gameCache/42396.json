@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:16:56.347Z",
+  "gameDetails": {
+    "id": "42396",
+    "name": "The Eagle and The Star",
+    "type": "boardgame",
+    "description": "Game covers the Polish-Soviet war campaign of the 1920. Players can take command of the Red Army - try to defeat Poland and bring communism to Europe, or play as Polish generals, stop the Red Army, and establish Polish-Soviet border.\n\nGame mechanics is card driven - each card can be played in four manners:\n.as Historical Event\n.as an Order count\n.as Replacement Points\n.as Battle modifier (played only during battles)\n\nOrders are at the heart of the game mechanics. Issued orders are hidden at first, then revealed according to their characteristics and player&rsquo;s current Initiative. Besides the Orders, there are also free &ldquo;bluff&rdquo; Orders - this makes deducting opponent&rsquo;s plans difficult, and is used to hide our real objectives.\n\nUnits are represented by wooden blocks. Battles are fought with no dice, with simple, quick combat system (there&rsquo;s also a randomization factor).\n\nFew know about this war and its great importance to Europe. Had the Poles failed in 1920, communism would have surely spread over the Western Europe, which was heavily exhausted after the 1st World War.\n\nBox contents: \n- Rulebook including 5 scenarios\n- Board\n- 110 cards (55 Soviet and 55 Polish)\n- 105 wooden blocks \n- 1 Sheet of tokens\n\n",
+    "image": "https://cf.geekdo-images.com/oWGMCcpklWSEXmHONP33IQ__original/img/uRh4RINtyZHr4Us8EufY5ALlZXQ=/0x0/filters:format(jpeg)/pic474394.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oWGMCcpklWSEXmHONP33IQ__small/img/xQQpTD_ANvcrmCKo9yYXdIvVEg8=/fit-in/200x150/filters:strip_icc()/pic474394.jpg",
+    "link": "https://boardgamegeek.com/thing/42396",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2009",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.60125",
+    "averageWeight": "3.6",
+    "boardGameRank": "9139",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Events",
+      "Hand Management",
+      "Point to Point Movement",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Bluffing",
+      "Civil War",
+      "Wargame"
+    ],
+    "designers": [
+      "Robert Żak"
+    ]
+  }
+}

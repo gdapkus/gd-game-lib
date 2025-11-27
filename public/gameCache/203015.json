@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:12:55.393Z",
+  "gameDetails": {
+    "id": "203015",
+    "name": "Massive Darkness: Heroes & Monster Set – Warrior Priests vs The Spearmaiden Cyclops",
+    "type": "boardgameexpansion",
+    "description": "Expansion for Massive Darkness containing:\n\n3 Hero figures (Ostara, Moira and Malleus);\n1 Large Spearmaiden Cyclops figure;\n5 Cards;\n1 Warrior Priest Class Sheet Pad.\n\n",
+    "image": "https://cf.geekdo-images.com/BaGOu5IsK4mqESPfqD0URQ__original/img/YER2Y1GxY9c-ncOEXrpQt8msmlc=/0x0/filters:format(jpeg)/pic3687945.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BaGOu5IsK4mqESPfqD0URQ__small/img/hUZgzL-XsrA90bZnLEG9kqBjW9Q=/fit-in/200x150/filters:strip_icc()/pic3687945.jpg",
+    "link": "https://boardgamegeek.com/thing/203015",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.64175",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Raphaël Guiton",
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult"
+    ]
+  }
+}

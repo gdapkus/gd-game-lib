@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:51:58.153Z",
+  "gameDetails": {
+    "id": "280480",
+    "name": "Crystal Palace",
+    "type": "boardgame",
+    "description": "In Crystal Palace, players take on the role of a nation at the time of the first World Fair in London (1851), trying to create a buzz with spectacular inventions and the support of famous and powerful people.\n\nCrystal Palace is a dice-placement game in which the players themselves determine the stats of their dice at the beginning of each round. The higher the number, the better &mdash; but it comes at a price. In the course of the game, dice are placed on eight action locations (Patent Office, Reform Club, London Times, Port of London, Waterloo Station, British Museum, Bank of England, Westminster) in a competition for the best resources, patents, and brains.\n\nIn a world of slightly weird inventions, you will meet people like Phileas Fogg, Levi Strauss and Amelia Edwards, and invent gadgets such as the Thinking machine, the Beer glass counter or the Climate changer.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/oHsLn5t1BvKOX4zJO8_Tmw__original/img/BhDdcsSmJGarKebCRNb1jKqdXdI=/0x0/filters:format(jpeg)/pic4949194.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oHsLn5t1BvKOX4zJO8_Tmw__small/img/a5wJcOm363_-BhI3Al-fnJ4e2NE=/fit-in/200x150/filters:strip_icc()/pic4949194.jpg",
+    "link": "https://boardgamegeek.com/thing/280480",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.50507",
+    "averageWeight": "3.7732",
+    "boardGameRank": "837",
+    "mechanics": [
+      "End Game Bonuses",
+      "Income",
+      "Loans",
+      "Modular Board",
+      "Set Collection",
+      "Take That",
+      "Turn Order: Auction",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Dice",
+      "Economic"
+    ],
+    "designers": [
+      "Carsten Lauber"
+    ]
+  }
+}

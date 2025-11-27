@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T19:33:31.451Z",
+  "gameDetails": {
+    "id": "360372",
+    "name": "Cosmic Encounter: Cosmic Odyssey",
+    "type": "boardgameexpansion",
+    "description": "This seventh expansion is the biggest expansion yet for cosmic encounter. introduces a campaign mode, 30 new aliens, 12 \"alternate timeline\" aliens revising previous aliens, and adds new space stations, technology, and hazards. It also adds new features, such as lux and moons.\n\n",
+    "image": "https://cf.geekdo-images.com/5UXiPai1TabYUBmNrTaVwQ__original/img/CE1ow_r0E3brYIcMImObztUDJmA=/0x0/filters:format(jpeg)/pic6802667.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5UXiPai1TabYUBmNrTaVwQ__small/img/aRfJ1qqD6ekVSSaZfvMFE3angls=/fit-in/200x150/filters:strip_icc()/pic6802667.jpg",
+    "link": "https://boardgamegeek.com/thing/360372",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2022",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "8.7607",
+    "averageWeight": "3.2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Alliances",
+      "Card Play Conflict Resolution",
+      "Hand Management",
+      "Interrupts",
+      "Negotiation",
+      "Race",
+      "Scenario / Mission / Campaign Game",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Negotiation",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Jack Reda"
+    ]
+  }
+}

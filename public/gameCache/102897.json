@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:27:30.732Z",
+  "gameDetails": {
+    "id": "102897",
+    "name": "Farmageddon",
+    "type": "boardgame",
+    "description": "Farmageddon is a frenetic farming game for two to four cutthroat farmers.  Plant big-money crops like Wary Squash or Grumpy Melon, but watch out &mdash; they&rsquo;re a tasty target for other players!\n\nProtect your produce with Crop Insurance or Foul Manure, then hit your opponents with a Dust Bowl or those Darn Gophers!\n\nWill you bring in the biggest bushel of crops&hellip; or will they be wiped out by FARMAGEDDON?\n\n-Back of box blurb\n\n",
+    "image": "https://cf.geekdo-images.com/OacGaleOCDcGognJVX68ow__original/img/pNbyZp_RT9vV-luIS_T-ZSRlGk4=/0x0/filters:format(jpeg)/pic1239471.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OacGaleOCDcGognJVX68ow__small/img/1e82xajFLvI-JJ7w5F4QMFwgVww=/fit-in/200x150/filters:strip_icc()/pic1239471.jpg",
+    "link": "https://boardgamegeek.com/thing/102897",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.09109",
+    "averageWeight": "1.625",
+    "boardGameRank": "7856",
+    "mechanics": [
+      "Hand Management",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Farming",
+      "Humor"
+    ],
+    "designers": [
+      "Grant Rodiek"
+    ]
+  }
+}

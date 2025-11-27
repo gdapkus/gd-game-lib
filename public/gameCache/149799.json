@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:30:42.416Z",
+  "gameDetails": {
+    "id": "149799",
+    "name": "Quantum: The Void",
+    "type": "boardgameexpansion",
+    "description": "The empty space between planets reveals the dark mysteries of the cosmos. Quantum anomalies are abundant in the VOID, and study there is rewarded with more frequent breakthroughs.\n\nAt the start of your turn, for each of your ship dice on the void map tile, you gain +1 research.\n\nGaining research from the void does not use up any of your actions or special ability uses for your turn. Ships that earn you +1 research from the void can move and use special abilities normally that turn.\n\n",
+    "image": "https://cf.geekdo-images.com/2obNw0-3BwtF0qkGRZiVDA__original/img/LMjOgczyZSv0UNNLPe7-rAwI_g8=/0x0/filters:format(jpeg)/pic6986112.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2obNw0-3BwtF0qkGRZiVDA__small/img/SN_j2tTf5oXDTuFMujG6qtP7gX8=/fit-in/200x150/filters:strip_icc()/pic6986112.jpg",
+    "link": "https://boardgamegeek.com/thing/149799",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "7.42622",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Civilization",
+      "Dice",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "designers": [
+      "Eric Zimmerman"
+    ]
+  }
+}

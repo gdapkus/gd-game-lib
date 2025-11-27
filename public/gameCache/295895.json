@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T19:31:52.388Z",
+  "gameDetails": {
+    "id": "295895",
+    "name": "Distilled",
+    "type": "boardgame",
+    "description": "Distilled is a highly thematic strategy card game about crafting spirits in a distillery, with resource management and push-your-luck elements. In the game, you have inherited a distillery and are hoping to someday achieve the title of master distiller through purchasing goods, building up your distillery, and creating the world's most renowned spirits.\n\nPurchase new ingredients and invest in upgrades to your distillery, all while eventually distilling the spirit and sending it to the warehouse. Once in the warehouse, age your spirit to enhance its flavor and bottle it to sell it for major profits!\n\nAchieve the title of Master Distiller by having the most spirit points at the end of the game. Points are obtained by distilling and selling spirits.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/8YPBUoAlAvGSfcRTxr7EZQ__original/img/OTf94SbWPGDsg5Oms3D8S4tDja8=/0x0/filters:format(png)/pic7104213.png",
+    "thumbnail": "https://cf.geekdo-images.com/8YPBUoAlAvGSfcRTxr7EZQ__small/img/JKBgv_MiQOOCmzS4KVzwjPW_yso=/fit-in/200x150/filters:strip_icc()/pic7104213.png",
+    "link": "https://boardgamegeek.com/thing/295895",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "150",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.77336",
+    "averageWeight": "3.0246",
+    "boardGameRank": "284",
+    "mechanics": [
+      "Hand Management",
+      "Income",
+      "Market",
+      "Set Collection",
+      "Turn Order: Progressive"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Dave Beck"
+    ]
+  }
+}

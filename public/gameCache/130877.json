@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:02:17.614Z",
+  "gameDetails": {
+    "id": "130877",
+    "name": "Blood Bound",
+    "type": "boardgame",
+    "description": "In Blood Bound, a deduction game played in 15-30 minutes, players assume the roles of members of two clans &ndash; the brutal, animalistic warriors of the Clan of the Beast and the graceful, deadly members of the Clan of the Rose &ndash; and (with an odd number of players) the human inquisition. Disguised by a secret identity, they try to kidnap the Elder of the opposing clan or give their lives for the benefit of their own Elder. Malicious attacks, aimed indiscretions, and assistance from others will slowly uncover the truth: Who fights for whom? And who is the Elder?\n\nAt the start of the game, each player knows three things:\n\n\n    Who they are and to which clan they belong\n    That a few other players are allies, while everyone else is the enemy of both themselves and their clan\n    The clan to which one of their neighbors belongs &ndash; although some characters can lie about their clan identity\n\n\nNow the players have to figure out who the Elder of the opposing team is (if there is one) and capture him. To do this, players need to attack, negotiate and deduce, with an attacked player being required to reveal information, such as his rank or clan affiliation. Each player has an ability unique to his character, and this ability can be used only at the moment that he reveals his rank. The Assassin forces players to suffer wounds, for example, while the Guardian protects a player of the character's choice.\n\nIn the end, if you capture your rival clan's Elder, you win &ndash; but if you capture the wrong vampire, you've fallen into the enemy's trap and lose the game.\n\n",
+    "image": "https://cf.geekdo-images.com/ZnoorbruJqquV0NBTk86_w__original/img/FyFuHhmU9aIuLCCbhih3IS-KRHw=/0x0/filters:format(jpeg)/pic3564143.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZnoorbruJqquV0NBTk86_w__small/img/U4WvyGQJ8j5uFKmz02wNE8c5CxY=/fit-in/200x150/filters:strip_icc()/pic3564143.jpg",
+    "link": "https://boardgamegeek.com/thing/130877",
+    "minPlayers": "6",
+    "maxPlayers": "12",
+    "yearPublished": "2013",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      8,
+      10
+    ],
+    "averageRating": "6.57272",
+    "averageWeight": "1.6286",
+    "boardGameRank": "3511",
+    "mechanics": [
+      "Role Playing",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Fantasy",
+      "Horror",
+      "Negotiation",
+      "Party Game"
+    ],
+    "designers": [
+      "Kalle Krenzer"
+    ]
+  }
+}

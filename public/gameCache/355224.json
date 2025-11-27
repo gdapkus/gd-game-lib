@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:56:22.415Z",
+  "gameDetails": {
+    "id": "355224",
+    "name": "Isle of Trains: All Aboard",
+    "type": "boardgame",
+    "description": "Welcome to the Isle of Trains, where you are the conductor, and constructor of one of the island&rsquo;s locomotives. You&rsquo;ll build trains and load a range of goods to complete contracts across the island, and also deliver passengers to their destinations.\n\nIsle of Trains: All Aboard is a card-based engine building game where cards have multiple uses: You can use cards as locomotives, freight cars, passenger cars, or buildings to improve the effectiveness and abilities of your train. Cards can also be spent to pay for the construction of your new train cars and buildings, or you can use your cards as cargo and load them onto available freight cars.\n\nYou will also have a range of passengers who want to be taken to different destinations. You will draw these passengers at random from a bag when you build passenger cars and certain locomotives. You can then load passengers into any available passenger car. When passengers are delivered to their destinations, they will give you an instant powerful bonus!\n\nLoading cargo and passengers into opponents&rsquo; trains is important on the Isle of Trains as it&rsquo;ll also gain you extra bonuses that turn! But this will help the other train conductors get a little closer to completing their goals, by giving them the cargo or passengers, which they can then use for deliveries and big end game points!\n\nThe game ends when a certain number of contracts have been completed, or a certain number of passengers are delivered. You win by scoring the most points, which you earn by building up your train, completing contracts, and delivering passengers.\n\nIsle of Trains: All Aboard is all about balancing the need to upgrade your train, with loading cargo or passengers onto opponent&rsquo;s train for big bonuses, and delivering cargo and passengers to their destinations before anyone else. Build your engine effectively enough to be remembered as the greatest train conductor on the Isle of Trains!\n\n",
+    "image": "https://cf.geekdo-images.com/XLetZJjJMO_EQkIYTyOfAw__original/img/UQQMJpxaYAkN7L62UPcUHg2uGAw=/0x0/filters:format(jpeg)/pic6652396.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XLetZJjJMO_EQkIYTyOfAw__small/img/5Hy5msbYsR0vuJlAcEExB7gpQpU=/fit-in/200x150/filters:strip_icc()/pic6652396.jpg",
+    "link": "https://boardgamegeek.com/thing/355224",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.9321",
+    "averageWeight": "2.2321",
+    "boardGameRank": "2678",
+    "mechanics": [
+      "Contracts",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Seth Jaffee",
+      "Dan Keltner"
+    ]
+  }
+}

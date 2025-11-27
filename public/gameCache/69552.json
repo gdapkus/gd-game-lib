@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:17:37.355Z",
+  "gameDetails": {
+    "id": "69552",
+    "name": "Panic Station",
+    "type": "boardgame",
+    "description": "Panic Station is a paranoia-driven partly cooperative game in which you control two characters in the Extermination Corps sent out by the government to investigate the presence of fiendish alien life forms.\n\nPlayers need to move both their Androids and Troopers through the base, exploring and gathering equipment that will help them to complete their mission: to find and destroy the Parasite Hive hidden somewhere in the inner depths of this hell. When a player manages to get his Trooper into the Hive location and play three gas can cards to fuel his Flamethrower, he wins the game for the humans.\n\nHowever, one of the players is a Host. He must keep this identity secret, infecting as many team members as possible to gain allies and prevent the humans from completing their mission. Only players who carefully watch the behavior of team members and find a good balance between cooperation and paranoia will stand a chance against the infected players and roaming parasites.\n\nThe game uses a unique exponential traitor-system and combines tactical play with a compelling psychological mindgame amongst players.\n\nPanic Station is a game of growing paranoia in which no one can truly trust anyone. Can you maintain your sanity and destroy the source of this evil?\n\n",
+    "image": "https://cf.geekdo-images.com/Fes5PuhSwYRAexiwLXFmJw__original/img/0cX62B0FH1J0ylm7M6nEWz1uJ3o=/0x0/filters:format(jpeg)/pic1086190.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Fes5PuhSwYRAexiwLXFmJw__small/img/IvehN-q_ege-Xbw_yZSiONyjXR0=/fit-in/200x150/filters:strip_icc()/pic1086190.jpg",
+    "link": "https://boardgamegeek.com/thing/69552",
+    "minPlayers": "4",
+    "maxPlayers": "6",
+    "yearPublished": "2011",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "5.99513",
+    "averageWeight": "2.3425",
+    "boardGameRank": "5430",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board",
+      "Player Elimination",
+      "Team-Based Game",
+      "Tile Placement",
+      "Traitor Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Bluffing",
+      "Exploration",
+      "Party Game",
+      "Science Fiction"
+    ],
+    "designers": [
+      "David Ausloos"
+    ]
+  }
+}

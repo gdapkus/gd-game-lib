@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:24:33.052Z",
+  "gameDetails": {
+    "id": "132",
+    "name": "Caesar & Cleopatra",
+    "type": "boardgame",
+    "description": "Caesar and Cleopatra is a card laying game where players assume the roles of these two great leaders. Caesar wants Rome to invade Egypt while Cleopatra wants it to remain independent and both try to influence Roman officials to support their cause.\n\nPlayers take turns and send their agents, i.e. play numbered cards from 1 to 5 to influence one group of Roman officials, Aedils, Quaestors, Senators, Pretorians and Censors. They can send fewer agents face-down or more agents face-up. Additionally they can play action cards like Assassins that take out opposing agents or scouts that reveal face-down agents. Players can decide if they want to refill their hand from the agent deck or the action card deck but once one of the decks is empty they don't have access to any more of these cards.\n\nAfter each players turn, a card from the voting stack is revealed and the group of officials that is indicated on the card casts their vote. The player who has the most influence points next to that group wins one official from that group to his cause and then removes his strongest agent from that stack.\n\nThe game ends when all the officials have picked a side and the player who has influenced most of them wins the game, with bonus points for the majority in each group and some simple hidden objectives.\n\n",
+    "image": "https://cf.geekdo-images.com/NikwfBhoTkfVQdd8NXHU0g__original/img/oErlCUa2wpooXygRkk1trUdgeT8=/0x0/filters:format(jpeg)/pic8647817.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NikwfBhoTkfVQdd8NXHU0g__small/img/_BN22f238wsEaS_OWDQtiwF5WFM=/fit-in/200x150/filters:strip_icc()/pic8647817.jpg",
+    "link": "https://boardgamegeek.com/thing/132",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1997",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.4045",
+    "averageWeight": "1.9127",
+    "boardGameRank": "2652",
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Hand Management",
+      "Secret Unit Deployment",
+      "Set Collection",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Ancient",
+      "Bluffing",
+      "Card Game"
+    ],
+    "designers": [
+      "Wolfgang Lüdtke"
+    ]
+  }
+}

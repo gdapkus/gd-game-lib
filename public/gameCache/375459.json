@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:31:48.615Z",
+  "gameDetails": {
+    "id": "375459",
+    "name": "Speakeasy",
+    "type": "boardgame",
+    "description": "Speakeasy will transport you to the roaring 1920s during the era of Prohibition. Manhattan was under the firm control of Lucky Luciano, a prominent mobster. To strengthen his grip on the territory, he implemented a well-structured system. He divided Manhattan into different districts, each assigned to a specific mobster responsible for handling their \"business\" operations.\n\nIn this worker-placement and card-management game, you take on the role of one of those mobsters, managing and operating your very own speakeasy empire in Manhattan. To do so, you'll need to use all your cunning and resources to stay ahead of the competition. As you improve your operation, become more infamous, and upgrade to more lavish speakeasies and even casinos, you'll attract the attention of the outside mafia and the police. You need to use your leverage to keep your business running and receive your share from Lucky Luciano.\n\nYou need to hire goons to help you take over Manhattan during this exciting and dangerous time. You can associate with outside mobsters &mdash; and even attack and rob rum runners to gain valuable resources to gain an edge over your rivals. You need to manage your cards carefully, placing your workers strategically to deliver illicit liquor and reach Manhattan's goals to earn income. You will cook your books to fill your safes with free tax money by achieving some goals.\n\nThe ultimate goal is simple: accumulate the most money and become the most successful mobster in the city. Do you have what it takes to rise to the top of the speakeasy scene and take over Manhattan during Prohibition? It's time to grab your fedora and find out in Speakeasy.\n\n",
+    "image": "https://cf.geekdo-images.com/Y7vIlh-m_Ugnv0jrUuOW3g__original/img/anztl_yjkT6QMcW4p5Dit7KAChE=/0x0/filters:format(jpeg)/pic8165052.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Y7vIlh-m_Ugnv0jrUuOW3g__small/img/pTIdvbosIWlLSxorWRMWkUkeSj8=/fit-in/200x150/filters:strip_icc()/pic8165052.jpg",
+    "link": "https://boardgamegeek.com/thing/375459",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "180",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.41006",
+    "averageWeight": "4.2553",
+    "boardGameRank": "2283",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Mafia",
+      "Territory Building"
+    ],
+    "designers": [
+      "Vital Lacerda"
+    ]
+  }
+}

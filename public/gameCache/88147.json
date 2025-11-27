@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:48:00.873Z",
+  "gameDetails": {
+    "id": "88147",
+    "name": "Adaman",
+    "type": "boardgame",
+    "description": "You are the heir to the throne, but the monarch might live a very long time. You intend to speed things along, but it will only work if the major personalities in the kingdom back your play. You need to buy, trick, or eliminate anyone who might stand in your way.\n\nIn this solitaire Decktet game, personality cards represent different people in the kingdom who you need to control; personalities are the cards done up like face cards, with two close ups of a single figure. All of the other cards represent elements which you can use to control personalities. Your goal is to \"influence\" every personality card in the deck by paying one or more cards from your resource row that each share at least one suit with the targeted personality and have a combined value of at least the personality cards value.\n\nIf you influence all the personalities in the deck than you win! Miss even one though, or end up with no available moves, and its the headsman's block for you.\n\n",
+    "image": "https://cf.geekdo-images.com/Hs_GwPOJRB4N4Fs3um4NOQ__original/img/4ZXlYTfGlhQ4UqMfaYLB1P0_RhQ=/0x0/filters:format(jpeg)/pic891838.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Hs_GwPOJRB4N4Fs3um4NOQ__small/img/Ajp2oRAQn-Yb46hsj90oph6kSig=/fit-in/200x150/filters:strip_icc()/pic891838.jpg",
+    "link": "https://boardgamegeek.com/thing/88147",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2010",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.12586",
+    "averageWeight": "1.2667",
+    "boardGameRank": "16758",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "P. D. Magnus"
+    ]
+  }
+}

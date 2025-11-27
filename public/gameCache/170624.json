@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T19:33:32.283Z",
+  "gameDetails": {
+    "id": "170624",
+    "name": "Crusaders: Thy Will Be Done",
+    "type": "boardgame",
+    "description": "Move your knights, erect buildings, and go crusading to spread the influence of your Order. When the Orders get too strong, King Philip will become nervous and disband all Templar orders, ending the game.\n\nCrusaders: Thy Will Be Done uses a combination of rondel and mancala mechanisms. Each player has their own rondel, which they can upgrade over the course of the game, that controls their action choices during the game. Your faction gives you a special power to control your rondel, and the buildings you erect will help you form a strategy.\n\n",
+    "image": "https://cf.geekdo-images.com/XkWDxerdbSpZ1UtxWv-a7Q__original/img/a9TPfwOQIsH-4D1JNB86qec2-TI=/0x0/filters:format(jpeg)/pic6740264.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XkWDxerdbSpZ1UtxWv-a7Q__small/img/wV7u4aTmFP14tdzo1EUH9LvsQZ4=/fit-in/200x150/filters:strip_icc()/pic6740264.jpg",
+    "link": "https://boardgamegeek.com/thing/170624",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "60",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.47067",
+    "averageWeight": "2.4762",
+    "boardGameRank": "665",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Mancala",
+      "Movement Points",
+      "Rondel",
+      "Tags",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Medieval",
+      "Territory Building"
+    ],
+    "designers": [
+      "Seth Jaffee"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:05:16.517Z",
+  "gameDetails": {
+    "id": "184866",
+    "name": "Wings for the Baron (Second Edition)",
+    "type": "boardgame",
+    "description": "It is 1916, and the First World War continues with no end in sight. With the war a bloody stalemate on the ground, the combatants have turned to their developing air forces to achieve victory. Wings for the Baron allows 1-5 players to take the role of German aeroplane manufacturers, supplying the machines needed to drive the Allied air forces from the skies and ensure German victory. Compared to the first edition it features expanded and streamlined rules, a fifth player, an advanced game featuring reconnaissance and bomber aeroplane development.\n\n",
+    "image": "https://cf.geekdo-images.com/r5IVKDMuZQWDGZ2NI9_o8g__original/img/Oro1_a2lHmoQtnrOkqnlzukC0KQ=/0x0/filters:format(jpeg)/pic2682989.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/r5IVKDMuZQWDGZ2NI9_o8g__small/img/KlWy4Fx-oaxYOyS5cgCrVxnCC-Q=/fit-in/200x150/filters:strip_icc()/pic2682989.jpg",
+    "link": "https://boardgamegeek.com/thing/184866",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.38103",
+    "averageWeight": "2.4444",
+    "boardGameRank": "5705",
+    "mechanics": [
+      "Events",
+      "Hand Management",
+      "Simultaneous Action Selection",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Industry / Manufacturing",
+      "World War I"
+    ],
+    "designers": [
+      "Dave Townsend"
+    ]
+  }
+}

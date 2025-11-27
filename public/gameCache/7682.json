@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:54:39.478Z",
+  "gameDetails": {
+    "id": "7682",
+    "name": "Go Fish",
+    "type": "boardgame",
+    "description": "Go Fish is a standard deck playing card game and is one of the first card games taught to children in the United States. Players try to complete sets of four of the same number cards (the two of hearts, diamonds, clubs, and spades together would be a set).\n\nAfter dealing 6 cards to each player, the first player asks one other player if they have any cards matching one in their hand - \"Do you have any 2's?\".  If player 2 has any cards matching the requested card, they must surrender all matching cards to the asking player and player 1 gets another turn.  If player 2 doesn't have any matches, he says \"Go Fish\" and player 1 draws from the draw pile.  If the card drawn matches the last card asked for or makes a set, player 1 gets another turn.  If not, play moves to the player.\n\nThe first player who ends his turn with no cards left in his hand (all cards are in sets), wins.\n\n",
+    "image": "https://cf.geekdo-images.com/aZoXKNA2eIBg-G1rDgySpQ__original/img/IPjXu42dZPjiAPos_SIKYpd3P2g=/0x0/filters:format(jpeg)/pic3177908.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aZoXKNA2eIBg-G1rDgySpQ__small/img/C0x1B4SVYpVuTEjGWgYk0rKLx98=/fit-in/200x150/filters:strip_icc()/pic3177908.jpg",
+    "link": "https://boardgamegeek.com/thing/7682",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "0",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "3.70444",
+    "averageWeight": "1.0534",
+    "boardGameRank": "29593",
+    "mechanics": [
+      "Memory",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Children's Game",
+      "Deduction",
+      "Memory"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

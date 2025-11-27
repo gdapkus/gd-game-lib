@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:17:17.078Z",
+  "gameDetails": {
+    "id": "206156",
+    "name": "SUPERHOT: The Card Game",
+    "type": "boardgame",
+    "description": "A bullet misses you by millimeters. A dozen more come from every direction. Armed red guys are everywhere. You take a breath, check your options...and play a card.\n\nPart strategy, part shooter, and undeniably stylish, SUPERHOT is the bestselling independent FPS in which time moves only when you move. After its Steam and Xbox One releases, SUPERHOT is taking its unique game mechanisms to the world of tabletop games.\n\nIn the micro deck-building SUPERHOT Card Game, based on Agent Decker, you use abilities and items to deal with increasing threats. Threats you eliminate are added to your hand, giving you improved abilities and more options while bringing you closer to victory &mdash; but you need to be careful because the more cards you use, the faster you move through time (represented by a line of obstacles moving in your direction).\n\nIn more detail, you need to interact with obstacles &mdash; whether killing them or knocking them out &mdash; to increase your future possibilities for interaction or to give you more time before bullets appear! The cards that you use are discarded to the obstacle pile while cards you pass by are placed in your personal discard pile, creating a mini-deck of cards. The game has three types of obstacle cards: enemy, scenery, and objects, with each type giving you different abilities when they're in your deck.\n\nSUPERHOT Card Game has four play modes:\n\n    Solitaire: You play against the system.\n    Cooperative: Two players play against the system.\n    Competitive: You face off against another player, with this player representing the system.\n    Cooperative against another: Two players team up against a system player.\n\n\n",
+    "image": "https://cf.geekdo-images.com/pTqrDgvCYTb4ASKBve0I8Q__original/img/BLX1EtGZDwX65S08-97ifJd-T9g=/0x0/filters:format(jpeg)/pic3247729.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pTqrDgvCYTb4ASKBve0I8Q__small/img/fxijlggs-W2--HOBeiMByMVt2Ys=/fit-in/200x150/filters:strip_icc()/pic3247729.jpg",
+    "link": "https://boardgamegeek.com/thing/206156",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "yearPublished": "2017",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.26251",
+    "averageWeight": "2.2051",
+    "boardGameRank": "5402",
+    "mechanics": [
+      "Action Queue",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Video Game Theme"
+    ],
+    "designers": [
+      "Manuel Correia"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:05:27.889Z",
+  "gameDetails": {
+    "id": "2393",
+    "name": "Xiangqi",
+    "type": "boardgame",
+    "description": "XiangQi is one of the most played board games in the world. Translated loosely as \"elephant game\", the name of XiangQi may have first been recorded in Songs of Chu during the 4th century BC of early China; in the state of Qi during the Warring State Period, the name \"XiangQi\" meant ivory Liubo pieces, not modern XiangQi played by Chinese. The modern Xiangqi set dates back to the Tang dynasty.\n\nBased closely on ancient Chinese military strategy, XiangQi draws comparisons to European Chess, and indeed, both are descended from the ancient Indian game of Chaturanga.\n\n---\n\nXiangQi, commonly referred to in English as \"Chinese Chess\", is played with 32 pieces (16 per player) on a board that is 9 lines wide and 10 lines long. As in the game of Go, the game is played on the intersections of the game board. The area of play is divided into two territories by a river in the middle of game board. In each territory there is a 3 line by 3 line palace, in which each player's respective General/Marshal is located. The object of the game is to capture the opponents's General/Marshal.\n\nThe pieces on both sides and their movements & special rules are:\n\n\n    1 General: 1 Point orthogonally within the palace only. Not allowed to &lsquo;see&rsquo; the enemy General on an open file.\n    2 Advisors: 1 point diagonally within the palace only.\n    2 Chariots: Any distance orthogonally.\n    2 Cannons: Moves like a Chariot. To capture, it must first leap over an intervening piece of either color.\n    2 Horses: 1 point orthogonally, then one point diagonally.\n    2 Elephants / Ministers: 2 points diagonally. Cannot cross the river.\n    5 Soldiers: 1 point straight forward.  Once across the river, can also move 1 point sideways instead.\n\n\nPieces capture as they move and never jump. The only exception (for both rules) apply to the cannon.\n\n---\n\nThe price of the game varies depending on the material used in the game. Inexpensive sets are usually made with plastic or low-grade wooden pieces and a paper gameboard. Expensive sets are usually made with jade or high-grade wooden pieces and a wooden gameboard.\n\nVariants\n\n    Banqi - Game using same pieces\n    Giog - Game using same pieces\n    Mini Xiang Qi - Smaller version\n    San Guo Qi - Three-player version\n    Qi Guo Xiang Qi - Seven-player version\n    Changgi - Korean version\n\n\nYou can play Chinese Chess for free at http://www.xiangqi.com.\n\n",
+    "image": "https://cf.geekdo-images.com/ZUJnPfVk2RpoRNTJfhwOGw__original/img/j8MM6Yzh2LOI40HaDGSzoFZrJfg=/0x0/filters:format(jpeg)/pic182374.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZUJnPfVk2RpoRNTJfhwOGw__small/img/tRFViJasw9fqNTFnTThKrpzinfc=/fit-in/200x150/filters:strip_icc()/pic182374.jpg",
+    "link": "https://boardgamegeek.com/thing/2393",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "762",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.0904",
+    "averageWeight": "3.5481",
+    "boardGameRank": "2192",
+    "mechanics": [
+      "Grid Movement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

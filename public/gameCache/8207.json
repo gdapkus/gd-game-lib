@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:52:23.816Z",
+  "gameDetails": {
+    "id": "8207",
+    "name": "Dungeoneer: Vault of the Fiends",
+    "type": "boardgame",
+    "description": "Dungeoneer: Vault of the Fiends is a non-collectable dungeon-crawl card game for 2-4 players.\n\nIt is meant as an expansion to the Dungeoneer: Tomb of the Lich Lord also published by Atlas Games, but Tomb of the Lich Lord is not necessary to play this set, as Vault of the Fiends is also a stand-alone set.\n\nPlayers play the part of one of six heroes.  Each hero has variable melee, magic and speed scores, as well as a unique ability. Your second role in the game is as the malevolent &ldquo;Dungeonlord&rdquo;, trying to exterminate the other heroes.\n\nYou win the game when as a hero you complete 3 Quests such as destroying an evil laboratory or rescuing a princess. An alternate win goal is as the Dungeonlord if all the other heroes are defeated except yours.\n\nVault of the Fiends features a variety of new heroes.  Elf Assassin, Human Beastmaster, Drakan Sentinal, Ork Shaman, Dwarf Runecaster, and Gnome Illusionist.\n\nEach turn you may:\n\n     Play monsters, traps and other bad events on opponents\n     Build a dungeon\n     Move around the dungeon with your hero (collect Glory and Peril resources)\n     Play abilities and treasures for yourself\n     Complete a Quest\n     Discard an unwanted card\n     Fill your hand to 5 cards\n\n\nThis game is similar to Wiz-War where you race in a dungeon to complete your objectives.  This dungeon is created by the laying down of Map cards. You collect Glory and Peril as you move through the dungeon.  Glory buys cards that help your hero such as abilities and treasures, but your opponent spends your Peril against you to play monsters, traps and other unpleasant stuff.\n\nCombat is similar to Talisman. Roll a six-sided die and add the score you are combating with, either Melee or Magic, to beat your opponent&rsquo;s roll.\n\nThe way the cards interact will be familiar to CCG players, in that you have &ldquo;Permanents&rdquo; and &ldquo;Instants&rdquo; that you can use strategically, or in combinations, but this game is not really a strategy game.  Most of the fun comes from the theme, and surprising combination of events that occur.  Dungeoneer is likely to appeal to those who enjoy a classic dungeon crawl and RPG like action.\n\nVault of the Fiends features a few new mechanics that should serve to enhance the game play which players of Tomb of the Lich Lord will be familiar with.  Some monsters, and attack cards are &ldquo;pumpable&rdquo; that means you may spend extra Glory or Peril to boost the effectiveness of the card.  Also conditions on the map change such as effects being deactivated when a certain Quest is completed or throwing a switch in a room to extend a bridge across the Fiery Chasm.  One of the more unexpected new mechanics are &ldquo;artifact&rdquo; Quests, such as the Armor Golem&rsquo;s Glove which makes your hero more powerful or the Sunken Treasure which makes your hero faster.  These do not confer a level, but are rotated 180 degrees so you can read the bonus they provide.\n\nPart of the Dungeoneer Series.\n\n",
+    "image": "https://cf.geekdo-images.com/Ew-jItYjL-N_2yueqxjnNQ__original/img/0tmpSVM2YbkYk2NrS0oNcwObzzE=/0x0/filters:format(jpeg)/pic273938.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ew-jItYjL-N_2yueqxjnNQ__small/img/04yum9-Leq03VB5jKFsyMbU-cwU=/fit-in/200x150/filters:strip_icc()/pic273938.jpg",
+    "link": "https://boardgamegeek.com/thing/8207",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2003",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.30176",
+    "averageWeight": "2.2376",
+    "boardGameRank": "4910",
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Dice",
+      "Exploration",
+      "Fantasy"
+    ],
+    "designers": [
+      "Thomas Denmark"
+    ]
+  }
+}

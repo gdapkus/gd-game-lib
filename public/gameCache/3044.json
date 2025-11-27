@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:48:25.789Z",
+  "gameDetails": {
+    "id": "3044",
+    "name": "Air Assault on Crete / Invasion of Malta: 1942",
+    "type": "boardgame",
+    "description": "Avalon Hill's epic German airborne attack game.\n\nAir Assault on Crete simulates the first totally airborne invasion in history, with the Germans overwhelming the rag-tag Allied survivors of the ill-fated Greek Campaign.  It is is a strategic, battalion level game, with traditional turn sequencing, including air missions, bombardment, move and combat.  Units have attack, defense and movement values, as well as stacking limits.  There are fairly standard terrain effects and zones of control, but no mandatory attacks.\n\nThis package features a bonus game, Invasion of Malta: 1942, which re-creates the hypothetical German-Italian invasion of Malta (and even a third game, if you count the variant from the General magazine, Volume 18, #3, Assault on Cyprus).  Each game includes its own mapboard and counters and shares only a minimum of components with the other.  They share the same basic rules system, with a subset specific to Air Assault on Crete.\n\nAvalon Hill Complexity rating - 5\nCounters = 520\n\n",
+    "image": "https://cf.geekdo-images.com/6_QFwTTihRE-PBikp7SH8g__original/img/bxaHtntv3PE0HOonV9kEP9Vs2ys=/0x0/filters:format(jpeg)/pic243417.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6_QFwTTihRE-PBikp7SH8g__small/img/kAORVkqssHxaMfzzaAb9VDXCb5w=/fit-in/200x150/filters:strip_icc()/pic243417.jpg",
+    "link": "https://boardgamegeek.com/thing/3044",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1977",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.49218",
+    "averageWeight": "3.1449",
+    "boardGameRank": "6927",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Randall C. Reed",
+      "Vance von Borries"
+    ]
+  }
+}

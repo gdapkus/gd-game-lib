@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:11:52.120Z",
+  "gameDetails": {
+    "id": "339131",
+    "name": "Marvel United: Deadpool",
+    "type": "boardgameexpansion",
+    "description": "The Deadpool expansion brings you a whopping three flavors of the Merc with a Mouth, as well as his not so trusty sidekick Bob, Agent of Hydra. These most unusual characters can all be played as either Heroes or Villains, always with tongue stuck firmly in cheek. Not content with being just a 4th wall-breaking Hero and unbeatable Villain, Deadpool can also crash into any game, riding his plush unicorn, in the form of a Challenge that sows chaos wherever he goes!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/V60hE4vw1qshoFdjv3etyQ__original/img/0q1DICHlImHQYdLW_jaMG39zNfQ=/0x0/filters:format(jpeg)/pic7365029.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/V60hE4vw1qshoFdjv3etyQ__small/img/iaS2OM82pYSQ7-a3PmdFGsPDfgg=/fit-in/200x150/filters:strip_icc()/pic7365029.jpg",
+    "link": "https://boardgamegeek.com/thing/339131",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.73548",
+    "averageWeight": "1.8",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

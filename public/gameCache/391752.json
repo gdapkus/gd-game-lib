@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:32:02.017Z",
+  "gameDetails": {
+    "id": "391752",
+    "name": "Steam Power",
+    "type": "boardgame",
+    "description": "In Steam Power, players \"race\" to build the best rail network to meet their contractual obligations and make the most money.\n\nOn your turn, you can perform two actions from a selection of choices, letting you lay tracks, build factories, fulfill contracts, earn money, or collect more contracts. Building a factory brings resources to the board that all players have access to...at a price.\n\nThe game ends when a certain number of contracts are fulfilled, which varies by player count. The player with the most points (and money, which converts to points) wins.\n\n",
+    "image": "https://cf.geekdo-images.com/d5JR5FekM_PsanGOHBdSMA__original/img/n6y6kwfqOwqChZ6X5ajMq0N-X7Q=/0x0/filters:format(jpeg)/pic7720019.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/d5JR5FekM_PsanGOHBdSMA__small/img/RKxhi5xFFrDm9KbjTiNYA27WwKI=/fit-in/200x150/filters:strip_icc()/pic7720019.jpg",
+    "link": "https://boardgamegeek.com/thing/391752",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.40777",
+    "averageWeight": "2.2973",
+    "boardGameRank": "3411",
+    "mechanics": [
+      "Chaining",
+      "Connections",
+      "Contracts",
+      "Hexagon Grid",
+      "Network and Route Building",
+      "Ownership",
+      "Pick-up and Deliver",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Territory Building",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Martin Wallace"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:17:50.211Z",
+  "gameDetails": {
+    "id": "2082",
+    "name": "Shell Shock!",
+    "type": "boardgame",
+    "description": "Shell Shock! is a two-player game of combat, adventure and heroism in World War II Europe; adapted from the award-winning and incredibly popular Ambush! solitaire game. In each of six missions, one player commands a squad of German infantry while another commands American, British, or Soviet troops. The players determine the composition of their squads - men, weapons, and equipment - and purchase Light and Heavy supports to assist them in the mission - from foxholes and barbed wire to artillery support. Every playing is different as the intensity of the battle, mission objectives, forces and weather change.\n\nContents:\nOne 22\" x 32\" Map Display with one 16\" x 18 \" Map\nFour 8\" x 16\" Maps (B-E)\n540 Counters (3 Sheets total)\nOne Rule Booklet\nTwo Mission Booklets\nTwo Player Cards \nTwo Squad Record Pads\nTwo Vehicle Displays\n120 Playing Cards\n- 46 Random Event\n- 30 Allied Aid Card\n- 30 German Aid Card\n- 8 Special Guest\n- 6 Crew Vehicle\nOne Counter Tray\nTwo ten-sided dice\n\n",
+    "image": "https://cf.geekdo-images.com/ct4_XrySBt3iyFBPcZxS2g__original/img/CfC3MMlcGNelr45IW_kGlKb1AVs=/0x0/filters:format(jpeg)/pic14374.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ct4_XrySBt3iyFBPcZxS2g__small/img/zM7tBSgEsxt0oDJcQL53uPO0gSo=/fit-in/200x150/filters:strip_icc()/pic14374.jpg",
+    "link": "https://boardgamegeek.com/thing/2082",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1990",
+    "playingTime": "360",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.40843",
+    "averageWeight": "3.1071",
+    "boardGameRank": "12606",
+    "mechanics": [
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Joseph Reiser"
+    ]
+  }
+}

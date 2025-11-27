@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:28:28.933Z",
+  "gameDetails": {
+    "id": "9200",
+    "name": "Heroes Incorporated",
+    "type": "boardgame",
+    "description": "Heroes Incorporated introduces players to the next generation of crime fighters. 2 to 4 players each lead two super-powered heroes against a legion of bad guys. The goal is not only to stop the villains, but also to become more popular than any of the other super teams in the city. Each team competes for the same goal: to become the only officially elected and funded Defenders of Megapolis!\n\nGame features:\n\n\n     12 unique Heroes with distinct powers that alter the game rules. \n     Patrol the streets with a team of two heroes, enabling a myriad of game play combinations and strategies \n     Research Cards allow heroes to build gadgets, upgrade combat power, and gain fame. \n     Foil your opponents with Fate and Super Villain cards. \n     High quality wooden components imported from Germany \n\n\nExpanded by:\n\n    S.U.P.E.R. Expansion\n    Crime Wave Expansion\n    Legion Expansion\n\n\n",
+    "image": "https://cf.geekdo-images.com/bgG9_uzVBAEuRs2ybvnptQ__original/img/-XNwUZgR01Jxezsp5RcdLKaEZs0=/0x0/filters:format(jpeg)/pic166481.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bgG9_uzVBAEuRs2ybvnptQ__small/img/To-dEDvLhnTDijZOESQK1QeOGpI=/fit-in/200x150/filters:strip_icc()/pic166481.jpg",
+    "link": "https://boardgamegeek.com/thing/9200",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "60",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.04345",
+    "averageWeight": "1.9667",
+    "boardGameRank": "13613",
+    "mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Comic Book / Strip"
+    ],
+    "designers": [
+      "Sam Clifford",
+      "Carl Forhan"
+    ]
+  }
+}

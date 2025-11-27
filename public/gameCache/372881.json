@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:30:53.395Z",
+  "gameDetails": {
+    "id": "372881",
+    "name": "Railway Boom",
+    "type": "boardgame",
+    "description": "Players take on the role of one of the great industrialists of the Meiji, Taishō and Shōwa eras. To gain fame, you&rsquo;ll need to manage 4 types of Resources.\nSpend Money to build lots of rail lines\n\nUse your Materials to gain better trains\n\nInvest Science in acquiring useful development cards\n\nMaintain your trains with Coal to prevent them from falling into disrepair.\n\nPlan your actions with this in mind and strive to become the best railway company!\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/J7uiRlHvvFUqpOXSB7MkVA__original/img/GLSxKF17OlUJx-A4rq3PcEJMQYQ=/0x0/filters:format(png)/pic7135913.png",
+    "thumbnail": "https://cf.geekdo-images.com/J7uiRlHvvFUqpOXSB7MkVA__small/img/4EafXc9gWyQMMMcXzIsdzIzALZ4=/fit-in/200x150/filters:strip_icc()/pic7135913.png",
+    "link": "https://boardgamegeek.com/thing/372881",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.27213",
+    "averageWeight": "3.2857",
+    "boardGameRank": "13686",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Turn Order: Auction"
+    ],
+    "categories": [
+      "Industry / Manufacturing",
+      "Territory Building",
+      "Trains"
+    ],
+    "designers": [
+      "Hisashi Hayashi"
+    ]
+  }
+}

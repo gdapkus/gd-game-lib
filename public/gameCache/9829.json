@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:01:05.963Z",
+  "gameDetails": {
+    "id": "9829",
+    "name": "Runebound",
+    "type": "boardgame",
+    "description": "Runebound is a classic adventure game from Fantasy Flight Games in which mighty heroes must take on the perils of Terrinoth. The game can be largely played without conflict between the players but victory can only be claimed by the first player to defeat the Dragonlord Margath, so the players are actually in a race to level up and acquire powerful weapons, armour and allies in order to take on the final adversary.\n\nRunebound features a series of 4 Adventure Decks that helps to pace the speed of the game and ensures that the players level up by acquiring experience before they are ready to take on a harder set of challenges (events and monsters).\n\nSeveral of the key features of Runebound are that combat is played out in 3 phases, Ranged, Melee and Magic and a player has the ability to specialise in a particular discipline, although this may make them vulnerable against certain creatures. The game also features a novel movement system using a series of terrain dice.\n\nRunebound is playable solo and the first edition was updated with a 2nd Edition in 2005 (only 1 year after its release).\n\nRunebound 1st Edition is different from 2nd Edition in that the original game featured a d20 and this was replaced by two 10-sided dice in the 2nd edition, which helped to better balance the luck factor.\n\n",
+    "image": "https://cf.geekdo-images.com/WLctv94L_lifTh6c44Zxnw__original/img/Fy-xP7gY8WJxRrkYLZWq1xYoBiw=/0x0/filters:format(jpeg)/pic5587884.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WLctv94L_lifTh6c44Zxnw__small/img/XBJkBZQcNkQ08U3P0by_gncSUKU=/fit-in/200x150/filters:strip_icc()/pic5587884.jpg",
+    "link": "https://boardgamegeek.com/thing/9829",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2004",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.22422",
+    "averageWeight": "2.5207",
+    "boardGameRank": "5532",
+    "mechanics": [
+      "Dice Rolling"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Medieval"
+    ],
+    "designers": [
+      "Darrell Hardy",
+      "Martin Wallace"
+    ]
+  }
+}

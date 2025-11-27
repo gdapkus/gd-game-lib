@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:55:35.324Z",
+  "gameDetails": {
+    "id": "25224",
+    "name": "Hermagor",
+    "type": "boardgame",
+    "description": "In a distant land, many and many years ago, rose a big and wealthy city: its name, now forgotten by most, was Hermagor. Commerce was the source of its richness, because from all its territory countrymen, artisans and also adventurers brought to the city every kind of merchandise: weapons, ancient books, precious relics, and rare dragon eggs. In this city, you can buy and exchange everything. This made Hermagor famous and merchants came from afar to buy and sell all kinds of goods at the market. Some even undertook perilous adventures to acquire especially rare items. They criss-crossed this wealthy region, creating new paths and roads, adding markets to towns, but always with the aim to become the richest!\n\nSet in the imaginary land of Hermagor, each player takes on the role of a merchant striving to be the wealthiest trader. While playing, they aim to acquire goods in the marketplace and then sell those goods profitably in the towns and villages across land of Hermagor. Players first gain access to goods tiles in the marketplace by placing their agents in proximity to the tiles they want.  Then the players move one agent across the map of Hermagor, visiting and selling goods in the towns requesting goods that match the tiles the player acquired in the marketplace.\n\nHermagor is played in five rounds with two phases in each round.  Each round begins with the marketplace phase. Players pay to place their four agents in the market trying to control the goods tiles they will use in the second phase of the round.  Control of a tile goes to the player who has the most agents next to the tile.  Ties are broken by the priority of the adjacent locations.  Agents adjacent to the sides of a tile take priority over agents adjacent to the corner of tiles.  An agent placed on a tile has the highest priority.  After all agents have been placed and tiles claimed by the players, the marketplace agents also generate income.  Agents in the same row or column generate income at the rate of 1 for 1 agent, 3 for 2 agents, 6 for 3 agents, and 10 for 4 agents.  The price for placing agents depends on the location.  Locations that apply control to more tiles cost more.\n\nEach round concludes with selling phase.  Players take turns moving one agent across the map of Hermagor, paying a price for each road segment they use so that they can sell goods in a town or village.  Importantly, each player may only sell in any town or village once during the game.  Players mark each town or village where they have sold goods with a house. Players receive a small monetary reward when other players sell in a town or village that the player has already sold in. Selling goods in all the towns or villages surrounding a region of the map defined by a set of roads potentially gives the player the right to a production facility in that region, supplying additional income immediately and at the end of the game.\n\nHermagor ends when the last player finishes his turn of the selling phase of the fifth round. End game bonus money is awarded for production facilities, most sales along the major road, and for the smallest of each players sales locations in each of the three Hermagor regions defined by its rivers.\n\nThe player with the most money at the end of the game wins.\n\n",
+    "image": "https://cf.geekdo-images.com/9X8h1wU5gHxLq1EfYZI_5A__original/img/yWodKi08c7Cz3m3AyxWaIYZXvAY=/0x0/filters:format(jpeg)/pic143036.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9X8h1wU5gHxLq1EfYZI_5A__small/img/fjy1iIepXtAjmizISJYF82a0HYc=/fit-in/200x150/filters:strip_icc()/pic143036.jpg",
+    "link": "https://boardgamegeek.com/thing/25224",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2006",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.89324",
+    "averageWeight": "3.1702",
+    "boardGameRank": "2562",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Network and Route Building",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Economic",
+      "Fantasy",
+      "Medieval",
+      "Transportation"
+    ],
+    "designers": [
+      "Emanuele Ornella"
+    ]
+  }
+}

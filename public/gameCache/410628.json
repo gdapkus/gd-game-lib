@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:11:08.726Z",
+  "gameDetails": {
+    "id": "410628",
+    "name": "Keyside",
+    "type": "boardgame",
+    "description": "Keyside takes place on a busy island with 12 harbours and a myriad of &lsquo;quays&rsquo;.\n\nEach player controls a team of 18 workers, known as &lsquo;keyples&rsquo;, who will work in the farms, harbours, markets, quarry, wheat field and woods. Players use their 6 dice to either direct the boats to their chosen harbours or to join the other players on their turns and, in both cases, set their team of keyples to work.\n\nOnce the dice are played (phase 1), then the harbours are activated (phase 2) and players gain actions and resources where their keyples are present.\n\nAfter three rounds (years), players score points depending on where their keyples are located, most notably in the harbours, and from the cottages, houses and headlands they have built and from skills they have collected.\n\nThe player with the most points wins the game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/uVq7iCHH3qRJLA6GtBc9YA__original/img/dcf3c2aXQ7zGIpj5P8n_wQBq-TY=/0x0/filters:format(jpeg)/pic8028262.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uVq7iCHH3qRJLA6GtBc9YA__small/img/PxHHr_-GN3IHqoEbMOO6uHjakts=/fit-in/200x150/filters:strip_icc()/pic8028262.jpg",
+    "link": "https://boardgamegeek.com/thing/410628",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.88488",
+    "averageWeight": "3.9091",
+    "boardGameRank": "10294",
+    "mechanics": [
+      "Follow",
+      "Set Collection",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Medieval"
+    ],
+    "designers": [
+      "Richard Breese",
+      "Dávid Turczi"
+    ]
+  }
+}

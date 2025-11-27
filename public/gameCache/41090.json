@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:57:37.062Z",
+  "gameDetails": {
+    "id": "41090",
+    "name": "Magnate",
+    "type": "boardgame",
+    "description": "The Grand Duke, who has no heirs, has decreed that his throne will go to whoever does the most to lift up and develop the duchy. You are a successful but common merchant, aiming to buy a noble title by impressing the Grand Duke. His health is failing, so you need to hurry.\n\nMagnate is a resource management game for the Decktet.  Players vie to add more value to their own side of five district cards by building cards of higher total rank per district than their opponent.  Cards are built using suit-based resource tokens, which are earned from already-built cards on every turn based on a roll of the dice, CATAN-style, or by selling unwanted cards.  Taxes are occasionally imposed on the wealthy.  The player with the most per-district victories wins.\n\nBesides a Decktet, Magnate requires 2d10, 1d6, and about 12 tokens for each of the 6 suits.\n\n",
+    "image": "https://cf.geekdo-images.com/MRE-oCe2GL4jDw1fCfBI5w__original/img/WVCN56nEKYc9O_XBXj3k3JR1PX8=/0x0/filters:format(png)/pic1015454.png",
+    "thumbnail": "https://cf.geekdo-images.com/MRE-oCe2GL4jDw1fCfBI5w__small/img/6bSXyTiO0zAivsqmoc2DXG8Kt40=/fit-in/200x150/filters:strip_icc()/pic1015454.png",
+    "link": "https://boardgamegeek.com/thing/41090",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2008",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.25073",
+    "averageWeight": "2.1739",
+    "boardGameRank": "7187",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Hand Management",
+      "Income",
+      "Random Production"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Economic",
+      "Print & Play"
+    ],
+    "designers": [
+      "Cristyn Magnus"
+    ]
+  }
+}

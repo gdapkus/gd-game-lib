@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:18:40.145Z",
+  "gameDetails": {
+    "id": "80358",
+    "name": "Zooloretto Boss",
+    "type": "boardgameexpansion",
+    "description": "From the box:\nGood co-workers and charitable donations make life easier for the zoo director. If he uses the donations skillfully, he will acquire additional animals and vending stalls. If done right, he can make the zoo even more attractive and new to those who visit. In this way, he will attract more visitors and earn more income. \nWith correct management of these new resources, a player can become the Zoo BOSS.\n\nGameplay:\nBeside the money you have a new currency: the donations.\nDonations you get f. e. when filling the small, new sponsor enclosure (you also get point tiles).\nYou can use donations as money but just for specific things.\nFor example for things on the new supply board.\nThat can be animals, vending stalls or co-workers.\nThe last you can place on the new office board.\nDepending on the office you choose the co-worker has different effects.\nFor example earning more donations, extra points for vending stalls, extra points for bought tiles and additional extra point tiles.\n\n",
+    "image": "https://cf.geekdo-images.com/LwZ1RmUGAwvtETZzxegL6w__original/img/EECnBM_PJ2bKF0z53R2xYfI4uFA=/0x0/filters:format(jpeg)/pic791772.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LwZ1RmUGAwvtETZzxegL6w__small/img/RKdO1lPcNcOgXArFaeSrWvjbFDY=/fit-in/200x150/filters:strip_icc()/pic791772.jpg",
+    "link": "https://boardgamegeek.com/thing/80358",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.13397",
+    "averageWeight": "2.4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Michael Schacht"
+    ]
+  }
+}

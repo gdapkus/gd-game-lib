@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:01:08.181Z",
+  "gameDetails": {
+    "id": "21523",
+    "name": "Runebound: Second Edition",
+    "type": "boardgame",
+    "description": "Runebound is a classic adventure game from Fantasy Flight Games in which mighty heroes must take on the perils of Terrinoth. The game can be largely played without conflict between the players but victory can only be claimed by the first player to defeat the Dragonlord Margath, so the players are actually in a race to level up and acquire powerful weapons, armour and allies in order to take on the final adversary.\n\nRunebound features a series of 4 Adventure Decks that helps to pace the speed of the game and ensures that the players level up by acquiring experience before they are ready to take on a harder set of challenges (events and monsters).\n\nSeveral of the key features of Runebound are that combat is played out in 3 phases, Ranged, Melee and Magic and a player has the ability to specialise in a particular discipline, although this may make them vulnerable against certain creatures. The game also features a novel movement system using a series of terrain dice.\n\nRunebound is playable solo and is expandable by many adventure packs that alter the final challenge (replacing the Dragonlord for example). Runebound 2nd Edition also has a series of big box expansions that provide a new map or central map overlay to alter the game in some way.\n\nRunebound 2nd Edition is different from 1st Edition in that the original game featured a d20 and this was replaced by 2 10-sided dice, which helped to better balance the luck factor.\n\n",
+    "image": "https://cf.geekdo-images.com/9ihKYaEPIQD7d1KkTWfFpQ__original/img/Tf_yZ6myNWnWkY6lyMvBvLU7g9s=/0x0/filters:format(jpeg)/pic178189.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9ihKYaEPIQD7d1KkTWfFpQ__small/img/JQGLbThEtF14BEuaf6RHi4cWm-4=/fit-in/200x150/filters:strip_icc()/pic178189.jpg",
+    "link": "https://boardgamegeek.com/thing/21523",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2005",
+    "playingTime": "240",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.90079",
+    "averageWeight": "2.6755",
+    "boardGameRank": "1240",
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Open Drafting",
+      "Role Playing",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Darrell Hardy",
+      "Martin Wallace"
+    ]
+  }
+}

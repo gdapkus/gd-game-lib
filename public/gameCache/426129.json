@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:09:01.606Z",
+  "gameDetails": {
+    "id": "426129",
+    "name": "Dune: Imperium – Bloodlines",
+    "type": "boardgameexpansion",
+    "description": "The Great Houses of the Imperium live and die by their lineage. Plots unfold over generations as Emperors build dynasties, and the Bene Gesserit weave prophecy into reality. As alliances rise and fall, leaders face a single question: How far will you go to secure your bloodline?\n\nBloodlines expands both Dune: Imperium and Uprising with powerful new tools to achieve victory. Recruit Sardaukar Commanders to bolster your fighting force. Unlock the potential of all-new Tech tiles. New Leaders, Contracts, and cards open more strategic possibilities than ever before. War sweeps across the universe, and only the strongest Bloodlines will survive.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/6g0FIZJK1zujPSrKuToCZw__original/img/P8jioOvt9CVRO6BoNRjk1pLv05Y=/0x0/filters:format(jpeg)/pic8350442.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6g0FIZJK1zujPSrKuToCZw__small/img/niL2urMdy3ExhhQzbtMdsFUbSW4=/fit-in/200x150/filters:strip_icc()/pic8350442.jpg",
+    "link": "https://boardgamegeek.com/thing/426129",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.66788",
+    "averageWeight": "3.6591",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Force Commitment"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Movies / TV / Radio theme",
+      "Novel-based",
+      "Political",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Phil Amylon",
+      "Andy Clautice",
+      "Paul Dennen",
+      "Caleb Vance"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:08:26.742Z",
+  "gameDetails": {
+    "id": "113997",
+    "name": "Tajemnicze Domostwo",
+    "type": "boardgame",
+    "description": "Tajemnicze Domostwo is a purely co-operative game for 2-7 players. One player takes the role of a helpful ghost who lives in a mysterious ancient manor. Other players are a group of psychics invited by the manor owner to solve the mystery of the place and bring peace to its residents, as any person who stays in the castle sees strange dreams.\n\nThe ancient legend says the ghost is the soul of the manor's previous resident, who was unjustly executed for a crime he didn't commit, more than one hundred years ago. Now he tries to use the mysterious signs to tell people the truth about what really happened then, so that justice would be established and he might rest in peace for ever. The specialists in the supernatural were invited to try to understand what the ghost wants to tell and in case of success be honored by one more victory and receive a generous reward. They have seven days and seven nights to reach their goal. If they succeed in time, everyone wins the game (including the ghost).\n\n",
+    "image": "https://cf.geekdo-images.com/6aNWmjHtgPrGpNsO-g0-Iw__original/img/r4mNZSUiYkGq4CfDbCyJ6GzO9Gc=/0x0/filters:format(jpeg)/pic2601636.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6aNWmjHtgPrGpNsO-g0-Iw__small/img/GwtdrIVeIZSGvz0zX-OG8sWdc1A=/fit-in/200x150/filters:strip_icc()/pic2601636.jpg",
+    "link": "https://boardgamegeek.com/thing/113997",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "yearPublished": "2013",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.08131",
+    "averageWeight": "1.8287",
+    "boardGameRank": "1076",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Finale Ending",
+      "Hand Management"
+    ],
+    "categories": [
+      "Deduction",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Oleksandr Nevskiy",
+      "Oleg Sidorenko"
+    ]
+  }
+}

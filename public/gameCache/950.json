@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:53:50.811Z",
+  "gameDetails": {
+    "id": "950",
+    "name": "Four Dragons",
+    "type": "boardgame",
+    "description": "From the designer Frank Branham: A 4 player partnership trick taking game themed around the Mexican Day of the Dead. (A particular favorite holiday of ours, as Sandi and I were married on that day in Marietta Confederate Cemetery.) It is short (about 30 minutes), and rather brain bending.\n\nDia De Los Muertos (Day Of The Dead) is played over three days as you send animals, then children, then adults on to the afterlife. It is a basic trick taking game, except that most cards have an action with them. You play as a partnership, and if your side wins scoring cards (the dead or food), you exchange a card with your opponent. Other cards allow swaps between partners, asking a question, cancelling other cards and so on.\n\nThe first time you play, there's a lot of checking the rules, checking the crib sheet, remembering if you exchange cards. You spend more time figuring the game than playing the tricks. But after a couple of hands, it makes sense and you switch to game-playing mode. And here's where it pays. If you enjoy Bridge, you can figure out what your partner signals when they swap a card, or you can read the deck based on what's been played, you will really enjoy Dia De Los Muertos. If you don't like Bridge, or can't figure trick-taking games anyway, steer well clear. It is rather brain-bending.\n\nThe original game has nice native graphics of the dead abroad and has a variant for 3 players. The re-issue as Four Dragons has an oriental theme.\n\nNot to be confused with:\n\n     Dia de los Muertos (2007)\n     Dia de los Muertos (2016)\n\n\n",
+    "image": "https://cf.geekdo-images.com/YsvVeIpuHtRrIVphK3DJGw__original/img/9gQrsOkqxD4gBEkmFLNsUoZcJd8=/0x0/filters:format(jpeg)/pic50505.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YsvVeIpuHtRrIVphK3DJGw__small/img/0XMwvE8s50s07BveMwjuX1qOTR0=/fit-in/200x150/filters:strip_icc()/pic50505.jpg",
+    "link": "https://boardgamegeek.com/thing/950",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2000",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.57818",
+    "averageWeight": "2.3556",
+    "boardGameRank": "6772",
+    "mechanics": [
+      "Team-Based Game",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction"
+    ],
+    "designers": [
+      "Frank Branham",
+      "Sandi West"
+    ]
+  }
+}

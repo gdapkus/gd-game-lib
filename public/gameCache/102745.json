@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T21:03:46.797Z",
+  "gameDetails": {
+    "id": "102745",
+    "name": "Ultimate Werewolf: Artifacts",
+    "type": "boardgameexpansion",
+    "description": "Ultimate Werewolf Artifacts, the first-ever mega-expansion to Ultimate Werewolf (and usable in other versions of Werewolf), brings the game into the 21st century by using ancient artifacts to propel the game forward.\n\nEach player gets, in addition to his Ultimate Werewolf role card, his own Artifact card. He secretly looks at that card, which has an artifact with some special power on it. At any time during the game, he can choose to reveal his Artifact card and use its special power. Some artifacts, like the Cloak of the Prince, provide a direct benefit to the player with the artifact. Others, like the Cudgel of the Old Hag, impact other players. And still others, like the Ring of Truth, provide information about another player in the game. Some artifacts might not be to your benefit to use right away, like the Claw of the Werewolf, but others, like the Ruby of Kismet, might cause someone to reveal and activate an artifact anyway!\n\nWhat this ends up doing is providing a whole new layer to Ultimate Werewolf games, adding new strategies and tactics to your games. Each game is different, with unique combinations of artifacts in the mix.\n\n",
+    "image": "https://cf.geekdo-images.com/zQZ7oaiVND67tN29Cyj2eg__original/img/H__cCN2NPSRO6xzfP1jv9eHVtAU=/0x0/filters:format(png)/pic2060080.png",
+    "thumbnail": "https://cf.geekdo-images.com/zQZ7oaiVND67tN29Cyj2eg__small/img/IQHGr7wm1dsrFEg6SwDPRHQpQow=/fit-in/200x150/filters:strip_icc()/pic2060080.png",
+    "link": "https://boardgamegeek.com/thing/102745",
+    "minPlayers": "5",
+    "maxPlayers": "40",
+    "yearPublished": "2011",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      11,
+      20
+    ],
+    "averageRating": "6.7968",
+    "averageWeight": "1.4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Player Elimination",
+      "Role Playing",
+      "Storytelling",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers",
+      "Voting"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Horror",
+      "Murder / Mystery",
+      "Negotiation",
+      "Party Game"
+    ],
+    "designers": [
+      "Ted Alspach"
+    ]
+  }
+}

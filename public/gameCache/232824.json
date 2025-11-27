@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:02:18.212Z",
+  "gameDetails": {
+    "id": "232824",
+    "name": "Caper",
+    "type": "boardgame",
+    "description": "Caper is a two-player card strategy game in which each player recruits thieves, equips them with gear, and tries to steal from popular places across Europe.\n\nCaper plays over six rounds with a colorful, quirky design that combines card drafting and set collection with area control. Players are met with challenging decisions such as drafting particular thieves, giving them specific gear, and stealing precious works of art. The game changes depending on what city you're playing in, giving you unique ways to play every time.\n\n",
+    "image": "https://cf.geekdo-images.com/MPwCEwPo1wegMH5Xpm63Dg__original/img/dm0pHnS9BxB8c4nnL7Scm2JR3JM=/0x0/filters:format(jpeg)/pic4181961.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MPwCEwPo1wegMH5Xpm63Dg__small/img/jGowugNM4WBJJwc0CL84jrLv24c=/fit-in/200x150/filters:strip_icc()/pic4181961.jpg",
+    "link": "https://boardgamegeek.com/thing/232824",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.99349",
+    "averageWeight": "2.2059",
+    "boardGameRank": "2902",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Mafia"
+    ],
+    "designers": [
+      "Unai Rubio"
+    ]
+  }
+}

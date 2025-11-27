@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T19:33:29.599Z",
+  "gameDetails": {
+    "id": "371016",
+    "name": "Combopolis II",
+    "type": "boardgameexpansion",
+    "description": "A 6-card combo pack that allows you to combine Sprawlopolis and Naturopolis (to add some natural features to your urban environment).\n\nUnlike the original rules for both standalone games, this variant eliminates the use of card-passing. Rather, players shuffle each game deck individually, flipping a single card from each to reveal 2 scoring conditions. Then, a 3rd card is drawn at random from the 6-card combo pack to reveal the 3rd and final scoring condition. A separate card from this pack is used as the starting tile, displaying 2 \"blocks\" from those terrains included in each game respectively.\n\nOn a player's turn, they draw 1 card from each game deck and must choose 1 to play and 1 to discard. In this way, both game decks with run out at the same rate. End game occurs after the last 2 cards are drawn and played/discarded.\n\nPlayers score for the largest 2 block groups from each game, lose points for individual roads, and score/lose points according to the 3 scoring condition cards.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/050IXaerwNW0IcNbNhILEQ__original/img/Gwh9aqo8cBVYmLSi7ALv8QBcYjo=/0x0/filters:format(png)/pic8332483.png",
+    "thumbnail": "https://cf.geekdo-images.com/050IXaerwNW0IcNbNhILEQ__small/img/xmKQ6PgUitz0-84rX64IrlNB5W8=/fit-in/200x150/filters:strip_icc()/pic8332483.png",
+    "link": "https://boardgamegeek.com/thing/371016",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": null,
+    "averageRating": "7.55957",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Layering",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "City Building",
+      "Territory Building"
+    ],
+    "designers": [
+      "Steven Aramini",
+      "Danny Devine",
+      "Jason Tagmire"
+    ]
+  }
+}

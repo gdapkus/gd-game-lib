@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:08:28.105Z",
+  "gameDetails": {
+    "id": "153497",
+    "name": "This Town Ain't Big Enough for the 2-4 of Us",
+    "type": "boardgame",
+    "description": "This Town Ain't Big Enough for the 2-4 of Us is a micro-sized strategy game that plays with ... well, 2 to 4 players. From the publisher and designers that brought you the hit strategy game Belfort, you can now get your strategy game fix in 10-15 minutes with this new micro game from TMG (Tasty Minstrel Games).\n\nIn the game, players play cowboys as they place tiles and create areas within the town. Unfortunately each tile could have your cowboys on them, or other players' cowboys - or cowboys from all players! Once an area is fully surrounded by fences you score that area. Look out for silver bars as they allow players to re-arrange one tile that has yet to be locked down!\n\n",
+    "image": "https://cf.geekdo-images.com/3OqR1dNLnXXrrs8TRVil0g__original/img/Yb0NSfz5W7TdTagYdaaoZGtBulA=/0x0/filters:format(jpeg)/pic1902918.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3OqR1dNLnXXrrs8TRVil0g__small/img/kQlvvlmv3FMX5FsEH0uEfYRsi0M=/fit-in/200x150/filters:strip_icc()/pic1902918.jpg",
+    "link": "https://boardgamegeek.com/thing/153497",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.95661",
+    "averageWeight": "1.3462",
+    "boardGameRank": "7515",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Enclosure",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "American West",
+      "Print & Play"
+    ],
+    "designers": [
+      "Jay Cormier",
+      "Sen-Foong Lim"
+    ]
+  }
+}

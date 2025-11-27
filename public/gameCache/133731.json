@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:24:22.756Z",
+  "gameDetails": {
+    "id": "133731",
+    "name": "Brasil",
+    "type": "boardgame",
+    "description": "Brasil is a game about gold-mining in 18th-century Brazil when Bandeirantes (explorers) started to travel through the country and discovered a new region of \"black gold\" along the way. The \"sugar rush\" was coming to an end in the northeast part of the country and near the city-to-be of Vila Rica, a whole new region of precious metal was suddenly one of the most important suppliers of the old world. Hundreds of thousands of men came from everywhere once word spread, and a number of small but relevant locations started to grow near Vila Rica.\n\nMost of the wealth in Europe had its origins in the colonies of that time. Brazil, for example, was the number one provider of gold, and Portugal lived a prosperous long time from it. Some people maintain that the industrial revolution was in part financed by the metal that came from Brazil.\n\nThe game of Brasil is played with cards. More than a simple game about mining, it requires that players combine actions to develop the region by building essential infrastructures like houses, stores, farms, churches and roads. Players build their path to wealth by keeping in mind the changing characteristics of the region, the moves and needs of other players, and the common good of the vibrant and prosperous Vila Rica.\n\n",
+    "image": "https://cf.geekdo-images.com/X8qZTU9q8efM43utKVVQ6Q__original/img/Qji1oyBFO-Udxw1cP-iu_JKR1X4=/0x0/filters:format(jpeg)/pic2786349.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X8qZTU9q8efM43utKVVQ6Q__small/img/OWmXipVqktlhDuPRafb0jTJAvPw=/fit-in/200x150/filters:strip_icc()/pic2786349.jpg",
+    "link": "https://boardgamegeek.com/thing/133731",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "0",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.09",
+    "averageWeight": "3.4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Civilization",
+      "Economic"
+    ],
+    "designers": [
+      "Nuno Bizarro Sentieiro",
+      "Paulo Soledade"
+    ]
+  }
+}

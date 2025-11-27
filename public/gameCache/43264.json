@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:30:33.407Z",
+  "gameDetails": {
+    "id": "43264",
+    "name": "Pocket Rockets",
+    "type": "boardgame",
+    "description": "Each player is an astronaut who is building rockets. An \"assembly plant\" circle is formed from six special cards, and then the astronaut pawns move along the circle choosing different actions. At each location the player can perform a particular task, such as: draw the face-up card there (cards show a rocket base, fuselage or tip in one of three different colors), add a part to a rocket, take fuel tokens, change direction of rotation, etc. Some rocket tips grant special privileges, and the first fuel that's taken is more valuable than the last. When fuel reserves are exhausted, the winner is determined by comparing the astronauts' completed rockets - most fuselages wins.\n\n",
+    "image": "https://cf.geekdo-images.com/S9p42wczW8SSJqRsf60yGA__original/img/uu38z7c-KvdgQKwQi7v8F-iNm7U=/0x0/filters:format(jpeg)/pic951671.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/S9p42wczW8SSJqRsf60yGA__small/img/vFO_VGlHueLAQqk9OFOkQh9z5D0=/fit-in/200x150/filters:strip_icc()/pic951671.jpg",
+    "link": "https://boardgamegeek.com/thing/43264",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2009",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.28047",
+    "averageWeight": "1.4912",
+    "boardGameRank": "6209",
+    "mechanics": [
+      "Action Points",
+      "Rondel"
+    ],
+    "categories": [
+      "Card Game",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Antoine Bauza"
+    ]
+  }
+}

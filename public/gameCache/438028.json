@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T19:57:33.025Z",
+  "gameDetails": {
+    "id": "438028",
+    "name": "Darwin's Journey: Golden Tent Mini-Expansion",
+    "type": "boardgameexpansion",
+    "description": "When first unlocked or used, the golden tent is placed on any available tent space, gaining its bonus after the coin penalty. On subsequent uses, it moves to a new space, freeing the previous one.\n\nAvailable as an add-on or free for returning backers.\n\n",
+    "image": "https://cf.geekdo-images.com/8q3IBi3SySG4eL9wz-nLrw__original/img/3cR_3pXjwU7XqklHLWMGc_RFp2M=/0x0/filters:format(png)/pic8667720.png",
+    "thumbnail": "https://cf.geekdo-images.com/8q3IBi3SySG4eL9wz-nLrw__small/img/OW8Hd7Xlml8cvhEUAWuGwtHHOoc=/fit-in/200x150/filters:strip_icc()/pic8667720.png",
+    "link": "https://boardgamegeek.com/thing/438028",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "9",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Contracts",
+      "Point to Point Movement",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Turn Order: Stat-Based",
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:08:25.552Z",
+  "gameDetails": {
+    "id": "127324",
+    "name": "Storm Hollow: A Storyboard Game",
+    "type": "boardgame",
+    "description": "Storm Hollow: A Storyboard Game is an amazing storytelling adventure game for all ages. One player assumes the role of the Storyteller, while the others are heroes called to the magical land of Storm Hollow to aid in a time of need.\n\nEach game session provides a stand-alone adventure scenario with a specific story-driven goal for the players to try to accomplish, and multiple adventures can be strung together in campaign mode to experience fully interactive epic stories. Players work together to fight monsters, overcome obstacles, rescue characters, find lost treasures, and drive back the darkness using a simple skill-based system and unique heroic powers.\n\nIn Storm Hollow story is king, and a clever game system encourages creative decisions and amazing outcomes. Play pre-made adventures or use the numerous tools to make your own.\n\nThe box includes a \"Battle for Storm Hollow\" variant, which is a pure co-op game (no storyteller required).\n\n",
+    "image": "https://cf.geekdo-images.com/d803hv-0n9FV0rx0vY0Ueg__original/img/rSxwj-8Ng0T5E7h3_vOr5NEwCaI=/0x0/filters:format(jpeg)/pic1659046.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/d803hv-0n9FV0rx0vY0Ueg__small/img/u806UAOGqaIqHS8yZDtgl6jb9cU=/fit-in/200x150/filters:strip_icc()/pic1659046.jpg",
+    "link": "https://boardgamegeek.com/thing/127324",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "yearPublished": "2017",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "8.2046",
+    "averageWeight": "2",
+    "boardGameRank": "11093",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Fantasy",
+      "Mythology"
+    ],
+    "designers": [
+      "Julian Leiberan-Titus",
+      "Angela Hickman Newnham"
+    ]
+  }
+}

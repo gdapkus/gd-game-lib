@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:51:31.182Z",
+  "gameDetails": {
+    "id": "93512",
+    "name": "Colour Bazaar",
+    "type": "boardgame",
+    "description": "Isles of Purple and Red, renown for their fine fabric and vivid dyes, are far across the sea. When the island trading houses send cargo ships to the Sapphire Ports, they can only guess what the demand will be for different styles once the cargo finally arrives. So the houses send agents ahead in faster boats, on missions to promote the products the the house anticipates sending. At the same time, they try to guess what will be in demand.\n\nEach of the six Decktet suits represents a different colour or style of fabric. Players use cards to influence the value of each style and collect chips representing investment in particular styles. The goal is to have invested more in the styles that are ultimately the most popular.\n\nThere are four separate fashion markets, represented by the four Pawn cards.\n\nOn your turn, you play a card to one of the four markets. The only restriction is that your card must share a suit with the previous card played to that market. The card play changes the value of that suit. After playing a card, you select one of the remaining chips and take it; each chip represents a share of that suit.\n\n",
+    "image": "https://cf.geekdo-images.com/kd4t_M_kXoVWM0Tz3f6SZg__original/img/HrxAru9s5rLR6rAW_kx6kqczTAA=/0x0/filters:format(jpeg)/pic792999.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kd4t_M_kXoVWM0Tz3f6SZg__small/img/UYgipB9dbnleQ4ZjUI1fk34F0PY=/fit-in/200x150/filters:strip_icc()/pic792999.jpg",
+    "link": "https://boardgamegeek.com/thing/93512",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "2011",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.60769",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Print & Play"
+    ],
+    "designers": [
+      "P. D. Magnus"
+    ]
+  }
+}

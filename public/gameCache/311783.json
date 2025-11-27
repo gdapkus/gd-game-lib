@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:00:29.850Z",
+  "gameDetails": {
+    "id": "311783",
+    "name": "Railways of Sweden",
+    "type": "boardgameexpansion",
+    "description": "The northern region of Sweden is rugged and full of snow-covered mountains that give way to lower foothills, heavily forested hills, dozens of rivers and an estimated 101,000 lakes. In the south, large lakes (some linked by canals) and widely cultivated plains stretch across the land. In the 1850s, Sweden began to build the national railway network. Sweden would soon rank among the foremost countries in per capita mileage of railroads. Will you develop the ferry lines along the southeastern shoreline, or instead risk the hardships of building through the rocky terrain of the North in search of greater gains? Railways of Sweden is an expansion map for Railways of the World, designed for 2 to 5 players. You will need the pieces from the Railways of the World base game or the Railways of Nippon base game to play it.\n\nRailways of Sweden is a 2-5 player map expansion to the Railways of the World series. This map features lots of heavy mountainous terrain. This expansion will come with a sheet of snowy track tiles to be optionally used in the northern mountains of Sweden. It also has a variety of new Railroad Operations cards, such as New Mining Town, Mountain Engineer, Extended Ferry Line and Passenger Express. In addition, it includes new +50/+100 point tokens to be used with the Railways of Sweden score & income track.\n\n-description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/bnX137XRmiFOo0jYIHnmHg__original/img/J10gJmoMoEcG77j7IqGbXwKNtPw=/0x0/filters:format(png)/pic5470477.png",
+    "thumbnail": "https://cf.geekdo-images.com/bnX137XRmiFOo0jYIHnmHg__small/img/zpwb3TfDSlKc7iZOoqExxW_8ER0=/fit-in/200x150/filters:strip_icc()/pic5470477.png",
+    "link": "https://boardgamegeek.com/thing/311783",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.71892",
+    "averageWeight": "2.6667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Auction / Bidding",
+      "Connections",
+      "Network and Route Building",
+      "Open Drafting",
+      "Pick-up and Deliver",
+      "Tile Placement",
+      "Turn Order: Auction"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Ola Nygårds"
+    ]
+  }
+}

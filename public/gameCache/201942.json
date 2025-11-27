@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:12:40.127Z",
+  "gameDetails": {
+    "id": "201942",
+    "name": "Massive Darkness: Enemy Box – Elementals",
+    "type": "boardgameexpansion",
+    "description": "Expansion for Massive Darkness containing:\n\n4 Elemental miniatures (Air, Earth, Fire and Water); \n8 Cards\n\n",
+    "image": "https://cf.geekdo-images.com/R7l4EpzANNufCYAZMNeShg__original/img/FercOJiGMVeN5bCECzJjSQ_6DKg=/0x0/filters:format(jpeg)/pic3837025.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/R7l4EpzANNufCYAZMNeShg__small/img/bKwx3COgJit9l-Jt_5u4TFfmsGc=/fit-in/200x150/filters:strip_icc()/pic3837025.jpg",
+    "link": "https://boardgamegeek.com/thing/201942",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.55932",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Raphaël Guiton",
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:32:40.539Z",
+  "gameDetails": {
+    "id": "207",
+    "name": "Twitch",
+    "type": "boardgame",
+    "description": "Twitch is an insanely frantic game of reacting to new information.  When someone plays a card, you must quickly determine if it points to you (e.g., if the player to your right plays a card that says \"left\"), and if it does, throw the top card of your deck onto the pile.  If you're not quick enough, another player will call you out, and you'll have to take all the cards in the pile into your deck.  The first person to run her deck out wins.\n\n",
+    "image": "https://cf.geekdo-images.com/ydehPE2iH1zwbyy73M9cqg__original/img/uyL2orBcTb6oNMnSkgIUPetrkLY=/0x0/filters:format(jpeg)/pic149668.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ydehPE2iH1zwbyy73M9cqg__small/img/pV2FW-o2qAyM70Pzp_Z8GhrvwtA=/fit-in/200x150/filters:strip_icc()/pic149668.jpg",
+    "link": "https://boardgamegeek.com/thing/207",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "1998",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.10161",
+    "averageWeight": "1.1667",
+    "boardGameRank": "13896",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity",
+      "Card Game"
+    ],
+    "designers": [
+      "Skaff Elias",
+      "Richard Garfield",
+      "Jim Lin"
+    ]
+  }
+}

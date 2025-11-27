@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:27:48.923Z",
+  "gameDetails": {
+    "id": "393333",
+    "name": "Galileo Galilei",
+    "type": "boardgame",
+    "description": "\"And yet it moves\", he said.\n\nGalileo Galilei is a Euro-style game in which you take on the role of an astronomer who will discover new planets, find unknown star systems, develop their telescope, and make a scientific breakthrough in the difficult ages of obscurantism.\n\nUse your telescope to select one of the five actions available, with you being able to evolve these actions into better ones. Collect cards of different planets and star systems. Collect lenses of the three main colors to make a discovery. Be wary of inquisitors as they might arrive unwelcomed and ruin your fame in no time. Better find a way to profit from their visit instead.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/VxVtboFXPDhqw6Zd5Pcsrg__original/img/CcX8vq6saXy5hxE5C5C6pEbAmqE=/0x0/filters:format(jpeg)/pic7883604.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VxVtboFXPDhqw6Zd5Pcsrg__small/img/pfH4t_A06XVpeM2A8WWF3am29OQ=/fit-in/200x150/filters:strip_icc()/pic7883604.jpg",
+    "link": "https://boardgamegeek.com/thing/393333",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "100",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "100",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.59229",
+    "averageWeight": "3.0202",
+    "boardGameRank": "1268",
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Rondel",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Renaissance"
+    ],
+    "designers": [
+      "Tomáš Holek"
+    ]
+  }
+}

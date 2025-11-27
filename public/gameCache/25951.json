@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T19:33:24.642Z",
+  "gameDetails": {
+    "id": "25951",
+    "name": "The Castle of the Devil",
+    "type": "boardgame",
+    "description": "Castle of the Devil is a 4-8 player card game.\n\nAll players are passengers within a carriage that is rushing to Devil's Castle. They each act as a member of a secret association, but no one knows who is friend and who is foe.\n\nEach player starts in one of two secret associations. He also gets a secret profession with a special ability. So at the beginning of the game you have no information about the membership and the professions of the others. To win the game, each association has to collect 3 defined artifacts jointly. Therefore you have to find out who your allies are and where to find the artifacts among the other secret objects that are in possession of other players. You can get this information during the game either by trading objects with other players, because every object has a special ability, e.g. \"Trade it in and you may take a look at your trading partners-association.\" or by struggling with other players, because the winner of a struggle can view the cards of the underdog and steal one of them. But be careful, all players can support the attacker OR defender in a struggle. If they know about your identity but you don't know theirs it may be risky to struggle.\n\nTurn actions, one of:\nTrade\nDuel\nSpy - Choose another player and draw one random object card from her/his hand. Look at this object without revealing it to the other players. Then give it back to her/him.\nDeclare Victory by naming your team and who has the three items, starting with yourself, OR declare the opposing team and their items.\n\nIf someone refuses a trade you offer, you get a duel token as compensation. These tokens are used as extra votes that can be applied in future duels.\nDuels: Everyone declares sides secretly and simultaneously. Then anyone can apply items, professions and duel tokens in any order. Players must declare for one or the other and abstentions are not allowed.\n\nVictory: Declare Victory by naming your team and who has the three items, starting with yourself, then one by one. If you name players on your team incorrectly or they don't have the object(s) you lose. You can also declare victory by announcing the opposing team and the members of that team holding their objects by naming them, as firstly part of the team, and secondly that they have a relevant object. If you get the player's team wrong or they don't have the object(s) you lose.\n\nReimplements: Die Kutschfahrt zur Teufelsburg\n\n",
+    "image": "https://cf.geekdo-images.com/ChyiDc5vPUGLrIZ_UEAxGg__original/img/sBSZdNu5ZrwpySlf_PgLKs26DAc=/0x0/filters:format(jpeg)/pic876255.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ChyiDc5vPUGLrIZ_UEAxGg__small/img/7CjiNzGHlvJqoZoNEarN69GQsQs=/fit-in/200x150/filters:strip_icc()/pic876255.jpg",
+    "link": "https://boardgamegeek.com/thing/25951",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2010",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "6.41608",
+    "averageWeight": "1.974",
+    "boardGameRank": "3612",
+    "mechanics": [
+      "Hand Management",
+      "Role Playing",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Fighting",
+      "Party Game"
+    ],
+    "designers": [
+      "Michael Palm",
+      "Lukas Zach"
+    ]
+  }
+}

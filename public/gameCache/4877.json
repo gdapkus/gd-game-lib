@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:55:59.895Z",
+  "gameDetails": {
+    "id": "4877",
+    "name": "How to Host a Murder: The Watersdown Affair",
+    "type": "boardgame",
+    "description": "THE WATERSDOWN AFFAIR \nBy separate invitation, you and a select few others have been invited to Watersdown Mansion as the weekend guests of Sir Roger Watersdown. As Sir Roger's guest, I thought you might be interested in some information about the mansion and, perhaps, about the other guests that will be present during your stay. I have enclosed a brief biography of each guest. Watersdown Mansion is an old, elegant stone building situated in Yorkshire, England, and constructed in 1817. The original owner, Lord Balmy Farfrummit, made his fortune selling English pig iron to the French after Bonaparte's defeat in 1815. Roger Watersdown acquired the entire Farfrummit holdings in 1925 after the tragic death of Viscount Farfrummit aboard his sailing yacht, Frummit's Ferry, which foundered during a fierce storm off Falmouth Harbor. Sir Roger, as you may know, is the principal shareholder of the giant conglomerate Watersdown Beverages Ltd., and known far and wide as a jovial host. Female guests are cautioned that Sir Roger, after consumption of his customary evening cocktails, tends to become something of a leech. I welcome you on behalf of Sir Roger and the entire Watersdown Mansion household, and I hope your stay will be a pleasant one.\n\nCHARACTERS\nDr. Malcom K.T. Praktiss, Miranda T. Shetes, Roger S.B. Astird, Dame Allison Bigh, Prosper Alvin Bates Esq., Donald J. Brooks, Florence Wing Brooks, Eiaguielle R. Aminmund\n\n",
+    "image": "https://cf.geekdo-images.com/s6NXjiW3oo6hKj8VGovKUw__original/img/VcOsWRcK2NQjM_s6ko0DHvGMYVg=/0x0/filters:format(jpeg)/pic195272.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/s6NXjiW3oo6hKj8VGovKUw__small/img/j6wjQxEKcNBNSKzo4w-BaySwyY4=/fit-in/200x150/filters:strip_icc()/pic195272.jpg",
+    "link": "https://boardgamegeek.com/thing/4877",
+    "minPlayers": "8",
+    "maxPlayers": "8",
+    "yearPublished": "1985",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      8
+    ],
+    "averageRating": "6.36526",
+    "averageWeight": "2.5556",
+    "boardGameRank": "17309",
+    "mechanics": [
+      "Role Playing"
+    ],
+    "categories": [
+      "Deduction",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Robert R. Johnson",
+      "Anne L. Johnson"
+    ]
+  }
+}

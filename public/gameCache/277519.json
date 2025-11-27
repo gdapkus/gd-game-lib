@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:57:34.667Z",
+  "gameDetails": {
+    "id": "277519",
+    "name": "Mage Knight Board Game: Dual Color Cards Expansion",
+    "type": "boardgameexpansion",
+    "description": "5 promo cards for Mage Knight Board Game, first released as part of the Mage Knight: Ultimate Edition, later sold separately through WizKids online store.\n\n4 cards are Advanced Action cards, which can be charged with 2 different colours, the last card being an artefact.\n\nFour of the cards are dual colored:\nExplosive Bolt\nChilling Stare\nRush of Adrenaline\nPower of Crystals\n\nEach of these cards allow you to spend either type of mana shown on the card in order to play them or activate their stronger effect. They also count as both colors for certain effects.\n\nThe fifth card is a new artifact, the Mysterious Box.\n\n",
+    "image": "https://cf.geekdo-images.com/zpBvw5yK4N4BMB-fGGAhGA__original/img/eJ-xQpLfWFJ2HK1hJDaLtoO-y-Y=/0x0/filters:format(jpeg)/pic4688814.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zpBvw5yK4N4BMB-fGGAhGA__small/img/mOGUZQcmYCipdkud9NV_ICT_1BI=/fit-in/200x150/filters:strip_icc()/pic4688814.jpg",
+    "link": "https://boardgamegeek.com/thing/277519",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "240",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.96017",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Open Drafting",
+      "Role Playing",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Expansion for Base-game",
+      "Exploration",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Vlaada Chvátil"
+    ]
+  }
+}

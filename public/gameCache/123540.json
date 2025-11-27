@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:08:30.569Z",
+  "gameDetails": {
+    "id": "123540",
+    "name": "Tokaido",
+    "type": "boardgame",
+    "description": "In Tokaido, each player is a traveler crossing the \"East sea road\", one of the most magnificent roads of Japan. While traveling, you will meet people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and wild places but at the end of the day, when everyone has arrived at the end of the road you'll have to be the most initiated traveler &ndash; which means that you'll have to be the one who discovered the most interesting and varied things.\n\nThe potential action spaces in Tokaido are laid out on a linear track, with players advancing down this track to take actions. The player who is currently last on the track takes a turn by advancing forward on the track to their desired action and taking that action, so players must choose whether to advance slowly in order to get more turns, or to travel more rapidly to beat other players to their desired action spaces.\n\nThe action spaces allow a variety of actions that will score in different, but roughly equal, ways. Some action spaces allow players to collect money, while others offer players a way to spend that money to acquire points.  Other action spaces allow players to engage in various set collections that score points for assembling those sets.  Some action spaces simply award players points for stopping on them, or give the player a randomly determined action from all of the other types.\n\nAll of the actions in Tokaido are very simple, and combined with a unique graphic design, Tokaido offers players a peaceful zen mood in its play.\n\n",
+    "image": "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__original/img/NWuaZkfygEeQ7nvi0Ih7_FW9jO0=/0x0/filters:format(jpeg)/pic8758132.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__small/img/yQg2AyLDdtfArqfb866NW2Wv1Es=/fit-in/200x150/filters:strip_icc()/pic8758132.jpg",
+    "link": "https://boardgamegeek.com/thing/123540",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.91406",
+    "averageWeight": "1.7436",
+    "boardGameRank": "820",
+    "mechanics": [
+      "End Game Bonuses",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Turn Order: Time Track",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Travel"
+    ],
+    "designers": [
+      "Antoine Bauza"
+    ]
+  }
+}

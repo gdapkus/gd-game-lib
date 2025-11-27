@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:28:20.110Z",
+  "gameDetails": {
+    "id": "443195",
+    "name": "Haunted Mouse",
+    "type": "boardgame",
+    "description": "Looming high above a forgotten village stands the remains of a forgotten cathedral. On cloudy nights such as this, only the flickers of a few candles light the empty aisles, bringing warmth to the five sole inhabitants: Parm, Brie, Gouda, Jaq, and Colby.\n\nWith only embers of light to shield them from darkness, the purring wind wraps and winds its way through the pews, fueling the fears of our five little mice. Spine-chilling specters of carnivorous creatures haunt their dreams. Images of cat claws, glistening snake fangs, and ominous owl eyes lurk in every corner of their minds.\n\nWill their fears bring endless hours of restless sleep or will they shed these ghastly nightmares? Be the first mouse to wake up and grab the most cheese from the kitchen. As we all know: the early mouse gets the cheese!\n\nHaunted Mouse is a ladder climbing/shedding game where mice not only shed their own fears (cards), but can use the fears of others! After all, why work hard shedding your own fears when your opponents can do it for you? The earlier you get rid of all your fears, the more cheese you get! Be the first mouse to complete their cheese wheel wins the game and never goes hungry again!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/zKo7W2nX8Rr3FjD2cpf6Og__original/img/FZo0xnhfsXtm4PjLuASeQZNaEPo=/0x0/filters:format(png)/pic9187950.png",
+    "thumbnail": "https://cf.geekdo-images.com/zKo7W2nX8Rr3FjD2cpf6Og__small/img/Stykm3KJKjOObsIk87r7aKD7keo=/fit-in/200x150/filters:strip_icc()/pic9187950.png",
+    "link": "https://boardgamegeek.com/thing/443195",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2026",
+    "playingTime": "45",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "7.26786",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Horror"
+    ],
+    "designers": [
+      "Jonathan Cox"
+    ]
+  }
+}

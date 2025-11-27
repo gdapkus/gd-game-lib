@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:16:51.882Z",
+  "gameDetails": {
+    "id": "228001",
+    "name": "Spookre",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nAs Ghost Hunting becomes a lucrative business, you'd love to get in on that money except all the hauntings at your old mansion are transitory.  If only you had some REAL valuable resident Ghosts to drum up business...\n\nSpookre is a trick-taking game about recruiting the most Ghosts from the Graveyard to your Mansion.  Each Ghost (card) has a special ability, strength, and death.  The lead chooses one of the Ghosts in the Graveyard as the Target Ghost and tries to play the strongest card under the Target Ghost's strength.  If a player sends a Ghost that matches the Target Ghost's death, that card activates its ability.\n\nThe cards players sent is put into a discard while the Target Ghost is added to that players Mansion (Score Pile).  After a number of Nights (hands) equal to number of players, the game ends.\n\n",
+    "image": "https://cf.geekdo-images.com/RNSVzTDCxeT1DbjpkkEBFg__original/img/L5YSv3spNshVuCxT0LJ2RNxyZpc=/0x0/filters:format(jpeg)/pic3610900.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RNSVzTDCxeT1DbjpkkEBFg__small/img/CHZl8ajO0mocARKa8CpjzggE_CI=/fit-in/200x150/filters:strip_icc()/pic3610900.jpg",
+    "link": "https://boardgamegeek.com/thing/228001",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "5.72667",
+    "averageWeight": "1",
+    "boardGameRank": "25569",
+    "mechanics": [
+      "Take That",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Horror"
+    ],
+    "designers": [
+      "David Sheppard"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:02:15.727Z",
+  "gameDetails": {
+    "id": "422732",
+    "name": "Agent Avenue",
+    "type": "boardgame",
+    "description": "Agent Avenue is a competitive card game that combines bluffing, strategic set collection, and a race to uncover your opponent's identity. Set in a colorful anthropomorphic world, players assume the roles of retired spies in a suburban neighborhood, outsmarting each other with cards that can score points or trigger special effects. The game's art brings to life a quirky neighborhood of animal spies.\n\nUse a unique \"I split, you choose\" mechanic to play one card face-up and one face-down each turn. Your opponent chooses one, influencing both your strategies. Cards feature different agents and tools that impact scoring and game progress on a track, advancing the \"catch me\" race to uncover the opposing spy.\n\nOutwit your opponents by strategically collecting agent sets and effectively using spy tools. The game ends when a player successfully uncovers their opponent, combining both strategic depth and bluffing elements.\n\nPerfect for those who love a mix of strategy and lighthearted competition, \"Agent Avenue\" challenges you to think like a spy and act like a friendly neighbor.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/qC5YwZANir1Cmg6d-1UUpQ__original/img/26YgtJFY_7vKONVD87cHDb1pWRs=/0x0/filters:format(png)/pic8427963.png",
+    "thumbnail": "https://cf.geekdo-images.com/qC5YwZANir1Cmg6d-1UUpQ__small/img/QFSJbQfLQNrItkY_bQEzn71qYZ4=/fit-in/200x150/filters:strip_icc()/pic8427963.png",
+    "link": "https://boardgamegeek.com/thing/422732",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "20",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.58675",
+    "averageWeight": "1.2778",
+    "boardGameRank": "903",
+    "mechanics": [
+      "Hand Management",
+      "I Cut, You Choose",
+      "Race",
+      "Relative Movement",
+      "Set Collection",
+      "Track Movement"
+    ],
+    "categories": [
+      "Animals",
+      "Bluffing",
+      "Card Game",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Christian Kudahl",
+      "Laura Kudahl"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:37:12.090Z",
+  "gameDetails": {
+    "id": "177478",
+    "name": "IKI",
+    "type": "boardgame",
+    "description": "Edo &mdash; what we now know today as Tokyo, Japan &mdash; was a thriving city with an estimated population of one million, half townspeople and half samurai. With a huge shopping culture, Edo's main district, Nihonbashi, was lined with shops, selling kimonos, rice, and so much more.\n\nNihonbashi is the focus of IKI: A Game of EDO Artisans, which brings you on a journey through the famed street of old Tokyo. Hear the voices of Nihonbashi Bridge's great fish market. Meet the professionals, who carry out 700&shy;-800 different jobs. Enter the interactivity of the shoppers and vendors. Become one with the townspeople.\n\nOne of the main professions in the world of Edo is the artisan. Each of the Edo artisans uses their own skill of trade to support the townspeople's lives. In this game, not only are there artisans, but street vendors, sellers at the shops, and professions unique to this time and age. Meet the puppet masters, putting on a show. Meet the ear cleaners that people would line up for.\n\nThe goal of this game is to become the annual Edoite, best personifying what is known as \"IKI\", an ancient philosophy believed to be the ideal way of living among people in Edo. Knowing the subtleties of human nature, being refined and attractive &mdash; these are all elements of a true IKI master.\n\n",
+    "image": "https://cf.geekdo-images.com/ypE6HrTY1Xvpt1XCpKlMBw__original/img/G4-gFXe9tKgnkgJOFTVO2A-Wbm4=/0x0/filters:format(png)/pic5960068.png",
+    "thumbnail": "https://cf.geekdo-images.com/ypE6HrTY1Xvpt1XCpKlMBw__small/img/25aN_TPIrOU6S7_1V31lVwsr3iA=/fit-in/200x150/filters:strip_icc()/pic5960068.png",
+    "link": "https://boardgamegeek.com/thing/177478",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.60849",
+    "averageWeight": "3.068",
+    "boardGameRank": "460",
+    "mechanics": [
+      "Income",
+      "Open Drafting",
+      "Ownership",
+      "Rondel",
+      "Set Collection",
+      "Track Movement",
+      "Turn Order: Stat-Based"
+    ],
+    "categories": [
+      "Medieval"
+    ],
+    "designers": [
+      "Koota Yamada"
+    ]
+  }
+}

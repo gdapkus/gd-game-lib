@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:25:23.560Z",
+  "gameDetails": {
+    "id": "6050",
+    "name": "Duel of Ages Set 1: Worldspanner",
+    "type": "boardgame",
+    "description": "From the Publisher:\n\nBehind the stunning artistry of Duel of Ages lies an epic, deeply intriguing strategy game that will capture your attention for years to come. Build the uniquely modular game map (using the PAKIT board game system) to your own advantage, thwarting the enemy's attempt to do the same.\n\nAccept a random roster of heroic characters, each with radically different abilities. Discover a way to turn this diverse group into an effective team. To survive, your team must acquire strange and deadly equipment by confronting the illusionary guardians of the labyrinths. But through every minute of play, the enemy will be uncomfortably close, hounding your team as you hound theirs...\n\nExpanded by\n\n    Duel of Ages Set 2: Intensity\n    Duel of Ages Set 3: Vast Horizons\n    Duel of Ages Set 4: Royal Tournament\n    Duel of Ages Set 5: Mercenary Camp\n    Duel of Ages Set 6: Field of Honor\n    Duel of Ages Set 7: Ruins of Cany XII\n    Duel of Ages: Masters Addendum\n    Duel of Ages: Prestige Pack\n    Duel of Ages: Scrye Add-On Pack\n\n\n",
+    "image": "https://cf.geekdo-images.com/DNYov4uineedqxKTuUjd-g__original/img/4h_ty8a89Fn2BidKMcZslXyB27I=/0x0/filters:format(jpeg)/pic22858.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DNYov4uineedqxKTuUjd-g__small/img/6yplqcVvBZcK5g-oStEJQ1QrUkk=/fit-in/200x150/filters:strip_icc()/pic22858.jpg",
+    "link": "https://boardgamegeek.com/thing/6050",
+    "minPlayers": "2",
+    "maxPlayers": "16",
+    "yearPublished": "2003",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "6.51931",
+    "averageWeight": "2.8769",
+    "boardGameRank": "3821",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Player Elimination",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Ancient",
+      "Fighting",
+      "Post-Napoleonic",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Brett G. Murrell"
+    ]
+  }
+}

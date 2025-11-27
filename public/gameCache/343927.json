@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:18:12.238Z",
+  "gameDetails": {
+    "id": "343927",
+    "name": "Union Stockyards",
+    "type": "boardgame",
+    "description": "Union Stockyards is a mid-weight economic euro game with unique features:\n\n     A supply/demand driven market that is central to game play, not a sidebar. \n     Low randomness -- market changes due to player decisions.\n     A worker-placement game where your workers may go on strike.\n     Extensively-researched historical theme about one of the great industrial wonders of U.S. Gilded Age.\n\n\nOpening in 1865, the Union Stockyards became Chicago&rsquo;s largest industry and one of the city&rsquo;s top tourist attractions with a half million visitors annually in the early 1900&rsquo;s. From the Civil War through the 1920&rsquo;s, more meat was processed here than anywhere in the world. During its height, 40,000 mostly immigrant workers labored in &ldquo;the busiest square mile on earth&rdquo;, where over one million livestock passed monthly, supplying 80% of all U.S. meat. There were over 2,300 livestock pens and 130 miles of railroad within the &ldquo;yards&rdquo;.\n\nYou play one the &ldquo;Big Five&rdquo; meat packers, developing technologies to use every part of the animal while battling labor unions and manipulating the market to your advantage. Union Stockyards is played over six years (rounds), each beginning with an historical event affecting game conditions or adding an additional action. You select your actions through worker placement; however, if you don&rsquo;t pay your workers enough, they may go on &ldquo;strike&rdquo;. You earn cash based on your profit margins when you slaughter cattle, hogs, or sheep. Your profit margin is your meat value minus the livestock cost. The livestock cost is the same for all players, but your meat values will differ due to your engine-building decisions of constructing buildings, establishing branch houses in eastern cities, and improving your brand reputation. At the end of each year, livestock costs (cattle, hogs, sheep) will be adjusted up or down depending on the demand that you created. Sometimes you may choose to slaughter certain livestock just to manipulate the market in your favor. Whichever packer accumulates the most wealth wins the game.\n\n",
+    "image": "https://cf.geekdo-images.com/Vg5cBtoqz6vHPFsIFQ5fNQ__original/img/qfg9khdtKWKzgnvrpzVSGCF1Scw=/0x0/filters:format(jpeg)/pic6314859.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Vg5cBtoqz6vHPFsIFQ5fNQ__small/img/psKfxhWty_slBiTPGQykz6PYRNM=/fit-in/200x150/filters:strip_icc()/pic6314859.jpg",
+    "link": "https://boardgamegeek.com/thing/343927",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.46913",
+    "averageWeight": "2.5278",
+    "boardGameRank": "3500",
+    "mechanics": [
+      "Commodity Speculation",
+      "End Game Bonuses",
+      "Events",
+      "Grid Coverage",
+      "Market",
+      "Turn Order: Claim Action",
+      "Variable Set-up",
+      "Victory Points as a Resource",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Duane Wulf"
+    ]
+  }
+}

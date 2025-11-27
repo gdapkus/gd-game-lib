@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:09:58.543Z",
+  "gameDetails": {
+    "id": "443547",
+    "name": "Gadget Builder",
+    "type": "boardgame",
+    "description": "Gadget Builder is a family card game from designer Tom Lehmann that riffs on the core idea of Crazy Eights: match number or color to play your cards and try to empty your hand first.\n\nThe twist is that you can use cards from a fifth suit to build various gadgets that persist from hand to hand and help you get rid of your cards. Which gadgets do you build? When do you use them?\n\nYou can use only one gadget per turn, and to go out, you must have no cards in hand and no unused gadgets. If you empty your hand but haven't used all of your gadgets, you draw one card for each unused gadget, so don't build it unless you're going to use it!\n\n",
+    "image": "https://cf.geekdo-images.com/SRT2J1NSEy6jBqSiRkyNlw__original/img/RjvnkNjh3QGBJba09JGWQOYfJKg=/0x0/filters:format(jpeg)/pic8953982.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SRT2J1NSEy6jBqSiRkyNlw__small/img/Rb38gRGgxlJ5yCo3c-CLkzSE8Qk=/fit-in/200x150/filters:strip_icc()/pic8953982.jpg",
+    "link": "https://boardgamegeek.com/thing/443547",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.86321",
+    "averageWeight": "1.5",
+    "boardGameRank": "17438",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Thomas Lehmann"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:00:23.308Z",
+  "gameDetails": {
+    "id": "311785",
+    "name": "Railways of Australia",
+    "type": "boardgameexpansion",
+    "description": "In the late 19th century, railway expansion across Australia suffered from inconsistent rail gauges as the colonies could not agree upon a standard. This lack of planning meant that different rail gauges must meet up at a station for passengers and cargo to switch from one line to the next before continuing on their journey. This break of gauge creates new challenges in rail line efficiency and new headaches for aspiring Rail Barons! Railways of Australia is an expansion map for Railways of the World, designed for 2 to 6 players. You will need the pieces from the Railways of the World base game or the Railways of Nippon base game to play it.\n\nRailways of Australia is a large 2-6 player map. This map has several unique features: a new terrain type - towns; region borders; and rebound Railroad Operations cards. When built, a town becomes a Gray New City on the map. There are also Railroad Operations cards that automatically build each of the 10 towns on the map. Players cannot build across region borders unless connecting through a city, or using a 'Triple Gauge' Railroad Operations card. This expansion includes junction track tiles for use with the Switch Tracks mini expansion. These new track tiles display the 2 lines coming together in each configuration. Switch tokens are also included so that players can use the Switch Track mini expansion right out of the box.\n\n-description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/N8PC-JNPgz7xIJwgveaO2w__original/img/QVZdfokHYTk4u-IOA88H7As6ssU=/0x0/filters:format(jpeg)/pic5636699.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/N8PC-JNPgz7xIJwgveaO2w__small/img/igpYEzQWdCSqlRJPtP5al0UA_-E=/fit-in/200x150/filters:strip_icc()/pic5636699.jpg",
+    "link": "https://boardgamegeek.com/thing/311785",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.88158",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Auction / Bidding",
+      "Connections",
+      "Network and Route Building",
+      "Open Drafting",
+      "Pick-up and Deliver",
+      "Tile Placement",
+      "Turn Order: Auction"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Randal Lloyd"
+    ]
+  }
+}

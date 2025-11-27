@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:18:36.996Z",
+  "gameDetails": {
+    "id": "37061",
+    "name": "Star Fleet Battles (Designer's Edition)",
+    "type": "boardgame",
+    "description": "Star Fleet Battles Designer's Edition was the second version of the Star Fleet Battles series. An expanded & enhanced version of the original zip-lock bag version. Contains 216 full-color die cut counters representing the ships of seven fleets, freighters, outpost stations, starbases, asteroids, planets, and monsters. Also contains a large hex map, charts, and ship displays.\n\nThe Designer&rsquo;s Edition followed up the successful original Star Fleet Battles Pocket Game. The original version had optional advanced rules.  The Designer&rsquo;s Edition divided the rules into a \"Basic Game\" and an \"Advanced Game\" and rewrote much of the optional advanced rules into the \"Advanced Game\" and included more ships and counters for the newly added ships. This version also included the first expansions in the Star Fleet Battles series, and it had three pocket game expansions.\n\nThere were two editions of the Designer's Edition.  The second edition had a different box cover (the same cover art as Star Fleet Battles Commander's Edition Volume I) and a larger sized rulebook.\n\nRe-implements:\n\n     Star Fleet Battles\n\n\nRe-implemented by:\n\n     Star Fleet Battles Commander's Edition\n     Star Fleet Battles Captain's Edition\n\n\n",
+    "image": "https://cf.geekdo-images.com/2tlRCSqE5guo2-pJQwOrdg__original/img/_N7xybsz5HIvqIDxi4-EvbWWmQs=/0x0/filters:format(jpeg)/pic344636.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2tlRCSqE5guo2-pJQwOrdg__small/img/P2lfIvt9-Fyn6lwqNUMun7-Bb7w=/fit-in/200x150/filters:strip_icc()/pic344636.jpg",
+    "link": "https://boardgamegeek.com/thing/37061",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1979",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.50417",
+    "averageWeight": "3.8571",
+    "boardGameRank": "9118",
+    "mechanics": [
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Stephen V. Cole"
+    ]
+  }
+}

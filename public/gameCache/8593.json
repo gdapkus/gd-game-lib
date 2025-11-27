@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:33:00.919Z",
+  "gameDetails": {
+    "id": "8593",
+    "name": "Wreckage",
+    "type": "boardgame",
+    "description": "In the post-apocalyptic world of Wreckage, the landscape is a twisted wasteland. Road warriors rule the highways in souped-up vehicles decked out with guns, armor, and turbo-charged engines. The best of these gasoline gladiators have come together to compete in the arena of death. The winner is awarded fuel for a year, water for a month, and the glory of the kill. The losers are wreckage.\n\nIn Wreckage, each player controls one of eight different vehicles and equips it with weapons, armor, and other equipment of his choice. By playing cards from their vehicles' steering decks, the players drive their vehicles around the play area, collecting gas and blowing each other's cars to scrap metal.\n\nWreckage is a fast-paced game of turbo-charged mayhem for 2-4 players ages 10 and up, and can be played in 20-60 minutes.\n\n",
+    "image": "https://cf.geekdo-images.com/HmF6rSno8yeVErY2ypgXDQ__original/img/30FgOwAaq8M1KhLHh6KcZtbI1OM=/0x0/filters:format(jpeg)/pic149720.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HmF6rSno8yeVErY2ypgXDQ__small/img/jgSEYOkCie7otIxdFjwcchlfRVA=/fit-in/200x150/filters:strip_icc()/pic149720.jpg",
+    "link": "https://boardgamegeek.com/thing/8593",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2003",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.51049",
+    "averageWeight": "1.7222",
+    "boardGameRank": "26598",
+    "mechanics": [
+      "Action Queue"
+    ],
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Barry Stockinger"
+    ]
+  }
+}

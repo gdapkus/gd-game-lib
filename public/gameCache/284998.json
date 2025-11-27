@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:15:09.939Z",
+  "gameDetails": {
+    "id": "284998",
+    "name": "Reigns: The Council",
+    "type": "boardgame",
+    "description": "Reigns: The Council is an asymmetric party game for 3-6 people about a monarch seeking the harmony of their realm, and their advisors vying to influence them for their own goals.\n\nOne player is crowned monarch, and for the length of their reign, they decide which petitions from their advisors they will support or decline. Every decision influences the state of the realm. If any one of the four pillars of society becomes either too powerful or too weak, it means the end of the reign, a gruesome death for the monarch, and a victory jig for the advisors whose secret goals were met &mdash; then a new heir is crowned, and a new reign begins.\n\nReigns: The Council is based on the cute and fun app game Reigns.\n\n",
+    "image": "https://cf.geekdo-images.com/Ctj-bItNg-Yxi3b8X6HiZw__original/img/Onb4VW68YpORi8DlqidlhwirbHY=/0x0/filters:format(jpeg)/pic4860839.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ctj-bItNg-Yxi3b8X6HiZw__small/img/jtKBaqU4vmFgKcdp4ux-zHRF2R8=/fit-in/200x150/filters:strip_icc()/pic4860839.jpg",
+    "link": "https://boardgamegeek.com/thing/284998",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2020",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.82359",
+    "averageWeight": "1.8333",
+    "boardGameRank": "8179",
+    "mechanics": [
+      "Negotiation",
+      "Role Playing",
+      "Storytelling"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Humor",
+      "Medieval",
+      "Party Game",
+      "Political",
+      "Video Game Theme"
+    ],
+    "designers": [
+      "Bruno Faidutti",
+      "Hervé Marly"
+    ]
+  }
+}

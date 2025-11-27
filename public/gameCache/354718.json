@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:17:24.069Z",
+  "gameDetails": {
+    "id": "354718",
+    "name": "Tang Garden: Seasons",
+    "type": "boardgameexpansion",
+    "description": "The roofs of the villages of the Tang Dynasty are the first to notice the slightest temperature changes and the passing of time. The wind blows, raising dry leaves that fly before the snow covers every architecture. After several days the air starts smelling like pollen and gets warmer, the flowers start blooming again, and the sun dries the mud into cracked earth once again.\n\nTang Garden: Seasons is the final expansion for Tang Garden. We have crafted different rich scenarios by getting inspiration from the mechanisms you most love in board games that will completely change the way you create your beautiful garden. In this expansion, you will find new tiles, decorations, panoramas, visitors, boards, and new components that you have never seen before.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/KNsllu0anUAPho-GvwbdgQ__original/img/YoVutvaebOX-EzOksE7lU_pyFOM=/0x0/filters:format(jpeg)/pic6631284.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KNsllu0anUAPho-GvwbdgQ__small/img/dAghuMSv5fBzwl71REna3S6CY3E=/fit-in/200x150/filters:strip_icc()/pic6631284.jpg",
+    "link": "https://boardgamegeek.com/thing/354718",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "6.12895",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction: Sealed Bid",
+      "Cooperative Game",
+      "Open Drafting",
+      "Set Collection",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Environmental"
+    ],
+    "designers": [
+      "Pierpaolo Paoletti",
+      "Francesco Testini"
+    ]
+  }
+}

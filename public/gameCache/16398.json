@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:04:47.479Z",
+  "gameDetails": {
+    "id": "16398",
+    "name": "War",
+    "type": "boardgame",
+    "description": "War can be played with a standard 52 card deck as well as special themed decks of different sizes.\n\nThe deck is dealt out evenly to the players into face down piles. Both players then turn their top card face up. The player with the higher value card takes both cards and puts them face down at the bottom of his or her pile. If the cards have equal value, there is a war. Both players place 3 cards face down (occasionally, some people play with the modified rules of 1 or 2 face-down cards instead of the standard three) on the table and then place another face-up card on top of those.  If the two are equal, they place more face-down cards and add another face-up card (etc.)  The winner of the round once the most recent face-up cards are different in value takes all of the cards currently on the table.  The game ends when one player has the entire deck.\n\n",
+    "image": "https://cf.geekdo-images.com/CeBpBleLUkV6uM-98w424g__original/img/OctbOGXDDuOh3kUwoltGOSOMzw8=/0x0/filters:format(jpeg)/pic104062.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CeBpBleLUkV6uM-98w424g__small/img/bh_tFLUKO8_2JuyjTDkXdtcqVoA=/fit-in/200x150/filters:strip_icc()/pic104062.jpg",
+    "link": "https://boardgamegeek.com/thing/16398",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "0",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "2.40361",
+    "averageWeight": "1.0061",
+    "boardGameRank": "29600",
+    "mechanics": [],
+    "categories": [
+      "Card Game",
+      "Children's Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

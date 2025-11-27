@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:38:08.644Z",
+  "gameDetails": {
+    "id": "442250",
+    "name": "Sea Salt & Paper: Extra Pepper",
+    "type": "boardgameexpansion",
+    "description": "Each round, new cards add a new game condition.\nAt the end of each round, this condition (bonus or malus) will be kept by the player with the highest or lowest score.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__original/img/MOVm4qZbZrkQN7_AqBfGm-BMsEQ=/0x0/filters:format(png)/pic8822830.png",
+    "thumbnail": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__small/img/uQwYaaNlYpC51BLyuL95u5FhYKo=/fit-in/200x150/filters:strip_icc()/pic8822830.png",
+    "link": "https://boardgamegeek.com/thing/442250",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "8.0266",
+    "averageWeight": "1.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Events",
+      "Hand Management",
+      "Melding and Splaying",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Bruno Cathala",
+      "Théo Rivière"
+    ]
+  }
+}

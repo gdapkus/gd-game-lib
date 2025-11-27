@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:55:55.443Z",
+  "gameDetails": {
+    "id": "42066",
+    "name": "Hotel Amsterdam",
+    "type": "boardgame",
+    "description": "This combination of a tile turning and occupation game is set in the touristic corners of the city of Amsterdam.\n\nIn the basic game, players roll the dice to move the canal boat in order to bring tourists into the city. The same dice also allow you to move the mayor and the night guard that open and close the different tourist attractions, thereby moving the tourists to another location of the same type. The goal of the game is to move the tourists towards your own hotels on the game board.\n\nThe game comes with a tactical variant, which disables the luck element by eliminating dice rolling.\n\n",
+    "image": "https://cf.geekdo-images.com/e7Rf5P25z7JCSEIcfn_sYw__original/img/R2AeZkr5jN7uX_M3u26mO8b52rE=/0x0/filters:format(jpeg)/pic470544.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/e7Rf5P25z7JCSEIcfn_sYw__small/img/KXqM1k4deMVEqGc_XWDMxMEjOGI=/fit-in/200x150/filters:strip_icc()/pic470544.jpg",
+    "link": "https://boardgamegeek.com/thing/42066",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2009",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.81292",
+    "averageWeight": "1.7273",
+    "boardGameRank": "22524",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Memory"
+    ],
+    "categories": [
+      "City Building",
+      "Dice",
+      "Travel"
+    ],
+    "designers": [
+      "Hans van Tol"
+    ]
+  }
+}

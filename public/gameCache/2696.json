@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T20:59:35.527Z",
+  "gameDetails": {
+    "id": "2696",
+    "name": "Palenque",
+    "type": "boardgame",
+    "description": "From the publisher:\n\nFour world famous rival archaeologists embark upon a journey which takes them into the heart of Central America. Hidden deep among the flora and the fauna of the tropical rain forest, lie the ruins of the ancient city of Palenque. There the four explorers encounter danger, mystery, and intrigue as they search the ancient temples for the hidden treasures of the Maya.\n\nEach archaeologist must recover certain treasures from the ancient Maya temples and be the first to return to the \"Great Palace\" to capture a prize each is willing to risk his/her life for. A keen memory and a poker face are needed to win.\n\n",
+    "image": "https://cf.geekdo-images.com/S8G-h6w-Lg2FdbC9Or6qBA__original/img/_hKc6WYffKzWlg4gKkt_fxcYpiw=/0x0/filters:format(jpeg)/pic114637.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/S8G-h6w-Lg2FdbC9Or6qBA__small/img/adZdVbw_sd-a0K4BAPx3tEq98WI=/fit-in/200x150/filters:strip_icc()/pic114637.jpg",
+    "link": "https://boardgamegeek.com/thing/2696",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1998",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "3.99194",
+    "averageWeight": "1",
+    "boardGameRank": "27973",
+    "mechanics": [],
+    "categories": [
+      "Adventure",
+      "Ancient",
+      "Exploration"
+    ],
+    "designers": [
+      "Dee Pomerleau"
+    ]
+  }
+}

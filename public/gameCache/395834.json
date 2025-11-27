@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-11-26T20:23:40.801Z",
+  "gameDetails": {
+    "id": "395834",
+    "name": "Aberration",
+    "type": "boardgame",
+    "description": "Step into a world veiled in darkness, where shadows and aberrations lurk. The sanctuary of your village is being threatened, and in this perilous hour, you stand as its last defense.\n\nAberration offers a thrilling cooperative tower defense experience. In this harrowing blend of horror and survival, you will find worker placement, bag building, and asymmetric player powers. Shadow and light intertwine in a fog-of-war mechanic that shrouds the truth and conceals lurking terrors. As the tainted forest succumbs to the influence of The Great Beast, each game unveils a unique and corrupted landscape, engulfing the map as you play. Adding tension and terror to every moment. But beware, for the forest's very essence transforms, as do players and enemies alike, ascending towards newfound power, but at what cost&hellip;\n\nJoin forces with veteran game designer Peter Lee (Lords of Waterdeep, Horrified, and Tyrants of the Underdark) as he summons you into this dark fantasy realm.\n\nIn the face of this unfolding nightmare, can you survive the night?\n\n",
+    "image": "https://cf.geekdo-images.com/ZtNtkFyJG_nf9jqvntxHSA__original/img/UsNt3-Pm-amSCWPKmJttDf2of6I=/0x0/filters:format(jpeg)/pic7678595.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZtNtkFyJG_nf9jqvntxHSA__small/img/TGUpvlhkBPWGg04XbiZTY4QtRdo=/fit-in/200x150/filters:strip_icc()/pic7678595.jpg",
+    "link": "https://boardgamegeek.com/thing/395834",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.9943",
+    "averageWeight": "2.6",
+    "boardGameRank": "9168",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Events",
+      "Hand Management",
+      "Map Deformation",
+      "Map Reduction",
+      "Modular Board",
+      "Multiple Maps",
+      "Pieces as Map",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Dice",
+      "Exploration",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "designers": [
+      "Peter Lee"
+    ]
+  }
+}

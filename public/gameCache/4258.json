@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:18:50.213Z",
+  "gameDetails": {
+    "id": "4258",
+    "name": "Totaler Krieg! World War II in Europe",
+    "type": "boardgame",
+    "description": "Update to the 1996 Game Krieg!,  a WWII war game that the whole war can be played through, or smaller Scenarios for shorter game play.\n\nRe-implements:\n\n    Krieg! World War II in Europe\n\n\nRe-implemented by:\n\n    Axis Empires: Totaler Krieg!\n\n\n",
+    "image": "https://cf.geekdo-images.com/Zfu6WZohZi3KFRNmuVIxmQ__original/img/pz-XuQv1bEUsDV68RuPZl4fubA4=/0x0/filters:format(jpeg)/pic20360.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Zfu6WZohZi3KFRNmuVIxmQ__small/img/KfrYpHva4F_FluEpoYWzcxugmGg=/fit-in/200x150/filters:strip_icc()/pic20360.jpg",
+    "link": "https://boardgamegeek.com/thing/4258",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "yearPublished": "1999",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.42892",
+    "averageWeight": "4.0141",
+    "boardGameRank": "5346",
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Alan Emrich",
+      "Steve Kosakowski"
+    ]
+  }
+}

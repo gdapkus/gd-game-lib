@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:59:15.198Z",
+  "gameDetails": {
+    "id": "65515",
+    "name": "Nuns on the Run",
+    "type": "boardgame",
+    "description": "In Nuns on the Run, most of the players are novices who are eager to secretly explore the grand abbey at night in order to fulfill their &ldquo;secret wish.&rdquo; They sneak through corridors searching for keys and treasures. (What treasures could a novice be searching for? Forbidden cookies? A soft mattress? Or narcotics? Or a book of witchcraft?)\n\nWhile sneaking through the abbey, the novices must remain watchful for the Abbess or Prioress, who are on patrol to ensure that pure novices remain that way. These characters are controlled by other players who want to nab the novices before they can make it back into bed.\n\nPlayers play either as a novice, or as the Abbess or Prioress. The novices move in secret and avoid being seen or heard by the Abbess or Prioress. The goal is to make it to the location on the board where the novice can get her \"secret wish\" and return to their room without being detected.  All of the novices move in secret by marking their movement and locations on hidden sheets. The Abbess and Prioress move on regulated paths around the board, but can diverge and chase down novices that they see or hear. The player or players who complete their secret wishes and return to their rooms win, or the Abbess and Prioress win if they catch a certain number of novices.\n\n",
+    "image": "https://cf.geekdo-images.com/ElzQsdH-hryJQnIJ7gld1w__original/img/q2XsYxJ1cMWvQhIiHn8nlzbXuhQ=/0x0/filters:format(jpeg)/pic649087.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ElzQsdH-hryJQnIJ7gld1w__small/img/rDQCn9UlP_LqQh1-sO_UMi6K9WY=/fit-in/200x150/filters:strip_icc()/pic649087.jpg",
+    "link": "https://boardgamegeek.com/thing/65515",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2010",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.49578",
+    "averageWeight": "2.0702",
+    "boardGameRank": "2464",
+    "mechanics": [
+      "Dice Rolling",
+      "Hidden Movement",
+      "Line of Sight",
+      "Paper-and-Pencil",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Secret Unit Deployment",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Humor",
+      "Religious"
+    ],
+    "designers": [
+      "Fréderic Moyersoen"
+    ]
+  }
+}

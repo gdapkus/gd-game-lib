@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:31:20.965Z",
+  "gameDetails": {
+    "id": "438975",
+    "name": "Sail Legacy",
+    "type": "boardgame",
+    "description": "Assemble your crew, captain your ship, and take on the high seas in this legacy co-op trick-taker!\n\nIn Sail Legacy, you and your best matey will go on an adventure across thirty unique missions. Upgrade your ship, outfit your characters, and tune the deck itself to avoid a watery grave!\n\nSail Legacy evolves from the core Sail game mechanisms as you cooperatively use \"must-follow\" trick-taking to take on the unforgiving ocean &mdash; and the mythical beasts that call it home. Based on the combination of symbols in the trick, you'll steer the ship, charge ahead, or fire the cannons. Throughout the game, you'll tweak your pirate's asymmetric player powers. Will you have a well-balanced team or specialize in one area?\n\nAn epic campaign awaits. Live with the consequences of numerous branching decisions. Express your creativity with customization. Most of all, don't sink. No two tales will be the same!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/lRNcxndptSAF_-_pULQl5w__original/img/GF-ON0XJNb_XaXoEWUTGO-cLbC8=/0x0/filters:format(jpeg)/pic8694781.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lRNcxndptSAF_-_pULQl5w__small/img/6br3btDYug0h3q868AZVQp78xdc=/fit-in/200x150/filters:strip_icc()/pic8694781.jpg",
+    "link": "https://boardgamegeek.com/thing/438975",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2026",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.35714",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Legacy Game",
+      "Scenario / Mission / Campaign Game",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Nautical",
+      "Pirates"
+    ],
+    "designers": [
+      "Taylor Reiner"
+    ]
+  }
+}

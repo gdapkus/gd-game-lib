@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:49:13.872Z",
+  "gameDetails": {
+    "id": "19999",
+    "name": "Aton",
+    "type": "boardgame",
+    "description": "From Queen Games website:\n\nThe whole of Egypt is in uproar &ndash; Akhnaton, who has just acceded to the throne, wants to ban the old deity Amon from the temples of the land. Aton is to be worshiped as the new God.\n\nBut the priests of the land are not willing to give up their temples without resistance so the 4 largest temples are fiercely disputed.\n\nThe players are adversaries and fight out this battle of the Gods between them. Both have the same starting position, but who will be able to make better use of his abilities and help his God to victory?\n\n",
+    "image": "https://cf.geekdo-images.com/LLFj0SH1JZiuioSciDh0Bg__original/img/GKmMI2dmLxp08GDYKveQiY0Yicc=/0x0/filters:format(jpeg)/pic292166.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LLFj0SH1JZiuioSciDh0Bg__small/img/lqZEwFoCZYg6Q-4g3YCTECSQpes=/fit-in/200x150/filters:strip_icc()/pic292166.jpg",
+    "link": "https://boardgamegeek.com/thing/19999",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2005",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.85408",
+    "averageWeight": "2.1156",
+    "boardGameRank": "1730",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Once-Per-Game Abilities",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Ancient",
+      "Religious"
+    ],
+    "designers": [
+      "Thorsten Gimmler"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:28:55.864Z",
+  "gameDetails": {
+    "id": "8098",
+    "name": "Jungle Speed",
+    "type": "boardgame",
+    "description": "In Jungle Speed, you must rely on your keen sense of observation and quick reflexes. It requires a steady hand -- which can be hard to maintain during the many fits of maniacal laughter! The wooden Totem sits in the middle of the table, waiting for the player with the fastest reflexes to snatch it up and win the game.\n\nEach player is dealt a hand of cards. In order to win you must be the first player to get rid of all of your cards. Each turn, all of the players reveal one of their cards. If two cards are identical, those players must make a grab for the Totem. The faster player then gives their cards to their unfortunate adversary.\n\nTo add to the difficulty, certain cards are almost identical, which can trick a hapless player into grabbing the Totem by mistake -- a grave error. Other cards force all players to make a grab at once, change the method of play, or otherwise add to the difficulty.\n\nJungle Jam, Медвед, and Prawo Dżungli are unauthorized reproductions of Jungle Speed/Arriba!\n\n",
+    "image": "https://cf.geekdo-images.com/pb553nZgH3akaF24MzT7nA__original/img/YVxlSoQ5q-8w4FMn8hM6Gz4nCNg=/0x0/filters:format(jpeg)/pic4659199.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pb553nZgH3akaF24MzT7nA__small/img/Clb-hjbKmSJcl6U6UJMqAz0Kxy0=/fit-in/200x150/filters:strip_icc()/pic4659199.jpg",
+    "link": "https://boardgamegeek.com/thing/8098",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "1997",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.45567",
+    "averageWeight": "1.1294",
+    "boardGameRank": "1993",
+    "mechanics": [
+      "Pattern Recognition",
+      "Speed Matching"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Card Game",
+      "Party Game",
+      "Real-time"
+    ],
+    "designers": [
+      "Thomas Vuarchex",
+      "Pierrick Yakovenko"
+    ]
+  }
+}

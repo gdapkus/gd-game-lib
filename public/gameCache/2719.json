@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T19:33:30.397Z",
+  "gameDetails": {
+    "id": "2719",
+    "name": "Connect Four",
+    "type": "boardgame",
+    "description": "Connect 4 is a well known vertical game played with \"checkers\" game pieces, although it is more akin to Tic-Tac-Toe or Go Moku.\n\nThe board is placed in the stand to hold it vertically and the players drop game pieces into one of the seven slots, each of which holds up to six game pieces, until one player succeeds in getting four in a row, whether horizontally, vertically, or diagonally.\n\nThe game is non-proprietary.  More elegant, wooden versions can be found under the name The Captain's Mistress.\n\n",
+    "image": "https://cf.geekdo-images.com/I_ZPIWEvFlrMa8caT4UD-w__original/img/w93rimjstxQr4BVmaZ_Tl5pQGOw=/0x0/filters:format(jpeg)/pic859430.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/I_ZPIWEvFlrMa8caT4UD-w__small/img/JR0u-AXmZpNrZpevcz3lrLPNDf4=/fit-in/200x150/filters:strip_icc()/pic859430.jpg",
+    "link": "https://boardgamegeek.com/thing/2719",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1974",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.00471",
+    "averageWeight": "1.1821",
+    "boardGameRank": "29571",
+    "mechanics": [
+      "Pattern Building"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Children's Game"
+    ],
+    "designers": [
+      "Ned Strongin",
+      "Howard Wexler"
+    ]
+  }
+}

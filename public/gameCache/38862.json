@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:54:26.119Z",
+  "gameDetails": {
+    "id": "38862",
+    "name": "Giants",
+    "type": "boardgame",
+    "description": "In this game, players incarnate clan leaders during the Golden Age of Easter Island. The board represents a simplified map of the island. Rock platforms (ahus) are where the Moa&iuml;s (monumental sculptures) will be erected.\n\nYour clan competes against others, and you will earn more prestige by building and transporting larger, more imposing Moa&iuml;s than your opponents' clans.\n\nEach of your pawns represents a group of men. You can grow your population if you wish. You will choose each turn which part of your population will sculpt Moa&iuml;s and which other part will transport them, in cooperation with other players.\n\nStatues are transported from the quarry to the ahus (the rock platforms) using paths made of pawns and the help of logs.\n\nYou can use your influence (Tribal Markers) to choose the best statues and mark to your color the statues you cannot achieve in your turn. You can also rely on your Sorcerer and his mighty powers, of the strength of your Chief, as well as on mystic powers of the Rongo writing tablets.\n\nThe winner will be the one who has erected the largest statues in the best places at the end of the game.\n\nNote that there is a Official Rule Change for this game : For the final scoring, complete Rongo tablets are no longer scored and do not earn any points to the players.\n\n",
+    "image": "https://cf.geekdo-images.com/i-fW0VaS9gYuuYyp7G7fqg__original/img/dYamNgdrG0mnrtSrAvGis1Z1kCU=/0x0/filters:format(jpeg)/pic920285.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/i-fW0VaS9gYuuYyp7G7fqg__small/img/kgooOV3h2g08gVN2I2U1HN1ly5M=/fit-in/200x150/filters:strip_icc()/pic920285.jpg",
+    "link": "https://boardgamegeek.com/thing/38862",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2008",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.95297",
+    "averageWeight": "2.9309",
+    "boardGameRank": "1943",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Transportation"
+    ],
+    "designers": [
+      "Fabrice Besson"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:58:03.580Z",
+  "gameDetails": {
+    "id": "7688",
+    "name": "Memory",
+    "type": "boardgame",
+    "description": "First published in today's form by Ravensburger in February 1959, have the rights for the brand name Memory.\n\nThere are versions known from Japan in the 16th century - matching pictures painted on shells. Known as Awase or Kai-awase. In USA and England known as Pairs, Pelmanism, or Concentration. But these are played with simple playing cards. In Switzerland was a domino-like game named Zwillingsspiel with the same roots. In Czech Republic this type of game is known as Pexeso. The name is an acronym of \"pekelně se soustřed!\", which literally translates to \"hellishly focus!\".  It usually consists of 32 pairs of square cards. There are thousands of Pexeso sets with different themes.  There are hundreds of different Memory games - starting with 24 cards for the youngest, with all kinds of animals, art, about countries, also a gay and a \"Breast Memory\", several free giveaway Memory games published by companies.\n\nPlayers lay a series of tiles upside down in random order.  Then proceed to uncover 2 at a time.  If they match, the player keeps both.  If they don't, the player loses his turn.\n\nThere are 2 different types of memories: \ntype A: Pure memory games with pairs of identical motifs and \ntype B: memory games with similar motifs, e.g. 1x1 memory with a pair consisting of the numbers to be multiplied and the solution.\n\nGame end when all tiles have been matched.  The player with the greater number of tiles wins.\n\n",
+    "image": "https://cf.geekdo-images.com/vDo4qdmjMC0KqHEVuahGng__original/img/bXCjKGJKD0ds_ghWrfSm3wG_WZ4=/0x0/filters:format(jpeg)/pic286567.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vDo4qdmjMC0KqHEVuahGng__small/img/6jjBkHC1VsKx5eNj-TevtdxseyY=/fit-in/200x150/filters:strip_icc()/pic286567.jpg",
+    "link": "https://boardgamegeek.com/thing/7688",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1959",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "4.7932",
+    "averageWeight": "1.1423",
+    "boardGameRank": "29569",
+    "mechanics": [
+      "Memory",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Children's Game",
+      "Comic Book / Strip",
+      "Environmental",
+      "Movies / TV / Radio theme",
+      "Novel-based",
+      "Prehistoric"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

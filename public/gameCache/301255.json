@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:38:49.145Z",
+  "gameDetails": {
+    "id": "301255",
+    "name": "Whistle Mountain",
+    "type": "boardgame",
+    "description": "Whistle Stop designer Scott Caputo has teamed up with Luke Laurie (Manhattan Project: Energy Empire) to create a new worker-placement strategy title. Whistle Mountain gives a nod to Whistle Stop, but in this standalone game, you leave the train tracks behind and head to the sky with blimps, dreadnoughts, and hot air balloons!\n\nIn Whistle Mountain, take your company's massive profits from all of that railroading and invest them in new technologies, deep in the Rocky Mountains where there is an abundance of resources. Your workers build crazy arrays of scaffolds and machines, upgrading your abilities and collecting resources. As you build with the help of your airship fleet, the mountain's melting snow causes the water below to rise higher and higher, putting workers in danger and increasing the tension on the dynamically-changing board.\n\nBecause the resources you gather are determined by what players build, each game evolves differently, resulting in endless replayability. You have to choose between acquiring new abilities and enhancements for your airships and workers or building all sorts of contraptions as quickly as possible in order to achieve victory on Whistle Mountain.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/BkPVVNEJxnF2ouque0ov8A__original/img/KBbDQ_YZG_JF_rkniAKYupJLYnI=/0x0/filters:format(jpeg)/pic5275651.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BkPVVNEJxnF2ouque0ov8A__small/img/eLl5tVSfUn2f95-87zcJz8rxiFk=/fit-in/200x150/filters:strip_icc()/pic5275651.jpg",
+    "link": "https://boardgamegeek.com/thing/301255",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.53136",
+    "averageWeight": "3.0309",
+    "boardGameRank": "804",
+    "mechanics": [
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Scott Caputo",
+      "Luke Laurie"
+    ]
+  }
+}

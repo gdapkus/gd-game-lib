@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:23:25.148Z",
+  "gameDetails": {
+    "id": "363039",
+    "name": "13 Words",
+    "type": "boardgame",
+    "description": "13 Words is a co-operative idea-association party game in which the team aims for the highest score possible.\n\nTo set up, lay out twelve double-sided word cards on the perimeter of the game board, then place a word card in the center of the board. This round's Captain wants to find the most obvious link between this central word and one of the outer words. The Captain indicates their choice on their answer wheel, and all other players try to guess the Captain's choice. Each player who guesses correctly wins a star, and the Captain collects a star as long as at least one player earned a star this round.\n\nFor the next round, the player to the Captain's left becomes the new Captain. They flip over the word card matching the previous Captain's choice, place it in the center of the game board, then everyone guesses how the new Captain will link this newly revealed word to one of the remaining words on the perimeter.\n\nAfter eleven rounds, the game ends, and players tally their stars to determine the success level of the team. The best possible score is 11 times the number of players. How did you do?\n\n",
+    "image": "https://cf.geekdo-images.com/LZLawY54FK3prg3Y1rZTUQ__original/img/AVM6XC4iGddmjnPZRIKM7PpoNjY=/0x0/filters:format(jpeg)/pic7072152.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LZLawY54FK3prg3Y1rZTUQ__small/img/Nxq6HRzOwMcMJRZ6JzmlI3Kokq4=/fit-in/200x150/filters:strip_icc()/pic7072152.jpg",
+    "link": "https://boardgamegeek.com/thing/363039",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2022",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.04902",
+    "averageWeight": "1",
+    "boardGameRank": "12920",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "Romain Loussert"
+    ]
+  }
+}

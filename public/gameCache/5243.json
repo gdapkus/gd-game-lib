@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:58:34.872Z",
+  "gameDetails": {
+    "id": "5243",
+    "name": "Montage",
+    "type": "boardgame",
+    "description": "Montage is a partnership word game in which each player, in turn, thinks of a word, \"spells\" it on the crossword-like grid using color-coded tiles &ndash; each color corresponding to one vowel and five or six consonants, e.g. yellow is A/B/C/D/Z and green is U/T/V/W/Y/X &ndash; then gives a clue, in the hopes that his partner can guess the word before either of the opponents do.\n\nIn 1992, Joli Quentin Kansil revived the idea behind Montage in ¡Knock-on-Word!, a similar partnership word-guessing game.\n\n",
+    "image": "https://cf.geekdo-images.com/v_0FhhL2CdZ2465t8RKIUA__original/img/NHJYqYv4TrDOWG7_S8UuqMMs4A8=/0x0/filters:format(jpeg)/pic964692.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/v_0FhhL2CdZ2465t8RKIUA__small/img/YugruN3r5g4_h7muduTjeQnv5SI=/fit-in/200x150/filters:strip_icc()/pic964692.jpg",
+    "link": "https://boardgamegeek.com/thing/5243",
+    "minPlayers": "4",
+    "maxPlayers": "4",
+    "yearPublished": "1973",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.22573",
+    "averageWeight": "2.5385",
+    "boardGameRank": "7344",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Pattern Recognition",
+      "Real-Time",
+      "Spelling",
+      "Team-Based Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Word Game"
+    ],
+    "designers": [
+      "Joli Quentin Kansil",
+      "Rick Soued"
+    ]
+  }
+}

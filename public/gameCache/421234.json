@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:09:53.620Z",
+  "gameDetails": {
+    "id": "421234",
+    "name": "Founders of Reyvick",
+    "type": "boardgame",
+    "description": "Founders of Reyvick is a 3-5 player economic game of speculation and competition on the newly settled world of Reyvick. Each player controls a company just starting out on the planet that is attempting to amass the most wealth and craft the greatest legacy. Players deploy their partners to collect resources from their assets and complete projects that further research, exploration, and building across the planet.\n\nA game of Founders of Reyvick revolves around assets, which include the districts on Reyvick as well as special assets that differ in each game. Companies compete to own these assets and take advantage of the resources and revenue that they provide, while maximizing their profit by buying low and selling high. Each game round begins by resolving a draw of event tiles. Most tiles place new population, resources like flora and fauna research, or the mysterious \"Unobtanium\" into the various districts of Reyvick, but some events present setbacks for companies to manage.\n\nWhile the promise of rich resources have drawn many to Reyvick, the economic climate there is unique. Unlike other planets, Reyvick's Ruling Council uses a radical approach to managing the many companies seeking profits on Reyvick. Every game round, each player must set the price at which they would be willing to sell each of their assets to another player. Players are then obliged to respect their own valuation, so the price must be chosen carefully; if you set it too low, someone else will take over your asset and make a profit, but at the end of the turn you must pay taxes on the price you've set on every asset, so you also don't want to set it too high.\n\nOnce prices are set, the Council distributes whatever taxes were collected in the previous turn. Some portion of those taxes will fund public projects, which are placed in districts for the welfare of its citizens &mdash; and companies &mdash; while the rest is distributed to players. Rights to the resources and profits from a district or special asset are always for sale; any company can buy them by paying the price set by the current owner &mdash; and every asset on Reyvick has a price!\n\nOnce you purchase an asset, you must immediately set the price as at the beginning of the turn. You can set it to any amount that is higher than what you paid, but the Council will tax you based on what you claim your assets are worth, and those taxes are distributed as incentives in a public/private partnership, so your tax money can end up benefiting your competition.\n\nAt the end of the game, the player with the greatest combination of wealth, assets, and projects wins. Founders of Reyvick is based on the economic theories of Nobel Prize-winning economist William Vickrey, as well as the writings of Eric Posner and Glen Weyl, especially their book Radical Markets.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/He2CzVKk1__lC9eXNsV4rA__original/img/YkZM-p8tyD81m4B03ne57MxMQn0=/0x0/filters:format(jpeg)/pic8218568.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/He2CzVKk1__lC9eXNsV4rA__small/img/RHs40UnofcrTwFNYPr8wq9ZcIjw=/fit-in/200x150/filters:strip_icc()/pic8218568.jpg",
+    "link": "https://boardgamegeek.com/thing/421234",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "0",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "9",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Constrained Bidding",
+      "Contracts",
+      "Dice Rolling",
+      "Income",
+      "Investment",
+      "Ownership",
+      "Tags",
+      "Turn Order: Claim Action",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Economic",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Richard Garfield"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:31:37.454Z",
+  "gameDetails": {
+    "id": "217547",
+    "name": "Can't Stop Express",
+    "type": "boardgame",
+    "description": "This game was first published as Solitaire Dice in 1969 in Sid Sackson's book A Gamut of Games. Over the years, it's been released as a standalone game under the names Choice, Einstein, and most recently Can't Stop Express.\n\nAfter each throw of the five dice, the active player tries to choose the best combination of two pairs, while also making a good choice for the fifth die. By doing so, they are awarded points, and whoever has the most points at the end of the game &mdash; which usually takes 24-25 rolls &mdash; wins.\n\nThe instructions includes solitaire rules.\n\n",
+    "image": "https://cf.geekdo-images.com/pwArHv6u5bSu8c4jwwJa-g__original/img/3wpo45BjCVyX7aQqp_X7utYQPg0=/0x0/filters:format(jpeg)/pic3417257.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pwArHv6u5bSu8c4jwwJa-g__small/img/R5lP4jAXY4NYc37sexr-aFnugOQ=/fit-in/200x150/filters:strip_icc()/pic3417257.jpg",
+    "link": "https://boardgamegeek.com/thing/217547",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "1969",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.08796",
+    "averageWeight": "1.3462",
+    "boardGameRank": "5831",
+    "mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Dice"
+    ],
+    "designers": [
+      "Sid Sackson"
+    ]
+  }
+}

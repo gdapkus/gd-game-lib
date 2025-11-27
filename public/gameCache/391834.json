@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:31:50.784Z",
+  "gameDetails": {
+    "id": "391834",
+    "name": "SpellBook",
+    "type": "boardgame",
+    "description": "Become the greatest wizard of the Annual Grand Rite by collecting and managing your Materia to feed your familiar and learn your spells. Act quickly to use your powers early...or wait to unleash them at full strength. Your path to victory is full of choices and combined tactics!\n\nIn SpellBook, each player, accompanied by a familiar, possesses a grimoire and collects Materia to master spells and feed their familiar. The game provides pre-drawn spell sets for use in the early rounds, but soon players start drawing spells randomly or create their own spell combinations that are common to all players. Each spell combination gives an effect that lasts the rest of the game, and the more ingenious the combination, the more powerful the effect. As the rounds progress, the game becomes a different experience every time, with more than 2,100 spell combinations being possible.\n\nThe game ends as soon as a magician's grimoire is complete or a familiar is fully fed, then the player with the most points wins.\n\nSpellBook includes a solo mode that closely mirrors the multiplayer experience, offering a high level of challenge and an excellent way to learn the game's rules.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/FCjsAGFzJxWOfkWVxBA-gw__original/img/zQq7m0nkFk147eB53mHh_8c2L7Y=/0x0/filters:format(jpeg)/pic7568929.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FCjsAGFzJxWOfkWVxBA-gw__small/img/Vk1reBV4r-WBLS67TW99WKWGLFA=/fit-in/200x150/filters:strip_icc()/pic7568929.jpg",
+    "link": "https://boardgamegeek.com/thing/391834",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.48153",
+    "averageWeight": "2.0189",
+    "boardGameRank": "3531",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Fantasy"
+    ],
+    "designers": [
+      "Phil Walker-Harding"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:17:21.880Z",
+  "gameDetails": {
+    "id": "205494",
+    "name": "Machi Koro: Bright Lights, Big City",
+    "type": "boardgame",
+    "description": "You've done a great job as Mayor! Machi Koro: Bright Lights, Big City shows how popular Machi Koro has become! What started as a sleepy town of cheese factories and wheat fields has become a hot tourist destination!\n\nExplore the night life of Machi Koro with a new gameplay set-up that makes each game play unique without ever slowing down the high-paced fun or losing any of the original charm.\n\nMachi Koro: Bright Lights, Big City is a standalone, fast-paced game for 2-5 players. Each player wants to develop the city on their own terms in order to complete all of the landmarks under construction faster than their rivals. On their turn, each player rolls one or two dice. If the sum of the dice rolled matches the number of a building that a player owns, they get the effect of that building; in some cases opponents will also benefit from your die (just as you can benefit from theirs). Then, with money in hand a player can build a landmark or a new building, ideally adding to the wealth of his city on future turns. The first player to construct all of their landmarks wins!\n\n",
+    "image": "https://cf.geekdo-images.com/e9Z1IOX7_HwspCzP54prPg__original/img/rQT2b1YEIHQMOusvfz4u011zr_c=/0x0/filters:format(png)/pic3119592.png",
+    "thumbnail": "https://cf.geekdo-images.com/e9Z1IOX7_HwspCzP54prPg__small/img/hw04Z1zdSvxIV7REA5pryXVqZas=/fit-in/200x150/filters:strip_icc()/pic3119592.png",
+    "link": "https://boardgamegeek.com/thing/205494",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2016",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.6438",
+    "averageWeight": "1.8333",
+    "boardGameRank": "2680",
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Random Production"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Dice"
+    ],
+    "designers": [
+      "Masao Suganuma"
+    ]
+  }
+}

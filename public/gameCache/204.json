@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T20:32:06.429Z",
+  "gameDetails": {
+    "id": "204",
+    "name": "Stephenson's Rocket",
+    "type": "boardgame",
+    "description": "Reiner Knizia expands his fleet of tile laying games with this game about colliding railroads in early 1800's England.  There are seven different rail companies that players can expand.  Each time you extend a rail, the other stockholders can veto your action, but it might cost them their shares.  When two companies' rail touch, the railways merge to become one.  The game is over when only one company remains or there are no rail tiles remaining, and the winner is the player who earned the most money over the course of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/8wlt4GYoByELYHDR9r4mzA__original/img/c5_VQijOHBFnfdw_QJ2_XtNWuiI=/0x0/filters:format(jpeg)/pic6773824.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8wlt4GYoByELYHDR9r4mzA__small/img/9gO8bpdb9-WmfbNpw7bGtNmJ9_g=/fit-in/200x150/filters:strip_icc()/pic6773824.jpg",
+    "link": "https://boardgamegeek.com/thing/204",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1999",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.9356",
+    "averageWeight": "3.059",
+    "boardGameRank": "1692",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Auction: Once Around",
+      "Chaining",
+      "End Game Bonuses",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Income",
+      "Investment",
+      "Network and Route Building",
+      "Set Collection",
+      "Stock Holding",
+      "Take That",
+      "Tile Placement",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

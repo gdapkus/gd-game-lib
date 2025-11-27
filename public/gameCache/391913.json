@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:24:49.209Z",
+  "gameDetails": {
+    "id": "391913",
+    "name": "Clans of Caledonia: Industria",
+    "type": "boardgameexpansion",
+    "description": "Clans of Caledonia: Industria is the game&rsquo;s first expansion, taking the experience to new heights. By now, the Industrial Revolution has deeply transformed Scotland. It comes with a large box to conveniently store both the base game and expansion, complete with custom lidded inserts and removable trays for quick setup and teardown. Industria introduces six new gameplay modules, including a train map and five modular &ldquo;more of the same&rdquo; expansions, which you can mix and match for endless variety. With Industria, explore fresh strategies and new paths to victory!\n\n9 clans, 9 port tiles, 9 scoring tiles, 4 new double-sided map modules unlock new strategies!\n\nUse the Railroad to deliver goods to Scottish towns, earning unique bonuses, and race to claim the best milestones. Sell goods at the lucrative Farmers' Market. Score in new ways with end game awards.\n\nSolo players can now enjoy a true multi-player experience and challenge themselves against a newly designed Automa opponent. A sliding difficulty scale tailors to players of every skill level.\n\n",
+    "image": "https://cf.geekdo-images.com/SNvmpN5KWVTYdRZofjM0Pw__original/img/nn_WLALLmr_8Zn3I-2P1V0c2nQw=/0x0/filters:format(jpeg)/pic8967173.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SNvmpN5KWVTYdRZofjM0Pw__small/img/Bv4VM19--Tyh4wkUhnUHfM3Gsb4=/fit-in/200x150/filters:strip_icc()/pic8967173.jpg",
+    "link": "https://boardgamegeek.com/thing/391913",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.2372",
+    "averageWeight": "3.8333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Commodity Speculation",
+      "Contracts",
+      "Market",
+      "Network and Route Building",
+      "Solo / Solitaire Game",
+      "Turn Order: Pass Order",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Juma Al-JouJou"
+    ]
+  }
+}

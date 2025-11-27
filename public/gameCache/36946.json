@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:31:06.782Z",
+  "gameDetails": {
+    "id": "36946",
+    "name": "Red November",
+    "type": "boardgame",
+    "description": "Red November is a cooperative game in a gnomish attack submarine where everything is going wrong. The sub is descending and the water pressure increasing, the nuclear reactor is overheating, the nuclear missile launchers are pre-igniting, fires and water leaks are everywhere, there's a giant Kraken looming nearby and there&rsquo;s very little oxygen and vodka left. While the storyline feels more and more like a disaster movie, the players must get organized to solve the problems, divide the tasks among themselves to minimize the risks, and sometimes accept to sacrifice themselves for the common cause.\n\nThe game is played on the map of the submarine. The conditions in the submarine are represented by three disaster tracks: Asphyxiation, Heat and Pressure. During the game, these conditions get worse, and if anyone of them reaches its maximum value, the submarine is lost. In addition, various emergencies can occur which have to be dealt with swiftly, or they'll also lead to the loss of the submarine.\n\nEach turn, a player can move to a new location, and perform some action there. Such an action can be repairs (which will improve conditions on the sub and/or fix emergencies), removing obstacles (unblocking hatches, removing flooding or extinguishing fires) or stocking up on equipment (which will help with later actions). Each action is paid for with time. The more time a player spends on an action, the greater the chance of success. After each player's turn, a number of events will happen; the more time was spent, the more events will occur. Such events will be the worsening of conditions in the submarine, or the triggering of emergencies.\n\nIf the Gnomes can keep alive long enough, rescue will arrive and the game is won.\n\n",
+    "image": "https://cf.geekdo-images.com/WPh86n0LylEaIL3mazuxzQ__original/img/bLHtApMXiZSAHOay3efgnxv57DQ=/0x0/filters:format(jpeg)/pic973939.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WPh86n0LylEaIL3mazuxzQ__small/img/HTVP1Ks1J-DpW0vQ1BC9sal73Uc=/fit-in/200x150/filters:strip_icc()/pic973939.jpg",
+    "link": "https://boardgamegeek.com/thing/36946",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "yearPublished": "2008",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.28859",
+    "averageWeight": "2.072",
+    "boardGameRank": "2662",
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Turn Order: Time Track"
+    ],
+    "categories": [
+      "Fantasy",
+      "Humor",
+      "Nautical"
+    ],
+    "designers": [
+      "Bruno Faidutti",
+      "Jef Gontier"
+    ]
+  }
+}

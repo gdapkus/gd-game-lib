@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:32:29.459Z",
+  "gameDetails": {
+    "id": "234220",
+    "name": "Tramways: Grand Station",
+    "type": "boardgameexpansion",
+    "description": "Grand Station is the first set of mini expansions for Tramways.\n\nIt contains:\n\n     3 new tiles with special abilities:\n          Grand Station\n          Stock Exchange\n          Park\n    \n     4 new building cards\n     1 Station Master\n\n\nThis expansion is released in a cover flap that explains how the Grand Station of Tramways was built.\n\n",
+    "image": "https://cf.geekdo-images.com/ObZyCZG-ZBweKS7s3E0OUA__original/img/MRuFj5qp71_zv2ZylDJp3i7ZeWg=/0x0/filters:format(jpeg)/pic3713924.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ObZyCZG-ZBweKS7s3E0OUA__small/img/q1tlBvAX3EgfO988ed5aecIJDAM=/fit-in/200x150/filters:strip_icc()/pic3713924.jpg",
+    "link": "https://boardgamegeek.com/thing/234220",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2017",
+    "playingTime": "180",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "180",
+    "bestAtCount": null,
+    "averageRating": "7.47121",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Network and Route Building",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "City Building",
+      "Trains"
+    ],
+    "designers": [
+      "Alban Viard"
+    ]
+  }
+}

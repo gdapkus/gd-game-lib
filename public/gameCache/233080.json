@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-11-26T19:33:20.261Z",
+  "gameDetails": {
+    "id": "233080",
+    "name": "Book of Dragons",
+    "type": "boardgame",
+    "description": "Book of Dragons is a game system featuring a deck of 40 tarot-sized cards beautifully illustrated by Kerem Beyit with graphic design by Luis Francisco.\n\nThe deck features four copies of ten unique dragons, with no text or iconography on any of the cards. Games are played only by use of the artwork on the cards, making all games completely language independent. Book of Dragons will launch with 18 designer games by 16 different designers as well as some re-worked public domain games.\n\nDesigners and games at launch include:\n\nDragon Bluff by Martin Wallace - A bluffing game for 3 or 4 players\n\nDragon Mystery Rummy: The Case of the Rare Dragon by Mike Fitzgerald - A mystery rummy game for 2 to 4 players\n\nWyvern's Knot by Jonathan Gilmour & John Burns - A cooperative game for 3 to 5 players\n\nDragon Master by Sen Foong Lim & Jay Cormier - An auction and negotiation game for 3 to 5 players\n\nThe Lost Dragon by David Short - A deduction game for 2 to 4 players.\n\nThe Rut by Max Michael - A push your luck bidding game for 2 to 4 players\n\nPentawar by Ken Shannon  - A strategic battle game for 2 to 5 players\n\nDragonKin by Ken Shannon - A hidden scoring and deduction strategy game for 2 to 4 players\n\nYear of the Dragon by Daniel Solis - A solitaire game\n\nDragon Pass by Gil Hova - A pick and pass set collection and deduction game for 3 to 5 players\n\nDragon Inquisition by Nate Bivins - A hidden traitor game for 3 to 5 players\n\nDragon Draft by Robert Burke - A card drafting game for 3 to 6 players\n\nDragon Duel by Robert Burke - An area control battle game for 2 players\n\nDragon Poker by Robert Burke - A Cockroach Poker style bluffing game for 3 to 6 players\n\nDragon Scat - by Robert Burke - A \"Bullsh*t\" style bluffing game for 2 to 5 players\n\nAge of Dragons by Chris Hamm - A two player strategic battle game\n\nBite Me! by Daryl Chow - A push your luck, deduction and memory game for 2 to 5 players\n\nDragon's Trick by Mark Kale - A trick taking game for 3 to 6 players\n\nDragon's Brood by Jess Birnstihl - An action selection, set collection game for 3 to 8 players\n\n",
+    "image": "https://cf.geekdo-images.com/m6h9iMqVutjT_mqQF5QWCQ__original/img/7GGiyNW3P_-RWHkzUfK6xmr5d2A=/0x0/filters:format(png)/pic4661190.png",
+    "thumbnail": "https://cf.geekdo-images.com/m6h9iMqVutjT_mqQF5QWCQ__small/img/QkDoQcsv1g3TEeMOB8eaTaVc3F0=/fit-in/200x150/filters:strip_icc()/pic4661190.png",
+    "link": "https://boardgamegeek.com/thing/233080",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "yearPublished": "2018",
+    "playingTime": "60",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "5.92764",
+    "averageWeight": "1.3333",
+    "boardGameRank": "21111",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Campaign / Battle Card Driven",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Memory",
+      "Open Drafting",
+      "Push Your Luck",
+      "Secret Unit Deployment",
+      "Set Collection",
+      "Take That",
+      "Trading",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Fantasy",
+      "Game System",
+      "Mythology",
+      "Negotiation"
+    ],
+    "designers": [
+      "Stephen Avery",
+      "Robert Burke",
+      "Daryl Chow",
+      "Jay Cormier",
+      "Mike Fitzgerald",
+      "Jonathan Gilmour-Long",
+      "Christopher Hamm",
+      "Gil Hova",
+      "Sen-Foong Lim",
+      "Max Michael",
+      "J. Ryan Opp",
+      "Kenneth C. Shannon, III",
+      "David Short",
+      "Daniel Solis",
+      "Nate Bivins",
+      "Martin Wallace"
+    ]
+  }
+}

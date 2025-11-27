@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T20:32:54.006Z",
+  "gameDetails": {
+    "id": "22038",
+    "name": "Warrior Knights",
+    "type": "boardgame",
+    "description": "The Kingdom is in chaos. The King lies dead without an heir, slain by a villainous hand. Will a leader rise up and rally the support of the people, or will the shadow of anarchy spread over the land?\n\nIn Warrior Knights, each player takes on the role of a Baron vying for control of the Kingdom. Each Baron commands four faithful Nobles who lead his armies into battle. Each Baron seeks to capture cities in order to gain Influence (victory points), which is used to measure his claim to the throne. Barons may also seek to gain advantage by increasing their income, gathering Votes to use at the Assembly, or by amassing Faith, which can be used to gain a measure of control over chance events. Only through cunning strategy and careful diplomacy can a Baron hope to attain victory.\n\nWarrior Knights has a very clever mechanism.  Each player has a selection of tasks they can accomplish each turn, such as move & attack, gain political strength, hire mercenaries, and gain religious faith.  Only 6 of these are done in any turn.  Each player selects 2 tasks for each 1/3 of the game turn.  The cards of all the players are then shuffled together, so the players know only the two tasks they will perform in each 1/3 of the game turn, but not the order they will be played.\n\nIn addition, the game has four special phases that are triggered based on how frequently players are choosing a particular task.  Collecting taxes individually, once done often enough, will trigger a taxation phase.  Players collecting political power trigger a session of Parliament.  When enough players want to hire mercenaries there is an auction for their services.  The flip side is that the more mercenaries that are hired the more often they want to be paid in the wages phase.\n\nThe mixing of these two clever mechanisms, choosing tasks but performing them in a random order and triggering the 4 special phases at somewhat unpredictable times makes for a tense game.   Players can often be caught short of cash if wages are demanded more frequently than taxes are collected.  If the other players all collect political influence a Parliament might be called when one or two players have only a single vote.  These elements of variable turn orders and variable phases give the game a highly addictive quality.\n\n",
+    "image": "https://cf.geekdo-images.com/V6aRvs9U-vs5r011ThWSQg__original/img/1UamODjYQIylF2f1rfb2QJejsnc=/0x0/filters:format(jpeg)/pic106710.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/V6aRvs9U-vs5r011ThWSQg__small/img/fhY4NZvF6g0i5S_9Ee2QNE3aNK0=/fit-in/200x150/filters:strip_icc()/pic106710.jpg",
+    "link": "https://boardgamegeek.com/thing/22038",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2006",
+    "playingTime": "240",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.86765",
+    "averageWeight": "3.5093",
+    "boardGameRank": "1717",
+    "mechanics": [
+      "Area Movement",
+      "Auction / Bidding",
+      "Campaign / Battle Card Driven",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Turn Order: Random",
+      "Voting"
+    ],
+    "categories": [
+      "Fantasy",
+      "Negotiation",
+      "Political",
+      "Wargame"
+    ],
+    "designers": [
+      "Derek Carver",
+      "Pierre Cléquin",
+      "Bruno Faidutti",
+      "Corey Konieczka"
+    ]
+  }
+}

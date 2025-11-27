@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:55:01.841Z",
+  "gameDetails": {
+    "id": "194",
+    "name": "Groo: The Game",
+    "type": "boardgame",
+    "description": "In Groo: the Game, players compete to be the first to build a large town by playing 'building' cards that give them victory points.  Of course, this is no picnic, hindered as it is by other players' rampaging armies and the frequent bumbling visitations of Groo the Wanderer, determined by the roll of a set of dice, which can also grant players resources with which to build and 'Groo heads' with which to damage the unfortunates who have Groo in their village. Players can also develop armies to attack other players' cities  Excellent fun for the beer-and-pretzels crowd.\n\n",
+    "image": "https://cf.geekdo-images.com/pUTq58u64o-6aTBoGj5s5w__original/img/9AUqS1EhmNMgMO_J46re1T5I4EE=/0x0/filters:format(jpeg)/pic135807.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pUTq58u64o-6aTBoGj5s5w__small/img/erQ9JxVhUDkda7rNpSPYfTlYBQA=/fit-in/200x150/filters:strip_icc()/pic135807.jpg",
+    "link": "https://boardgamegeek.com/thing/194",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1997",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.27256",
+    "averageWeight": "1.4865",
+    "boardGameRank": "6380",
+    "mechanics": [
+      "Dice Rolling",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Comic Book / Strip",
+      "Fantasy"
+    ],
+    "designers": [
+      "Sergio Aragonés",
+      "Ken Whitman"
+    ]
+  }
+}

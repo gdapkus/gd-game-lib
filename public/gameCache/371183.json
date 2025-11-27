@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:28:53.656Z",
+  "gameDetails": {
+    "id": "371183",
+    "name": "JOYRIDE: Survival of the Fastest",
+    "type": "boardgame",
+    "description": "Joyride: Survival of the Fastest is an explosively fun board game of loud, fast, high-interaction racing for two to four players. Tactically plan your route, push your luck to take corners at speed, and crash into your rivals to knock them off course.\n\nChoose a car with unique abilities that change the way you race. Do you want the reliability of Auto-Pilot, the precision of Handbrake Turn or the chaos of Donut? Manipulate dice on your dashboard, pushing your luck to pull ahead. Will you lock in your results for maximum control, or risk rolling them to gain an extra inch?\n\nMove from checkpoint to checkpoint across open maps on the double-sided board. Each map comes different track layouts for every player count and skill level. Checkpoints can be crossed from any direction, so plan a racing line that maximizes your chances, even if it means racing into oncoming traffic.\n\nSmash into your opponents to spin them around or push them out of your way. Sometimes the best racing line is the one that will knock your opponents off-course.\n\nGather powerful items as you race, letting you fire rockets, drop oil slicks and even call in air strikes to damage enemy vehicles. Damage permanently blocks part of your dashboard, so think carefully about where you decide to place it. Do you really need two spaces to store items? Maybe it&rsquo;s better to give up fifth gear?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/ywWVqGH03eEOWFaRPtmlAg__original/img/igW-m9SJJZJe-uRH1UaZVcn0AhU=/0x0/filters:format(png)/pic7186560.png",
+    "thumbnail": "https://cf.geekdo-images.com/ywWVqGH03eEOWFaRPtmlAg__small/img/zSIuSMwVuw0ZnLBCow6a71SBeHM=/fit-in/200x150/filters:strip_icc()/pic7186560.png",
+    "link": "https://boardgamegeek.com/thing/371183",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.31658",
+    "averageWeight": "2.2381",
+    "boardGameRank": "3176",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Push Your Luck",
+      "Race",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Racing"
+    ],
+    "designers": [
+      "Duncan Molloy",
+      "Pete Ward"
+    ]
+  }
+}

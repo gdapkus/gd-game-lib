@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:31:59.727Z",
+  "gameDetails": {
+    "id": "129431",
+    "name": "Star Wars: X-Wing Miniatures Game – TIE Interceptor Expansion Pack",
+    "type": "boardgameexpansion",
+    "description": "Game description from the publisher:\n\nImperial players can add a lethal starfighter to their X-Wing squadrons with the Star Wars: X-Wing Miniatures Game - TIE Interceptor Expansion Pack. The finest mass-produced starfighter of its time, the TIE Interceptor excels at dogfighting thanks to its heightened maneuverability, increased speed, and four wing-mounted laser cannons. With its detailed miniature, two upgrades, and six skillful new pilots that include the renowned Soontir Fel, the TIE Interceptor Expansion Pack creates exciting opportunities for all Imperial X-Wing players!\n\n",
+    "image": "https://cf.geekdo-images.com/9GUywxZRQ1a0HGRVDgTUVg__original/img/2B_8ZDcjIPO1JcgOXbXutAfs6GA=/0x0/filters:format(png)/pic2391659.png",
+    "thumbnail": "https://cf.geekdo-images.com/9GUywxZRQ1a0HGRVDgTUVg__small/img/9_OnCSRsvBn3pNzKuqcC8CiQ1DM=/fit-in/200x150/filters:strip_icc()/pic2391659.png",
+    "link": "https://boardgamegeek.com/thing/129431",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2013",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.97351",
+    "averageWeight": "2.3043",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "Enclosure",
+      "Point to Point Movement",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "James Kniffen",
+      "Corey Konieczka",
+      "Jay Little"
+    ]
+  }
+}

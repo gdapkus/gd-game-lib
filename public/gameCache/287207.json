@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:13:30.913Z",
+  "gameDetails": {
+    "id": "287207",
+    "name": "Montana: Longhorns",
+    "type": "boardgameexpansion",
+    "description": "Longhorns graze on the meadows, but if a settlement is built, they must move to somewhere else. Sometimes that goes without any problems, but if you push too hard it can cause problems for everyone. Fortunately caravans visits the settlements with new supplies. Trade with them, so you can easily get other goods. Finally ranches are built in the settlements. To build a ranch is a great investment, but it unlocks a permanent special ability. Ranches also provide considerable prestige and that is needed to win the game.\n\nThe expansion consists of three module which can be combined with the base game and any other expansion.\nModule 1: Ranches\nPlayers need to build 3 ranches and 12 settlement to win the game.\nRances cost a lot of resources but give player special abilities during the game.\n\nModule 2: New supplies\nDuring the build action players can trade resources for other resources.\n\nModule 3: Longhorn\nLonghorn meeples are placed on the board during the setup.\nWhen building a settlement on a longhorn space, the longhorn needs to move.\nEach turn a longhorn is move a rule is changed in the game (sometimes good, sometimes bad)\n\n",
+    "image": "https://cf.geekdo-images.com/S4SVLEfXy27M9FFdXmk1kg__original/img/kBgYCKTY8E166ZxrbNIhJYjLxy0=/0x0/filters:format(jpeg)/pic4916853.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/S4SVLEfXy27M9FFdXmk1kg__small/img/VY_EYkmXfPeS58Gor6ayru8zCRs=/fit-in/200x150/filters:strip_icc()/pic4916853.jpg",
+    "link": "https://boardgamegeek.com/thing/287207",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.34259",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "American West",
+      "City Building",
+      "Territory Building"
+    ],
+    "designers": [
+      "Rüdiger Dorn"
+    ]
+  }
+}

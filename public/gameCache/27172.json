@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:59:51.722Z",
+  "gameDetails": {
+    "id": "27172",
+    "name": "Ponte del Diavolo",
+    "type": "boardgame",
+    "description": "Ponte del Diavolo by Martin Ebel is a game that honors both game designer Alex Randolph and Twixt, one of Randolph's most enduring designs.\n\nIn this tactical 2-player placement game (ostensibly set in Venice, but this is an abstract), players place wooden squares to build \"islands\" and then attempt to connect them with bridges. Sounds simple, but it's not. With strict rules governing island size and bridge placement, Ponte del Diavolo becomes a tight game of positioning. Much like Randolph's Twixt, the need to think several moves ahead is critical to out-maneuvering your opponent.\nIn honour of the late Alex Randolph (1922 - 2004), who passed away in Venice, there is a picture of him on the box of the game.\n\nOnline Play\n\n     Abstract Play turn-based\n     Board Game Arena real-time or turn based\n     Boardspace.net real time or turn based, AI option\n     BrettspielNetz.de (German: turn based on a bigger board: 12x12) \n     Jijbent.nl (Dutch: turn based on a bigger board: 12x12)\n     YourTurnMyTurn.com (English: turn based on a bigger board: 12x12)\n     Yucata (turn-based)\n\n\nMobile Apps\n\n     Boardspace.net local multiplayer or online, IOS\n     Boardspace.net local multiplayer or online, Android\n\n\n",
+    "image": "https://cf.geekdo-images.com/UTDVLouJNwF_QQuit8WN6Q__original/img/sPZ8IMiofmaUOZJc8iwRr6Usf5w=/0x0/filters:format(jpeg)/pic202016.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UTDVLouJNwF_QQuit8WN6Q__small/img/snR41YquVoxot_9SnWBQEyPGvUc=/fit-in/200x150/filters:strip_icc()/pic202016.jpg",
+    "link": "https://boardgamegeek.com/thing/27172",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2007",
+    "playingTime": "25",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.46315",
+    "averageWeight": "2.3235",
+    "boardGameRank": "4362",
+    "mechanics": [
+      "I Cut, You Choose",
+      "Network and Route Building",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Territory Building"
+    ],
+    "designers": [
+      "Martin Ebel"
+    ]
+  }
+}

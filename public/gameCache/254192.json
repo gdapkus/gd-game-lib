@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:55:21.998Z",
+  "gameDetails": {
+    "id": "254192",
+    "name": "Harry Potter: Hogwarts Battle – Defence Against the Dark Arts",
+    "type": "boardgame",
+    "description": "Harry Potter&trade; Hogwarts&trade; Battle Defence Against the Dark Arts is a competitive deck-building game for two players, inspired by Harry Potter Hogwarts Battle. In this fast-paced game, players take turns playing cards, taking actions and acquiring new cards to build a more powerful deck as their defensive skills improve. Stun your opponent three times to win!\n\nWith the noticeable rise in Dark Arts activity, Headmaster Albus Dumbledore has authorized practical Defence Against the Dark Arts lessons to ensure that students are prepared to defend themselves. Under the supervision of Hogwart&rsquo;s teachers, students will cast Spells and Hexes, use Items, and gain Allies to stun their opponents and protect themselves from evil forces.\n\nTHIS IS A STAND-ALONE GAME. While inspired by Harry Potter Hogwarts Battle, none of the content in this game is designed to be incorporated into that game.\n\n",
+    "image": "https://cf.geekdo-images.com/it99zJd4oVWxwvgnmwub-g__original/img/IbZUjDhN2L6MFuq52bJs0m6YRAI=/0x0/filters:format(jpeg)/pic4576575.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/it99zJd4oVWxwvgnmwub-g__small/img/vN2HTN-WoZVH-yL_lNtSV7ZePxg=/fit-in/200x150/filters:strip_icc()/pic4576575.jpg",
+    "link": "https://boardgamegeek.com/thing/254192",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.13146",
+    "averageWeight": "1.7925",
+    "boardGameRank": "1750",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Movies / TV / Radio theme"
+    ],
+    "designers": [
+      "Kami Mandell",
+      "Andrew Wolf"
+    ]
+  }
+}

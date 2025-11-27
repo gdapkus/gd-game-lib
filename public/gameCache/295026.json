@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:18:26.583Z",
+  "gameDetails": {
+    "id": "295026",
+    "name": "Western Legends: Blood Money",
+    "type": "boardgameexpansion",
+    "description": "To become a legend, it takes grit, cunning, and a little luck. Problem is, you ain't the only one looking to make a reputation for yourself. So you have to be willing to risk it all, every hard-earned dollar, every drop of blood, to write your name across the face of history.\n\nBlood Money is the second large expansion for Western Legends, introducing a number of modules to tailor every game. The risk module uses a die that improves a number of actions... at the risk of injury. The legendary story module incorporates the story track and high-reward adventures for players to pursue. Players may now purchase deeds to locations and legendary items from the traveling trader. And of course, there is a bevy of new characters and items to explore!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/tL_jVXqUTZZV67GNTb-waw__original/img/0d5oWYB0uP4sPfsNcc15EE5VtS8=/0x0/filters:format(jpeg)/pic5074633.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tL_jVXqUTZZV67GNTb-waw__small/img/3F3nTpqN2PFa37jl_h-OGM7hUyI=/fit-in/200x150/filters:strip_icc()/pic5074633.jpg",
+    "link": "https://boardgamegeek.com/thing/295026",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2021",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.23925",
+    "averageWeight": "3.1667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Betting and Bluffing",
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "American West",
+      "Expansion for Base-game",
+      "Trains"
+    ],
+    "designers": [
+      "Hervé Lemaître"
+    ]
+  }
+}

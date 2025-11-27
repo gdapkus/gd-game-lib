@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:56:47.031Z",
+  "gameDetails": {
+    "id": "399010",
+    "name": "King of Tokyo: Baby Gigazaur",
+    "type": "boardgameexpansion",
+    "description": "Cute, but not too much.\nAdd Baby Gigazaur to your King of Tokyo games and show everyone that there is no age limit to rule! \nIncluded evolution cards and a counter to play with the wickedness gauge.\n\n(NB: This Baby Gigazaur is the same as in Monster Box)\n\n",
+    "image": "https://cf.geekdo-images.com/Qv1r47sbm2X7toWFfMhNBg__original/img/QKijmlfhDkPa1xyZNDzV05O0EX0=/0x0/filters:format(png)/pic7691183.png",
+    "thumbnail": "https://cf.geekdo-images.com/Qv1r47sbm2X7toWFfMhNBg__small/img/iu_J9S6JYoBpBYskQ2t8ZzVB9oU=/fit-in/200x150/filters:strip_icc()/pic7691183.png",
+    "link": "https://boardgamegeek.com/thing/399010",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "60",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "7.39242",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Dice",
+      "Fighting",
+      "Movies / TV / Radio theme"
+    ],
+    "designers": [
+      "Richard Garfield"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:56:31.260Z",
+  "gameDetails": {
+    "id": "39290",
+    "name": "Jacynth",
+    "type": "boardgame",
+    "description": "a territory control game for 1-3 players, using the Decktet\n\nJacynth is among the oldest cities, and a map of its streets is a record of history. It is a haphazard maze of overlapping interests and neighborhoods, with intricate social bonds tying one block to the next. You could control the city if you could control a nexus in that maze of ancient intrigue, but first you would have to find it.\n\n",
+    "image": "https://cf.geekdo-images.com/oelmarKFfpM1blQPdCfwhQ__original/img/mB1pfK6TVeHG9TNDNAhmS5FvSUs=/0x0/filters:format(jpeg)/pic2860011.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oelmarKFfpM1blQPdCfwhQ__small/img/jCSpYX0Jota5wzt6kjhPnVXr-RQ=/fit-in/200x150/filters:strip_icc()/pic2860011.jpg",
+    "link": "https://boardgamegeek.com/thing/39290",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "yearPublished": "2008",
+    "playingTime": "25",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.62471",
+    "averageWeight": "2.1429",
+    "boardGameRank": "14292",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Print & Play"
+    ],
+    "designers": [
+      "P. D. Magnus"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:01:21.793Z",
+  "gameDetails": {
+    "id": "22901",
+    "name": "Schnapp",
+    "type": "boardgame",
+    "description": "Players each choose a color and then place wooden disks (6 of each color) face down to be mixed together.  Players then take turns putting one face down disk on the long end of a see saw device.  The player slaps the short end, sending the disk spinning into the air.  All players try to figure out what color it is as it spins in the air and the player of that color should try to catch the disk before it lands.  The first player to catch 4 disks wins.  If you catch another player's disk or you block another player from catching their disk, they will still earn the disk.\n\nAges 4-99\n\n",
+    "image": "https://cf.geekdo-images.com/5AIqAxARhTkatGiQTqHLHg__original/img/w4phLPwxhbf68CEakhfgMmuGm4Q=/0x0/filters:format(jpeg)/pic121382.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5AIqAxARhTkatGiQTqHLHg__small/img/xjFmDU835XMN3rydomYIWcc9a1w=/fit-in/200x150/filters:strip_icc()/pic121382.jpg",
+    "link": "https://boardgamegeek.com/thing/22901",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1993",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.875",
+    "averageWeight": "1",
+    "boardGameRank": "15593",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity",
+      "Children's Game"
+    ],
+    "designers": [
+      "Heinz Meister"
+    ]
+  }
+}

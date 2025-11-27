@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:15:31.125Z",
+  "gameDetails": {
+    "id": "27813",
+    "name": "Saikoro",
+    "type": "boardgame",
+    "description": "Patent pending strategy game for 2 players.  Game is played on a grid of 62 dice (the dice matrix) that is randomized before each game, meaning that the board has a different layout every time you play (number of possible boards = 6^62 divided by 4 (symmetries)).  Navigate the dice matrix creating dice islands, whilst tied to your opponent.  Object of the game is to block or strand your opponent so that they cannot move.\n\n",
+    "image": "https://cf.geekdo-images.com/LD79Jsj-OY_YAbB-LUS65g__original/img/_CAi6p5WV2ZmzegPlpcM_VxC3Yw=/0x0/filters:format(jpeg)/pic416492.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LD79Jsj-OY_YAbB-LUS65g__small/img/u0m8Yg0DbwTXHI4g75AuXxG6Jwo=/fit-in/200x150/filters:strip_icc()/pic416492.jpg",
+    "link": "https://boardgamegeek.com/thing/27813",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2007",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.57727",
+    "averageWeight": "1.5556",
+    "boardGameRank": "15257",
+    "mechanics": [
+      "Map Reduction",
+      "Modular Board"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Dice"
+    ],
+    "designers": [
+      "Paul Edels"
+    ]
+  }
+}

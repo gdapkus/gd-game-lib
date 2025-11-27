@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:15:33.606Z",
+  "gameDetails": {
+    "id": "21367",
+    "name": "Sankt Petersburg: Das Bankett",
+    "type": "boardgameexpansion",
+    "description": "This expansion for Saint Petersburg consists of 12 new cards (3 normal and 9 special) that add more special abilities to the game.\n\nThe expansion was originally published in the December 2005 issue of Spielbox magazine.\n\nRio Grande Games has bundled this into the Saint Petersburg: New Society & Banquet Expansion.\n\nExpands:\n\n    Saint Petersburg\n\n\n",
+    "image": "https://cf.geekdo-images.com/oxogZn9hWIzRD4U_RA--kg__original/img/fmZGEB0XBignrUUFQ1tPIxBA3ZA=/0x0/filters:format(jpeg)/pic106675.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oxogZn9hWIzRD4U_RA--kg__small/img/sLpqKpCxdPpi7hW8LJJ3frY39l0=/fit-in/200x150/filters:strip_icc()/pic106675.jpg",
+    "link": "https://boardgamegeek.com/thing/21367",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.81218",
+    "averageWeight": "2.2708",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Karl-Heinz Schmiel"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:52:57.526Z",
+  "gameDetails": {
+    "id": "215842",
+    "name": "EXIT: The Game – The Polar Station",
+    "type": "boardgame",
+    "description": "An alarm sounded in the eternal ice, so the polar station has been evacuated and foreclosed, but a small group of researchers has remained behind by mistake &mdash; and they have only one hour to find the code that will crack the lock program.\n\nExit: The Game &ndash; The Polar Station is a puzzle game modeled after escape rooms.\n\n",
+    "image": "https://cf.geekdo-images.com/CrqSZVCqD9PJDhGOPBVyHQ__original/img/jKR9BzsmKil8lhCGrgaozbqafrg=/0x0/filters:format(jpeg)/pic3663361.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CrqSZVCqD9PJDhGOPBVyHQ__small/img/Yb2NHVS4yOWjuHLDJi2CDXU9gR4=/fit-in/200x150/filters:strip_icc()/pic3663361.jpg",
+    "link": "https://boardgamegeek.com/thing/215842",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.8343",
+    "averageWeight": "2.6271",
+    "boardGameRank": "1703",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Deduction",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Inka Brand",
+      "Markus Brand"
+    ]
+  }
+}

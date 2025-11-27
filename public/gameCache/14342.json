@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:15:38.439Z",
+  "gameDetails": {
+    "id": "14342",
+    "name": "Scene It? TV",
+    "type": "boardgame",
+    "description": "From the publisher.....\n\nBask in the \"blue glow\" of the Scene It? TV Edition! From Andy Griffith to the X-Files, Scene It? TV Edition has all your favorite clips from the first sitcoms to today's reality show craze.\n\n&bull; The premier TV trivia game with real TV clips!\n&bull; Features everything from the first black-and-white sitcoms to today&rsquo;s reality shows!\n&bull; Destined to be even more popular than the movie edition!\n\n",
+    "image": "https://cf.geekdo-images.com/Rhkb5q148r1kQcqCPPtGjw__original/img/t6z5_KYOFW27VHCyk6FfLWk4iqU=/0x0/filters:format(jpeg)/pic470122.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Rhkb5q148r1kQcqCPPtGjw__small/img/Zdhr7oTn2aq4C-qetabeHymMneo=/fit-in/200x150/filters:strip_icc()/pic470122.jpg",
+    "link": "https://boardgamegeek.com/thing/14342",
+    "minPlayers": "2",
+    "maxPlayers": "12",
+    "yearPublished": "2004",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      6,
+      8,
+      10,
+      12
+    ],
+    "averageRating": "5.40126",
+    "averageWeight": "1.6154",
+    "boardGameRank": "27403",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Electronic",
+      "Movies / TV / Radio theme",
+      "Party Game",
+      "Trivia"
+    ],
+    "designers": [
+      "Craig Kinzer",
+      "Dave Long (I)"
+    ]
+  }
+}

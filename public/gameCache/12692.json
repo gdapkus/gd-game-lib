@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:02:21.367Z",
+  "gameDetails": {
+    "id": "12692",
+    "name": "Gloom",
+    "type": "boardgame",
+    "description": "The world of Gloom is a sad and benighted place. The sky is gray, the tea is cold, and a new tragedy lies around every corner. Debt, disease, heartache, and packs of rabid flesh-eating mice&mdash;just when it seems like things can't get any worse, they do. But some say that one's reward in the afterlife is based on the misery endured in life. If so, there may yet be hope&mdash;if not in this world, then in the peace that lies beyond.\n\nIn the Gloom card game, you assume control of the fate of an eccentric family of misfits and misanthropes. The goal of the game is sad, but simple: you want your characters to suffer the greatest tragedies possible before passing on to the well-deserved respite of death. You'll play horrible mishaps like Pursued by Poodles or Mocked by Midgets on your own characters to lower their Self-Worth scores, while trying to cheer your opponents' characters with marriages and other happy occasions that pile on positive points. The player with the lowest total Family Value wins.\n\nPrinted on transparent plastic cards, Gloom features an innovative design by noted RPG author Keith Baker. Multiple modifier cards can be played on top of the same character card; since the cards are transparent, elements from previously played modifier cards either show through or are obscured by those played above them. You'll immediately and easily know the worth of every character, no matter how many modifiers they have. You've got to see (through) this game to believe it!\n\n",
+    "image": "https://cf.geekdo-images.com/jD7_Ir8gL_9AXC-wjnqjHg__original/img/RjeHGxYOUqBv7sUgcRF5VdDlhbs=/0x0/filters:format(jpeg)/pic2080481.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jD7_Ir8gL_9AXC-wjnqjHg__small/img/wWqmoercFrbIFjS1FloZFTZddcE=/fit-in/200x150/filters:strip_icc()/pic2080481.jpg",
+    "link": "https://boardgamegeek.com/thing/12692",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2005",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.32998",
+    "averageWeight": "1.6269",
+    "boardGameRank": "2398",
+    "mechanics": [
+      "Hand Management",
+      "Layering",
+      "Lose a Turn",
+      "Storytelling",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Horror",
+      "Humor"
+    ],
+    "designers": [
+      "Keith Baker"
+    ]
+  }
+}

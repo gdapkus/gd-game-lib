@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:11:56.476Z",
+  "gameDetails": {
+    "id": "339134",
+    "name": "Marvel United: Fantastic Four",
+    "type": "boardgameexpansion",
+    "description": "This Kickstarter Exclusive Optional Buy brings Marvel&rsquo;s First Family to Marvel United! Join the fantastic Dr. Richards, Sue, Johnny, and Ben, with the cosmic aid of the mysterious Silver Surfer, as they use unparalleled teamwork to battle the nefarious plans of Doctor Doom across all new Locations being taken over by his unstoppable Doombots!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/bmlrYpmaPPSwocvL6JT8Eg__original/img/fvpbm6gcMvJSQ2Wsx8sLtUqCE_Q=/0x0/filters:format(jpeg)/pic7365030.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bmlrYpmaPPSwocvL6JT8Eg__small/img/abV5cgK8Cc-IKyiMLClT0XTgEGI=/fit-in/200x150/filters:strip_icc()/pic7365030.jpg",
+    "link": "https://boardgamegeek.com/thing/339134",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.50759",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

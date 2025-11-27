@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:13:15.566Z",
+  "gameDetails": {
+    "id": "7865",
+    "name": "10 Days in Africa",
+    "type": "boardgame",
+    "description": "You have 10 DAYS IN AFRICA&trade; &ndash; touring by plane, car, and on foot. Chart your course from start to finish using destination and transportation tiles. With a little luck and clever planning, you just might outwit your fellow travelers. The first traveler to make correct connections for a ten-day journey wins the game.\n\nTiles are arranged on a player's tray, then a new tile is drawn. It can be used to replace a tile on one of the \"days.\" Then that tile or the drawn tile are discarded face-up to one of three discard piles. Tiles may not be rearranged, only replaced.\n\nYou must complete your journey correctly, connecting by\nfoot - bordering country tiles set side-by-side, \nair - countries of the same color with a same-colored airplane between them, or\nautomobile - a car can drive between two countries and a third country which borders them.\n\nWhoever is the first to connect all 10 days wins the game.\n\nThis is the second installment in the 10 Days in series.\n\n",
+    "image": "https://cf.geekdo-images.com/B1Bji6N6r1kUvI_Glp7U1w__original/img/3Y_svR8FUmL-yicbCq3bwBvSYKc=/0x0/filters:format(jpeg)/pic1229634.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/B1Bji6N6r1kUvI_Glp7U1w__small/img/ZRfdBTjVmigOLsZxf_dh-iCXRuM=/fit-in/200x150/filters:strip_icc()/pic1229634.jpg",
+    "link": "https://boardgamegeek.com/thing/7865",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2003",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.56638",
+    "averageWeight": "1.379",
+    "boardGameRank": "3209",
+    "mechanics": [
+      "Connections",
+      "Hand Management"
+    ],
+    "categories": [
+      "Educational",
+      "Travel"
+    ],
+    "designers": [
+      "Alan R. Moon",
+      "Aaron Weissblum"
+    ]
+  }
+}

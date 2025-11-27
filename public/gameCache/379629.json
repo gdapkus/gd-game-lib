@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:57:00.505Z",
+  "gameDetails": {
+    "id": "379629",
+    "name": "Knarr",
+    "type": "boardgame",
+    "description": "In Knarr, you are the leader of a band of Vikings that you send to new destinations. Manage the recruitment of your crew, and choose the best territories to explore. Depending on the destinations reached (for trading or influence) and the Vikings who accompany you, you can increase your reputation to gain even more wealth. Each turn, you:\n\n\n     Place a new member in your Viking crew, activate the effects of all of them with the same icon, and get another one from those available under the matching color on the central board, or\n\n\n\n     Explore new destinations, with the opportunity to trade with those places and get more gains or reputation.\n\n\n",
+    "image": "https://cf.geekdo-images.com/PaYRAlezMGDlLt8LXmR_sQ__original/img/9nndYkVCIDsSHM3CmuiLk-0WCHk=/0x0/filters:format(png)/pic7857343.png",
+    "thumbnail": "https://cf.geekdo-images.com/PaYRAlezMGDlLt8LXmR_sQ__small/img/9BXSosnE91-b8tHUEz3Qgfr0aAo=/fit-in/200x150/filters:strip_icc()/pic7857343.png",
+    "link": "https://boardgamegeek.com/thing/379629",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.47743",
+    "averageWeight": "1.9171",
+    "boardGameRank": "527",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Race",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Thomas Dupont"
+    ]
+  }
+}

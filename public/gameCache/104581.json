@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:59:37.764Z",
+  "gameDetails": {
+    "id": "104581",
+    "name": "Panic on Wall Street!",
+    "type": "boardgame",
+    "description": "In Panic on Wall Street! you take on the role of a freewheeling capitalist out to outmaneuver your competitors and earn your place as a great industrialist.\n\nPlayers are divided into managers and investors. Your goal is to earn more money than any other manager (if you are a manager) or more money than any other investor (if you are a investor) by the end of the fifth round.\n\nEach round managers and investors negotiate with each other in a noisy, two-minute free-for-all to set a purchase price for shares in the managers' companies. Investors then collect income from the shares they purchased but not until a roll of the dice brings (sometimes drastic) changes to the economy, with major consequences for the balance sheet of each player. Managers collect what they are owed from investors, pay fees for each of their companies, and buy new companies at auction.\n\nAfter five rounds of play (5 months), the manager and the investor who have accumulated the most money are each declared victors, the undisputed masters of commerce.\n\nPanic on Wall Street! is the new edition of Masters of Commerce. See 'More Information' below for differences between the two editions.\n\n\n",
+    "image": "https://cf.geekdo-images.com/jQEMo8O-n8pzrwn1UY1P6g__original/img/kp5lochXDYh06e6kSpXvm-z67VQ=/0x0/filters:format(jpeg)/pic9030754.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jQEMo8O-n8pzrwn1UY1P6g__small/img/hvBNi3f12imMLhq55cUUDPPTamc=/fit-in/200x150/filters:strip_icc()/pic9030754.jpg",
+    "link": "https://boardgamegeek.com/thing/104581",
+    "minPlayers": "3",
+    "maxPlayers": "11",
+    "yearPublished": "2011",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      7,
+      11
+    ],
+    "averageRating": "6.98423",
+    "averageWeight": "1.6733",
+    "boardGameRank": "2590",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Dice Rolling",
+      "Player Elimination",
+      "Real-Time",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Economic",
+      "Negotiation",
+      "Real-time"
+    ],
+    "designers": [
+      "Britton Roney"
+    ]
+  }
+}

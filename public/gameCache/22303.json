@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:50:59.385Z",
+  "gameDetails": {
+    "id": "22303",
+    "name": "Celebrities",
+    "type": "boardgame",
+    "description": "Celebrities is a public domain game in which each player writes the names of celebrities (about 8) on pieces of paper or cards, one per piece of paper or card.  The names are placed in a container, and players are assigned partners randomly (there must be an even number of players).\n\nThe first player pulls names out of the container one at a time and tries to get their partner to say the name on the paper by giving whatever clues they like, without saying the actual name on the paper.  If their partner get a name right, they keep the paper; everything else goes back in the container.  Each player has only 30 seconds.  The names are passed to the next person, who repeats the process, and so on, with the names going around the table, and everyone getting chances to give clues and to guess, until all of the names are guessed.  Teams score one point for each name guessed.  All of the names are put back in the container, and a second round begins.\n\nIn the second round, the clue giver can give only one word clues for each name (with whatever other sounds or charades they like), and the guesser can guess only once.  The round is played similar to the first round in everything else, and the names go back to the container at the end again, for a third round.\n\nIn the third round, no words at all are allowed for the clue giver; only charades and sounds (humming tunes) is allowed.\n\nThe team with the highest total score from the three rounds is the winner.\n\nThe game was packaged commercially as Celebrity and Time's Up! in 1999, and Monikers in 2015.\nAlso known non-commercially as Salad Bowl or Fish Bowl.\n\n",
+    "image": "https://cf.geekdo-images.com/OjM30p5gHUvvua61SZFuhQ__original/img/3Vx70TEKnUQS3jQ5SDtYCFqUioA=/0x0/filters:format(jpeg)/pic228349.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OjM30p5gHUvvua61SZFuhQ__small/img/-sBk4hX4-KTTYmb8BRj6VUHLxFc=/fit-in/200x150/filters:strip_icc()/pic228349.jpg",
+    "link": "https://boardgamegeek.com/thing/22303",
+    "minPlayers": "4",
+    "maxPlayers": "30",
+    "yearPublished": "0",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "7.25077",
+    "averageWeight": "1.1818",
+    "boardGameRank": "5746",
+    "mechanics": [
+      "Acting",
+      "Memory",
+      "Paper-and-Pencil",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:24:50.906Z",
+  "gameDetails": {
+    "id": "143515",
+    "name": "Coal Baron",
+    "type": "boardgame",
+    "description": "Coal Baron &ndash; or Gl&uuml;ck Auf in German, after a greeting German miners use when wishing one another luck &ndash; has players sending miners underground to dig tunnels and acquire coal, which comes in four levels of quality and is used to fulfill contracts.\n\nThe game lasts three rounds, and in each round players take turns placing their workers on action spaces; you can place on a space occupied by another player, but you need to place additional workers in order to do so. Each player has an individual elevator shaft, and will need to use workers to extract coal and bring it to the surface, while also competing for contracts and scrounging for cash in order to do everything else that needs to be done!\n\n",
+    "image": "https://cf.geekdo-images.com/7D9-gGeosFC8rsYQo2u3qg__original/img/yXvsyL4AY3oB93qdwXQ3LwxJQ_k=/0x0/filters:format(jpeg)/pic7264142.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7D9-gGeosFC8rsYQo2u3qg__small/img/5c0bcDM4FKEhHrl3RHl_jRP2V1k=/fit-in/200x150/filters:strip_icc()/pic7264142.jpg",
+    "link": "https://boardgamegeek.com/thing/143515",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "75",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.26576",
+    "averageWeight": "2.5327",
+    "boardGameRank": "862",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Contracts",
+      "Pick-up and Deliver",
+      "Set Collection",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Industry / Manufacturing",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ]
+  }
+}

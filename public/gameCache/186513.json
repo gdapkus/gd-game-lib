@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:38:06.357Z",
+  "gameDetails": {
+    "id": "186513",
+    "name": "Scattered at Sea",
+    "type": "boardgame",
+    "description": "You were aboard the yacht \"Northern Pride\", which a small group of friends had chartered for a party that night off the shores of New England. The group asked the Captain to take the boat way out to sea, away from any lights so they could party under the stars and maybe see the Northern Lights put on a show. When the boat set out, it was a clear, pleasant evening and the sea was calm. The Captain did mention something about a possible storm front that was due to move in early the next morning.\n\nFor hours, the party aboard the boat had enjoyed themselves. Then someone noticed the stars had all disappeared, and the stillness of the sea was quickly turning into gale force winds. The storm front had moved in faster than anyone could have expected. A sudden microburst tore the boat to pieces, plunging you all into the sea.\n\nNow you all find yourselves sitting atop a piece of the boat, bobbing in the water, somewhere in the Atlantic Ocean. Scattered in the water all around you, are pieces and debris from the boat. As it all happened so fast, the Captain had no chance to radio for help. You realize it may be some time before you are rescued, and you will need to survive until then.\n\nTo survive (and win the game) you must find a flotation device, a signaling device, a water source, and a food source. To find your survival tools, you will have to swim around searching the sea for floating parts. You might even have to might have to steal parts from others, or withhold parts from them to save yourself.\n\nSurvive being awash at sea by using deduction, hand management and memory.\n\nThis game uses cards as boat pieces, and floating debris. It comes with 6 player tokens to move from card (boat piece or swim card) to card. Each turn you have 2 strokes to move. As the game progresses it takes more strokes to move as the pieces are drifting further apart.\n\n",
+    "image": "https://cf.geekdo-images.com/FwiEIYv9SYqq3mYBsZB98w__original/img/C7UoHGvsV2q0B04v5iKFoesLUBA=/0x0/filters:format(png)/pic2738523.png",
+    "thumbnail": "https://cf.geekdo-images.com/FwiEIYv9SYqq3mYBsZB98w__small/img/r5aYM7QTKJzx47LINbsbnXbV3-E=/fit-in/200x150/filters:strip_icc()/pic2738523.png",
+    "link": "https://boardgamegeek.com/thing/186513",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2015",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "7",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Memory",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Nautical"
+    ],
+    "designers": [
+      "Nancy Hutchins"
+    ]
+  }
+}

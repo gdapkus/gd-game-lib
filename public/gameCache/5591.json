@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T19:33:28.761Z",
+  "gameDetails": {
+    "id": "5591",
+    "name": "Clue Jr.: The Case of the Hidden Toys",
+    "type": "boardgame",
+    "description": "Clue Jr. The Case of the Hidden Toys is a game specifically designed for ages 5 to 8.\n  \nWhich pet has hidden which toy in the doghouse? That's the mystery! Pets love to hide in funny places. And they love to hide kids' toys.  It's up to you and the Clue Jr. Detectives (Johnny Green, Vivienne Scarlett, Peter Plum and Liz Peacock) to find them.  Search all the hiding spots, check out all the kids, and solve the mystery - which changes every time you play!\n\nBased on the original Clue Game that your family loves\n\n",
+    "image": "https://cf.geekdo-images.com/S9UUhgwmr1FQwGxoVXDYDw__original/img/9vrNlc8pnOHEgKCJzoDbNvlQEeU=/0x0/filters:format(jpeg)/pic213089.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/S9UUhgwmr1FQwGxoVXDYDw__small/img/7DH4oiyLfdNrh0GVnJS4MqM3Yh8=/fit-in/200x150/filters:strip_icc()/pic213089.jpg",
+    "link": "https://boardgamegeek.com/thing/5591",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1996",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "4.68662",
+    "averageWeight": "1.1875",
+    "boardGameRank": "28993",
+    "mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Point to Point Movement",
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Children's Game",
+      "Deduction",
+      "Dice"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

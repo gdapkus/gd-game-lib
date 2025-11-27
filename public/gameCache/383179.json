@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T19:31:21.963Z",
+  "gameDetails": {
+    "id": "383179",
+    "name": "Age of Innovation",
+    "type": "boardgame",
+    "description": "Age of Innovation is a standalone game set in the world of Terra Mystica.\n\nTwelve factions, each with unique characteristics, populate this world of varying terrains. Here you will compete to erect buildings and merge them into cities. Each game allows you to create new combinations of factions, homelands, and abilities so that each game isn't the same as another.\n\nYou control one of these factions and will terraform the game map's terrain into your homelands where you can erect your buildings. Proximity to other factions may limit your expansion, but it also gains you significant advantages in the game. This tension adds to the appeal of the Terra Mystica series.\n\nUpgrade your buildings to gain valuable resources such as tools, scholars, money, and power. Build schools to advance in different sciences and collect books, which you can use to make innovations. Build your palace to gain a powerful new ability or build workshops, guilds, and universities to complete your culture.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__original/img/1vY0K3wSqlYXq0JEylSI-7agxKs=/0x0/filters:format(jpeg)/pic7430993.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__small/img/0yBK_DMaSgRVrp2fGuNPgb0Jo7w=/fit-in/200x150/filters:strip_icc()/pic7430993.jpg",
+    "link": "https://boardgamegeek.com/thing/383179",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "200",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "200",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.49345",
+    "averageWeight": "4.2619",
+    "boardGameRank": "54",
+    "mechanics": [
+      "Contracts",
+      "End Game Bonuses",
+      "Hexagon Grid",
+      "Income",
+      "Modular Board",
+      "Network and Route Building",
+      "Tech Trees / Tech Tracks",
+      "Turn Order: Pass Order",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Fantasy",
+      "Territory Building"
+    ],
+    "designers": [
+      "Helge Ostertag"
+    ]
+  }
+}

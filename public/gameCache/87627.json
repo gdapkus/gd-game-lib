@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:00:27.663Z",
+  "gameDetails": {
+    "id": "87627",
+    "name": "Railways of Mexico",
+    "type": "boardgameexpansion",
+    "description": "It is mid-19th century Mexico.  As more and more railroad companies emerge in the US, the transportation of goods is at an all-time high.  trading between countries is booming, and Mexico is ready to develop its rail system for transportation of goods to the USA.\n\nCan you be the first to build the best rail system south of the border and control the Railways of Mexico?\n\nComponents:\nMexico gameboard\nRailroad Baron and Railroad Operation cards for the Mexico map\nRules\nScoreboard\n\nThis expansion will be included in the revised edition of the Railways of the World base game (scheduled for release at the end of 2010), but will also be available separately as a self-contained expansion for owners of Railroad Tycoon and of the first edition of Railways of the World.\n\n",
+    "image": "https://cf.geekdo-images.com/qUAas3wN9lNi4lr7VFfx8g__original/img/qXhfCJlQpsLfTfBMSLW3llSkzwY=/0x0/filters:format(jpeg)/pic708619.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qUAas3wN9lNi4lr7VFfx8g__small/img/VsVP46b2cutiZZBX5RTM54e7Nxo=/fit-in/200x150/filters:strip_icc()/pic708619.jpg",
+    "link": "https://boardgamegeek.com/thing/87627",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.72083",
+    "averageWeight": "2.7812",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Sean Brown",
+      "Jason Spears",
+      "Bobby Warren"
+    ]
+  }
+}

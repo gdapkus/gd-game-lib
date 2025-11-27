@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:25:10.008Z",
+  "gameDetails": {
+    "id": "16875",
+    "name": "Darter",
+    "type": "boardgame",
+    "description": "Darter is a quick strategy boardgame in which the players place tiles to affect the movement of 'darters', trying to destroy their opponent's base while protecting their own.\n\nThere are two categories of tiles; Impact tiles, which alter the course of the darter when struck; and Proximity tiles, which affect the darter when it passes through the tile's active squares.\n\nDarter was showcased at GenCon SoCal 2004.\n\nRe-implemented by:\n\n    Dragons of Kir\n\n\n",
+    "image": "https://cf.geekdo-images.com/Pr_bEkYogDPC_bFfOXk_PA__original/img/CQZnnh9B-9xYdZaetWE0B2wExns=/0x0/filters:format(jpeg)/pic77502.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Pr_bEkYogDPC_bFfOXk_PA__small/img/6FmiFeM2rRjURFImHIeK8KGME1I=/fit-in/200x150/filters:strip_icc()/pic77502.jpg",
+    "link": "https://boardgamegeek.com/thing/16875",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2004",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.6475",
+    "averageWeight": "2",
+    "boardGameRank": "19709",
+    "mechanics": [],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Dove Byrne",
+      "Jason Conkey"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:05:09.782Z",
+  "gameDetails": {
+    "id": "156",
+    "name": "Wildlife Adventure",
+    "type": "boardgame",
+    "description": "In Wildlife Adventure, players guide expeditions around the world to locate endangered species. Each player gets to extend one expedition on their turn, and travel vouchers allow the player to make extra moves, place obstacles, or change their mission. The game ends when one player locates all of his animals.\n\nReimplemented as\n\n\n     Expeditions: Around the World\n     Schatzsucher (children's version)\n     Expedition: Famous Explorers\n\n\n",
+    "image": "https://cf.geekdo-images.com/5K6nKzyg5H9qJMz5tLNEEA__original/img/lX9ks4ulIZbzSTB_9cbktaJ1mVE=/0x0/filters:format(jpeg)/pic7096.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5K6nKzyg5H9qJMz5tLNEEA__small/img/05d6bP0SUBLTMPnbjPqxbLRQk6A=/fit-in/200x150/filters:strip_icc()/pic7096.jpg",
+    "link": "https://boardgamegeek.com/thing/156",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1985",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.82911",
+    "averageWeight": "1.8814",
+    "boardGameRank": "4971",
+    "mechanics": [
+      "Network and Route Building",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Animals",
+      "Exploration",
+      "Transportation"
+    ],
+    "designers": [
+      "Wolfgang Kramer",
+      "Ursula Kramer"
+    ]
+  }
+}

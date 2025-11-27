@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:53:10.711Z",
+  "gameDetails": {
+    "id": "7637",
+    "name": "The Fall of France",
+    "type": "boardgame",
+    "description": "The Fall of France: The Campaign of France, 1940 is a two-player game recreating the German Blitzkrieg in France and the Low Countries in the spring of 1940.\n\nAt 16 miles per hex, the maps cover France, the Low Countries, southern England, Switzerland, northern Italy, and western Germany. Each player controls the air and ground forces committed to the invasion or defense of the west.  Naval units are not used in the game and are included for Europa purposes. Air units are based on groups of about 40 aircraft; naval units represent flotillas of destroyers and individual capital ships and cruisers; ground units are scaled at divisions, brigades, regiments, and battalions.\n\nThe rules use the basic Europa game mechanics as a framework, with specialized rules covering the historical situation in detail such as movement, combat, air power, supply, fortifications, gliders, naval evacuation, and the Maginot Line.\n\nGame Components:\n\n    Two 21\" x 27\" Maps (Europa maps 16 & 17)\n    Eight dual-side printed full-size countersheets (#23-30) and one dual-side printed half-size countersheet (#31)  (2040 i/2\" counters)\n    A Complete Set of Rules\n    One Chart Set:\n        French Order of Battle\n        British Order of Battle\n        Belgian Order of Battle\n        Dutch Order of Battle\n        Swiss Order of Battle\n        German Order of Battle\n        Italian Order of Battle\n        French Unit ID Chart\n        Turn Record/Replacement Chart\n        Europa Corps Marker Display (x3)\n        French Unit Breakdown Chart\n        German Unit Breakdown Chart\n        CRT/Terrain Effects Chart (x2)\n    \n    One Europa VIII Supplement:\n        French mobilization and reinforcements\n        British forces on the continent\n        Belgian mobilization and reinforcements\n        Dutch mobilization and reinforcements\n        Swiss armed forces and reinforcements\n        French Unit Breakdown Chart\n    \n    One Die\n\n\n\n\nSee Game wiki",
+    "image": "https://cf.geekdo-images.com/8DbvVhCPsRYuwd1B62XBNQ__original/img/Mu7PUUiVa8wetGBxxhNY9RzIeDI=/0x0/filters:format(jpeg)/pic7893474.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8DbvVhCPsRYuwd1B62XBNQ__small/img/hFFbfmEao5PXOuasrIX5A8w9ZLk=/fit-in/200x150/filters:strip_icc()/pic7893474.jpg",
+    "link": "https://boardgamegeek.com/thing/7637",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1981",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.93843",
+    "averageWeight": "4.1",
+    "boardGameRank": "11299",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "John Astell"
+    ]
+  }
+}

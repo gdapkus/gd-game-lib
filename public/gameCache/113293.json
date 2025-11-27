@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:23:51.784Z",
+  "gameDetails": {
+    "id": "113293",
+    "name": "Article 27: The UN Security Council Game",
+    "type": "boardgame",
+    "description": "Article 27: The United Nations Security Council Game gets its title from &ndash; yes, you guessed it &ndash; Article 27 of the United Nations Charter, which includes these two provisions:\n\n1. Each member of the Security Council shall have one vote.\n2. Decisions of the Security Council on procedural matters shall be made by an affirmative vote of nine members.\n\nIn this negotiation game, each player represents one member of the UN Security Council and will both present and be presented with different proposals.\n\nIn each round, one player acts as the UN Secretary General, presents a proposal to the Council and presides over a negotiation period that lasts no more than five minutes. The proposal will affect five issues &ndash; military, currency, etc. &ndash; in various ways, and each player has a secret document for the round that tells him how a change in each issue will affect him. All players openly negotiate on what they need in terms of points and bribes in order to vote for that proposal.\n\nAfter at most five minutes, the Secretary General closes negotiations by banging his wooden gavel, then players vote yes or no on the proposal. Any \"no\" vote kills the proposal, as in the United Nation's actual Security Council &ndash; but vetoing a proposal costs a player points, so he might prefer to look for deals that will enable him to say \"yes\". The Secretary General scores a bonus when his proposal succeeds, so he and others who will benefit might be willing to negotiate to make the proposal sweet for all.\n\nAfter each player has served as Secretary General once (twice in a three-player game), each player scores based on bribe money on hand, points scored from proposal cards, and how well the player fulfilled the secret agenda card he received at the start of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/kyB2tDm5oTwjXzG_H0UW6g__original/img/ruPmR8ar7QVgffA2C_WPrJwiEmg=/0x0/filters:format(jpeg)/pic1309420.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kyB2tDm5oTwjXzG_H0UW6g__small/img/1xOJs8f92Rvn_y00wPfhq8JeiXI=/fit-in/200x150/filters:strip_icc()/pic1309420.jpg",
+    "link": "https://boardgamegeek.com/thing/113293",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2012",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.44179",
+    "averageWeight": "2.1071",
+    "boardGameRank": "5046",
+    "mechanics": [
+      "Trading",
+      "Voting"
+    ],
+    "categories": [
+      "Bluffing",
+      "Negotiation",
+      "Political"
+    ],
+    "designers": [
+      "Dan Baden"
+    ]
+  }
+}

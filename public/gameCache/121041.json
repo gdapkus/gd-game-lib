@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:08:00.945Z",
+  "gameDetails": {
+    "id": "121041",
+    "name": "Pluckin' Pairs",
+    "type": "boardgame",
+    "description": "Pluckin' Pairs embodies the same spirit as the classic party game Compatibility in that you want to match images with other players in order to score points, but the game play is more free form with everyone competing individually instead of in teams.\n\nAt the start of a round, eleven images are laid out on the table. All players secretly pair off images &ndash; say, coins and a manhole cover because they're both round, or a mirror and a building because they both reflect light &ndash; and write these pairs on their player sheet. One image will be leftover as the outcast.\n\nAfter everyone has finished, you compare your pairs with those of other players. If no one &ndash; or conversely if everyone &ndash; created the same pair as you, you score no points for that pair. If only some of the players created that pair, each of those players scores as many points as the number of players who record the pair. (You can optionally compare outcast images as well, scoring points based on who had the same outcast as you.) The player with the most points after a certain number of rounds wins.\n\n",
+    "image": "https://cf.geekdo-images.com/DVdB_n1B1VvZmqQk4WcQ_g__original/img/RW-NjiFMeU0e8C4TNTiKXDUnjiM=/0x0/filters:format(jpeg)/pic1245374.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DVdB_n1B1VvZmqQk4WcQ_g__small/img/jgHYRMmUVnl5Zby57JKyN3zZPcU=/fit-in/200x150/filters:strip_icc()/pic1245374.jpg",
+    "link": "https://boardgamegeek.com/thing/121041",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2012",
+    "playingTime": "50",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "50",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "6.77397",
+    "averageWeight": "1.0769",
+    "boardGameRank": "4435",
+    "mechanics": [
+      "Simultaneous Action Selection",
+      "Storytelling",
+      "Voting"
+    ],
+    "categories": [
+      "Party Game"
+    ],
+    "designers": [
+      "Stephen Glenn"
+    ]
+  }
+}

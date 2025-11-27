@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T21:01:28.599Z",
+  "gameDetails": {
+    "id": "132959",
+    "name": "Sentinels of the Multiverse: Shattered Timelines",
+    "type": "boardgameexpansion",
+    "description": "Game description from the publisher:\n\nSentinels of the Multiverse: Shattered Timelines features two new time-traveling heroes, four villains (some of which may be familiar to Sentinels fans), and two time-displaced environments! Besides just expanding the number of characters and environments available to players, Shattered Timelines introduces new mechanisms and exciting new challenges. Can you repair time before it runs out?!\n\nHeroes\nChrono-Ranger\nOmnitron-X\n\nVillains\nIron Legacy\nKismet\nLa Capitan\nThe Dreamer\n\nEnvironments\nTime Cataclysm\nThe Block\n\n",
+    "image": "https://cf.geekdo-images.com/G1bmPT9ae-zUxvVHuCHdTA__original/img/eSbOC1uY6erpfyH_WWRYTXpST2o=/0x0/filters:format(jpeg)/pic6975859.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/G1bmPT9ae-zUxvVHuCHdTA__small/img/UCydEXS3V7sUGqAc9zTHJzWD42w=/fit-in/200x150/filters:strip_icc()/pic6975859.jpg",
+    "link": "https://boardgamegeek.com/thing/132959",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2013",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.11094",
+    "averageWeight": "2.4423",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Christopher Badell",
+      "Paul Bender",
+      "Adam Rebottaro",
+      "Alex Franklin",
+      "Bryan Graham",
+      "Ashley Wagner"
+    ]
+  }
+}

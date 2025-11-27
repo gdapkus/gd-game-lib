@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:58:37.055Z",
+  "gameDetails": {
+    "id": "378001",
+    "name": "Moon River",
+    "type": "boardgame",
+    "description": "Moon River uses the Kingdomino game system &mdash; but without dominoes.\n\nIn the game, you will build a personal landscape of tiles to score points, but instead of tiling dominoes in your landscape, the game uses half-dominoes in which one edge has a jigsaw puzzle-style connection. You combine two of these half puzzle pieces to craft your own dominoes. This mechanism is meant to provide more variability and randomization in each play.\n\nInstead of building your landscape around a central castle, you start from the river and expand away from it. Also, the crowns (i.e., the victory point multiplier) from Kingdomino are replaced by cow meeples, with players being able to use cowboys to move them.\n\n",
+    "image": "https://cf.geekdo-images.com/A9B6_CiPQhI4-H6S4VVgKA__original/img/5UH3N6Irvf0A88Ugllu_4PTdDFM=/0x0/filters:format(png)/pic7600249.png",
+    "thumbnail": "https://cf.geekdo-images.com/A9B6_CiPQhI4-H6S4VVgKA__small/img/0StXBbYNLHrWUxtrsDkKY7i0hRo=/fit-in/200x150/filters:strip_icc()/pic7600249.png",
+    "link": "https://boardgamegeek.com/thing/378001",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "6.63764",
+    "averageWeight": "2.0303",
+    "boardGameRank": "4485",
+    "mechanics": [
+      "Open Drafting",
+      "Take That",
+      "Tile Placement",
+      "Turn Order: Claim Action"
+    ],
+    "categories": [
+      "American West",
+      "Territory Building"
+    ],
+    "designers": [
+      "Bruno Cathala",
+      "Yohan Servais"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:04:58.592Z",
+  "gameDetails": {
+    "id": "5296",
+    "name": "Waterloo",
+    "type": "boardgame",
+    "description": "The classic The Avalon Hill Game Co game.\n\nFrom the box:\n\nRefight the last great campaign of Napoleon, in this fast-moving game of military strategy. Over 160 die-cut counters representing the massed armies of France, Prussia, and the Dutch Anglo-Allies maneuver and engage in combat on a full-color, 22\" x 28\" mapboard.\n\nAvalon Hill Complexity rating - 2\n\n",
+    "image": "https://cf.geekdo-images.com/v4QI8yIL9xjzhY-blWp7mw__original/img/FgtYV2fgvDiA0WKIpB-XGc-VrJk=/0x0/filters:format(jpeg)/pic274525.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/v4QI8yIL9xjzhY-blWp7mw__small/img/Z2u44Z0ZSKL5j0vYmUFjg9FyUX8=/fit-in/200x150/filters:strip_icc()/pic274525.jpg",
+    "link": "https://boardgamegeek.com/thing/5296",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1962",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.93386",
+    "averageWeight": "2.1864",
+    "boardGameRank": "12313",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Ratio / Combat Results Table"
+    ],
+    "categories": [
+      "Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "Lindsley Schutz",
+      "Thomas N. Shaw"
+    ]
+  }
+}

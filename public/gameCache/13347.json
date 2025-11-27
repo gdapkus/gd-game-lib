@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:59:49.427Z",
+  "gameDetails": {
+    "id": "13347",
+    "name": "Plunder",
+    "type": "boardgame",
+    "description": "Captain your own pirate ship and explore the seas to Plunder other vessels and seek hidden treasure while avoiding storms, ghost ships and the dreaded kraken. An adventurous, fast-paced pirating escapade for the whole family!\n\nFinally - the pirate game that gets it right! Plunder is the card game which combines the many elements of \"euro-style\" games, boyhood adventure, and actual history into a fast-paced escapade about the pirate's life!\n\n- A big game in a little box: cards are laid out to form a different map-board each game. Combines the best features of card and board games.\n\n- New mechanics for strategic randomization, with no dice. Each card has a number which may be played to add to different ratings.\n\n- Multiple paths to victory: plunder ships, explore strange coast lands, and trade goods between ports.\n\n- Combines history (actual nationalities, ports, and ships) with fantastical elements (from the dreaded kraken to the lure of mermaids).\n\nDescription edited from text from the publisher.\n\nExpanded by:\n\n     Plunder: The Commodore's Game\n\n\n",
+    "image": "https://cf.geekdo-images.com/bAHEuNBSIghk_h2uwiwREw__original/img/GKIw3taFL4hUPowGBxQPriO4oRY=/0x0/filters:format(jpeg)/pic82155.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bAHEuNBSIghk_h2uwiwREw__small/img/_g_fqPynbbnEhpCkVD8stxuuWNc=/fit-in/200x150/filters:strip_icc()/pic82155.jpg",
+    "link": "https://boardgamegeek.com/thing/13347",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.14172",
+    "averageWeight": "2.1869",
+    "boardGameRank": "8324",
+    "mechanics": [
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Exploration",
+      "Pirates"
+    ],
+    "designers": [
+      "Karl Lepp",
+      "Julianne Lepp"
+    ]
+  }
+}

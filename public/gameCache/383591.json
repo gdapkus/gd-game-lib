@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T19:31:48.160Z",
+  "gameDetails": {
+    "id": "383591",
+    "name": "Darwin's Journey: Animal Companion",
+    "type": "boardgameexpansion",
+    "description": "This mini-expansion includes 6 Animal Companion cards.  These helpful animals will give players an initial benefit during setup, as well as a one-time use action during the game.\n\nAnimal cards can be given to all player or just to newer players who want assistance while competing against more experienced players.\n\nInclude inside Darwin's Journey: Collector's Edition and was available as an add-on during the Kickstarter campaign for those backing at the base game only pledge level.\n\n",
+    "image": "https://cf.geekdo-images.com/Ce-UOr9UjDkSnZz_tnYVlw__original/img/ARPwUgmcbHYfQHgwwg_eqsF8fig=/0x0/filters:format(jpeg)/pic7704033.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ce-UOr9UjDkSnZz_tnYVlw__small/img/8oOQCggJZdDDwCNzsYFm21zJcBw=/fit-in/200x150/filters:strip_icc()/pic7704033.jpg",
+    "link": "https://boardgamegeek.com/thing/383591",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.98937",
+    "averageWeight": "1.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Contracts",
+      "Ownership",
+      "Point to Point Movement",
+      "Set Collection",
+      "Turn Order: Stat-Based",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone"
+    ]
+  }
+}

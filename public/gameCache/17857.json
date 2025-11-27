@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:23:32.176Z",
+  "gameDetails": {
+    "id": "17857",
+    "name": "18Scan",
+    "type": "boardgame",
+    "description": "18xx meets Scandinavia -- Railroads on Skis\n\nIntro from the manual: \"18Scan is an '18xx' game set in the Scandinavian peninsula of Northern Europe. It includes most of Norway, Sweden, Denmark, and Finland. 18Scan is a small game, in the style of Mark Derrick&rsquo;s 'one-state' games 18GA and 18AL, and is intended as a change from the more robust 18xx games often played.\"\n\nFrom the Designer Notes: \"This is my second attempt at a 'small, short' 18xx game: the first, 18VA, has matured -- alas! -- into a solid, medium-length performer, but has become quite unsuited for a quick 'fill-in-the-cracks' session. I am hoping that 18Scan will not only prove to be a better short game, but will be sufficiently straightforward that it can also be used as an introduction to the 18xx system.  In 18Scan, I hope to bring to the table a simple game, yet with some strategic options, and a forgiving game -- unlike, say, 1830: Railways & Robber Barons. At the same time, 18Scan has a number of subsystems (Minor Companies, a merger railroad, Destinations, various categories of trains) that provide a panoply of the wide variety within the 18xx gaming space.\"\n\n",
+    "image": "https://cf.geekdo-images.com/3rX29aq_Nm-rbt3UQ569HQ__original/img/KgjhqIjfUdoBHVJY85lY4p8Xvts=/0x0/filters:format(jpeg)/pic4560013.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3rX29aq_Nm-rbt3UQ569HQ__small/img/1YaiMNtUC7ZavEVMxbvV8jn3HGQ=/fit-in/200x150/filters:strip_icc()/pic4560013.jpg",
+    "link": "https://boardgamegeek.com/thing/17857",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.28686",
+    "averageWeight": "3.6538",
+    "boardGameRank": "6218",
+    "mechanics": [
+      "Network and Route Building",
+      "Stock Holding",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "David G. D. Hecht"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:49:22.909Z",
+  "gameDetails": {
+    "id": "5829",
+    "name": "Balkan Front",
+    "type": "boardgame",
+    "description": "Balkan Front is a detailed simulation of the Axis campaigns of conquest in the Balkans, from autumn 1940 to summer 1941. It covers the failed Italian invasion of Greece, the German blitzkrieg that overran Yugoslavia and Greece, and the German airborne assault on Crete.\n\nFirst (1990) Edition Game components: \n\n    Two maps (in two full sheets as 14A & 15B or six quarter sheets as 14A:NW, 14A:NE, 14A:SW, 14A:SE, and 15B:NW, & 15B:NE)\n    Four counter sheets (Europa 20A, 21A, 22A and Europa ACS-2 Sheet)\n    Rules booklet (includes Rules and Order of Battle)\n    Charts & Tables:\n        Victory Chart\n        Turn Record and Weather Table\n        Axis Game Chart\n        Allied Game Chart\n        Terrain Effects Chart/Combat Results Tables (x2)\n        Unit Identification Chart (x2)\n    \n    Two six-sided dices\n\n\nSecond (2002) Edition Game components:\nAS ABOVE, EXCEPT Rules and Charts printed \"2nd Edition\" AND:\n\n    Four counter sheets, totalling 1120 counters (Europa 20A-R, 21A-R, 22A-R and Europa Universal Marker Sheet) - dated 1999\n    Revised Order of Battle (20 pages) - dated 2000\n\n\n",
+    "image": "https://cf.geekdo-images.com/zGvc6hySMLb9-yQuyjfiCw__original/img/mAFcKgYgtfc6ulfoLb8_tkHPEsM=/0x0/filters:format(jpeg)/pic194379.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zGvc6hySMLb9-yQuyjfiCw__small/img/Ly9dIaKCMyGvO3CJkGXHip4F8pI=/fit-in/200x150/filters:strip_icc()/pic194379.jpg",
+    "link": "https://boardgamegeek.com/thing/5829",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "1990",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.04216",
+    "averageWeight": "3.8571",
+    "boardGameRank": "8914",
+    "mechanics": [
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "John Astell"
+    ]
+  }
+}

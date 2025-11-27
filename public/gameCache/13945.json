@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:08:31.803Z",
+  "gameDetails": {
+    "id": "13945",
+    "name": "Trivial Pursuit: 90's Time Capsule Edition",
+    "type": "boardgame",
+    "description": "Same old game--new categories: \n OOPS - Mistakes and mishaps\n WIRED - Technology and anything new\n VIEWING - The stuff you watched\n TRENDS - Fads, fashions, food and slang\n IMPORTANT - The hard news\n HANGING - Leisure time fun\n\n",
+    "image": "https://cf.geekdo-images.com/XEBg1upcl9a7_bGJdAINdQ__original/img/1A61Vnv3gZGK3xw5MtVkxLh-o2o=/0x0/filters:format(jpeg)/pic56693.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XEBg1upcl9a7_bGJdAINdQ__small/img/25NB14IFMZXD92uS-nfUisVdL9U=/fit-in/200x150/filters:strip_icc()/pic56693.jpg",
+    "link": "https://boardgamegeek.com/thing/13945",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.19446",
+    "averageWeight": "1.4038",
+    "boardGameRank": "29356",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Party Game",
+      "Trivia"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

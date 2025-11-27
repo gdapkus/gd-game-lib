@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:16:22.082Z",
+  "gameDetails": {
+    "id": "4920",
+    "name": "5th Fleet: Modern Naval Combat in the Indian Ocean",
+    "type": "boardgame",
+    "description": "5th Fleet is the fourth game in Victory Games (I) popular Fleet Series (including 2nd Fleet: Modern Naval Combat in the North Atlantic, 3rd Fleet: Modern Naval Combat in the North Pacific, Caribbean, and Atlantic Oceans, Sixth Fleet: Modern Naval Combat in the Mediterranean and 7th Fleet: Modern Naval Combat in the Far East). It examines the strengths and weaknesses of the Soviet and American navies, plus their respective allies, in the vast expanse of the Indian Ocean. Far from their home bases, each superpower's capital ships, attack submarines, and limited air assets must be protected from the devastating firepower of modern missile, torpedo, and bomb attacks while inflicting maximum damage on the enemy. The shifting military and political alliances in the area and the presence of the modern Indian Navy are variables that will strongly affect future war in these troubled waters. 5th Fleet, with its multitude of options and strategies, continues Victory Games (I) line of realistic simulations of modern naval combat.\n\n",
+    "image": "https://cf.geekdo-images.com/IjkXUh_QIAZjpTRsRpbvsw__original/img/vEj1yTIlO9u554_pb-sVOXCMkbA=/0x0/filters:format(jpeg)/pic149810.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/IjkXUh_QIAZjpTRsRpbvsw__small/img/1gfk5JCnHPgm10P8z1oUtgFvmC4=/fit-in/200x150/filters:strip_icc()/pic149810.jpg",
+    "link": "https://boardgamegeek.com/thing/4920",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1989",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.20814",
+    "averageWeight": "3.439",
+    "boardGameRank": "6282",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Modern Warfare",
+      "Wargame"
+    ],
+    "designers": [
+      "Joseph M. Balkoski"
+    ]
+  }
+}

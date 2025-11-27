@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:01:50.612Z",
+  "gameDetails": {
+    "id": "2065",
+    "name": "Shogi",
+    "type": "boardgame",
+    "description": "Of Japanese origins, Shogi is played on a 9 by 9 board, and the object is to capture the opponent's king. There are two main differences with Western chess. First, not only pawns but almost every piece can promote if it reaches the opponents three last rows. Second and most distinctive characteristic is that captured pieces become property of the capturing player and during his turn he can \"parachute\" or \"drop\" them back to the board instead of performing a normal move. Because of this feature, similar to Bughouse, the game can last longer than a Chess game, the board generally stays fairly crowded and there is no simplification going into the endgame. However, the endgame is typically more rapid with many possibilities for attack and ways to achieve a checkmate, which also makes draws/ties very rare.\n\nAccording to \"A World of Chess\" by Jean-Louis Cazaux & Rick Knowlton (2017, ISBN 978-0-7864-9427-9), Bishop, Rook and Drunk Elephant were introduced to the 9x9 Shogi creating Sho Shogi, the immediate predecessor of Shogi, in the middle of the 15th century. Modern Shogi where created with the introduction of the drop rule and the removal of the Drunk Elephant piece in Sho Shogi. This happened between 1567 and 1587 (earliest recording of modern Shogi). The latter date is based upon a picture in the diary of the samurai Matsudaira Ietada, dated 1587, which shows a game identical to the one of today.\n\n",
+    "image": "https://cf.geekdo-images.com/bDAUtRTr6gSaywKalCmsCA__original/img/k0YJB4MJKYpbH0woIULuk_uwaes=/0x0/filters:format(jpeg)/pic4348588.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bDAUtRTr6gSaywKalCmsCA__small/img/2Esbvkie_jGjPq3ABrQFJ85q6rM=/fit-in/200x150/filters:strip_icc()/pic4348588.jpg",
+    "link": "https://boardgamegeek.com/thing/2065",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1587",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.39079",
+    "averageWeight": "3.7917",
+    "boardGameRank": "1758",
+    "mechanics": [
+      "Grid Movement",
+      "Pattern Movement",
+      "Square Grid"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

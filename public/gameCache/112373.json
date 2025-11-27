@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:50:10.168Z",
+  "gameDetails": {
+    "id": "112373",
+    "name": "BraveRats",
+    "type": "boardgame",
+    "description": "BraveRats, first released as R, is a simple and short simultaneous action selection game for two that's played with cards. Both players have a hand of eight cards, numbered 0 to 7, with each card having a special power. Both players choose a card, then reveal them simultaneously. The highest card wins the round, and players play until someone has won four rounds. The cards' special powers greatly influence the game.\n\n",
+    "image": "https://cf.geekdo-images.com/2ez8PebxqA3cYpsO7hXA0g__original/img/f_rRIsF8IbGUB1wegYrsPx6Y5uc=/0x0/filters:format(jpeg)/pic5208405.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2ez8PebxqA3cYpsO7hXA0g__small/img/MvIwvNscfllnyGkgYRKkIOSruXM=/fit-in/200x150/filters:strip_icc()/pic5208405.jpg",
+    "link": "https://boardgamegeek.com/thing/112373",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2011",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.46416",
+    "averageWeight": "1.136",
+    "boardGameRank": "3071",
+    "mechanics": [
+      "Rock-Paper-Scissors",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Seiji Kanai"
+    ]
+  }
+}

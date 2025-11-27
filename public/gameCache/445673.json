@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-25T18:21:24.556Z",
+  "gameDetails": {
+    "id": "445673",
+    "name": "Lightning Train",
+    "type": "boardgame",
+    "description": "Steer your railway company through a land of strategic opportunity in the bag-building train game Lightning Train.\n\nBuild your bag to improve your company's resources, then place your chips to open stations and train lines across eight regions of North America. There's a fortune to be made by delivering goods to the cities that need them...but will you work together, or look to cut out the competition? Which stations do you need to secure a route to victory? How can the powerful lightning trains accelerate you past your rivals?\n\nPurchasing new chips opens up new strategic opportunities &ndash; but always at a cost! &ndash; and getting the most value out of the deliveries available requires balance and careful planning.\n\n",
+    "image": "https://cf.geekdo-images.com/zFwQQ8dyRdnLCt2usmnBfg__original/img/n9AwmgJL2KnAAZXKxyBcuUOP6_I=/0x0/filters:format(png)/pic9005043.png",
+    "thumbnail": "https://cf.geekdo-images.com/zFwQQ8dyRdnLCt2usmnBfg__small/img/4vSKbL_1UcpPBOacTNbl9avkPJ0=/fit-in/200x150/filters:strip_icc()/pic9005043.png",
+    "link": "https://boardgamegeek.com/thing/445673",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.28584",
+    "averageWeight": "3.0833",
+    "boardGameRank": "6714",
+    "mechanics": [
+      "Deck, Bag, and Pool Building"
+    ],
+    "categories": [
+      "Trains"
+    ],
+    "designers": [
+      "Paul Dennen"
+    ]
+  }
+}

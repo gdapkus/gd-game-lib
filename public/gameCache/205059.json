@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-11-26T20:13:36.248Z",
+  "gameDetails": {
+    "id": "205059",
+    "name": "Mansions of Madness: Second Edition",
+    "type": "boardgame",
+    "description": "Mansions of Madness: Second Edition is a fully co-operative, app-driven board game of horror and mystery for one to five players that takes place in the same universe as Eldritch Horror and Elder Sign. Let the immersive app guide you through the veiled streets of Innsmouth and the haunted corridors of Arkham's cursed mansions as you search for answers and respite. Eight brave investigators stand ready to confront four scenarios of fear and mystery, collecting weapons, tools, and information, solving complex puzzles, and fighting monsters, insanity, and death. Open the door and step inside these hair-raising Mansions of Madness: Second Edition. It will take more than just survival to conquer the evils terrorizing this town.\n\n",
+    "image": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__original/img/Go6c8-ZiXomS8E7X4MBCdDd-aZc=/0x0/filters:format(jpeg)/pic3118622.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__small/img/kwaa7aI2sMeyWV5JSRKcKrS5hC8=/fit-in/200x150/filters:strip_icc()/pic3118622.jpg",
+    "link": "https://boardgamegeek.com/thing/205059",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2016",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.92255",
+    "averageWeight": "2.6999",
+    "boardGameRank": "71",
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Map Addition",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Miniatures",
+      "Murder / Mystery",
+      "Mythology",
+      "Novel-based",
+      "Puzzle"
+    ],
+    "designers": [
+      "Nikki Valens"
+    ]
+  }
+}

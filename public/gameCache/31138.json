@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:23:47.951Z",
+  "gameDetails": {
+    "id": "31138",
+    "name": "Amazing Space Venture",
+    "type": "boardgame",
+    "description": "Amazing Space Venture is a clever tile and card-playing board game of intergalactic space exploration.\n\nYou are an astronaut in the future competing to discover the most valuable planets and biggest star systems in this exciting and delightful game that combines three familiar game mechanics into one elegant retro-60's gaming experience.   Strategic tile-placement, point-to-point movement, and clever use of cards enable you to build your own constantly expanding universe on a large-as-space-itself 23-1/2\" x 33\" game board.  Create and probe new galaxies, position and maneuver space ships and UFOs, build space stations, meet other space explorers, and discover distant planets with strange environments and mysterious life forms.  At any time, space pirates, black holes, supernovas, space monsters, and other special action events can help or hinder your efforts to become Lord of the Universe.  \nFor more information, contact Steve LeShay at 12412 SE 174th Loop, Summerfield, FL 34491 or via Shercogames@hotmail.com\n\n",
+    "image": "https://cf.geekdo-images.com/IFV5Txw4MgLjd9CfXR_y8g__original/img/iBCucpRaJCR11DiopqOqHzLZgtc=/0x0/filters:format(jpeg)/pic234515.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/IFV5Txw4MgLjd9CfXR_y8g__small/img/_ZyLgUXGNnwV2EFYaMU7-m7K0bM=/fit-in/200x150/filters:strip_icc()/pic234515.jpg",
+    "link": "https://boardgamegeek.com/thing/31138",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.72468",
+    "averageWeight": "2.2857",
+    "boardGameRank": "24625",
+    "mechanics": [
+      "Action Points",
+      "Hand Management",
+      "Role Playing",
+      "Team-Based Game",
+      "Tile Placement",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Humor",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Steve LeShay"
+    ]
+  }
+}

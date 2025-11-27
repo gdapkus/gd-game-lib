@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:38:13.114Z",
+  "gameDetails": {
+    "id": "126076",
+    "name": "Sheepdogs of Pendleton Hill",
+    "type": "boardgame",
+    "description": "In Sheepdogs of Pendleton Hill, each player takes the role of a sheepdog and uses card play to move flocks of sheep up the hill to the shepherds. The higher a player's sheep gets before meeting its shepherds, the more points he will score. The player who scores the most points wins.\n\nEach player has shepherds to place on the board and sheep to place into flocks and move. Flocks often contain sheep from many players and cooperation can be key to moving a flock into an advantageous position. But how long will this helpful, peaceful pastoral scene last when the cards require players to take actions for other players which can include placing opponents' shepherds in lower scoring areas and moving flocks that do not contain their own sheep?And a hungry wolf ever lurks in the background...\n\nA deck of cards is used by the players to take actions such as placing shepherds, putting sheep into flocks, moving flocks of sheep, and moving the wolf. It is these cards, with their requirement to manipulate other players' pieces, that drive the decisions the players must make in the game and guarantee a high level of interaction among players. Each player also has a Sheepdog wild card for use once per game.\n\n",
+    "image": "https://cf.geekdo-images.com/HVbnGHJ-8FRuuTM4k29fQQ__original/img/mk93O-z3IjUXxWbu2noEGShXsCQ=/0x0/filters:format(jpeg)/pic1365197.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HVbnGHJ-8FRuuTM4k29fQQ__small/img/d3nnnkPjbGHTYLJbyI19p7iXkr0=/fit-in/200x150/filters:strip_icc()/pic1365197.jpg",
+    "link": "https://boardgamegeek.com/thing/126076",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.03358",
+    "averageWeight": "1.8947",
+    "boardGameRank": "16427",
+    "mechanics": [
+      "Action Points",
+      "Hand Management",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Animals"
+    ],
+    "designers": [
+      "Max Michael"
+    ]
+  }
+}

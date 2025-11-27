@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:17:45.396Z",
+  "gameDetails": {
+    "id": "183880",
+    "name": "Risk: Star Wars Edition",
+    "type": "boardgame",
+    "description": "This Risk: Star Wars Edition game lets players re-create the dramatic final moments of Star Wars: Return of the Jedi. Featuring gameplay for 2 or 4 players across a TIE fighter-shaped gameboard, players can determine the fate of the Star Wars universe through 3 concurrent (yet distinct) battles. Choose to play as either the Rebel Alliance or the Galactic Empire, and use the classic Risk dice to control characters and ships. The object of the game is to defend or destroy the Death Star. Which side will win: the Galactic Empire or the Rebel Alliance?\n\nRules Clarification\n\n",
+    "image": "https://cf.geekdo-images.com/K54XDlW9-vq8ozr1ye-PLg__original/img/QnG1h8_h__CtapJDRnUX1r992rQ=/0x0/filters:format(jpeg)/pic4915114.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/K54XDlW9-vq8ozr1ye-PLg__small/img/akHr3vPigU1WlLxwruXseIKuuj8=/fit-in/200x150/filters:strip_icc()/pic4915114.jpg",
+    "link": "https://boardgamegeek.com/thing/183880",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.98818",
+    "averageWeight": "1.8649",
+    "boardGameRank": "1392",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "James D'Aloisio",
+      "Austin Rucker",
+      "Craig Van Ness"
+    ]
+  }
+}

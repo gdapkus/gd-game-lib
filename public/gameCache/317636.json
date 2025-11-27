@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:18:31.420Z",
+  "gameDetails": {
+    "id": "317636",
+    "name": "Windward: Treacherous Skies",
+    "type": "boardgameexpansion",
+    "description": "The Windward: Treacherous Skies expansion adds many new elements to the game: a third level of elevation, scout boats for all players to use alongside their ships, world-building events, a pirate-style faction, contract mini-quests, team play, and more. All of these elements come together to open the door to countless new paths to victory.\n\n-description from designer\n\n",
+    "image": "https://cf.geekdo-images.com/GaGLS13QdYulQ3X-BxSkWw__original/img/vGXfc0A9wxRHQS3y3nduuTmLIRo=/0x0/filters:format(jpeg)/pic6063657.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GaGLS13QdYulQ3X-BxSkWw__small/img/UoLAlWeCPjNPQwVWNOn73AMW7j8=/fit-in/200x150/filters:strip_icc()/pic6063657.jpg",
+    "link": "https://boardgamegeek.com/thing/317636",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2021",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.50556",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Events",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Daniel Aronson"
+    ]
+  }
+}

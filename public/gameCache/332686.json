@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:37:14.665Z",
+  "gameDetails": {
+    "id": "332686",
+    "name": "John Company: Second Edition",
+    "type": "boardgame",
+    "description": "In John Company, players assume the roles of ambitious families attempting to use the British East India Company for personal gain. The game begins in the early eighteenth-century, when the Company has a weak foothold on the subcontinent. Over the course of the game, the Company might grow into the most powerful and insidious corporation in the world or collapse under the weight of its own ambition.\n\nJohn Company is a game about state-sponsored trade monopoly. Unlike most economic games players often do not control their own firms. Instead, they will collectively guide the Company by securing positions of power, attempting to steer the Company&rsquo;s fate in ways that benefit their own interests. However, the Company is an unwieldy thing. It is difficult to do anything alone, and players will often need to negotiate with one another. In John Company, most everything is up for negotiation.\n\nUltimately, this game isn&rsquo;t about wealth; it&rsquo;s about reputation. Each turn some of your family members may retire from their Company positions, giving them the opportunity to establish estates. Critically, players do not have full control over when these retirements happen. You will often need to borrow money from other players to make the best use for a chance of retirement. Players also gain victory points by competing in the London Season for prestige and securing fashionable properties.\n\nJohn Company engages very seriously with its theme. It is meant as a frank portrait of an institution that was as dysfunctional as it was influential. Accordingly, the game wrestles many of the key themes of imperialism and globalization in the eighteenth and nineteenth centuries and how those developments were felt domestically. As such, this game might not be suitable for all players. Please make sure everyone in your group consents to this exploration before playing.\n\nThe second edition is extensively revised and is not a reprint.\n\n&mdash;description from designer\n\n",
+    "image": "https://cf.geekdo-images.com/TAdE4z_bwAAjJlmPrkmKhA__original/img/V5wLvuhU3mKNr6PUf1cxyeemh00=/0x0/filters:format(jpeg)/pic6601629.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TAdE4z_bwAAjJlmPrkmKhA__small/img/pwgtQn8ArKjwBxk3bnDuIVAPWgU=/fit-in/200x150/filters:strip_icc()/pic6601629.jpg",
+    "link": "https://boardgamegeek.com/thing/332686",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "240",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "8.27262",
+    "averageWeight": "4.4617",
+    "boardGameRank": "215",
+    "mechanics": [
+      "Bribery",
+      "Dice Rolling",
+      "Negotiation",
+      "Push Your Luck",
+      "Simulation",
+      "Voting"
+    ],
+    "categories": [
+      "Economic",
+      "Educational",
+      "Negotiation",
+      "Political"
+    ],
+    "designers": [
+      "Cole Wehrle"
+    ]
+  }
+}

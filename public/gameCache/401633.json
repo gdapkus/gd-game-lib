@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:53:57.491Z",
+  "gameDetails": {
+    "id": "401633",
+    "name": "Frisian Landscapes (fan expansion to Fields of Arle)",
+    "type": "boardgameexpansion",
+    "description": "New specific needs emerged, and the Arle community has great expectations on you. Will you carry out an intensive farming activity? Will you be the best builder? Will you be a good horse breeder? Craft your strategy following three common goals and find your way to success!\n\nFields of Arle: Frisian Landscapes is a Fields of Arle print-and-play expansion fully compatible with any other existing expansion of the base game.\n\nThe development of this expansion has taken place with the permission of the original publisher Feuerland Spiele.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/MWw9QV5abzemDVQDpKyYhA__original/img/BvGi0UFi6kbQCdLdkT92fUP4I9M=/0x0/filters:format(jpeg)/pic8519188.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MWw9QV5abzemDVQDpKyYhA__small/img/WyD4rPQQhbAp800i_vSSARbdc8A=/fit-in/200x150/filters:strip_icc()/pic8519188.jpg",
+    "link": "https://boardgamegeek.com/thing/401633",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "yearPublished": "2024",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "9.2963",
+    "averageWeight": "3.2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "End Game Bonuses",
+      "Set Collection",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fan Expansion",
+      "Economic",
+      "Farming",
+      "Industry / Manufacturing",
+      "Print & Play"
+    ],
+    "designers": [
+      "Enrico Mazzardi"
+    ]
+  }
+}

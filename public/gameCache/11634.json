@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:58:14.621Z",
+  "gameDetails": {
+    "id": "11634",
+    "name": "Mexican Train",
+    "type": "boardgame",
+    "description": "Mexican Train is a fairly recently developed variation of Domino train type games that has become extremely popular.  Because of its simplicity and interaction,  it can be played by nearly anyone, anywhere.  Depending on the type of game you play, it can last from a single, 20-minute game to a 12 round game lasting hours.\n\nAlthough Mexican Train can be played with a standard set of Dominos, branded versions usually include a range of parts to facilitate play and highlight the theme, such as a train station, train pieces to mark players' trains and the \"Mexican train\", and a \"woo woo!\" train whistle.  It is typically played with a set of double 12 dominoes (although double 6 and double 9 sets can be used with fewer players), and there are a variety of sets packaged by various manufactures as \"Mexican Train Dominoes\" that include all the necessary components to play.\n\nA double-twelve domino set has 91 tiles. The goal is for the players to get rid of their dominoes. Starting with the highest double tile placed in the middle of the table, which is the station, each player creates a line of dominoes. This is their train. Another train, the \"Mexican Train,\" can be played on by anyone. In the event that a player cannot play at all, even after drawing a new tile, she must place a marker (often little colored plastic trains that come with the game) on their train which allows others to play on her train temporarily until the marker is removed.\n\nAs soon as one player is out of dominoes, the other players add up the value of their remaining tiles. At the end of the evening, the player with the lowest score is the winner.\n\n",
+    "image": "https://cf.geekdo-images.com/VFt5NUiI65V-pYP-e7uNeg__original/img/u5lKg9Z14NFo4no6BeWNaP1MjZA=/0x0/filters:format(jpeg)/pic117397.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VFt5NUiI65V-pYP-e7uNeg__small/img/UqXyaH9c8TDRvcsGZF2A5MkDroY=/fit-in/200x150/filters:strip_icc()/pic117397.jpg",
+    "link": "https://boardgamegeek.com/thing/11634",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "yearPublished": "1994",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.81422",
+    "averageWeight": "1.2453",
+    "boardGameRank": "7555",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Trains"
+    ],
+    "designers": [
+      "Roy Parsons",
+      "Katie Parsons"
+    ]
+  }
+}

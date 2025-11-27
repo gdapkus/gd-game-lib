@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T21:14:48.103Z",
+  "gameDetails": {
+    "id": "256999",
+    "name": "Project: ELITE",
+    "type": "boardgame",
+    "description": "In Project: ELITE, players are members of the ELITE squad on a mission to stop the invading forces of an alien empire. Stopping the invasion requires players to speedily roll dice as they take part in real-time, two-minute combat rounds against waves of terrifying enemies. Once the ELITE members take their turn, the aliens react. The game continues in this fast-yet-tactical series of rounds until the scenario is won or the aliens take the Earth.\n\nThis new edition of Project: ELITE will have new art, new miniatures, new card designs, new weapons, new ELITE members, new enemies, and more.\n\n",
+    "image": "https://cf.geekdo-images.com/5vp2W-DZ7waaaeZBFGF7LA__original/img/4KJD90WghLzp4Z4UNjDMsUDf6jA=/0x0/filters:format(jpeg)/pic5740623.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5vp2W-DZ7waaaeZBFGF7LA__small/img/dd42jLxcgnHlvZdd0EOt8JZcUDI=/fit-in/200x150/filters:strip_icc()/pic5740623.jpg",
+    "link": "https://boardgamegeek.com/thing/256999",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.93792",
+    "averageWeight": "2.4923",
+    "boardGameRank": "684",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Elapsed Real Time Ending",
+      "Grid Movement",
+      "Line of Sight",
+      "Real-Time",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Fighting",
+      "Miniatures",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Konstantinos Kokkinis",
+      "Marco Portugal",
+      "Sotirios Tsantilas"
+    ]
+  }
+}

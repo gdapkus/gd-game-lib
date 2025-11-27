@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:56:29.085Z",
+  "gameDetails": {
+    "id": "15393",
+    "name": "Jacks",
+    "type": "boardgame",
+    "description": "Played with 10 \"jacks\" and a small rubber ball.  Players take turns.  On a player's turn, he must first throw the jacks onto the floor.  If any of the jacks land so that they are stacked on top of each other, he forfeits his turn.  Otherwise, he begins to pick the jacks up in groups.  He throws the ball up in the air, and must pick up a group and catch the ball after exactly one bounce.  A player must first succeed in picking up all 10 jacks one at a time in a single turn.  Then he attempts to pick up the jacks two at a time, then in groups of three, and continuing on until he must pick up all 10 jacks in one group.  If at any time, the player picks up the wrong number of jacks, touches any jacks not in the group, or fails to catch the ball, his turn is over.  On his next turn, he will try again, starting with the same grouping.\n\n",
+    "image": "https://cf.geekdo-images.com/s4UtfT5JU43_2iDKnx5nHg__original/img/TlpU00uP60Ps1x80dXaSD-ifAKg=/0x0/filters:format(jpeg)/pic268047.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/s4UtfT5JU43_2iDKnx5nHg__small/img/mnPhkQzg4CecUgoVDL53OI9JXNc=/fit-in/200x150/filters:strip_icc()/pic268047.jpg",
+    "link": "https://boardgamegeek.com/thing/15393",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "0",
+    "playingTime": "1",
+    "minPlayingTime": "1",
+    "maxPlayingTime": "1",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "3.79728",
+    "averageWeight": "1.1034",
+    "boardGameRank": "29535",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity",
+      "Ancient",
+      "Bluffing",
+      "Children's Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

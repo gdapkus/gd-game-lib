@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:58:05.764Z",
+  "gameDetails": {
+    "id": "122890",
+    "name": "Mercante",
+    "type": "boardgame",
+    "description": "A city as large and crowded as Tempest depends on the daily arrival of supplies and foodstuffs, and the wealthiest echelons of society demand the latest goods and luxuries almost as frequently. Domination of this bustling trade is the ultimate goal of every merchant house in the city.\n\nIn Mercante, you control one of these merchant houses. Deploy your trusted agents to purchase goods from arriving ships and sell them into the most profitable markets. You must also do more &ndash; from \"enticing\" senators to outright skulduggery &ndash; to claim your rightful place at the pinnacle of Tempest's merchant class. Do you have the business acumen and ruthlessness required to claw your way to the top?\n\nDesigned for 3&ndash;5 players, Mercante is a game of economic warfare. At the beginning of the game, each player controls one warehouse and two agents. On each turn, goods are purchased at auction and stored in the warehouse to be sold at the various markets when the time is right.\n\nPlayers compete to accumulate crowns to finance their operations, and senatorial favors (victory points) to win the game. The player who accumulates the most money and favors will control all trade and profit in the City-State of Tempest!\n\nNumber 2 in the Tempest Shared World Game Series\n\n",
+    "image": "https://cf.geekdo-images.com/lqzh9vps1-AcwHKntu6qfw__original/img/xChmPxTGFP4-bX1_6cl5kIRlMrA=/0x0/filters:format(jpeg)/pic1355950.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lqzh9vps1-AcwHKntu6qfw__small/img/3BNfz-YLo40VxTgpF_86MPGnF4Y=/fit-in/200x150/filters:strip_icc()/pic1355950.jpg",
+    "link": "https://boardgamegeek.com/thing/122890",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.54187",
+    "averageWeight": "2.8571",
+    "boardGameRank": "7534",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Open Drafting",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Renaissance"
+    ],
+    "designers": [
+      "Jeff Tidball"
+    ]
+  }
+}

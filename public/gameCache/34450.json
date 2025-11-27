@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:13:20.261Z",
+  "gameDetails": {
+    "id": "34450",
+    "name": "Bluff",
+    "type": "boardgame",
+    "description": "Content:\n1 board,\n5 pawns,\n1 Buddha, \n1 block, \n60 playing cards\n\nThe idea of the game:\nTo reach the buddha with one pawn, and if this pawn is the secret favorite of one player, the game is over.\n\nIn the left upper corner the 5 pawns of the agents were located.\nAt the field with the star the buddha is placed. \nEach player gets around 15 cards.\nThe players write down secretly which of the pawns will reach the buddha. The motor of the game are the palyed cards.\n\n",
+    "image": "https://cf.geekdo-images.com/aEN-dk5q7dc7gKMBcL1OiQ__original/img/r1i3jZD2B-iGkAQMPYUjTrUV05Q=/0x0/filters:format(jpeg)/pic299546.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aEN-dk5q7dc7gKMBcL1OiQ__small/img/2aRUqz9PNyUMYK0G6c9nUxiI1Rw=/fit-in/200x150/filters:strip_icc()/pic299546.jpg",
+    "link": "https://boardgamegeek.com/thing/34450",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1973",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "6.53313",
+    "averageWeight": "1",
+    "boardGameRank": "11672",
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Card Game",
+      "Dice"
+    ],
+    "designers": [
+      "Henri Sala"
+    ]
+  }
+}

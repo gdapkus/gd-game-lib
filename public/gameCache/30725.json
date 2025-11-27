@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:23:42.640Z",
+  "gameDetails": {
+    "id": "30725",
+    "name": "Age of Steam Expansion: Montréal Métro",
+    "type": "boardgameexpansion",
+    "description": "1962: The city of Montreal's population booms to over 1 million people, and the city stands on the verge of international recognition. By the conclusion of the next decade, Montreal will host both the World's Fair, and the Summer Olympics. In the present, Mayor Jean Drapeau recognizes the immediate need for mass transit, a subway system.\n\nThis Age of Steam expansion puts players in the role of government planners, building the Metro, and transporting passengers on the island of Montreal. Unique features present in this map include neutral track (Government Links) and a new split level Locomotive, to take advantage of that track. Montreal was designed with the explicit, and sole goal of supporting the 3 player scale, and has several changes to enhance the play for that number of players. It is intended for experienced Age of Steam players.\n\n",
+    "image": "https://cf.geekdo-images.com/0kjOPWF67JJFTrzdg5DbCA__original/img/R9XB4T7FjGMvOLw5NoA7QE_80Rk=/0x0/filters:format(jpeg)/pic759002.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0kjOPWF67JJFTrzdg5DbCA__small/img/vwisQr1avYPRxGYLWxLxNfcmuC0=/fit-in/200x150/filters:strip_icc()/pic759002.jpg",
+    "link": "https://boardgamegeek.com/thing/30725",
+    "minPlayers": "3",
+    "maxPlayers": "3",
+    "yearPublished": "2007",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.29841",
+    "averageWeight": "3.7143",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Michael Webb"
+    ]
+  }
+}

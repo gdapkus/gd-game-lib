@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:38:01.245Z",
+  "gameDetails": {
+    "id": "422233",
+    "name": "Radlands: Cult of Chrome",
+    "type": "boardgameexpansion",
+    "description": "Crash through enemy gates in chariots of chrome!\n\nThis high-octane expansion introduces 32 new camps that bring devastating combos, clutch play, and endless replayability for the aspiring Radlands diesel-head.\n\nThis pack also features 10 rebalanced replacement camps to shift your existing copy of Radlands into high gear.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/J0c5LvGfmLF_d5miCaXbIQ__original/img/twAMWWozwOuEKJbN3d_uEOBsY_k=/0x0/filters:format(png)/pic8235293.png",
+    "thumbnail": "https://cf.geekdo-images.com/J0c5LvGfmLF_d5miCaXbIQ__small/img/e9eQf5rV-CyzolBIVA9NttB8UaI=/fit-in/200x150/filters:strip_icc()/pic8235293.png",
+    "link": "https://boardgamegeek.com/thing/422233",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2024",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.5387",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Action Queue",
+      "Hand Management",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Daniel Piechnick"
+    ]
+  }
+}

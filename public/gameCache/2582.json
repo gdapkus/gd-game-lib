@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:31:39.659Z",
+  "gameDetails": {
+    "id": "2582",
+    "name": "Catch Phrase!",
+    "type": "boardgame",
+    "description": "Quick, rattle off as many clues until somebody on your team yells the word or phrase you want to hear.  Get as physical as you want.  Gesture. Say anything you want.  Just keep talking.  And keep passing.  'Cause if the buzzer goes off while you're holding the disk, the other guys get the point in CATCH PHRASE... the fast-passing, fast-talking game.\n\n",
+    "image": "https://cf.geekdo-images.com/Ttbcf-bpqawNpqB5zp28Gw__original/img/XgN8KXO7nxRhY00wxCbPF0AJy4w=/0x0/filters:format(jpeg)/pic173485.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ttbcf-bpqawNpqB5zp28Gw__small/img/vIhhvmQ9F6w1wtfYkKMK7PH8Bjc=/fit-in/200x150/filters:strip_icc()/pic173485.jpg",
+    "link": "https://boardgamegeek.com/thing/2582",
+    "minPlayers": "4",
+    "maxPlayers": "16",
+    "yearPublished": "1994",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6,
+      10,
+      12
+    ],
+    "averageRating": "6.34479",
+    "averageWeight": "1.142",
+    "boardGameRank": "3736",
+    "mechanics": [
+      "Hot Potato"
+    ],
+    "categories": [
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "Craig Clark Williamson"
+    ]
+  }
+}

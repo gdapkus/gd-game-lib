@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:12:24.803Z",
+  "gameDetails": {
+    "id": "339182",
+    "name": "Marvel United: X-Men – Kickstarter Promos Box",
+    "type": "boardgameexpansion",
+    "description": "This set contains all the exclusive stretch goals unlocked during the Kickstarter, including a box to store everything.\n\nHeroes (34):    \n\n        Blink\n        Boom-Boom\n        Captain Britain\n        Cloak\n        Dagger\n        Dazzler\n        Doop\n        Fantomex\n        Feral \n        Firestar\n        Gwenpool\n        Havok\n        Kitty Pride\n        Longshot\n        Magik\n        Mirage\n        Multiple Man\n        Nightcrawler\n        Phoenix\n        Pixie\n        Polaris\n        Strong Guy\n        Sunfire\n        Sunspot\n        Warlock\n        Warpath\n        Weapon X\n        Wolfsbane\n        X-23\n\n\n(Alpha Flight team)\n\n        Guardian\n        Puck\n        Northstar\n        Sasquatch\n        Snowbird\n\n\n    \nAnti-heroes (5):    \n\n        Emma Frost\n        Legion\n        Marrow\n        Namor\n        Spiral\n\n\n    \nVillains (15):    \n\n        Arcade\n        Avalanche\n        Brood Queen\n        Blob, Pyro, Toad (Brotherhood of Evil Mutants)\n        Callisto\n        Dark Phoenix\n        Deathbird\n        Lady Deathstrike\n        Mastermind\n        Mojo\n        Omega Red\n        Onslaught\n        Sauron\n        The Shadow King\n        Silver Samurai\n\n\n",
+    "image": "https://cf.geekdo-images.com/qxrye93orsxWSnZIou6_BQ__original/img/KzZOZXTn7qsknICcNpBo6um95Us=/0x0/filters:format(jpeg)/pic7365037.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qxrye93orsxWSnZIou6_BQ__small/img/Q1Nhlm_kiKMmREbySn_J6iQw2Og=/fit-in/200x150/filters:strip_icc()/pic7365037.jpg",
+    "link": "https://boardgamegeek.com/thing/339182",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.77684",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

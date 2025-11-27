@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:28:31.166Z",
+  "gameDetails": {
+    "id": "10659",
+    "name": "Hex Hex",
+    "type": "boardgame",
+    "description": "This is a card game that forces a Hex token around the table between players. In this respect, it's sort of a game of Hot Potato. Whoever can't get rid of the Hex token by using his cards \"blows up,\" thus losing points. Naturally, there are nuances to this. There are 17 different cards in the deck, some which merely pass the Hex token left, right, and across, while others split the token in two, or increase it's damage. One dismisses it entirely. One blows it up while in another player's possession. One forces the token to pass in only one direction, some cause extra effects if the token DOES blow up on you. A round ends when there are no more Hex tokens available, and there are as many rounds as there are players, plus one.\n\nThere are some interesting strategies that are not immediately apparent, but which become obvious after the first couple of rounds. Controlling when the last token blows up is very important since you lose and gain points based on this, so learning to play the cards to force the location of the tokens when they blow up is of paramount importance. Sending them to a player who has no cards to play works very well for this.\n\nScores are kept with individual cards monitoring \"Voice\", which is just points. How many you have at the end of the x+1 rounds determines who the winner is.\n\nOne last amusing thing about the game is a bit of chaos tossed in; a Hex Hex card; when it's played, all players have to drop their card hands and put their hands in the air. The slowpoke loses points. Not exactly strategy, but still entertaining.\n\nIntegrates with:\n\n    Hex Hex Next\n\n\nReimplemented by:\n\n    Hex Hex XL\n\n\n",
+    "image": "https://cf.geekdo-images.com/htibdX4BUeQxMhIx_Z3zoA__original/img/TbUG3Z7Vfyk_hFonDECetbPMYp0=/0x0/filters:format(jpeg)/pic463733.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/htibdX4BUeQxMhIx_Z3zoA__small/img/4q81p56vZUSdjI4shikqjmKHuig=/fit-in/200x150/filters:strip_icc()/pic463733.jpg",
+    "link": "https://boardgamegeek.com/thing/10659",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2003",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "5.83159",
+    "averageWeight": "1.2892",
+    "boardGameRank": "11052",
+    "mechanics": [
+      "Hand Management",
+      "Real-Time"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Humor",
+      "Real-time"
+    ],
+    "designers": [
+      "Curt Covert"
+    ]
+  }
+}

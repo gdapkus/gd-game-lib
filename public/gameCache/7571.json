@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:05:14.297Z",
+  "gameDetails": {
+    "id": "7571",
+    "name": "Winds of Plunder",
+    "type": "boardgame",
+    "description": "Set in the Caribbean at a time when pirates have naught to fear but each other, Winds of Plunder allows 3-5 players to compete for Victory Points (VP) by a variety of means: plundering ports, spreading their fierce reputations in the Caribbean isles, finding buried Treasure, and boarding their opponents. Randomly placed VP tiles dictate the value of each port and the location of Treasure Maps, while a unique tile rotation system helps keep game play fresh. Weapons, Crew, and Provisions may also be found in the various ports, each of which confers its own Advantages during the game and translates to VP's in the end. Action cards enhance a player's ability to gain plunder or to forestall his opponents. Wind Cubes permit players to vie over control over the winds that guide movement and the order of play for each game round. But the clock is ticking on the days of easy piracy! The game lasts 9 rounds, or approximately 60-120 minutes.\n\nAll materials are marked \"Copyright 2006.\" However, the game was not released until May 2007.\n\n",
+    "image": "https://cf.geekdo-images.com/QRRaUH2GxP14kkP1fE-7mw__original/img/An_Ye5sAT97Fhlm3XT8FffpKmj4=/0x0/filters:format(jpeg)/pic1188010.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QRRaUH2GxP14kkP1fE-7mw__small/img/mRCe6eNU1367837hRXHWDa73pbk=/fit-in/200x150/filters:strip_icc()/pic1188010.jpg",
+    "link": "https://boardgamegeek.com/thing/7571",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2007",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.41205",
+    "averageWeight": "2.3707",
+    "boardGameRank": "5899",
+    "mechanics": [
+      "Action Points",
+      "Auction / Bidding",
+      "Take That",
+      "Voting"
+    ],
+    "categories": [
+      "Pirates"
+    ],
+    "designers": [
+      "Al Newman"
+    ]
+  }
+}

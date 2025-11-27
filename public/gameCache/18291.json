@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-11-26T20:32:44.948Z",
+  "gameDetails": {
+    "id": "18291",
+    "name": "Unpublished Prototype",
+    "type": "boardgame",
+    "description": "This entry is here to allow those users who track their games played on the Geek to include unpublished games that either (A) the designer does not care to have publicly discussed or (B) are not finished enough that it makes sense to add them to the Geek.\n\nPhotos, files, reviews, or session reports should be submitted under a specific game entry (or a user gallery), not here.\n\n",
+    "image": "https://cf.geekdo-images.com/hSJ5e5rrA3xar3I5QAvQWw__original/img/jG057MQdmfv1pKmSA8HnH2yKXX4=/0x0/filters:format(jpeg)/pic116113.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hSJ5e5rrA3xar3I5QAvQWw__small/img/WW_zVT4tzUpo72P2sN3LvpoDEE8=/fit-in/200x150/filters:strip_icc()/pic116113.jpg",
+    "link": "https://boardgamegeek.com/thing/18291",
+    "minPlayers": "0",
+    "maxPlayers": "0",
+    "yearPublished": "0",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.70243",
+    "averageWeight": "2.5641",
+    "boardGameRank": "4005",
+    "mechanics": [],
+    "categories": [],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

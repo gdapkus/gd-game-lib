@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:16:41.435Z",
+  "gameDetails": {
+    "id": "284616",
+    "name": "Small Samurai Empires",
+    "type": "boardgame",
+    "description": "Small Samurai Empires is an action-programming area-control game for 2-4 players, where players are fighting for control of Japan with their armies of Samurai!\n\nA game of Small Samurai Empires is played in 3 Eras, each consisting of 2 rounds. Each round, players will take turns placing order tokens facedown on one of the slots available in the 4 regions of Japan. When all players have placed their tokens and filled all the token slots, they will be revealed and resolved one by one by the owner of the token. These order tokens will enable the players to recruit mighty Samurai armies, move their armies to conquer provinces, build castles to defend and maintain control of their provinces and do other meaningful actions.\n\nAt the end of each of the three Eras, players will score points depending on the regions they control and their value, which can change during as the game progresses. Finally, the player with the most points at the end of the game is the winner!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/__CKQIPmwiNsl9B4mVRZSQ__original/img/k5BZdiBz4pbxBPvijED5ukIaBOQ=/0x0/filters:format(jpeg)/pic4843663.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/__CKQIPmwiNsl9B4mVRZSQ__small/img/HkFBXHvVXtGP1ZRToTo3JTM5FM0=/fit-in/200x150/filters:strip_icc()/pic4843663.jpg",
+    "link": "https://boardgamegeek.com/thing/284616",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.58108",
+    "averageWeight": "2.76",
+    "boardGameRank": "2757",
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Area Movement",
+      "End Game Bonuses",
+      "Order Counters"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Medieval"
+    ],
+    "designers": [
+      "Milan Tasevski"
+    ]
+  }
+}

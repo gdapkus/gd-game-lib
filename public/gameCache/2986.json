@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:19:07.776Z",
+  "gameDetails": {
+    "id": "2986",
+    "name": "Web and Starship",
+    "type": "boardgame",
+    "description": "\"Web and Starship\" is a strategic space wargame, in which Earth is caught between two races. The Gwynhyfarr, who roam the galaxy in faster-than-light starships, and the Pereen, who link their planets together in a trans-dimensional \"web\" which permits instantaneous movement from one system to another. Earth is weak and lies directly between its two opponents, but its society is vigorous and expanding. They can use technologies of both other races.\n\nThe game is unique as it is practically the only balanced three player wargame in existence. Other three player games usually quickly degenerate into two players ganging up on the third.\n\nIt is also one of the precious few interstellar wargames that use a reasonably accurate three-dimensional star map.\n\n",
+    "image": "https://cf.geekdo-images.com/_uA0PScWx2rXnWWzNvuQbw__original/img/OGyd6urmPQ9UM1sP3_akTp_M740=/0x0/filters:format(jpeg)/pic976898.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_uA0PScWx2rXnWWzNvuQbw__small/img/08T8iL9FyfywalG8vDWvsPLnTi4=/fit-in/200x150/filters:strip_icc()/pic976898.jpg",
+    "link": "https://boardgamegeek.com/thing/2986",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "1984",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.40849",
+    "averageWeight": "3.4375",
+    "boardGameRank": "13798",
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "Movement Template",
+      "Network and Route Building",
+      "Point to Point Movement",
+      "Ratio / Combat Results Table",
+      "Simulation"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Greg Costikyan",
+      "Doug Kaufman"
+    ]
+  }
+}

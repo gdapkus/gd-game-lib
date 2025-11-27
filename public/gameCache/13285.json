@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:52:25.993Z",
+  "gameDetails": {
+    "id": "13285",
+    "name": "Dungeonville",
+    "type": "boardgame",
+    "description": "From the designers:\n\nDungeonville is a dungeoneering card game for 2 to 5 players. The players take the roles of mad wizards who own the five dungeons surrounding Dungeonville. You recruit parties of adventurers and send them into the dungeons, earning points by defeating other parties in combat and by killing other players' characters in your own dungeon. The life expectancy of the adventurers is measured in minutes, and gold only gets used for hiring more saps to die on your behalf.\n\n",
+    "image": "https://cf.geekdo-images.com/X5EfFo-cJSrYGfzH5DwYUQ__original/img/JK8xWt-O3Wnpu4Rcj-E00-05T_Q=/0x0/filters:format(jpeg)/pic91906.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X5EfFo-cJSrYGfzH5DwYUQ__small/img/4i0HayV0Rhrb4yj4NnYht1y7abA=/fit-in/200x150/filters:strip_icc()/pic91906.jpg",
+    "link": "https://boardgamegeek.com/thing/13285",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2004",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "4.89177",
+    "averageWeight": "1.3913",
+    "boardGameRank": "29262",
+    "mechanics": [
+      "Open Drafting",
+      "Push Your Luck",
+      "Secret Unit Deployment"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Economic",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "James Ernest",
+      "Mike Selinker"
+    ]
+  }
+}

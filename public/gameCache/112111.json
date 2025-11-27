@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:05:30.083Z",
+  "gameDetails": {
+    "id": "112111",
+    "name": "Xodd",
+    "type": "boardgame",
+    "description": "Xodd is a drawless connection and territory game for two players: Black and White. It is played on the intersections (points) of an initially empty square grid (board). The suggested board size is between 9&times;9 and 14&times;14. Both players must have access to a sufficient supply of black and white stones.\n\nBlack plays first, then turns alternate. On your turn, pass or place one or two stones of any colors on empty points. On their first turn, Black can only place one stone. At the end of your turn, there must be an odd number of groups on the board. A group is an entire set of orthogonally interconnected stones of the same color. A single stone, not connected to others of its color, is also a group.\n\nWhen both players pass in succession, the game ends, and the player with fewer groups on the board wins.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tNotesDouble placement serves as both a first-move equalizer and a way to make the game playable under the group restriction rule.\n\nApart from the intended goal of eliminating draws (they would be common otherwise), forcing an odd number of groups at the end of a turn has some tactical implications that lend the game a loose single-placement feel. For example, groups separated by two empty points cannot be merged on a single turn, as the player would need another placement to restore the group count to an odd number. Also, the diagonal connection is safe if the opponent has exactly one or three groups touching the two empty points adjacent to both stones, and unsafe otherwise.\n\nEndgames are also quite tricky under this rule: you will often want to merge two of your own groups or create another enemy group, but you will be unable to do so because you can no longer restore the group count to an odd number.\n\n",
+    "image": "https://cf.geekdo-images.com/FGHiDneUCiWUhj5gUK6bjQ__original/img/CHbcWQtQpm7J9B4YZjaFdqq4jiE=/0x0/filters:format(png)/pic1142202.png",
+    "thumbnail": "https://cf.geekdo-images.com/FGHiDneUCiWUhj5gUK6bjQ__small/img/VGTEyYNCEuE5T6DQ-VvqdQPEego=/fit-in/200x150/filters:strip_icc()/pic1142202.png",
+    "link": "https://boardgamegeek.com/thing/112111",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2011",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.41313",
+    "averageWeight": "2.6667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Chaining",
+      "Connections",
+      "Paper-and-Pencil",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Print & Play"
+    ],
+    "designers": [
+      "Luis Bolaños Mures"
+    ]
+  }
+}

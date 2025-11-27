@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:55:37.545Z",
+  "gameDetails": {
+    "id": "69637",
+    "name": "Hermit",
+    "type": "boardgame",
+    "description": "In this Decktet trick-taking game, you're a hermit who tries to avoid having people follow you home. So are all of your opponents.\n\nThe daily life of the hermits is represented by tricks of cards, and there will typically be more than one trick in play at a time. The goal is to avoid taking tricks with personality cards in them. Tricks that don't have personalities in them don't matter one way or the other.\n\nThe above description is from the Decktet Book, where the game first appeared.\n\nHermit is a game akin to Hearts where players are attempting to avoid taking cards that are worth points. Rather than a single suit being avoided, Hermit requires that you do not win tricks which contain \"personality\" cards, one of the three sub-types of cards in the Decktet, which represent a person following you home and thus ruining your perfect life of solitude.\n\nRegardless of the number of players, tricks are played open to the table. On a player's turn they must add a card from their hand to a trick with the requirement that the card being played shares at least one suit with the last played card on that trick. If they cannot meet that requirement they must use a card to start a new trick. If the card they play is the highest rank in the trick the entire trick moves in front of them. Thus any new tricks always start in front of the player opening them.\n\nWhen a fourth card is added to a trick it is \"closed\" and the cards are captured by whomever the trick is in front of. If on a player's turn there are no available tricks, including the first turn of the game, each player simultaneously starts a new trick and that player then takes their turn, in effect allowing them to play two cards in a row. When the last player places their last card any unclosed tricks are discarded and each personality card taken counts its rank for scoring with Crowns being rank 10.\n\nWhen one player reaches a predetermined score, typically 66 or 100, or a certain number of deals are completed the game is over and the player with the fewest points is the loneliest and thus the winner.\n\nSpecial rules exist regarding Aces and Crowns as well as a Shoot the Moons/Suns variant, a \"House Party\" variant, and rules for 2-player Hermit games which incorporates a \"Cottage\" and laying off throughout the game.\n\n",
+    "image": "https://cf.geekdo-images.com/zNxmF_S5igzXpf7LzZTdQQ__original/img/4rojCt5Rc8qpn6ZfnFZraH3yd0c=/0x0/filters:format(png)/pic2357788.png",
+    "thumbnail": "https://cf.geekdo-images.com/zNxmF_S5igzXpf7LzZTdQQ__small/img/zSnHsrt6HoRy1fvGnTVEWe2Ja80=/fit-in/200x150/filters:strip_icc()/pic2357788.png",
+    "link": "https://boardgamegeek.com/thing/69637",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.5",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "P. D. Magnus"
+    ]
+  }
+}

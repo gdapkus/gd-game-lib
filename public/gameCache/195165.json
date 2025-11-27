@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T20:31:18.771Z",
+  "gameDetails": {
+    "id": "195165",
+    "name": "Saami",
+    "type": "boardgame",
+    "description": "Saami is a semi-cooperative game in which players need to eliminate threats while trying to improve their own personal position in the game.\n\n",
+    "image": "https://cf.geekdo-images.com/KQhn-M7tXWTtE733SLRYqw__original/img/Qo_1E6y5aJMH0MPF4h0CTN8iTA0=/0x0/filters:format(jpeg)/pic2925593.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KQhn-M7tXWTtE733SLRYqw__small/img/klzlW4Ul2qubpE2ZMI7MXfrfe94=/fit-in/200x150/filters:strip_icc()/pic2925593.jpg",
+    "link": "https://boardgamegeek.com/thing/195165",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "0",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "0",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Aaron Haag"
+    ]
+  }
+}

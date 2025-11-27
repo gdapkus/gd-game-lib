@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T20:54:28.368Z",
+  "gameDetails": {
+    "id": "20566",
+    "name": "Giseh!",
+    "type": "boardgame",
+    "description": "Intersting Connect Four 3D-variant with great looking material. Score as many rows with 4 marbles of your color as possible before the pyramid is completed. Simple rules, fast gameplay.\n\nObwohl es nur darum geht, w&auml;hrend des gem&auml;chlichen Aufbaus der Pyramide m&ouml;glichst viele Viererreihen mit der eigenen Farbe zu legen, ist es doch um so schwieriger, den &Uuml;berblick &uuml;ber die Kugeln des Spielgegners zu behalten. Durch die vielf&auml;ltigen Spielm&ouml;glichkeiten in der dritten Dimension wird man schneller ausgetrickst als man glauben will. Vorausschauendes Handeln und Konzentration sind gefragt. 204 Kugeln lang Spannung pur, bis die letzte Kugel gelegt ist - denn erst zum Schluss entscheidet sich, wer der wahre Giseh!-Meister ist.\n\nIndividuelles Design\nHier bleiben keine W&uuml;nsche offen! Wir bieten Ihnen nicht einfach nur ein Spiel an, sondern auch ein Designobjekt, das nicht nach jeder Spielrunde wieder in dem Karton verschwinden muss. Denn diese Spiele k&ouml;nnen sich sehen lassen! Durch ein erstklassiges Produktangebot stellen Sie Giseh! ganz individuell nach Ihren W&uuml;nschen zusammen.\n\nF&uuml;r drei oder vier Mitspieler k&ouml;nnen Sie ein Erweiterungsset bestellen.\n\n",
+    "image": "https://cf.geekdo-images.com/aGPl3WZXFYUhxJikrZB9BA__original/img/cy5xF3T_M3qACnrjqVPCJIgRlTo=/0x0/filters:format(jpeg)/pic6960710.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aGPl3WZXFYUhxJikrZB9BA__small/img/skMBlttPs6xibWCPXQ4dlN1qdwY=/fit-in/200x150/filters:strip_icc()/pic6960710.jpg",
+    "link": "https://boardgamegeek.com/thing/20566",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2001",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "6.30769",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Building"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Detlef Kessler"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:32:18.295Z",
+  "gameDetails": {
+    "id": "186864",
+    "name": "Tiefe Taschen",
+    "type": "boardgame",
+    "description": "In this game the players are corrupt politicians with the goal to grub as much money as possible. One player distributes money from the treasury. After intensive negotiations the players vote. If a majority votes against the proposed distribution the current president has to resign and another player becomes president. \n  \nBesides voting the players can also blackmail and bribe each other.\n\n",
+    "image": "https://cf.geekdo-images.com/LmiOQL4EVYnJX6J8OYQwtQ__original/img/cwjNLU0Ali27SK1nhwlQqquxa7E=/0x0/filters:format(jpeg)/pic3145019.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LmiOQL4EVYnJX6J8OYQwtQ__small/img/ajE6waGUrroo5e-6nWGLXh_95f0=/fit-in/200x150/filters:strip_icc()/pic3145019.jpg",
+    "link": "https://boardgamegeek.com/thing/186864",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2016",
+    "playingTime": "50",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "50",
+    "bestAtCount": [
+      7
+    ],
+    "averageRating": "7.16261",
+    "averageWeight": "1.5",
+    "boardGameRank": "4074",
+    "mechanics": [
+      "Bribery",
+      "Simultaneous Action Selection",
+      "Voting"
+    ],
+    "categories": [
+      "Bluffing",
+      "Negotiation",
+      "Party Game",
+      "Political",
+      "Print & Play"
+    ],
+    "designers": [
+      "Fabian Zimmermann"
+    ]
+  }
+}

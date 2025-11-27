@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:17:28.092Z",
+  "gameDetails": {
+    "id": "1669",
+    "name": "Mosby's Raiders: Guerilla Warfare in the Civil War",
+    "type": "boardgame",
+    "description": "\"Mosby's Raiders: Guerilla Warfare in the Civil War\" is an Operational level Solitaire board-wargame that puts you in command of the Partisan Rangers. Your mission is to infiltrate enemy lines to disrupt the Union War effort. As you succeed in your operations, your notoriety grows and the Union devotes additional troops to stopping you. You select the Union targets for your raids and decide which actions Mosby's Raiders will perform. You may be deep inside Union lines when the Union Army is alerted by your activities and begins to pursue your band.  As more Union troops join in the chase, you must either try to escape or stop to take on the Union units in combat. Events beyond your control may lead to Union sweeps that diminish your Confederate support or you may find yourself gaining unexpected reinforcements.\n\n",
+    "image": "https://cf.geekdo-images.com/ZNQWerboHj3FFd1WAWovCQ__original/img/FEv_I1bZikc4vLk0Y_uwM5I1Jls=/0x0/filters:format(jpeg)/pic992116.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZNQWerboHj3FFd1WAWovCQ__small/img/ncB-FDPLOl_2_BtZzbbzNTpBOBM=/fit-in/200x150/filters:strip_icc()/pic992116.jpg",
+    "link": "https://boardgamegeek.com/thing/1669",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "1985",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.66859",
+    "averageWeight": "2.5283",
+    "boardGameRank": "6147",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Events",
+      "Movement Points",
+      "Point to Point Movement",
+      "Ratio / Combat Results Table",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "American Civil War",
+      "Civil War",
+      "Post-Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "Eric Lee Smith"
+    ]
+  }
+}

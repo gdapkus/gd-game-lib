@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:55:51.047Z",
+  "gameDetails": {
+    "id": "14634",
+    "name": "Homeworlds",
+    "type": "boardgame",
+    "description": "In the game of Homeworlds, you take on the role of a space-faring civilization that has become embroiled in an epic, galaxy-wide struggle between good and evil. Good civilizations try to work together to eradicate evil, while evil civilizations crave only senseless destruction &mdash; but which players are good and which are evil? That's the ultimate question in this game of strategy, psychology, and diplomacy.\n\nStepping back from the setting, Homeworlds is a deep abstract strategy game of perfect information, resource management, and galactic war in which you try to destroy your opponent's homeworld before their space fleet reaches yours.\n\nOriginally, Homeworlds was played with a full sixty-pyramid (\"classic icehouse\") game set and could be played with 2&ndash;6 people. Multi-player Sinister Homeworlds and two-player Binary Homeworlds (Andy Looney's preferred variant) remove the good/evil roles, leaving the game as a perfect information abstract strategy game.\n\nIn 2020, the standalone game Homeworlds was released, with this being the original two-player Binary Homeworlds variant rules. This edition of the game contains 36 pyramids in four colors that each provide specific powers in the game: red for attack, yellow for movement, green for growth, and blue for transformation. Using just 36 pyramids, Homeworlds is actually a 4X (expand, explore, exploit, exterminate) conquest game.\n\nThis game is also included in Pyramid Arcade.\n\nHomeworlds FAQ\n\n",
+    "image": "https://cf.geekdo-images.com/QKi8FwahG4Mg-NA7MGnsuA__original/img/WLoQyktcpNix9A0HdO59dxblAK0=/0x0/filters:format(jpeg)/pic5241326.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QKi8FwahG4Mg-NA7MGnsuA__small/img/BzNX9TFEcPZBdgIycT6jIawaCMM=/fit-in/200x150/filters:strip_icc()/pic5241326.jpg",
+    "link": "https://boardgamegeek.com/thing/14634",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2001",
+    "playingTime": "60",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.52109",
+    "averageWeight": "3.3585",
+    "boardGameRank": "3372",
+    "mechanics": [
+      "Modular Board",
+      "Player Elimination",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "designers": [
+      "John Cooper"
+    ]
+  }
+}

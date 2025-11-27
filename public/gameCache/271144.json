@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:48:21.304Z",
+  "gameDetails": {
+    "id": "271144",
+    "name": "Agricola: Corbarius Deck",
+    "type": "boardgameexpansion",
+    "description": "The Corbarius Deck (letter C deck) consists of the 120 cards present in this box: 60 new minor improvements and 60 new occupations that you can play on their own, or combine with other decks.\nThese 120 cards were the ones used in 2020 for officially sanctioned tournaments.\n\n12 more cards with the deck letter C have been published in the 5/6 player expansion.\n\nSome of those C cards had been previously released in the Miniature expansions from WizKidz. It has been communicated from the beginning that those cards would reappear later. If things needed to get fixed between the Miniature release and the regular release, Lookout Games has fixed them.\n\n",
+    "image": "https://cf.geekdo-images.com/2vNhvdDZaIC52D7UhYWn4A__original/img/nsxdZJaC65oeOxTtoz3e43RqXK4=/0x0/filters:format(jpeg)/pic4752899.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2vNhvdDZaIC52D7UhYWn4A__small/img/KUANLlEtxNUPWE1JBGAGO26DMWI=/fit-in/200x150/filters:strip_icc()/pic4752899.jpg",
+    "link": "https://boardgamegeek.com/thing/271144",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "8.22915",
+    "averageWeight": "3.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Enclosure",
+      "Hand Management",
+      "Open Drafting",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Farming"
+    ],
+    "designers": [
+      "Uwe Rosenberg"
+    ]
+  }
+}

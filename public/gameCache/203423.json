@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:12:44.544Z",
+  "gameDetails": {
+    "id": "203423",
+    "name": "Massive Darkness: Enemy Box – Reptisaurians",
+    "type": "boardgameexpansion",
+    "description": "Expansion for Massive Darkness containing:\n\n1 Reptisaurian Warriors Boss figure \n6 Reptisaurian Warriors Minion figures \n1 Reptisaurian Blowgunners Boss figure \n12 Reptisaurian Blowgunners Minion figures \n1 Reptisaurian Agent figure \n1 large Reptisaurus Rex figure \n13 cards\n\n",
+    "image": "https://cf.geekdo-images.com/Ijlkgx0UCtn3oTWTvP1Ang__original/img/cicsJMCG6ZkdayzRozZ3RuFOedM=/0x0/filters:format(png)/pic3687938.png",
+    "thumbnail": "https://cf.geekdo-images.com/Ijlkgx0UCtn3oTWTvP1Ang__small/img/Y_-cqojBw6rPaGoGb4iKE9r4qLg=/fit-in/200x150/filters:strip_icc()/pic3687938.png",
+    "link": "https://boardgamegeek.com/thing/203423",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.68092",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Raphaël Guiton",
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult"
+    ]
+  }
+}

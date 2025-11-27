@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:17:50.364Z",
+  "gameDetails": {
+    "id": "214246",
+    "name": "TradeWorlds: Exterra Edition",
+    "type": "boardgame",
+    "description": "Plagued by world conflicts, the Terrans came to the realization that their survival was dependent on the colonization of other planets, resulting in the formation of four distinct Terran Megacorporations (aka the Exterras):\n\n\n    The Acolytes (Red): Economic, old money, wealthiest Megacorporation.\n    The Brethren (Blue): Militaristic, new money, geared for space combat.\n    The Covenant (Green): Covert, smallest faction seeking global power.\n    The Destined (Purple): Disenfranchised, a collection of dissidents from all the others.\n\n\nWhen the period of time known as The Trials ended, the Terran factions pursued their own interests and ceased nearly all contact with one another. More than a century has passed since the last Acolytes moved freely among the planets negotiating contracts; Brethren members seized vulnerable outposts; Covenant scientists revealed the latest technologies; and Destined raiders captured vessels in their space lanes. But, all is not well.\n\nEspionage agents working for the various Factions gathered significant intelligence on their current leaders' intentions. As the decades receded into history, the families, clans, and tribes of long-forgotten names, including Avalon, Augustus, du Lac, and Ravndotter have coalesced their efforts. One hundred years of isolation have taken their toll on the Factions. While each has exploited particular assets, the lack of connectivity with others has created its own set of complications.\n\nThe current generation of Terrans remains guarded and suspicious of others, but they are also filled with a desire to fulfil the providential future ordained by their leaders so many years ago. Scout ships and exploration vessels, commanded by pilots and astronavigators who have never ventured out beyond their own controlled space, have only begun making the arduous journey among the stars. Will these intrepid Faction members bury the sins of their forbearers, achieving a compromise among the others, or will they simply abandon all hope for a peaceful coexistence? Historians gazing out at the political landscape agree that after a long period of silence, the Tradewars shall begin.\n\n\nTradeWorlds is a 1-4 player competitive space battle deck-building game, which includes different scenarios to determine how the game is won:\n\n\n    Traderwars: Players must balance the collection of wealth with their need to defend their homeworld.\n    Spacewars: This scenario is all about survival. Be the last player standing to win.\n    The Derelict: A single-player scenario that focuses on surviving an alien assault.\n    Solo AI: A full solo play experience which simulates the multiplayer game.\n    Co-op Mode: A cooperative scenario that entails fighting off an alien invasion. \n\n\nDuring a player's turn, the player first selects any 1 of the 10 roles in the game, which are:\n\n\n    Chancellor: Can initiate a diplomatic vote to reach an agreement in the game\n    Treasurer: Discard cards for funds\n    Admiral: Control multiple starships\n    Captain: Reconfigure starships\n    Commander: Reconfigure crews\n    Engineer: Reconfigure weapons\n    Sergeant: Force all opponents to discard\n    Private: Force 1 opponent to discard\n    Smuggler: Steal 1 card from 3 chosen cards.\n    Trader: Draw extra cards\n\n\nThe scenarios determine which of the 10 roles are more desirable during the game, though each role has its purpose. Players must determine what actions and benefits they need in order to move their agenda forward. Once the role is resolved, the player may trade cards to buy Upgrade cards.\n\n\nCards may also be sold to increase the player's Treasury value.\n\n\nAdjustments are made on the Score Pad whenever necessary and in accordance to card effects or player actions. Wealth, Homeworld Defense Points, and the number of starships the player can build are kept track of on the mat.\n\n\nWhen a player acquires starships, they may deploy them to the \"Space Lane\", which act as walls to protect their Homeworld from invasion. Before a starship can be deployed, it must be configured, which entails connecting 3 Upgrade cards; the starship Upgrade card, crew Upgrade card, and weapons upgrade card. Configuration of a starship means that it is manned, armed and ready to fly. Each Upgrade card has an Energy rating (or \"capacity\"), Weapon rating (or \"firepower\"), and Crew rating (or \"resistance\").\n\nA player may command up to 4 starships at a time, from an array of 5 unique classes. Starships can be configured in up to 125 different combinations.\n\n\nCombat is initiated when the player decides to use their starships to attack an opponent&rsquo;s starships or an opponent&rsquo;s unprotected homeworld. Attacking is only possible if the player elects to take the Admiral role for their turn.\n\nAttacks can be done with 1 or more starships and the attacker gets to decide which of the opponent&rsquo;s ships are included in the skirmish.\n\nInitiative is determined by rolling dice. If the attacking player wins the initiative, the battle continues. If not, the opponent is able to escape the fight.\n\n\nA player's turn ends when the player is done taking all their actions, at which point they may draw back up to 5 cards. If their draw deck is exhausted, the discard pile is shuffled and becomes the new draw deck.\n\nThe players continue to take turns until the game is won. The victory condition is determined by the scenario selected by the players. Once the objective has been met, the game is over and the winner is announced.\n\n",
+    "image": "https://cf.geekdo-images.com/kvkfzAFWtCmeRqqA3iTrXw__original/img/uK8lBMmhdyOWKGWqJ6H4281s2m4=/0x0/filters:format(jpeg)/pic3621810.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kvkfzAFWtCmeRqqA3iTrXw__small/img/j0JYCsrAuCxsTj9-SjexGQwAsEE=/fit-in/200x150/filters:strip_icc()/pic3621810.jpg",
+    "link": "https://boardgamegeek.com/thing/214246",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "4.74074",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Trading"
+    ],
+    "categories": [
+      "Dice",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Kristopher R. Kycia"
+    ]
+  }
+}

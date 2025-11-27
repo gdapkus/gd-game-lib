@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:53:08.534Z",
+  "gameDetails": {
+    "id": "13823",
+    "name": "Fairy Tale",
+    "type": "boardgame",
+    "description": "Players use card drafting and simultaneous action selection to score points while interfering with other players' ability to do so.  The game consists of four rounds.  In each of them, players are dealt five cards.  They simultaneously select one each and pass the remainder, repeating until done.  Then, they start playing cards simultaneously, playing three and discarding two.  When the cards are revealed after each selection, card abilities turn other cards face-up or face-down.  At the end of the four rounds there are 12 cards in front of each player. The players each score based on their face-up cards.\n\n",
+    "image": "https://cf.geekdo-images.com/J86NZuK4hEnKWST-fH7LcA__original/img/h3A-Cqc1ritIac-UJWGQhodDRV0=/0x0/filters:format(jpeg)/pic2024738.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/J86NZuK4hEnKWST-fH7LcA__small/img/wmsDgtzLQyDsW3qkZL78OVUZW-M=/fit-in/200x150/filters:strip_icc()/pic2024738.jpg",
+    "link": "https://boardgamegeek.com/thing/13823",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2004",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.70047",
+    "averageWeight": "1.7674",
+    "boardGameRank": "1427",
+    "mechanics": [
+      "Closed Drafting",
+      "Hand Management",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Satoshi Nakamura"
+    ]
+  }
+}

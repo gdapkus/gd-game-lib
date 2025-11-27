@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:59:19.692Z",
+  "gameDetails": {
+    "id": "284466",
+    "name": "Obsession: Promotional Cards",
+    "type": "boardgameexpansion",
+    "description": "These promotional cards are two user-designed guests (gentry) that can be added to the base game Obsession. Over a period of five months, BGG users submitted ideas for two Victorian personalities that featured novel in-game benefits. Eighteen prototypes were developed, a vote was taken, and two promotional cards were selected from among the top vote-getters.\n\nCard #1 (suggested by Luis Mendes): Lady Mary Shelton is a stunning and eligible prestige guest who permits players to add an additional male guest to any activity that she attends.\n\nCard #2 (suggested by James Cartwright): Aston Webb is a renowned architect who permits players to acquire an improvement from the marketplace at no charge.\n\nNote: There were two errata in player aids from the base game. Instead of an online print file correction, the publisher decided to reprint those two players aids (4 copies of each). As the publisher was firing up the card template, they decided to have a little contest where they would 'apologize' for the error by letting backers develop their own cards. These were the two contest winning cards.\n\n-description from designer\n\n",
+    "image": "https://cf.geekdo-images.com/HR5ZGW3c4iIG0Npkcb-2_A__original/img/17-KR1nlWCbiJoTglc-cHHmYgSY=/0x0/filters:format(jpeg)/pic4842667.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HR5ZGW3c4iIG0Npkcb-2_A__small/img/yiAuCA_tyQueklKz-i6KHlOf8kI=/fit-in/200x150/filters:strip_icc()/pic4842667.jpg",
+    "link": "https://boardgamegeek.com/thing/284466",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "8.18939",
+    "averageWeight": "3.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Post-Napoleonic"
+    ],
+    "designers": [
+      "Dan Hallagan"
+    ]
+  }
+}

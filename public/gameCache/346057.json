@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:52:16.845Z",
+  "gameDetails": {
+    "id": "346057",
+    "name": "Don't Go In There",
+    "type": "boardgame",
+    "description": "You play as meddling kid wandering too far into a creepy haunted house. You knew you shouldn't touch anything, but like any protagonist in a horror story, your curiosity got the best of you and now you've accidentally awoken an evil presence in the house. You'll have to undo the curse to escape with your sanity or forever be haunted!\n It's a fast, easy-to-learn game that uses push your luck \"set destruction.\" Decide how risky to play as you venture deep into the haunted house. Do you take first choice of the items and risk attracting haunts, or play it safe? Collect the right items and you can dispel some of your curses.\n\nOn your turn, choose a part of the haunted house to explore by placing a meeple in one of the 3 rooms. Each room has 5 placement spaces. The deeper you go into a room the more likely you are to get the cursed item you desire, but be careful! The further you go, the more ghosts will haunt you.\n\nWhen 3 meeples have been placed into a room, the ghost dice are rolled. Depending on the result the placement of the meeples players will gain ghosts tokens. Next players will take cards from the room, depending on their meeple's position.\n\nAt the end of the game. The player with the most ghost tokens is haunted! They will gain curses equal to the number of ghosts they have collected. Players will then add up the curses from their ghosts and their item cards.\n\nThe player with the fewest curses wins!\n\n",
+    "image": "https://cf.geekdo-images.com/iK9X7Y4mN4Prbohvb0EDyQ__original/img/NMl3N2Qn3NEa_2E1gehR0denhLI=/0x0/filters:format(png)/pic6379484.png",
+    "thumbnail": "https://cf.geekdo-images.com/iK9X7Y4mN4Prbohvb0EDyQ__small/img/sCQrFd8GYsgKfP0ThoTmjqU-3AQ=/fit-in/200x150/filters:strip_icc()/pic6379484.png",
+    "link": "https://boardgamegeek.com/thing/346057",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "35",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "35",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.61236",
+    "averageWeight": "1.7059",
+    "boardGameRank": "4347",
+    "mechanics": [
+      "Constrained Bidding",
+      "Dice Rolling",
+      "Open Drafting",
+      "Push Your Luck",
+      "Selection Order Bid",
+      "Set Collection",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Card Game",
+      "Horror"
+    ],
+    "designers": [
+      "Jeff Chin",
+      "Andrew Nerger"
+    ]
+  }
+}

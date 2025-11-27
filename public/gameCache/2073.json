@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:01:57.460Z",
+  "gameDetails": {
+    "id": "2073",
+    "name": "Sixth Fleet: Modern Naval Combat in the Mediterranean",
+    "type": "boardgame",
+    "description": "Sixth Fleet is a simulation game of near-future combat for control of the Mediterranean Basin.  As commander of the U.S. or Soviet fleet and respective allies, you must form your ships into Task Forces  and attempt to cripple the enemy&rsquo;s capital ships and submarines.  Your limited air assets must be carefully assigned to defensive and offensive missions.  Commando, parachute and amphibious assault units stand at the ready to capture vital objectives.  Most important, you must protect your supply and replenishment ships, or your fleet will be unable to maintain combat momentum.  Sixth Fleet is a comprehensive simulation of the myriad elements involved in future naval confrontation.\n\nEach 8 hour game turn is broken into 3 distinct phases (sub, surface, and air) and each player takes turns choosing which phase they wish to conduct. Ex. if the US player chooses \"Air\", they conduct all bombing, shipping strikes, anti-sub, and interception actions for all their aircraft.\nPlayers also use their units to attempt to \"detect\" enemy forces so that an attack can be made. Ships and aircraft are always detected once a unit moves close enough to them, but players have to roll to try to detect subs.\nOptional rules include nuclear weapons and logistics.\nAbout 14 scenarios are included which range from about 60 minutes (for Introductory Scenarios) to 3 to 6 hours (for Intermediate Scenarios) to 20 or more hours (for the Advanced Scenarios).\n\nPart of Victory Games Fleet Series.\n\n",
+    "image": "https://cf.geekdo-images.com/_l0JEjYPhCgeWJtaOAz7Rw__original/img/PPfmGN6CYIBv4tOFvnhhv-Dw8bg=/0x0/filters:format(jpeg)/pic48153.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_l0JEjYPhCgeWJtaOAz7Rw__small/img/wX_b77lKSbDNZ_F63TOydCO5BhM=/fit-in/200x150/filters:strip_icc()/pic48153.jpg",
+    "link": "https://boardgamegeek.com/thing/2073",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1985",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.02158",
+    "averageWeight": "3.3333",
+    "boardGameRank": "5135",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Secret Unit Deployment",
+      "Simulation"
+    ],
+    "categories": [
+      "Modern Warfare",
+      "Nautical",
+      "Wargame"
+    ],
+    "designers": [
+      "Joseph M. Balkoski"
+    ]
+  }
+}

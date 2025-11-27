@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:37:24.178Z",
+  "gameDetails": {
+    "id": "357292",
+    "name": "The Lord of the Rings: The Card Game – Revised Core – Elves of Lórien Starter Deck",
+    "type": "boardgameexpansion",
+    "description": "The nimble, graceful Elves are known throughout Middle-earth for their beauty and adaptability. The Wood-elves of L&oacute;rien have been a powerful, influential force of good throughout history, and now players can bring the grace and might of the Elves to their games of The Lord of the Rings: The Card Game! Masters of cooperation and ambush tactics, the Wood-elves specialize in having a multitude of allies with one-use abilities that they can return to their hand to use again and again.\n\nFor players who are fond of the graceful Elves of The Lord of the Rings and their incredible adaptability, they will love the Elves of L&oacute;rien Starter Deck! This expansion comes with a 53-card pre-built deck, giving players the chance to start playing right out of the box.\n\n-description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/VuknN0hV7AUVWO2s1vI3tQ__original/img/1BUVqOZcE04dGqdaWTuuvvlN0nw=/0x0/filters:format(jpeg)/pic8546968.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VuknN0hV7AUVWO2s1vI3tQ__small/img/jPaNipWm79XBVFfojwvaXpFrd8c=/fit-in/200x150/filters:strip_icc()/pic8546968.jpg",
+    "link": "https://boardgamegeek.com/thing/357292",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "8.62907",
+    "averageWeight": "3.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Automatic Resource Growth",
+      "Cooperative Game",
+      "Deck Construction",
+      "Events",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Collectible Components",
+      "Fantasy",
+      "Novel-based"
+    ],
+    "designers": [
+      "Nate French"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:02:17.285Z",
+  "gameDetails": {
+    "id": "423787",
+    "name": "Behind",
+    "type": "boardgame",
+    "description": "Analyze, assemble, admire &mdash; in Behind, you'll find three scenes to solve, each with its own unique mechanisms and reflection. You want to observe the tiles laid out in front of you, then assemble them logically and turn them over to admire the result on the reverse! Six clue cards are available for each scene and should be turned over in numerical order. The scenes in the box are:\n\n&bull; The Theft: A theft has taken place in a city museum. The investigation is moving fast! (Illustrated by Pier&ocirc; - 56 tiles)\n&bull; The Professor: Two scientists experiment with an incredible machine. (Scripted and illustrated by Martin Vidberg - 54 tiles)\n&bull; Imhotep: A bas-relief of strange hieroglyphs is said to open a door to the cosmos. (Illustrated by Maud Chalmel - 70 tiles)\n\nOnce you've reconstructed the picture, you can read all of the clues at your disposal, even if none of them were turned over while you were solving the picture. They'll help you validate your thinking and confirm your thoughts! Finally, flip each tile to reveal the final image...\n\n",
+    "image": "https://cf.geekdo-images.com/AcbRuIlHN2LsnGK24cuXOg__original/img/Z3yCbGFLG8BmDXFffyeTIKE3C0Q=/0x0/filters:format(jpeg)/pic9118811.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AcbRuIlHN2LsnGK24cuXOg__small/img/5-wW03u0saazFEErJUluAMfiumc=/fit-in/200x150/filters:strip_icc()/pic9118811.jpg",
+    "link": "https://boardgamegeek.com/thing/423787",
+    "minPlayers": "1",
+    "maxPlayers": "99",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.66055",
+    "averageWeight": "2.1667",
+    "boardGameRank": "5448",
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Matching",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Deduction"
+    ],
+    "designers": [
+      "Cédric Millet"
+    ]
+  }
+}

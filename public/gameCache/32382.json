@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:37:00.155Z",
+  "gameDetails": {
+    "id": "32382",
+    "name": "Gipsy King",
+    "type": "boardgame",
+    "description": "Players build caravan routes across the board&mdash;in the free lands near the wonderful lakes&mdash;vying to attain the most popular and lucrative caravan spots for their families. When all the lands have been filled with caravans, points are awarded for controlling lakes with gold coins and connected caravans groups. After a second round (which entails some minor changes), the player with the most points is crowned as the Gipsy King. Release: Essen 2007.\n\n",
+    "image": "https://cf.geekdo-images.com/Si_kBW61pAiJJUbcfEl6AQ__original/img/Nb4RF67sa8YYsXDh3zlZg-lQ7cA=/0x0/filters:format(jpeg)/pic259380.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Si_kBW61pAiJJUbcfEl6AQ__small/img/mSCa7_J3NUt57X7JsTHoruAPznA=/fit-in/200x150/filters:strip_icc()/pic259380.jpg",
+    "link": "https://boardgamegeek.com/thing/32382",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2007",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.54083",
+    "averageWeight": "1.8333",
+    "boardGameRank": "5242",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Modular Board",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Corné van Moorsel"
+    ]
+  }
+}

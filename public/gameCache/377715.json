@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:37:41.614Z",
+  "gameDetails": {
+    "id": "377715",
+    "name": "Mille Fiori: The Masterpieces",
+    "type": "boardgameexpansion",
+    "description": "Mille Fiori: Die Meisterwerke allows players to continue sailing around the city to meet eminent figures and create glass masterpieces.\n\nTo set up, place the new game board that extends the sailing track next to the game board. The game now contains Dogate cards that bring points, changed movements, or a different order of play. A little council of influential citizens, the Signoria, advises the Doge and influences the political events of the city.\n\nNine different masterpieces can be gathered along the advanced sea route that leads to lucrative trading cities, or through the Dogaressa, the Doge's wife. If you receive a masterpiece, you can immediately collect valuable points, while also using the masterpiece to fill the shop window. If you choose wisely, you can score additional points at the end of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/Me9ZxfUekUPbLgGGTgb_Zg__original/img/cu2HiKRHv0UmIodnSxbpOa0FbKM=/0x0/filters:format(jpeg)/pic8365864.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Me9ZxfUekUPbLgGGTgb_Zg__small/img/-GHEuv8iANz5pc2nv4qlm8A85qg=/fit-in/200x150/filters:strip_icc()/pic8365864.jpg",
+    "link": "https://boardgamegeek.com/thing/377715",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.75228",
+    "averageWeight": "2.8333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Closed Drafting",
+      "Pattern Building"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

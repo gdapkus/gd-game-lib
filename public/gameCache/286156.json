@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:18:24.008Z",
+  "gameDetails": {
+    "id": "286156",
+    "name": "Wayfinders",
+    "type": "boardgame",
+    "description": "Engines purring, goggles down &mdash; the seaplane is set for take-off! Welcome to the whimsical world of Wayfinders in which intrepid explorers race to chart new paths through the skies.\n\nYou will need to think on your feet and outfit your planes with the right gear to arrive safely &mdash; but building hangars on islands and stocking them with parts can help you zip around with ease! Be sure to be keen in your planning and you will unlock the charms of the islands. Wheels up &mdash; adventure awaits!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/noSYAlSZ0f0SErWFjv7IZA__original/img/OcakqauGjCTIsRuaG5XS2uJL9i4=/0x0/filters:format(png)/pic4883489.png",
+    "thumbnail": "https://cf.geekdo-images.com/noSYAlSZ0f0SErWFjv7IZA__small/img/iyLeJedjD62Fh3MGU9XpaO1NCSY=/fit-in/200x150/filters:strip_icc()/pic4883489.png",
+    "link": "https://boardgamegeek.com/thing/286156",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "45",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.41856",
+    "averageWeight": "2.2143",
+    "boardGameRank": "5717",
+    "mechanics": [
+      "Contracts",
+      "Modular Board",
+      "Network and Route Building",
+      "Point to Point Movement",
+      "Push Your Luck",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Exploration",
+      "Transportation",
+      "Travel"
+    ],
+    "designers": [
+      "Thomas Dagenais-Lespérance"
+    ]
+  }
+}

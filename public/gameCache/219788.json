@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T19:33:26.506Z",
+  "gameDetails": {
+    "id": "219788",
+    "name": "Champions of Midgard: Valhalla",
+    "type": "boardgameexpansion",
+    "description": "Description from the publisher:\n\nIn Valhalla, the second expansion for Champions of Midgard, you will find yourself rewarded when your warriors die in battle. Your warriors' eternal glory becomes your earthly reward as the Valkyries bestow powerful effects, relics, and warriors upon you for use in your battles in Midgard. Some of your fallen soldiers may do more, rising to face the greatest enemies even in the afterlife, defeating epic monsters and bringing you glory from beyond the grave!\n\nCouple these new rewards with fierce new warriors in the form of Berzerkers and Shieldwarriors, and new custom dice and powers for your leaders, and your adventures in Midgard will never be the same!\n\n",
+    "image": "https://cf.geekdo-images.com/NS132j65ftlDRglcExOxJQ__original/img/lfv67qaBbf_faJTAh-vPKnpR38s=/0x0/filters:format(jpeg)/pic3509834.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NS132j65ftlDRglcExOxJQ__small/img/Vpm1jXzoqJVunngtn5Yq0EGNJsI=/fit-in/200x150/filters:strip_icc()/pic3509834.jpg",
+    "link": "https://boardgamegeek.com/thing/219788",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.38892",
+    "averageWeight": "2.9111",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Set Collection",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Fighting",
+      "Medieval",
+      "Mythology"
+    ],
+    "designers": [
+      "Ole Steiness"
+    ]
+  }
+}

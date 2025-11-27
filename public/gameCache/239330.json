@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:48:55.625Z",
+  "gameDetails": {
+    "id": "239330",
+    "name": "Arkham Horror: The Card Game – Black Stars Rise: Mythos Pack",
+    "type": "boardgameexpansion",
+    "description": "Your investigations have led you far from that fateful first showing of The King in Yellow at the Ward Theatre in Arkham. When you could no longer find the answers you needed in Arkham, you voyaged across the Atlantic to France and entered the catacombs of the dead beneath Paris. Now, you travel to the island commune of Mont Saint-Michel, as brooding, dark clouds cover the sky. A storm is coming&mdash;and it&rsquo;s unclear if our world will survive.\n\nBlack Stars Rise offers the latest chapter in The Path to Carcosa cycle, and the latest tale of your own madness. You have looked upon the face of the Stranger. You have beheld the Pallid Mask and the Tattered Cloak. New player cards arrive in this Mythos Pack, cards with palliative names like &ldquo;Stick to the Plan,&rdquo; &ldquo;Narrow Escape,&rdquo; or &ldquo;Ward of Protection.&rdquo; Their names are a lie, dripping with false comfort that only the truly mad will embrace. The darkling spires of Carcosa are breaching the walls between dimensions and Hastur will rule over all&hellip;\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/U9RtFhE4tl7cR1B4ZIna9g__original/img/zSyWXIzH4FV0v3-35Z2L7-C2e2M=/0x0/filters:format(png)/pic3835070.png",
+    "thumbnail": "https://cf.geekdo-images.com/U9RtFhE4tl7cR1B4ZIna9g__small/img/Zd_BlwdpLr-V6gBADK_qdeEP3U4=/fit-in/200x150/filters:strip_icc()/pic3835070.png",
+    "link": "https://boardgamegeek.com/thing/239330",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2018",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.49876",
+    "averageWeight": "3.7692",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Card Game",
+      "Fantasy",
+      "Horror",
+      "Novel-based"
+    ],
+    "designers": [
+      "Nate French",
+      "MJ Newman"
+    ]
+  }
+}

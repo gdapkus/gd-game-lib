@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:07:35.129Z",
+  "gameDetails": {
+    "id": "311715",
+    "name": "Mini Rogue",
+    "type": "boardgame",
+    "description": "Mini Rogue is a minimalist dungeon crawler board game in which one or two players delve into a deep dungeon in order to get a mysterious ruby called the Og's Blood.\n\nThe players must choose how to spend their resources to be powerful enough to confront ever more difficult monsters and hazards. Randomly generated levels and encounters make every playthrough a unique experience!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/p74gLVRjxJ3JfhCmkwY6bg__original/img/t-km31rJP52OE-_grpcZNFWN-tU=/0x0/filters:format(jpeg)/pic6336146.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/p74gLVRjxJ3JfhCmkwY6bg__small/img/LL3UB6wyOVzr7ZjktXN1WLTCe88=/fit-in/200x150/filters:strip_icc()/pic6336146.jpg",
+    "link": "https://boardgamegeek.com/thing/311715",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2020",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.30364",
+    "averageWeight": "2.0106",
+    "boardGameRank": "1332",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Push Your Luck",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "designers": [
+      "Paolo Di Stefano",
+      "Gabriel Gendron"
+    ]
+  }
+}

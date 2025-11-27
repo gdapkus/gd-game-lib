@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:02:18.042Z",
+  "gameDetails": {
+    "id": "327643",
+    "name": "Cakes!",
+    "type": "boardgame",
+    "description": "At Chef Sweeter&rsquo;s bakery, everybody is working at full speed! We have to make huge and delicious cakes. Who will be the fastest baker? Will you be able to make the highest cake?\nThe object of the game is to make the highest cake (10 layers) according to the orders you receive, keeping in mind that balance plays an important role.\n\nPlayers place their Plates on their hands. On top of these Plates, they will stack the layers of their cakes depending on the Order card (one layer, two layers&hellip;). In order to do so, each player draws 2 Sponge Cake cards and places them in a way they can put a Frosting card on top of the Sponge cake. In following turns, they will stack layers on top of the ones that are already on their Plates.\n\nThe game ends when at least one of the following conditions is fulfilled:\n&bull;    A player makes a 10 layer cake, without it collapsing, and rings the bell.\n&bull;    The Order deck runs out of cards. In that case, players tally their points. The player with the most points wins the game (Order cards grant points according to their difficulty).\nIn case of a tie, the tied players share the victory.\nRemember! There are 2 strategies to get the victory:\n&bull;    Stack the layers very quickly, with a high risk that your cake will collapse,\n&bull;    Or make the cake slowly in order to get the 10 layers.\n\nLa pasteler&iacute;a del Chef Sweeter est&aacute; a todo gas. Debemos elaborar grandes y deliciosas tartas. &iquest;Qu&eacute; pasteleros ser&aacute;n los m&aacute;s r&aacute;pidos? &iquest;Ser&aacute;s capaz de elaborar la tarta m&aacute;s alta?\nEl objetivo del juego es construir la tarta m&aacute;s alta (10 pisos) seg&uacute;n los pedidos que vayan surgiendo, teniendo en cuenta que el equilibrio juega un papel fundamental.\n\nLos jugadores colocar&aacute;n una bandeja en su mano y, sobre ella, construir&aacute;n los pisos de la tarta en funci&oacute;n de lo que mande la carta de pedido (un piso, dos pisos,&hellip;). Para ello, toman dos cartas plegadas de bizcocho, y las colocan de tal forma que puedan poner sobre ellas una carta redonda de cobertura. En turnos posteriores, construir&aacute;n pisos sobre los que ya tuvieran en su bandeja.\n\nEl juego termina cuando se cumpla, al menos, una de estas condiciones:\n&bull; Un jugador elabore una tarta de 10 pisos sin que se caiga y pulse el timbre.\n&bull; Se terminen todas las cartas de pedido. En este caso, se cuentan los puntos conseguidos por cada jugador y gana quien m&aacute;s puntos haya obtenido. (Las cartas de pedido tienen puntos seg&uacute;n su dificultad).\nEn caso de empate, se comparte la victoria. Recuerda que existen 2 estrategias para conseguir la victoria:\n&bull; Elaborando pisos de la tarta r&aacute;pidamente, con mucho riesgo de que se caiga, o\n&bull; construyendo la tarta despacio con el fin de llegar a 10 pisos.\n\n",
+    "image": "https://cf.geekdo-images.com/wzDLwp_QkpTiOoHQ_DDfQQ__original/img/PsvVTWxP6zx2Ew_aBp_JjD_sx2U=/0x0/filters:format(jpeg)/pic7672977.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wzDLwp_QkpTiOoHQ_DDfQQ__small/img/maRllB-M2jaarldV9jt4UC7s3pU=/fit-in/200x150/filters:strip_icc()/pic7672977.jpg",
+    "link": "https://boardgamegeek.com/thing/327643",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.28556",
+    "averageWeight": "1",
+    "boardGameRank": "14172",
+    "mechanics": [
+      "Speed Matching"
+    ],
+    "categories": [
+      "Card Game",
+      "Children's Game"
+    ],
+    "designers": [
+      "Juan Carlos Ruiz"
+    ]
+  }
+}

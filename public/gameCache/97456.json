@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:49:34.269Z",
+  "gameDetails": {
+    "id": "97456",
+    "name": "Battle of 4 Armies: Restoring the Crown of Chip",
+    "type": "boardgame",
+    "description": "From designer Nathan Hansen comes a quick paced, deep decision rich, abstract strategy BattlessonTM game, Battle of 4 Armies. Match your skills against up to three opponents, for your goal is the Crown of Chip! Through the judicious use of unit placement and maneuver, you struggle to capture opposing units to knock them out of play, or hold the majority of named spaces on the board. With pressure for the center of the map and maneuver around its edges, players have myriad ways to approach every turn of this absorbing game. Make your move in the Battle of 4 Armies!\n\nGame Data:\n\nComplexity: 1.5 on a 9 scale\nSolitaire Suitability: 2 on a 9 scale\nScale: Each unit represents a single troop of fantasy warriors.\n\nGame Components:\n\n&bull;    One 8.5&rdquo; x 11&rdquo; color game map\n&bull;    One 2-page, color instructions sheet\n&bull;    One BattlessonTM sheet\n&bull;    20 color, die-cut 1&rdquo; mounted game pieces\n\n",
+    "image": "https://cf.geekdo-images.com/ZBe_e-iNe6HTvYGH5Ehmcw__original/img/Buq5W5B8XQzUtP0ByfSsurDlwRI=/0x0/filters:format(png)/pic975533.png",
+    "thumbnail": "https://cf.geekdo-images.com/ZBe_e-iNe6HTvYGH5Ehmcw__small/img/P55UcqTkUjxWPEoEtgP_uoo5C8Q=/fit-in/200x150/filters:strip_icc()/pic975533.png",
+    "link": "https://boardgamegeek.com/thing/97456",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "20",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "6.23333",
+    "averageWeight": "1.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Fantasy"
+    ],
+    "designers": [
+      "Nathan Hansen"
+    ]
+  }
+}

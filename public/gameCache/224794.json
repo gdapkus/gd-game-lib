@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:50:47.914Z",
+  "gameDetails": {
+    "id": "224794",
+    "name": "Carreau",
+    "type": "boardgame",
+    "description": "Carreau is a fast action, 2-4 player, dexterity game in which you try to flip your cubes closest to a movable target.\n\nIn Carreau you score points for flipping your cubes closest to the target ball. The flipping action takes some practice but once you get the knack of it you can be quite accurate.\n\nTo win Carreau you need to accumulate 5 points.\n\nSometimes a flip can cause the target ball move into a new position this is likely to cause a spontaneous &lsquo;Ooo&lsquo; or &lsquo;Ahh&lsquo; as the situation completely changes.\n\nOn very rare occasions a flip will cause the target ball to exit the playing surface - this flip is called &lsquo;Carreau&lsquo; and it is worth 3 points. The person performing this flip is likely to shout &lsquo;Carreauooooooooh&lsquo; and spontaneously perform a dance.\n\n",
+    "image": "https://cf.geekdo-images.com/XeMmDM8kuMLf4n8VUtM_sQ__original/img/J9mZXKNZclUNJ4NpRWrVXLgEq6Y=/0x0/filters:format(jpeg)/pic4008248.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XeMmDM8kuMLf4n8VUtM_sQ__small/img/4yMDzwJarA318kDDq9E31UAaJEY=/fit-in/200x150/filters:strip_icc()/pic4008248.jpg",
+    "link": "https://boardgamegeek.com/thing/224794",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.12561",
+    "averageWeight": "1.3333",
+    "boardGameRank": "11173",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity",
+      "Children's Game"
+    ],
+    "designers": [
+      "Gavin Birnbaum"
+    ]
+  }
+}

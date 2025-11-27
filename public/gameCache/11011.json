@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:48:39.408Z",
+  "gameDetails": {
+    "id": "11011",
+    "name": "Ancient Conquest",
+    "type": "boardgame",
+    "description": "Ancient Conquest is a classic and highly rated multiplayer game covering at a grand strategic level the rise and fall of empires and peoples in the ancient near east. Roughly covering the period from the New Kingdom of Egypt to the Age of Four Kingdoms (chronologically from 1500 BC to 600 BC), the game combines the diplomacy and political objectives of the involved peoples and empires of this period with a fast-moving and playable combat system. Ancient Assyria, Egypt, Babylon and the Hittites are all included, as well as numerous other powers.\n\nAncient Conquest is a highly accurate game, historically speaking, though it is built around some elegantly simple mechanisms.\n\n",
+    "image": "https://cf.geekdo-images.com/swYc-URT_FlS61A03tHYQg__original/img/2y-UiRwULG2w0AMevsO03C7IEh4=/0x0/filters:format(jpeg)/pic1068531.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/swYc-URT_FlS61A03tHYQg__small/img/QC8_2wl3EXT_o28kJEojvMAaarw=/fit-in/200x150/filters:strip_icc()/pic1068531.jpg",
+    "link": "https://boardgamegeek.com/thing/11011",
+    "minPlayers": "4",
+    "maxPlayers": "4",
+    "yearPublished": "1975",
+    "playingTime": "300",
+    "minPlayingTime": "300",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.63846",
+    "averageWeight": "2.125",
+    "boardGameRank": "17636",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Ancient",
+      "Wargame"
+    ],
+    "designers": [
+      "R. J. Hlavnicka",
+      "Dennis P. O'Leary"
+    ]
+  }
+}

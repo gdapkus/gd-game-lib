@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:52:53.105Z",
+  "gameDetails": {
+    "id": "295944",
+    "name": "EXIT: The Game – The Enchanted Forest",
+    "type": "boardgame",
+    "description": "Exit: The Game &ndash; The Enchanted Forest is a puzzle game modeled after escape rooms, and it includes components meant to be folded, written upon, or torn, so it's marketed as a single-use game.\n\nA relaxing walk in the woods takes a very different turn when you suddenly encounter strange fairytale creatures and even stranger puzzles. Will you ever find your way out?!\n\n-- description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/7B7-6vDlBA8MBzkqWkj9RA__original/img/pd3u3ML2N92GL80WesRVA3F0T1M=/0x0/filters:format(jpeg)/pic5536689.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7B7-6vDlBA8MBzkqWkj9RA__small/img/gpXGIfwCFl3C5PF_uZqRQ0EVGzk=/fit-in/200x150/filters:strip_icc()/pic5536689.jpg",
+    "link": "https://boardgamegeek.com/thing/295944",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.95063",
+    "averageWeight": "1.9167",
+    "boardGameRank": "2621",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Deduction",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Inka Brand",
+      "Markus Brand"
+    ]
+  }
+}

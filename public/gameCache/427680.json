@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:11:19.306Z",
+  "gameDetails": {
+    "id": "427680",
+    "name": "The Last Lighthouse: Fearsome Fog",
+    "type": "boardgameexpansion",
+    "description": "Thick fog covers the sea, sowing doubt and confusion wherever you look. Illuminate these obscured areas if you hope to survive.\n\nFearsome Fog 4-card expansion adds unique Fog cards, all of which are placed above the starting sea. These cards do not move, but remain face-down until a Nightmare underneath one is defeated. Once this happens, reveal the Fog card&rsquo;s unique effect and discard it. These effects rearrange your Traps and Nightmares, potentially wrecking your plans for survival. All Fog cards must be discarded before the end of the game or the Nightmares win.\n\n",
+    "image": "https://cf.geekdo-images.com/X-PR_U3GhqdSDGMF_POKlg__original/img/MYFX6HX9EhTDYNRD3B4RQIllDps=/0x0/filters:format(png)/pic8489506.png",
+    "thumbnail": "https://cf.geekdo-images.com/X-PR_U3GhqdSDGMF_POKlg__small/img/Ot1lGRD3kT4lcz6KTi0xLa8CSHY=/fit-in/200x150/filters:strip_icc()/pic8489506.png",
+    "link": "https://boardgamegeek.com/thing/427680",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2024",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "7.46053",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Horror"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

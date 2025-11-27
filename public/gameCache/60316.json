@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:13:37.599Z",
+  "gameDetails": {
+    "id": "60316",
+    "name": "Moon Leap",
+    "type": "boardgame",
+    "description": "In Moon Leap, players are trying to get their pawns as far down the track as possible in order to score the highest amount of points.\n\nTo start the game, each player receives five pawns of the same color, numbered from 1 to 5. A player rolls the dice and then may move pawns that correspond to the total of the dice, e.g. rolling a 5 allows a player to move the 5 pawn, or the 2 and the 3. The pawns are always moved to the next free space that is available on the board.\n\nIf the player succeeds in making a chain of 3 or more pawns, he or she may roll the dice again.\n\nThe game ends when the last three, specially-marked squares are occupied. Each player receives the number of points achieved by multiplying the number of the square by the number of the occupying pawn.\n\nRules Summary:\n\n\n    Roll d6; may move your matching-numbered token (* is wild but moves only one token)\n    Move it to the next free space on the track\n    After any player's token has crossed a line (varies with number of players playing), rolls of 3 4 or 5 may be split between 2 of your tokens (3->1-2, 4->1-3, 5->1-4 or 2-3), but only if you can move both the other tokens\n    If, with your move, you create 3 adjacent tokens of your color, go again (may do it repeatedly)\n    The game ends when last 3 spaces of the track are occupied\n    Final scores (for each token):\n        (token number) x (number on that token's space)\n        the multiplier for tokens never played to the board is -5\n        highest sum wins\n    \n\n\nThe original version of the game provided players with six tokens and had different rules for gaining points from the board spaces.\n\n",
+    "image": "https://cf.geekdo-images.com/YyPTQ5zPw3QjoL6oRvqwgw__original/img/83xSDXkdG76kdqhTwfXlH4_9-NY=/0x0/filters:format(png)/pic7025946.png",
+    "thumbnail": "https://cf.geekdo-images.com/YyPTQ5zPw3QjoL6oRvqwgw__small/img/wWu06_NQxzq6wBE3WSUWow8iWNA=/fit-in/200x150/filters:strip_icc()/pic7025946.png",
+    "link": "https://boardgamegeek.com/thing/60316",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1998",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.03472",
+    "averageWeight": "1.1",
+    "boardGameRank": "10150",
+    "mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Dice",
+      "Math",
+      "Racing"
+    ],
+    "designers": [
+      "Rudi Hoffmann"
+    ]
+  }
+}

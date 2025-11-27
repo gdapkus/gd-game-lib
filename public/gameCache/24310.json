@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:00:45.239Z",
+  "gameDetails": {
+    "id": "24310",
+    "name": "The Red Dragon Inn",
+    "type": "boardgame",
+    "description": "In Red Dragon Inn, you and your friends are a party of heroic, fantasy adventurers. You've raided the dungeon, killed the monsters, and taken their treasure. Now you're back, and what better way to celebrate your most recent victory than to spend an evening at the Red Dragon Inn. You and your adventuring companions will spend the night drinking, gambling, and roughhousing. The last person who is both sober enough to remain conscious and shrewd enough to hold onto his Gold Coins wins the game.\n\nThe four characters are Deirdre the Priestess, Fiona the Volatile, Gerki the Sneak, and Zot the Wizard.\n\n",
+    "image": "https://cf.geekdo-images.com/RCXedcfgn5LSfH4-kOUvLA__original/img/Fr16k-_UzhrIB6_yre7SrMhkDxU=/0x0/filters:format(jpeg)/pic291048.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RCXedcfgn5LSfH4-kOUvLA__small/img/fw7C7ruhaqXTqrWZFHCXdQpNKRs=/fit-in/200x150/filters:strip_icc()/pic291048.jpg",
+    "link": "https://boardgamegeek.com/thing/24310",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.54537",
+    "averageWeight": "1.6608",
+    "boardGameRank": "2058",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Hand Management",
+      "Player Elimination",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Humor",
+      "Medieval",
+      "Party Game"
+    ],
+    "designers": [
+      "Cliff Bohm",
+      "Geoff Bottone",
+      "Colleen Skadl"
+    ]
+  }
+}

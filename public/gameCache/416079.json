@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:11:47.580Z",
+  "gameDetails": {
+    "id": "416079",
+    "name": "March of the Ants: Evolved Edition",
+    "type": "boardgame",
+    "description": "As spring dawns, the great thaw begins. Deep beneath the sprouting meadow grasses the queen stirs in her nest and the colony comes to life. Soldiers venture forth, battling centipedes while clashing with opposing colonies for territory. Workers dig an ever-expanding network of tunnels in their tireless search for food. The first larvae hatch and it is clear this generation will be different: the young colonies rapidly evolve into a multitude of new forms. The ants march out to claim the meadow as their own!\n\nMarch of the Ants: Evolved Edition is a revised and upgraded version of the original base game from 2015 featuring:\n\n     New artwork and graphic design\n     Revised and updated Mechanics\n     New Resting cards and Great Tunnel Battles\n     Wooden Ant Meeples\n     Same quick playtime that delivers a rich 4X feel in under 90 minutes.\n\n\nMarch of the Ants puts players in control of an ant nest, competing for success with rival nests. You will explore the unknown reaches of the Meadow, evolve your ants to create new species, and vie for control of the Great Tunnel. March of the Ants is an open-ended strategy game with many paths to victory. As your nest grows and your ants evolve, you must carefully craft your strategy to emerge victorious.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/rpM50mMdQpFlDj9sKp3fkQ__original/img/8vnV5wfxdTyT4GOxJH4SbBCLrlA=/0x0/filters:format(jpeg)/pic8419506.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rpM50mMdQpFlDj9sKp3fkQ__small/img/jcpMGMDv08pKXgdox6vABtmY6t8=/fit-in/200x150/filters:strip_icc()/pic8419506.jpg",
+    "link": "https://boardgamegeek.com/thing/416079",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.90471",
+    "averageWeight": "3.1176",
+    "boardGameRank": "6094",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Map Addition",
+      "Modular Board",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Civilization",
+      "Exploration"
+    ],
+    "designers": [
+      "Tim Eisner",
+      "Ryan Swisher"
+    ]
+  }
+}

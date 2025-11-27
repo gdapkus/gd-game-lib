@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:07:27.720Z",
+  "gameDetails": {
+    "id": "124380",
+    "name": "Ladies & Gentlemen",
+    "type": "boardgame",
+    "description": "The unusual and asymmetric game Ladies & Gentlemen brings players into the world of glamour. In teams of two &ndash; one playing a man, the other a woman &ndash; the players try to pull together the best-looking and most famous couple who will attend the big ball. The gentleman's duty is to make as much money as possible, which the lady will then spend on jewelry, clothes, and exclusive accessories. Each team has its own action cards to carry out its tasks, and the more that the players embody their characters &ndash; flirtatious, fashion-obsessed ladies, and rich, arrogant, pretentious gentlemen &ndash; the more fun and explosive the game will be!\n\n",
+    "image": "https://cf.geekdo-images.com/vF0lE9ScZjHZDg9kyLELDA__original/img/FatNrRou4GXmq_t-LUglKAPVC1o=/0x0/filters:format(jpeg)/pic3396607.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vF0lE9ScZjHZDg9kyLELDA__small/img/ChV1-nyXbmeJmtsPrha3CBza-AY=/fit-in/200x150/filters:strip_icc()/pic3396607.jpg",
+    "link": "https://boardgamegeek.com/thing/124380",
+    "minPlayers": "4",
+    "maxPlayers": "10",
+    "yearPublished": "2013",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "6.45551",
+    "averageWeight": "2.0893",
+    "boardGameRank": "3776",
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Humor",
+      "Party Game",
+      "Post-Napoleonic",
+      "Real-time"
+    ],
+    "designers": [
+      "Loïc Lamy"
+    ]
+  }
+}

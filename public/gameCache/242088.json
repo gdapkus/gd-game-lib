@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:48:57.875Z",
+  "gameDetails": {
+    "id": "242088",
+    "name": "Arkham Horror: The Card Game – Dim Carcosa: Mythos Pack",
+    "type": "boardgameexpansion",
+    "description": "Dim Carcosa is the sixth and final Mythos Pack in The Path to Carcosa cycle for Arkham Horror: The Card Game.\n\nYour investigation into the mysterious play The King in Yellow has led you across the globe and brought you to the edge of madness. Now, in the final act of The Path to Carcosa you travel beyond the cosmos to a world a place beyond all imagining. Before you lies a warped, alien city. Its twisting streets and aberrant architecture have no semblance of order or structure. In the distance, a murky lake reflects the glare of two suns. This is Carcosa&ndash;the realm of madness in the stars, where Hastur reigns supreme.\n\nAll shall be revealed when you travel to Dim Carcosa, meaning that the locations in this scenario have no unrevealed side. Instead, their reverse sides bear story cards to push your plotlines forward to their final curtain. In this lost realm, insanity is inevitable. But even with your mind fractured and broken, your investigation does not end here. In Dim Carcosa, you are not defeated when you have horror equal to or greater than your sanity. Instead, you journey on, facing impossible odds in the hopes to return home alive.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/tM-iGXlGLQBA0QQ7xnHPZw__original/img/zgqsji0eGLHHmW6odiP31r8Fios=/0x0/filters:format(png)/pic3948883.png",
+    "thumbnail": "https://cf.geekdo-images.com/tM-iGXlGLQBA0QQ7xnHPZw__small/img/pshqm_4jODbGDLrYc_-A7ESlDkk=/fit-in/200x150/filters:strip_icc()/pic3948883.png",
+    "link": "https://boardgamegeek.com/thing/242088",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2018",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.50546",
+    "averageWeight": "3.9",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Role Playing",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Card Game",
+      "Collectible Components",
+      "Fantasy",
+      "Horror",
+      "Novel-based"
+    ],
+    "designers": [
+      "Nate French",
+      "MJ Newman"
+    ]
+  }
+}

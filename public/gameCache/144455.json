@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:35:37.940Z",
+  "gameDetails": {
+    "id": "144455",
+    "name": "Age of Steam Expansion: Belgium",
+    "type": "boardgameexpansion",
+    "description": "Two player expansion to Age of Steam released as part of the 2013 Essen Set of Winsome games.\n\nConsists of 1 map (11x17) and one rule sheet.\n\n",
+    "image": "https://cf.geekdo-images.com/gecg3e60sK929UKbE4vncg__original/img/G-nrWgOPM2bZoh_rHkEA6xPVtRc=/0x0/filters:format(jpeg)/pic1710975.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gecg3e60sK929UKbE4vncg__small/img/srW6A6dcOiO3BZ2TnZBeOY3URns=/fit-in/200x150/filters:strip_icc()/pic1710975.jpg",
+    "link": "https://boardgamegeek.com/thing/144455",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2013",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "5.6875",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "John Bohrer"
+    ]
+  }
+}

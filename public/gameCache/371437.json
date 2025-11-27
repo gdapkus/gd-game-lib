@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:16:54.065Z",
+  "gameDetails": {
+    "id": "371437",
+    "name": "Sprawlopolis: Roadwork",
+    "type": "boardgameexpansion",
+    "description": "Traffic congestion is a high point. Ease your commuters&rsquo; anguish with new roads to keep the city moving.\n\nIn Roadwork,  each player will get one of the four cards in this expansion. If they don&rsquo;t play the card before the end of the game, it will cost them points. The catch, of course, is that the card must integrate seamlessly with roads in your city in order to be placed, which is rarely going to be as easy to accomplish as it sounds. You can also scale up the difficulty, giving more of these cards to the group playing.\n\n",
+    "image": "https://cf.geekdo-images.com/BBU3eqhpveqbixhdV85TaA__original/img/dn4YrpZrKcFXWT_puzP4Og6qDA4=/0x0/filters:format(png)/pic7092947.png",
+    "thumbnail": "https://cf.geekdo-images.com/BBU3eqhpveqbixhdV85TaA__small/img/zjcYq2fh1wl3UO7SNhHUGy4G7Mo=/fit-in/200x150/filters:strip_icc()/pic7092947.png",
+    "link": "https://boardgamegeek.com/thing/371437",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.24375",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Closed Drafting",
+      "Cooperative Game",
+      "Layering",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "City Building",
+      "Print & Play",
+      "Territory Building"
+    ],
+    "designers": [
+      "Steven Aramini",
+      "Danny Devine",
+      "Jason Tagmire"
+    ]
+  }
+}

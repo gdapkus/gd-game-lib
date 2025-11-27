@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:49:43.190Z",
+  "gameDetails": {
+    "id": "4934",
+    "name": "Battling Tops",
+    "type": "boardgame",
+    "description": "Battling Tops was produced by Ideal, in the late 60's. Players wind their tops and by pulling a string, the tops battle each other in a ring. The last top standing wins that round. The first \"manager\" to reach 8 wins is the champion.\n\nBattling Ships (1977) was an updated release with a \"board\" around the battling arena that's kind of like the edges of Monopoly. Otherwise it is the same as Battling Tops.\n\nRe-implemented by:\n\n    Spin to Win Game\n    Battling Gladiators\n\n\n",
+    "image": "https://cf.geekdo-images.com/4lsNv-G1WpCFaHVakKJw9w__original/img/_yH8mOZovSeDMP71QgNB7XAI9Qg=/0x0/filters:format(jpeg)/pic4268483.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4lsNv-G1WpCFaHVakKJw9w__small/img/QiER85ASogCcgTwOnT2_wIAfJ9c=/fit-in/200x150/filters:strip_icc()/pic4268483.jpg",
+    "link": "https://boardgamegeek.com/thing/4934",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1968",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.11176",
+    "averageWeight": "1.2051",
+    "boardGameRank": "10065",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity",
+      "Children's Game",
+      "Real-time"
+    ],
+    "designers": [
+      "A. Eddie Goldfarb"
+    ]
+  }
+}

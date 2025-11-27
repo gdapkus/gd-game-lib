@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:16:34.604Z",
+  "gameDetails": {
+    "id": "415187",
+    "name": "Skulls of Sedlec: Troubadours",
+    "type": "boardgameexpansion",
+    "description": "Their ballads commemorate the living and immortalize the dead.\n\nAll these wandering musicians want to do is strum and sing for their captive audience. The more of them are playing together, the better they sound. Rather than scoring individually, each group of connected Troubadours scores a set value based on how many are in the group. But having too many musicians muddles the sound: once there are 4 connected Troubadours, any additional ones added to the group no longer improve their performance.\n\n",
+    "image": "https://cf.geekdo-images.com/ON2P1Edrhnp99dz6ylNPDA__original/img/lyKpqttZbIutljXn4fIq1USR3yo=/0x0/filters:format(png)/pic8338091.png",
+    "thumbnail": "https://cf.geekdo-images.com/ON2P1Edrhnp99dz6ylNPDA__small/img/-321vvm0zACF83G1fyOvmnwRAJ8=/fit-in/200x150/filters:strip_icc()/pic8338091.png",
+    "link": "https://boardgamegeek.com/thing/415187",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "7.125",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Ian Howard"
+    ]
+  }
+}

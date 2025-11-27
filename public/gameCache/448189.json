@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T21:14:13.806Z",
+  "gameDetails": {
+    "id": "448189",
+    "name": "Pacific",
+    "type": "boardgame",
+    "description": "We journey now to the Pacific Ocean. From California to Japan, the peaceful sea is ringed by rumbling mountains. Animals, some of them tourists, fill every conceivable niche; boats dot the waves; and businesses and industries thrive on the coasts. It is this world that you will exploit, or make friends with, or perhaps just pass through.\n\nYour goal in Pacific is to earn more money than anyone else, whether through fishing, hotels, factory work, or business. The game lasts ten rounds, and at the start of each round, each player reveals one card from their hand at the same time. Next, all players reveal which one of the revealed cards they want to use, then they simultaneously use their chosen card.\n\nEach player has their own playing board with five areas on it in a circle: Japan, California, Peru, Polynesia, and Coral Sea. To use a card, you carry out the text in the box, then \"run\" the 1-2 areas listed on it.\n\nMost cards have text like \"[area]:[symbols]\", such as \"California: (hotel)\" or \"Each area: (fish)\" or \"An empty area: (boat)(boat)\", so you'll place the appropriate token(s) in the named area(s). The card might have other text as well instructing you to move tokens, swap one token for another, \"run\" an area, etc.\n\nTo \"run\" an area, you take an action with each token in it: hotels earn you money, boats earn you money based on fish in the area, fish move clockwise to the next area, and factories let you remove tokens for money. Special tokens have unique abilities, and you can carry out these actions in whatever order you wish.\n\nAfter ten turns, whoever has the most money wins.\n\n",
+    "image": "https://cf.geekdo-images.com/OgWYIhHDX5Cq98mDdDBJKg__original/img/2eL8en4ul7K8YBsk74o7CY5vbvU=/0x0/filters:format(jpeg)/pic8987108.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OgWYIhHDX5Cq98mDdDBJKg__small/img/EVS-48gORW5WxYln13BU5gvEfBs=/fit-in/200x150/filters:strip_icc()/pic8987108.jpg",
+    "link": "https://boardgamegeek.com/thing/448189",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "6.91667",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Economic"
+    ],
+    "designers": [
+      "Donald X. Vaccarino"
+    ]
+  }
+}

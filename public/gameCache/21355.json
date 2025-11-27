@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:55:48.733Z",
+  "gameDetails": {
+    "id": "21355",
+    "name": "Himalaya: The 5-6 Player Expansion",
+    "type": "boardgameexpansion",
+    "description": "5-6 player expansion for Himalaya.\n\nExpands:\n\n    Himalaya\n\n\n",
+    "image": "https://cf.geekdo-images.com/wFwpZfJMXIX42t-OasrXMQ__original/img/XC2chuH81G1co7K4YOv62QRfRNs=/0x0/filters:format(jpeg)/pic152337.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wFwpZfJMXIX42t-OasrXMQ__small/img/o13pa7BBYln5TQFLGpjmpmCVjv0=/fit-in/200x150/filters:strip_icc()/pic152337.jpg",
+    "link": "https://boardgamegeek.com/thing/21355",
+    "minPlayers": "5",
+    "maxPlayers": "6",
+    "yearPublished": "2006",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.35933",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Chit-Pull System",
+      "Pick-up and Deliver",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Guillaume Blossier",
+      "Régis Bonnessée"
+    ]
+  }
+}

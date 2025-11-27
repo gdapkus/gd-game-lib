@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:16:37.913Z",
+  "gameDetails": {
+    "id": "5831",
+    "name": "Britain Stands Alone",
+    "type": "boardgame",
+    "description": "Britain Stands Alone allows players to fight one of the most intriguing \"what if's?\" of WWII.\n\nThe game explores the hypothetical possibilities of Operation Sea Lion, assuming that the Luftwaffe had succeeded in winning air superiority, and then gone on to the inflict serious losses upon the Royal Navy.\n\nGiven their circumstances, could the Third Reich have won WWII in the fall of 1940?\n\nThe game features:\n\n    Integrated air-sea movement and interception capabilities\n    Combined arms combats\n    Rules for Brandenburgers, Churchill, the Royal Family, etc\n    Additional Campaign starting with the Battle of Britain, adjusting the invasion possibilities based on the outcome of the air battle.\n\n\n",
+    "image": "https://cf.geekdo-images.com/jGjw8O4QKrrRbwEPYu_zFA__original/img/7zayjgv70Ye8Lzh95mp1u93dnEg=/0x0/filters:format(jpeg)/pic28452.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jGjw8O4QKrrRbwEPYu_zFA__small/img/c2TVBrHV1YGxMePfjZfHIfZFs90=/fit-in/200x150/filters:strip_icc()/pic28452.jpg",
+    "link": "https://boardgamegeek.com/thing/5831",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "1994",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.65232",
+    "averageWeight": "3.2",
+    "boardGameRank": "11333",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Jim Werbaneth"
+    ]
+  }
+}

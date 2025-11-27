@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:03:01.480Z",
+  "gameDetails": {
+    "id": "177725",
+    "name": "They Come Unseen",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nSubmarines and surface fleets battle for dominance of the seas! One team must use submarines to sneak troops into enemy ports and destroy vital strategic targets, while the other team deploys a surface fleet to hunt down the subs and protect their crucial supply lines.\n\nDesigned by retired Royal Navy Officer and submarine commander Andrew Benford, and developed deep beneath the waves, They Come Unseen is an asymmetrical strategy game of bluffing and deception that uses two boards: one for action on the surface, seen by both players, and one for movement underwater, seen only by the submarine commanders. The game also comes with specially designed control panels to aid each player in tracking vital information such as fuel, ammunition and current cruising depth.\n\n",
+    "image": "https://cf.geekdo-images.com/W3FQsTrk1AWV6Ob70BOl0g__original/img/iDGIAAHEUV-8sXxKTp0GDSfbANw=/0x0/filters:format(jpeg)/pic2570712.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/W3FQsTrk1AWV6Ob70BOl0g__small/img/lXBUNTjB_V4L-PDUTJPo08nM6R8=/fit-in/200x150/filters:strip_icc()/pic2570712.jpg",
+    "link": "https://boardgamegeek.com/thing/177725",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "6.77708",
+    "averageWeight": "2.8571",
+    "boardGameRank": "8591",
+    "mechanics": [
+      "Hidden Movement",
+      "Secret Unit Deployment",
+      "Square Grid",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Modern Warfare",
+      "Nautical",
+      "Wargame"
+    ],
+    "designers": [
+      "Andrew Benford"
+    ]
+  }
+}

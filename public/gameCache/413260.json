@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:50:05.666Z",
+  "gameDetails": {
+    "id": "413260",
+    "name": "Botanicus",
+    "type": "boardgame",
+    "description": "How about creating your own botanical garden? As an aristocrat in the late 19th century, you have bought land, hired a gardener and set out to find the best plants there are.\nAs you know, the visitors are very picky about the plants they want to see, so your job is not only to acquire the plants, but also to sort them according to the visitors' preferences.\nIn Botanicus, you compete for the best action-spots in a unique selection mechanism, and then make the most of the options available to you. You have to collect new plants, take care of them, water them and keep an eye on the gardener. Last but not least, you have to collect some money along the way to pay for all this.\nIn the end, what counts is how many visitors you satisfy and how beautiful your garden is. Will you be able to outdo the gardens of your competitors?\n\n&mdash;description from the publisher (translated)\n\nWie w&auml;re es eigentlich, einen eigenen botanischen Garten anzulegen? Als Artistokrat:in des sp&auml;ten\n19. Jahrhunderts hast du Land gekauft, heuerst einen G&auml;rtner an und machst dich auf, die sch&ouml;nsten Pflanzen &uuml;berhaupt zu finden. Allerdings haben die Besucher ganz spezielle Vorstellungen, welche Pflanzen sie in deinem Garten bewundern wollen. Es reicht also nicht, sie irgendwie einzupflanzen &ndash; nein, du musst die Pflanzen dummerweise auch noch so aufstellen, dass die passenden Besucher das sehen, was sie wollen.\nIn Botancius konkurrierst du &uuml;ber einen neuen Aktions-Mechanismus mit deinen Mitspieler:innen um den besten Ertrag f&uuml;r deinen Garten. Du willst also die richtigen Pflanzen ergattern und diese zum richtigen Zeitpunkt gie&szlig;en, dich um deinen G&auml;rtner k&uuml;mmern, und nat&uuml;rlich darfst du auch deine Finanzen nicht vernachl&auml;ssigen!\nAm Ende kommt es darauf an, wie viele der Schaulustigen zufrieden mit ihrem Besuch sind und wie sch&ouml;n euer Garten ist. Schaffst du es, die G&auml;rten deiner Konkurrent*innen zu &uuml;berschatten?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/6rKMO7TctO94pdzVSPgGtg__original/img/liSQqCZ_E5PtAh3hpLF-Dm0e69s=/0x0/filters:format(png)/pic8093636.png",
+    "thumbnail": "https://cf.geekdo-images.com/6rKMO7TctO94pdzVSPgGtg__small/img/xAeYJxQNM8kiUBUzRYwF91x3Op4=/fit-in/200x150/filters:strip_icc()/pic8093636.png",
+    "link": "https://boardgamegeek.com/thing/413260",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.39737",
+    "averageWeight": "2.403",
+    "boardGameRank": "2186",
+    "mechanics": [
+      "Action Drafting",
+      "Grid Coverage",
+      "Grid Movement",
+      "Modular Board",
+      "Resource to Move",
+      "Set Collection",
+      "Tile Placement",
+      "Turn Order: Stat-Based",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic",
+      "Environmental",
+      "Territory Building"
+    ],
+    "designers": [
+      "Samuele Tabellini Ferrari",
+      "Vieri Masseini"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:16:42.169Z",
+  "gameDetails": {
+    "id": "4815",
+    "name": "The Campaign for North Africa: The Desert War 1940-43",
+    "type": "boardgame",
+    "description": "This is a wargame like no other.  While the map area (5 full size maps) has been repeated in other North Africa games, the game is detailed to a degree no other game has come close to.  If using the full rules you keep track of every individual plane and pilot in the three year campaign. Each counter on the board representing a ground unit is composed of many units which are kept track of on logs.  Supplies are kept track of and dispersed in a very detailed manner.\n\nFrom the rulebook we read how to run a game. \"CNA is a logistically-oriented game, and its play requires not only a lot of attention to logistics, but, if you will, a logistically sound methodology.\" It is suggested that you have 5 persons per side with the following duties.\n\nCommander-in-Chief: responsible for strategic decisions and to settle intra-team disputes.\n\nLogistics Commander: In charge of all supplies.  Accepts supply requisitions from the others and keeps all informed of supply shortages. Is in charge of supply dumps, Third line trucks and some second line trucks and is in charge of Naval convoys.\n\nRear Area Commander: Gets the supplies to the front. In charge of security, reserves, prisoners and construction.\n\nAir Commander: In charge of all planes and pilots.  Is responsible for planning air missions and deployment of air bases.\n\nFront-line Commander: Executes all attacks and troop movements in the front line.  Helps with coordinating defensive efforts.\n\nPlaying time with 10 players is listed at 1200 hours.\n\n",
+    "image": "https://cf.geekdo-images.com/lZG4mw3spVwEVhyPNo_aMQ__original/img/NZgtiHlkntxUFc95Vblwv2dL-vY=/0x0/filters:format(jpeg)/pic339497.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lZG4mw3spVwEVhyPNo_aMQ__small/img/NCgFOSiu0DCpg6Xi9T_19waZEg4=/fit-in/200x150/filters:strip_icc()/pic339497.jpg",
+    "link": "https://boardgamegeek.com/thing/4815",
+    "minPlayers": "8",
+    "maxPlayers": "10",
+    "yearPublished": "1979",
+    "playingTime": "60000",
+    "minPlayingTime": "60000",
+    "maxPlayingTime": "60000",
+    "bestAtCount": [
+      10
+    ],
+    "averageRating": "6.28201",
+    "averageWeight": "4.701",
+    "boardGameRank": "17568",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Richard H. Berg"
+    ]
+  }
+}

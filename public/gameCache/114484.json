@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:49:20.652Z",
+  "gameDetails": {
+    "id": "114484",
+    "name": "Ayu",
+    "type": "boardgame",
+    "description": "Ayu is a unification game for two players: Black and White. It is played on the intersections (points) of an odd-sized square grid (board). The recommended board sizes are between 9&times;9 and 15&times;15 points. At the start of the game, black stones are placed at the intersections of even columns and odd rows, and white stones are placed at the intersections of odd columns and even rows. All other points start out empty (see images).\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tDefinitionsA group is a stone along with all stones one can reach from it through a series of steps onto orthogonally adjacent stones of its color.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tPlayBlack plays first, then turns alternate. On your turn, make note of the empty points orthogonally adjacent to one of your groups and move a stone in that group to one of those points. All stones that were part of the same group before the move must be part of the same group after the move.\n\nYour move must reduce the distance between the affected group and its closest friendly group. The distance between two groups is the shortest free path between them along the lines of the board, i.e. the number of consecutive moves you would need to merge those groups. The path does not need to be a straight line.\n\nIf you cannot make a move on your turn, you win. This occurs when you have only one group or there is no free path between any of your groups. If a board position is repeated with the same player to move, the game ends in a draw. This is possible in theory, but probably requires colluding players.\n\nThe pie rule can be used in order to make the game fair. This rule gives White the option, on their first turn only, to swap sides with Black instead of making a regular move.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tNotesTry to build long walls between enemy groups to force your opponent to spend more moves connecting them. Playing from the outside in is usually more efficient, as it helps you not to leave any groups behind. The distance rule has some interesting tactical effects: sometimes, in order to move a group (A) in the desired direction, you will first have to move away its closest counterpart (B) so that A is not \"engaged\" to B anymore.\n\n\"Ayu\" is short for \"Attach Your Units\".\n\n",
+    "image": "https://cf.geekdo-images.com/v03t7raq-sFpAyH8zaEs3A__original/img/ruX8EiUmdz8wJEvzdwsVtKf8DXE=/0x0/filters:format(jpeg)/pic1179209.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/v03t7raq-sFpAyH8zaEs3A__small/img/Psbe05L_WngZJtq89YMpiKb3-I0=/fit-in/200x150/filters:strip_icc()/pic1179209.jpg",
+    "link": "https://boardgamegeek.com/thing/114484",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2011",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.89",
+    "averageWeight": "2.5",
+    "boardGameRank": "15747",
+    "mechanics": [
+      "Chaining",
+      "Connections",
+      "Point to Point Movement",
+      "Square Grid"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Print & Play"
+    ],
+    "designers": [
+      "Luis Bolaños Mures"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:17:24.878Z",
+  "gameDetails": {
+    "id": "42929",
+    "name": "Martian Rails",
+    "type": "boardgame",
+    "description": "Martian Rails is a railroad building game set on a fictional planet Mars.  Simultaneously, the game allows a world of canals and noble savages, a cold high altitude desert globe, a nearly airless planet, terraforming, nanotech cyberpunk and everything in between from 100+ years of science fiction stories set on Mars.  The game further captures the mood of those stories and the feel of the planet.  The game uses a further refinement of the wrap-around mechanism used in Lunar Rails to simulate travel across a 3D  opposed to a 2D map.  Having to think in 3D wraparound mode adds additional \"brain-burn\" to the Empire Builder franchise... sometimes the shortest distance between two points isn't the obvious straight line.\n\nSee crayon rail games for more crayon fun.\n\n",
+    "image": "https://cf.geekdo-images.com/2QXOsmQPTdGj_ICMJpXFeg__original/img/w3WRbu5Y6p1uh0H4zU8UxTWwd0Y=/0x0/filters:format(jpeg)/pic550728.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2QXOsmQPTdGj_ICMJpXFeg__small/img/iPjYqUJepA0Rh4wjvfCynafrSLA=/fit-in/200x150/filters:strip_icc()/pic550728.jpg",
+    "link": "https://boardgamegeek.com/thing/42929",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2009",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.18411",
+    "averageWeight": "3.2",
+    "boardGameRank": "5134",
+    "mechanics": [
+      "Commodity Speculation",
+      "Crayon Rail System",
+      "Hexagon Grid",
+      "Line Drawing",
+      "Network and Route Building",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Economic",
+      "Science Fiction",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "M. Robert Stribula"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:55:30.832Z",
+  "gameDetails": {
+    "id": "37680",
+    "name": "The Heavens of Olympus",
+    "type": "boardgame",
+    "description": "Zeus, the greatest of all gods, has decided to build a universe that he can gaze upon from high atop Mount Olympus. He has enlisted the help of several unknown gods to do this for him - and they have 5 days to finish the job. The god who performs the best while building this universe will be elevated in status and receive admission into Mount Olympus.\n\nThe game progresses over the course of 5 rounds or \"Days\". Each day has three phases (a morning, an afternoon, and an evening). During these phases, players will select actions such as making planets, placing planets, etc. After these three phases are completed, night happens in which scoring occurs and Zeus gazes upon the work of the players. Players receive Prestige Points for things such as having the most planets in an orbit and for constellations (connections of planets) they have built.\n\nAt the end of the 5th day, whoever has earned the most prestige wins.\n\n",
+    "image": "https://cf.geekdo-images.com/I6OdGK6mJSgt6QTpIStknA__original/img/VDxV-EhJ3WIERVizcb6Sdpmw5yo=/0x0/filters:format(jpeg)/pic757568.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/I6OdGK6mJSgt6QTpIStknA__small/img/8Li0X8vejMjFfzmJqvLwlc70sN4=/fit-in/200x150/filters:strip_icc()/pic757568.jpg",
+    "link": "https://boardgamegeek.com/thing/37680",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "5.6669",
+    "averageWeight": "2.6875",
+    "boardGameRank": "22918",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Economic",
+      "Mythology"
+    ],
+    "designers": [
+      "Mike Compton"
+    ]
+  }
+}

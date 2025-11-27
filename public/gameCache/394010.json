@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:57:33.518Z",
+  "gameDetails": {
+    "id": "394010",
+    "name": "Darwin's Journey: Pirates mini-expansion",
+    "type": "boardgameexpansion",
+    "description": "This mini-expansion introduces a treasure to be discovered, a pirate ship moving around with pirates that can perform raids on players' ships.\n\nInclude inside Darwin's Journey: Collector's Edition and was available as an add-on during the Kickstarter campaign for those backing at the base game only pledge level.\n\n",
+    "image": "https://cf.geekdo-images.com/wQfvVgYdo5J75PtMt1HnjQ__original/img/VYfDUL8touaB0zvAdJfXE2eLkA0=/0x0/filters:format(jpeg)/pic7704035.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wQfvVgYdo5J75PtMt1HnjQ__small/img/IGpp6hc2xejpH5-3EjIdQzD5RUU=/fit-in/200x150/filters:strip_icc()/pic7704035.jpg",
+    "link": "https://boardgamegeek.com/thing/394010",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.61901",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone"
+    ]
+  }
+}

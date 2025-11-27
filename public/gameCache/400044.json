@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:08:33.035Z",
+  "gameDetails": {
+    "id": "400044",
+    "name": "Tulip Season",
+    "type": "boardgame",
+    "description": "At Keukenhof, the festival of tulips in the Netherlands, the tulip fields wash the countryside in gorgeous colour, dotted by the iconic windmills. As a tulip farmer, you want to have the best, most valuable tulip fields. Will you bloom your way to victory?\n\nA very portable & easy to learn tile laying game of tulip fields, greenhouses, & windmills.\n\nLay one of two dual-coloured tulip tiles on your turn and place windmills to claim fields for points. Bonus end game points are awarded for public scoring goals selected randomly at the start of the game, and you can add another \"greenhouse tile\" scoring goal during the game that only you can score. Can you maximise its scoring *and* placement bonuses?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/IlcDQL6GiKa2Dh9JQd9Dew__original/img/HT3UbwNmcLkRZir9ZOy9gmK5PQc=/0x0/filters:format(png)/pic8688563.png",
+    "thumbnail": "https://cf.geekdo-images.com/IlcDQL6GiKa2Dh9JQd9Dew__small/img/y86TxMsMxkD1Ls4rEIPtZn2BOeM=/fit-in/200x150/filters:strip_icc()/pic8688563.png",
+    "link": "https://boardgamegeek.com/thing/400044",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "25",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "25",
+    "bestAtCount": null,
+    "averageRating": "8",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Recognition",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Farming",
+      "Territory Building"
+    ],
+    "designers": [
+      "Joshua Lobkowicz",
+      "Kathleen Mercury"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T19:31:24.207Z",
+  "gameDetails": {
+    "id": "386502",
+    "name": "Amritsar: The Golden Temple",
+    "type": "boardgame",
+    "description": "Amritsar, India is home to The Golden Temple or Sri Harmandir Sahib. This spectacular building is world-renowned as a sacred place for the Sikh community and one of the most famous pilgrimage destinations on Earth.\nAfter being demolished several times, Maharaja Ranjit Singh rebuilt it using marble, copper and 750 kilos of pure gold, hence its name.\nIn Amritsar, the players will represent the different personalities of the time who helped the Maharaja of the Sikh Empire with the reconstruction of the Golden Temple.\nUsing a clever mechanic based on the sowing system of the classic mancala games, players will use the different workers and their very own elephant to carry out the necessary tasks. On your turn, you will be able to perform 1-3 actions depending on how well you have coordinated the workers and your elephant. These actions will consist of collecting resources in the quarry or the market, advancing on the different paths of knowledge, improving your personal board, turning to your mahout (elephant rider) for help and above all making donations to the temple with the aim of obtaining as many prestige points as possible. At the end of the game, the player with the most prestige will be declared the winner of the game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/GF21q3A5-3xNClH8MiwAbg__original/img/S9_dADYzAD71tHU3aQQ0w8tcgDo=/0x0/filters:format(jpeg)/pic7526676.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GF21q3A5-3xNClH8MiwAbg__small/img/zmyjCI6wyL92DqszJC4FI_s2syo=/fit-in/200x150/filters:strip_icc()/pic7526676.jpg",
+    "link": "https://boardgamegeek.com/thing/386502",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.417",
+    "averageWeight": "3.3134",
+    "boardGameRank": "2732",
+    "mechanics": [
+      "Mancala",
+      "Rondel",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Territory Building"
+    ],
+    "designers": [
+      "David Heras Pino"
+    ]
+  }
+}

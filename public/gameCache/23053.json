@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:55:06.249Z",
+  "gameDetails": {
+    "id": "23053",
+    "name": "Guatemala Café",
+    "type": "boardgame",
+    "description": "A game about coffee planting and selling in Guatemala. The game uses two boards, representing plantations and markets. Players try to produce different kinds of coffee to ship to Europe. The market overseer decides where and if players can buy roads, huts, workers or ships or if scoring takes place. The scoring track also has a marker on it which moves ahead. The game ends when a player caught up with the marker on the scoring track.\n\n",
+    "image": "https://cf.geekdo-images.com/q6zbyelpgpEQjcL9lCK2wg__original/img/SlUMjghT1REDira1S4Dew6s2Gfo=/0x0/filters:format(jpeg)/pic196266.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/q6zbyelpgpEQjcL9lCK2wg__small/img/Ohsb_hwuSGmfGFJ7VD_9aUseMqk=/fit-in/200x150/filters:strip_icc()/pic196266.jpg",
+    "link": "https://boardgamegeek.com/thing/23053",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2006",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.24521",
+    "averageWeight": "2.5738",
+    "boardGameRank": "6461",
+    "mechanics": [
+      "Commodity Speculation",
+      "Enclosure",
+      "Hand Management",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Farming",
+      "Territory Building"
+    ],
+    "designers": [
+      "Inka Brand",
+      "Markus Brand"
+    ]
+  }
+}

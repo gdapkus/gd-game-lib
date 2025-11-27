@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:12:53.234Z",
+  "gameDetails": {
+    "id": "203124",
+    "name": "Massive Darkness: Heroes & Monster Set – Sorcerers vs Lord Tusk",
+    "type": "boardgameexpansion",
+    "description": "Expansion for Massive Darkness containing:\n\n3 Hero miniatures (Ajax the Sorcerer, Sarah the High Elf and Silence the Thief); \n1 Roaming Monster Creature (Lord Tusk); \n5 Cards; \n1 Class sheet pad.\n\n",
+    "image": "https://cf.geekdo-images.com/LHAtH044dsKwXHNrMZUnMg__original/img/0BLXIhwI_8-Nx65hj9L_YEu6Pok=/0x0/filters:format(jpeg)/pic3687951.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LHAtH044dsKwXHNrMZUnMg__small/img/9cCkVC7Su9KzdEOXKaDHy-Buaao=/fit-in/200x150/filters:strip_icc()/pic3687951.jpg",
+    "link": "https://boardgamegeek.com/thing/203124",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.4317",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Phase Order"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Raphaël Guiton",
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult"
+    ]
+  }
+}

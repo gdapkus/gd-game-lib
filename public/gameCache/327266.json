@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:02:20.343Z",
+  "gameDetails": {
+    "id": "327266",
+    "name": "Dutch Resistance: Orange Shall Overcome!",
+    "type": "boardgame",
+    "description": "Resistance fighters in the Netherlands work together to outsmart the occupation forces in a non-violent way.\n\nIn a period when most people were too afraid to oppose the occupying Nazi forces, some decided they did not want to sit idly by. To keep morale high and show they did not accept the occupation, they wrote a secret message OZO (Oranje Zal Overwinnen, translated as Orange Shall Overcome) on the walls. They formed groups and found ways to sabotage the occupiers' plans. You are one of those resistance fighters.\n\nDutch Resistance: Orange Shall Overcome! is a scenario-based cooperative game about the Dutch Resistance during the Second World War. The main mechanisms are pick-up and deliver and resource management.\n\nThe game has five very different highly replayable scenarios. They are not directly connected to each other but focus on different aspects of the resistance work. Each scenario has its own goals, special rules, cards, and other elements.\n\nEach player controls a character that is based on a real resistance fighter. These ten different characters have their own deck of three unique Character cards, based on what this person did during the war.\n\nOrange Shall Overcome!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/aM4L-_1Q7Rm733wCN18ekQ__original/img/F2rZXxqfGwZLsnod3-Mi--HZ53o=/0x0/filters:format(jpeg)/pic7617054.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aM4L-_1Q7Rm733wCN18ekQ__small/img/c_FYSzV4OmvBAMQ9K5T4CasSrUM=/fit-in/200x150/filters:strip_icc()/pic7617054.jpg",
+    "link": "https://boardgamegeek.com/thing/327266",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "180",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.00788",
+    "averageWeight": "3.15",
+    "boardGameRank": "5102",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Pick-up and Deliver",
+      "Push Your Luck",
+      "Relative Movement",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Educational",
+      "World War II"
+    ],
+    "designers": [
+      "Marcel Köhler"
+    ]
+  }
+}

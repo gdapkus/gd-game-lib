@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:24:02.145Z",
+  "gameDetails": {
+    "id": "397438",
+    "name": "Barrage: Duel",
+    "type": "boardgameexpansion",
+    "description": "The Barrage: Duel expansion includes a new map specifically designed for 2-player games and the Duel board, which provides a new mechanic that enhances the 2-player games experience.\n\nBarrage Duel can be played in two ways: you can simply use the new map to have more competition in 2-player challenges, or you can use the Duel board along with the other additional components. This last option changes the rules of the game!\n\nThe new map has fewer basins, and some building spaces will cost more. These spaces will change from game to game, always creating variety in this map.\n\nThe Duel board adds three conditions on which to compete with your opponent, different in each game. At the end of each round, the player who best satisfies a condition will move the relative marker to their side. Mark the opponent tightly on each condition; otherwise, they will get decisive advantages!\n\nYou need the base game Barrage to be able to use it. You can also use the Barrage: Leeghwater Project expansion in combination with this expansion.\n\n&mdash;description from the rulebook\n\n",
+    "image": "https://cf.geekdo-images.com/KU4NmSBgyHmTbLHyDZQ4pg__original/img/AG5dC1bfydEVAEHAYODtiQgUVXQ=/0x0/filters:format(jpeg)/pic8241166.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KU4NmSBgyHmTbLHyDZQ4pg__small/img/Skv-IQ7QenXZvyioYKD5muPvYuM=/fit-in/200x150/filters:strip_icc()/pic8241166.jpg",
+    "link": "https://boardgamegeek.com/thing/397438",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.54971",
+    "averageWeight": "3.7143",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Retrieval",
+      "Contracts",
+      "End Game Bonuses",
+      "Income",
+      "Network and Route Building",
+      "Ownership",
+      "Tug of War",
+      "Turn Order: Stat-Based",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Economic",
+      "Environmental",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Tommaso Battista",
+      "Simone Luciani"
+    ]
+  }
+}

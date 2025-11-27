@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:49:07.000Z",
+  "gameDetails": {
+    "id": "230510",
+    "name": "Arkham Horror: The Card Game – The Unspeakable Oath: Mythos Pack",
+    "type": "boardgameexpansion",
+    "description": "It was always going to come to this&hellip; You're finally headed to the asylum.\n\nThe Unspeakable Oath is the second Mythos Pack in The Path to Carcosa cycle for Arkham Horror: The Card Game, and it carries you deep into the belly of Arkham's asylum. You&rsquo;ll find yourself behind locked doors, wracked by Doubt, and surrounded by Lunatics. And, still, you'll catch hints of deeper and darker secrets.\n\nAnd while its scenario continues and deepens the game's exploration of the mystical realms between the traditional roleplaying and card game experiences, its twenty-four player cards (two copies each of twelve different cards) provide you access to a number of wealthy Patrons and allow you to \"learn\" from your mistakes.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/K6R7cn0CCWtNA1mThDewcw__original/img/mjrGgHnfW5oR5HZV56zhzN6SQno=/0x0/filters:format(png)/pic3763067.png",
+    "thumbnail": "https://cf.geekdo-images.com/K6R7cn0CCWtNA1mThDewcw__small/img/qUBBgMJfytH3FmAnC5I0qao3v6M=/fit-in/200x150/filters:strip_icc()/pic3763067.png",
+    "link": "https://boardgamegeek.com/thing/230510",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.45842",
+    "averageWeight": "3.6429",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Role Playing",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Card Game",
+      "Collectible Components",
+      "Fantasy",
+      "Horror",
+      "Novel-based"
+    ],
+    "designers": [
+      "Nate French",
+      "MJ Newman"
+    ]
+  }
+}

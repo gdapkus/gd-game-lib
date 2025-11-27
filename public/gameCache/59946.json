@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T20:16:54.933Z",
+  "gameDetails": {
+    "id": "59946",
+    "name": "Dungeons & Dragons: Castle Ravenloft Board Game",
+    "type": "boardgame",
+    "description": "Castle Ravenloft Boardgame by Bill Slavicsek, Mike Mearls and Peter Lee\nThe master of Ravenloft is having guests for dinner &ndash; and you are invited!\nEvil lurks in the towers and dungeons of Castle Ravenloft, and only heroes of exceptional bravery can survive the horrors within. Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.\n\nEach player selects a hero; a ranger, rogue, warrior, cleric, or wizard. On their turn, each player can explore further into the dungeon (turn over new tiles), move through the already explored parts of the dungeon, and fight monsters. When a new dungeon tile is revealed, there is typically an encounter of some sort, and new monsters to fight are added. Slain monsters reward the players with treasure, and experience points, allowing them to level up and increase their skills during play. Players must cooperate to stay alive, slay the monsters, and achieve the goal of their quest. Each scenario has a different goal - from retrieving a relic, to slaying a vampire lord.\n\nIntegrates with:\n\n    Dungeon Command: Blood of Gruumsh\n    Dungeon Command: Curse of Undeath\n    Dungeon Command: Sting of Lolth\n    Dungeon Command: Tyranny of Goblins\n    Dungeon Command: Heart of Cormyr\n\n\nCan also integrate with:\n\n    Dungeons & Dragons: Castle Ravenloft Board Game\n    Dungeons & Dragons: The Legend of Drizzt Board Game\n    Dungeons & Dragons: Wrath of Ashardalon Board Game\n    Dungeons & Dragons: Temple of Elemental Evil Board Game\n    Dungeons & Dragons: Tomb of Annihilation Board Game\n    Dungeons & Dragons: Waterdeep – Dungeon of the Mad Mage Board Game\n    Dungeons & Dragons: Ghosts of Saltmarsh Board Game\n\n\n",
+    "image": "https://cf.geekdo-images.com/4opHd-PZm42sUE0DD7m8_w__original/img/tatfzsU05LERJtPwCIXjLjadbnQ=/0x0/filters:format(jpeg)/pic660244.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4opHd-PZm42sUE0DD7m8_w__small/img/FRE_ow1_sOI4yMvXEKhUc58nXTs=/fit-in/200x150/filters:strip_icc()/pic660244.jpg",
+    "link": "https://boardgamegeek.com/thing/59946",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.97899",
+    "averageWeight": "2.5",
+    "boardGameRank": "1078",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Miniatures"
+    ],
+    "designers": [
+      "Rob Heinsoo",
+      "Peter Lee",
+      "Mike Mearls",
+      "Bill Slavicsek"
+    ]
+  }
+}

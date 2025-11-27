@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T19:33:32.897Z",
+  "gameDetails": {
+    "id": "202977",
+    "name": "Cytosis: A Cell Biology Board Game",
+    "type": "boardgame",
+    "description": "Cytosis: A Cell Building Game is a worker placement game that takes place inside a human cell. Players start out with a number of workers and on a player&rsquo;s turn, they will place one of their workers in any available location within that cell. Some of the locations provide players with resources (e.g., mRNA, ATP); some with actions (e.g., convert resources, collect cards). Resources are used to build enzymes, hormones and/or receptors, which score Health Points. The player with the most Health Points at the end of the game wins!\n\n",
+    "image": "https://cf.geekdo-images.com/Vf-K9C_bR3COd321BKDmEw__original/img/7DQN3kcV_e0EnlXZ6qbZveXx_qs=/0x0/filters:format(png)/pic4289664.png",
+    "thumbnail": "https://cf.geekdo-images.com/Vf-K9C_bR3COd321BKDmEw__small/img/A20D-rY9ML4cxGyXDtHWVygehOA=/fit-in/200x150/filters:strip_icc()/pic4289664.png",
+    "link": "https://boardgamegeek.com/thing/202977",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2017",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.96583",
+    "averageWeight": "2.4308",
+    "boardGameRank": "2205",
+    "mechanics": [
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Educational",
+      "Industry / Manufacturing",
+      "Medical"
+    ],
+    "designers": [
+      "John Coveyou"
+    ]
+  }
+}

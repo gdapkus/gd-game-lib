@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:16:10.495Z",
+  "gameDetails": {
+    "id": "322670",
+    "name": "Skulls of Sedlec: Castle Guards",
+    "type": "boardgameexpansion",
+    "description": "Castle Guards is a 6-card expansion that shuffles into the game, adds the ability to play with a 4th player and is fully compatible with the solo expansion, Skulls of Sedlec: Monstrance, as well.\n\nThis expansion to Skulls of Sedlec adds a new type of skull: the Castle Guards. They want to keep watch over Royals by being above them.\n\nAdding in the expansion is easy, just shuffle in the expansion cards to the base game and play.\n\n",
+    "image": "https://cf.geekdo-images.com/kMiRVg7b5FjPIbvrF5VqOg__original/img/ERS0R78SCJqbhhEOvLAh_BqhRjU=/0x0/filters:format(png)/pic5782418.png",
+    "thumbnail": "https://cf.geekdo-images.com/kMiRVg7b5FjPIbvrF5VqOg__small/img/XGIwUwFMIBNLAVYz02UvKBFedgQ=/fit-in/200x150/filters:strip_icc()/pic5782418.png",
+    "link": "https://boardgamegeek.com/thing/322670",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.16533",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Dustin Dobson"
+    ]
+  }
+}

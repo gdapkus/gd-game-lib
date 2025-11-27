@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:14:50.279Z",
+  "gameDetails": {
+    "id": "264687",
+    "name": "Project: ELITE – Alien Allies Pack",
+    "type": "boardgameexpansion",
+    "description": "The Terran territories were not the first targets of Janusian invasion. The alien menace has enveloped and consumed over a dozen previous civilizations as its titanic fleet edged along through the galaxies. Survivors of these conquests hate the Janusians almost more than Terrans do &ndash; which is why it came as no shock when a pair of aliens arrived planetside and offered their help to Project: ELITE. Two esteemed members of the elite within the Plu&rsquo;htonian royalty, Royal Envoy Apollo and Duchess Aloria, have come to Earth to help deal defeat to the Janusians &ndash; just as their people did decades ago. It might come at a price down the road, but for now, any help is good help in such a dark hour. The ELITEs need all the help they can get defending humanity, even if it comes from beyond the stars.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/3Jz9zl6dnpRslgUX6klaxQ__original/img/8sZvnBYF687wrDiZ282GSCy4V9g=/0x0/filters:format(jpeg)/pic4539908.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3Jz9zl6dnpRslgUX6klaxQ__small/img/-yBtM5q3_5q06QyHjPzRkxhxdeo=/fit-in/200x150/filters:strip_icc()/pic4539908.jpg",
+    "link": "https://boardgamegeek.com/thing/264687",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2020",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.4913",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fighting",
+      "Miniatures",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Konstantinos Kokkinis",
+      "Sotirios Tsantilas"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-11-26T21:01:32.934Z",
+  "gameDetails": {
+    "id": "11969",
+    "name": "Set Sail!",
+    "type": "boardgame",
+    "description": "Set Sail! is a fun, fast-paced card game for the whole family that draws players into the Age of Sail. Be the first to exploit the resources of the new world!\n\nPlay is fast as all players simultaneously build ships and set sail! Ships are built by playing cards from your deck in order onto ships shared by all players. Play the last card on a ship to set sail. The first player to use all his or her cards wins!\n\nFeaturing original illustrations inspired by the artwork and national flags of the period, Set Sail! educates as well as entertains. It only takes a few minutes to learn and features a number of rule variations to intrigue players of all ages.\n\n",
+    "image": "https://cf.geekdo-images.com/Fcxk_BfMzxh7m1WRGeTk6Q__original/img/F1ABVT51TLMq4c0QBKecgAnsmpg=/0x0/filters:format(jpeg)/pic48285.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Fcxk_BfMzxh7m1WRGeTk6Q__small/img/e8V9PAXhbQ1XHR3OULjqNleNU-I=/fit-in/200x150/filters:strip_icc()/pic48285.jpg",
+    "link": "https://boardgamegeek.com/thing/11969",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "4.43273",
+    "averageWeight": "1.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Card Game",
+      "Nautical"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

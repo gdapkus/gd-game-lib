@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:14:39.011Z",
+  "gameDetails": {
+    "id": "55201",
+    "name": "Power Grid: Transformer Station",
+    "type": "boardgameexpansion",
+    "description": "Power Grid: Transformer Station (Funkenschlag - Umspannwerk) is part of the Power Grid: BGG Promo Card Set.\n\nIt was originally a limited edition card for Power Grid (aka Funkenschlag 2nd Edition) available for a donation at the Essen Spiel fair '09.\n\nThe Transformer Station is connected to a power plant and can supply an additional city.\n\n",
+    "image": "https://cf.geekdo-images.com/nVla-gihoSMozDyMj_-teQ__original/img/IVgO4gqiCQ5a7aZRJ82r-r9iHDI=/0x0/filters:format(jpeg)/pic548038.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nVla-gihoSMozDyMj_-teQ__small/img/1FXYgepe57UWfPdgWTW6xa4cYu0=/fit-in/200x150/filters:strip_icc()/pic548038.jpg",
+    "link": "https://boardgamegeek.com/thing/55201",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2009",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "7.4014",
+    "averageWeight": "2.625",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

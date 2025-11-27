@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:50:41.155Z",
+  "gameDetails": {
+    "id": "207898",
+    "name": "Captive",
+    "type": "boardgame",
+    "description": "Why would someone attack a policeman? It's one of many questions you've been obsessing about since you received this ransom demand following your daughter's kidnapping.\n\nAs you begin walking toward the front door of a manor house deep in the woods in Captive, your hand cramping above your weapon, your spirit satiated with fear, you anticipate that things will turn out badly. Your intuition will not betray you &mdash; even if you were far from imagining what was actually in reserve for you on the most horrifying evening of your entire existence.\n\nCaptive is a comic combined with a game, one title in a series subtitled \"The comic in which you are the hero\". You embody a character in a immersive story in which your choices guide your progress. You have a character sheet akin to those used in role-playing games that tracks your possessions, your special abilities, your coins, and your victory points. In general, gameplay consists in following the comic's panels &mdash; which contain clues, riddles and traps &mdash; and making choices about where to go and what to do, while using your visual perception to collect clues and be smart enough to resolve the riddles. As in any game, you can lose &mdash; sometimes really badly!\n\n",
+    "image": "https://cf.geekdo-images.com/TJSCF7RHWzp06EzTIwh08w__original/img/jkVtqTsGdwKOgeaRpZxEMvztxLc=/0x0/filters:format(png)/pic4120713.png",
+    "thumbnail": "https://cf.geekdo-images.com/TJSCF7RHWzp06EzTIwh08w__small/img/1FM2oueaDNE7jvSvTxfHXjF3Vxc=/fit-in/200x150/filters:strip_icc()/pic4120713.png",
+    "link": "https://boardgamegeek.com/thing/207898",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2014",
+    "playingTime": "130",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "130",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.76002",
+    "averageWeight": "1.1905",
+    "boardGameRank": "5159",
+    "mechanics": [
+      "Memory",
+      "Narrative Choice / Paragraph",
+      "Paper-and-Pencil",
+      "Stat Check Resolution"
+    ],
+    "categories": [
+      "Book",
+      "Comic Book / Strip"
+    ],
+    "designers": [
+      "Emmanuel Quaireau"
+    ]
+  }
+}

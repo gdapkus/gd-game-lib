@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:04:17.546Z",
+  "gameDetails": {
+    "id": "239307",
+    "name": "Unlock!: Secret Adventures",
+    "type": "boardgame",
+    "description": "Unlock! Secret Adventures features three \"escape room\" scenarios that you can play on your tabletop.\n\nUnlock! is a cooperative card game inspired by escape rooms that uses a simple system which allows you to search scenes, combine objects, and solve riddles. Play Unlock! to embark on great adventures, while seated at a table using only cards and a companion app that can provide clues, check codes, monitor time remaining, etc. The three scenarios are...\n\n\n    \"A Noside Story\"\n    \"Tombstone Express\"\n    \"The Adventurers of Oz\"\n\n\n",
+    "image": "https://cf.geekdo-images.com/AifgmNz_JX1PMZRsqOauVA__original/img/OvwGJdAweM4AccywvZ7EzWwW768=/0x0/filters:format(jpeg)/pic3945063.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AifgmNz_JX1PMZRsqOauVA__small/img/mFzXQSF4e_OL07QcpDwq80mWpHY=/fit-in/200x150/filters:strip_icc()/pic3945063.jpg",
+    "link": "https://boardgamegeek.com/thing/239307",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.49972",
+    "averageWeight": "2.1111",
+    "boardGameRank": "997",
+    "mechanics": [
+      "Cooperative Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Thomas Cauët",
+      "Lewis Cheshire",
+      "Arch Stanton"
+    ]
+  }
+}

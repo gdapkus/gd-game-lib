@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:16:28.356Z",
+  "gameDetails": {
+    "id": "31897",
+    "name": "Anno 1701: Das Brettspiel",
+    "type": "boardgame",
+    "description": "On behalf of the queen each player creates a settlement and establishes a flourishing commercial town. Everything that is used for the setting up and which does not bring settlement out, must on commercial travels are procured. The players discover fruitful colonies with their ships and discover on the way Pirates.\n\n",
+    "image": "https://cf.geekdo-images.com/PPtZasdbZS5R5_8WV5dnMg__original/img/GZh9iJwCWWX1XlDpxTo1UDEEWG8=/0x0/filters:format(jpeg)/pic594443.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PPtZasdbZS5R5_8WV5dnMg__small/img/j7YZVqcb4ihGRyZMr1KSOkt0zK0=/fit-in/200x150/filters:strip_icc()/pic594443.jpg",
+    "link": "https://boardgamegeek.com/thing/31897",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.69844",
+    "averageWeight": "2.303",
+    "boardGameRank": "7267",
+    "mechanics": [
+      "Dice Rolling",
+      "Trading"
+    ],
+    "categories": [
+      "Age of Reason",
+      "Civilization",
+      "Exploration",
+      "Video Game Theme"
+    ],
+    "designers": [
+      "Klaus Teuber"
+    ]
+  }
+}

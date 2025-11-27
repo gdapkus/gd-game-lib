@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:04:29.008Z",
+  "gameDetails": {
+    "id": "352997",
+    "name": "UNO: All Wild!",
+    "type": "boardgame",
+    "description": "UNO All Wild plays just like traditional UNO except every card is wild. That means instead of having to matching color and number, you can play any card you want. The goal is the same: be the first player to get rid of all your cards. But it gets complicated thanks to the addition of new action cards that let players strategize and make sure no one goes out too soon.\n\n&mdash;description from the designer\n\nThe card distribution of \"Uno All Wild!\" is as follows:\n\n    Normal Wild Card: 54\n    Reverse Wild Card: 14\n    Skip Wild Card: 14\n    Skip 2 (Double Skip) Wild Card: 6\n    Draw 2 Wild Card: 10\n    Targeted Draw 2 Wild Card: 4\n    Draw 4 Wild Card: 6\n    Forced Swap Wild Card: 4\n\n\n",
+    "image": "https://cf.geekdo-images.com/5ErD2aOFqXUCL8QNoR5aAw__original/img/SCeLqIlRoaeTWRrqKC-txHVPMKA=/0x0/filters:format(png)/pic6572165.png",
+    "thumbnail": "https://cf.geekdo-images.com/5ErD2aOFqXUCL8QNoR5aAw__small/img/PSauiZ6Wtgt0zBejlwOvZWThHsg=/fit-in/200x150/filters:strip_icc()/pic6572165.png",
+    "link": "https://boardgamegeek.com/thing/352997",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "2021",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "4.51838",
+    "averageWeight": "1",
+    "boardGameRank": "29488",
+    "mechanics": [
+      "Hand Management",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Nick Hayes"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:56:02.060Z",
+  "gameDetails": {
+    "id": "16362",
+    "name": "Hula Hippos",
+    "type": "boardgame",
+    "description": "In Maus nach Haus, the members of a mice family race to jump into the mouse hole before the other families can &ndash; but they're stymied in their efforts by a mouse hole that never stands still! Each round, one player spins a wooden ring, making it rotate on the table; before the ring slows and falls to the table, players simultaneously flick their mice tokens with their fingers to try to place them inside the \"mouse hole\" when it lands. Any mouse in the ring is removed from the game, and the first player to bring all his mice home wins.\n\nHula Hippos features the same game play as Maus nach Haus, but this time players have circus hippos that they're encouraging to leap through the hoop. The first player to be hippoless wins.\n\n",
+    "image": "https://cf.geekdo-images.com/p40ROOiTy-28Rfi1RRf8pA__original/img/2Wwl8FmH7680KnpBbv7YkP9CqxA=/0x0/filters:format(jpeg)/pic375243.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/p40ROOiTy-28Rfi1RRf8pA__small/img/vsKPd_OshYUWnIVlqZN2_GWVK5I=/fit-in/200x150/filters:strip_icc()/pic375243.jpg",
+    "link": "https://boardgamegeek.com/thing/16362",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.12002",
+    "averageWeight": "1.0179",
+    "boardGameRank": "8866",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity",
+      "Animals",
+      "Children's Game"
+    ],
+    "designers": [
+      "Heinz Meister"
+    ]
+  }
+}

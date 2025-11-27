@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:51:33.465Z",
+  "gameDetails": {
+    "id": "286343",
+    "name": "Conflict of Heroes: Awakening the Bear – Operation Barbarossa 1941 (Third Edition)",
+    "type": "boardgame",
+    "description": "Awakening the Bear is the first game in the multi-award winning Conflict of Heroes series. This series is a squad level combined arms training game used by history fans, universities, and military personnel throughout the world.  This game takes you to the eastern front during Operation Barbarossa, the German invasion of Russia. Many consider this time period to be the birth of modern warfare tactics that continue to be used and perfected by today's modern armies.\n\nYou command German or Soviet forces comprised of infantry squads, crewed support weapons, individual tanks, armored cars, artillery, and more. Much effort went into distinguishing the units in the game by highlighting their historical strengths and weaknesses. For example, each tank's defense rating takes into account relative armor thickness, armor slope deflection percentage, speed, size, targeting mechanics, and crew training. All these factors are represented in an easy to learn target number system. You do not have to worry about the details; they are all built into the system! As the commander, you concentrate on tactics to execute your mission and firefight objectives.\n\nThe 3rd Edition Rules change several key elements of Conflict of Heroes from previous editions. A Unit no longer receives 7  Action Points. Instead, each Turn, a player selects one of their Units to take an Action. After completing the Action, they roll a custom d10 die to determine if the Unit becomes Spent. If the player rolls higher than the Action&rsquo;s Cost, the Unit is free to continue taking Actions on future Turns. More involved Actions have a higher Spent probability. On average, Units will be able to take the same number of Actions as in the previous 7AP edition rules, but now your units may not always perform as expected.\n\nThis and other new mechanics like Stress encourage players to experiment with integrated battlefield tactics that make use of multiple Units working together. They also heighten the experience of &lsquo;Fog of War,&rsquo; in that players must now assess the risk attached to each Action they take, and determine the best time to use their CAPs to mitigate that risk.\n\nAll previous Conflict of Heroes editions are 100% compatible with these 3rd Edition rules. This game can also be played with previous edition rules.\n\n",
+    "image": "https://cf.geekdo-images.com/kUpR9Xi_wsf88yt9KTBmyg__original/img/_8SR6BgnidG7KXEuuZN86I5u0Ds=/0x0/filters:format(jpeg)/pic5053387.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kUpR9Xi_wsf88yt9KTBmyg__small/img/q9Opb1dMlpVRbe2xrFU7Sa3WuW8=/fit-in/200x150/filters:strip_icc()/pic5053387.jpg",
+    "link": "https://boardgamegeek.com/thing/286343",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "240",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.08805",
+    "averageWeight": "3.0952",
+    "boardGameRank": "4388",
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Uwe Eickert",
+      "Gunter Eickert"
+    ]
+  }
+}

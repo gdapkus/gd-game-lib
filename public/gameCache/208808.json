@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:02:18.690Z",
+  "gameDetails": {
+    "id": "208808",
+    "name": "Cinco Linko",
+    "type": "boardgame",
+    "description": "With nothing but four stacks of colored tiles, it's no wonder why Cinco Linko &mdash; a.k.a. OK Play &mdash; is regarded as the world's easiest to understand game. Don't let that fool you though - whilst this game takes minutes to learn, it takes ages to master. The rules are simple: using your stack of tiles, you try to make a line of five before any of your opponents can. Each tile must line up with the flat side of another (no placing corners on corners) and your line of five can go orthogonally or diagonally. If you manage to use all of your tiles and there's still no winner, you can reposition them one at a time. Whether you're from Albania or Zambia, speaking in Urdu or Zulu or playing against a rabbi or a Jedi, OK Play can go anywhere and be played by anyone, with anyone (even if you can't understand a word the other person is saying).\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/_HFgArmNSGX_KhEjmZzl_w__original/img/mWr5MdJMOoYvmizDwAC6rBvhDXU=/0x0/filters:format(png)/pic4404566.png",
+    "thumbnail": "https://cf.geekdo-images.com/_HFgArmNSGX_KhEjmZzl_w__small/img/ae7uS0ZGTTmSI_0R0Jd5iZ5Dilc=/fit-in/200x150/filters:strip_icc()/pic4404566.png",
+    "link": "https://boardgamegeek.com/thing/208808",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "15",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.55112",
+    "averageWeight": "1.1429",
+    "boardGameRank": "5766",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Deejay Wheelie Bag"
+    ]
+  }
+}

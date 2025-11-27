@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:02:16.943Z",
+  "gameDetails": {
+    "id": "14",
+    "name": "Basari",
+    "type": "boardgame",
+    "description": "Basari is a game of gem merchants competing in a marketplace\": racing, collecting, trading, and predicting what the other merchants will do.\n\nTo start the game, players receive 12 gemstones (3 each of 4 colors). \nEach turn there will be a movement phase and an action phase:\n\nFor movement, everyone simultaneously rolls their die and moves their markers around a track.\n\nThey then choose one of three different actions to perform. The actions are:\n- to take a variety of gems from a market stall, \n- to immediately score from between 4 and 7 points, or \n- to roll and move again and also collect points.\n\nThe action cards are revealed simultaneously. If only 1 player chose a particular action, they simply perform that action. If 2 players chose the same action, they barter back and forth with gemstones. One player will eventually accept the other's offer of gems, and the other will take the action. If 3 or 4 players all chose the same action card, that action is cancelled. Note that in 4-player games, there will always be a conflict in choice of 3 actions, so much more negotiating goes on.\n\nA new turn begins with everyone rolling their die, moving, then choosing and revealing their action cards. When any merchant piece completes a lap around the board, the round ends and bonus points are awarded based on who has the majority in each gem color and who has completed a lap. After three rounds, the game is over and the highest score wins.\n\nRe-implemented by:\n\n\n     Edel, Stein & Reich\n\n\n",
+    "image": "https://cf.geekdo-images.com/NIgg_RpaqVFpYnBSF7wGBQ__original/img/jA5azl-Ios5loeQobGOwFdu6nQw=/0x0/filters:format(jpeg)/pic391903.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NIgg_RpaqVFpYnBSF7wGBQ__small/img/BrlkRHF4vEns7T7LdutbqAffsZY=/fit-in/200x150/filters:strip_icc()/pic391903.jpg",
+    "link": "https://boardgamegeek.com/thing/14",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "1998",
+    "playingTime": "25",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.73626",
+    "averageWeight": "1.8441",
+    "boardGameRank": "2905",
+    "mechanics": [
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Negotiation"
+    ],
+    "designers": [
+      "Reinhard Staupe"
+    ]
+  }
+}

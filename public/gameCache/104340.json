@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:12:58.096Z",
+  "gameDetails": {
+    "id": "104340",
+    "name": "Meltdown 2020",
+    "type": "boardgame",
+    "description": "It's 2020, and a disaster has occurred, damaging nuclear reactors around the country. There's no time to lose; your help is required, and you must lead an evacuation operation to get your people to safety. Rescue them in time!\n\nThe game board in Meltdown 2020 is composed of twelve tiles, each consisting of seven hexes. Seven nuclear reactors and two airfields are scattered amongst the landscape hexes that make up the remainder of the country. At the start of the game, your color-coded twenty people and three vehicles (car, bus, helicopter) are placed on their designated hexes. You need to get them to the airfields to save them, preferably before they absorb too much radiation. You can airlift a vehicle out of an airfield, too, to save the driver, but then you have fewer opportunities to save more people.\n\nEach turn proceeds as follows:\n\n\n    Radiation outburst &ndash; Roll the eight-sided die and place a radiation counter on the numbered reactor (or nowhere if an 8 is rolled).\n    Move buses &ndash; In player order, move a bus up to two spaces, with a maximum of four passengers at any one time. You can pick up and drop your color-coded passengers as you wish. Vehicles can't enter a reactor hex and can't end the turn in the same space as another player's vehicle (except the airfield, which holds any number of vehicles).\n    Radiation outburst &ndash; Same as above.\n    Move cars &ndash; Same movement rules, but cars can move up to three spaces while holding at most three passengers.\n    Radiation reparation &ndash; Roll the eight-sided die, then remove a radiation counter (if present) from the numbered reactor.\n    Move helicopters &ndash; Same movement rules, but helicopters can move up to four spaces while holding at most two passengers.\n    Radiation sickness &ndash; People next to a reactor absorb 1 Sievert radiation (1 Sv) for each counter on a reactor. People one space away absorb that many Sv minus one; people two spaces away absorb that many minus two; and so on. A person can absorb radiation from more than one reactor.\n\n\nWhen a person's token absorbs 1 Sv, lay it on its side to show that it's ill; when it absorbs 2 Sv, lay it on its back (very ill); a person absorbing 3 Sv or more dies and is removed. Radiation sickness is cumulative. People stay in their positions even after being evacuated. Vehicle drivers die only if they absorb 3 Sv or more from a single reactor in a single turn.\n\nThe start player position rotates each round. The game ends immediately when one reactor receives a fifth counter or a 16th counter is to be placed on the game board. The player who has rescued the most people wins. In case of a tie, the player with more healthy people wins, with subsequent ties being broken by the number of ill vs. very ill people.\n\n",
+    "image": "https://cf.geekdo-images.com/eve0DhiD-Y7mHwarjamPwA__original/img/_2khu6i-rPNHNp4ShbMbqxjV4Z0=/0x0/filters:format(jpeg)/pic1109303.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eve0DhiD-Y7mHwarjamPwA__small/img/iB8HCYuRbwhcdnVPi8WVG-tWoHY=/fit-in/200x150/filters:strip_icc()/pic1109303.jpg",
+    "link": "https://boardgamegeek.com/thing/104340",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.18949",
+    "averageWeight": "1.85",
+    "boardGameRank": "11914",
+    "mechanics": [
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Simulation"
+    ],
+    "categories": [
+      "Transportation"
+    ],
+    "designers": [
+      "Corné van Moorsel"
+    ]
+  }
+}

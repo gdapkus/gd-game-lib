@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:17:47.021Z",
+  "gameDetails": {
+    "id": "17022",
+    "name": "Saganami Island Tactical Simulator",
+    "type": "boardgame",
+    "description": "Space Combat in the Universe of Honor Harrington!\n\nSaganami Island Tactical Simulator uses the critically acclaimed Attack Vector: Tactical Game Engine to put YOU in command of the ships of the Honorverse. Thrill to the long range missile duel, dancing in 3-D vector space, unleashing the fury of laser heads. Or close in to \"kissing distance\" and unleash the titanic fury of grasers and lasers! Extensively researched, SITS has new material on the ships and doctrines of the Royal Manticoran Navy and the People's Republic Navy that have never been published before. Mixing rich tactical depth with easy to use Newtonian movement, SITS builds on the novels details to set the tactical parameters for the Honorverse combat\n\nFully 3-dimensional, SITS has two game scales - the tactical game scale has 12 minute turns, and 1 light second hexes. The system scale has 25 light second hexes, and 1 hour turns, making the pursuit to the hyper limit a challenging tactical puzzle. Every warship in the series will be statted out over the release schedule of this product line, as well as additional ships approved by David Weber himself. Innovative rules allow you to incorporate \"The Honor Factor\" without unduly distorting the tactical game engine.\n\nSITS offers complete tactical control. You are in command of a hundred-thousand ton cruiser plying the pitiless depths of space. \nFast, simple and highly accurate Newtonian movement rules. Turns take 10 to 20 minutes, a typical game runs 3 to 10 turns. \nAccurate, intuitive 3-D movement system, allowing combat to break the plane of the map, and giving unprecedented tactical depth.\n\n",
+    "image": "https://cf.geekdo-images.com/71uhrySeuLEdfsnc1_Vr0w__original/img/kXHeoH0M3a_s9VUTA4O7HXiqg-0=/0x0/filters:format(jpeg)/pic80618.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/71uhrySeuLEdfsnc1_Vr0w__small/img/-wklXvmGr4lSlgkpfkEmrsCuS8k=/fit-in/200x150/filters:strip_icc()/pic80618.jpg",
+    "link": "https://boardgamegeek.com/thing/17022",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2005",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.86",
+    "averageWeight": "4.303",
+    "boardGameRank": "12833",
+    "mechanics": [
+      "Hexagon Grid",
+      "Simulation",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Miniatures",
+      "Novel-based",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Ken Burnside",
+      "Thomas Pope"
+    ]
+  }
+}

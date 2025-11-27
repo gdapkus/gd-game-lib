@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T21:13:46.098Z",
+  "gameDetails": {
+    "id": "241122",
+    "name": "Nemo's War (Second Edition): Nautilus Upgrades Expansion Pack #1",
+    "type": "boardgameexpansion",
+    "description": "The Nautilus Upgrades Expansion Pack presents 12 new Nautilus Upgrade cards including the Clockwork Cipher, the Adventurer&rsquo;s League, Nemo&rsquo;s Manifesto, Prize Crew Quarters, and more! Sail aboard the Nautilus as you have never sailed with her before.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/6ym58cl0xa5zhnxuwCVGrg__original/img/sSXnojm74cXNofgPDEIn_gxzoxU=/0x0/filters:format(jpeg)/pic6794513.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6ym58cl0xa5zhnxuwCVGrg__small/img/dEnNnsHvA9ou2o4gaVvkgJA1PhE=/fit-in/200x150/filters:strip_icc()/pic6794513.jpg",
+    "link": "https://boardgamegeek.com/thing/241122",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.76062",
+    "averageWeight": "3.1818",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Push Your Luck",
+      "Simulation"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Exploration",
+      "Nautical",
+      "Novel-based",
+      "Science Fiction",
+      "Travel",
+      "Wargame"
+    ],
+    "designers": [
+      "Alan Emrich"
+    ]
+  }
+}

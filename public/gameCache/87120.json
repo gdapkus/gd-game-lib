@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:04:40.734Z",
+  "gameDetails": {
+    "id": "87120",
+    "name": "Vintage",
+    "type": "boardgame",
+    "description": "Vintage is about the Douro River Valley of Portugal, the oldest demarcated wine producing region in the world, designated World Heritage, and the production of port wine. Each player will attempt to buy wine-growing estates and plant them with the best grape varieties to try and produce the highest quality port wine - a VINTAGE.\n\nThis game has a simple version and a normal version. The simple version is aimed at players who are not used to this kind of family strategy games. The game has fewer options and a higher degree of luck. It plays faster and is easy to learn.\n\nWith the normal version you will discover the VINTAGE game in its fullness, with many more strategic options and where luck plays a minor role. It&rsquo;s a longer and more challenging game but with only slightly more complex rules.  Cheers!\n\n",
+    "image": "https://cf.geekdo-images.com/zhpUh_nnhfhfcrW7rJOsug__original/img/7B2OLZsYCkvsJu07ZKKW4HIZL94=/0x0/filters:format(jpeg)/pic1212455.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zhpUh_nnhfhfcrW7rJOsug__small/img/0t3RAoyOrBcWHXF3LBkN8Z3HA_Q=/fit-in/200x150/filters:strip_icc()/pic1212455.jpg",
+    "link": "https://boardgamegeek.com/thing/87120",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.49244",
+    "averageWeight": "2.913",
+    "boardGameRank": "9439",
+    "mechanics": [
+      "Area Movement",
+      "Open Drafting",
+      "Pick-up and Deliver",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Educational",
+      "Farming"
+    ],
+    "designers": [
+      "Gil d'Orey"
+    ]
+  }
+}

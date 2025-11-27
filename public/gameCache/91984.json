@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:08:05.815Z",
+  "gameDetails": {
+    "id": "91984",
+    "name": "Québec",
+    "type": "boardgame",
+    "description": "Qu&eacute;bec puts you at the head of a rich family that wants to leave its name in history by building Qu&eacute;bec city. The game spans four centuries during which you erect the most prestigious buildings and places of the city, but construction alone is not enough; you also have to ensure your presence in the great spheres of power. It is up to you and your opponents to build Qu&eacute;bec City in your colors!\n\nA game takes place over four centuries, and each player takes 5-7 turns per century. On each turn, players choose one of these actions:\n\n     Start a new building with their architect\n     Complete part of a building\n     Send a worker to a zone of influence\n     Take a leader card\n\n\nBy contributing to the numerous buildings, players acquire influence with the authorities of the time: religion, politics, commerce, and culture. Players also help build the famous Citadelle.\n\nDuring a scoring round at the end of each century, players earn points for the workers they managed to place in the five zones of influence. Qu&eacute;bec introduces a unique and addictive majority rule. The player with the majority in a zone cascades half of their workers by moving them to the next zone. Workers moved in this way allow a player to score even more points. If a player still has the majority in the next zone, their workers cascade again &ndash; a potentially devastating ripple effect. This mechanism illustrates the interrelationship between the great zones of influence. Players must not only fight to get majorities, they must also erect the most prestigious buildings.\n\nThe game ends after the fourth century, then players receive points for the buildings they completed. The player with the most points wins.\n\nQu&eacute;bec won the Plateau d'or 2007 and was shortlisted at the 2007 Boulogne-Billancourt International Designer Contest.\n\n",
+    "image": "https://cf.geekdo-images.com/CiOrs2kASQuvVYouzOgPdQ__original/img/ArvihnRgIczueR_waceQ6CSbw-E=/0x0/filters:format(png)/pic8734784.png",
+    "thumbnail": "https://cf.geekdo-images.com/CiOrs2kASQuvVYouzOgPdQ__small/img/NSjMhiBv2LfOAQzUf1hGaGhMg2w=/fit-in/200x150/filters:strip_icc()/pic8734784.png",
+    "link": "https://boardgamegeek.com/thing/91984",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "75",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.1291",
+    "averageWeight": "2.9773",
+    "boardGameRank": "2200",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Events",
+      "Modular Board",
+      "Worker Placement"
+    ],
+    "categories": [
+      "City Building"
+    ],
+    "designers": [
+      "Philippe Beaudoin",
+      "Pierre Poissant-Marquis"
+    ]
+  }
+}

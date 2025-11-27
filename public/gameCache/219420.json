@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:57:16.337Z",
+  "gameDetails": {
+    "id": "219420",
+    "name": "Linage",
+    "type": "boardgame",
+    "description": "Linage is a finite territory game for two players: Vertical and Horizontal. It is played on the intersections (points) of an initially empty square grid (board). Both players must have access to a shared pool of identical stones.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tDefinitionsA region is a maximal set of orthogonally contiguous empty points.\n\nA line is a set of three orthogonally contiguous empty points on the same row or column.\n\nA region is owned by Vertical if it contains no horizontal lines, and by Horizontal if it contains no vertical lines. A region is free if it is owned by neither player.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tPlayVertical plays first, then turns alternate. On your turn, pass or place a stone in a free region. At all times, every region must include at least one line.\n\nThe game ends when both players pass in succession. The player with the higher score wins. Your score is the number of points in the regions that you own, plus komi (see below) in the case of Horizontal.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tKomiKomi is the number of points that is added to Horizontal's score at the end of the game as compensation for going second. Before the game starts, the first player chooses the value of komi, and then the second player chooses sides. To avoid ties, it is suggested that komi be of the form n + 0.5, where n is a whole number.\n\n",
+    "image": "https://cf.geekdo-images.com/ctYfk4HwTx9jyU67rrrkRw__original/img/_FnQlM0V2Rv7cFgsi9RSKsUx9q0=/0x0/filters:format(png)/pic3436532.png",
+    "thumbnail": "https://cf.geekdo-images.com/ctYfk4HwTx9jyU67rrrkRw__small/img/iY-ehNyclPfEj_d2EJlh6qkgLCY=/fit-in/200x150/filters:strip_icc()/pic3436532.png",
+    "link": "https://boardgamegeek.com/thing/219420",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2016",
+    "playingTime": "60",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.125",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Enclosure",
+      "Paper-and-Pencil",
+      "Pattern Recognition",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Territory Building"
+    ],
+    "designers": [
+      "Luis Bolaños Mures"
+    ]
+  }
+}

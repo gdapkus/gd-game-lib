@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:49:11.707Z",
+  "gameDetails": {
+    "id": "2570",
+    "name": "Atlantic Star",
+    "type": "boardgame",
+    "description": "This is a remake of db Spiele's Premiere and Queen Games' Show Manager. The theme has been changed to cruising: here the players are travelling by sea. The mechanics are otherwise almost identical.\n\n",
+    "image": "https://cf.geekdo-images.com/EDD_GnPUUW6h-AqmyORUIA__original/img/Vrs5yNmCthQR6uNAMTeaJWPvZNo=/0x0/filters:format(jpeg)/pic318862.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EDD_GnPUUW6h-AqmyORUIA__small/img/90F0e4VKraXlDTF3Ga0ij-YYNuQ=/fit-in/200x150/filters:strip_icc()/pic318862.jpg",
+    "link": "https://boardgamegeek.com/thing/2570",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2001",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.85227",
+    "averageWeight": "2.1416",
+    "boardGameRank": "2654",
+    "mechanics": [
+      "Auction: Dutch",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Nautical",
+      "Transportation"
+    ],
+    "designers": [
+      "Dirk Henn"
+    ]
+  }
+}

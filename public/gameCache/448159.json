@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:30:55.592Z",
+  "gameDetails": {
+    "id": "448159",
+    "name": "Railway Boom",
+    "type": "boardgame",
+    "description": "In the late 19th century, during the early Meiji era, Japan opened its first railway line between Shimbashi and Yokohama. This new mode of transportation sparked a railway boom across the country.\n\nLocal entrepreneurs, and later powerful tycoons, established new companies that grew into large railway corporations throughout the Taishō and Shōwa eras.\n\nAs players, you will take on the roles of these tycoons, building and managing your own railway empires as you compete for the most renown.\n\nRailway Boom recreates this era of industry through gameplay by having players balance resource management with the growth of their railways connecting various cities across Japan.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/HLf1dKFTM4y7EwdQubbazQ__original/img/39cfZ-xXxQInub3TRAsGx7PdwcM=/0x0/filters:format(png)/pic8951049.png",
+    "thumbnail": "https://cf.geekdo-images.com/HLf1dKFTM4y7EwdQubbazQ__small/img/yFsR_l7zagtOjSmxVKqZlegRpo8=/fit-in/200x150/filters:strip_icc()/pic8951049.png",
+    "link": "https://boardgamegeek.com/thing/448159",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.02792",
+    "averageWeight": "3.2222",
+    "boardGameRank": "5685",
+    "mechanics": [
+      "Auction / Bidding",
+      "End Game Bonuses",
+      "Income",
+      "Network and Route Building",
+      "Turn Order: Auction"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Trains"
+    ],
+    "designers": [
+      "Hisashi Hayashi"
+    ]
+  }
+}

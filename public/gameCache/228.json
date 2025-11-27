@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:29:26.948Z",
+  "gameDetails": {
+    "id": "228",
+    "name": "Lunch Money",
+    "type": "boardgame",
+    "description": "This card game simulates children (a little girl is featured on all cards) running around the playground beating up each other and stealing their lunch money.  Once you get past the strange theme, there's a fun little game where players beat each other senseless with cards like 'Poke in the Eye', 'Uppercut', and 'Humiliation.'  Not for the weak willed, this game is mean.  The last player still standing wins.\n\nRe-implemented by:\n\n    Beer Money\n\n\nIntegrates with:\n\n    Beer Money\n\n\n",
+    "image": "https://cf.geekdo-images.com/UVl6bt_8kuY7GidRg7tGhA__original/img/RKWCnT1y07EhLHhEtEYuf73tN94=/0x0/filters:format(jpeg)/pic11310.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UVl6bt_8kuY7GidRg7tGhA__small/img/6djRuEnG87sWXrO1LS0AUxvKhFg=/fit-in/200x150/filters:strip_icc()/pic11310.jpg",
+    "link": "https://boardgamegeek.com/thing/228",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1996",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.63504",
+    "averageWeight": "1.5147",
+    "boardGameRank": "19178",
+    "mechanics": [
+      "Hand Management",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Fighting"
+    ],
+    "designers": [
+      "John Nephew",
+      "Charlie Wiedman"
+    ]
+  }
+}

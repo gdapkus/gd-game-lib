@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:17:02.397Z",
+  "gameDetails": {
+    "id": "441",
+    "name": "Filthy Rich",
+    "type": "boardgame",
+    "description": "Filthy Rich is a card game that is played with a binder and 4 pages of Ultra Pro card protector pages.  Players launch business billboards in the form of cards that get placed in the pages.  If the number rolled on the business dice corresponds to your billboard you get paid.  Income is spent to acquire Luxuries, and the first player to own three luxuries wins!  However, Luxuries and Businesses have a tax value that is due during a randomly-triggered tax phase.  if you cannot pay your taxes, you must liquidate your empire.  Special action cards and events add to this light but fun game.\n\n",
+    "image": "https://cf.geekdo-images.com/4IIrcAUtTQq6ftFiQVIrAg__original/img/YIafpqHLFgX25JXO-HfXZOCGL04=/0x0/filters:format(jpeg)/pic184241.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4IIrcAUtTQq6ftFiQVIrAg__small/img/pzSEuDordR4BVzn-FviYsmGBmM4=/fit-in/200x150/filters:strip_icc()/pic184241.jpg",
+    "link": "https://boardgamegeek.com/thing/441",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "1998",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.39947",
+    "averageWeight": "1.9014",
+    "boardGameRank": "5799",
+    "mechanics": [
+      "Dice Rolling"
+    ],
+    "categories": [
+      "Economic"
+    ],
+    "designers": [
+      "Richard Garfield"
+    ]
+  }
+}

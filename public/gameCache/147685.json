@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:02:22.055Z",
+  "gameDetails": {
+    "id": "147685",
+    "name": "Hook!",
+    "type": "boardgame",
+    "description": "The player pirates are under attack in Hook, and they need to use their three sighting cards &mdash; square cards with holes in them &mdash; to determine where to fire their cannonballs in retaliation. Try to spot parrots and rum through the holes, while not letting a cannonball hit you!\n\n",
+    "image": "https://cf.geekdo-images.com/IMIrA8J9sgOlmghCVgP8tA__original/img/n_IJlXjvA8Jmy3QLO_g6J-gIO0A=/0x0/filters:format(jpeg)/pic2076600.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/IMIrA8J9sgOlmghCVgP8tA__small/img/46_jvBGYIkGmvohQr_oKgnHuGzE=/fit-in/200x150/filters:strip_icc()/pic2076600.jpg",
+    "link": "https://boardgamegeek.com/thing/147685",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2014",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "5.51295",
+    "averageWeight": "1.125",
+    "boardGameRank": "25613",
+    "mechanics": [
+      "Player Elimination",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Animals",
+      "Fighting",
+      "Party Game",
+      "Pirates",
+      "Real-time"
+    ],
+    "designers": [
+      "Marco Teubner"
+    ]
+  }
+}

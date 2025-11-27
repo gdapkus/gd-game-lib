@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:47:45.069Z",
+  "gameDetails": {
+    "id": "4962",
+    "name": "1914",
+    "type": "boardgame",
+    "description": "1914 is a traditional hex and counter wargame that attempts to simulate the opening phases of WW I on the Western Front.  This was James Dunnigan&rsquo;s second game for Avalon Hill. Like many wargames combat is resolved through the use of dice and a Combat results table (CRT).\n\nThe players accumulate victory points by occupying 24 key areas at the game end as well as points for enemy units destroyed.  The Eastern Front with Russia is abstracted and the German player may receive victory points for deploying part of his initial forces there, and will lose points for invading Belgium, Luxembourg or Holland.  The player who most effectively wears down his opponent and holds geographical objectives will win the game.\n\nThis game is particularly complex in comparison to other Avalon Hill games at the time.  Not only does it have a 34 page rulebook, use unit facing, supply line limitations, and a CRT,  there are also multiple options for fog of war (counters turned upside down or dummy counters), and step losses for units.   There is a short and long version of the game as well as cards for several variants.  Several options such as simultaneous movement and delayed commands require a third player as a referee.  The long version of the game may take multiple sittings to accomplish.\n\nWhile not an easy 'game' to play, 1914 is a rewarding simulation both innovative for its day and enjoyable to play. While this game is very different from other games from the period and has a couple of faintly tedious mechanics it is worth the effort and can be quite exciting to play. By today's standards we would like to see forced march and some command hurtles for the over extended Germans but one could say something similar about most old games.  This game does not allow players to ramp up a decided combat advantage from a god's eye point of view. No individual combat is decisive and one can only manage this not overcome it. The game needs to be played with all its bells and whistles (minus those requiring a referee) and when one bothers to do this they find an intriguing game of deception where planning pays off.\n\nFor those who do not have the revision kit:\n\nForced March:\nEach unit rolls on a D6 (as I recall this is limited to infantry and cavalry units)\n1,2 Cannot move at all.\n3-6 Gain 1 mp.\n\nThe Plan 17 rule requires the French to make 6 attacks on turns 1-3.\n\nContents:\n1. 390 Die Cut Counters in two sheet (note: 37 of the 390 are blank counters.)\n2. Color mounted map - 27\" x 22\" sections.\n3. One Basic Game instruction manual (4 pages).\n4. One Battle Manual (36 pages).\n5. One tablet of Mobilization sheets (37 sheets).\n6. \"Do Your Friend a Favor Card & Registration Card\" Combo.\n7. Combat Results Table Card.\n8. Introductory Game Example Card.\n9. German Unit Counter Chart.\n10. Allied Unit Counter Chart.\n11. 20 Game Variation Cards (10 Allied & 10 German).\n12. Original box with two cardboard insert trays.\n\n",
+    "image": "https://cf.geekdo-images.com/7ci5bBB5yOioCIlX0zdjuw__original/img/u4-27eGxCSRi4sKtzbucSkj0Y3E=/0x0/filters:format(jpeg)/pic263716.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7ci5bBB5yOioCIlX0zdjuw__small/img/2uGO4uiPpvFU8DaHmWaFP43uKWw=/fit-in/200x150/filters:strip_icc()/pic263716.jpg",
+    "link": "https://boardgamegeek.com/thing/4962",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1968",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.8663",
+    "averageWeight": "3.5714",
+    "boardGameRank": "17072",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War I"
+    ],
+    "designers": [
+      "Jim Dunnigan"
+    ]
+  }
+}

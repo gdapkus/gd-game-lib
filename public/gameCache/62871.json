@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:05:43.525Z",
+  "gameDetails": {
+    "id": "62871",
+    "name": "Zombie Dice",
+    "type": "boardgame",
+    "description": "Eat brains. Don't get shotgunned.\n\nIn Zombie Dice, you are a zombie. You want braaains &ndash; more brains than any of your zombie buddies. The 13 custom dice are your victims. Push your luck to eat their brains, but stop rolling before the shotgun blasts end your turn! Whoever collects 13 brains first wins. Each game takes 10 to 20 minutes and can be taught in a single round.\n\nEach turn, you take three dice from the box and roll them. A brain symbol is worth one point at the end of the round, while footsteps allow you to reroll this particular dice. Shotgun blasts on the other hand are rather bad, cause if you collect three shotgun blasts during your turn, it is over for you and you get no points. After rolling three dice, you may decide if you want to score your current brain collection or if you want to push your luck by grabbing new dice so you have three again and roll once more.\n\n",
+    "image": "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__original/img/zPbWjPYgLscrjd96Uitf3GTPb34=/0x0/filters:format(jpeg)/pic4991962.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__small/img/0qjQ2T0wXNZDVvMie54bEVmKeT8=/fit-in/200x150/filters:strip_icc()/pic4991962.jpg",
+    "link": "https://boardgamegeek.com/thing/62871",
+    "minPlayers": "2",
+    "maxPlayers": "99",
+    "yearPublished": "2010",
+    "playingTime": "20",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.22944",
+    "averageWeight": "1.0929",
+    "boardGameRank": "2707",
+    "mechanics": [
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Push Your Luck",
+      "Re-rolling and Locking"
+    ],
+    "categories": [
+      "Dice",
+      "Horror",
+      "Humor",
+      "Party Game",
+      "Zombies"
+    ],
+    "designers": [
+      "Steve Jackson (I)"
+    ]
+  }
+}

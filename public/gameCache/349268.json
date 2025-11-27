@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:16:28.126Z",
+  "gameDetails": {
+    "id": "349268",
+    "name": "Skulls of Sedlec: Merchants",
+    "type": "boardgameexpansion",
+    "description": "They say you can&rsquo;t take it with you...but the Merchants have certainly tried.\n\nThese captains of industry profit from Peasants and make a tempting target for Criminals. Merchants can be a mixed bag, scoring points for adjacent Peasants but taking a penalty for adjacent Criminals. Unlike most skulls, this can cause an unwary player to actually lose points on poorly-placed Merchants. Keep your eyes on your money or you&rsquo;ll end up buried in debt.\n\n\nMerchants is a 6-card expansion that shuffles into the game, adds the ability to play with a 4th player and is fully compatible with the solo expansion, Skulls of Sedlec: Monstrance, as well.\n\nThis expansion to Skulls of Sedlec adds a new type of skull: the Merchants. Merchants want to be next to Peasants but avoid criminals.\n\nAdding in the expansion is easy, just shuffle in the expansion cards to the base game and play.\n\n",
+    "image": "https://cf.geekdo-images.com/iuYVA9QVIqqP0air18Rtug__original/img/Vj8o77dDRrsaBtynLdBMYrcg0PY=/0x0/filters:format(png)/pic6471608.png",
+    "thumbnail": "https://cf.geekdo-images.com/iuYVA9QVIqqP0air18Rtug__small/img/O1jw53cckvQF-m3lCd12lbnaiZM=/fit-in/200x150/filters:strip_icc()/pic6471608.png",
+    "link": "https://boardgamegeek.com/thing/349268",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.804",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game"
+    ],
+    "designers": [
+      "Dustin Dobson"
+    ]
+  }
+}

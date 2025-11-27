@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:52:12.249Z",
+  "gameDetails": {
+    "id": "161921",
+    "name": "Dolmen",
+    "type": "boardgame",
+    "description": "Dolmen is a new edition of eggertspiele's Die Dolmeng&ouml;tter (2005) that includes new graphics and minor changes to the gameplay.\n\nIn this luck-free majority game, each player has three druids that he moves across the board. When a druid is moved, he usually leaves a stone behind, and in this way stone circles are eventually created on the board. Each time a player gains the stone majority within such a circle, he places a dolmen with a hidden number (1 to 4) in its center. Over time, stacks of dolmen grow all across the board.\n\nThe game ends as soon as any player runs out of dolmen or stones. For each dolmen a player has placed, he scores a number of points that depends on the dolmen's position within its stack as well as the size of the circle surrounding it. The player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/XDwzCPZ6S0BhsnWzQpRakw__original/img/K5HHvGItnQg0NKpluGWyCxuPshg=/0x0/filters:format(jpeg)/pic2557740.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XDwzCPZ6S0BhsnWzQpRakw__small/img/1faBNoJ28WdGzCZ1_ACkt0k9xfA=/fit-in/200x150/filters:strip_icc()/pic2557740.jpg",
+    "link": "https://boardgamegeek.com/thing/161921",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.79967",
+    "averageWeight": "2.5714",
+    "boardGameRank": "10096",
+    "mechanics": [
+      "Area Majority / Influence"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Ancient"
+    ],
+    "designers": [
+      "Thomas Odenhoven"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:18:37.120Z",
+  "gameDetails": {
+    "id": "149055",
+    "name": "Yedo: Sakoku",
+    "type": "boardgameexpansion",
+    "description": "Yedo: Sakoku, a mini-expansion for the Yedo base game, includes a thematic event card that's shuffled together with the other event cards. When the \"Sakoku\" card is revealed, the church burns down and is covered with the included \"burned-down church\" tile. From this moment on, players cannot gain Mon from the church.\n\n",
+    "image": "https://cf.geekdo-images.com/jKyb80xWrOTdOmgkiCtxrw__original/img/AyXOCJfe9o8EVFuJxP5oI4I8PU4=/0x0/filters:format(jpeg)/pic1797561.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jKyb80xWrOTdOmgkiCtxrw__small/img/TZUAj7GwbvfElr51-dIB_CxgCtA=/fit-in/200x150/filters:strip_icc()/pic1797561.jpg",
+    "link": "https://boardgamegeek.com/thing/149055",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2013",
+    "playingTime": "150",
+    "minPlayingTime": "150",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.17858",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Ancient",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Thomas Vande Ginste",
+      "Wolf Plancke"
+    ]
+  }
+}

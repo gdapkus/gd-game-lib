@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:49:00.034Z",
+  "gameDetails": {
+    "id": "228778",
+    "name": "Arkham Horror: The Card Game – Echoes of the Past: Mythos Pack",
+    "type": "boardgameexpansion",
+    "description": "Description from the publisher:\n\nEchoes of the Past is the first Mythos Pack in The Path to Carcosa cycle for Arkham Horror: The Card Game.\n\nThe King in Yellow has come to Arkham, you caught the performance, and now you find yourself drawn into the maddening web of powerful forces and sinister event that seems to surround the mysterious play. So how do you proceed? Where do you continue your investigations? How you do hold onto the tattered threads of your limited sanity? If there are ties between the play and Arkham, there's one place where you might uncover them&mdash;the Arkham Historical Society, a landmark building that holds age-old secrets even its curator doesn&rsquo;t know&hellip;\n\nEven as it introduces a new scenario through which you can explore the Society&rsquo;s hidden secrets&mdash;and the many terrors with which they are associated&mdash;Echoes of the Past introduces a wealth of player cards driven by two major themes that allow you to refine your investigator&rsquo;s practiced Talent and Composure.\n\n",
+    "image": "https://cf.geekdo-images.com/_-x2Lq-pBUVHs19OTll02Q__original/img/ucEIC6CNeHeoE6Va8OfJiIzpdJ4=/0x0/filters:format(png)/pic3742903.png",
+    "thumbnail": "https://cf.geekdo-images.com/_-x2Lq-pBUVHs19OTll02Q__small/img/PshjVaP0fK4b2omk9NyITgVKs1c=/fit-in/200x150/filters:strip_icc()/pic3742903.png",
+    "link": "https://boardgamegeek.com/thing/228778",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.14685",
+    "averageWeight": "3.6923",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Role Playing",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Card Game",
+      "Collectible Components",
+      "Fantasy",
+      "Horror",
+      "Novel-based"
+    ],
+    "designers": [
+      "Nate French",
+      "MJ Newman"
+    ]
+  }
+}

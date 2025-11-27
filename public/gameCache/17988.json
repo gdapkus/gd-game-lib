@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:52:14.417Z",
+  "gameDetails": {
+    "id": "17988",
+    "name": "Die Dolmengötter",
+    "type": "boardgame",
+    "description": "Die Dolmeng&ouml;tter is an area majorities game, where players move their druids on the board, building stone circles and marking them with their dolmens. Once a circle is complete, the dolmens are scored. Each dolmen has a value of 1&ndash;4, unknown to other players, and the value of each dolmen is multiplied, depending on how high it is in the stack &mdash; the higher the better.\n\nPlacing of dolmens requires players to interact. When a druid leaves a space, he leaves a stone behind. Once a player has a majority of stones around a dolmen space (at least two stones, with another player having one stone), she gets to place a dolmen. If another player adds a stone so the amount of stones is tied (2-2, for example), he gets to place a dolmen beneath the stack. When somebody again gets the majority (3-2, for example), he or she places a dolmen on top of the stack. Making sure your 4-point dolmen gets on the top of the stack in a large, valuable area is something of a challenge.\n\nThe game ends when somebody runs out of dolmens or stones. Unfinished areas are scored in the end (finished areas are scored as soon as they're done) and the player with the highest points wins the game.\n\nThe description from the publisher's website describes what the theme is about:\n\nDie Dolmeng&ouml;tter is a luck-free majorities game. Move through dark and mystical Ireland, create the valuable stone circles and mark them with your dolmen, without your fellow players knowing their worth. Only at the end is it clear who has created the most valuable dolmen.\n\nApproximately 240 stone circles of Celtic origin have been found so far in Ireland. These stone circles, which originate in ancient times and were built by druids, often served as ritual places or enclosed burial areas. In their center were frequently dolmen, which rank among the oldest megaliths and whose meaning is still not perfectly clear.\n\nThe artistic representation of gods on the dolmen - Dolmeng&ouml;tter - led to the assumption that the dolmen served the druids as meditation areas, in which their reincarnation-based cult was practiced.\n\n",
+    "image": "https://cf.geekdo-images.com/buVBhVhIoZwBEAypCv4eig__original/img/YVKvV4v5tZD6zVrEhfuq-C5e58c=/0x0/filters:format(jpeg)/pic8893114.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/buVBhVhIoZwBEAypCv4eig__small/img/ui1M_wQVjTzNvj1PWXXHoEeyNqc=/fit-in/200x150/filters:strip_icc()/pic8893114.jpg",
+    "link": "https://boardgamegeek.com/thing/17988",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2005",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.61353",
+    "averageWeight": "2.2",
+    "boardGameRank": "5921",
+    "mechanics": [
+      "Area Majority / Influence"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Ancient"
+    ],
+    "designers": [
+      "Thomas Odenhoven"
+    ]
+  }
+}

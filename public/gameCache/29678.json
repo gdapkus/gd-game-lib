@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:07:41.345Z",
+  "gameDetails": {
+    "id": "29678",
+    "name": "Munchkin Quest",
+    "type": "boardgame",
+    "description": "Kill the monster, grab the treasure, stab your buddy. That's what it's all about. Now, Munchkin has been transformed into a board game...\n\nIn Munchkin Quest, you can co-operate with the whole group, adventure with a partner, or strike out on your own. You don't know what's behind a door until you open it...then another tile is added to the dungeon. Battle monsters for power and treasure, or send them after your friends. Reach Level 10, then get out alive if you can!\n\n",
+    "image": "https://cf.geekdo-images.com/ICz9kzlFwkvjrNeLOuhIyA__original/img/_H7hbVCSt0qaSc3Dsc6yoLISLMg=/0x0/filters:format(jpeg)/pic294853.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ICz9kzlFwkvjrNeLOuhIyA__small/img/bRRTjKNns5pXE8Uen_tz7RmNhpg=/fit-in/200x150/filters:strip_icc()/pic294853.jpg",
+    "link": "https://boardgamegeek.com/thing/29678",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.81486",
+    "averageWeight": "2.5092",
+    "boardGameRank": "8201",
+    "mechanics": [
+      "Dice Rolling",
+      "Modular Board",
+      "Role Playing"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Humor"
+    ],
+    "designers": [
+      "Steve Jackson (I)"
+    ]
+  }
+}

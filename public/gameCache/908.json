@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:13:43.966Z",
+  "gameDetails": {
+    "id": "908",
+    "name": "Tally Ho!",
+    "type": "boardgame",
+    "description": "What happens when the hunter becomes the hunted?\n\nIn Tally Ho!, one player takes the role of the hunters and the lumberjacks; the other takes the role of the foxes and bears. Both players hunt each other!\n\nAt first the forest lies peacefully under the face-down tiles. As the players turn the tiles over and move them on the board, the forest awakens and the hunt destroys the serenity of the forest. The lumberjacks cut swaths through the forest to provide hunting fields for the hunters. The bears then use these same aisles to track the hunters and lumberjacks. And both sides hunt the ducks who are just trying to live in peace!\n\nThe two sides are balanced with luck dominating the early game, but skill taking over at the end. Good hunting!\n\nOriginally published by Spear Spiele in 1973 as Jag und Schlag, Kosmos republished the game in 2000 as Tally Ho! / Halali! as part of its Kosmos two-player series.\n\n",
+    "image": "https://cf.geekdo-images.com/9nNl8qfnp344TJUPLQhJhw__original/img/FSPiY99KzVr7kbibwKRqISrWPO0=/0x0/filters:format(jpeg)/pic2855889.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9nNl8qfnp344TJUPLQhJhw__small/img/6E8ARH3FZPABYjW1NTY6aWU6liA=/fit-in/200x150/filters:strip_icc()/pic2855889.jpg",
+    "link": "https://boardgamegeek.com/thing/908",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1973",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.16209",
+    "averageWeight": "1.4788",
+    "boardGameRank": "4053",
+    "mechanics": [
+      "End Game Bonuses",
+      "Grid Movement",
+      "Square Grid",
+      "Static Capture",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Animals"
+    ],
+    "designers": [
+      "Rudi Hoffmann"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:51:22.049Z",
+  "gameDetails": {
+    "id": "72225",
+    "name": "CO₂",
+    "type": "boardgame",
+    "description": "In the 1970s, the governments of the world faced unprecedented demand for energy, and polluting power plants were built everywhere in order to meet that demand. Year after year, the pollution they generate increases, and nobody has done anything to reduce it. Now, the impact of this pollution has become too great, and humanity is starting to realize that we must meet our energy demands through clean sources of energy. Companies with expertise in clean, sustainable energy are called in to propose projects that will provide the required energy without polluting the environment. Regional governments are eager to fund these projects, and to invest in their implementation.\n\nIf the pollution isn't stopped, it's game over for all of us.\n\nIn the game CO₂, each player is the CEO of an energy company responding to government requests for new, green power plants. The goal is to stop the increase of pollution, while meeting the rising demand for sustainable energy &mdash; and of course profiting from doing so. You will need enough expertise, money, and resources to build these clean power plants. Energy summits will promote global awareness, and allow companies to share a little of their expertise, while learning still more from others.\n\nIn CO₂, each region starts with a certain number of Carbon Emissions Permits (CEPs) at its disposal. These CEPs are granted by the United Nations, and they must be spent whenever the region needs to install the energy infrastructure for a project, or to construct a fossil fuel power plant. CEPs can be bought and sold on a market, and their price fluctuates throughout the game. You will want to try to maintain control over the CEPs.\n\nMoney, CEPs, Green Power Plants that you've built, UN Goals you've completed, Company Goals you've met, and Expertise you've gained all give you Victory Points (VPs), which represent your Company's reputation &ndash; and having the best reputation is the goal of the game ... in addition to saving the planet, of course.\n\n",
+    "image": "https://cf.geekdo-images.com/7CdjkzPByup72oLWuOg9AA__original/img/bHBtxtjTnbKtSyUKwO50gNjSxcc=/0x0/filters:format(jpeg)/pic1350204.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7CdjkzPByup72oLWuOg9AA__small/img/NUltG_U1uGXWs3rwv86Om0hQgHE=/fit-in/200x150/filters:strip_icc()/pic1350204.jpg",
+    "link": "https://boardgamegeek.com/thing/72225",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.08752",
+    "averageWeight": "3.8709",
+    "boardGameRank": "1307",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Open Drafting",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Environmental",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Vital Lacerda"
+    ]
+  }
+}

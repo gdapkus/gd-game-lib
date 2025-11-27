@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:50:23.409Z",
+  "gameDetails": {
+    "id": "149853",
+    "name": "Bullfrogs",
+    "type": "boardgame",
+    "description": "&ldquo;Just as water retains no constant shape, in warfare there are no constant conditions.&rdquo; &ndash;Sun Tzu\n\nWeapons clash, water splashes and the booming battle cries of armored bullfrogs ring out across the moonlit swamp. Amphibian armies leap from lily pad to lily pad in their desperate struggle to win control of the pond.\n\nSuddenly, a shout of triumph rises up. Enough warriors have finally entered battle on a lily pad to dominate the fight and assure victory for their side. Overloaded, the lily pad sinks into the swamp.\n\nFrogs scatter from the sinking lily pad to the surrounding ones, coming to aid their allies or sabotage their foes, their weight causing the lily pads to drift away across the cold, glittering water. The winning commander must understand the ripple effects of every move, and avoid acting to win a single battle at the cost of losing the war.\n\n&bull;&bull;&bull;\n\nIn Bullfrogs, 2-4 players ages 8+ take control of warring factions of frogs and fight over lily pads in a pond over the course of 20-40 minutes.\n\n",
+    "image": "https://cf.geekdo-images.com/Q9SOQ4x88AIHEsfnqEw_Gg__original/img/qA_xrQGGHSpOMV-jrXoaedxtMXw=/0x0/filters:format(jpeg)/pic5101009.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Q9SOQ4x88AIHEsfnqEw_Gg__small/img/iSiUN1vt6uaw08LI_e2EcuwF4a8=/fit-in/200x150/filters:strip_icc()/pic5101009.jpg",
+    "link": "https://boardgamegeek.com/thing/149853",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2015",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.71871",
+    "averageWeight": "1.8919",
+    "boardGameRank": "4059",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Hand Management",
+      "Modular Board"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "Keith Matejka"
+    ]
+  }
+}

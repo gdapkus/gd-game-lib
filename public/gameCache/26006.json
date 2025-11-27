@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:28:26.697Z",
+  "gameDetails": {
+    "id": "26006",
+    "name": "HeroCard: Rise of the Shogun – Prince Expansion Deck",
+    "type": "boardgameexpansion",
+    "description": "Prince Expansion Deck\n\nThe Prince uses bribes, dirty tricks, and court intrigue in his quest for power.\n\nThe Prince is a HeroCard expansion deck for HeroCard Rise of the Shogun, an epic battle for feudal Japan. The Prince can compete in any HeroCard game or can be combined with other decks to create a customized character.\n\nExpands\n\n    HeroCard Rise of the Shogun\n\n\n",
+    "image": "https://cf.geekdo-images.com/pwdDsg5iAcNXrxP9OjxqqQ__original/img/5iGUG8HJHqgBJNyoGpDL36nUcBY=/0x0/filters:format(jpeg)/pic154250.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pwdDsg5iAcNXrxP9OjxqqQ__small/img/8MWf8L_Tp0VJfrIeVb_nQJ53Vis=/fit-in/200x150/filters:strip_icc()/pic154250.jpg",
+    "link": "https://boardgamegeek.com/thing/26006",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2006",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.46875",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Fighting"
+    ],
+    "designers": [
+      "Alexei Othenin-Girard"
+    ]
+  }
+}

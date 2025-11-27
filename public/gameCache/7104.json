@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:47:56.462Z",
+  "gameDetails": {
+    "id": "7104",
+    "name": "Ace of Aces: Powerhouse Series",
+    "type": "boardgame",
+    "description": "The Powerhouse Series book set pits the Fokker DVII of Georg von Hantelmann against the SPAD XIII of Eddie Rickenbacker. The game provides statistics for several other WWI fighter planes that may be played using this set.\n\nThe Powerhouse books include a different variety of maneuvers than was used in the Handy Rotary books making for interesting match-ups between the two sets.\n\n",
+    "image": "https://cf.geekdo-images.com/hJKQVrImCrGc8X0tqTnSoA__original/img/TL2LOfQQO4LMUqOJQPafdQfTNac=/0x0/filters:format(jpeg)/pic8066918.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hJKQVrImCrGc8X0tqTnSoA__small/img/UqZBF8UOZPmaAcneQxBBE3wv-xU=/fit-in/200x150/filters:strip_icc()/pic8066918.jpg",
+    "link": "https://boardgamegeek.com/thing/7104",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1981",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.30707",
+    "averageWeight": "1.8077",
+    "boardGameRank": "4544",
+    "mechanics": [
+      "Simulation",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Wargame",
+      "World War I"
+    ],
+    "designers": [
+      "Alfred Leonardi"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-11-26T20:37:09.718Z",
+  "gameDetails": {
+    "id": "394897",
+    "name": "Horror on the Orient Express: The Board Game",
+    "type": "boardgame",
+    "description": "Horror on the Orient Express: The Board Game lures you into the luxurious Orient Express in the 1920s, taking you on a dangerous train ride into the realm of the Dreamlands. Everything is against you, from monsters attacking the train to murderous cults hiding among the passengers. Worst of all, an eldritch, blood-thirsty vampire hunting down everything that moves. Horror on the Orient Express: The Board Game brings the Call of Cthulhu horror and mystery TTRPG into the board gaming world. Special rules, ongoing character development, and  play pieces provide a challenging and exciting gaming experience.\n\nIn this cooperative game, you and the other investigators try to survive on the doomed train. To win, you must hunt out the cultists to stop them from performing a hideous ritual and ensure the train reaches its destination. Each of you controls a character who can develop new skills, gather items, talk to the passengers, discover clues, and, ultimately, decide the train's fate. You may even learn a spell or two!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/XX-1reQpdOJzwgTbic-x4w__original/img/DW-1svEbML0yJoy-LGR5V7IQQlI=/0x0/filters:format(jpeg)/pic8080321.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XX-1reQpdOJzwgTbic-x4w__small/img/mpFyAprLv6Nkp7Dv19AM8qBDWD8=/fit-in/200x150/filters:strip_icc()/pic8080321.jpg",
+    "link": "https://boardgamegeek.com/thing/394897",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.78467",
+    "averageWeight": "3.5385",
+    "boardGameRank": "11634",
+    "mechanics": [
+      "Action Retrieval",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Deduction",
+      "Modular Board",
+      "Narrative Choice / Paragraph",
+      "Push Your Luck",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Deduction",
+      "Dice",
+      "Horror",
+      "Miniatures",
+      "Murder / Mystery",
+      "Mythology",
+      "Novel-based",
+      "Trains",
+      "Travel"
+    ],
+    "designers": [
+      "Michał Gołąb Gołębiowski",
+      "Adam Kwapiński"
+    ]
+  }
+}

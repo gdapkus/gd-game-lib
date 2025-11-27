@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:55:15.236Z",
+  "gameDetails": {
+    "id": "70918",
+    "name": "Hanabi & Ikebana",
+    "type": "boardgame",
+    "description": "From the author's web site:\n\nFlower arrangements or fireworks? The choice is yours! This box proposes you two colorful games: \n\n     Hanabi, a cooperative game in which the players realize together colored fireworks. \n     Ikebana, a competitive game in which the players compete to compose blazing bouquets.\n\n\nThe games use the same material, a set of 55 cards and some colored tokens to propose two completely different rules.\n\nThe theme arises from two arts of the Japanese culture: fireworks (Hanabi) and flower arrangement (Ikebana).\n\nMicrobadge: \n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tHanabiHanabi is a cooperative game in which the players realize together colored fireworks.\n\nThey are going to try to recompose suites of colored cards (maps): 1, 2, 3, 4, 5 the problem being that every player holds his hand of cards back to front, that is each player can see the cards of the others but not his...\n\nMechanisms: Communication, Deduction\n\nHanabi is the Japanese word for \"fireworks\". It is a compound word made from the Japanese words for \"Flower\" and \"Fire\".\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tIkebanaIkebana is a competitive game in which the players compete to compose blazing bouquets.\n\nAlternately, they are going to be able to dig up cards or buy back those left aside by their opponents to compose a bouquet of 5 cards and mark points according to represented combinations (pair, three of a kind, suite, etc.)\n\nMechanisms: Combination, Risk-taking\n\nIkebana is the Japanese word for \"flower arrangement\". It is a compound word made from the Japanese words for \"Life\" and \"Flower\".\n\n",
+    "image": "https://cf.geekdo-images.com/zfsHYFacqobRkDVq4vUgAA__original/img/Q1JfPonRM3ejbjeE3VMEV_c-PR4=/0x0/filters:format(jpeg)/pic2384627.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zfsHYFacqobRkDVq4vUgAA__small/img/qGG42EGGhOxZVTihAo1Xdf-jptM=/fit-in/200x150/filters:strip_icc()/pic2384627.jpg",
+    "link": "https://boardgamegeek.com/thing/70918",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "25",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.41051",
+    "averageWeight": "1.7627",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Memory",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction"
+    ],
+    "designers": [
+      "Antoine Bauza"
+    ]
+  }
+}

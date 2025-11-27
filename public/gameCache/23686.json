@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:10:06.053Z",
+  "gameDetails": {
+    "id": "23686",
+    "name": "Gift Trap",
+    "type": "boardgame",
+    "description": "GiftTRAP won a special Spiel des Jahres prize in 2009, and was voted \"Best Party Game of the Year\" by Games Magazine in 2008, proving that while buying real gifts can be traumatic, giving virtual gifts to find out how people really feel is heaps of fun. Be prepared for some surprises!\n\nIt's a conversation starter that will get you and your friends talking about things that matter. Unlike other party games you don't need skills in drawing, acting or trivia, so it works well when you have a crowd of mixed ages/skills.\n\nGiftTRAP is played over a series of rounds. Each round has the following steps:\n\n\n     DEAL - deal random gifts from one of the 5 packs of gifts. Packs have similar monetary value.\n     SHOP - think about how to match these gifts to the players.\n     GIVE - give one of these gifts to each player (using gift tokens).\n     GET - choose which gifts you want yourself (using get tokens: Ok, Good, Great & No Way).\n     REVEAL - show people what you wanted and see what you were given by each player.\n     SCORE - the giver and the receiver score for each gift (the giver gets GIVING points, the receiver gets GETTING points). \n\n\nThe first to reach the end of both the Giving and Getting tracks is the winner.\n\n",
+    "image": "https://cf.geekdo-images.com/PdvDLL5q-9XTZCjp3u3PdQ__original/img/jFVon4KY7SPvYW0hY4mQ3e8VbhM=/0x0/filters:format(jpeg)/pic356504.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PdvDLL5q-9XTZCjp3u3PdQ__small/img/_n_6CNQoWPisWMKcGMgn5898S6c=/fit-in/200x150/filters:strip_icc()/pic356504.jpg",
+    "link": "https://boardgamegeek.com/thing/23686",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2006",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.40213",
+    "averageWeight": "1.2405",
+    "boardGameRank": "3327",
+    "mechanics": [
+      "Simultaneous Action Selection",
+      "Voting"
+    ],
+    "categories": [
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "Nick Kellet"
+    ]
+  }
+}

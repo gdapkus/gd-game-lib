@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:27:23.460Z",
+  "gameDetails": {
+    "id": "354132",
+    "name": "East India Companies",
+    "type": "boardgame",
+    "description": "In the 18th and 19th centuries, shipping companies aimed to strengthen the trade between the West and the Far East that had begun in previous centuries. Tea, spices, coffee, and silk are commodities much consumed in Europe, and their buying and selling prices depend closely on supply and demand. Fortunes can be made and gambled depending on circumstances.\n\nIn East India Companies, players manage a large shipping company that trades with far flung trading posts in India. They must manage their ships and invest in buying shares of their own company or those of their competitors. Most importantly, players have to keep an eye on the constantly fluctuating market prices! Is it better to invest your money in the stock market or in buying goods? Do they prefer to use fast ships with low tonnage or slower ships with larger holds? Whatever the players choose, their strategies will influence those of their opponents.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/j3B__Qgm8PeUD0cl2Sue-w__original/img/g4borQIX-AI0GgwB-6-Jt7dLlns=/0x0/filters:format(jpeg)/pic7064114.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/j3B__Qgm8PeUD0cl2Sue-w__small/img/SkVXF-MBesJuPupHJL2OmFah_PY=/fit-in/200x150/filters:strip_icc()/pic7064114.jpg",
+    "link": "https://boardgamegeek.com/thing/354132",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.45042",
+    "averageWeight": "3",
+    "boardGameRank": "2688",
+    "mechanics": [
+      "Investment",
+      "Market",
+      "Pick-up and Deliver",
+      "Stock Holding",
+      "Turn Order: Stat-Based",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Transportation"
+    ],
+    "designers": [
+      "Pascal Ribrault"
+    ]
+  }
+}

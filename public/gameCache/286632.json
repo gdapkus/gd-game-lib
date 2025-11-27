@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T19:31:33.951Z",
+  "gameDetails": {
+    "id": "286632",
+    "name": "Blood of the Northmen",
+    "type": "boardgame",
+    "description": "In the time of Vikings, gather and manoeuvre warbands to form the nation of Bjarmia under your banner, or defeat other players to prove your battle prowess.  Build the map as you play, with untamed forests, pristine lakes, harsh mountains, and a sprawling network of roads connecting fledgling towns.  Earn actions with your map placements depending on the features of each tile you choose to add.\n\nBlood of the Northmen a game by Carl Chudyk (Glory To Rome, Innovation, Impulse) taking players north of Europe into the wild Nordic lands of the 9th century. Each player controls his own Viking clan with a unique ability. Players playing tiles from hand together build a board on which they place their warriors. Each tile in the game is both a board element, an action card, and strength in a fight. During the game, players gain victory points by fighting other clans, as well as by taking strategic settlements. The game is filled with negative interaction and a huge amount of strategy and tactics. The game has an unusual and unique mechanics of using tiles, not yet seen in other games. 120 unique tiles, 48 high detailed figures and 12 Strongholds are just some of the items in the box.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/zBOxI_lXCEywHGy9EiA9rQ__original/img/Y1EU80TzevQdlc0zsU89FKbeJ1A=/0x0/filters:format(jpeg)/pic4957820.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zBOxI_lXCEywHGy9EiA9rQ__small/img/QK62sgPOHlSg_jU3KoznevBiBxE=/fit-in/200x150/filters:strip_icc()/pic4957820.jpg",
+    "link": "https://boardgamegeek.com/thing/286632",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "60",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "5.70675",
+    "averageWeight": "2.5",
+    "boardGameRank": "21128",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Modular Board",
+      "Network and Route Building",
+      "Point to Point Movement",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Fighting",
+      "Medieval",
+      "Puzzle",
+      "Territory Building"
+    ],
+    "designers": [
+      "Carl Chudyk"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T21:02:40.856Z",
+  "gameDetails": {
+    "id": "425428",
+    "name": "Survive The Island",
+    "type": "boardgame",
+    "description": "Survive The Island is a cutthroat game in which players seek to evacuate their adventurers &mdash; especially those of a high value &mdash; from a sinking island to maximize their score.\n\nAn island made up of forty hex-tiles is slowly sinking into the ocean as tiles are removed from the board. Each player controls ten people (valued 1-5) that they try to move towards the safety of the surrounding islands before the main island's volcanoes finally erupt. Players can either swim or use rafts to travel, but must avoid sea serpents, kaiju, and sharks on their way to safety.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/MG8gloAo6F2cD4C6gz12Lg__original/img/WjpJXy7nyPCwIebnS53Vldachlk=/0x0/filters:format(png)/pic8337555.png",
+    "thumbnail": "https://cf.geekdo-images.com/MG8gloAo6F2cD4C6gz12Lg__small/img/7zLTA-ezIncVQ5UIJeEQinqjV6Y=/fit-in/200x150/filters:strip_icc()/pic8337555.png",
+    "link": "https://boardgamegeek.com/thing/425428",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.4307",
+    "averageWeight": "1.4516",
+    "boardGameRank": "1397",
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Map Reduction",
+      "Memory",
+      "Modular Board",
+      "Secret Unit Deployment",
+      "Take That"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Mythology",
+      "Nautical"
+    ],
+    "designers": [
+      "Julian Courtland-Smith"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:03:15.075Z",
+  "gameDetails": {
+    "id": "176229",
+    "name": "Tides of Time",
+    "type": "boardgame",
+    "description": "Play as an ancient civilization as they prosper and collapse through time. Build gigantic monuments, raise impenetrable fortifications, and amass vast knowledge as the ages pass. The greatest civilizations will leave their mark long after their collapse. From times long forgotten to times recently lost, civilizations will rise and fall as the tide of time carries them.\n\nTides of Time is a drafting game for two players. Each game consists of three rounds in which players draft cards from their hands to build their kingdom. Each card is one of five suits and also has a scoring objective. After all cards have been drafted for the round, players total their points based on the suits of cards they collected and the scoring objectives on each card, then they record their score. Each round, the players each select one card to leave in their kingdom as a \"relic of the past\" to help them in later rounds. After three rounds, the player with the the most prosperous kingdom wins.\n\n",
+    "image": "https://cf.geekdo-images.com/pRCIGU5zrYqPc-fjF2CevA__original/img/pmdzqABppWfAQRX-mp6t4-JsFWo=/0x0/filters:format(jpeg)/pic2486726.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pRCIGU5zrYqPc-fjF2CevA__small/img/muBa0gw1sCOOkLqKIBXK42iyF_g=/fit-in/200x150/filters:strip_icc()/pic2486726.jpg",
+    "link": "https://boardgamegeek.com/thing/176229",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2015",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.57748",
+    "averageWeight": "1.5508",
+    "boardGameRank": "1771",
+    "mechanics": [
+      "Closed Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Ancient",
+      "Card Game",
+      "Civilization"
+    ],
+    "designers": [
+      "Kristian Čurla"
+    ]
+  }
+}

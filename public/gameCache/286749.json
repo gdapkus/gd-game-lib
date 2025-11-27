@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:37:07.213Z",
+  "gameDetails": {
+    "id": "286749",
+    "name": "Hansa Teutonica: Big Box",
+    "type": "boardgame",
+    "description": "The multi-award-winning strategy game Hansa Teutonica is back in a Big Box edition including the base game and all expansions. In the game, players attempt to increase their standing as merchants in the Hanseatic League by gaining prestige points in various ways. For instance, they can try to establish a network of counting offices in new Hansa cities by occupying an entire trade route between two cities &mdash; but before that happens, player markers can also be displaced by other players. Players may also aim to develop their trading skills, improving their abilities throughout the course of play. With only two actions per turn and a variety of contested opportunities, every turn is equally quick and strategically demanding.\n\nHansa Teutonica is a highly interactive strategy game as players block and push each other each turn, but it also gives cunning players the chance to put being blocked into an advantage. The game's many possible strategies can also be tested and perfected on the variant game boards of the beloved Hansa Teutonica: Britannia and Hansa Teutonica: East Expansion.\n\n",
+    "image": "https://cf.geekdo-images.com/qickPeokpmzZN2pAx1cdUA__original/img/7M5iyLz3Q4-vJ-VI4zRk2fp6cJg=/0x0/filters:format(jpeg)/pic5441398.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qickPeokpmzZN2pAx1cdUA__small/img/vJrsNtLh8gHjQMOhIa-OErhvaBU=/fit-in/200x150/filters:strip_icc()/pic5441398.jpg",
+    "link": "https://boardgamegeek.com/thing/286749",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "8.37559",
+    "averageWeight": "2.9572",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Network and Route Building",
+      "Ownership",
+      "Take That",
+      "Tech Trees / Tech Tracks"
+    ],
+    "categories": [
+      "Medieval"
+    ],
+    "designers": [
+      "Andreas Steding"
+    ]
+  }
+}

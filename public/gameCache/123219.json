@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:30:07.868Z",
+  "gameDetails": {
+    "id": "123219",
+    "name": "OddVille",
+    "type": "boardgame",
+    "description": "Oddly enough, several of you have been hired to build the city of OddVille, home to four powerful worker guilds.\n\nCleverly place your buildings in order to obtain greater power and fame, while thwarting your opponents' plans. Manage your workers to obtain the resources, coins, and building projects you need in order to make your mark on the city. Plan the city streets to get access to resources or coins from nearby buildings, even if not yours.\n\nImpress the right guild, and you will get a visit from a guild member, who will gladly help you out while enjoying your hospitality. The guild comes first, though: At a moment's notice, every guild member will return to the guild hall, regardless of how much that inconveniences you. Of course, the person who \"inspired\" the guild meeting may be chuckling gleefully at the \"unfortunate\" timing of your guest's departure.\n\nOddVille is a card-based city-building game in which all actions are carried out by playing one of your four Worker cards. Each Worker card has a different power and can be used in different ways: to get a project, to obtain resources, or to collect coins. During your turn, you can either play a card or add a building to the city. Connect it to adjacent buildings with roads and you will gain their bonus.\n\nThe city grows with each player's contribution, ever changing the values of players' buildings. As soon as a player builds his sixth building, the game ends and the player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/VSpLBWdBYFifcmUak91yGA__original/img/WXYdqfLCLw-RzMBBkaGnLB-JU2U=/0x0/filters:format(jpeg)/pic1358373.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VSpLBWdBYFifcmUak91yGA__small/img/fes6IW2ublVBYe18uJrT_D4sMTE=/fit-in/200x150/filters:strip_icc()/pic1358373.jpg",
+    "link": "https://boardgamegeek.com/thing/123219",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.74118",
+    "averageWeight": "2.3482",
+    "boardGameRank": "2720",
+    "mechanics": [
+      "Action Retrieval",
+      "Open Drafting",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Fantasy"
+    ],
+    "designers": [
+      "Carlo Lavezzi"
+    ]
+  }
+}

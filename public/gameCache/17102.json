@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:18:16.905Z",
+  "gameDetails": {
+    "id": "17102",
+    "name": "War in the West: WWII in Western Europe, 1939-1945",
+    "type": "boardgame",
+    "description": "War in the West is a corps/division level simulation designed to recreate these massive battles. Each hex represents 33 kilometers of actual distance and each game-turn represents one week of actual time (the same scale as War in the East).\n\nThere are 5 scenarios: Poland, France 1940, North Africa, Italy and France 1944. In addition the scenarios can be used as a starting point for a campaign scenario covering the remainder of the war.\n\nPart of WAR IN EUROPE, but also sold separately.\n\n",
+    "image": "https://cf.geekdo-images.com/gMYAbTpgQggZFX57Kb4KEw__original/img/rmkNSBGcubUUUor_ydnFP78NWx8=/0x0/filters:format(jpeg)/pic7186488.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gMYAbTpgQggZFX57Kb4KEw__small/img/P6_sxlhUstXOppBeef-zRI0kfcU=/fit-in/200x150/filters:strip_icc()/pic7186488.jpg",
+    "link": "https://boardgamegeek.com/thing/17102",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1976",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.08889",
+    "averageWeight": "3.5",
+    "boardGameRank": "17971",
+    "mechanics": [
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Jim Dunnigan"
+    ]
+  }
+}

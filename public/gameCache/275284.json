@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T19:31:27.786Z",
+  "gameDetails": {
+    "id": "275284",
+    "name": "Arkeis",
+    "type": "boardgame",
+    "description": "History is full of secrets...\n\nAs they explore an ancient Egyptian tomb, a team of archaeologists and adventurers stumble upon a mystery that History forgot. To uncover the truth, they will have to delve deeper and deeper in the pyramids, dodging deadly traps and fighting back swathes of monsters running after them. Has the old Pharaoh placed a curse on this expedition? Should some secrets remain untold? This story is now yours to complete...\n\nArkeis is a cooperative, story-driven, campaign game with minis set among ancient Egyptian ruins. \nEach player takes control of an adventurer as they explore a modular board.\nPlayers have up to two actions per turn: search, move, assist an ally or fight one of the numerous dangers waiting for them in the tombs! The results of their actions can be altered by the equipment and character upgrades they earn during the campaign. \n They can push their luck at the risk of being cursed or suffering lasting traumas from injuries!\nEach character has their own backpack to store their items (and curses) between adventures.\nEach scenario has objectives that the players will try to accomplish during the game to earn rewards in the form of key items and upgrades that influence later scenarios.\n\nIt will take a team of skilled players to reveal all of Arkeis&rsquo;s secrets!\n\n&mdash;description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/1adNZXJLGKMMVTdMay16kA__original/img/aKedh6Gj04m1tKz0dmy9uHIDhJI=/0x0/filters:format(png)/pic6970139.png",
+    "thumbnail": "https://cf.geekdo-images.com/1adNZXJLGKMMVTdMay16kA__small/img/-tqOQ_CvBV1qxLZlp5zLZkFTFuw=/fit-in/200x150/filters:strip_icc()/pic6970139.png",
+    "link": "https://boardgamegeek.com/thing/275284",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.56727",
+    "averageWeight": "2",
+    "boardGameRank": "3696",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Legacy Game",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "designers": [
+      "Antoine Bauza",
+      "Corentin Lebrat",
+      "Ludovic Maublanc",
+      "Théo Rivière"
+    ]
+  }
+}

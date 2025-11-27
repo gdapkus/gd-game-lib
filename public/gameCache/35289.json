@@ -1,0 +1,49 @@
+{
+  "timestamp": "2025-11-26T20:52:28.178Z",
+  "gameDetails": {
+    "id": "35289",
+    "name": "The Dutch Golden Age",
+    "type": "boardgame",
+    "description": "The theme of this game is economic and cultural development in the Netherlands in the 17th century.\n\nThe game is played on a large game board of the Netherlands, divided into provinces. In addition, there are boxes for the East and the West Indies, and track round the edge of the board with the majority of spaces listing two of the ten provinces (in various combinations) that earn players varying amounts of income based on their influences in those provinces, or income spaces that earn players a flat income.\n\nThe aim of the players is to be the first player to earn 33 victory points, which are acquired through earning money to extend influence in the provinces, patronize artists, invest in businesses, establish colonies in the Indies, or obtain civic advancements.  These are represented by purchasing cards from one of six decks, with each deck having a special focus.  Investment cards provide cash payouts, with bigger payouts for collecting sets of different values (single cards are worth less than three-card sets).  Artists provide a potentially large source of victory points, but require multiple turns of patronage (i.e., cash) before they pay out.  Colonization cards provide ships, captains, and cannons to outfit expeditions to establish colonies which earn victory points and access to the higher-paying spice investment card deck.  Civics cards can provide governorships in the provinces (victory points and income), civic improvements (victory points), a special action that allows the holder to alter the normal rules for advancing a token on the board track.  There are cards that work with some of the other decks as well, in the civics deck (e.g., investments, expedition components, etc).\n\n",
+    "image": "https://cf.geekdo-images.com/aNsX-NYqUN8_U20HPgDeRw__original/img/DXWSnBmxpfWfDaSAuBDDPO2qqZw=/0x0/filters:format(jpeg)/pic1248555.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aNsX-NYqUN8_U20HPgDeRw__small/img/ORr_y8tapg1shF3GRqYu0wVon10=/fit-in/200x150/filters:strip_icc()/pic1248555.jpg",
+    "link": "https://boardgamegeek.com/thing/35289",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.36241",
+    "averageWeight": "2.4824",
+    "boardGameRank": "6497",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Auction / Bidding",
+      "Dice Rolling",
+      "Movement Points",
+      "Race",
+      "Random Production",
+      "Resource to Move",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Simulation",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Economic",
+      "Pike and Shot",
+      "Territory Building",
+      "Wargame"
+    ],
+    "designers": [
+      "Giuseppe Baù",
+      "Leo Colovini"
+    ]
+  }
+}

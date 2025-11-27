@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:09:46.370Z",
+  "gameDetails": {
+    "id": "204574",
+    "name": "The Flow of History",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nHistory is a harsh river that flows steadily through the ages. Since the dawn of time, numerous civilizations have risen over the fallen ashes of others, and yet every one of them had once shone brightly in its own moment of glory!\n\nThe Flow of History is yet another innovative civilization game from Taiwanese designer Jesse Li. Players develop their nation using a unique bidding/price-setting mechanism to purchase new cards, but what is paid to the supply might also be harvested into the pockets of other players later, which puts a twist on your strategy of bidding cards, and also simulates economic inflation in the game. Don't forget to build a formidable military to clash with cultures led by your enemy, and create an unforgettable tale of your civilization in The Flow of History.\n\n",
+    "image": "https://cf.geekdo-images.com/nWBBzTSCAnA57UheyeWtCA__original/img/Z-p_eb7Osu4WCMWwnO2eSXK9aGI=/0x0/filters:format(png)/pic3475236.png",
+    "thumbnail": "https://cf.geekdo-images.com/nWBBzTSCAnA57UheyeWtCA__small/img/sIT0AJWNxNLt7G3XWbnf_LI5PTk=/fit-in/200x150/filters:strip_icc()/pic3475236.png",
+    "link": "https://boardgamegeek.com/thing/204574",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2016",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.72152",
+    "averageWeight": "2.5686",
+    "boardGameRank": "2493",
+    "mechanics": [
+      "Auction / Bidding",
+      "End Game Bonuses",
+      "Income",
+      "Melding and Splaying",
+      "Open Drafting",
+      "Set Collection",
+      "Tags",
+      "Take That",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Card Game",
+      "Civilization"
+    ],
+    "designers": [
+      "Jesse Li"
+    ]
+  }
+}

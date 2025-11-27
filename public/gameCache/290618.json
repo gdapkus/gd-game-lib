@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:08:55.931Z",
+  "gameDetails": {
+    "id": "290618",
+    "name": "Wishland",
+    "type": "boardgame",
+    "description": "Wishland is a worker placement eurogame based on the management of a theme park. Through a series of rounds players will purchase different cards from the board to create their own and unique theme park.\n\nThe game last 7 rounds. At the end of the game, the player with the most victory points is declared the winner.\n\nThere are 5 different types of cards in the game:\n\n    Restaurants: Increases the base income of players.\n    Actors: Add additional workers, happiness and visitors. They also earn victory points at the end of the game with a set collection mechanic. \n    Rides: The heart of a theme park. You need a minimum amount of rides in order to enlarge your theme park. They also provide victory points.\n    Hotels: Some allow you to ignore some game rules, while other give you end game objectives or direct rewards related to the other types of cards.\n    Mascots: Each of the 12 different mascots gives you points at the end of the game for each card sharing icons with them.\n\n\n-description from designer\n\n",
+    "image": "https://cf.geekdo-images.com/uSmCHOVI7kyw334JVDMiyw__original/img/NGfvJO5NTUEwm3TO0mIcx13hrcg=/0x0/filters:format(png)/pic8486093.png",
+    "thumbnail": "https://cf.geekdo-images.com/uSmCHOVI7kyw334JVDMiyw__small/img/aN5iy2BQA81Y61YoKtzZLoBf7dQ=/fit-in/200x150/filters:strip_icc()/pic8486093.png",
+    "link": "https://boardgamegeek.com/thing/290618",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "75",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.16223",
+    "averageWeight": "2.4783",
+    "boardGameRank": "4815",
+    "mechanics": [
+      "End Game Bonuses",
+      "Income",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Carlos Michán Amado"
+    ]
+  }
+}

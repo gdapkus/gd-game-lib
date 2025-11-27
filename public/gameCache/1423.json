@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:02:34.031Z",
+  "gameDetails": {
+    "id": "1423",
+    "name": "Storm Over Arnhem",
+    "type": "boardgame",
+    "description": "This is the first of the Area-Impulse games done by Avalon Hill which later included Thunder at Cassino, Turning Point: Stalingrad and Breakout Normandy. The game simulates the ferocious battle for the Arnhem Bridge on September 18-21, 1944.\n\nThe game begins with the British holding the area around the bridge, surrounded by the Germans. They try to hold out for as long as they can.\n\nEach full turn covers 8 hours and includes many mini-turns (or impulses). Each impulse, the player can move or fire a small number units. Once moved or fired, the units are \"committed\" and cannot move or fire again until the next turn.\n\nCombat is handled by calculating attack and defense values with each side adding the roll of 2 dice. The difference (if the attacker has the higher total) in final point values is the number of casualty points the defender must lose by retreating or destroying units.\n\nThe games is of relatively low complexity for a wargame and rates 3 (out of 10) on AH's difficulty scale.\n\n",
+    "image": "https://cf.geekdo-images.com/GzzzAUe6BIRcygJSZ-te7Q__original/img/u6UaUjxnhzDti0xmXeza00cS1UU=/0x0/filters:format(jpeg)/pic2074683.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GzzzAUe6BIRcygJSZ-te7Q__small/img/5EJ9dNbgJzr5j_Zh0Nl1nttThKc=/fit-in/200x150/filters:strip_icc()/pic2074683.jpg",
+    "link": "https://boardgamegeek.com/thing/1423",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1981",
+    "playingTime": "300",
+    "minPlayingTime": "300",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.1961",
+    "averageWeight": "2.8769",
+    "boardGameRank": "3302",
+    "mechanics": [
+      "Advantage Token",
+      "Area Movement",
+      "Area-Impulse",
+      "Dice Rolling",
+      "Movement Points",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Courtney F. Allen"
+    ]
+  }
+}

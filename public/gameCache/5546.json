@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:57:45.898Z",
+  "gameDetails": {
+    "id": "5546",
+    "name": "Marbles",
+    "type": "boardgame",
+    "description": "Marbles was played by ancient Egyptians, who made them from small balls of clay. In Renaissance Italy, glass blowers made glass \"marbles\".\n\nThe game has other names, like Potsie, Forts, Ring Taw, or Bossout.\n\nThere is a national Marbles tournament that's been held in Wildwood, New Jersey every year since 1922.  To participate in the national you must first compete in a local tournament.\n\nThe British World Marbles Championship, run by the British Marble Control Board, has been held every Good Friday in Tinsley Green, England, since at least the 1600's. It often hosts teams from other countries.\n\nAll the marbles are placed inside a circle drawn in the dirt. The object is to get all of them out. Take turns propelling your shooter marble from the circle's edge at the marbles in the middle. When the marbles are all outside of the circle, you count up the ones you have put there. The winner is the one with the most marbles. Some play that this person takes all the marbles.\n\nSome play that if the shooter marble leaves the circle during the shot the marbles knocked out by that shot are put back in.\n\n",
+    "image": "https://cf.geekdo-images.com/Dt6Q0TnNK2KQ9RUPIOBGGA__original/img/GhybBKPshuYS889Jfgtwm4xdzEE=/0x0/filters:format(jpeg)/pic174175.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Dt6Q0TnNK2KQ9RUPIOBGGA__small/img/NtfgvW4o3lCxgwFqA_6tPS1V3OY=/fit-in/200x150/filters:strip_icc()/pic174175.jpg",
+    "link": "https://boardgamegeek.com/thing/5546",
+    "minPlayers": "1",
+    "maxPlayers": "99",
+    "yearPublished": "-3000",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "4.69874",
+    "averageWeight": "1.0962",
+    "boardGameRank": "29474",
+    "mechanics": [
+      "Flicking"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Ancient",
+      "Children's Game",
+      "Game System"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

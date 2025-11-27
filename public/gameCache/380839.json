@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:35:31.222Z",
+  "gameDetails": {
+    "id": "380839",
+    "name": "1930: The Golden Age of Airlines",
+    "type": "boardgame",
+    "description": "1930 is a game set in the early stages of aviation. The players take on the roles of aviation investors, promoters, and presidents with the general objective of making money. A player's wealth is accumulated mainly through owning stock tokens in the ten airlines included in the game. Stock tokens make money in two ways; they can provide ready cash via dividend payments paid during the income action, and they can increase in value over the course of the game.\n\nThe player with the most assets in cash and stock at the end of the game wins.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/EP3v1zoBeGxWPpCChgHKng__original/img/XFhHM8_c4_cMDqROiVkqSbjecII=/0x0/filters:format(jpeg)/pic7360579.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EP3v1zoBeGxWPpCChgHKng__small/img/MhPNk58XNcvZFcdFakoqUxF8PMM=/fit-in/200x150/filters:strip_icc()/pic7360579.jpg",
+    "link": "https://boardgamegeek.com/thing/380839",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.61814",
+    "averageWeight": "3.6667",
+    "boardGameRank": "12440",
+    "mechanics": [],
+    "categories": [
+      "Aviation / Flight",
+      "Economic"
+    ],
+    "designers": [
+      "Alex Sorbello"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:27:28.299Z",
+  "gameDetails": {
+    "id": "424981",
+    "name": "Eternal Decks",
+    "type": "boardgame",
+    "description": "Eternal Decks is a co-operative game in which players try to complete the stage objectives before any one player cannot take an action. Players start the game with five cards in their deck, but will quickly look to acquire more cards from the various Eternals (characters within the game) who each have their own unique eight-card deck. On your turn, you must perform one action:\n\n\n     Play a card (on the field, on the river, or by using an ability)\n     Generate a jewel\n     Give a card to a teammate\n\n\nThere are restrictions when playing a card. All three rows in the field cannot have cards of the same color or same number next to each other. Additional restrictions are applied to a row based on the stage you are playing. Jewels are used to negate the negative effects brought on by the Eternals.\n\nThe game has six stages, and the various stages will have you collect points, survive a ghost town, navigate a labyrinth, defeat a boss, and more to win the game!\n\n",
+    "image": "https://cf.geekdo-images.com/Bo6QYIQWzRRcn7KyO3AIPg__original/img/eQ-YojBJLh3FFFa_Cn-bbHbs-wk=/0x0/filters:format(png)/pic8512516.png",
+    "thumbnail": "https://cf.geekdo-images.com/Bo6QYIQWzRRcn7KyO3AIPg__small/img/P9XzT5xp1nj-z8N379CrM7_ozNg=/fit-in/200x150/filters:strip_icc()/pic8512516.png",
+    "link": "https://boardgamegeek.com/thing/424981",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "40",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.27432",
+    "averageWeight": "2.8438",
+    "boardGameRank": "1944",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Once-Per-Game Abilities",
+      "Ordering",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Mythology",
+      "Puzzle"
+    ],
+    "designers": [
+      "Hiroken"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-11-26T20:27:46.638Z",
+  "gameDetails": {
+    "id": "391137",
+    "name": "Galactic Cruise",
+    "type": "boardgame",
+    "description": "Hello, and welcome to Galactic Cruise. Here, we offer our guests something special: the comfort of a luxury cruise with the innovation of space travel. As the first company to offer extended-stay space vacations, we are excited to have you working for us! As a supervisor of this company, you&rsquo;ll be expected to not only build these ships and satisfy our guests, but also to help the company thrive by enhancing our company network, inventing new technologies, and growing our workforce.  We are a united company, and you&rsquo;ll often find that what another supervisor does will make your job easier. Let me be clear, though, this is a competition. Our current CEO will be stepping down in three years, and the supervisor who comes out on top will take his place.\n\nOn your turn, you will either place a worker to take two actions in the ever-expanding network, launch a ship and send one of your workers to space as a pilot, or recall all your earthbound workers to collect funding bonuses. Actions include acquiring blueprints, constructing ships, attracting guests, and building developments&ndash;connections between locations that increase action selection throughout the game. You will also be affecting resource markets that ebb and flow with the actions of all the players.\n\nThroughout the game, you will also be competing with your fellow supervisors to complete company goals, which will earn you progress cubes throughout the game. Progress cubes are also placed when you launch ships, and when a certain number of cubes are placed onto the company&rsquo;s progress track, the game ends, and the player with the most Victory Points becomes the new CEO of Galactic Cruise.\n\nDo you still think you have what it takes to work for us? You do? Great. Let&rsquo;s get started.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/l-LMcklO683dyVlnRZS3mg__original/img/iCKYMpwsmiM18FHFT9Nzuk625bQ=/0x0/filters:format(jpeg)/pic7556818.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/l-LMcklO683dyVlnRZS3mg__small/img/8usx0HfsTXTpE2kklVRMtJGAwFY=/fit-in/200x150/filters:strip_icc()/pic7556818.jpg",
+    "link": "https://boardgamegeek.com/thing/391137",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "150",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.4097",
+    "averageWeight": "3.9575",
+    "boardGameRank": "208",
+    "mechanics": [
+      "Action Points",
+      "Connections",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Market",
+      "Modular Board",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up",
+      "Victory Points as a Resource",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Economic",
+      "Industry / Manufacturing",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "T.K. King",
+      "Dennis Northcott",
+      "Koltin Thompson"
+    ]
+  }
+}

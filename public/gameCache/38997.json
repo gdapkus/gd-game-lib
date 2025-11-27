@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:14:34.466Z",
+  "gameDetails": {
+    "id": "38997",
+    "name": "Power Grid: Flux Generator",
+    "type": "boardgameexpansion",
+    "description": "Power Grid: Flux Generator (Funkenschlag: Flux-Generator) is part of the Power Grid: BGG Promo Card Set.\n\nIt was originally a free limited card for Power Grid (aka Funkenschlag 2nd Edition) at the Essen Spiel fair '08\n\nThe Flux Generator can fire any 3 resources to power 6 cities.\n\n",
+    "image": "https://cf.geekdo-images.com/Di8xvX9mu6UladSd1eQGdA__original/img/J2SCDVXst9ik4dizGLYsJ_xXZuM=/0x0/filters:format(jpeg)/pic408277.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Di8xvX9mu6UladSd1eQGdA__small/img/pg2-M0UPbJmicEcIgSUB2tPbP28=/fit-in/200x150/filters:strip_icc()/pic408277.jpg",
+    "link": "https://boardgamegeek.com/thing/38997",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2008",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.41836",
+    "averageWeight": "2.9697",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:48:30.360Z",
+  "gameDetails": {
+    "id": "20623",
+    "name": "Alien City",
+    "type": "boardgame",
+    "description": "Alien City is a game that is set in the far future and concerns the building of a city on a newly colonized world. Society in this distant time is divided into four powerful guilds. These are the Energy Guild (symbolized by a red sun), the Synthesis Guild (symbolized by a blue fountain), the Control Guild (the most powerful guild of all, symbolized by a green crown), and the Builder's Guild (symbolized by a black tool---yes, that's how tools look in the far future).\n\nCities in this future contain two types of structures, towers and domes. Towers are owned by the various guilds. These are the power plants (energy), factories (synthesis), and government facilities (control). Domes are smaller structures used to house the citizens. As with the towers, domes are always associated with a particular guild. Both towers and domes are color-coded to identify guild affiliation; red for energy, blue for synthesis, green for control, and black for builders.\n\nEach of the guilds wants its towers positioned close to the towers and domes of other guilds (their customers) and far away from its own other towers (to avoid competing with other towers of their own guild). Location, location, location! Some things never change, even in the distant future.\n\nThe Builder's Guild is unique because there are no Builder's Guild towers, i.e., no black towers. Instead, the Builders are compensated for their efforts by being given the profits of some of the other guilds&rsquo; towers that the Builders choose as they construct the city.\n\nThe players in this game are competing builders working to construct the city. At the same time, they are choosing towers for themselves that they hope will be profitable with many close customers and little competition. The choices must be made with care because each builder may only choose three.\n\nRed, blue, and green large Icehouse Pieces are used for the towers, and piecepack coins with the suit side up represent red, blue, green, and black domes. The land area of the city is defined by a 4x5 array of piecepack tiles, suit side up, with each tile representing four building sites. The game-play consists of the players alternating turns, placing a tower or dome each turn until either all available towers and domes have been placed or until there are no legal construction sites remaining within the city. Then scores are determined based upon the relative positions of the towers and domes.\n\n",
+    "image": "https://cf.geekdo-images.com/v6I7kIJ9p51A5rwVY2N0GQ__original/img/FYyzBfG9_mKpdlDvAeNsZ8-LaZU=/0x0/filters:format(jpeg)/pic155202.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/v6I7kIJ9p51A5rwVY2N0GQ__small/img/CKVi06TGCi8FGQHPjhXBwT48Xo4=/fit-in/200x150/filters:strip_icc()/pic155202.jpg",
+    "link": "https://boardgamegeek.com/thing/20623",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2002",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.11308",
+    "averageWeight": "3.1765",
+    "boardGameRank": "11051",
+    "mechanics": [
+      "Modular Board",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "City Building",
+      "Print & Play",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "designers": [
+      "Michael Schoessow"
+    ]
+  }
+}

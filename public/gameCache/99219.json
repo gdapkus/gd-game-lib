@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:02:47.589Z",
+  "gameDetails": {
+    "id": "99219",
+    "name": "Swish",
+    "type": "boardgame",
+    "description": "Swish is a pattern recognition card game reminiscent of Set that challenges a player to make matches &ndash; dubbed \"Swishes\" &ndash; before opponents.\n\nSwish includes 60 transparent cards; each card has some combination of balls and hoops on it, with these items coming in four colors. To set up the game, lay out 16 cards on the table. Players simultaneously try to create \"Swishes\" by spotting two or more cards that can be laid on top of one another in some manner so that every ball fits in a hoop of the same color. Create a Swish, and you claim the cards used, with new cards then being laid out. Whoever claims the most cards wins the game.\n\nThe game includes varied levels of play so that the spatially clueless can compete against Tetris-heads.\n\n",
+    "image": "https://cf.geekdo-images.com/zzbOtVGaOfJArqg660wM3g__original/img/qgA1t2FUa-gAv5MP9ZbKprmv938=/0x0/filters:format(jpeg)/pic8782824.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zzbOtVGaOfJArqg660wM3g__small/img/1PUK0Jphzw5Sjqa01oDQmKYk2cg=/fit-in/200x150/filters:strip_icc()/pic8782824.jpg",
+    "link": "https://boardgamegeek.com/thing/99219",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2011",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "6.10448",
+    "averageWeight": "1.2683",
+    "boardGameRank": "7576",
+    "mechanics": [
+      "Pattern Building",
+      "Pattern Recognition",
+      "Set Collection",
+      "Speed Matching"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Card Game",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Zvi Shalem",
+      "Gali Shimoni"
+    ]
+  }
+}

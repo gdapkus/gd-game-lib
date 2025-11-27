@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:03:55.672Z",
+  "gameDetails": {
+    "id": "385315",
+    "name": "Unlock! Mythic Adventures: In den Fängen des Hades",
+    "type": "boardgame",
+    "description": "Unlock! is a cooperative card game inspired by escape rooms that uses a simple system which allows you to search scenes, combine objects, and solve riddles. Play Unlock! to embark on great adventures, while seated at a table using only cards and a companion app that can provide clues, check codes, monitor time remaining, etc.\n\nIn the Clutches of Hades - You are Alix, a slave in Greece during antiquity. Gaining your freedom will not be an easy task unless you ask the Gods for help.\n\nAn included ten-card tutorial allows you to learn how to play without reading the game rules. Note: Unlock! requires a free application to be downloaded from the App Store or Google Play. Once downloaded, an internet connection is not required during game play.\n\n",
+    "image": "https://cf.geekdo-images.com/GvynFK91kKp4pISnsdoCvQ__original/img/I1tJ04zOpsK6xXoK-QHiPIZsMcY=/0x0/filters:format(jpeg)/pic7639555.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GvynFK91kKp4pISnsdoCvQ__small/img/HDCv5-3Q5esuv6rmcvr6gcAoG-Y=/fit-in/200x150/filters:strip_icc()/pic7639555.jpg",
+    "link": "https://boardgamegeek.com/thing/385315",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.60593",
+    "averageWeight": "2",
+    "boardGameRank": "16430",
+    "mechanics": [
+      "Cooperative Game",
+      "Elapsed Real Time Ending",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Puzzle"
+    ],
+    "designers": [
+      "Périnne Kurtz",
+      "Arnaud Pincemaille"
+    ]
+  }
+}

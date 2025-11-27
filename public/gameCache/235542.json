@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:48:53.461Z",
+  "gameDetails": {
+    "id": "235542",
+    "name": "Arkham Horror: The Card Game – A Phantom of Truth: Mythos Pack",
+    "type": "boardgameexpansion",
+    "description": "Where do you go for answers when your world is tilting into madness? The answer: Paris. A Phantom of Truth is the third Mythos Pack in The Path to Carcosa cycle for Arkham Horror: The Card Game. As you investigate the mysteries behind The King in Yellow, the Mythos Pack's new scenario introduces a new set of clues, along with supernatural terrors that play upon your growing Doubt or Conviction. Amid these horrors, you'll find twenty-two new player cards (two copies each of eleven different cards) to help you stay grounded and pursue the truth.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/C_MHTQgI6pY6pzIqc6menA__original/img/wfiJvsKXQSDoB7Pi4ZWTyXMO0uM=/0x0/filters:format(png)/pic3741697.png",
+    "thumbnail": "https://cf.geekdo-images.com/C_MHTQgI6pY6pzIqc6menA__small/img/IRF5A-XlgYgwqbGi5hUnz2D5vw8=/fit-in/200x150/filters:strip_icc()/pic3741697.png",
+    "link": "https://boardgamegeek.com/thing/235542",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.36108",
+    "averageWeight": "3.6667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Role Playing",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Card Game",
+      "Horror",
+      "Novel-based"
+    ],
+    "designers": [
+      "Nate French",
+      "MJ Newman"
+    ]
+  }
+}

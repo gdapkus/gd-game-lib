@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:16:21.481Z",
+  "gameDetails": {
+    "id": "349396",
+    "name": "Skulls of Sedlec: Expansion Collection I",
+    "type": "boardgameexpansion",
+    "description": "A wallet collection of three 6-card expansions for Skulls of Sedlec:\n\n\n    Merchants\n    Zealots\n    Champions\n\n\n\nMerchants want to be next to Peasants but avoid criminals.\n\nZealots want to have many Priests above or below them.\n\nChampions want to be next to groups of their supporters.\n\n",
+    "image": "https://cf.geekdo-images.com/9u7P5v5urRdvqU2hXNqriw__original/img/158ITOmdCUYUnJxJkei5a11uKxE=/0x0/filters:format(png)/pic9057182.png",
+    "thumbnail": "https://cf.geekdo-images.com/9u7P5v5urRdvqU2hXNqriw__small/img/vuXrAJzWWJFc8NalpoPjXq8xsQg=/fit-in/200x150/filters:strip_icc()/pic9057182.png",
+    "link": "https://boardgamegeek.com/thing/349396",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.76239",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game"
+    ],
+    "designers": [
+      "Dustin Dobson"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:31:00.115Z",
+  "gameDetails": {
+    "id": "42452",
+    "name": "Rattus",
+    "type": "boardgame",
+    "description": "Europe, 1347. A disaster is about to strike. The Black Death reaches Europe, and during the next 4-5 years, the population of Europe will be halved.\nThe players settle in the various regions of Europe, while the plague spreads throughout all of the continent. The players gain help from the various classes of the middle ages: the Peasants provide population growth, the wise Monks keep the rats away, the rich Merchants flee when the plague approaches, the warfare conducted by the Knights spreads the plague to new areas, the Witches control the spread through magic and witchcraft, whereas the Kings avoid the plague by staying in their fortified palaces. But the plague does not make any distinction: when the rats arrive, no one can feel safe. \nWhen the plague withdraws and the game ends, the player with the highest surviving population wins.\n\nRattus is a medium-strategy game that takes place in the Dark Ages during the black plague. The players try to hold off the disease.\nTo do this they get help from farmers, magicians, knights, nobles, ... But nothing helps as long as the rats keep coming.\n\n",
+    "image": "https://cf.geekdo-images.com/wKT_pdW6lOCTWCkkjlhNkg__original/img/A7toj4xyRKSafcP7l7e1-l8WI2c=/0x0/filters:format(jpeg)/pic612591.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wKT_pdW6lOCTWCkkjlhNkg__small/img/_Hf3fOLl1oKk6VGWHJEyoqTLFi4=/fit-in/200x150/filters:strip_icc()/pic612591.jpg",
+    "link": "https://boardgamegeek.com/thing/42452",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.77516",
+    "averageWeight": "2.0625",
+    "boardGameRank": "1491",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Open Drafting",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Animals",
+      "Medieval"
+    ],
+    "designers": [
+      "Åse Berg",
+      "Henrik Berg"
+    ]
+  }
+}

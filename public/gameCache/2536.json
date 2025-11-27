@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:13:47.141Z",
+  "gameDetails": {
+    "id": "2536",
+    "name": "Vabanque",
+    "type": "boardgame",
+    "description": "A party meets for a game in the casino. After the players determine how much money can be won at the casino tables they play their character cards and move their pawns to a casino table. The payout can be multiplied or lost to card sharks. In the beginning the stakes are low but they increase from round to round. In Vabanque, if you carefully watch the others, and guess their bluffs, you can win a lot. The player with the most money after four rounds is the winner.\n\n",
+    "image": "https://cf.geekdo-images.com/wOZ1EZRFzwG4v3oVAcgDQg__original/img/XY5qcnbpQr6E-uCk0LmSEWssu48=/0x0/filters:format(jpeg)/pic5196896.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wOZ1EZRFzwG4v3oVAcgDQg__small/img/-hGuNRktptEkdhHSoITUG_Na7U0=/fit-in/200x150/filters:strip_icc()/pic5196896.jpg",
+    "link": "https://boardgamegeek.com/thing/2536",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2001",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.47174",
+    "averageWeight": "1.6538",
+    "boardGameRank": "5302",
+    "mechanics": [
+      "Betting and Bluffing"
+    ],
+    "categories": [
+      "Bluffing"
+    ],
+    "designers": [
+      "Leo Colovini",
+      "Bruno Faidutti"
+    ]
+  }
+}

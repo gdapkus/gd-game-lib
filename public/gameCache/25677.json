@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:53:33.232Z",
+  "gameDetails": {
+    "id": "25677",
+    "name": "Formidable Foes",
+    "type": "boardgame",
+    "description": "From the publisher's website:\n\nOnce again, our unfortunate friends find themselves foreigners trapped within the frightful Fortress Furor of the fanged Prince Fieso who would, with felicity, see them flounder and faint.  These fine fighters could feasibly face their finish in this forbidding fortification, whose fearsome floors even now flow frighteningly from beneath their feet as the famished Furunkulus forages the fringes, fixing to feast on the foreigners&rsquo; flesh.  Forthwith, must our fighters fashion their flight from this foulest of fates!  But what&rsquo;s this?  By the light of their fallow and flickering flares, our friends find the depths fraught with the most furious of fiends and the fiercest of freaks!  With fleet feet, the fearless foreigners follow these ferocious fellows through the fortress, with its multifarious footpaths and their frustrating forks, forging fervently forward toward freedom and fame.  Our fighters must not falter from whatever feud or fracas would foil their function: to finally furnish the forlorn Faerie Fabula her freedom from feckless Fieso&rsquo;s fists!\n\nTheme\nFormidable Foes is a light-hearted dungeon crawl. The players all take the role of heroes competing with each other to amass the greatest hoard of treasure. They do this by exploring the dungeon and fighting monsters.\n\nGoal\nThe goal is to collect as much gold as possible. The winner is the richest player.\n\nGameplay\nOn each turn, a player either moves twice; moves once and fights a monster; or collects 'power tokens' which allow a player to improve their dice rolls in subsequent turns. In the early part of the game, the monsters are fairly weak and easily defeated. Defeating a monster increases a character's 'wisdom' which allows them to fight and defeat ever-harder monsters. Fighting monsters involves rolling a dice and then adding power tokens to improve the roll if required.\n\n",
+    "image": "https://cf.geekdo-images.com/9RcUg7iK1DvsjaiMoXD2iQ__original/img/MX12SGpxP3wSUXsFQPUbsYHx2js=/0x0/filters:format(jpeg)/pic240761.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9RcUg7iK1DvsjaiMoXD2iQ__small/img/T-lCooZWUWatyPRY-bFMjkZz3pI=/fit-in/200x150/filters:strip_icc()/pic240761.jpg",
+    "link": "https://boardgamegeek.com/thing/25677",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2006",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      5
+    ],
+    "averageRating": "5.53941",
+    "averageWeight": "2.1071",
+    "boardGameRank": "23853",
+    "mechanics": [
+      "Dice Rolling"
+    ],
+    "categories": [
+      "Exploration",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

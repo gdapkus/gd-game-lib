@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:57:33.212Z",
+  "gameDetails": {
+    "id": "393999",
+    "name": "Darwin's Journey: Great Ship",
+    "type": "boardgameexpansion",
+    "description": "This mini-expansion includes 11 Ship cards. These helpful ships will give players an benefit during the game.\n\nIncluded inside Darwin's Journey: Collector's Edition and was available as an add-on during the Kickstarter campaign for those backing at the base game only pledge level.\n\n",
+    "image": "https://cf.geekdo-images.com/-Gz_HQnRNGRNlnJ-ZfezSg__original/img/f5smzR0dn4OKGZZCRfK4ABf_onw=/0x0/filters:format(jpeg)/pic7704034.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-Gz_HQnRNGRNlnJ-ZfezSg__small/img/C7mMlFsfcQVxx_2cBv2r3kaMcns=/fit-in/200x150/filters:strip_icc()/pic7704034.jpg",
+    "link": "https://boardgamegeek.com/thing/393999",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.09202",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone"
+    ]
+  }
+}

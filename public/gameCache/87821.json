@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:56:53.678Z",
+  "gameDetails": {
+    "id": "87821",
+    "name": "Kingdom of Solomon",
+    "type": "boardgame",
+    "description": "King Solomon presided over a golden age of peace and prosperity in ancient Israel. During this time Solomon instituted an unprecedented building program. As one of Solomon's chief governors, you must procure materials and oversee construction of buildings and roads across the land for the glory of Solomon. You will also help to construct the Temple, one of the wonders of the ancient world.\n\nKingdom of Solomon is a worker-placement game with a few new twists and turns. Do you claim a resource space, an action space or throw in all your remaining pawns to grab a powerful Bonus Space? Will you spend your resources to extend Solomon's kingdom, take some points in the Market or add to the Temple? These and many other choices await you in this highly interactive game.\n\nYou play Kingdom of Solomon in rounds of four phases.  You start the round placing your pawns to get resources, take actions or get a bonus.  In this placement phase players take turns, each placing one pawn at a time.  After all pawns have been placed, players resolve what they get from placing their pawns.  This is called the resolution phase, and each player, in turn, resolves the placement of all their pawns before the next player.  Next the players can go to the Market to sell or buy resources.  In this market phase, like the placement phase, players alternate taking turns, except that players take turns in reverse order.  The last shall be first, and the first shall be last.  Finally, you build in the building phase.  Players, one at a time, can build a building, roads and add blocks to the Temple.\n  \nWhen you place pawns to take actions, you can get an additional resource for a resource space, trade one resource for another, steal a resource from an opponent, get victory points or draw Fortune cards.  You can play Fortune cards at any time.  Fortune cards provide resources, victory points or special actions.  Bonuses your pawns can gain for you include one of every resource, three Fortune cards or victory points with a rearrangement of turn order so you become the new first player.\n\nYou use resources to build things.  Each thing costs a specific set of resources.  The buildings you build give you victory points and additional spots to place pawns for resources or actions.  Roads link resource spaces into resource regions so you can get more resources per pawn placed in the resource region.  Building Temple blocks give you either victory points or temple tokens that help you gain or keep the High Priest.  The High Priest lets you take advantage of another player&rsquo;s resource region and gives you victory points at the end of the game.\n\nThe game ends at the end the round when a player places all his building tokens on building sites, there is a building token on each of the building sites, or the Temple is complete.  The player with the most victory points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/h3cV60mA9vFuFoKSSDNdkg__original/img/jCk4si0HJft1HV_I7Dqf5kp5KrI=/0x0/filters:format(jpeg)/pic1064271.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/h3cV60mA9vFuFoKSSDNdkg__small/img/I7Q8eParNJZRhQK-K1EBaejqMhU=/fit-in/200x150/filters:strip_icc()/pic1064271.jpg",
+    "link": "https://boardgamegeek.com/thing/87821",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.837",
+    "averageWeight": "2.7627",
+    "boardGameRank": "4927",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Commodity Speculation",
+      "Enclosure",
+      "Network and Route Building",
+      "Variable Phase Order",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Ancient",
+      "City Building",
+      "Economic",
+      "Religious"
+    ],
+    "designers": [
+      "Philip duBarry"
+    ]
+  }
+}

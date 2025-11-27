@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:54:30.525Z",
+  "gameDetails": {
+    "id": "4843",
+    "name": "Give Me Liberty",
+    "type": "boardgame",
+    "description": "(from the back of the box:)\n\nBeginning in September 1775 and running through the end of 1781, Give Me Liberty! covers the military campaigns that helped create the United States of America. All of the important generals are here: George Washington, Benedict Arnold, Lafayette,\"Mad Anthony\" Wayne, \"Gentleman John\" Burgoyne, Francis (\"Swamp Fox\") Marion, Howe, Cornwallis, etc. Special rules flesh out the men, and their unique abilities and liabilities. The game system is fast paced, and creates a challenging situation for both sides.\n\nIN ADDITION TO THE FULL CAMPAIGN GAME, there are four shorter campaign scenarios. The Invasion of Canada follows the fortunes of Arnold and Montgomery, as they attempt to add a 14th Colony to those in rebellion. Saratoga 1777 covers the British attempt to conquer the Hudson Valley. Summer 1780 features the British attempt to separate the colonies of the Deep South from their rebellious brethren to the North, and finally Greene's Carolina Campaign follows the attempt by Nathaniel Greene to rectify the previous year's failure by Horatio Gates.\n\nTHE RULES cover Militia, promotions, supply, leader exchanges', entrenchements, initiative, attrition, politics, Indians, and even Lord Germain. The naval rules cover amphibious assaults, interception at sea, ocean transport, and blockade. Counters represent regiments, naval squadrons, leaders, artillery, Indians, the French, etc. \nEach turn represents 2 weeks, or a month (in winter), with strategic interphases between turns. Victory is determined by the relative standing of the two sides on a Political Track, which is in turn, determined by a variety of events and by control of the vatious colonies. \nThe British player generally moves first in each game turn, but the American, player may, by the accumulation of Victory Points, acquire and use (at the moment of his choosing) Initiative Chits, which enable him to reverse the order of movement-s-thus seizing the initiative.\n\nDesigned by award-winning designer Rob Markham, Give Me Liberty! is both an accurate and detailed simulation, and also a fast paced and intense game.\n\nCONTENTS: \n\n    One rulebook \n    Two 34\" x 22\" maps\n    400 die&middot;cut counters\n    One 10&middot;sided\n\n\nPLAYERS: 2&middot;4,also makes an excellent solitaire game.\n\nPLAYING TIME: 2-6 hours, depending upon scenario chosen.\n\n",
+    "image": "https://cf.geekdo-images.com/I6c3XUpiJDYQsc1RkyFrBA__original/img/ij7Xbh5S0ihTK2tG2j8pS6JvPfc=/0x0/filters:format(jpeg)/pic63638.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/I6c3XUpiJDYQsc1RkyFrBA__small/img/RotXVmCByPBvQeUMQyXV8u26jDg=/fit-in/200x150/filters:strip_icc()/pic63638.jpg",
+    "link": "https://boardgamegeek.com/thing/4843",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "1992",
+    "playingTime": "360",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.00339",
+    "averageWeight": "3.25",
+    "boardGameRank": "21911",
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Events",
+      "Point to Point Movement",
+      "Simulation"
+    ],
+    "categories": [
+      "Age of Reason",
+      "American Indian Wars",
+      "American Revolutionary War",
+      "Wargame"
+    ],
+    "designers": [
+      "Robert G. Markham"
+    ]
+  }
+}

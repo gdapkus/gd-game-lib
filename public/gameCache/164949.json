@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:03:19.480Z",
+  "gameDetails": {
+    "id": "164949",
+    "name": "Time of Crisis: The Roman Empire in Turmoil, 235-284 AD",
+    "type": "boardgame",
+    "description": "From the publisher's web page:\n\nDuring the Crisis of the Third Century, the Roman Empire nearly collapsed in the face of calamitous internal and external strife, including continuous civil war and barbarian invasions from all directions.  Beginning with the assassination of Emperor Alexander Severus, a period of 50 years saw nearly as many different men seize imperial power over all or part of the Empire, until the reforms of Diocletian in 284 AD ushered in an era of peace.\n\nIn Time of Crisis, 2-4 players take the reins of Roman dynasties, gathering and wielding influence among the senate, military, and people of Rome to ensure that their legacies are remembered by history instead of being lost to the mists of time.  Starting from control of one province and a few low-value cards, you are challenged to establish your base of power during this fragile period of Roman history.  You must build your armies, take control of valuable provinces, develop your support, and defend yourself against barbarian incursions, inopportune events, and the machinations of your political opponents.\n\nTime of Crisis is easy to learn and playable in about 2-3 hours.  It incorporates popular game mechanisms such as deckbuilding and hand management, but also delivers a true light wargame experience.  The historical flavor is strong, with many meaningful decisions and opportunities presented to players on the board.  This game finally fully closes the loop between deckbuilding card games and board games.  Your cards dictate what actions are available to you on the board, and in turn, your position on the board directly determines how you can add or remove cards from your deck to make yourself stronger for future turns.  Will you specialize in manipulating the Senate, wielding the power of the Legions, or being a man of the People?  Or will you master a blend of all three?  In a twist unlike most deckbuilding games, you have the privilege of selecting the cards that compose your hand each turn!  However, you still need to eventually work through  your entire deck before you can use your cards again, so deck management and timing is critical.\n\nAll of the key elements of the era are present in Time of Crisis:  civil wars between competing generals and governors, Roman legions defending the frontiers against barbarian tribes, Senate favoritism, barracks emperors, even angry mobs, inflation, the Praetorian Guard, and the ability to carve off your own piece of the Roman Empire.  Can your dynasty arise as the new leaders of the Roman Empire before Diocletian emerges and brings peace once again?\n\n",
+    "image": "https://cf.geekdo-images.com/AzbAevS1luPIpQZgdqRJrA__original/img/niUQQ0MZL8rl1Sgi0T3jgrHUPYg=/0x0/filters:format(jpeg)/pic3372197.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AzbAevS1luPIpQZgdqRJrA__small/img/jvuKcxYKE49i-mqwPfI3BqFr-Dg=/fit-in/200x150/filters:strip_icc()/pic3372197.jpg",
+    "link": "https://boardgamegeek.com/thing/164949",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.57354",
+    "averageWeight": "3.0522",
+    "boardGameRank": "1200",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Ancient",
+      "Wargame"
+    ],
+    "designers": [
+      "Wray Ferrell",
+      "Brad Johnson (I)"
+    ]
+  }
+}

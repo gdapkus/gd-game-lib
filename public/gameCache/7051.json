@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:56:42.414Z",
+  "gameDetails": {
+    "id": "7051",
+    "name": "Kampfpanzer: Armored Combat, 1937-40",
+    "type": "boardgame",
+    "description": "Strategy & Tactics magazine #41.\n\n\"[A] tactical level simulation of armored warfare as it was in the period 1937-1940. Conflicts represented took place in the Spanish Civil War, the Battle of Khalkhin-Gol, the Russo-Finish War, and the early stages of World War II. Armies represented include the British, French, German, Czech, Finnish, Russian, Japanese, Polish, Spanish Republican and Spanish Nationalist. A great variety of armored fighting vehicles are involved in a wide range of situations along with infantry and artillery units. A panic rule simulates the varying levels of training, discipline and determination of the forces represented.\"\n\nUnits represent platoon sized units. One turn is 3 minutes and 40 seconds. Each hex is 100 meters across. Used SPI's first simultaneous movement plotting system, SiMov.\n\n",
+    "image": "https://cf.geekdo-images.com/08YZkH66M9aPLafwNfkwkg__original/img/3PDzsSN0e3CBuTMWxUZnVipgEQg=/0x0/filters:format(jpeg)/pic62634.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/08YZkH66M9aPLafwNfkwkg__small/img/Qq2Z6xFsQwl_loK0frrNFm-Pv3g=/fit-in/200x150/filters:strip_icc()/pic62634.jpg",
+    "link": "https://boardgamegeek.com/thing/7051",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1973",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.76307",
+    "averageWeight": "2.7",
+    "boardGameRank": "25016",
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "Events",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Paper-and-Pencil",
+      "Programmed Movement",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Jim Dunnigan"
+    ]
+  }
+}

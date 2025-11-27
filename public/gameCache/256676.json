@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:10:03.081Z",
+  "gameDetails": {
+    "id": "256676",
+    "name": "The Gallerist: Scoring Expansion",
+    "type": "boardgameexpansion",
+    "description": "This expansion brings variability to the Intermediate Scoring that is otherwise the same every game.\n\nWhen this phase begins, players may score none, some, or all of the 3 pre-determined tiles instead of the usual Intermediate Scoring. To score, players first need to fill the tiles' goals.\n\n-description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/_tvx1FGPwLhmbazR7d7Mcw__original/img/s92VIk4CmU9Q2H2tvaNw1JGXPRY=/0x0/filters:format(png)/pic4224442.png",
+    "thumbnail": "https://cf.geekdo-images.com/_tvx1FGPwLhmbazR7d7Mcw__small/img/2ZmnGBos8VJjz6NZulNfeVDZGUo=/fit-in/200x150/filters:strip_icc()/pic4224442.png",
+    "link": "https://boardgamegeek.com/thing/256676",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.92787",
+    "averageWeight": "3.75",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Commodity Speculation",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Vital Lacerda"
+    ]
+  }
+}

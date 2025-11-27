@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:47:49.591Z",
+  "gameDetails": {
+    "id": "73369",
+    "name": "51st State",
+    "type": "boardgame",
+    "description": "The world you know no longer exists. There is no government. No army. No civilization. The United States have collapsed. And now, thirty years after the war started, new powers finally try to take control over the ruined country, try to establish a new order, try to control others and create a new country, a new State: the 51st State.\n\n51st State is a card game in which players control one of the four powers (mutants, traders, New Yorkers and Appalachians) and try to build their very own new country. Players put new locations into the game, they hire leaders, and send people to work in buildings to gain resources and new skills.\n\nEvery card in 51st State can be put into play in three different ways. You can invade a location to gain many resources once, or you can sign a contract with this location to gain one resource every turn, or you can attach the location to your State so you can use its skill. One card, three possibilities. Lots of decisions and choices that matter.\n\n",
+    "image": "https://cf.geekdo-images.com/BSUusTdG2TJQ_ffTiJaLuA__original/img/P9L6HeME9asmA7cXhT6fBpCztRs=/0x0/filters:format(jpeg)/pic1149172.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BSUusTdG2TJQ_ffTiJaLuA__small/img/kT4KDeeXpSrKbr5nVBj8jbostz4=/fit-in/200x150/filters:strip_icc()/pic1149172.jpg",
+    "link": "https://boardgamegeek.com/thing/73369",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "90",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.7912",
+    "averageWeight": "3.1008",
+    "boardGameRank": "2077",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Economic",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Ignacy Trzewiczek"
+    ]
+  }
+}

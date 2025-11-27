@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T19:33:22.010Z",
+  "gameDetails": {
+    "id": "210152",
+    "name": "Bushido",
+    "type": "boardgame",
+    "description": "Bushido is a game of dueling martial artists, testing their training against one another.  One shall prevail and prove their techniques superior.  The other will return to studying until they are strong enough to win.\n\nPlayers begin with a card draft which represent the training of their fighters.\n\nAfter training players play a series of round wherein they play technique cards from their hands, or change their guards, in order to create a pool of combat dice which they hope to use to strike their opponent or defend their attacks.\n\nIn this game damage escalates quickly so players must be able to block, evade, and strike simultaneously to try and keep the momentum of the encounter in their favor.\n\nThe game ends when one warrior has bested the other.\n\n",
+    "image": "https://cf.geekdo-images.com/iSdF631p2uuTHuMNnewPpg__original/img/671HjhCf2Bgsd_0nr5eJ-h87EOM=/0x0/filters:format(png)/pic4153107.png",
+    "thumbnail": "https://cf.geekdo-images.com/iSdF631p2uuTHuMNnewPpg__small/img/WFbKWX0oOqgjjdUMjSEzeJWNStc=/fit-in/200x150/filters:strip_icc()/pic4153107.png",
+    "link": "https://boardgamegeek.com/thing/210152",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2018",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.22481",
+    "averageWeight": "2.0909",
+    "boardGameRank": "6987",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Dice",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Pedro Mendoza"
+    ]
+  }
+}

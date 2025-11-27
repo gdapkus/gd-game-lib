@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:18:09.869Z",
+  "gameDetails": {
+    "id": "61487",
+    "name": "Unconditional Surrender! World War 2 in Europe",
+    "type": "boardgame",
+    "description": "Unconditional Surrender! World War 2 in Europe (USE) is a strategic level game covering the World War II European Theater. Players make the political decisions and control the military forces of the three major factions that struggled for European dominance and survival.\n\nWith its emphasis on force projection and decision making, players remain focused on the big picture of managing their front lines and political opportunities. Through simple mechanics and low on-map counter density, players easily handle the strategic action without a myriad of complicated subsystems or tall stacks of counters.\n\nAs one gamer put it, \"It is a delight to be spending my limited brain power on making (or agonizing over) operational decisions that are as dependent upon guts as they are gray matter. This game is not a series of arithmetic exercises, and the only variable in these algorithms is nerve.\"\n\nThough the focus is on the big picture, Unconditional Surrender! still delivers historical detail. Each country has an historical army level order of battle, and its relative economic strength and national will to fight are effectively and simply modeled. Also represented are such World War II events as airdrops, Free Forces, jets, naval evacuation, partisans, radar, railroad artillery guns, and ULTRA; all neatly woven into the game's core mechanics for ease of play\n\nThe game has many scenarios ranging from quick playing individual campaigns to longer ones covering up to the entire war.\n\nDesign Highlights\n\n     Scale: army, fleet, or air wing level units; 30-60 miles per hex; monthly turns \n     Players: 2-4\n     Playing Time: 30 minutes to 50 hours, depending on the scenario\n     Low On-Map Counter Density: The number of counters on the map is relatively low.\n     Simple Stacking: No more than one air, ground, convoy, or warship unit per hex.\n     No Factors on Counters: There are no combat or movement factors on counters.\n     Single Combat System: One combat resolution sequence and Combat Results Table covers all types of combat, yet the results differ for air/naval, ground, or strategic combat. \n     Integrated Movement/Combat System: Units move and fight in a combined activation. \n     \"Use it or Lose it\" Economic System: Simple math with minimal record keeping\n     Historical or Variable Entry: Units and events can enter play using an historical or variable time line. \n     Variable Politics: Most countries&rsquo; belligerence and faction alliance is not predetermined.\n     Solitaire Friendly: Though not designed with solitaire rules, the mechanics easily allow one player to play the game.\n     PBEM Capable: The game can be played using PBEM software, but its mechanics require frequent exchanges.\n\n\n \nCOMPONENTS:\n\n        840 counters on 3 countersheets\n        Two 22\"x34\" maps\n        Three 11\"x17\" Player Aid Sheets\n        Three 8.5\"x11\" Faction cards\n        Two 8.5\"x11\" Flowchart cards\n        Rulebook\n        Playbook\n        Three six-sided dice \n\n\n\nTIME SCALE:    Monthly Turns\nMAP SCALE:     30 to 40 miles per hex\nUNIT SCALE:     Army, Fleet or Wing\n\nDESIGNER: Salvatore Vasta\nDEVELOPER: Mark Dey\nMAP ART: Salvatore Vasta & Mark Simonitch\nCOUNTER ART: Charlie Kibler\n\n(from the designer and GMT Games website)\n\n",
+    "image": "https://cf.geekdo-images.com/EvBmz3huzH_iiwT9r3mX6g__original/img/2cNlFC_s_Gc2Yn5aRZruksW7gzI=/0x0/filters:format(jpeg)/pic1927033.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EvBmz3huzH_iiwT9r3mX6g__small/img/5d_AP3as_zotbGUkStBQZeQlpSI=/fit-in/200x150/filters:strip_icc()/pic1927033.jpg",
+    "link": "https://boardgamegeek.com/thing/61487",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "3000",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "3000",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.98861",
+    "averageWeight": "3.7928",
+    "boardGameRank": "2141",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Movement Points",
+      "Ratio / Combat Results Table",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Salvatore Vasta"
+    ]
+  }
+}

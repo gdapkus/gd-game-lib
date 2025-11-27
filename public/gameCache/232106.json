@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:11:26.655Z",
+  "gameDetails": {
+    "id": "232106",
+    "name": "Legends of Sleepy Hollow",
+    "type": "boardgame",
+    "description": "Three days after the disappearance of Ichabod Crane, four Tarrytown residents with strange ties to the supernatural venture into an ever-darkening Sleepy Hollow to uncover its mysteries.\n\nIn Legends of Sleepy Hollow, players take on the roles of the four residents &mdash; undertaker Jeremiah Pincke, Revolutionary War veteran Matthias Geroux, minister Elijah Kappel, and tanner Emily Van Winkle &mdash; in a cooperative, miniatures-based campaign game full of secrets and twists. During the game, players will use an action pool to move about, investigate, interact with their environment, or unleash powerful attacks and abilities unique to each character. Once selected, however, these abilities will be unavailable until that character&rsquo;s action pool has emptied &mdash; a process that becomes more complex as that character gains fear.\n\nThe players will have to work closely together to overcome their fear, unravel the mysteries of the glen, and become true Legends of Sleepy Hollow.\n\n",
+    "image": "https://cf.geekdo-images.com/rPY6XJ-gfxH25StwpBqOvg__original/img/64ZwMd6D4r-VN2qIkseGwCcFank=/0x0/filters:format(jpeg)/pic3789065.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rPY6XJ-gfxH25StwpBqOvg__small/img/Cckx_vhm0IyY7_vVc-0wdGRA3yg=/fit-in/200x150/filters:strip_icc()/pic3789065.jpg",
+    "link": "https://boardgamegeek.com/thing/232106",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.97369",
+    "averageWeight": "2.8571",
+    "boardGameRank": "9317",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Point to Point Movement",
+      "Scenario / Mission / Campaign Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Horror",
+      "Miniatures",
+      "Novel-based"
+    ],
+    "designers": [
+      "Ben Pinchback",
+      "Matt Riddle"
+    ]
+  }
+}

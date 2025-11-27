@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:52:37.619Z",
+  "gameDetails": {
+    "id": "63161",
+    "name": "Eric Solomon's Corporation",
+    "type": "boardgame",
+    "description": "In Corporation up to 4 players try to take control of the corporation by promoting their own men to the Board Of Directors, in the Boardroom at the top of the building, before their opponents.\n\nInitially conceived as Lawmakers; a highly abstract race game of a novel type in which the printed rules are immutable, but players manipulate the laws governing how pieces move.\n\nLater themed and renamed by N&eacute;stor Romeral Andr&eacute;s to Eric Solomon's Corporation.\n\n",
+    "image": "https://cf.geekdo-images.com/Swwq-WBex-Bt-KqOJWQvdg__original/img/sa14nfqL00tbsG9t_hqTV1d5iiU=/0x0/filters:format(jpeg)/pic5527999.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Swwq-WBex-Bt-KqOJWQvdg__small/img/0YzfzP9txP0Mxy-8csFkvSQ3t6U=/fit-in/200x150/filters:strip_icc()/pic5527999.jpg",
+    "link": "https://boardgamegeek.com/thing/63161",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2009",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.94156",
+    "averageWeight": "2.75",
+    "boardGameRank": "13585",
+    "mechanics": [
+      "Race",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Eric Solomon"
+    ]
+  }
+}

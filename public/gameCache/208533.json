@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:02:17.087Z",
+  "gameDetails": {
+    "id": "208533",
+    "name": "Batman: The Animated Series – Almost Got 'Im Card Game",
+    "type": "boardgame",
+    "description": "The villains of Gotham City have gathered for a poker night and to share stories about the time they nearly dispensed with that troublesome caped crusader Batman. Little do they know that the Dark Knight is in their midst, disguised as one of their own. Will the rogues be able to suss out the bat in their belfry before he clandestinely subdues them?\n\nBatman: The Animated Series &ndash; Almost Got 'Im Card Game &mdash; a variant on the popular Werewolf-style deduction game inspired by the memorable Batman: The Animated Series episode \"Almost Got 'Im\" &mdash; adds a poker element to the proceedings, requiring participants to craft poker hands to activate their special abilities when the lights go out. Take on the personas of classic Batman baddies in a game in which everyone has something to hide and no one is safe.\n\nWith poker hands guiding the action, players have something to talk about. Everyone has an important role. No bystanders in this game! Too often, social deduction games begin with random accusations just to get the ball rolling. Not so here as players can request poker cards from other players and often see which cards other players are taking. Enemies are made when someone takes the card you wanted. Now you have a reason to be suspicious of another player!\n\nErrata: The rulebook lists two Role Explanation Cards. There is only one. My mistake when I wrote the rules. ~MH\n\n",
+    "image": "https://cf.geekdo-images.com/nDNuQwpJp31Yrsct-M9QgQ__original/img/CizLnJyz6_tKXneC3DJThy9quxY=/0x0/filters:format(jpeg)/pic3172995.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nDNuQwpJp31Yrsct-M9QgQ__small/img/X8gl5U6BXLsGLfhvVNJpGlJZtbI=/fit-in/200x150/filters:strip_icc()/pic3172995.jpg",
+    "link": "https://boardgamegeek.com/thing/208533",
+    "minPlayers": "5",
+    "maxPlayers": "8",
+    "yearPublished": "2017",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "5.51067",
+    "averageWeight": "1",
+    "boardGameRank": "26458",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Deduction",
+      "Hand Management",
+      "Hidden Roles",
+      "Open Drafting",
+      "Set Collection",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Comic Book / Strip",
+      "Deduction",
+      "Party Game"
+    ],
+    "designers": [
+      "Matt Hyra"
+    ]
+  }
+}

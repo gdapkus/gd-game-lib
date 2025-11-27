@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:12:03.065Z",
+  "gameDetails": {
+    "id": "359427",
+    "name": "Marvel United: Kickstarter Promos Box",
+    "type": "boardgameexpansion",
+    "description": "This set contains all the exclusive stretch goals unlocked during the Marvel United Kickstarter including a box to store them all in.\n\nThis edition was released as an add-on to the Marvel United: X-Men Kickstarter campaign for people that didn't get the first campaign.\nIt is the same as the original Kickstarter Promo Box except it includes Adam Warlock and Yondu in the box instead of them coming as separate items.\n\nHeroes (35):\n\n     Adam Warlock\n     Yondu\n     Nick Fury\n     Hawkeye\n     Iron Fist\n     Mockingbird\n     Luke Cage\n     Moon Knight\n     Black Cat\n     War Machine\n     Ms. Marvel\n     Shang Chi\n     Blade\n     Jessica Jones\n     Venom\n     She-Hulk\n     Ghost Rider\n     Howard the Duck\n     Drax\n     Mantis\n     Okoye\n     Falcon\n     Vision\n     Nova\n     Scarlet Witch\n     Electra\n     Daredevil\n     America Chavez\n     Spider-Man 2099\n     Squirrel Girl\n     Doctor Strange\n     Punisher\n     Spider-Woman\n     Quicksilver\n     Nebula\n\n\nVillains (11):\n\n     Corvus Glaive\n     Bullseye\n     M.O.D.O.K.\n     Carnage\n     Hela\n     Kingpin\n     Baron Zemo\n     Dormammu\n     Rhino \n     Kang the conqueror\n     Venom\n\n\n",
+    "image": "https://cf.geekdo-images.com/OfTGMtXxWRsOXeKZwigX4A__original/img/86q7NxS_-stXZBAHixmjEoaz8rg=/0x0/filters:format(jpeg)/pic5831506.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OfTGMtXxWRsOXeKZwigX4A__small/img/iq3iQevT3FZSY3lQU7S2AdUa1uE=/fit-in/200x150/filters:strip_icc()/pic5831506.jpg",
+    "link": "https://boardgamegeek.com/thing/359427",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.73926",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Programmed Movement",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

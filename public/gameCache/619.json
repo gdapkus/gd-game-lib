@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:50:07.877Z",
+  "gameDetails": {
+    "id": "619",
+    "name": "The Bottle Imp",
+    "type": "boardgame",
+    "description": "In this trick-taking game based on the short story by Robert Louis Stevenson of the same name, the goal is to gain the most points over a series of hands (usually the goal is set to 200 pts). Cards are numbered 1-37 and are found in three colors, red (comprising largely the highest numbers), blue (mostly in the middle) and yellow (mostly the lowest numbers) with colors being analogous to the suit in a standard deck.  There is one neutral card, the 19, that sets the \"price of the bottle.\"\n\nThe entire deck is dealt to the three or four players in the game and then, similarly to hearts, cards are exchanged and a card is played to the bottle.  As per the usual elements of a trick taking game, players must follow suit if possible with high card taking the trick (regardless of suit).  The unique feature about this game however is how trump is determined.  Any card of value lower than the current price of the bottle (starting with 19) is considered \"trump\" and will win the trick.  If multiple cards are less than the current bottle price, the card valued closest to the current price (so highest card below the bottle) takes the trick AND THE BOTTLE, the bottle price is adjusted by the player taking the card that represents the current bottle price and replacing it with the card they used to win the trick.  Thus the price of the bottle will decrease with each trump card played, and the bottle is increasingly harder to win/purchase.  Ownership of the bottle will pass from player to player and the number of possible trump cards will decrease both as a factor of cards being played and cards being skipped as the bottle price descends.  One player will be stuck with the bottle at the end of a hand (when players have played all the cards in their hands).\n\nCards have point values from 1-6 (not directly based on numerical value), at the end of the hand players will score points for the cards of tricks they've won, except the player who holds the bottle who will score NEGATIVE points for all the cards played to the bottle at the beginning, scoring nothing for the cards they won during the hand.  Play continues until the point goal is reached.\n\nIn the 2003 edition the complete story by R.L. Stevenson is included (in both English & German) and the bottle is a nice wooden piece.  Earlier versions had a stand-up cardboard piece that you cut out.\n\n",
+    "image": "https://cf.geekdo-images.com/_8ZkzNmVVQDrmJT8es4MBQ__original/img/WeQ1ltabbnAg6Wvpr93dI8L3wXI=/0x0/filters:format(jpeg)/pic3715687.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_8ZkzNmVVQDrmJT8es4MBQ__small/img/E5plj7g273UcROzmWPPrMlieZK4=/fit-in/200x150/filters:strip_icc()/pic3715687.jpg",
+    "link": "https://boardgamegeek.com/thing/619",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1995",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.73608",
+    "averageWeight": "1.8664",
+    "boardGameRank": "1837",
+    "mechanics": [
+      "Hot Potato",
+      "Score-and-Reset Game",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game",
+      "Novel-based"
+    ],
+    "designers": [
+      "Günter Cornett"
+    ]
+  }
+}

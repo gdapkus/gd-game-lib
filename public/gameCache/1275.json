@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:23:37.174Z",
+  "gameDetails": {
+    "id": "1275",
+    "name": "221B Baker Street: The Master Detective Game",
+    "type": "boardgame",
+    "description": "221B Baker Street is the London address of the world's most celebrated fictional detective, Sherlock Holmes, and his dedicated companion, Dr. Watson. In this game you start at 221B and travel through the streets and alleys of London picking up clues and attempting to solve the most intriguing cases Holmes and Watson have ever faced.\n\nEach player assumes the role of Holmes and matches wits with the other players to determine who possesses the most skillful powers of deduction.  Each case is represented by a card that features a crime told in story form, a selection of probable suspects and a list of locations involved in that crime. Clues are hidden throughout London, one in each of fourteen locations. Players must collect clues from each location, noting them down on their checklists as they attempt to find the answers to the questions listed on the case card.\n\nNaturally, the crime scene will often contain vital clues, and a prudent detective always checks with the neighbors. Still, you can learn something vital almost anywhere in town.  The first player to figure out the correct answers to a particular mystery or crime, return to 221B and announce the solution, is the winner.\n\nThe original 221B Baker Street Board game was created and copyrighted by American writer Jay Moriarty (dba Antler Productions) in 1975.  The Brazilian version of this game is known as Scotland Yard, not to be confused with the 1983 Spiel des Jahres winner also called Scotland Yard.\n\n",
+    "image": "https://cf.geekdo-images.com/gQmGtlaUCX59aJa8QxAQKg__original/img/KiN3NtgPcczeygTAN7-hhIrS2Mc=/0x0/filters:format(png)/pic7291009.png",
+    "thumbnail": "https://cf.geekdo-images.com/gQmGtlaUCX59aJa8QxAQKg__small/img/vxvUxzayVXhjw6WmUK4eb7rTU_M=/fit-in/200x150/filters:strip_icc()/pic7291009.png",
+    "link": "https://boardgamegeek.com/thing/1275",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1975",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.01289",
+    "averageWeight": "1.7923",
+    "boardGameRank": "5731",
+    "mechanics": [
+      "Deduction",
+      "Narrative Choice / Paragraph",
+      "Paper-and-Pencil",
+      "Role Playing",
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Novel-based"
+    ],
+    "designers": [
+      "Antler Productions",
+      "Jay Moriarty"
+    ]
+  }
+}

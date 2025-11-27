@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:09:48.641Z",
+  "gameDetails": {
+    "id": "344762",
+    "name": "Food Chain Island: Legendary Creatures",
+    "type": "boardgameexpansion",
+    "description": "Get ready, we're headed back to Food Chain Island! You will be meeting Legendary Creatures! What makes these legendary creatures so legendary? Well, for one they're mythical creatures! On the island you'll see a Phoenix for the first time. These creatures stay hidden and can not be eaten until they are face up. Also, a legendary animal has its power activated when it is eaten.\n\nThe legendary animals are unique in two ways:\n\n\n     First, they start hidden. A legendary animal cannot be eaten until it is face-up. When an animal is eaten orthogonally adjacent to a legendary animal, then it is flipped face-up. It can then be eaten.\n\n\n\n     Second, a legendary animal has its power activated when it is eaten. It does not have a special ability that activates when it eats. The animal that eats the legendary animal will also have its effect active, and you must fulfill both effects.\n\n\nIn addition, some of the numbers included in this expansion already exist in the base game. Animals of the same number cannot eat one another, unless they have an ability that allows them to do so.\n\n",
+    "image": "https://cf.geekdo-images.com/rYOZS8OkwBRMt0tfCPSHIg__original/img/rQGy3krEWOXJxRd5oncNiTGlHfU=/0x0/filters:format(png)/pic6591047.png",
+    "thumbnail": "https://cf.geekdo-images.com/rYOZS8OkwBRMt0tfCPSHIg__small/img/PqFTHMHuIR37b7pBnogDyDQlPSg=/fit-in/200x150/filters:strip_icc()/pic6591047.png",
+    "link": "https://boardgamegeek.com/thing/344762",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2021",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": null,
+    "averageRating": "7.28352",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:47:36.078Z",
+  "gameDetails": {
+    "id": "8742",
+    "name": "1815: The Waterloo Campaign",
+    "type": "boardgame",
+    "description": "\"1815: The Waterloo Campaign is a game covering the three days in June of 1815 which encompassed of Ligny, Quatre Bras, and Waterloo. Playing pieces represent the regiments, brigades, and divisions of infantry, cavalry, and artillery which fought in the campaign. Leaders, representing the historical commanders in the campaign, command these combat units. The rules create an action-packed situation where the fate of an empire may be decided in a day's battle on the field of Waterloo.\"\n\nIntermediate complexity with two 16x21\" maps of pale yellow using red, green, brown, and gray coloring. 240 standard GDW counters, 80 of which are French.\n\n",
+    "image": "https://cf.geekdo-images.com/J56T5eyiInihINs-o-6M7Q__original/img/WdnPHkuMceSELA_AAvpSqdB4Umw=/0x0/filters:format(jpeg)/pic45016.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/J56T5eyiInihINs-o-6M7Q__small/img/UZiudMku6S5z0i4-YOHUVHchvys=/fit-in/200x150/filters:strip_icc()/pic45016.jpg",
+    "link": "https://boardgamegeek.com/thing/8742",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1975",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.32281",
+    "averageWeight": "2.4286",
+    "boardGameRank": "15032",
+    "mechanics": [
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "John Astell",
+      "Frank Chadwick"
+    ]
+  }
+}

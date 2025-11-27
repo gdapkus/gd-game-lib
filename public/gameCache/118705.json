@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:54:23.948Z",
+  "gameDetails": {
+    "id": "118705",
+    "name": "Ghost Blitz 2",
+    "type": "boardgame",
+    "description": "Ghost Blitz 2.0 &ndash; The new version of Ghost Blitz with different items &ndash; five wooden items sit on the table waiting to be caught: a white female ghost, a green frog, a grey bathtub, a blue hairbrush, and a red bath towel. Each card in the deck shows pictures of two objects, with one or both objects colored the wrong way. With all players playing at the same time, someone reveals a card, then players grab for the \"right\" object &ndash; but which object is right?\n\n\n    If one object is colored correctly &ndash; say, a green bathtub and a red rug &ndash; then players need to grab that correctly colored object.\n\n\n\n    If both objects are colored incorrectly &ndash; say, a green bathtub and a red ghost &ndash; then you look for the object and color not represented among the four details shown. In this case you see green, red, ghost and bathtub, so players need to grab the blue brush.\n\n\nThe new version of Ghost Blitz functions similarly to the original but includes the following new rules:\n- If the frog appears, you have to call out the item.\n- If the frog or the other item is in its original colour, you have to call out the correct item in a foreign language.\n- If the towel appears on a card, the item of the towel`s colour is the one to grab for.\n\nThe first player to grab the correct object keeps the card, then reveals the next card from the deck. If a player grabs the wrong object, she must discard one card previously collected. Once the card deck runs out, the game ends and whoever has collected the most cards wins!\n\n",
+    "image": "https://cf.geekdo-images.com/gZINyKRulzqWyOEEUuR01A__original/img/5i927I6nsNkdXQ9-WCHAp1M-ow8=/0x0/filters:format(jpeg)/pic1855044.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gZINyKRulzqWyOEEUuR01A__small/img/lelYoXCVNf0lc_t1kOivYteRDfY=/fit-in/200x150/filters:strip_icc()/pic1855044.jpg",
+    "link": "https://boardgamegeek.com/thing/118705",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2012",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.73418",
+    "averageWeight": "1.1765",
+    "boardGameRank": "2883",
+    "mechanics": [
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Card Game",
+      "Children's Game",
+      "Party Game",
+      "Real-time"
+    ],
+    "designers": [
+      "Jacques Zeimet"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:04:04.429Z",
+  "gameDetails": {
+    "id": "258411",
+    "name": "Unlock!: Exotic Adventures – Expedition: Challenger",
+    "type": "boardgame",
+    "description": "A woman has come to your PI agency asking you to help track down her missing friend. He's gone missing, last seen on an adventure with the eccentric Professor Challenger. They recently returned from a lost valley filled with strange creatures, but Ned is still missing. Track down the professor and help bring back Ned to his friend!\n\nExpedition: Challenger is an Unlock! adventure for up to six players. With just one hour on the clock, players must work through a deck of sixty cards as a team, searching for clues, combining objects, and figuring out puzzles to solve the mystery and escape the countdown timer. The free Unlock! app runs the timer while providing clues, giving hints, and helping players succeed. Once the team has reached the solution and entered the correct code, they've escaped, and the game has been won!\n\n",
+    "image": "https://cf.geekdo-images.com/2rN4PazxMJBwJqUZhb6k7Q__original/img/zK1kPLbrhPBVOuQI2mbc2Kqc9Y8=/0x0/filters:format(png)/pic4511362.png",
+    "thumbnail": "https://cf.geekdo-images.com/2rN4PazxMJBwJqUZhb6k7Q__small/img/PJBESaIcbri00LI_yqLX0wHzqpc=/fit-in/200x150/filters:strip_icc()/pic4511362.png",
+    "link": "https://boardgamegeek.com/thing/258411",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.64765",
+    "averageWeight": "2.7778",
+    "boardGameRank": "4591",
+    "mechanics": [
+      "Cooperative Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Vincent Goyat"
+    ]
+  }
+}

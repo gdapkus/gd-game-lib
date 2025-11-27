@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:37:46.178Z",
+  "gameDetails": {
+    "id": "36345",
+    "name": "Monty Python Fluxx",
+    "type": "boardgame",
+    "description": "Monty Python themed version of Fluxx. The random and chaotic nature of the Fluxx engine makes it a perfect vehicle for the crazy world of Monty Python!\n\nAt the start of the game, each player holds three cards and on a turn a player draws one card, then plays one card. By playing cards, you can put new rules into play that change numerous aspects of the game: how many cards to draw or play, how many cards you can hold in hand or keep on the table in front of you, and (most importantly) how to win the game.\n\nThe card mix focuses on Holy Grail with other references added from Flying Circus and other Python material. For example, one win condition card might require you have to have the Knights who Say Ni and a Shrubbery card face up in front of you.\n\nPart of the Fluxx series.\n\n",
+    "image": "https://cf.geekdo-images.com/5uikyTtFuRIsHWK6Gz0ekQ__original/img/rrnt8TMbUNwkoospFD2mY0Pj_CA=/0x0/filters:format(jpeg)/pic385725.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5uikyTtFuRIsHWK6Gz0ekQ__small/img/psfzxL2YIT5mFi8UDb_K6sIImGI=/fit-in/200x150/filters:strip_icc()/pic385725.jpg",
+    "link": "https://boardgamegeek.com/thing/36345",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2008",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.08226",
+    "averageWeight": "1.3413",
+    "boardGameRank": "4230",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Singing"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Movies / TV / Radio theme"
+    ],
+    "designers": [
+      "Andrew Looney"
+    ]
+  }
+}

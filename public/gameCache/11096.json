@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:17:21.718Z",
+  "gameDetails": {
+    "id": "11096",
+    "name": "Tahuantinsuyu",
+    "type": "boardgame",
+    "description": "From Hangman Games' web site:\n\nTahuantinsuyu is the Quechua or Inca word for \"Land of the Four Regions\". It is what the Inca called their own empire. The empire was organized as a pyramid-shaped hierarchy with the Sapa Inca as the supreme ruler, followed by the four Apus, who were followed by the Hahua Incas, etc. To play, you assume the role of one of the Apus (a leader of one of the four regions or \"Suyus\"). Your job is to increase your status in the eyes of the Sapa Inca by doing the best job of expanding and improving the empire. Each Apu begins with the manpower of their quadrant of the original empire. You build roads and conquer neighboring regions, thereby increasing the manpower and available resources. Apus are rewarded for each new region added to the empire, for improvements such as terraces, garrisons, cities, and temples, and for connecting road systems to all of the improvements throughout the empire.\n\nReimplemented by:\n\n    Inca Empire\n\n\n",
+    "image": "https://cf.geekdo-images.com/8pb61kGyUdbshh0tmrClkw__original/img/1Bu800aPLW0vUYCSGi5ef_8YWBI=/0x0/filters:format(jpeg)/pic72213.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8pb61kGyUdbshh0tmrClkw__small/img/FBuiYQkqY5UIn9Wf0lDpPQQoywo=/fit-in/200x150/filters:strip_icc()/pic72213.jpg",
+    "link": "https://boardgamegeek.com/thing/11096",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.19891",
+    "averageWeight": "3.2667",
+    "boardGameRank": "5168",
+    "mechanics": [
+      "Hand Management",
+      "Line Drawing",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Civilization",
+      "Exploration"
+    ],
+    "designers": [
+      "Alan D. Ernstein"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:03:57.852Z",
+  "gameDetails": {
+    "id": "385316",
+    "name": "Unlock! Mythic Adventures: Professor Noside's Animal-o-matic",
+    "type": "boardgame",
+    "description": "Unlock! is a cooperative card game inspired by escape rooms that uses a simple system which allows you to search scenes, combine objects, and solve riddles. Play Unlock! to embark on great adventures, while seated at a table using only cards and a companion app that can provide clues, check codes, monitor time remaining, etc.\n\nProfessor Noside's Animal-O-Matic - \"The Animal-O-Matic transfers you into the body of any animal. It's not dangerous, I'm telling you! Will you stop moving James!\"\n\nAn included ten-card tutorial allows you to learn how to play without reading the game rules. Note: Unlock! requires a free application to be downloaded from the App Store or Google Play. Once downloaded, an internet connection is not required during game play.\n\n",
+    "image": "https://cf.geekdo-images.com/WV4ppElBo37DZgJg-BnTXw__original/img/sd7ruhg1TzPoLoIVFoTeDYoyTXA=/0x0/filters:format(jpeg)/pic7639556.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WV4ppElBo37DZgJg-BnTXw__small/img/XFk8gchS32GvQny-NAhC5gZavg8=/fit-in/200x150/filters:strip_icc()/pic7639556.jpg",
+    "link": "https://boardgamegeek.com/thing/385316",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.98548",
+    "averageWeight": "2",
+    "boardGameRank": "11139",
+    "mechanics": [
+      "Cooperative Game",
+      "Elapsed Real Time Ending",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Puzzle"
+    ],
+    "designers": [
+      "Vincent Goyat",
+      "Jeremy Koch"
+    ]
+  }
+}

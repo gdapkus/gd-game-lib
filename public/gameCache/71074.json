@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:53:01.913Z",
+  "gameDetails": {
+    "id": "71074",
+    "name": "Expedition: Northwest Passage – HMS Terror Edition",
+    "type": "boardgame",
+    "description": "In 1845, Sir John Franklin led an expedition on behalf of the British Royal Navy to find and explore the last portion of the Northwest Passage, regardless of the cost. The Royal Navy gave Franklin two heavy Ships (HMS Terror and HMS Erebus) filled with scientific equipment, 1000 books, a crew of 128 men, and enough food to last for three years. They left England in May and encountered whalers along the west coast of Greenland in August. There, they waited for more favorable weather conditions for the crossing of the Lancaster Sound. Once the weather improved, they sailed into unknown waters, and no one ever heard from them again...\n\nTheir disappearance provoked a great deal of turmoil in public opinion, and numerous British and American expeditions attempted to find their trail. As leaders of these expeditions in Expedition: Northwest Passage, players must venture into these hazardous Arctic waters in order to discover Franklin's fate and succeed where he failed &ndash; by finding the Northwest Passage. Players allocate their crewmen in their ship or in their sled to perform various actions such as exploring, moving, or gathering clues on the whereabouts of the Franklin expedition.\n\nAs the game progresses, the seasons will pass and parts of the sea will be frozen, blocking the way for the ships. Players acquire victory points by gathering clues, mapping the area, and &ndash; of course &ndash; discovering the Northwest Passage. However, in order to claim victory, one has to come back home to the Greenland on time!\n\n",
+    "image": "https://cf.geekdo-images.com/0q-dWD_7u2jTvlnzlQCVsA__original/img/e7zKqFWrcvB3ga50rlWVq-TLswo=/0x0/filters:format(png)/pic7813992.png",
+    "thumbnail": "https://cf.geekdo-images.com/0q-dWD_7u2jTvlnzlQCVsA__small/img/IDDsC-B-6es_QqEFVLXX-HVD1nk=/fit-in/200x150/filters:strip_icc()/pic7813992.png",
+    "link": "https://boardgamegeek.com/thing/71074",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.95836",
+    "averageWeight": "2.6774",
+    "boardGameRank": "2182",
+    "mechanics": [
+      "Action Points",
+      "Map Addition",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Exploration",
+      "Nautical"
+    ],
+    "designers": [
+      "Yves Tourigny"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:04:08.750Z",
+  "gameDetails": {
+    "id": "228867",
+    "name": "Unlock!: Mystery Adventures",
+    "type": "boardgame",
+    "description": "Unlock! is a cooperative card game inspired by escape rooms that uses a simple system which allows you to search scenes, combine objects, and solve riddles. Play Unlock! to embark on great adventures, while seated at a table using only cards and a companion app that can provide clues, check codes, monitor time remaining, etc.\n\nUnlock! Mystery Adventures features three \"escape room\" scenarios that you can play on your tabletop:\n\n\n    The House on the Hill: What's going on in this run-down manor? Explore the sinister pieces and foil the curse that haunts this desolate place. Designed by Fabrice Mazza, illustrated by Pierre Santamaria.\n\n\n\n    The Nautilus' Traps: Attacked by a sea monster during a dive, you seek shelter by opening a hatch in an old submarine. Find a way back to the surface! Designed by Arnaud Ladagnous, illustrated by Florian de Gesincourt.\n\n\n\n    The Tonipal's Treasure: Captain Smith hid his treasure on Tonipal Island. Unravel the mystery before Johnson, another treasure hunter, beats you to it! Designed by Billy Stevenson & Sebastien Pauchon, illustrated by Sergo.\n\n\nNote: Unlock! requires a free application to be downloaded from the App Store or Google Play. Once downloaded, an internet connection is not required during game play.\n\n",
+    "image": "https://cf.geekdo-images.com/GeFlXKbZORHBWca3Sl8tSQ__original/img/2cinzeClI1xwX9eyc4j7Kr_V88U=/0x0/filters:format(jpeg)/pic3588255.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GeFlXKbZORHBWca3Sl8tSQ__small/img/NnKhfRNB30Yal6Terjm_hNndvK0=/fit-in/200x150/filters:strip_icc()/pic3588255.jpg",
+    "link": "https://boardgamegeek.com/thing/228867",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "75",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.31578",
+    "averageWeight": "2.0851",
+    "boardGameRank": "982",
+    "mechanics": [
+      "Cooperative Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Arnaud Ladagnous",
+      "Fabrice Mazza",
+      "Sébastien Pauchon",
+      "Billy Stevenson"
+    ]
+  }
+}

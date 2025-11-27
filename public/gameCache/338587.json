@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:09:21.098Z",
+  "gameDetails": {
+    "id": "338587",
+    "name": "Empyreal: Far Corners",
+    "type": "boardgameexpansion",
+    "description": "This mini expansion adds new 4 metro boards, 3 new specialists, and 4 postcards (featuring new metro destinations).\n\n",
+    "image": "https://cf.geekdo-images.com/EN8SX5nrxtNMH24uX-F2iw__original/img/aX09ZpS44Jl-2Vv0v1Wa8MESo_k=/0x0/filters:format(jpeg)/pic7204489.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EN8SX5nrxtNMH24uX-F2iw__small/img/WEjNkOmbY04vXv1Jalp7HsHAoUM=/fit-in/200x150/filters:strip_icc()/pic7204489.jpg",
+    "link": "https://boardgamegeek.com/thing/338587",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "75",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.95625",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hexagon Grid",
+      "Modular Board",
+      "Network and Route Building",
+      "Open Drafting",
+      "Pick-up and Deliver",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy",
+      "Trains"
+    ],
+    "designers": [
+      "Trey Chambers"
+    ]
+  }
+}

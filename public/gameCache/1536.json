@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:07:31.425Z",
+  "gameDetails": {
+    "id": "1536",
+    "name": "Lord of the Fries",
+    "type": "boardgame",
+    "description": "Game Synopsis: Lord of the Fries is a thematic sequel to Give Me The Brain!. It takes place at the same restaurant, has the same cast of characters, and requires roughly the same equipment. But the game is entirely different. \nPlayers choose orders (sometimes randomly, sometime not) from the figuratively colorful Friedey's menu, and try to fill them with cards from their hands. Some orders are easy, like the Cowabunga. One Cow Meat, one Bun. Some are a little harder, like the Chickabunga Conga: same as a Chickabunga (Bird Meat plus Bun), plus Fries and a Drink. Sound easy? Now try your hand at a Lord of the Fries, a Meat Munch, or the infamous Patriarch (Fish Meat, Cheese, Bun, Fries, Drink, and the oft-maligned Strawberry Pie).\n\n",
+    "image": "https://cf.geekdo-images.com/KohI3BcKHujYP0FBu6kyOw__original/img/gQyrLkwl-fggucO1AdiXD5GGUGI=/0x0/filters:format(jpeg)/pic327339.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KohI3BcKHujYP0FBu6kyOw__small/img/T0JYfq4h1Z2hv6hZ0vAQnHc3fS4=/fit-in/200x150/filters:strip_icc()/pic327339.jpg",
+    "link": "https://boardgamegeek.com/thing/1536",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "1998",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "5.96079",
+    "averageWeight": "1.2867",
+    "boardGameRank": "6657",
+    "mechanics": [
+      "Auction / Bidding",
+      "Dice Rolling",
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Zombies"
+    ],
+    "designers": [
+      "James Ernest"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:32:51.822Z",
+  "gameDetails": {
+    "id": "1314",
+    "name": "Warhamster Rally",
+    "type": "boardgame",
+    "description": "To be the produced version of Aquarium Derby. The board is covered with hexes containing arrows. A player plays the movement card lying facedown in front of themselves then chooses a new one for NEXT turn. Each movement card describes movement relative to the arrow on your current space. The biggest problem is that you are frequently not on the space you were on when you played that movement card\n\nThe cool part are the action points which can be used over the course of the game a la Trip Tickets in Wildlife Adventure to save yourself and hose everyone else in further ways. It also adds a touch of a puzzle element as there are usually a couple of ways to save yourself from a bad situation.\n\nFrom the box:\n\nWARHAMSTER RALLY&trade; is the crazy racing game based on the award-winning DORK TOWER&trade; comic strips by John Kovalic. Players take on the rols of Dork Tower characters and compete for the ultimate prize in thoroughbred racing:\n\nTHE WARHAMSTER CUP!\n\nWhat, you thought this involved horses?\n\nIn WARHAMSTER RALLY, 3 to 5 players run amok, trying desperately to control their wild Warhamsters on the racetrack, dodging deadly Battle Budgies, Juggling Jongleurs, the numerous Kobold Kin, and the most ferocious monsters of all... the other players!\n\n",
+    "image": "https://cf.geekdo-images.com/g37B9nHICpfUVHwYgI0X_Q__original/img/-gmwPl1qmcXX0FMo27OKZFHq7qA=/0x0/filters:format(jpeg)/pic72234.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/g37B9nHICpfUVHwYgI0X_Q__small/img/oKpL_tqP7lW23nxHat9osqVXvn0=/fit-in/200x150/filters:strip_icc()/pic72234.jpg",
+    "link": "https://boardgamegeek.com/thing/1314",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2001",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "5.77903",
+    "averageWeight": "1.7857",
+    "boardGameRank": "16411",
+    "mechanics": [
+      "Action Points",
+      "Action Queue",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Fantasy",
+      "Racing"
+    ],
+    "designers": [
+      "Frank Branham"
+    ]
+  }
+}

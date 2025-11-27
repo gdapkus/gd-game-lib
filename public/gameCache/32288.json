@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:52:19.059Z",
+  "gameDetails": {
+    "id": "32288",
+    "name": "Dou Dizhu",
+    "type": "boardgame",
+    "description": "Dou Dizhu (literally \"fighting the landlord\") is very popular card game in China.  Played with a standard deck (including both jokers).  The bidding to determine the \"landlord\" makes the game work well with 3 players.  The other two players team up against the landlord.\n\n",
+    "image": "https://cf.geekdo-images.com/qLOWR4IpzwbJDpW9Cl16IA__original/img/lTOdDVapcALdOIBMy7Kh9SpqheM=/0x0/filters:format(jpeg)/pic409999.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qLOWR4IpzwbJDpW9Cl16IA__small/img/44BHsB8wDMZQkae4AnTtW9-pCDk=/fit-in/200x150/filters:strip_icc()/pic409999.jpg",
+    "link": "https://boardgamegeek.com/thing/32288",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "0",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.94975",
+    "averageWeight": "2.2667",
+    "boardGameRank": "8929",
+    "mechanics": [
+      "Auction / Bidding",
+      "Betting and Bluffing",
+      "Hand Management",
+      "Ladder Climbing",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

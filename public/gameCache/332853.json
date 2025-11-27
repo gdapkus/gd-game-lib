@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:27:07.557Z",
+  "gameDetails": {
+    "id": "332853",
+    "name": "Dom Pierre",
+    "type": "boardgame",
+    "description": "At the end of the 17th century, a French Benedictine monk in charge of the cellar at Hautvillers Abbey made an important contribution to differentiate wines from that region. As a result, it became possible to produce wines of superior quality, particularly in white wines made from black grape varieties. While Dom Pierre P&eacute;rignon initially felt the sparkling of the wine was a negative feature, the consequent increase in both quality and quantity created the path that lead to the appreciation and recognition of champagne.\n\nThroughout the 18th century, several \"champagne houses\" &mdash; or Champagne Maisons &mdash; were founded, and a new business dynamic grew in the region. These houses replaced small farm and monastery production in leading the evolutionary process of champagne, and by planting more vineyards or buying grapes from other producers or both, they mastered the specialization. To promote their product, the houses hired sales agents to take samples of their champagne wines to the Royal Courts of Europe, a crucial factor in generating the glamorous fashion of drinking champagne.\n\nDespite production growth, improved quality, and increasing popularity, trade did not reach spectacular rates during the 19th century &mdash; which is why the game Dom Pierre is much more about winning prestige than earning money. In the game, you are responsible for one of the oldest Champagne Maisons, producing and selling wine all over Europe, not to mention the other side of the Atlantic. The local economy will be boosted, employment increased, and your brand will become universally recognized.\n\nTo make all this happen will require a chain of actions that starts in your vineyard. You will need to look for continuous improvement, constantly react to your opponents, and optimize your choices to build the most prestigious Champagne Maison. In game terms, on a turn you move up a disc on the winery game board and perform an action, with the actions become more powerful as the game progresses. You will plant in the vineyards, harvest crops, buy grapes from neighbors, make wines in your cellar (some more valuable than others), allocate salespeople on four market routes and workers in the vineyard and cellar, and acquire the necessary accessories to improve production.\n\n",
+    "image": "https://cf.geekdo-images.com/d3vU53R_f2vmDvVQYRtZbA__original/img/D-Erjsu8k6XGPKLHJzstIZK0Vs0=/0x0/filters:format(jpeg)/pic6850641.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/d3vU53R_f2vmDvVQYRtZbA__small/img/SB3uQEfk-g6xglf6qG_4IKWr2I4=/fit-in/200x150/filters:strip_icc()/pic6850641.jpg",
+    "link": "https://boardgamegeek.com/thing/332853",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.85167",
+    "averageWeight": "3.7917",
+    "boardGameRank": "7182",
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Costa",
+      "Rôla"
+    ]
+  }
+}

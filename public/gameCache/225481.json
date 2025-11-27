@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:57:32.262Z",
+  "gameDetails": {
+    "id": "225481",
+    "name": "Lowdown",
+    "type": "boardgame",
+    "description": "Lowdown is a traditional card game in the Golf family.  The object of the game is to have the lowest score.  Players are dealt a 3x3 grid of face down cards.  Players take turns drawing a card from the deck or discard pile to replace the cards in their grid.  Each card has a number value, the higher the value the worse the card.  Action cards such as Peek, Steal, and Swap allow players to rearrange their grid and take cards from other players.  The hand ends once one player's cards are all face up.  Then players add up the total value of their cards.  Multiple hands are played, and once one player reaches 50 points, the player with the fewest points wins the game.\n\n",
+    "image": "https://cf.geekdo-images.com/qbeGob6JLlYoDrYHJvunCA__original/img/5oChk5V3XtttRN7_WOAL9g2L2GU=/0x0/filters:format(jpeg)/pic3619181.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qbeGob6JLlYoDrYHJvunCA__small/img/OjHBnQWe3hne4oS4iifyWHNT0cg=/fit-in/200x150/filters:strip_icc()/pic3619181.jpg",
+    "link": "https://boardgamegeek.com/thing/225481",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2016",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.83746",
+    "averageWeight": "1.2",
+    "boardGameRank": "21218",
+    "mechanics": [
+      "Hidden Victory Points",
+      "Push Your Luck",
+      "Score-and-Reset Game"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Colin Morgan"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:51:46.917Z",
+  "gameDetails": {
+    "id": "1302",
+    "name": "Cosmic Wimpout",
+    "type": "boardgame",
+    "description": "Cosmic Wimpout is \"More than an Experience, It's a game!\" In the family of push-your-luck dice games that garners great love, mostly through word-of-mouth marketing. It was a cult-game phenomenon in the Grateful Dead universe. The game flourished with the help of college students and Deadhead fans.\n\nYou play by rolling the five Cosmic Wimpout cubes and get points for each 5, 10, or Flash (triplet) that you roll. You can accumulate points towards the winning total by ending your turn or risking it all, because if you roll and don't score, you lose all the points for that turn, and the next player goes. Thus like life, \"Sometimes you are in the cosmos, and sometimes you wimp out.\" After certain results, a player may choose to end his turn, scoring the points he has accumulated. The first player to reach an agreed-upon score wins (300-600 for a short game with scores kept on paper, 1000-1500 more typically on the game boards), and the game can fit into a small dice tube.\n\nThroughout the years, several variations of dice designs have made early versions of the game collectible. There are several silk-screened fabric boards that vary the game length and require the player to use a personalized or improvised pawn.\n\nNumerous variants and house rules exist, and players are encouraged to change the rules (by unanimous agreement), even during the game.\n\n",
+    "image": "https://cf.geekdo-images.com/OXHFFkDda0h7bw9Qa3hczw__original/img/_uzhPa0Ah1qN_fiOyzBhatAgpb0=/0x0/filters:format(jpeg)/pic247006.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OXHFFkDda0h7bw9Qa3hczw__small/img/y0CruyVRnIL_45noVVfV2MYLioM=/fit-in/200x150/filters:strip_icc()/pic247006.jpg",
+    "link": "https://boardgamegeek.com/thing/1302",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "yearPublished": "1975",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.02412",
+    "averageWeight": "1.2243",
+    "boardGameRank": "7704",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Re-rolling and Locking",
+      "Set Collection"
+    ],
+    "categories": [
+      "Dice"
+    ],
+    "designers": [
+      "Boston Logical Society",
+      "W. W. Swilling"
+    ]
+  }
+}

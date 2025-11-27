@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:08:11.903Z",
+  "gameDetails": {
+    "id": "91072",
+    "name": "Saboteur 2 (expansion-only editions)",
+    "type": "boardgameexpansion",
+    "description": "(Note: This listing covers only the expansion-only versions of Saboteur 2; for the Saboteur 2 listing that includes both the base game and the expansion, go to Saboteur Gold.)\n\nIn Saboteur, each player takes on the role of a gold-digging dwarf or a saboteur who wants to hinder exploration of the gold mines &mdash; but each player knows only his own role, so the digging may or may not go as planned!\n\nEach turn, a player either lays down a tunnel card to dig from the start card toward one of the goal cards (or potentially away, if a saboteur) or plays an action card to help or hinder someone. If the diggers manage to find the gold hidden under one of the goal cards, then the diggers share the loot found there; if the gold can't be reached before the deck runs out, the saboteurs profit instead. After three rounds, the player with the most gold wins.\n\nThe Saboteur 2 expansion adds new role cards (the boss, profiteers, geologists) to the base game, new action cards (steal gold, change your role), and new tunnel cards featuring doors, ladders and bridges. What's more, the gold seekers can now be divided into teams &mdash; blue vs. green &mdash; and only those on the team that finds the gold score anything &mdash; assuming that anyone finds the gold at all, of course...\n\n",
+    "image": "https://cf.geekdo-images.com/VsSFKeeTlPR2Ixn9pT7ktA__original/img/RCetvrLHyrW7gmaozZryy97N56I=/0x0/filters:format(png)/pic4919882.png",
+    "thumbnail": "https://cf.geekdo-images.com/VsSFKeeTlPR2Ixn9pT7ktA__small/img/zZffDbDZ0HWwrbr5k783Fs6Px9I=/fit-in/200x150/filters:strip_icc()/pic4919882.png",
+    "link": "https://boardgamegeek.com/thing/91072",
+    "minPlayers": "2",
+    "maxPlayers": "12",
+    "yearPublished": "2011",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5,
+      8
+    ],
+    "averageRating": "6.9387",
+    "averageWeight": "1.5411",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Hidden Roles",
+      "Map Addition",
+      "Network and Route Building",
+      "Take That",
+      "Team-Based Game",
+      "Traitor Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Bluffing",
+      "Card Game",
+      "Exploration",
+      "Fantasy",
+      "Party Game"
+    ],
+    "designers": [
+      "Fréderic Moyersoen"
+    ]
+  }
+}

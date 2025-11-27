@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:02:21.769Z",
+  "gameDetails": {
+    "id": "153097",
+    "name": "Heroes Wanted",
+    "type": "boardgame",
+    "description": "As soon as you saw the ad in today&rsquo;s Tribune, the certainty flooded over you. At last, this is your chance, the reason for all your training!  All that work waterproofing your utility belt and practicing your one-liners will finally pay off.  You call into work sick, feed the cat, and turn on your police scanner, waiting nervously for the first call--or at least, the call that&rsquo;s close enough for you to get there first. You&rsquo;ll stop at nothing to join your heroes, The Champions of Zeta City, and woe to any wannabe crime fighters who stand in your way!\n\nHeroes Wanted is a tactical board game for 1-5 superhero hopefuls, attempting to fulfill their dreams of becoming a member of Zeta City&rsquo;s exclusive crime fighting super team: The Champions of Zeta City.  Each time you play, you will create a unique superhero comprised of two hero cards. You will then choose a scenario and face a different villain (or villains), but the objective remains the same: gain as much fame as possible by KO&rsquo;ing minions, completing headlines, and thwarting the villain.  At the end of each game, the superhero with the most fame is the winner and joins the prestigious ranks of The Champions of Zeta City.\n\n",
+    "image": "https://cf.geekdo-images.com/LGQJxuESktXwNHlSnPqt6g__original/img/bIkhOU5RSSn_PeejWht6RE6AJTY=/0x0/filters:format(jpeg)/pic1926621.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LGQJxuESktXwNHlSnPqt6g__small/img/4sOd92H5nr6WXzHh8xvjOzIObv4=/fit-in/200x150/filters:strip_icc()/pic1926621.jpg",
+    "link": "https://boardgamegeek.com/thing/153097",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2014",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.69094",
+    "averageWeight": "2.6125",
+    "boardGameRank": "3438",
+    "mechanics": [
+      "Action Retrieval",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Travis R. Chance",
+      "Nick Little (I)"
+    ]
+  }
+}

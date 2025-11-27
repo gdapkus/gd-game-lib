@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:14:54.620Z",
+  "gameDetails": {
+    "id": "265058",
+    "name": "Project: ELITE – Ammo Pack",
+    "type": "boardgameexpansion",
+    "description": "The Kickstarter Exclusive Ammo Pack brings a new set of rules, to emerge in the battlefield, and a new type of equipment!\n\nThe Ammo Pack is designed to emerge players in the battlefield and offer new challenges.\n\nAll non-basic weapons become limited ammo weapons. When a Weapon is equipped, players must add Ammo tokens to their cards. In order to use a Weapon, one token must be spent. Once all the tokens have been spent, the Weapon is inactive and can&rsquo;t be used to attack or have its effects applied.\n\nBut that is no motive to panic. New ammo can be acquired by reaching an Ammo Crate and performing a Search action, with no limit to the amount of players that can do the action at the same time. Ammo Crates can also be moved to adjacent spaces, in case the location is invaded and becomes too dangerous.\n\nThe Ammo pack brings grenades as a new kind of weapon. Grenades can be thrown to a fixed position, causing damage and different effects depending on the Grenade's type.\n\nAll grenades have the same range and chance to hit, but depending on the dice result the grenade may hit closer or further locations.\n\nThere are three types of grenades:\n\n     Explosive Grenades: Deal 2 damage on the space it hits and 1 damage on all adjacent spaces.\n     Smoke Bomb: All Aliens in the hit and adjacent locations can&rsquo;t move, can&rsquo;t be pushed, and don&rsquo;t activate until next round.\n     Repellant Gas: All aliens in the hit and adjacent locations must move against the Movement Path when moving or activating inside the area. The effect lasts until the next round. \n\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/5xvlS8mgTRoCs52JPriE0A__original/img/xjnwGacHTLx0L3kVMAFiHzZ_eo4=/0x0/filters:format(jpeg)/pic4645603.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5xvlS8mgTRoCs52JPriE0A__small/img/7N6E1VgX4I29QFXtV75l76iNV1c=/fit-in/200x150/filters:strip_icc()/pic4645603.jpg",
+    "link": "https://boardgamegeek.com/thing/265058",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.13542",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fighting",
+      "Miniatures",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Konstantinos Kokkinis",
+      "Sotirios Tsantilas"
+    ]
+  }
+}

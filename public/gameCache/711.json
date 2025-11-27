@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:09:16.316Z",
+  "gameDetails": {
+    "id": "711",
+    "name": "Elfenroads",
+    "type": "boardgame",
+    "description": "Before Elfenland there was Elfenroads.  Players attempt to travel from city to city on the map using the resources of cards, gold, and transportation chits.  The player best able to juggle the three resources and visit the most cities by game's end wins.\n\nRe-implemented by:\n\n    Elfenland\n\n\n",
+    "image": "https://cf.geekdo-images.com/jAKh32K09QcBByCFM3aXQw__original/img/Nv5lh7RiZ30BWKHPQWjciRFAd60=/0x0/filters:format(jpeg)/pic10172.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jAKh32K09QcBByCFM3aXQw__small/img/ksQXoCOxnqYlJvde_Aje3SQQAZA=/fit-in/200x150/filters:strip_icc()/pic10172.jpg",
+    "link": "https://boardgamegeek.com/thing/711",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1992",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.00349",
+    "averageWeight": "2.5",
+    "boardGameRank": "6785",
+    "mechanics": [
+      "Auction / Bidding"
+    ],
+    "categories": [
+      "Fantasy",
+      "Transportation"
+    ],
+    "designers": [
+      "Alan R. Moon"
+    ]
+  }
+}

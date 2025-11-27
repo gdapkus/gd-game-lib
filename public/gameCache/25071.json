@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:07:40.161Z",
+  "gameDetails": {
+    "id": "25071",
+    "name": "Munchkin Cthulhu",
+    "type": "boardgame",
+    "description": "Munchkins have hacked their way through dungeons, kung fu temples, starships, haunted houses, and super-foes. Now they face their greatest challenge &ndash; Cthulhu! Will they survive? Will they retain their sanity? Will they...level up?\n\nMunchkin Cthulhu is a standalone game in the Munchkin universe, this time lampooning Lovecraft's Mythos and the horror gaming that surrounds it. This base game features four new Classes, including the Cultist, and a lot of classic monsters from outside reality &ndash; and they all have Stuff you can take from their twitching bodies. You can play Munchkin Cthulhu by itself, or combine it with any number of other Munchkin titles for mind-bending silliness.\n\nPart of the Munchkin series.\n\nMunchkin is a satirical card game based on the clich&eacute;s and oddities of Dungeons and Dragons and other role-playing games. Each player starts at level 1 and the winner is the first player to reach level 10. Players can acquire familiar D&D style character classes during the game which determine to some extent the cards they can play.\n\nThere are two types of cards - treasure and encounters. Each turn the current players 'kicks down the door' - drawing an encounter card from the deck. Usually this will involve battling a monster. Monsters have their own levels and players must try and overcome it using the levels, weapons and powers they have acquired during the game or run away. Other players can chose to help the player or hinder by adding extra monsters to the encounter. Defeating a monster will usually result in drawing treasure cards and acquiring levels. Being defeated by a monster results in \"bad stuff\" which usually involves losing levels and treasure.\n\n",
+    "image": "https://cf.geekdo-images.com/xFlGGfyoP4Pb-nYKxJTi7A__original/img/Wpa4WcLLng6qxx5zysK7ieQVGNk=/0x0/filters:format(jpeg)/pic162995.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xFlGGfyoP4Pb-nYKxJTi7A__small/img/ZaNWqdXzlw46-hrwsxTrBfWfGt8=/fit-in/200x150/filters:strip_icc()/pic162995.jpg",
+    "link": "https://boardgamegeek.com/thing/25071",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.19304",
+    "averageWeight": "1.7201",
+    "boardGameRank": "3909",
+    "mechanics": [
+      "Dice Rolling",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Horror",
+      "Humor"
+    ],
+    "designers": [
+      "J. H. G. Hendriks",
+      "Steve Jackson (I)"
+    ]
+  }
+}

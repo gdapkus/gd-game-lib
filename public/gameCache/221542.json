@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:17:52.595Z",
+  "gameDetails": {
+    "id": "221542",
+    "name": "TradeWorlds: Planetary Expansion",
+    "type": "boardgameexpansion",
+    "description": "Description from the publisher:\n\nA \"core\" set expansion that is designed to increase the level of strategy by adding Tradeships and Trade Agreements.  It features the Mission cards that were removed from the original one (1) Player Box Set due to complexity and an attempt to \"streamline\" the original game for a wider gamer audience.\n\nMissions are back and therefore so are Tradeships.  Tradeships allow you to perform a mission which may take 1 to 5 turns to complete, during this time the player on a mission will benefit from a Trade Agreement which will give them bonus credits when banking certain resources.  Modifiers are 2x, +5 and 3x the value of the banked resource (according to the Trade Agreement).\n\nThis expansion is comprised of 140 cards for 1 to 4 Players.  It also adds 4 white custom dice to be used as counters for Tradeships.  It can add from 15-30 minutes of additional game time to the \"core\" game. However, this is offset by higher banking of resources, which ultimately balances the duration of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/AkLyr7Z98ePw0RUytePElA__original/img/aLf5YljjQCaeXQJtF42cjVXriFE=/0x0/filters:format(jpeg)/pic3491305.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AkLyr7Z98ePw0RUytePElA__small/img/1a0mJ6TaZKDaa0KuX1fU5h_fcQo=/fit-in/200x150/filters:strip_icc()/pic3491305.jpg",
+    "link": "https://boardgamegeek.com/thing/221542",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "0",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Trading"
+    ],
+    "categories": [
+      "Dice",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Kristopher R. Kycia"
+    ]
+  }
+}

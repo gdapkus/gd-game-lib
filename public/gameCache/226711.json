@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:13:48.339Z",
+  "gameDetails": {
+    "id": "226711",
+    "name": "The Networks: Executives",
+    "type": "boardgameexpansion",
+    "description": "The Networks: Executives, a full expansion for The Networks, changes the gameplay in a few ways.\n\nFirst, the players all choose a Network Executive at the start of the game. Each Network Executive has their own advantages and drawbacks.\n\nSecond, there is a new deck of Show Cards with a different mix of Genres. Each Genre now has an equal chance of appearing, unlike in the base game where Reality and Sports shows were less common. However, Sports Shows now have a higher upkeep, and Reality Shows don't get you as many Viewers on average as another Show with a bunch of Stars.\n\nThird, players no longer automatically get starting Public Access Shows, Stars, or Ads. Instead there is a starting \"Pilot Season\" draft in which players pick their starting TV shows. These starting Shows determine a player's starting resources, like Stars, Ads, and extra money.\n\nFourth, you now get a Mogul Card when you get your first 5-Show Genre Bonus or your second 3-Show Genre Bonus. These Mogul Cards act like supercharged Network Cards, so they're worth picking up!\n\n",
+    "image": "https://cf.geekdo-images.com/AZQBu91NvyW1QxVoJOewSA__original/img/-vVU6SPlnobXMdhMQCEhfN1cVss=/0x0/filters:format(jpeg)/pic3719798.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AZQBu91NvyW1QxVoJOewSA__small/img/7rA6f7ua4GP45Hbukmu2IrRMs4s=/fit-in/200x150/filters:strip_icc()/pic3719798.jpg",
+    "link": "https://boardgamegeek.com/thing/226711",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.63736",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Open Drafting",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Movies / TV / Radio theme"
+    ],
+    "designers": [
+      "Gil Hova"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:36:02.503Z",
+  "gameDetails": {
+    "id": "1125",
+    "name": "Big Shot",
+    "type": "boardgame",
+    "description": "Big Shot is an auction game in which a set of colored cubes is put up for auction each round based on a random die roll. Whoever wins the bid, places those cubes in areas on the game board. Once an area has seven cubes in it, that area is locked and no more cubes can be added. Whoever has the majority of cubes in that area owns it &mdash; except that ties for majority are disregarded, so in a spread of 3/3/1 cubes, the player with only one cube owns that area!\n\nPlayers have a limited amount of money with which to bid. They can take one loan each turn, but the first loan gives them only $9 more, while the second loan gives them $8 and the third $7. At the end of the game, the player must repay $10 for each loan taken, with that money coming from the value of the property they now own.\n\nAt the end of the game, players tally the value of what they own (with some properties being doubled in value if the player owns that region's doubler as well as areas within that region), then repay all loans. Whoever has the most money wins!\n\n",
+    "image": "https://cf.geekdo-images.com/1hgmcVxQpqQbjGgANRFEbg__original/img/-4J6FFLBHa76e2gcdKKLnh6y7kI=/0x0/filters:format(jpeg)/pic8898750.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1hgmcVxQpqQbjGgANRFEbg__small/img/AogU9jCvICCxwcJV3iWjN0JHs5k=/fit-in/200x150/filters:strip_icc()/pic8898750.jpg",
+    "link": "https://boardgamegeek.com/thing/1125",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2001",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.96816",
+    "averageWeight": "2",
+    "boardGameRank": "3143",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Dice Rolling",
+      "Loans"
+    ],
+    "categories": [
+      "Economic"
+    ],
+    "designers": [
+      "Alex Randolph"
+    ]
+  }
+}

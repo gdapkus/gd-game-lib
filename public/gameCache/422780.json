@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:13:17.231Z",
+  "gameDetails": {
+    "id": "422780",
+    "name": "Mistborn: The Deckbuilding Game",
+    "type": "boardgame",
+    "description": "Based on the hit Mistborn novel series by Brandon Sanderson, Mistborn: The Deckbuilding Game takes players into the world of Scadrial! From designer John D Clair, players get to control iconic characters from the series and \"burn\" metals to unlock Allomantic powers in fast-paced battles.\n\nMistborn is a standalone deck-building game in which you \"purchase\" cards as you play to build and improve your deck. \"Burn\" metals to activate cards. Each metal has its own strengths: damaging opponents, earning mission points, and manipulating allies. There are multiple ways to win! Defeat your opponents in furious allomantic battles or complete a series of perilous missions before your enemies do.\n\nPlay head-to-head against your friends, or take on the The Lord Ruler in solo or co-op play!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/Fr_k9-uU3hEUnw_3s-UnZQ__original/img/XhMQVwHzTcQPTS_2cjIn_NdZJwM=/0x0/filters:format(png)/pic8290518.png",
+    "thumbnail": "https://cf.geekdo-images.com/Fr_k9-uU3hEUnw_3s-UnZQ__small/img/YLbnyONFWmI-9bu5J30aZke7BjI=/fit-in/200x150/filters:strip_icc()/pic8290518.png",
+    "link": "https://boardgamegeek.com/thing/422780",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.73538",
+    "averageWeight": "2.68",
+    "boardGameRank": "1444",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Market",
+      "Player Elimination",
+      "Race",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Novel-based"
+    ],
+    "designers": [
+      "John D. Clair"
+    ]
+  }
+}

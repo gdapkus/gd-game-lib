@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:29:58.737Z",
+  "gameDetails": {
+    "id": "8522",
+    "name": "Ninja Burger",
+    "type": "boardgame",
+    "description": "From the publisher's site:\n\nNow you can join the elite Ninja Burger delivery team! You will learn to deliver tasty burgers and fries anywhere. You will bring honor to your franchise. Failure is not an option.\n\nThis hilarious card game, designed by Steve Jackson, pits you against your fellow trainees in a new Ninja Burger store. Hone your skills. Learn the secrets of stealth, swordsmanship, and customer service. Fight for honor, respect, big tips, and that coveted promotion . . .\n\nReimplemented by:\n\n    Ninja Burger: Secret Ninja Death Touch Edition\n\n\n",
+    "image": "https://cf.geekdo-images.com/BH99OkHV4f-YqPwcfm72wA__original/img/1Qlnh0C8vMDQHBmzO_TxJgyD6b4=/0x0/filters:format(jpeg)/pic47910.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BH99OkHV4f-YqPwcfm72wA__small/img/mWFYDNskuIxfiPX04B1M7TypBKI=/fit-in/200x150/filters:strip_icc()/pic47910.jpg",
+    "link": "https://boardgamegeek.com/thing/8522",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2003",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.59183",
+    "averageWeight": "1.625",
+    "boardGameRank": "26066",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor"
+    ],
+    "designers": [
+      "Steve Jackson (I)"
+    ]
+  }
+}

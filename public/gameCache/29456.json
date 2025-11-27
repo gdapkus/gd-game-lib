@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:28:42.498Z",
+  "gameDetails": {
+    "id": "29456",
+    "name": "Infernal Contraption",
+    "type": "boardgame",
+    "description": "Game description from the publisher:\n\nAn infectiously fun non-collectible card game for 2-4 players, Infernal Contraption pits goblin mechanics against each other in a race to assemble often-backfiring, nigh-uncontrollable magical machines. Through the strategic placement of arcane components like arcantric funnels, chthonic grinders, and entropic processors, these bodgers risk life and limb to overcome the competition with the ultimate Infernal Contraption.\n\nThe second edition of Infernal Contraption includes cards from the Sabotage! expansion and a special promo card for the Bodgers Game Heap.\n\n",
+    "image": "https://cf.geekdo-images.com/o16pSrDY2xvjTjbT7nSJKw__original/img/V-0bzJqfb58bzUDzdY5_5b5yzyI=/0x0/filters:format(jpeg)/pic1267605.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/o16pSrDY2xvjTjbT7nSJKw__small/img/ipJ6XCHA9NzjkUuHzM4epExe-38=/fit-in/200x150/filters:strip_icc()/pic1267605.jpg",
+    "link": "https://boardgamegeek.com/thing/29456",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "60",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.85061",
+    "averageWeight": "1.8261",
+    "boardGameRank": "9130",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Humor"
+    ],
+    "designers": [
+      "Matt Wilson (I)"
+    ]
+  }
+}

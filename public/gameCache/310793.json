@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:13:08.278Z",
+  "gameDetails": {
+    "id": "310793",
+    "name": "Mint Control: Promo Pack",
+    "type": "boardgameexpansion",
+    "description": "This promo pack was available as an add-on thru the pledge manager for Mint Control.\n\nA promo pack to use with the newest mint title Mint Control, this pack includes two new characters for solo play, as well as two new locations.\n\nCharacters:\nJosh: The Jovial Juris Doctorate\nGia: The Greedy Gangster\n\nLocations:\nCandy Store\nCurio Shop\n\n",
+    "image": "https://cf.geekdo-images.com/shQAh1Z_HIpd_BIlTL8D0w__original/img/X1ILb4ANM8_5cdhxy9oEUtnr5MM=/0x0/filters:format(jpeg)/pic5746716.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/shQAh1Z_HIpd_BIlTL8D0w__small/img/a-dViWHtfMhBj72-emTm9DFtxos=/fit-in/200x150/filters:strip_icc()/pic5746716.jpg",
+    "link": "https://boardgamegeek.com/thing/310793",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "4.78043",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Humor"
+    ],
+    "designers": [
+      "Justin Blaske"
+    ]
+  }
+}

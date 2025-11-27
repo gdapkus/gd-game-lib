@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:57:22.930Z",
+  "gameDetails": {
+    "id": "8096",
+    "name": "Logistico",
+    "type": "boardgame",
+    "description": "From the web site\n\nBoats, Planes & Trucks\nLogistico is an archipelago in the Logistic Ocean.\nThe inhabitants on the 5 islands of the Republic of Logistico have supply of goods and demand for other goods.\nEach player has a boat, a plane and a truck to match supply with demand.\nPlan your routes the best to make the most profit!\n\n",
+    "image": "https://cf.geekdo-images.com/nieA8RbFRH2K1i1w2g_khw__original/img/Jxoo2ByKMvdaiufCAdwZNfdgHJI=/0x0/filters:format(jpeg)/pic220248.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nieA8RbFRH2K1i1w2g_khw__small/img/U74viF6-VlREp9rmX764MjggutY=/fit-in/200x150/filters:strip_icc()/pic220248.jpg",
+    "link": "https://boardgamegeek.com/thing/8096",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2003",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.25197",
+    "averageWeight": "2.7222",
+    "boardGameRank": "7674",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Economic",
+      "Transportation"
+    ],
+    "designers": [
+      "Corné van Moorsel"
+    ]
+  }
+}

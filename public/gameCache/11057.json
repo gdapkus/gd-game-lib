@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:17:10.471Z",
+  "gameDetails": {
+    "id": "11057",
+    "name": "The Great Battles of Alexander: Deluxe Edition",
+    "type": "boardgame",
+    "description": "The Great Battles of Alexander: Deluxe Edition, the updated, expanded, full-color-enhanced version of the best-selling, multi-award-winning game system that started the Great Battles of History series, includes new game counters, maps, packaging, battles, and scenarios that cover all the major battles from the original game and the Juggernaut module, plus five additional battles ... ten in all. The Great Battles of Alexander: Deluxe Edition is virtually the complete history of Alexander the Great and the Macedonian art of war.\n\nGame features:\n\n     Third Edition rules, with many changes and additions \n     New maps for The Granicus and Chaeronea, plus an expanded Gaugamela map \n     Armies for the Danubian tribes, Illyrians, Greeks, Persians, Scythians, and Indians \n     Eighteen new Macedonian Commanders \n     New Restricted Line Command system for Persians, Indians and Greeks \n     Wing Commanders and Macedonian Contingent Commanders \n     Cavalry Shock Formations: The Companion Wedge and the Thessalian Diamond \n     The Persian Immortals and Kinsmen, Macedonian artillery, cataphracted cavalry ... and cataphracted elephants!\n\n\nComponents:\n\n     720 full-color two-sided counters (43 full-color two-sided double-size counters)\n     Three full-color double-sided 22x34\" map sheets\n     One 10-sided die \n     32-page Rule Book \n     24-page Scenario Book \n     Player Aid Cards: Two 8.5x11\" cards showing game charts & tables\n\n\nTIME SCALE: 20 minutes per turn \nMAP SCALE: 70 yards per hex \nUNIT SCALE: 100 men per strength point \nNUMBER OF PLAYERS: One to four\n\n",
+    "image": "https://cf.geekdo-images.com/suTjL2RCVl12Mwftjfon-Q__original/img/P2kGLo1Z8sSlGrL2yniiD_8RZ3M=/0x0/filters:format(jpeg)/pic774569.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/suTjL2RCVl12Mwftjfon-Q__small/img/hsX7cjd-5MUZDb7Q1SnDC6bcgkw=/fit-in/200x150/filters:strip_icc()/pic774569.jpg",
+    "link": "https://boardgamegeek.com/thing/11057",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "1995",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.71197",
+    "averageWeight": "3.5726",
+    "boardGameRank": "3019",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Movement Points",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "Ancient",
+      "Medieval",
+      "Wargame"
+    ],
+    "designers": [
+      "Richard H. Berg",
+      "Mark Herman"
+    ]
+  }
+}

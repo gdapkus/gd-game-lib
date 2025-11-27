@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:30:19.250Z",
+  "gameDetails": {
+    "id": "8979",
+    "name": "Oodles of Doodles",
+    "type": "boardgame",
+    "description": "Oodles of Doodles is a high-energy party game where sketching meets speed&mdash;and stick figures totally count.\n\nEach round, one player draws while their teammates guess as many words as they can from a secret list of eight items&mdash;all within a shared category and a tight time limit. Think Pictionary on fast-forward with a twist: you're not just drawing one thing, you're doodling a whole bunch of related things at once!\n\nPerfect for groups and game nights, Oodles of Doodles rewards quick thinking, visual shorthand, and shared brainwaves between teammates.\n\n",
+    "image": "https://cf.geekdo-images.com/YxaiIsQpvXdwliYZcNByTA__original/img/59ThbSapSkpnrweyL1eImfrdHzg=/0x0/filters:format(jpeg)/pic212888.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YxaiIsQpvXdwliYZcNByTA__small/img/Tc6dJSQPxnB-HSFsCCZ_RigWUPw=/fit-in/200x150/filters:strip_icc()/pic212888.jpg",
+    "link": "https://boardgamegeek.com/thing/8979",
+    "minPlayers": "3",
+    "maxPlayers": "0",
+    "yearPublished": "2003",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "6.20197",
+    "averageWeight": "1",
+    "boardGameRank": "19831",
+    "mechanics": [
+      "Line Drawing",
+      "Paper-and-Pencil"
+    ],
+    "categories": [
+      "Party Game",
+      "Puzzle",
+      "Trivia",
+      "Word Game"
+    ],
+    "designers": [
+      "Garrett J. Donner",
+      "Brian S. Spence",
+      "Michael S. Steer"
+    ]
+  }
+}

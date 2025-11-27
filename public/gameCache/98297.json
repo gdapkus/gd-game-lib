@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:27:57.913Z",
+  "gameDetails": {
+    "id": "98297",
+    "name": "Glenn Drover's Empires: Ancient Empires",
+    "type": "boardgame",
+    "description": "Glenn Drover&rsquo;s Empires: Ancient Empires utilizes the extremely successful Age of Empires III: The Age of Discovery game engine and takes it in a whole new direction. In Ancient Empires, players control one of the civilizations from the Roman era and vie for supremacy.\n\nAmong the elements new to Ancient Empires are agriculture, which determines a player&rsquo;s number of citizens, and the military garrison, which allows players to re-deploy their troops. To be victorious in Ancient Empires, a player must plan well and yet be able to adapt to changing circumstances. It is time for a leader to emerge and become the supreme ruler of the Roman World.\n\n",
+    "image": "https://boardgamegeek.com/image/1657689",
+    "thumbnail": "https://boardgamegeek.com/image/1657689",
+    "link": "https://boardgamegeek.com/thing/98297",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": null,
+    "averageRating": "7.5",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Civilization",
+      "Exploration"
+    ],
+    "designers": [
+      "Glenn Drover"
+    ]
+  }
+}

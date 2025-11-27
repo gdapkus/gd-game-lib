@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:17:53.364Z",
+  "gameDetails": {
+    "id": "5216",
+    "name": "Space Master: Star Strike",
+    "type": "boardgame",
+    "description": "From the box:\n\nStarcraft Combat in the Far Future\n\nIron Crown Enterprises presents Space Master: Star Strike, a fast-paced boardgame of starcraft combat in the far future. Simulate deep-space battles involving any number of vessels. Dogfight with small but lethal SMAC fighters or deploy Line Cuisers to slug it out with a death dealing Dreadnought.\n\nExpanded by:\n\n    Star Strike Vessel Compendium #1: Adventurer Class\n    Star Strike Vessel Compendium #2: Pursuit Class\n    Star Strike Vessel Compendium #3: Imperial Ships\n\n\n",
+    "image": "https://cf.geekdo-images.com/a_VnBCgr0T90Fdfs2N1n_Q__original/img/ajxbNI_PP2xEFTJicZtwczm1kQs=/0x0/filters:format(jpeg)/pic105114.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/a_VnBCgr0T90Fdfs2N1n_Q__small/img/yDMkYKb9rsAsQJNpQ-C6SYosy3Y=/fit-in/200x150/filters:strip_icc()/pic105114.jpg",
+    "link": "https://boardgamegeek.com/thing/5216",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1988",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.9881",
+    "averageWeight": "2.5",
+    "boardGameRank": "22864",
+    "mechanics": [
+      "Grid Movement",
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Fighting",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Kevin Barrett"
+    ]
+  }
+}

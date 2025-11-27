@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:14:19.016Z",
+  "gameDetails": {
+    "id": "336591",
+    "name": "Paris: l'Étoile",
+    "type": "boardgameexpansion",
+    "description": "A few years have passed since the events of Paris. You have invested in many of Paris&rsquo; most prestigious building and landmarks, and have made quite the name for yourself. But that does not mean you can rest on your laurels: shrewd foreign investors have set their eye on the French capital, eager to become important players as well in the Parisian real estate market. The most coveted properties are all centered around the most most famous roundabout in the world: La Place de l&rsquo;&Eacute;toile, that features the iconic Arc de Triomphe, which looks down on the Champs-&Eacute;lys&eacute;es. They are up for quite the challenge, since your experience will give you unique advantages over your opponents.\n\nParis : l'Étoile introduces a new collection of bonus tiles, which will add more variety and replayability to your game of Paris, as well as strategy tiles. These will give each player a unique player power, that they can choose to change if they place one of their keys on the Arc de Triomphe.\n\n-description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/-LyaKfGu7fsxdJJ_Xlt8sg__original/img/bjUtb83tWVooUEU72Sfnv6t4Vk4=/0x0/filters:format(jpeg)/pic6121468.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-LyaKfGu7fsxdJJ_Xlt8sg__small/img/HRU4ePdKRQXjNvp6XQ-xFO3wQkQ=/fit-in/200x150/filters:strip_icc()/pic6121468.jpg",
+    "link": "https://boardgamegeek.com/thing/336591",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "7.23301",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "City Building",
+      "Economic",
+      "Post-Napoleonic"
+    ],
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ]
+  }
+}

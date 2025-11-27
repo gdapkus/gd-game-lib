@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:16:08.248Z",
+  "gameDetails": {
+    "id": "415184",
+    "name": "Skulls of Sedlec: Archers",
+    "type": "boardgameexpansion",
+    "description": "Ready. Aim. Expire.\n\nArchers were once impressive athletes and dangerous warriors. In death, they still seek to hit their chosen Targets. The further the distance, the more prestigious the shot &ndash; and the higher the score.\n\n",
+    "image": "https://cf.geekdo-images.com/AeoS7A2O0VS3Mzlggb3cfQ__original/img/AXYN34yRn-1lLdDydQ4yIJ5u-qg=/0x0/filters:format(png)/pic8338089.png",
+    "thumbnail": "https://cf.geekdo-images.com/AeoS7A2O0VS3Mzlggb3cfQ__small/img/VEDMpR4Ag80hbP4AWr9lsUBjiO4=/fit-in/200x150/filters:strip_icc()/pic8338089.png",
+    "link": "https://boardgamegeek.com/thing/415184",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "7.27778",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Roshni Patel"
+    ]
+  }
+}

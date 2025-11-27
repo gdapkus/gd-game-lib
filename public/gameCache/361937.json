@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:14:06.084Z",
+  "gameDetails": {
+    "id": "361937",
+    "name": "Oranienburger Kanal: Expansion I",
+    "type": "boardgameexpansion",
+    "description": "In the tradition of Uwe's masterpiece Agricola, this game will include a number of expandable card sets which will change and add to your gaming experience.\n The base game will come with two card sets (A & B) but four more sets will become available, adding endless replayability and variety to your games.\n Each Expansion Set is boxed and contains 120 cards (2 sets) plus Glossaries in English and German!\n\n&mdash;description from the Gamefound campaign page\n\nExpansion I contains decks C and D for Oranienburger Kanal.\n\n",
+    "image": "https://cf.geekdo-images.com/TnQRfs9X1FKMLT7qhMNX0Q__original/img/OkIEu0SPJ7fXxOUYAApHkLaKM14=/0x0/filters:format(jpeg)/pic6863922.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TnQRfs9X1FKMLT7qhMNX0Q__small/img/5v4h92Vvnc4g-DeK61trumQiVL4=/fit-in/200x150/filters:strip_icc()/pic6863922.jpg",
+    "link": "https://boardgamegeek.com/thing/361937",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2023",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.98173",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game",
+      "City Building",
+      "Economic",
+      "Industry / Manufacturing",
+      "Territory Building"
+    ],
+    "designers": [
+      "Uwe Rosenberg"
+    ]
+  }
+}

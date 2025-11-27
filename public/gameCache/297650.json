@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T19:31:28.078Z",
+  "gameDetails": {
+    "id": "297650",
+    "name": "Arkeis: The Threat Beneath",
+    "type": "boardgameexpansion",
+    "description": "The Sand Worm Expansion holds an additional stand-alone replayable scenario (3.5), an awesome Sand Worm Mini, a new set of 44 cards, extra search tokens, and one more upgrade for your camps!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/E7eptvbNHxpSBXXrhl6TbA__original/img/rRKtEp2RBBkpWdfzldjce37BfqI=/0x0/filters:format(jpeg)/pic9051270.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/E7eptvbNHxpSBXXrhl6TbA__small/img/scmXijbNSJo0_9_fCx2m_bn53p4=/fit-in/200x150/filters:strip_icc()/pic9051270.jpg",
+    "link": "https://boardgamegeek.com/thing/297650",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.63325",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Storytelling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Ancient",
+      "Exploration",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "designers": []
+  }
+}

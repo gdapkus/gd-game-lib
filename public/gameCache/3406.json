@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:57:18.479Z",
+  "gameDetails": {
+    "id": "3406",
+    "name": "Lines of Action",
+    "type": "boardgame",
+    "description": "Lines of Action is a simple game that uses checkers board and pieces. Its rules were published in Sid Sackson's A Gamut of Games. There are some commercial versions available though.\n\nThe object of LoA is to get all your pieces into a single connected group. A group of pieces is connected if they occupy an unbroken chain of adjacent spaces, horizontally, vertically, or diagonally.\n\n",
+    "image": "https://cf.geekdo-images.com/S-rgacjYGzQudilzszaCYw__original/img/ZzFyjBv16KGM2HZGzLAdvxuDCO8=/0x0/filters:format(jpeg)/pic49468.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/S-rgacjYGzQudilzszaCYw__small/img/PbiSA3NVv8wMO6yy8mPJafYa0JE=/fit-in/200x150/filters:strip_icc()/pic49468.jpg",
+    "link": "https://boardgamegeek.com/thing/3406",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1969",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.1469",
+    "averageWeight": "2.6923",
+    "boardGameRank": "4424",
+    "mechanics": [
+      "Grid Movement",
+      "Pattern Building",
+      "Square Grid",
+      "Static Capture"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Claude Soucie"
+    ]
+  }
+}

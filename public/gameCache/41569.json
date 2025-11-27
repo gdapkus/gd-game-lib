@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:37:04.761Z",
+  "gameDetails": {
+    "id": "41569",
+    "name": "The Great Fire of London 1666",
+    "type": "boardgame",
+    "description": "On Sunday September 2, 1666, Thomas Farriner, the baker to the King, forgot to put out the hearth fire in his shop. This simple act of negligence created a towering and lethal inferno which would eventually destroy 13,000 houses and leave nearly 90 percent of the city's population destitute and homeless...\n\nYou are no simple bystander to this tragedy; the future of London lies in your hands.\n\nIn The Great Fire of London 1666, the players are men of wealth and standing who own property around London. The Lord Mayor has failed to act and it is down to these mighty men to lead trained bands of militia to fight the fire and save the city. To do so they must decide which districts to sacrifice to the fire and which to protect. Remember, these same men own much of London, thus such choices will shape their own future and greatly affect their wealth and standing.\n\nUse the trained bands to suppress the fire and explosives to destroy blocks of housing to create fire breaks and prevent its spread. Do you choose to protect your own homes, turning a blind eye and allowing the fire to consume your rival's property? Or will you stand as the hero of London, and choose to save as much of the city as possible?\n\nVictory can belong to the player with the most property left after the ashes settle, but stopping the fire and saving London's most famous landmarks may win a more altruistic land owner the hearts and minds of the people.\n\nSave the city, or watch it burn.\n\n",
+    "image": "https://cf.geekdo-images.com/oJxBKovAWVPoKgnOqMPDSA__original/img/eezx4JcZtXUGzRtigg1QnXuVoOQ=/0x0/filters:format(jpeg)/pic3687294.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oJxBKovAWVPoKgnOqMPDSA__small/img/kDAvbwpL7VSyS6mo5K1k7H9RC70=/fit-in/200x150/filters:strip_icc()/pic3687294.jpg",
+    "link": "https://boardgamegeek.com/thing/41569",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2010",
+    "playingTime": "120",
+    "minPlayingTime": "80",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.47295",
+    "averageWeight": "2.553",
+    "boardGameRank": "3820",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "End Game Bonuses",
+      "Hand Management",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Tags",
+      "Take That",
+      "Variable Set-up",
+      "Zone of Control"
+    ],
+    "categories": [],
+    "designers": [
+      "Richard Denning"
+    ]
+  }
+}

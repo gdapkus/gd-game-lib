@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:48:05.315Z",
+  "gameDetails": {
+    "id": "43868",
+    "name": "The Adventurers: The Temple of Chac",
+    "type": "boardgame",
+    "description": "The publisher says: \n The Adventurers features a fast-paced thrilling run through the Temple of Chac, the Mayan rain god. As your intrepid adventurers delve through the ruins, they will face deadly traps guarding the ancient relics they prize.\n\nUser Summary:\n\nA very light dice-roller, basically a fun simulation of Indiana-Jones-style temple robbers. Players move through a Mayan temple, risking constant death while trying to get to the exit, carrying as much treasure as they dare. The more treasure cards you have, the fewer actions you might get this round. If your character gets killed, a second one can drop in and you may still get enough treasure and escape to win.\n\nThe temple starts with a room of crushing walls, leading into a winding passage that takes you past a lava pit and locked alcoves. The passage goes on, with two short-cuts that might save you time; a fast river or a rickety wooden bridge. You must balance attempts to grab treasure from the rooms, as you pass through, with staying ahead of a massive boulder, tumbling down the passage after you. If you have to let the boulder pass or be crushed to death, then you're forced to jump in the river and risk drowning just to get ahead. Otherwise, the boulder reaches the exit before you, blocking it and you're trapped forever.\n\nA mix of very basic lucky dice-rolling, lucky card draw for the treasure, and some decision-making about possible risks. Beautifully produced, with 12 small but detailed plastics miniatures, and an exotic and deadly temple. Adults may tire from repeats of The Adventurers, but kids will get lots of thrills.\n\n",
+    "image": "https://cf.geekdo-images.com/h6xOyk3KPxiENZNiWtqeYQ__original/img/A4J3l5wlTob6rQ8Yy1ICsTOEwS0=/0x0/filters:format(jpeg)/pic517825.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/h6xOyk3KPxiENZNiWtqeYQ__small/img/zO_TpIwSaWLMxo_leoFh0rbcs8k=/fit-in/200x150/filters:strip_icc()/pic517825.jpg",
+    "link": "https://boardgamegeek.com/thing/43868",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2009",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.60565",
+    "averageWeight": "1.6596",
+    "boardGameRank": "2035",
+    "mechanics": [
+      "Action Points",
+      "Bias",
+      "Dice Rolling",
+      "Grid Movement",
+      "Memory",
+      "Push Your Luck",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Ancient",
+      "Exploration",
+      "Miniatures"
+    ],
+    "designers": [
+      "Guillaume Blossier",
+      "Frédéric Henry"
+    ]
+  }
+}

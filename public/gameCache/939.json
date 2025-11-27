@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:18:41.390Z",
+  "gameDetails": {
+    "id": "939",
+    "name": "Star Wars: The Queen's Gambit",
+    "type": "boardgame",
+    "description": "Based on the four battles at the end of Star Wars Episode One: The Phantom Menace -- the battle on the plain between the Gungan forces and the droid army; the attempt by Naboo forces, led by Queen Amidala, to storm the palace and capture the Trade Federation viceroys; the fight between Darth Maul and the two Jedi Knights; and the space battle in which Anakin's starfighter destroyed the Droid Control Ship.\n\nThe forces are represented by 155 plastic miniatures on three separate boards, including a three-level palace.  The action is driven by two decks of cards for each side.  Each turn, each side simultaneously chooses four action cards from a hand of ten, and places them in order.  The actions are then carried out one at a time, alternating sides.  Combat is resolved using special attack and defense dice.\n\n",
+    "image": "https://cf.geekdo-images.com/bz5nHaO3qAqNRKV4jketEQ__original/img/eI3t4FN52ZIun4RATOzqDvuRhP4=/0x0/filters:format(jpeg)/pic35506.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bz5nHaO3qAqNRKV4jketEQ__small/img/NX6F33Zk93mJFnP6gwlxsdKHh_0=/fit-in/200x150/filters:strip_icc()/pic35506.jpg",
+    "link": "https://boardgamegeek.com/thing/939",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2000",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.5841",
+    "averageWeight": "2.4824",
+    "boardGameRank": "1228",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Command Cards",
+      "Dice Rolling",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Fighting",
+      "Miniatures",
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Rob Daviau",
+      "Alan Roach",
+      "Craig Van Ness"
+    ]
+  }
+}

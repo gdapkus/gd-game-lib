@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:25:04.872Z",
+  "gameDetails": {
+    "id": "11618",
+    "name": "Cranium Zigity",
+    "type": "boardgame",
+    "description": "Each card is representing a color. yellow: spell a word, red: count to eleven, blue: puzzle and green: collection of instruments. In the corners of each card all the colors are present. There are two kinds of action cards. Cards that let a player draw cards and card that avoid drawing cards.\n\nEach player receives seven cards. The other cards are placed face down in the middle of the table. The first player turns a card from the deck in the middle of the table. The color of the card defines what to do. If a yellow card shows up, the player can use as many cards as he wants to spell a word using the letters in the yellow corner of the cards in his hands.\nIf a red card shows up, the player has to count the numbers in the red corner of the card to make exactly 11. \nWhen a blue card shows up, the player has to make a puzzle using the circles in blue corner. \nAnd when a green card shows up, the player may play all cards in his hand with the same instrument.\n\nIf a player can't play any card, he/she can play an action card or draw a card. The player who discarded(plays) all of his/her cards first wins the game.\n\nComes with a collectible tin and clear plastic cards.\n\nThis game is/was a Starbucks exclusive game. It was also sold at select Barnes and Noble stores that also had a Starbucks coffee shop.\n\n",
+    "image": "https://cf.geekdo-images.com/ZdvhMIyQPH52MprbWb5UQQ__original/img/UxC6kL5qhncdGjW2iiKIkHzoH-Y=/0x0/filters:format(jpeg)/pic282571.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZdvhMIyQPH52MprbWb5UQQ__small/img/Y79JpTLzmsljYaZtoEf7tNxTDcw=/fit-in/200x150/filters:strip_icc()/pic282571.jpg",
+    "link": "https://boardgamegeek.com/thing/11618",
+    "minPlayers": "2",
+    "maxPlayers": "99",
+    "yearPublished": "2004",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.35704",
+    "averageWeight": "1.0918",
+    "boardGameRank": "29144",
+    "mechanics": [
+      "Hand Management",
+      "Pattern Building",
+      "Spelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Math",
+      "Word Game"
+    ],
+    "designers": [
+      "Marisa Peña"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:27:44.363Z",
+  "gameDetails": {
+    "id": "36659",
+    "name": "Free Trader",
+    "type": "boardgame",
+    "description": "Free Trader is a solitaire game of opening trade routes while fighting Pirates and dodging Police patrols.\n\nIt plays by exploring tiles representing planets and drawing cards for trade prices and events.\n\nYou need to keep trading in order to make the payments on your new space ship.  Make four payments to win!\n\nIt is free, and web published\n\n",
+    "image": "https://cf.geekdo-images.com/Z2roq2wt9tzTg_3yFBV44A__original/img/1QiOb9VMhGs9bvB_uh1bZzSUYQE=/0x0/filters:format(jpeg)/pic398872.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Z2roq2wt9tzTg_3yFBV44A__small/img/bBfjrIfAEUUc_-449qZU6TCPcsw=/fit-in/200x150/filters:strip_icc()/pic398872.jpg",
+    "link": "https://boardgamegeek.com/thing/36659",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2008",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.1054",
+    "averageWeight": "1.5625",
+    "boardGameRank": "14201",
+    "mechanics": [
+      "Pick-up and Deliver",
+      "Tile Placement",
+      "Trading"
+    ],
+    "categories": [
+      "Fighting",
+      "Print & Play",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Felbrigg Herriot"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T20:23:56.845Z",
+  "gameDetails": {
+    "id": "65200",
+    "name": "Asteroyds",
+    "type": "boardgame",
+    "description": "Asteroyds is a racing and pre-program game similar to RoboRally but with enough significant differences to make it stand out as its own design.\n\nEach player takes on the role of a famous Shuttle Racer Pilot and they have been drawn to a deadly event put on by a mega-rich entrepreneur that has recently bought the Ujitos system.\n\nThe aim of Asteroyds is to navigate the highly dangerous asteroid field and pass through four gates. What sets the game apart from other games of this design is that almost everything in the race zone can move position, so the players need to plan with that in mind.\n\nSo each round begins with the rolling of three dice; red, white and blue. These relate to coloured asteroids of the matching colour and each rock has a set of numbers from 1-6 printed on them. This gives every pilot the information they need to know where each object will most likely move to (the value rolled for each dice determines which direction the object moves in) using the hex based board.\n\nThe trick is that some objects move a differing number of spaces and objects react differently when collisions occur, thus a player's best laid plans may not pan out due to mistakes.\n\nMistakes introduces the other unique aspect of Asteroyds. The players only get a given amount of time to work out their best flight path and then plan their moves on their planning board. A minute is recommended and 30 seconds for experts. This real-time tension in the planning is tense and helps the game to stick to a good play length.\n\nAsteroyds also offers advanced rules such as shooting, special pilot powers and also varied play modes such as; Shooting, Targets and drones. Some of these allow for team play.\n\n",
+    "image": "https://cf.geekdo-images.com/0L5bVbHjw9fjWvRLFmv34g__original/img/YTlc2FcOFW_zldssDfYjcMGpDCg=/0x0/filters:format(jpeg)/pic744492.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0L5bVbHjw9fjWvRLFmv34g__small/img/WXX9EXhBgWgTEuN8x3u65qaGvD0=/fit-in/200x150/filters:strip_icc()/pic744492.jpg",
+    "link": "https://boardgamegeek.com/thing/65200",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2010",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      6
+    ],
+    "averageRating": "6.32934",
+    "averageWeight": "2.1463",
+    "boardGameRank": "4851",
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Player Elimination",
+      "Programmed Movement",
+      "Race",
+      "Real-Time",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Real-time",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Guillaume Blossier",
+      "Frédéric Henry"
+    ]
+  }
+}

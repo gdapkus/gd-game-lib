@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:12:11.761Z",
+  "gameDetails": {
+    "id": "321774",
+    "name": "Marvel United: Tales of Asgard – Kickstarter Edition",
+    "type": "boardgameexpansion",
+    "description": "Kickstarter exclusive version of Marvel United: Tales of Asgard expansion that includes an extra Kickstarter Exclusive bonus Hero to round off the team, Thor&rsquo;s brother-in-arms: Beta Ray Bill, including his character piece and deck of 12 Hero cards!\n\n",
+    "image": "https://cf.geekdo-images.com/7dHUreE59XCj981pF7V4mg__original/img/R-4m4KCvSOoWEhPafipyNdFuB80=/0x0/filters:format(jpeg)/pic5948458.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7dHUreE59XCj981pF7V4mg__small/img/L5wIqkeSF3_QtOSsXhh6Hb_kS_4=/fit-in/200x150/filters:strip_icc()/pic5948458.jpg",
+    "link": "https://boardgamegeek.com/thing/321774",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.1043",
+    "averageWeight": "2.4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Programmed Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": []
+  }
+}

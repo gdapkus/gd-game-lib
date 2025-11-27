@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T19:33:20.616Z",
+  "gameDetails": {
+    "id": "6523",
+    "name": "Box Office",
+    "type": "boardgame",
+    "description": "From the back of the box:\n\nBox Office is the game you've been playing all your life.  Everyone has a favorite movie line, and Box Office has over 2,400 of the best movie quotes of all time!  You won't need to know them all to win!  Some of the lines have \"clues\" in them and some are so famous you'll know them right away.\n\nPlaying Box Office couldn't be easier.  Hear a movie line and just guess the movie title.  Watch out though!  You may land on Flop squares or Impersonate Hollywood's most famous stars on your way to fame and fortune.\n\nContents:\n1 playing board, 1 die, 50 Flop cards, 40 Impersonation cards, 450 Quote cards, 5 player pieces, 25 Nomination Chips, 1 set of directions and 1 card box\n\n",
+    "image": "https://cf.geekdo-images.com/WtIH7KcoWeVyP85O4Q7Q5A__original/img/LPq1IfBXuW5LScZzxNObmtLn9wg=/0x0/filters:format(jpeg)/pic873062.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WtIH7KcoWeVyP85O4Q7Q5A__small/img/nSM0JpjXUK0hhibPafmFbvy7gfE=/fit-in/200x150/filters:strip_icc()/pic873062.jpg",
+    "link": "https://boardgamegeek.com/thing/6523",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "1990",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "5.375",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Acting"
+    ],
+    "categories": [
+      "Movies / TV / Radio theme",
+      "Trivia"
+    ],
+    "designers": [
+      "Judy O'Neill"
+    ]
+  }
+}

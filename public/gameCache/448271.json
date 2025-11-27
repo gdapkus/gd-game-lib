@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:11:34.361Z",
+  "gameDetails": {
+    "id": "448271",
+    "name": "The Lord of the Rings: The Two Towers – Trick-Taking Game",
+    "type": "boardgame",
+    "description": "The journey continues in the magical world of Middle-earth in The Two Towers: Trick-Taking Game, a narrative-driven co-operative card game that lets players take on the roles of heroes and villains in Tolkien's legendary work, The Two Towers. This standalone game follows 2025's The Fellowship of the Ring: Trick-Taking Game with chapters 19-36 of gameplay. The chapters can be played in any order and playing the earlier game isn't required, but ideally you play them in sequence.\n\nIn each chapter, each player takes a different character role and each character has a condition that must be met in order to pass the chapter and advance in the story. As you advance through the chapters, new characters, items, and challenges are introduced to the game. The One Ring is the game's only trump card, but initially rings can't be led until someone plays one off-suit.\n\nIn the two-player game, one hand of cards is dealt to a dummy player, with some cards being face up and others face down. This dummy is assigned a character, and one of the human players will play cards for it based on which cards are free to be played.\n\nIn the solitaire game, one player plays four hands of face-up cards, with each hand being assigned a character and only a few cards being available at a time. After you play a trick, deal each hand a new card.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/TSwHNId9CUCq-bxAGmNJiQ__original/img/-jjctggzIIg_tEI2ZjYCxnIN9aA=/0x0/filters:format(png)/pic9044877.png",
+    "thumbnail": "https://cf.geekdo-images.com/TSwHNId9CUCq-bxAGmNJiQ__small/img/uE1O2NY7E58aOF6w6000g_ZL1aA=/fit-in/200x150/filters:strip_icc()/pic9044877.png",
+    "link": "https://boardgamegeek.com/thing/448271",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "7.68226",
+    "averageWeight": "2",
+    "boardGameRank": "16823",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Scenario / Mission / Campaign Game",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Fantasy",
+      "Novel-based"
+    ],
+    "designers": [
+      "Bryan Bornmueller"
+    ]
+  }
+}

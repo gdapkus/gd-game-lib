@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:38:35.212Z",
+  "gameDetails": {
+    "id": "24376",
+    "name": "Trivial Pursuit: Totally 80s Edition",
+    "type": "boardgame",
+    "description": "From publisher Parker Brothers: Rewind the decade of yuppies, big hair and break dancing! This edition of the popular trivia game has cool retro packaging and 2400 trivia questions in six categories to take you back to the colorful 80s! Includes 4 collectible tokens based on 80s icons. For 2-4 players or teams.\n\nCategories in this edition are headlines, television, movies, music, sports & leisure, and wild card.\n\n",
+    "image": "https://cf.geekdo-images.com/xzh3hXsDrACIAJju6jBkng__original/img/OqQdlvuLiPMtLHzVX4xpFRf8F1o=/0x0/filters:format(jpeg)/pic159009.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xzh3hXsDrACIAJju6jBkng__small/img/GmkEHXsaIRnM1O4FowW-RwlDAhc=/fit-in/200x150/filters:strip_icc()/pic159009.jpg",
+    "link": "https://boardgamegeek.com/thing/24376",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "5.19462",
+    "averageWeight": "1.5625",
+    "boardGameRank": "29030",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Party Game",
+      "Trivia"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

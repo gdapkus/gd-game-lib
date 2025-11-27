@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:10:49.056Z",
+  "gameDetails": {
+    "id": "422126",
+    "name": "Intarsia",
+    "type": "boardgame",
+    "description": "For countless years, the Caf&eacute; de Paris has offered moments of carefree relaxation and a wonderful opportunity to pause and breathe amid a bustling city. Unfortunately, the caf&eacute; must close for emergency renovation to ensure that it continues to attract numerous guests.\n\nIn Intarsia, players compete for the contract for the coveted redesign work on the parquet, embellishing it with stylish intarsias. To win the contract, players have to prove their skills by refining the floor with stylish inlays and outdoing their competitors with new tools.\n\nEach floor ornament can consist of one to four filigree wooden elements that are puzzled together from the outside inwards. The more pieces the ornament consists of, the more victory points it scores! During the building phase, wooden elements can be paid for with material cards and built according to the building rules. Whoever fulfills the requirement for a tool receives the tile that scores points. Only the person with the best building skills can secure the contract and give the caf&eacute; a new lease of life!\n\nThe B-side of the floor plan offers variation for this clever and high-quality placement game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/LmiHvBrtsTc8GK-Yd5ekSQ__original/img/bcIxZdA-3GydhyMBxdsMAAdz2NQ=/0x0/filters:format(jpeg)/pic8287936.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LmiHvBrtsTc8GK-Yd5ekSQ__small/img/lP1hhk8cXJhUEirhu8xP_plUdIQ=/fit-in/200x150/filters:strip_icc()/pic8287936.jpg",
+    "link": "https://boardgamegeek.com/thing/422126",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.09857",
+    "averageWeight": "2.1034",
+    "boardGameRank": "3029",
+    "mechanics": [
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Puzzle"
+    ],
+    "designers": [
+      "Michael Kiesling"
+    ]
+  }
+}

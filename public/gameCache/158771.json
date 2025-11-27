@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:02:21.905Z",
+  "gameDetails": {
+    "id": "158771",
+    "name": "Hogger Logger",
+    "type": "boardgame",
+    "description": "As the \"guesser\", you must guess whether the next number card is higher or lower, or in the world of lumberjacking pigs, \"Hogger\" or \"Logger.\" Use the cards in your hand to help yourself guess correctly. But watch out for your opponents who can also play cards and steal cards to change your odds. The tricky part is that only one player can be the guesser, and each time there's an incorrect guess, the guesser rotates one spot to the left. You win the round by being the player to guess the last card correctly, so you must know when to swine-and-dine your opponents or when to cut down them down at the most opportune time. Make your guess, knock on wood, and go hog wild in this exciting game of highs and lows.\n\n",
+    "image": "https://cf.geekdo-images.com/ehF7q6bNeemVoB4H6YeOww__original/img/XUHbDzyyL4nWxDfX5Bb7pLFU5mc=/0x0/filters:format(png)/pic2069417.png",
+    "thumbnail": "https://cf.geekdo-images.com/ehF7q6bNeemVoB4H6YeOww__small/img/0goyrrwFWmUT04nDMjvV2xVjTWo=/fit-in/200x150/filters:strip_icc()/pic2069417.png",
+    "link": "https://boardgamegeek.com/thing/158771",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2015",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "5.37031",
+    "averageWeight": "1.25",
+    "boardGameRank": "26600",
+    "mechanics": [
+      "Simultaneous Action Selection",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Number"
+    ],
+    "designers": [
+      "Shawn Duenas",
+      "Ryan Shapiro",
+      "Charlie Winkler"
+    ]
+  }
+}

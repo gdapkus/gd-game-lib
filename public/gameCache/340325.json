@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:38:44.339Z",
+  "gameDetails": {
+    "id": "340325",
+    "name": "Vagrantsong",
+    "type": "boardgame",
+    "description": "You trainhop aboard the Silver Ferryman, chasin&rsquo; a dream or runnin&rsquo; from the past. What you find is a welcomin&rsquo; hand - white glove, stretched skin&hellip; and a fiddle player in the distance, playin&rsquo; a tune that&rsquo;s awfully inviting. Makes you never wanna leave.\n\nIn Vagrantsong, a cooperative and story-driven boss battler, you will take on the role of a Vagrant trapped on a supernatural ghost train. Face off against ghosts lingering on the train (called Haints), adjust your playstyle with Skills and Junk acquired along the way, and uncover the secrets of the Silver Ferryman in this spooky and challenging adventure.\n\nIn each of the 20+ Scenarios in Vagrantsong&rsquo;s campaign, players will take turns spending their 3 Coins to take actions, such as: moving around the train board, investigating the unknown, and rummaging for items that might help them get out of a tight spot. Additionally, players can spend their Coins on more exclusive actions to remind a Haint of their lost Humanity, all in the hopes of freeing the spirit from the ghost train&rsquo;s bone-chilling grip, and winning the Scenario in the process. But be careful! Each Haint has their own bag of tricks and gameplay mechanics. They will stop at nothing to make sure that the players lose all of their Humanity and stay aboard forever.\n\nAfter each Scenario, players will have a moment to rest, allowing them the opportunity to change out their Skill and Junk cards, heal their Vagrant, and prepare for their next encounter aboard the Silver Ferryman.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/ZCyi6vHQz8SQtCq-OFHofg__original/img/WLJlth_yBWMlsow2qwYv5q8VfxA=/0x0/filters:format(jpeg)/pic6221727.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZCyi6vHQz8SQtCq-OFHofg__small/img/EczrxMUk7kzCSHaqv1luzMsFbMw=/fit-in/200x150/filters:strip_icc()/pic6221727.jpg",
+    "link": "https://boardgamegeek.com/thing/340325",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.45887",
+    "averageWeight": "3.1881",
+    "boardGameRank": "1316",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Events",
+      "Grid Movement",
+      "Narrative Choice / Paragraph",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Storytelling",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Horror",
+      "Trains"
+    ],
+    "designers": [
+      "Matt Carter",
+      "Justin Gibbs",
+      "Kyle Rowan"
+    ]
+  }
+}

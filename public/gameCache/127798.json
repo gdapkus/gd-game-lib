@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:53:04.139Z",
+  "gameDetails": {
+    "id": "127798",
+    "name": "Express 01",
+    "type": "boardgame",
+    "description": "Game description from the publisher:\n\nIn front of you lies the untouched soil of Germany. No track is cutting through its plains, no station is telling of the great industrial progress &ndash; but you are about to change that.\n\nIn Express 01, you can invest in the construction and upgrading of railway lines and build stations for different companies. When you upgrade such a station, you may reassign it to another company. Your main focus is the acquisition of shares, and as soon as shares are issued, trains can run on behalf of the companies. This way money will be distributed to the shareholders and you get new capital. So keep an eye on the other players to earn money or obstruct their opportunities.\n\nThe game ends after the round in which a certain number of Base Cards is upgraded or a certain number of decks are used up. The player who managed to gain the most capital wins.\n\n",
+    "image": "https://cf.geekdo-images.com/eFO3gj4As9aicJ3vjNBU6g__original/img/wLJwn3rLO-QHO141PDjwNZ1vXNM=/0x0/filters:format(jpeg)/pic1418295.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eFO3gj4As9aicJ3vjNBU6g__small/img/u9xbxN8WqRQnLpBDKAE9PNHs9WA=/fit-in/200x150/filters:strip_icc()/pic1418295.jpg",
+    "link": "https://boardgamegeek.com/thing/127798",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "4.92857",
+    "averageWeight": "2.9048",
+    "boardGameRank": "28841",
+    "mechanics": [
+      "Hand Management",
+      "Network and Route Building",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Jörg von Rüden"
+    ]
+  }
+}

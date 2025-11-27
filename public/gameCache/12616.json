@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:05:41.360Z",
+  "gameDetails": {
+    "id": "12616",
+    "name": "Zingo!",
+    "type": "boardgame",
+    "description": "Objective Be the first to cover all the spaces on their Zingo card with matching tiles. Each Zingo card is double sided: Green is easy and Red is more challenging.\n\nThe Zingo holder dispenses two tiles. These tiles have various pictures on them such as: apples, a ball, fish, star, house, kite, tree, smile, train, cake, clock, etc. When player sees a tile that matches one on his or her Zingo card they take the tile and cover up the corresponding spaces on his/her Zingo card. Unclaimed tiles are placed back into the Zingo tile holder. If two players call the same tile, it goes to whoever called it first. The first player to cover all 9 spaces on their card shouts ZINGO and wins the game.\n\nThe game also comes with two variants: Mini-Zingo where the first player to match three images in a row up or down is the winner, and Zany Zingo where you select a pattern to match on your card. The first to match it wins.\n\n",
+    "image": "https://cf.geekdo-images.com/T_b9KBR-89HCZyBtwi8n4Q__original/img/__0B_coO5GFlgjZ9mvo_4ohqTtI=/0x0/filters:format(jpeg)/pic2047477.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/T_b9KBR-89HCZyBtwi8n4Q__small/img/miiKOI5WjjRWfjUS76kELdGozOg=/fit-in/200x150/filters:strip_icc()/pic2047477.jpg",
+    "link": "https://boardgamegeek.com/thing/12616",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2002",
+    "playingTime": "5",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "5",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "5.40551",
+    "averageWeight": "1.0294",
+    "boardGameRank": "28966",
+    "mechanics": [
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Children's Game",
+      "Educational"
+    ],
+    "designers": [
+      "Theora Design"
+    ]
+  }
+}

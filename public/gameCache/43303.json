@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:53:35.469Z",
+  "gameDetails": {
+    "id": "43303",
+    "name": "Formula D: Circuits 2 – Hockenheim and Valencia",
+    "type": "boardgameexpansion",
+    "description": "Expansion Tracks for Formula D:\n\n1. Hockenheim, Germany\n2. Valencia, Spain\n\nDiscover the splendid circuit of Hockenheim surrounded by forests and the urban circuit of Valence, close cousin of the circuit of Monaco.\n\nGravitational and modern, the German circuit of Hockenheim was rebuilt with many recoveries before acquiring its single layout supporting the goings beyond. Hockenheim is without question the circuit of the races with large spectacle!\n\nExtending on more than five kilometers, the urban circuit of Valence in Spain is for its part equipped with an exceptional track curving through the ports and the infrastructures of the America's Cup race.\n\n",
+    "image": "https://cf.geekdo-images.com/cZPi_1R5bJ4demXY3zWC_g__original/img/2CNInA42ctAq5zQQGOie1fdrIbc=/0x0/filters:format(jpeg)/pic493697.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/cZPi_1R5bJ4demXY3zWC_g__small/img/Ri6OJQr-H9y1bQszU_NvAWbe6R0=/fit-in/200x150/filters:strip_icc()/pic493697.jpg",
+    "link": "https://boardgamegeek.com/thing/43303",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "2009",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      10
+    ],
+    "averageRating": "7.55603",
+    "averageWeight": "1.875",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Laurent Lavaur",
+      "Eric Randall"
+    ]
+  }
+}

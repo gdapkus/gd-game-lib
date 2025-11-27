@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:57:33.866Z",
+  "gameDetails": {
+    "id": "44",
+    "name": "David & Goliath",
+    "type": "boardgame",
+    "description": "This game adds a very interesting twist to the standard trick-taking genre.  There are five suits and players must follow suit, if they can.  However, the winner of the trick is the highest card played, regardless of suit.  The winner gets all the cards from the trick, minus the card he won it with.  That card is given to the player that played the lowest card.  After all tricks have been played, the scoring begins.  Players score the face-value of the cards in the suits that they only collected one or two of, and one point per card for suits with more than two.  The player with the most points after a number of hands wins the game.\n\n",
+    "image": "https://cf.geekdo-images.com/XTkkx0j13h77fnCG7mYI3A__original/img/a08G83lXvnLaMCgSA9cExpDTvII=/0x0/filters:format(jpeg)/pic359902.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XTkkx0j13h77fnCG7mYI3A__small/img/XCpA1Xdr0NDRTZ9dt1ZnXFQzR3o=/fit-in/200x150/filters:strip_icc()/pic359902.jpg",
+    "link": "https://boardgamegeek.com/thing/44",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "1997",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.49456",
+    "averageWeight": "1.623",
+    "boardGameRank": "3533",
+    "mechanics": [
+      "Trick-taking"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Children's Game",
+      "Religious"
+    ],
+    "designers": [
+      "Reinhard Staupe"
+    ]
+  }
+}

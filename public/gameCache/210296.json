@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T19:57:36.410Z",
+  "gameDetails": {
+    "id": "210296",
+    "name": "DinoGenics",
+    "type": "boardgame",
+    "description": "DinoGenics is a competitive game for two to five players, in which each player attempts to build and run their own successful dinosaur park.\n\nEach player is the head of their own corporation with access to their own private island resort.  Each season, players assign agents to the mainland to compete over DNA and other limited resources.  Once collected, players can build fences, various park facilities and populate their parks with dinosaurs.  Parks with the most prestigious dinosaurs will attract the most visitors.  But beware; if dinosaurs are neglected or improperly penned, they will attempt to escape and spread havoc through the entire park.\n\nUse all the tools at your disposal; DNA splice mutant dinosaurs, exploit the Black Market or just try to run an honest park, the choices are yours.\n\nDo you have what it takes to lead your corporation to victory?\n\n",
+    "image": "https://cf.geekdo-images.com/BukgjRWfkGfdLYGkLXExSw__original/img/QuSfGw28p46cQTtnW4C1bcEE98E=/0x0/filters:format(jpeg)/pic4524562.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BukgjRWfkGfdLYGkLXExSw__small/img/6m_qe2xeTZ4LeBzUIQB4qBlPf8A=/fit-in/200x150/filters:strip_icc()/pic4524562.jpg",
+    "link": "https://boardgamegeek.com/thing/210296",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2019",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.56131",
+    "averageWeight": "2.9222",
+    "boardGameRank": "1026",
+    "mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Hand Management",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Turn Order: Stat-Based",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "designers": [
+      "Richard Keene"
+    ]
+  }
+}

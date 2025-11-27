@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:23:44.416Z",
+  "gameDetails": {
+    "id": "357563",
+    "name": "Akropolis",
+    "type": "boardgame",
+    "description": "The most talented architects in ancient Greece stand ready to achieve this goal. Build housing, temples, markets, gardens and barracks, so you can grow your city and ensure it triumphs over the others. Raise its prestige with harmonious planning that conforms to specific rules, and enhance it by building plazas.\n\nStone is an essential resource, so make sure you do not neglect it. You&rsquo;ll need enough quarries so you can build higher up, making your city stretch towards the sky.\n\n\n     Choose a tile from the construction site\n     Arrange it in your city to unlock each district's full potential\n     Build on higher levels, increase the value of your districts and win the game\n\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__original/img/GpSyHl2wwgLJ6JHJAjPbEQk4MNU=/0x0/filters:format(jpeg)/pic6705097.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__small/img/ELFjkv8JJACHRQHQf6b9hzJziaw=/fit-in/200x150/filters:strip_icc()/pic6705097.jpg",
+    "link": "https://boardgamegeek.com/thing/357563",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.45167",
+    "averageWeight": "1.8053",
+    "boardGameRank": "451",
+    "mechanics": [
+      "Auction: Dutch",
+      "End Game Bonuses",
+      "Layering",
+      "Open Drafting",
+      "Pattern Building",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Turn Order: Progressive"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Ancient",
+      "City Building",
+      "Territory Building"
+    ],
+    "designers": [
+      "Jules Messaud"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T19:31:35.296Z",
+  "gameDetails": {
+    "id": "347757",
+    "name": "Borderlands: Mister Torgue's Arena of Badassery",
+    "type": "boardgame",
+    "description": "Borderlands: Mister Torgue's Arena of Badassery! is a co-operative combat-action board game.\n\nYou and a team of Vault Hunters enter Mister Torgue's Arena of Badassery to face off against his collection of skags, bandits, and assorted psychos. You can play a one-off battle filled with explosions, slaughter-splosions, sauce-plosions, and loot-splosions!!! Or play a series of deadly fights in campaign-mode that will see your Vault Hunter level up between games. Visit vending machines to buy better gear, advance your character using unique skill trees, equip epic new guns, and enter the next game even more BADASS than before!!! Just make sure you're tough enough to take on the final boss, an Ultimate Murder-Machine, hellbent on sending you back to the borderlands as moist and meaty skag-snacks.\n\nBorderlands is a cooperative, campaign based game, where players must defeat the hordes of bandits, skags, and other challenges Mr. Torgue throws at you to prove you are Ultimate Badasses. You are Vault Hunters who have stumbled into Torgue&rsquo;s Tournament, a violent gladiator pit. You can play this game as a one-off or as a series of scenarios that link together to form a campaign. After each scenario, you will be able to visit the vending machine, mod your character, and enter the next scenario even more badass than before. During the last scenario in the campaign, you will fight a boss. Survive and you win!\n\n",
+    "image": "https://cf.geekdo-images.com/69z0Y5kdnGd_zb2sKQKNYQ__original/img/hyoNWGW1TbESQtSRv9PSErRlC6k=/0x0/filters:format(png)/pic6471146.png",
+    "thumbnail": "https://cf.geekdo-images.com/69z0Y5kdnGd_zb2sKQKNYQ__small/img/G6TigOx295p0JET40Jx650ieg58=/fit-in/200x150/filters:strip_icc()/pic6471146.png",
+    "link": "https://boardgamegeek.com/thing/347757",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.49806",
+    "averageWeight": "3.05",
+    "boardGameRank": "6622",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Events",
+      "Grid Movement",
+      "Modular Board",
+      "Multiple Maps",
+      "Scenario / Mission / Campaign Game",
+      "Semi-Cooperative Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Fighting",
+      "Miniatures",
+      "Science Fiction",
+      "Video Game Theme"
+    ],
+    "designers": [
+      "John Cadice",
+      "John Kovaleski"
+    ]
+  }
+}

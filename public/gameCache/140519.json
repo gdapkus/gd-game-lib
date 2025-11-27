@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:07:45.008Z",
+  "gameDetails": {
+    "id": "140519",
+    "name": "Myth",
+    "type": "boardgame",
+    "description": "Myth is a fully co-operative fantasy game. Players take on the role of one of 5 different heroes working together to defeat the Darkness. Each hero has a different skill set which represented by a unique deck of cards. Players spend Action Points by using cards. Once a certain amount of Action Points have been spent the Darkness fights back by activating monster lairs, spawning monster captains and eventually the Boss.\n\nA complete game in Myth is called a Story. Each Story is played over three Acts. Acts can be played sequentially, or can be split up over three different game sessions.\n\nPlayers' avatars within a Story are called Heroes. Myth Heroes are clothed in immense power, able to reave all but the mightiest foes. However, this power must be balanced lest the Darkness take too much notice. Players must weigh their actions against the Threat each will bring, with the consequences of awakening more evil and bringing doom on the party's endeavors. And be careful they must, as the Darkness is formidable and eager to snatch glory from the valiant.\n\nHeroes are controlled through an intuitive Hero Deck (videos for each Hero can be found in the Game Play Videos section below). Each deck plays uniquely and allows players more freedom of action and the ability to truly impact the Story each and every Act. Yet, cooperation is the key to victory and bloody fortune. Players must communicate, interact, and assist each other or surely the Darkness will cover all.\n\nMyth is a fully cooperative game. There is no player controlling the Darkness. The Darkness is governed by a set of rules unique to each Boss Deck and is activated through Hero actions. If the Heroes get overzealous, then the Darkness pushes back by activating Lairs, spawning Captains, and punishing the Heroes with devious Events. If the Heroes take a more subtle approach, then the Darkness reacts by reducing the potential for treasure and rewards. Without the treasures and equipment to upgrade, the Heroes will find each Act more difficult and eventually fail. The dynamic nature of the Darkness really lends a more fluid feel to the Story. Players aren't being driven by properties out of their control, nor are they being shepherded by a person whose skill has a direct impact on the enjoyment of the game.\n\nMyth is a fun fantasy romp where players feel truly heroic. In the playing of the game, the players are creating their own mythos. These stories are the ones carried away from the table, becoming myths themselves. And these are the myths, with friends and family, that we carry with us; telling and retelling our endeavors at the mead benches, earning treasured smiles and laughter.\n\n",
+    "image": "https://cf.geekdo-images.com/-GHaejCSEWT_98OMpQS-Sw__original/img/9uEJbs0de7x_3cTCmJWpuY9sOdA=/0x0/filters:format(jpeg)/pic1721040.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-GHaejCSEWT_98OMpQS-Sw__small/img/8LjlxqNJ-oVFNvv8pzbtrB27paQ=/fit-in/200x150/filters:strip_icc()/pic1721040.jpg",
+    "link": "https://boardgamegeek.com/thing/140519",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2014",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.5053",
+    "averageWeight": "3.8456",
+    "boardGameRank": "4233",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "designers": [
+      "Brian Shotton",
+      "Kenny Sims"
+    ]
+  }
+}

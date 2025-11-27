@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T19:31:34.886Z",
+  "gameDetails": {
+    "id": "341206",
+    "name": "Bonfire: Trees & Creatures",
+    "type": "boardgameexpansion",
+    "description": "On Asperia, every day is unique and brings surprising events that constantly change the life and work of the gnomefolk. Now ancient trees have been reinvigorated by the guardians, while the gnomes seek the help of mysterious and mighty creatures.\n\nIn Bonfire: Trees & Creatures, the story continues, with players being able to expand the base game with three modules that can be combined with one another, in addition to being able to add a fifth player. Players can expand their city by acquiring and placing tree tiles above their path tiles, unlocking useful bonuses and new ways to score at the end of the game. At the beginning of the game, each player drafts a creature card with a unique ability. Every time the player who began the game places a new fate tile, a new event card that changes a certain rule is drawn and affects all players.\n\n",
+    "image": "https://cf.geekdo-images.com/BChxj8b-_gJxrN3gMppUVg__original/img/GWdhtKIg3u60uD8k31F5zJT0_Ko=/0x0/filters:format(jpeg)/pic6246399.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BChxj8b-_gJxrN3gMppUVg__small/img/mJmVBGaFP-pdpPLjGcCa-ZJtixA=/fit-in/200x150/filters:strip_icc()/pic6246399.jpg",
+    "link": "https://boardgamegeek.com/thing/341206",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2021",
+    "playingTime": "130",
+    "minPlayingTime": "70",
+    "maxPlayingTime": "130",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.91516",
+    "averageWeight": "3.6667",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Market",
+      "Point to Point Movement",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy",
+      "Puzzle"
+    ],
+    "designers": [
+      "Stefan Feld",
+      "Tim Schleimer"
+    ]
+  }
+}

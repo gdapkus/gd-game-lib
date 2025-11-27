@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:55:17.445Z",
+  "gameDetails": {
+    "id": "19623",
+    "name": "Handy",
+    "type": "boardgame",
+    "description": "The Amazing Five Finger Frenzy!\n\nCome one, come all to see the amazing Handy game! With your teammates, hold balls between your fingers while more and more balls are added to the \"hand tree.\" Can you hold steady long enough to win? Don't drop the balls -- and win\n\n",
+    "image": "https://cf.geekdo-images.com/NjRNq4fZFbaixjJ6dsxRyg__original/img/_tuSlvPYLGlhTH4jKcGmnC0ZbQ0=/0x0/filters:format(jpeg)/pic441781.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NjRNq4fZFbaixjJ6dsxRyg__small/img/7zrs2pZIJFVEaPhNJUDhW0L29uQ=/fit-in/200x150/filters:strip_icc()/pic441781.jpg",
+    "link": "https://boardgamegeek.com/thing/19623",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2005",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "5.752",
+    "averageWeight": "1",
+    "boardGameRank": "21628",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "Chris Handy (I)"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:12:26.993Z",
+  "gameDetails": {
+    "id": "339183",
+    "name": "Marvel United: X-Men – Old Man Logan",
+    "type": "boardgameexpansion",
+    "description": "Kickstarter Exclusive miniature only available with Uncanny Pledge but is packaged in its own box.\n\nAn additional hero.\n\nContents:\nOld Man Logan Miniature\n12 Cards\n\n",
+    "image": "https://cf.geekdo-images.com/foHaaASQr4CiDfBnCuRiSA__original/img/xFwHNWUwkyA9DBSBFawsrssv6yM=/0x0/filters:format(jpeg)/pic7280901.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/foHaaASQr4CiDfBnCuRiSA__small/img/9ajKegcpNdjiyK5yOVM6bVXPgVk=/fit-in/200x150/filters:strip_icc()/pic7280901.jpg",
+    "link": "https://boardgamegeek.com/thing/339183",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": null,
+    "averageRating": "8.34134",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

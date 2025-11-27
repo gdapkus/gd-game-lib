@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:59:46.750Z",
+  "gameDetails": {
+    "id": "90870",
+    "name": "Pelican Cove",
+    "type": "boardgame",
+    "description": "We're in Australia, a land of myth and magic, and every night at sundown eight dreambirds gather around the holy rock Uluru. To make the magic work to its fullest, they all wish to land in specific locations to fulfill specific conditions.\n\nUnfortunately, they haven't coordinated their wishes among the flock, so it's up to the players to sort out the puzzle so that as many dreambirds as possible have their wish granted. Oh, and you better do it quickly because the sandtimer is running towards sundown.\n\nIn Uluru: Tumult am Ayers Rock, players must solve these dreambird puzzles individually and simultaneously, then review their results together. Each unfulfilled wish results in a penalty point for a player. Play proceeds over several sundowns, and the winner is the player who in the end has received the fewest penalty points.\n\nThe game includes variable difficulty levels so that everyone from children to seasoned gamers can compete together and be challenged.\n\nUluru: Tumult am Ayers Rock can be combined with Uluru: Neuer Tumult am Ayers Rock to add further variants and combinations to the game.\n\n",
+    "image": "https://cf.geekdo-images.com/8gBImORAJgWlAi4av-E7BA__original/img/93csm4J3IvyF7q8Go1CEGXeJOR8=/0x0/filters:format(jpeg)/pic7711832.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8gBImORAJgWlAi4av-E7BA__small/img/-1Qy89SLlSSfZpkBfXn24IXsmKs=/fit-in/200x150/filters:strip_icc()/pic7711832.jpg",
+    "link": "https://boardgamegeek.com/thing/90870",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.73825",
+    "averageWeight": "1.8169",
+    "boardGameRank": "3492",
+    "mechanics": [
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Lauge Luchau"
+    ]
+  }
+}

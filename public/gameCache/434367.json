@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:30:03.341Z",
+  "gameDetails": {
+    "id": "434367",
+    "name": "Nippon: Zaibatsu",
+    "type": "boardgame",
+    "description": "Nippon: Zaibatsu is a new edition of Nippon, a fast-paced, area-majority economic game. Players control \"zaibatsu\": massive conglomerates of interconnected companies driving Japan's economy in the Industrial Revolution era.\n\nDuring the game, players invest in new industries, build factories and railroads, and produce goods to saturate local markets and fulfill contracts &mdash; all to grow their influence and power and to become rulers of the new modernized country. Players are free to choose their playstyle and winning strategy: They choose what they score victory points for, control the game's pace with income turns, and race each other to get the most beneficial factories, markets, and bonuses.\n\nAll the core mechanisms of the original Nippon are present, but the components, art, and design are upgraded, and many gameplay features are reworked to get the game in line with modern trends. Nippon: Zaibatsu features new resource types, ships are heavily revised with new Iwakura mission rules, factories are much more variable, consolidation turns provide players with new rewards, and much more. Also, the game now has an automa-driven solo mode.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/RKDlJKkXPyGgN3esvnCfFw__original/img/tEJrcy6PA0Ig7kNrcFor_Ri8sXc=/0x0/filters:format(png)/pic8583978.png",
+    "thumbnail": "https://cf.geekdo-images.com/RKDlJKkXPyGgN3esvnCfFw__small/img/Gq2akKG-N5H14i-dysGxUwjINVE=/fit-in/200x150/filters:strip_icc()/pic8583978.png",
+    "link": "https://boardgamegeek.com/thing/434367",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.23982",
+    "averageWeight": "3.5",
+    "boardGameRank": "8965",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Contracts",
+      "End Game Bonuses",
+      "Income",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Nuno Bizarro Sentieiro",
+      "Paulo Soledade"
+    ]
+  }
+}

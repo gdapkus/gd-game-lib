@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T20:29:31.535Z",
+  "gameDetails": {
+    "id": "416403",
+    "name": "Mage Knight: The Apocalypse Dragon",
+    "type": "boardgameexpansion",
+    "description": "In Mage Knight: The Apocalypse Dragon, the first major expansion for Mage Knight since 2015, you'll meet a new playable hero: Coral, who wants revenge on the Apocalypse Cult. You'll also find new enemies to fight, including the four horsemen and the fearsome Apocalypse Dragon. You'll explore new tiles with new locations and challenges. This all comes together in a story-driven campaign mode featuring new scenarios and more.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/9QH1XqNNUH3UIoMFhPATyA__original/img/szJMIa4H6D3NWhCwmYgB39BT3go=/0x0/filters:format(jpeg)/pic8078636.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9QH1XqNNUH3UIoMFhPATyA__small/img/Sit_nCyTNX0HPTnHYoswlG_yoHY=/fit-in/200x150/filters:strip_icc()/pic8078636.jpg",
+    "link": "https://boardgamegeek.com/thing/416403",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2026",
+    "playingTime": "150",
+    "minPlayingTime": "150",
+    "maxPlayingTime": "150",
+    "bestAtCount": null,
+    "averageRating": "9.625",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Scenario / Mission / Campaign Game"
+    ],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Phil Pettifer"
+    ]
+  }
+}

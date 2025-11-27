@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:24:43.891Z",
+  "gameDetails": {
+    "id": "2797",
+    "name": "Chez Geek 2: Slack Attack",
+    "type": "boardgameexpansion",
+    "description": "Expansion set for Chez Geek. Provides 55 new cards with new ways to slack or ruin your room mates attempts to slack...\n\nExpands:\n\n    Chez Geek\n\n\nNew Edition\n\n     The Cards from Chez Geek 2: Slack Attack are now incorporated in Chez Geek: House Party edition with the cards from Chez Geek 3: Block Party.\n\n\n",
+    "image": "https://cf.geekdo-images.com/tK6jva9uoSNBYt734t7D4A__original/img/JqlAiqyXLRK0LrIMtOa-G7XHIXE=/0x0/filters:format(jpeg)/pic45214.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tK6jva9uoSNBYt734t7D4A__small/img/o1SgkPsE3nnmEvU1cRXSeHSJFX0=/fit-in/200x150/filters:strip_icc()/pic45214.jpg",
+    "link": "https://boardgamegeek.com/thing/2797",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2000",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.27701",
+    "averageWeight": "1.4458",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Set Collection",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Jon Darbro"
+    ]
+  }
+}

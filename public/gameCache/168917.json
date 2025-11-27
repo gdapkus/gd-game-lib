@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:31:39.693Z",
+  "gameDetails": {
+    "id": "168917",
+    "name": "Smash Up: Pretty Pretty Smash Up",
+    "type": "boardgame",
+    "description": "Think only pirates, time travelers, vampires and bears can smash bases? Well, get ready to be taught a lesson &mdash; in the nicest way possible!\n\nPretty Pretty Smash Up brings the sweetest factions ever to the vicious fight for victory! Kitty Cats use their incredible cuteness to take control of enemy minions. Princesses ply their royalty, beauty and even their love to get their way. Fairies' fickle tricks give you options like never before, while the herds of Mythic Horses work together for dominance. Get ready &mdash; your opponents will never know what hit them!\n\nPretty Pretty Smash Up can be played on its own as a two-player game or combined with other Smash Up titles to allow for up to four players to compete at the same time.\n\nIntegrates with:\n\n\n    Smash Up\n\n\n",
+    "image": "https://cf.geekdo-images.com/qbBlobucRIEbX_PjsrHxKQ__original/img/9zyS6xIQVjEYb1kM6ASKyKkU3Uk=/0x0/filters:format(jpeg)/pic2302759.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qbBlobucRIEbX_PjsrHxKQ__small/img/lcrlUUOClf4XN7sJqbWsur8twwA=/fit-in/200x150/filters:strip_icc()/pic2302759.jpg",
+    "link": "https://boardgamegeek.com/thing/168917",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2015",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.22401",
+    "averageWeight": "2.1224",
+    "boardGameRank": "1260",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Fantasy",
+      "Humor"
+    ],
+    "designers": [
+      "Paul Peterson"
+    ]
+  }
+}

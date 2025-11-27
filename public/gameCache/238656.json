@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:17:37.997Z",
+  "gameDetails": {
+    "id": "238656",
+    "name": "Tiny Epic Defenders (Second Edition)",
+    "type": "boardgame",
+    "description": "Aughmoore is in ruins. The evil could not be contained and its darkness has spread to every region of the world. Shattering villages and infecting all forms of life. There has never been a more dire need for Heroes. Everyone who remains must rise up, must unite, and must risk everything to preserve what little spirit remains.\n\nTiny Epic Defenders is a riveting small-box cooperative game and it's back with an all new edition featuring new art, new abilities, ITEMeeples and new rules making for more exciting gameplay than ever before!\n\nWhat's new:\n\n     Revamped gameplay - Many rule changes, small and large, has taken place to re-balance and enrich the game, including new character powers, new powers for Outer Regions, and completely redesigned Epic Foes, along with many subtle changes to the setup and rules.\n     All new art - Completely redesigned to get in line with the current art direction of Tiny Epic line.\n     ITEMeeples - Items have been redesigned to be permanent additions and this is artistically represented with ITEMeeples, first introduced in Tiny Epic Quest.\n\n\n\nFor a deluxe edition of this game, see Tiny Epic Defenders (Second Edition): Deluxe Edition\n\n",
+    "image": "https://cf.geekdo-images.com/RoK67kIg41wz2iWCJgoSWw__original/img/-w_7Lf54NMepG_pIH02VpEzWabg=/0x0/filters:format(jpeg)/pic3594415.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RoK67kIg41wz2iWCJgoSWw__small/img/VYfsS-5dTSmij7YloY0NW9VVOyc=/fit-in/200x150/filters:strip_icc()/pic3594415.jpg",
+    "link": "https://boardgamegeek.com/thing/238656",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.94056",
+    "averageWeight": "2.0351",
+    "boardGameRank": "2433",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Chit-Pull System",
+      "Cooperative Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Fantasy",
+      "Medieval"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

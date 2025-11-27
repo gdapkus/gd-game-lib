@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:29:47.277Z",
+  "gameDetails": {
+    "id": "31056",
+    "name": "Micro Mutants: Evolution",
+    "type": "boardgame",
+    "description": "This is an updated version of X-Bugs, by the same designers, released by Nexus and distributed by Fantasy Flight Games in the USA.  Redesigned from the ground up, the core game mechanic remains the same, but all armies have been tweaked and modified along a structure that makes use of cards describing abilities and upgrades, cardboard bases and resources, measuring rulers for some special abilities, and large cardboard tiles representing special terrain.  The game now also includes a playmat.\n\nThe game is based on the classic Tiddlywinks.  The set includes four armies, each with three bases and a distinct assortment of bugs.  The bugs are plastic winks in three different shapes and sizes.  Two six-sided dice determine which bugs you may move on a turn.  Enemy bugs and bases are defeated by landing your bugs on top of them.  All bugs also feature special abilities, such as allowing multiple moves or firing projectile winks.\n\n",
+    "image": "https://cf.geekdo-images.com/RcSoj9_Iw-LXyLiVSHGvDA__original/img/_0o6milxCqnqJMg3dGN-R0Fw70U=/0x0/filters:format(jpeg)/pic426042.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RcSoj9_Iw-LXyLiVSHGvDA__small/img/UzXNgK_aBtENNqA0aJbIVKof_gA=/fit-in/200x150/filters:strip_icc()/pic426042.jpg",
+    "link": "https://boardgamegeek.com/thing/31056",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "6.5848",
+    "averageWeight": "1.4337",
+    "boardGameRank": "4653",
+    "mechanics": [
+      "Dice Rolling",
+      "Player Elimination",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Animals",
+      "Children's Game",
+      "Fighting"
+    ],
+    "designers": [
+      "Marco Maggi",
+      "Francesco Nepitello"
+    ]
+  }
+}

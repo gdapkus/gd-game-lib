@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T19:33:25.756Z",
+  "gameDetails": {
+    "id": "170223",
+    "name": "Centauri Saga",
+    "type": "boardgame",
+    "description": "Jump successful, Captain!\n\nYou breathe again with relief: your armada is one of the first to safely cross the Jumpgate to a hostile alien system! Everywhere around you sensors pick up extreme radiation levels, weird energy fluctuations, a madly gyrating asteroid field and solar winds like you've never seen before in any quadrant. The alarm sounds as alien ships dart out of the asteroid field. Your Stormcrows move in unison to repel the attackers while the rail guns of your Star Destroyers rain death upon them! You defeat the Raiders this time, but they will be back...\n\nCentauri Saga is a Sci-fi/4X co-operative board game for 1 to 4 players, supporting both Co-Operational and PvP mode. Players begin with a mission that defines the setting and their goals and then guide their Armada through unexplored sectors (hexagons) of Alpha Centauri. However, players are not alone. They will encounter various Raiders and Bosses representing a hidden alien menace in the Centauri system. Your Saga begins now!\n\n",
+    "image": "https://cf.geekdo-images.com/lBO1j-4SueipWvSeQcrRdQ__original/img/Lfl94Bq6M2h2xqdHTPXv9-seaHk=/0x0/filters:format(jpeg)/pic2689545.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lBO1j-4SueipWvSeQcrRdQ__small/img/bi9e1LGBiazbNTLII01yPMqWUog=/fit-in/200x150/filters:strip_icc()/pic2689545.jpg",
+    "link": "https://boardgamegeek.com/thing/170223",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "6.52379",
+    "averageWeight": "2.9412",
+    "boardGameRank": "8363",
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board"
+    ],
+    "categories": [
+      "Adventure",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Constantine Kevorque"
+    ]
+  }
+}

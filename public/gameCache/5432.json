@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:51:15.222Z",
+  "gameDetails": {
+    "id": "5432",
+    "name": "Chutes and Ladders",
+    "type": "boardgame",
+    "description": "Traditional game from ancient India was brought to the UK in 1892 and first commercially published in the USA by Milton Bradley in 1943 (as Chutes and Ladders).  Players travel along the squares sometimes using ladders, which represent good acts, that allow the player to come closer to nirvana while the snakes were slides into evil.\n\n",
+    "image": "https://cf.geekdo-images.com/5V8_ghnJpj0X93ypXch1mQ__original/img/ihtVV2jzJLVs6NjaLtwnfxnqw9k=/0x0/filters:format(jpeg)/pic8203150.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5V8_ghnJpj0X93ypXch1mQ__small/img/s3nJsf90cI8aO5I5HGswMMOZHHo=/fit-in/200x150/filters:strip_icc()/pic8203150.jpg",
+    "link": "https://boardgamegeek.com/thing/5432",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "-200",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "2.9338",
+    "averageWeight": "1.0708",
+    "boardGameRank": "29603",
+    "mechanics": [
+      "Events",
+      "Race",
+      "Roll / Spin and Move",
+      "Track Movement"
+    ],
+    "categories": [
+      "Animals",
+      "Children's Game",
+      "Movies / TV / Radio theme",
+      "World War II"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

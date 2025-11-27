@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:10:23.364Z",
+  "gameDetails": {
+    "id": "7475",
+    "name": "Hand and Foot",
+    "type": "boardgame",
+    "description": "Hand and Foot is a predominately a North American standard deck playing card game with many variations.  It is a set building game, normally played with four people in two teams.  It typically uses four or five regular poker decks including the jokers.  Each player starts with two piles of eleven cards.  One pile is their hand, the other, their foot.  The players draw two cards a turn, playing some if they choose and then discarding one at the end of each of their turns, except if they want to go out, when they will have to play every card.  Once a player has played all the cards in their hand they will pick up their foot.  Sets are comprised of 7 cards of the same number.  Sets may have wild cards in them, jokers and twos, but then the set is no longer clean, it would then be considered dirty.  A team needs two clean sets and two or three dirty sets to go out.\n\nHand and Foot is also commonly known as clean and dirty.\n\n",
+    "image": "https://cf.geekdo-images.com/8z-9UPlWhFBquV5tsRi2AA__original/img/K2RrAa8P6lppUhSaa_7ePFVfxJY=/0x0/filters:format(jpeg)/pic461778.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8z-9UPlWhFBquV5tsRi2AA__small/img/NwSeu0kmnQEmkLIKGHuvvScrbAY=/fit-in/200x150/filters:strip_icc()/pic461778.jpg",
+    "link": "https://boardgamegeek.com/thing/7475",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1982",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.84091",
+    "averageWeight": "1.8571",
+    "boardGameRank": "13970",
+    "mechanics": [
+      "Set Collection",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T19:33:21.320Z",
+  "gameDetails": {
+    "id": "221086",
+    "name": "British vs Pirates: Volume 1 – Spanish Armada Add-on",
+    "type": "boardgameexpansion",
+    "description": "Full faction add-on that adds the Spanish Armada to the core game of British Vs Pirates.\nOriginally this faction came with 25 Skill Cards, but after reaching a Social Goal the number was increased to 27 Skill Cards.\n\nThis add-on features:\n\n\n     18 D6 dice (purple)\n\n\nShip miniatures (yellow):\n\n\n     2 Sloop\n     1 Fluyt\n     1 Zebec\n     2 Frigate\n     3 Galleon\n\n\nAdditional miniatures (yellow):\n\n\n     1 Fort\n\n\nCards:\n\n\n     27 Skill Cards\n     9 Ship Cards\n     5 Captain Cards\n\n\nTokens:\n\n\n     6 Crew Tokens\n\n\n",
+    "image": "https://cf.geekdo-images.com/a1eATrbuVyZBn3h0BVPSZg__original/img/tFr9ZrzyKSb-8uX_Ddz2nF_XYac=/0x0/filters:format(jpeg)/pic3447476.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/a1eATrbuVyZBn3h0BVPSZg__small/img/q8oXxel-RQA-ocM3nxfrHpddTfk=/fit-in/200x150/filters:strip_icc()/pic3447476.jpg",
+    "link": "https://boardgamegeek.com/thing/221086",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "7.40957",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Modular Board"
+    ],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Apollo Randall"
+    ]
+  }
+}

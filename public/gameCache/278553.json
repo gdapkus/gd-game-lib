@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:15:50.806Z",
+  "gameDetails": {
+    "id": "278553",
+    "name": "Silver",
+    "type": "boardgame",
+    "description": "Your village has been overrun by savage werewolves, which are represented by the number on each of the cards that make up your village. To get rid of these fanged fiends faster than the neighboring villages, use your residents' special abilities and your powerful secret weapon: a silver amulet.\n\nCall for a vote when you think you have the fewest werewolves, but be careful; everyone else gets one more turn to save their own village first...\n\nSilver is a fast and engaging traditional card game with a werewolf twist! Everyone starts the game with five face-down cards, with everyone being able to see two cards of their choice. Cards are numbered 0-13, with the number showing how many werewolves the character on that card attracts, and each character (number) has a different special power.\n\nOn a turn, you draw the top card of the deck or discard pile, then either discard it to use the power of the card (but only if it came from the deck), discard it without using the power (ditto), or replace one or more of your face-down cards with this card; you can replace multiple cards only if they bear the same number, and you must reveal the cards to prove this, being penalized if you're wrong.\n\nSilver can be played as a standalone game or combined with Silver Bullet or other Silver decks. Each version of the game has different card abilities.\n\n",
+    "image": "https://cf.geekdo-images.com/e7ii83ya4tVD-4f1E-Alpg__original/img/Rse9-NttkulEmnV-k4cGp9WWAyM=/0x0/filters:format(jpeg)/pic4741826.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/e7ii83ya4tVD-4f1E-Alpg__small/img/uXIwkF8JqP2mYeK8ZGPHL_GPRrQ=/fit-in/200x150/filters:strip_icc()/pic4741826.jpg",
+    "link": "https://boardgamegeek.com/thing/278553",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      4
+    ],
+    "averageRating": "7.04012",
+    "averageWeight": "1.7727",
+    "boardGameRank": "2169",
+    "mechanics": [
+      "Hand Management",
+      "Matching",
+      "Memory"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Ted Alspach"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:35:40.097Z",
+  "gameDetails": {
+    "id": "180203",
+    "name": "Age of Steam Expansion: New England",
+    "type": "boardgameexpansion",
+    "description": "Age of Steam Expansion: New England, an expansion for Age of Steam that's part of the Winsome Games 2015 Essen set, is a two player map for Age of Steam. In this game, unfinished track sections may not be built. In addition, at the end of the game, players score 1 VP for each $20.\n\n",
+    "image": "https://cf.geekdo-images.com/FWavsZ2bGCef0RYSo0VTmw__original/img/x2Kf94VdAqQOXSSVyVGesdjSwRs=/0x0/filters:format(jpeg)/pic2608266.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FWavsZ2bGCef0RYSo0VTmw__small/img/Bk3yxl3Xk9xz1gWKaSis6ovf1Io=/fit-in/200x150/filters:strip_icc()/pic2608266.jpg",
+    "link": "https://boardgamegeek.com/thing/180203",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2015",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.28571",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Network and Route Building",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "John Bohrer"
+    ]
+  }
+}

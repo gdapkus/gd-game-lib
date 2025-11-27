@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:57:59.150Z",
+  "gameDetails": {
+    "id": "5383",
+    "name": "MechWar '77: Tactical Armored Combat in the 1970's",
+    "type": "boardgame",
+    "description": "Mech War '77 is a simulation of tactical combat in West Germany and Asia during the 1970's. The game is played by scenario. Eight scenarios revolve around a hypothetical Soviet-American clash in West Germany. One scenario is drawn from the Yom Kippur War. The tenth scenario pictures a Sino-Soviet clash.\n\nScale: Each hex represents 200 meters from side to side. \nTime: Each Game-Turn represent one to six minutes of elapsed time.\nCounters: 400\n\nUses the same rules system (but with additional \"modern\" elements) as Panzer '44: Tactical Armored Combat, Europe, 1944-45\n\n",
+    "image": "https://cf.geekdo-images.com/-wn_cF3abrdx1Jhl7arSJA__original/img/9vdwZ_8qgXDSEoA-egT17qKUNak=/0x0/filters:format(jpeg)/pic598690.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-wn_cF3abrdx1Jhl7arSJA__small/img/eofcIuOGzMJtRZURG6t20lnfsVw=/fit-in/200x150/filters:strip_icc()/pic598690.jpg",
+    "link": "https://boardgamegeek.com/thing/5383",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1975",
+    "playingTime": "270",
+    "minPlayingTime": "270",
+    "maxPlayingTime": "270",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.265",
+    "averageWeight": "3.1786",
+    "boardGameRank": "13981",
+    "mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Movement Points",
+      "Paper-and-Pencil",
+      "Programmed Movement",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Modern Warfare",
+      "Wargame"
+    ],
+    "designers": [
+      "Jim Dunnigan"
+    ]
+  }
+}

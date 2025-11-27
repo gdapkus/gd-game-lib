@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:14:52.451Z",
+  "gameDetails": {
+    "id": "264689",
+    "name": "Project: ELITE – Alienship Rescue",
+    "type": "boardgameexpansion",
+    "description": "The Alienship Rescue expansion not only brings new Bosses and a new Swarm but also introduces a whole new Modular Board system, a brand new Mission that sets players to rescue ELITE members, and a 5-Mission Campaign that will challenge the steeliest of nerves!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/fUwCUPROVb3cb7tGkSIzUg__original/img/eY3syKQ65ttgwlAoLMx23artNWs=/0x0/filters:format(jpeg)/pic4421977.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fUwCUPROVb3cb7tGkSIzUg__small/img/u5FN-UEMi6vFuyGI2JeaTCusVeA=/fit-in/200x150/filters:strip_icc()/pic4421977.jpg",
+    "link": "https://boardgamegeek.com/thing/264689",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "8.04375",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fighting",
+      "Miniatures",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Konstantinos Kokkinis",
+      "Sotirios Tsantilas"
+    ]
+  }
+}

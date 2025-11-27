@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T19:31:29.497Z",
+  "gameDetails": {
+    "id": "367260",
+    "name": "Ascending Empires: Zenith Edition",
+    "type": "boardgame",
+    "description": "The last survivors of the human race have fled to a new galaxy in fear of annihilation at the hands of an unstoppable enemy. Now, having discovered the ruins of four long dead civilizations spread across the stars, a race to develop technology based on these alien relics has begun. Humans will once again ascend to the stars to claim the galaxy.\n\nIn Ascending Empires: Zenith Edition, you explore new planets by flicking your ships into space, expanding your colonies by delving deeper into the expanse and exploiting planets for resources. Naturally, as your civilization grows and competes for territory with others, players will seek to exterminate their opponents through clever combat.\n\nThis new edition of Ascending Empires features modular play, high-quality plastic components, upgraded neoprene mat playing surfaces, and more.\n\n&mdash;description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/R9X5WPL_kpxwGKxh6p83Og__original/img/QohfSWcB32EC5wVVE4QdFlYS4wA=/0x0/filters:format(jpeg)/pic7910731.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/R9X5WPL_kpxwGKxh6p83Og__small/img/yyTeDpZTzXD440V6tSCqlT_4Ge4=/fit-in/200x150/filters:strip_icc()/pic7910731.jpg",
+    "link": "https://boardgamegeek.com/thing/367260",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.68329",
+    "averageWeight": "2.8421",
+    "boardGameRank": "4602",
+    "mechanics": [
+      "Flicking",
+      "Set Collection",
+      "Tech Trees / Tech Tracks"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "City Building",
+      "Civilization",
+      "Fighting",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Ian Cooper (I)"
+    ]
+  }
+}

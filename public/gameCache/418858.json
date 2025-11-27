@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:31:09.047Z",
+  "gameDetails": {
+    "id": "418858",
+    "name": "Resafa",
+    "type": "boardgame",
+    "description": "The game Resafa takes place during the 3rd century AD in the area of today's Middle East. Resafa now lies in ruins in modern-day Syria, but at this time it was a fortified desert outpost that flourished as a stop along important caravan routes.\n\nIn the game, players represent merchants who travel on business trips and buy and sell goods in the various cities in the region. Resafa had no local sources of water, so it depended heavily on large cisterns to collect the spring and winter rainwater to make the area habitable. Players build water tanks and canals to distribute that water where it is needed. In the cities, they build workshops to help their businesses grow, which will allow them to collect resources and camels. They also construct gardens between the businesses, generating more resources and also victory points.\n\nThe game is played over six rounds. In each round, a player takes only three actions, playing action cards in this tight and exciting game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/aTDLIq7UfNrcORpwbU61UA__original/img/KQD97S4S3uzgpOMBFFIZsk4hJps=/0x0/filters:format(jpeg)/pic8361340.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aTDLIq7UfNrcORpwbU61UA__small/img/0-tVIFJeyTO5erNPcU9T1IaGKt8=/fit-in/200x150/filters:strip_icc()/pic8361340.jpg",
+    "link": "https://boardgamegeek.com/thing/418858",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.49293",
+    "averageWeight": "3.5714",
+    "boardGameRank": "3667",
+    "mechanics": [
+      "Hand Management",
+      "Multi-Use Cards",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Ancient",
+      "Transportation",
+      "Travel"
+    ],
+    "designers": [
+      "Vladimír Suchý"
+    ]
+  }
+}

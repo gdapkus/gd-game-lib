@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T20:58:19.116Z",
+  "gameDetails": {
+    "id": "2250",
+    "name": "Midway",
+    "type": "boardgame",
+    "description": "The basic idea is each player has his or her own map of the area (in this case the Midway Island) behind a screen. Each player \"searches\" for the enemy fleet by flying search planes to the various zones on the map and calling the zone co-ordinates. Once found, bombers can be sent in to sink the enemy fleet. The actual attack is fought on a separate battle board where the ships are first placed on a rectangular grid and the attacking planes are placed in adjacent rectangles or on top of the ships themselves to indicate which ship they are attacking.\n\nThe basic game is very simple, but there are a number of additional rules which add realism and complexity: CAP fighters, surface actions, anvil and wave attacks, etc.\n\nThe game is superior with a neutral referee for true double blind play.\n\nDeveloped with the technical aid of C. Wade McClusky, Rear Admiral U.S.N. (Ret.)\n\nAvalon Hill Complexity Rating: 3\nCounters: 219 excluding blank counters.\n\n",
+    "image": "https://cf.geekdo-images.com/tWMxK7nkksO3jlm_oLekrg__original/img/ao9JPw4iufy4EEOb-fUoDMjutJQ=/0x0/filters:format(jpeg)/pic2767039.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tWMxK7nkksO3jlm_oLekrg__small/img/E4BoSSWGyBPib5IvDsAmvqtOa8k=/fit-in/200x150/filters:strip_icc()/pic2767039.jpg",
+    "link": "https://boardgamegeek.com/thing/2250",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1964",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.6507",
+    "averageWeight": "2.4364",
+    "boardGameRank": "4809",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hidden Movement",
+      "Minimap Resolution",
+      "Movement Points",
+      "Paper-and-Pencil",
+      "Ratio / Combat Results Table",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Square Grid",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Nautical",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Larry Pinsky",
+      "Lindsley Schutz"
+    ]
+  }
+}

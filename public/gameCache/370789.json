@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:30:05.622Z",
+  "gameDetails": {
+    "id": "370789",
+    "name": "Nova Roma",
+    "type": "boardgame",
+    "description": "In 324 AD, Emperor Constantine selected the ancient city of Byzantium on the shores of the Bosphorus to become the site of his new capital. He named it Nova Roma which means New Rome. To establish his magnificent new capital, the Emperor summoned his most trusted patricians and tasked them with a variety of duties. With the Emperor&rsquo;s tireless support, this incredible task was accomplished in just six years.\n\nIn Nova Roma, you are the head of an ancient and noble roman house. You must deploy your family members and retainers to accomplish a variety of goals. Construct buildings, dominate sea routes, secure resources, race in the hippodrome, and hire specialists. At the end of the game, the family that has done the most to please the Emperor and achieve their own agendas will emerge as the victor.\n\n",
+    "image": "https://cf.geekdo-images.com/zEv4IVUrCK9CpNrO54b7Kg__original/img/93DKEfBgFWr1fvvfROPo7qfG500=/0x0/filters:format(jpeg)/pic7071623.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zEv4IVUrCK9CpNrO54b7Kg__small/img/ydCmEIpZy9t4p6lrnOnUYqHrX80=/fit-in/200x150/filters:strip_icc()/pic7071623.jpg",
+    "link": "https://boardgamegeek.com/thing/370789",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.67308",
+    "averageWeight": "3.25",
+    "boardGameRank": "2044",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Contracts",
+      "End Game Bonuses",
+      "Pattern Building",
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Ancient",
+      "City Building",
+      "Economic",
+      "Racing"
+    ],
+    "designers": [
+      "Stan Kordonskiy"
+    ]
+  }
+}

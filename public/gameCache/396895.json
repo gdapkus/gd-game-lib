@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T19:33:31.055Z",
+  "gameDetails": {
+    "id": "396895",
+    "name": "Corps of Discovery: A Game Set in the World of Manifest Destiny",
+    "type": "boardgame",
+    "description": "Lewis and Clark are tasked not only with exploring America, but with ridding the land of numerous invasive monsters that have appeared.\n\nCorps of Discovery: A Game Set in the World of Manifest Destiny is a co-operative deduction game in which players each take the role of one of the crew on the expedition and set out to explore the land. The game board allows for different maps to be inserted into it, so you have many adventures ahead of you.\n\nIn addition to finding and killing monsters, you must also complete numerous daily challenges that require specific resources that you can find on the board. You have to use logic and deduction to reason out where the resources you need are located. Ally yourselves with Sacajawea and the indigenous people of the area to help you on your quest.\n\nThe game comes with two chapters: Fauna and Flora. Each has new mechanisms, a different goal, and new components to give each chapter a different feel.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/GbluwCXXLn2Y3MtRykBdbg__original/img/VKJ-sdVPegg-jhYiBlgVwBOVHug=/0x0/filters:format(jpeg)/pic7884208.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GbluwCXXLn2Y3MtRykBdbg__small/img/Y6xFkP7g2AFTkJyrE9F2_EPYGtI=/fit-in/200x150/filters:strip_icc()/pic7884208.jpg",
+    "link": "https://boardgamegeek.com/thing/396895",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.83381",
+    "averageWeight": "2.9167",
+    "boardGameRank": "2724",
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Deduction",
+      "Multiple Maps",
+      "Pattern Recognition",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Deduction",
+      "Exploration",
+      "Puzzle"
+    ],
+    "designers": [
+      "Jay Cormier",
+      "Sen-Foong Lim"
+    ]
+  }
+}

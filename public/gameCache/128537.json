@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:27:53.402Z",
+  "gameDetails": {
+    "id": "128537",
+    "name": "Gentlemen Thieves",
+    "type": "boardgame",
+    "description": "Gentlemen Thieves is a board game with secret identities, bluffing and theft featuring Ars&egrave;ne Lupin and other characters inspired by author Maurice Leblanc. Whoever ends up with the biggest stack of loot at the end of the game wins!\n\nAt the start of the game, each player secretly takes one of the five burglar tiles, which come in five different colors; each player also receives 2-4 helping hand tokens. Five locations are set out, each with two randomly chosen equipment tokens next to them; equipment tokens come in five types, with each type appearing in the five colors of the burglars. Special tokens are placed out as well: two loot tokens next to the bank, one lock on the museum, and one tunnel next to the manor; six additional loot tokens, along with a car token and the second tunnel, are placed to the side. Three randomly drawn equipment tokens are placed face up.\n\nAt the start of each round, the matchmaker determines the alliances for that round, placing two alliance markers &ndash; each showing a burglar in the appropriate color &ndash; in one area and the other three in the other area. Thus, the burglars form provisional teams for the round and are trying to work together to rob a location &ndash; any location! &ndash; but they don't necessarily know who's who. On a turn a player either:\n\n\n    Chooses one of the face-up equipment tokens, places it next to a location (with no more than three tokens of the same type being allowed at a location), then reveals a new equipment token.\n    Draws the top equipment token from the stack, then places it at a location.\n    Plays a helping hand token to move a special token or add a new special token to a location.\n\n\nAs soon as all five types of equipment are at a location, a burglary takes place there. Who steals the goods? The alliance that has the larger presence there based on the colors of tokens. These tokens are then flipped face down (becoming loot), added to any loot tokens present there, then split among the burglars in the alliance and placed on the scoreboard. The matchmaker token passes to a new player, who must move at least two alliance tokens, then a new round begins.\n\nThe special tokens naturally change the rules: The location with the lock cannot be robbed, although someone can choose to move the lock so that a burglary does take place. The car allows someone to move an equipment token to a new location. When the second tunnel is placed next to a location, the two locations with tunnels are now linked and the types of equipment present are considered to be together when determining whether a burglary takes place &ndash; although if the lock is on one of those locations, then nothing can be stolen!\n\nA brigadier token is shuffled into the final six equipment tokens, and when it's drawn, the game ends immediately. Players then reveal their identities, and the player with the most loot wins!\n\n",
+    "image": "https://cf.geekdo-images.com/wm4I8aH_RkyJG1wWbi84Lw__original/img/9ZEnxsiPgVvqwvm8zUph4pfonXc=/0x0/filters:format(jpeg)/pic1967194.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wm4I8aH_RkyJG1wWbi84Lw__small/img/wrz1w7ovoej4ot8dN58gYP4XQSM=/fit-in/200x150/filters:strip_icc()/pic1967194.jpg",
+    "link": "https://boardgamegeek.com/thing/128537",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.19628",
+    "averageWeight": "1.8095",
+    "boardGameRank": "9725",
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Charles Chevallier",
+      "Catherine Dumas",
+      "Pascal Pelemans"
+    ]
+  }
+}

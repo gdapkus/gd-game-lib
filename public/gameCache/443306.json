@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:27:05.151Z",
+  "gameDetails": {
+    "id": "443306",
+    "name": "Deckers",
+    "type": "boardgame",
+    "description": "In Deckers, you will hack into a network of five servers, either solo or co-operatively as a team of up to four, winning or losing together.\n\nThe network is operated by one of the available super-massive computers (SMCs), each with a different level of complexity and its own unique style of defenses that you will need to overcome.\n\nOnce jacked into the servers, you will assume decker profiles, each with a special ability, moving across the server's spaces and uploading decker pieces onto the network to expand your control while removing as many of the SMC's pieces as possible. Each round, you get a new objective you try to fulfill to gain the upper hand. If you manage to complete the final objective, you ultimately claim victory.\n\n",
+    "image": "https://cf.geekdo-images.com/QIiMCGc9zpv_XKAI-zbqmQ__original/img/2riPUBkY_TmfAnyLQUHeENJEEyI=/0x0/filters:format(jpeg)/pic8907989.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QIiMCGc9zpv_XKAI-zbqmQ__small/img/WaxhjFWQeablIaDyzDTe9XWpOlw=/fit-in/200x150/filters:strip_icc()/pic8907989.jpg",
+    "link": "https://boardgamegeek.com/thing/443306",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "8.05245",
+    "averageWeight": "3.7667",
+    "boardGameRank": "6022",
+    "mechanics": [
+      "Command Cards",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Modular Board",
+      "Network and Route Building",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Science Fiction"
+    ],
+    "designers": [
+      "Richard Wilkins"
+    ]
+  }
+}

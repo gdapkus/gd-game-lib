@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:18:02.548Z",
+  "gameDetails": {
+    "id": "154769",
+    "name": "Star Wars: X-Wing Miniatures Game – TIE Phantom Expansion Pack",
+    "type": "boardgameexpansion",
+    "description": "Game description from the publisher:\n\nBy adding a stygium crystal cloaking device to a modified V38 assault fighter that came equipped with both deflector shields and a hyperdrive, the developers of the TIE phantom created one of the most menacing starfighters in the galaxy!\n\nThe TIE Phantom Expansion Pack brings this fearsome fighter to life in the Star Wars: X-Wing Miniatures Game with new rules for cloaking that allow it to slip off opponents' sensors in the middle of battle. Imperial players will be able to further customize their phantoms with system and crew upgrades, so the Rebellion will never know what to expect.\n\nThe TIE Phantom Expansion Pack includes one TIE phantom miniature, four ship cards, five upgrades, one maneuver dial, reference cards for its new rules, and all the tokens you need to bring your TIE phantom to battle!\n\n",
+    "image": "https://cf.geekdo-images.com/oBrc2uW_l3JmD8OU5LF4RQ__original/img/KWwe_stwMw-ctOTAmpVN0qR8pE8=/0x0/filters:format(jpeg)/pic1940765.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oBrc2uW_l3JmD8OU5LF4RQ__small/img/JinQ--rTAORNllBN07olMI2wdj8=/fit-in/200x150/filters:strip_icc()/pic1940765.jpg",
+    "link": "https://boardgamegeek.com/thing/154769",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2014",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "8.03968",
+    "averageWeight": "2.625",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "Enclosure",
+      "Point to Point Movement",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Frank Brooks",
+      "Alex Davy",
+      "James Kniffen",
+      "Jay Little"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:56:33.547Z",
+  "gameDetails": {
+    "id": "37836",
+    "name": "Julius Caesar: Caesar, Pompey, and the Roman Civil War",
+    "type": "boardgame",
+    "description": "Julius Caesar is a two-player game, depicting the later Roman civil wars (49-45 BC). The forces of Caesar are pitted against those of Pompey.\n\nFrom the publisher:\nJulius Caesar brings the drama of the Roman Civil War to life. Players take control of the legions of Caesar or Pompey and fight to rule Rome as Emperor.\n\nFrom the Designer:\n\nJulius Caesar is a card driven block game. You use cards to Move, levy or play an Event. 13 victory point Towns or Cities are depicted on the 17\"x 33\" (43 x 84 cm) game board of the Mediterranean. Take command of Caesar's Veteran Legions or Pompey sprouting Young Legions around the Mediterranean. You decide how best to defend or conquer the Republic. With endless possibilities at your disposal this game will keep your adrenaline pumping. The only question I have for you, the game player, is, are you ready to prove that you deserve to be Emperor of Rome? Come prove it on the game board!\n\n",
+    "image": "https://cf.geekdo-images.com/bbICQuUv884qjXRLaex57g__original/img/fGatjknEtVMvWumERaWGod-m9wY=/0x0/filters:format(jpeg)/pic732997.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bbICQuUv884qjXRLaex57g__small/img/MnSUZFqMoBL5sGJCtrzPyPczovI=/fit-in/200x150/filters:strip_icc()/pic732997.jpg",
+    "link": "https://boardgamegeek.com/thing/37836",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2010",
+    "playingTime": "180",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.78631",
+    "averageWeight": "2.4525",
+    "boardGameRank": "1333",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Point to Point Movement",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Ancient",
+      "Civil War",
+      "Wargame"
+    ],
+    "designers": [
+      "Grant Dalgliesh",
+      "Justin Thompson"
+    ]
+  }
+}

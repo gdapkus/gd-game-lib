@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:05:25.431Z",
+  "gameDetails": {
+    "id": "7614",
+    "name": "A World at War: Second World War in Europe and the Pacific",
+    "type": "boardgame",
+    "description": "A World at War is an immersive exploration of the grand strategies of the Second World War. With roots tracing back to the classic Rise and Decline of the Third Reich, and its eventual successors--Advanced Third Reich and Empire of the Rising Sun--A World at War pushes this gaming system even further, expanding on the detail and choices.\n\nA World at War brings you everything in one box. A far-ranging battlefield where marines and paratroopers slog it out with infantry and armor; where carriers and submarines spar with cruisers and battlewagons; where army planes and carrier planes crisscross the skies with bombers and interceptors and ultra-fast jets.\n\nIn A World at War, you decide what to build and where to deploy it. Choose carefully, the deployment of troops is crucial. But don't go thinking armaments comprise the only battlefield. The struggle extends deep into other arenas, like into foreign parliaments, through diplomacy, and into your skunk works, through research, and behind enemy lines, through partisans. So seize every advantage you can get.  Will you gamble and research the atomic bomb? Or will you take the less glitzy and risky strategy of barricading your beaches and erecting flak near your factories? Whatever you decide, decide carefully. With so many elements in play, anything can be a winning strategy.\n\n",
+    "image": "https://cf.geekdo-images.com/o9gjjgu37WqNSUd3sZsb-g__original/img/KwPRlDFi7W4QAWvH7aObcCho3tM=/0x0/filters:format(jpeg)/pic34304.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/o9gjjgu37WqNSUd3sZsb-g__small/img/Af_3T6nTfTa0aN4DQZzCZzpu04w=/fit-in/200x150/filters:strip_icc()/pic34304.jpg",
+    "link": "https://boardgamegeek.com/thing/7614",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2003",
+    "playingTime": "2880",
+    "minPlayingTime": "1440",
+    "maxPlayingTime": "2880",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.609",
+    "averageWeight": "4.768",
+    "boardGameRank": "5777",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Bruce Harper"
+    ]
+  }
+}

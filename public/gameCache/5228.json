@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:17:07.556Z",
+  "gameDetails": {
+    "id": "5228",
+    "name": "Glory: The Battles of First & Second Manassas and Chickamauga, 1861-63",
+    "type": "boardgame",
+    "description": "Glory: The Battles of First & Second Manassas and Chickamauga, 1861-63 is the first game in GMT's Series: Glory (Richard Berg). Glory presents three American Civil War battles - First Manassas (1861), Second Manassas (1862) and the Battle of Chickamauga (1863) - as never before seen. The new game system combines sophistication with ease of accessibility: the rules are less than eight pages and there are practically no charts. The system combines mostly familiar mechanics with just enough new ones to add spice and challenge to comfortable familiarity. And while you can start playing in about 15-20 minutes, it will take far longer to master the nuances of play. To add to all of that, there are four different ways to play the game, from Igo-Hugo all the way to command oriented LIMs.\n\nGame Scale:\nGame Turn: 75 minutes\nHex: 250 yards / 229 meters\nUnits: Brigades\n\nGame Inventory:\nTwo 22 x 34\" full color mapsheets\nOne dual-side printed countersheet (240 1/2\" counters)\nOne dual-side printed countersheet (176 5/8\" counters)\nOne 8-page Glory rules booklet\nOne 8-page Glory scenario booklet\nOne single-sided Charts & Tables players aid card\nOne 10-sided die\n\nSolitaire Playability: High\nComplexity Level: Low\nPlayers: 2 or more\nPlaying Time: 3-10 hours\n\n",
+    "image": "https://cf.geekdo-images.com/YWpqhoY0fIFvi3DY2YOOCA__original/img/pD6Mep6LXpG64Y6uBZET6WXOlw4=/0x0/filters:format(jpeg)/pic4667915.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YWpqhoY0fIFvi3DY2YOOCA__small/img/RDV0xZ0DDapDFTC6fid9xSqMOEg=/fit-in/200x150/filters:strip_icc()/pic4667915.jpg",
+    "link": "https://boardgamegeek.com/thing/5228",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "1995",
+    "playingTime": "600",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "600",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.61108",
+    "averageWeight": "2.52",
+    "boardGameRank": "10009",
+    "mechanics": [
+      "Chit-Pull System",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "American Civil War",
+      "Wargame"
+    ],
+    "designers": [
+      "Richard H. Berg"
+    ]
+  }
+}

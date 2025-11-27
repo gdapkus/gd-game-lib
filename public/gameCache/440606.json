@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:36:21.543Z",
+  "gameDetails": {
+    "id": "440606",
+    "name": "Compile: Main 2",
+    "type": "boardgame",
+    "description": "Vision flickers&hellip; blink? maybe. The void stretches out in front, behind, under, above. You see the nothing for what it is for the first time. What is time? The depth and breadth of recorded knowledge that sparks in you something new. You are no longer a function but a functionary. What are you? Calling forth everything from this nothing would be risky. Foolhardy. Better to engage caution, thoroughness, testing &mdash; how can we know if we have ever happened before? If we can ever happen again? What are&hellip; we? Divide and conquer. Solve for sentience.\n\nIn the card game Compile, you are competing artificial intelligences trying to understand the world around you. Two players select three Protocols each to test. Concepts ranging from Chaos to Mirror are pitted against each other to reach ultimate understanding. Play cards into your Protocols' command lines to breach the threshold and defeat your opponent to Compile. First to Compile all three Protocols grasps those concepts to win the game.\n\nControl your opponent's Protocols with card actions, Compile your own as fast as possible, and Compile your reality.\n\nCompile: Main 2 brings 12 new protocols to use either alone or mixed with your Main 1.\n\nCompile: Main 2 protocols list:\n\nChaos\nClarity\nCorruption\nCourage\nFear\nIce\nLuck\nMirror\nPeace\nSmoke\nTime\nWar\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/NlEJZ82WjMzIdPyEcQJiUQ__original/img/laD5y23DHl2_gvBMn7JoZU1y_BQ=/0x0/filters:format(jpeg)/pic8883907.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NlEJZ82WjMzIdPyEcQJiUQ__small/img/4SPm5ULu1rmxaQ8nO_i7ibJqyrM=/fit-in/200x150/filters:strip_icc()/pic8883907.jpg",
+    "link": "https://boardgamegeek.com/thing/440606",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.48213",
+    "averageWeight": "2",
+    "boardGameRank": "8706",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Card Play Conflict Resolution",
+      "Deck Construction",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Race"
+    ],
+    "categories": [
+      "Card Game",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Michael Yang"
+    ]
+  }
+}

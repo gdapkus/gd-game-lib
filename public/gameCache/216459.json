@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:37:33.138Z",
+  "gameDetails": {
+    "id": "216459",
+    "name": "The Lost Expedition",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nLegendary explorer Percy Fawcett marched deep into the Amazon in search of El Dorado. He was never seen again. Your team has gone in search of him, but now you hope to escape the jungle with the greatest treasure of all: your life.\n\nMake the best of your food, your ammunition, and your health in The Lost Expedition as you plunge deep into the jungle. Choose your path carefully to ensure you're ready for the pitfalls that may occur. Play solo or cooperatively to survive the expedition, or play in teams to see which group can escape the jungle first.\n\nErrata:\nIn the 'head-to-head' rules, the diagram shows more cards than can legally be played. The rules-as-written are correct.\n\n",
+    "image": "https://cf.geekdo-images.com/W8yjFs_0LaFL7TMg-nxi_g__original/img/KUZ244YDkZpaXtrRdVRcB1TnV2Y=/0x0/filters:format(jpeg)/pic3339655.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/W8yjFs_0LaFL7TMg-nxi_g__small/img/cKmWHBSmqx0MFFyO_6dZmedX0U4=/fit-in/200x150/filters:strip_icc()/pic3339655.jpg",
+    "link": "https://boardgamegeek.com/thing/216459",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2017",
+    "playingTime": "50",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "50",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.03503",
+    "averageWeight": "1.8696",
+    "boardGameRank": "995",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Exploration"
+    ],
+    "designers": [
+      "Peer Sylvester"
+    ]
+  }
+}

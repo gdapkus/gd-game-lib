@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:13:19.399Z",
+  "gameDetails": {
+    "id": "55763",
+    "name": "Mister X",
+    "type": "boardgame",
+    "description": "He could escape the Scotland Yard detectives in London, but this time the whole of Europe is on his heels. Will he be able to evade them this time, too?\n\nMister X is a modernized version of Ravensburger's classic Scotland Yard which transfers the manhunt from London to the continent.\n\nMr. X can play new tricks but also the detectives have new actions at their disposal. and this time they know where he is heading!\n\nAnnounced for Essen 2009.\n\nContent Break down:\n\n1 game board\n1 ticket board\n1 ticket bag\n6 Pieces\n6 Ticket racks\n120 Tickets\n15 start cards\n5 color markers\n10 position rings\n22 investigation chips\n1 checklist\n1 visor for Mister X\n1 tracker for Mister X\n\nRe-implements:\n\n    Scotland Yard\n\n\n",
+    "image": "https://cf.geekdo-images.com/T1pA9jjf69JaGbqWLBIHmQ__original/img/NyW1bqIglKwLibmJ3Zi03XTQt5c=/0x0/filters:format(jpeg)/pic580418.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/T1pA9jjf69JaGbqWLBIHmQ__small/img/oL13udnktOUNTrxUZjl5qLJh3t0=/fit-in/200x150/filters:strip_icc()/pic580418.jpg",
+    "link": "https://boardgamegeek.com/thing/55763",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2009",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      4,
+      6
+    ],
+    "averageRating": "6.60638",
+    "averageWeight": "2.1176",
+    "boardGameRank": "7449",
+    "mechanics": [
+      "Hand Management",
+      "Hidden Movement",
+      "Memory",
+      "Point to Point Movement",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Bluffing",
+      "Deduction"
+    ],
+    "designers": [
+      "Gabriele Mari"
+    ]
+  }
+}

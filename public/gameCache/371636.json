@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:08:40.231Z",
+  "gameDetails": {
+    "id": "371636",
+    "name": "Wildtails: A Pirate Legacy",
+    "type": "boardgame",
+    "description": "The life of a pirate is never easy and rarely boring. Whether it&rsquo;s running contraband past military patrols or securing your hideout from rivals, you&rsquo;ll need equal parts wit and daring to turn your fledgling operation into a pirate empire.\n\nIn this cooperative legacy game you will build your own empire by successfully navigating each chapter of the campaign. Your choices will permanently alter the story and the game&rsquo;s components. After the campaign ends, continue playing your customized game with random scenarios.\n\n\nWildtails: A Pirate Legacy (previously known as Legacy Tales: Barataria) is a narrative driven, pirate-themed 18-card cooperative legacy game.\n\n",
+    "image": "https://cf.geekdo-images.com/791oeo-BccglQIphuJwGOQ__original/img/f5C0Hf44Bgw0A8aaLJqFM5aDugA=/0x0/filters:format(png)/pic7167293.png",
+    "thumbnail": "https://cf.geekdo-images.com/791oeo-BccglQIphuJwGOQ__small/img/DnFoG9-7AMJsw0wrxkVU87mFi_M=/fit-in/200x150/filters:strip_icc()/pic7167293.png",
+    "link": "https://boardgamegeek.com/thing/371636",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2022",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.39344",
+    "averageWeight": "2",
+    "boardGameRank": "9269",
+    "mechanics": [
+      "Cooperative Game",
+      "Legacy Game",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Pirates",
+      "Print & Play"
+    ],
+    "designers": [
+      "Dustin Dobson",
+      "Milan Zivkovic"
+    ]
+  }
+}

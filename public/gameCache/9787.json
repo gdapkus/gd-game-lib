@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:24:12.238Z",
+  "gameDetails": {
+    "id": "9787",
+    "name": "Beer Money",
+    "type": "boardgame",
+    "description": "From the publisher's website:\n\nRecess is over. Now you're fighting for something more ...\n\nBeer Money is the long-anticipated 110-card sequel to the frenetic Lunch Money card game. Beer Money is a stand-alone game that can also be mixed in with a Lunch Money or Lunch Money: Sticks and Stones deck to accommodate up to 8 players. Like Lunch Money, Beer Money combines evocative images with the raw dynamics of a merciless street fight. But Beer Money ups the ante with weapons like Beer Bottle, basic attacks such as Knuckle Sammitch, defenses like Suck It Up, and specialty cards including Pound of Flesh and Pile Driver. The pain just keeps on coming when you're playing with Beer Money!\n\nRe-implements:\n\n    Lunch Money\n\n\nIntegrates with:\n\n    Lunch Money\n\n\n",
+    "image": "https://cf.geekdo-images.com/SwckcKN6rMth8ZtZ66TncQ__original/img/bsu_Ap6QcsosOohqBoVFCVoiKzo=/0x0/filters:format(jpeg)/pic49228.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SwckcKN6rMth8ZtZ66TncQ__small/img/QMF72BUkumgHTOcdPbAcsIpDNlY=/fit-in/200x150/filters:strip_icc()/pic49228.jpg",
+    "link": "https://boardgamegeek.com/thing/9787",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2004",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.71547",
+    "averageWeight": "1.7857",
+    "boardGameRank": "18577",
+    "mechanics": [
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Fighting"
+    ],
+    "designers": [
+      "Charlie Wiedman"
+    ]
+  }
+}

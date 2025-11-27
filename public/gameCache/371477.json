@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:15:25.188Z",
+  "gameDetails": {
+    "id": "371477",
+    "name": "ROVE: Crawler",
+    "type": "boardgameexpansion",
+    "description": "An alien parasite has latched onto ROVE and is crawling all over your modules. You&rsquo;ll need to figure out how to deal with this new challenge in order to complete your mission.\n\nROVE: Crawler is a single Module card expansion. Crawler is a new module that adds a neat little twist to the game: It has a new restriction (it must always cover a single module), its own ability and movement, and a special sort of passive ability. It's sometimes in your way and sometimes useful.\n\n",
+    "image": "https://cf.geekdo-images.com/IptYDrvoxBxoX9eiCiLi_g__original/img/CW7ajx_fzIWcplswwxiFSq9ytd0=/0x0/filters:format(png)/pic7186145.png",
+    "thumbnail": "https://cf.geekdo-images.com/IptYDrvoxBxoX9eiCiLi_g__small/img/xnq80ryKmND7dFX-rSsliKCayJU=/fit-in/200x150/filters:strip_icc()/pic7186145.png",
+    "link": "https://boardgamegeek.com/thing/371477",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2022",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": null,
+    "averageRating": "7.78469",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Movement",
+      "Pattern Recognition",
+      "Solo / Solitaire Game",
+      "Square Grid"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Dustin Dobson",
+      "Milan Zivkovic"
+    ]
+  }
+}

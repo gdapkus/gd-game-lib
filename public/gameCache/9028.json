@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:13:45.644Z",
+  "gameDetails": {
+    "id": "9028",
+    "name": "Tongiaki: Journey into the Unknown",
+    "type": "boardgame",
+    "description": "The game of seafaring adventure in ancient Polynesia!\n\nTongiaki is a tile-laying game that reflects the risks and successes of these early explorers.  There is often a chance that an expedition will end in utter failure... or, it might land in Tahiti, Fiji, or Oahu.  Clever players might even found Royal Islands to call their own!  Only fate will decide if, and where, sailors make landfall, although careful planning will give players the best odds for ever seeing land again.  The goal of the game is to spread your \"tribe\" to many different islands in order to gain the most victory points.  Islands have victory point values from 2-5, and having multiple pawns on an island gives no bonus.\n\nThis game uses a unique tile design never seen in any other game (hexes with wavy edges), and is easy to explain and easy to enjoy.  Players all begin on the island of Tonga, and immediate overcrowding forces players to search out other islands to populate.  For each expedition that leaves, a new tile is placed, revealing either an island, or a \"water path\" that may or may not have a number from 2-4, indicating that many different players (not number of boats) must make up that expedition for it to survive the voyage (draw and place an additional tile).  In this way, the game encourages both cooperative and competitive play at the same time.\n\nFrom the back of the box:\n\n300AD: The Polynesians embark on daring sailing trips and explore thousands of Pacific islands.  Driven by overpopulation and a desire for adventure, they set forth into the unknown on simple catamarans called Tongiakis.  Without any help from navigational instruments, they charted their course with the help of the sun, stars, wind and water temperature.  Birds, reefs, cloud formations, fishes and distinctive waves were the signals telling them that land lay nearby.  Each trip became a life-threatening journey, as landfall was often impossible to achieve or the way home became cut off by strong currents.  Suspense was their constant companion.  Will the next hour, the next day bring them to their goal...  Or will the ocean's currents force them to drift endlessly at sea?\n\nDescription from Uberplay's web site:\n\nWhile originally designed to be somewhat cooperative, it can easily be played 'aggressively' in such a way as to rob other players of points and diminishing their presence on the board. The movement of pieces reaches a point where a 'triggered cascade' can alter the game drastically. Trying to foresee and select expansion moves leads to a weighty-er game than suggested at first glance.\n\n",
+    "image": "https://cf.geekdo-images.com/uziayspI8oOJSoBemFkVUw__original/img/k5Ty4EJLtB43KhneXVqcf0wKfUk=/0x0/filters:format(jpeg)/pic38692.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uziayspI8oOJSoBemFkVUw__small/img/ksO9JdAS9yYS82f7HDxsRk19aFU=/fit-in/200x150/filters:strip_icc()/pic38692.jpg",
+    "link": "https://boardgamegeek.com/thing/9028",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2004",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.21717",
+    "averageWeight": "1.9547",
+    "boardGameRank": "4241",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Map Addition",
+      "Point to Point Movement",
+      "Take That",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Exploration",
+      "Nautical",
+      "Transportation"
+    ],
+    "designers": [
+      "Thomas Rauscher"
+    ]
+  }
+}

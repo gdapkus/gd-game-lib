@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:02:29.011Z",
+  "gameDetails": {
+    "id": "11997",
+    "name": "*Star",
+    "type": "boardgame",
+    "description": "\"*Star is an abstract strategy connection board game for two players, the end product of the evolution from Hex to Y to Poly-Y to Star to *Star.\" (from website)\n\nWhereas Hex and Y, the most popular of this line of games, are purely about connecting edges, *Star balances occupying edge spaces and connecting your groups together.  Basically, occupied edge spaces score points, and you lose points for each separate group you have at the end of the game.\n\nThe game appears to have a strategic depth similar in style to Go (trying to give groups bases along the edges while also trying to connect groups together in the center; whole-board strategy directing the tactics of each local fight), yet with the tactical elegance and simplicity of Hex.  It also retains the mathematical elegance of Hex, which has nice implications such as the impossibility of draws, and the existence of seemingly very different scoring rules which are provably equivalent.  Worth a look for fans of Hex and/or Go.\n\n",
+    "image": "https://cf.geekdo-images.com/XwZb_mG8SVyTkRRWGe7qfw__original/img/EDoNBA4tCiUvFk2FGXcviT302K0=/0x0/filters:format(jpeg)/pic147590.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XwZb_mG8SVyTkRRWGe7qfw__small/img/kCNyetaeYqleVdnw3p7xfKv0d5c=/fit-in/200x150/filters:strip_icc()/pic147590.jpg",
+    "link": "https://boardgamegeek.com/thing/11997",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1999",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.615",
+    "averageWeight": "2.7",
+    "boardGameRank": "14581",
+    "mechanics": [
+      "Connections"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Ea Ea"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:24:26.238Z",
+  "gameDetails": {
+    "id": "111124",
+    "name": "Dark Moon",
+    "type": "boardgame",
+    "description": "WELCOME TO DARK MOON. The Noguchi Masaki interplanetary mining corporation welcomes you to its outpost on Titan, the dark moon of Saturn! You will be joining an experienced crew of miners, technicians, and adventurous souls who live to experience all the wonders that our solar system has to offer. Purpose, loyalty, camaraderie, friendship, and sacrifice all await you as a new and valued member of the Noguchi Masaki family!\n\nDARK MOON (formerly known as BSG Express), is a game of deception and betrayal at the cold edge of space.\n You are a crew member on a deep space mining expedition to Titan, the dark moon of Saturn. During a routine excavation, an &ldquo;incident&rdquo; occurs whereby some of the crew become infected with an unknown virus, and become paranoid, deceitful, and violent, trying to destroy the others.\n\nAt the start of the game, players are divided into two teams: Uninfected and Infected. The Uninfected team simply needs to survive until the end of the game, while the Infected team secretly attempts to destroy them. Each player knows which team they are on, but does not know which team the other players are on! Who is your teammate and who is your enemy? Can you trust your best friend? And why doesn&rsquo;t anyone trust you when you tell them you&rsquo;re one of the good guys?! \n Roll dice, overcome traumatic events, throw your friends in quarantine when you don&rsquo;t believe them, and (if you&rsquo;re Infected) betray everyone at just the right moment to secure victory!\n\n",
+    "image": "https://cf.geekdo-images.com/BhDoxSC8IqhbMRclci76gA__original/img/vv4Kc2-MElXZ9XOovyZNIK8Jlns=/0x0/filters:format(jpeg)/pic2320134.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BhDoxSC8IqhbMRclci76gA__small/img/bprSokzAs6Pfc4CuyXD_4tCCP38=/fit-in/200x150/filters:strip_icc()/pic2320134.jpg",
+    "link": "https://boardgamegeek.com/thing/111124",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "yearPublished": "2011",
+    "playingTime": "75",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      5,
+      7
+    ],
+    "averageRating": "6.9718",
+    "averageWeight": "2.3864",
+    "boardGameRank": "1607",
+    "mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Dice",
+      "Movies / TV / Radio theme",
+      "Print & Play",
+      "Science Fiction",
+      "Space Exploration",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Evan Derrick"
+    ]
+  }
+}

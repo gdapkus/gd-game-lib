@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:32:13.619Z",
+  "gameDetails": {
+    "id": "2878",
+    "name": "ThinkBlot",
+    "type": "boardgame",
+    "description": "Look into the ThinkBlot images. How many things can you spot? Do you see a praying mantis or a pair of scissors? Is it an eggshell or a crown? Look closer. There are hundreds of ways to interpret the images!\n\nCan you convince the other players to see what you see? The more you see and persuade, the more you score!\n\n&mdash;description from the back of the box\n\n",
+    "image": "https://cf.geekdo-images.com/XcwbaqktTKpU5HbhekNJ3w__original/img/Hc4JsYUKhCwlcluWDFPW26QGUyk=/0x0/filters:format(jpeg)/pic263481.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XcwbaqktTKpU5HbhekNJ3w__small/img/dXcbPx9KWiqTpHSEm0_U7UH9Ka0=/fit-in/200x150/filters:strip_icc()/pic263481.jpg",
+    "link": "https://boardgamegeek.com/thing/2878",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1997",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "4.44228",
+    "averageWeight": "1",
+    "boardGameRank": "29382",
+    "mechanics": [
+      "Paper-and-Pencil",
+      "Voting"
+    ],
+    "categories": [
+      "Party Game",
+      "Puzzle"
+    ],
+    "designers": [
+      "Rob Angel"
+    ]
+  }
+}

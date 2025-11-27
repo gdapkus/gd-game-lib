@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:59:03.865Z",
+  "gameDetails": {
+    "id": "249590",
+    "name": "Nevsky: Teutons and Rus in Collision 1240-1242",
+    "type": "boardgame",
+    "description": "Nevsky: Teutons and Rus in Collision 1240-1242 is a board wargame about the storied clash between Latin Teutonic and Orthodox Russian powers along the Baltic frontier of the mid-13th-Century. It is the first volume in GMT Games&rsquo; \"Levy & Campaign Series\" portraying military operations in a variety of pre-industrial conflicts. In Nevsky players raise and equip their armies, then provision and maneuver them to ravage or conquer enemy territory or defeat enemy forces in battle. Feudal politics obligate an array of lords and vassals to serve on campaign&mdash;but only for limited periods. Players must keep an eye on the calendar and reward lords to keep their armies in the field.\n\nNevsky is solitaire friendly or can add a rules option with screens that hide what the two players&rsquo; lords levy. A second option adds detail regarding vassal forces&rsquo; terms of service.\n\nIn Nevsky, two players take the roles of &ldquo;Russians&rdquo; and &ldquo;Teutons&rdquo;, respectively. The Russians represent the wealthy city-state of Novgorod and its allies. The Teutons comprise German and Danish landholders&mdash;including the Teutonic Order&mdash;expanding a Baltic dominion.\n\nThe sides every 40 days will levy various lords and vassals and their forces, transport, and capabilities, backed by higher political authorities&mdash;a papal legate for the Teutons and Novgorod&rsquo;s city council (veche) for the Russians. Each lord is rated for fealty, lordship, service, and command and lays out his forces and assets on a mat. Wooden pieces represent units of knights, mounted sergeants, light and Asiatic cavalry, men-at-arms, and unarmored serfs and militia. Assets include counters for transport such as carts, boats, and sleds; provender to feed the army; and coin to pay for longer service or booty captured by ravaging or conquering enemy regions.\n\nThe players then plan and command a campaign for that 40 days with the lords who have mustered. To represent the limits of communications on medieval operations, stacks of command cards commit players to activating lords in a sequence that may or may not meet the needs of the developing situation. Cylinder pieces on the map show the lords&rsquo; maneuvers, while markers on a feudal calendar show how much longer the lords will serve, influenced by success or failure in their campaigns. When lords clash in field battle or storming a castle, players array their lords&rsquo; mats left, right, center, and reserve and attempt to rout the enemy. Various event and capability cards reveal cultural and technological particulars that influence levy, campaign, and combat.\n\n",
+    "image": "https://cf.geekdo-images.com/YbS7k5AfC4d4R_KMloGWVw__original/img/nb0zkAzNPfXfe7-XWCevLgxa-Us=/0x0/filters:format(jpeg)/pic4906200.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YbS7k5AfC4d4R_KMloGWVw__small/img/G66GYa4sPqYSbFK2x4PrNzHk6-8=/fit-in/200x150/filters:strip_icc()/pic4906200.jpg",
+    "link": "https://boardgamegeek.com/thing/249590",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2019",
+    "playingTime": "360",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.00554",
+    "averageWeight": "3.9518",
+    "boardGameRank": "2171",
+    "mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Minimap Resolution",
+      "Movement Points",
+      "Point to Point Movement",
+      "Simulation",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Medieval",
+      "Wargame"
+    ],
+    "designers": [
+      "Volko Ruhnke"
+    ]
+  }
+}

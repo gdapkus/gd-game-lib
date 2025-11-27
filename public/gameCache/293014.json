@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:13:57.506Z",
+  "gameDetails": {
+    "id": "293014",
+    "name": "Nidavellir",
+    "type": "boardgame",
+    "description": "Nidavellir, the Dwarf Kingdom, is threatened by the dragon Fafnir. As a venerable Elvaland, you have been appointed by the King. Search through every tavern in the kingdom, hire the most skillful dwarves, recruit the most prestigious heroes, and build the best battalion you can to defeat your mortal enemy!\n\nEach turn in Nidavellir, bid a coin on each tavern. In descending order, choose a character and add this character to your army. Each dwarf class has its own scoring way: blacksmith, hunter, warrior, explorer, and miner. A meticulous recruitment will allow you to attract a powerful hero to your army.\n\nYou will also be able to increase the value of your gold coins thanks to the smart \"coin-building\" system, and get the best of the other Elvalands.\n\n",
+    "image": "https://cf.geekdo-images.com/PX7t5xXDLI2XqxoTShLayg__original/img/KYzd3fBTCxrRxEvNvzabNbll7Wg=/0x0/filters:format(jpeg)/pic5039625.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PX7t5xXDLI2XqxoTShLayg__small/img/jV7kN2k9IkGKLhus2FJ5_VP9awc=/fit-in/200x150/filters:strip_icc()/pic5039625.jpg",
+    "link": "https://boardgamegeek.com/thing/293014",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.55848",
+    "averageWeight": "2.1152",
+    "boardGameRank": "250",
+    "mechanics": [
+      "Auction / Bidding",
+      "Auction: Multiple Lot",
+      "Auction: Sealed Bid",
+      "Constrained Bidding",
+      "End Game Bonuses",
+      "Selection Order Bid",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Mythology"
+    ],
+    "designers": [
+      "Serge Laget"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:24:05.487Z",
+  "gameDetails": {
+    "id": "366469",
+    "name": "Barrage: The Nile Affair Expansion",
+    "type": "boardgameexpansion",
+    "description": "The Nile Affair is a new thematic map for 2-4 players with new mechanics (Irrigation).\n\nThe box includes 1 map board, 2 punchboards and the rules.\n\n&mdash;description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/Ys-XMi8rqcMchYxJtDp9Nw__original/img/Q9wTtMwdOmaREdsjqI0u1DHidzs=/0x0/filters:format(png)/pic6954928.png",
+    "thumbnail": "https://cf.geekdo-images.com/Ys-XMi8rqcMchYxJtDp9Nw__small/img/XLeWGHECkeINtFQEVAaQCKk_xMM=/fit-in/200x150/filters:strip_icc()/pic6954928.png",
+    "link": "https://boardgamegeek.com/thing/366469",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.16309",
+    "averageWeight": "4.125",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Drafting",
+      "Contracts",
+      "End Game Bonuses",
+      "Income",
+      "Network and Route Building",
+      "Turn Order: Stat-Based",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Economic",
+      "Environmental",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Tommaso Battista",
+      "Simone Luciani"
+    ]
+  }
+}

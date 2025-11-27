@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:55:10.820Z",
+  "gameDetails": {
+    "id": "286062",
+    "name": "Haiclue",
+    "type": "boardgame",
+    "description": "In Haiclue, players combine random word tiles to make clues.\n\nEach round, every player uses 15 random word tiles to make a clue for one of the four words in the center of the table. When everyone has finished, the group reads the clues out loud, and everyone guesses which of the four words belongs to each player. If a player guesses correctly, they score a point for themselves and a point for the author of the clue.\n\n3-12 players (competitive)\n2 players (co-op)\n30 minute playtime.\n\n-description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/dP_tOUbnd2LoiJetG6kh9w__original/img/A0rK_IQ6oQ3FEAAvxgIKtBaHtHY=/0x0/filters:format(jpeg)/pic5121938.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dP_tOUbnd2LoiJetG6kh9w__small/img/6xeGONshFxW5FR7m0rLRRl4ad3c=/fit-in/200x150/filters:strip_icc()/pic5121938.jpg",
+    "link": "https://boardgamegeek.com/thing/286062",
+    "minPlayers": "2",
+    "maxPlayers": "12",
+    "yearPublished": "2019",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.07491",
+    "averageWeight": "1.3636",
+    "boardGameRank": "9251",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Deduction",
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "Will Leaf"
+    ]
+  }
+}

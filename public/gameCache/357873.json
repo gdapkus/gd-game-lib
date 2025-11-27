@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:37:48.994Z",
+  "gameDetails": {
+    "id": "357873",
+    "name": "The Old King's Crown",
+    "type": "boardgame",
+    "description": "The Old King&rsquo;s Crown is a game of card-driven conquest, where you play as heirs to a vacant throne, vying for control of an ancient, overgrown kingdom. Wield unique abilities and leverage your followers&rsquo; traits to best outwit your opponents across a map that stretches from the teetering heights of the castle to the dappled light of the necropolis.\n\nAs leader of your faction you will be staking claims with Heralds openly as well as positioning your forces in secret, hoping to claim the locations that fit your designs. However, keep an eye on your rivals, as they too have agents and agendas, poised to undo your best laid plans.\n\nRoyalty, rebels or ruses. What crown will you wear?\n\nIn The Old King's Crown, players move their Herald to locations, hoping to claim them. Then simultaneously players play cards from their hand, facedown to regions of the board. These are then revealed and resolved. Winning these clashes will result in different rewards that further their position and grant them the game's primary goal, influence. The player with the most influence by the end of a set number of rounds will be declared the winner.\n\n",
+    "image": "https://cf.geekdo-images.com/q3Qp4L-rU3VOW6fMAFUJnQ__original/img/zICTkM9KNDlQ6wZgIMQ2HavR4PE=/0x0/filters:format(jpeg)/pic8937255.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/q3Qp4L-rU3VOW6fMAFUJnQ__small/img/wLX_C6w13ebCON4euesUohQE_Ck=/fit-in/200x150/filters:strip_icc()/pic8937255.jpg",
+    "link": "https://boardgamegeek.com/thing/357873",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.22264",
+    "averageWeight": "3.4756",
+    "boardGameRank": "2675",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Card Play Conflict Resolution",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Medieval"
+    ],
+    "designers": [
+      "Pablo Clark"
+    ]
+  }
+}

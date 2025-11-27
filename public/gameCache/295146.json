@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:30:12.384Z",
+  "gameDetails": {
+    "id": "295146",
+    "name": "One Deck Dungeon: Abyssal Depths",
+    "type": "boardgameexpansion",
+    "description": "New and dangerous Fiends have appeared, and now make every dungeon even more of a challenge to conquer! In this expansion to One Deck Dungeon, new Fiend cards will harass you from the moment you step foot on the first floor right up until you face the boss. Each fiend has its own unique effects, and you'll have to divert some of your valuable dice to combat its threats during every encounter. It's not all bad news though - every time you push back the fiend, you'll gain a valuable point of healing and a heroic die.\n\nOne Deck Dungeon: Abyssal Depths contains 6 large Fiend cards, and 3 Heroes - the Dragoon, Aquamancer, and the Witch.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/u1Yo1-t72xMR4v-A4QrCyw__original/img/-YObhnqeDw8m3_3UAA0_7gIH3Yo=/0x0/filters:format(png)/pic5075331.png",
+    "thumbnail": "https://cf.geekdo-images.com/u1Yo1-t72xMR4v-A4QrCyw__small/img/G1MydWbCBhmN1sq8FYzGryBC6h4=/fit-in/200x150/filters:strip_icc()/pic5075331.png",
+    "link": "https://boardgamegeek.com/thing/295146",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2021",
+    "playingTime": "45",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.13438",
+    "averageWeight": "2.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Melding and Splaying",
+      "Move Through Deck",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Card Game",
+      "Dice",
+      "Fantasy"
+    ],
+    "designers": [
+      "Chris Cieslik"
+    ]
+  }
+}

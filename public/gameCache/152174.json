@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:08:02.134Z",
+  "gameDetails": {
+    "id": "152174",
+    "name": "Pressure Cooker",
+    "type": "boardgame",
+    "description": "Pressure Cooker is a real-time game where players take on the roles of chefs vying for the right to become the new Head Chef at the city's hottest new restaurant.\n\nPlayed over three rounds, players must quickly and accurately work to collect and combine the needed ingredients to fill all of the orders that have been placed throughout the restaurant. You must work quickly to get your dishes served before your opponents, but make sure you have all of the correct ingredients! Bonuses can be earned by using the highest quality ingredients.\n\nUsing a scoring system that ratchets up the tension as the rounds progress, the game will keep you on your toes and scrambling to fill the orders and become the ultimate pressure cooker!\n\n",
+    "image": "https://cf.geekdo-images.com/rc3ue7_GAmsGSWt9UQmAiA__original/img/ISPh2ItlsbzhNp0IkaKBYoDJB6U=/0x0/filters:format(jpeg)/pic2227589.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rc3ue7_GAmsGSWt9UQmAiA__small/img/vnx3Q2ibFqu7sV8MqWIUeBgYdI0=/fit-in/200x150/filters:strip_icc()/pic2227589.jpg",
+    "link": "https://boardgamegeek.com/thing/152174",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2014",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.16745",
+    "averageWeight": "1.8889",
+    "boardGameRank": "14595",
+    "mechanics": [
+      "Pattern Recognition",
+      "Pick-up and Deliver",
+      "Set Collection"
+    ],
+    "categories": [
+      "Real-time"
+    ],
+    "designers": [
+      "Kane Klenko"
+    ]
+  }
+}

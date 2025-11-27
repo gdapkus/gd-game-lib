@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:49:25.293Z",
+  "gameDetails": {
+    "id": "412804",
+    "name": "Bank",
+    "type": "boardgame",
+    "description": "Object of the game is to be the player who banks the most points by the end of 10, 15, or 20 rounds!​\n\nThe first person rolls both dice at once and calls out what their dice numbers add up to: (i.e. a two on one dice + a three on the other adds up to 5 points)\n\nA designated 'banker' will then add that roll to the \"Bank Total\", then the person clockwise to the first player rolls and does the same thing, with their roll adding to the \"Bank Total\" for the round. For the first three rolls of a round, points are accumulated with no risk and rolling a 7 is worth 70 points in the \"Bank Total\" instead of 7. After the first three rolls, if doubles are rolled, the \"Bank Total\" doubles its value instead of adding the dice value. At any point in the round, before it has ended, a player may say \"BANK\", adding the current \"Bank Total\" for the round to their personal score, but will no longer be able to roll or accumulate further points that round. After the first three rolls, if a 7 is rolled all players left in the round score 0 points, the round ends and the next round continues.\n\nThere is no limit to how many people bank the points at any time. However, once someone has banked a score, they will sit out the remainder of that round.  They can no longer roll to increase the number of the bank score and they can no longer call out \"BANK\" during that particular round to score further points.​\n\nThe cumulative bank score will continue to increase as players continue to roll in sequence as long as there are still players who have not yet called out \"BANK\" and as long as no one has rolled a 7.​\n\nEnding A Round:\n\nOnce a 7 is rolled OR all players have banked points into their personal accounts, the round will end and another will begin until 10, 15, or 20 rounds are played.\n\nAt the beginning of a new round, everyone regains their ability to roll and call out bank again.​\n\nEnding the Game:\n\nOnce the 10, 15, or 20 rounds have been played, the player with the highest number of points in their personal bank account wins.​​​​\n\n",
+    "image": "https://cf.geekdo-images.com/f2v_D2BI87IljSF4qZfo3w__original/img/SfNB-Zc4MONC6RYJz-wTNrvs63Q=/0x0/filters:format(jpeg)/pic8017149.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/f2v_D2BI87IljSF4qZfo3w__small/img/Js7uM_RtgnuqJSvtQui4hpz0tvw=/fit-in/200x150/filters:strip_icc()/pic8017149.jpg",
+    "link": "https://boardgamegeek.com/thing/412804",
+    "minPlayers": "2",
+    "maxPlayers": "99",
+    "yearPublished": "2021",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "6.27826",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Dice"
+    ],
+    "designers": []
+  }
+}

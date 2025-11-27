@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:13:24.701Z",
+  "gameDetails": {
+    "id": "19916",
+    "name": "Cups",
+    "type": "boardgame",
+    "description": "Cups is a modern member of the mancala games family and was developed by Arthur and Wald Amberstone of the New York Game Associates and published by Sid Sackson in A Gamut of Games.\n\nEach player is given four cups, one pot and 40 beans. Players take turns placing one to four beans sequentially in their cups, beginning with the cup on the left and moving towards their pot on the right. Only if the last bean will land in the pot, a player may pick up all beans from a cup instead, and sow these. Whenever the last bean is placed in an empty cup, beans in the opponent's adjacent opposite cup are captured (to the pot). The player with most beans in the pot at the end of the game wins.\n\n",
+    "image": "https://cf.geekdo-images.com/ABb1nwN8j6kQE65gi8gxcg__original/img/PT0irYoJPzEBu0YJrSRh84Qy7PE=/0x0/filters:format(jpeg)/pic110737.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ABb1nwN8j6kQE65gi8gxcg__small/img/JszpYSOYtnQ3NoNm17cs4IYkadU=/fit-in/200x150/filters:strip_icc()/pic110737.jpg",
+    "link": "https://boardgamegeek.com/thing/19916",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1969",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.5303",
+    "averageWeight": "2",
+    "boardGameRank": "24749",
+    "mechanics": [
+      "Mancala"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Wald Amberstone",
+      "Arthur Amberstone"
+    ]
+  }
+}

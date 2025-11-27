@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T19:31:29.213Z",
+  "gameDetails": {
+    "id": "450173",
+    "name": "Art Society: Friends in High Places",
+    "type": "boardgameexpansion",
+    "description": "Out of all the peers that you try to impress with your impressive collection, there are a few that you consider the cream of the crop. Impressing them gives you the social and political edge you need to truly be the talk of town. There are friends, but then there are &ldquo;friends in high places&rdquo;, and you&rsquo;ll do what you can to stay in their favor, and use it to bless your own pursuits.\n\nIn Friend in High Places, while building your collection, you will try to impress one, or all of three influential people in the local art scene; The Art Curator, the Socialite and the Art Critic.\n\nImpressing the Art Curator will give you access to one powerful favor that can completely change the course of your game. The Socialite will present a series of smaller trends for all of you to compete to follow, the first to complete them gets an earlier choice on which rewards to reap. Keeping an eye on the timing of the Art Critic&rsquo;s publications, and making sure your wall matches whatever the critics currently think is style can really make you the talk of town.\n\n",
+    "image": "https://cf.geekdo-images.com/xd4K1NxmXpkOHMa7mlFZQQ__original/img/NC1Jt7-3WqcaowLsLTNNetEjiyU=/0x0/filters:format(jpeg)/pic8988415.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xd4K1NxmXpkOHMa7mlFZQQ__small/img/hnSBJTfxahnkMYnyvO7xHEfppqQ=/fit-in/200x150/filters:strip_icc()/pic8988415.jpg",
+    "link": "https://boardgamegeek.com/thing/450173",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "10",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Race",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Mitch Wallace (II)"
+    ]
+  }
+}

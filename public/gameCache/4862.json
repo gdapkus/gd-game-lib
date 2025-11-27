@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:30:23.868Z",
+  "gameDetails": {
+    "id": "4862",
+    "name": "Outburst!",
+    "type": "boardgame",
+    "description": "Outburst is a fast-paced party game of rapid-fire brainstorming and team competition. In each round, one team draws a Topic Card and has 60 seconds to shout out as many of the 10 pre-listed answers as they can. Points are earned for each correct answer, with bonus points awarded if the team guesses the Target Answer determined by a die roll.\n\nTopics range from pop culture to everyday trivia&mdash;for example, &ldquo;10 Cars Rich People Drive&rdquo; or &ldquo;Famous Dogs.&rdquo; The opposing team verifies answers using the card viewer, which hides the list until revealed.\n\nOriginally released in 1986, Outburst has had several editions. Earlier versions contain more dated cultural references, while newer editions (like the 2016 release by Parker Brothers) update the topics for modern players.\n\nOften compared to Family Feud, Outburst also served as inspiration for the Canadian game show Talk About, which spawned its own home game by Pressman.\n\n",
+    "image": "https://cf.geekdo-images.com/N4qL3ycANNHlJ39mIZZPhw__original/img/tvM5MFZkr_8LfLn4xU0Icb0JUEs=/0x0/filters:format(jpeg)/pic4990981.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/N4qL3ycANNHlJ39mIZZPhw__small/img/IqgDrdztJ9yz31Vcyz7oTexefa4=/fit-in/200x150/filters:strip_icc()/pic4990981.jpg",
+    "link": "https://boardgamegeek.com/thing/4862",
+    "minPlayers": "2",
+    "maxPlayers": "99",
+    "yearPublished": "1986",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      6,
+      8
+    ],
+    "averageRating": "5.84373",
+    "averageWeight": "1.1642",
+    "boardGameRank": "7221",
+    "mechanics": [
+      "Dice Rolling",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Party Game",
+      "Real-time",
+      "Trivia"
+    ],
+    "designers": [
+      "Brian Hersch"
+    ]
+  }
+}

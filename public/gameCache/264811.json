@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:14:56.784Z",
+  "gameDetails": {
+    "id": "264811",
+    "name": "Project: ELITE – Deathmaw Valley",
+    "type": "boardgameexpansion",
+    "description": "The Proxies have released a foul new bio-weapon &ndash; the ravenous Deathmaw! After suffering the unstoppable hunger of the segmented titan scuttling through cities, its mandibles shoving anything they can grasp into its waiting mouth, the tacticians of Project: ELITE put together a plan. They lured it into a tight valley with high-radiation salvage bait and closed off one end with heavy ordnance. The Great Worm has only one direction to go &ndash; into the deadly firepower and traps of Project: ELITE!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/9BblGx2QqXP4qDxs1cLWlg__original/img/beezlXSqgD-ufzvJibVM5C2Fek8=/0x0/filters:format(jpeg)/pic4422003.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9BblGx2QqXP4qDxs1cLWlg__small/img/uGV4XXdIKeaUWo8C90YOmgPYeu8=/fit-in/200x150/filters:strip_icc()/pic4422003.jpg",
+    "link": "https://boardgamegeek.com/thing/264811",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2020",
+    "playingTime": "0",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.61015",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fighting",
+      "Miniatures",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Konstantinos Kokkinis",
+      "Sotirios Tsantilas"
+    ]
+  }
+}

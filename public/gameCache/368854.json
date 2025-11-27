@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T19:33:32.041Z",
+  "gameDetails": {
+    "id": "368854",
+    "name": "Crossing Oceans",
+    "type": "boardgame",
+    "description": "Featuring fifty historic ships, Crossing Oceans revives the golden era of ocean liners at the turn of the 20th century. Ever larger and faster steamships revolutionized maritime traffic. Daring shipping companies opened steamship lines to the major ports worldwide. Modern steel juggernauts replaced traditional sailing vessels and competed intensely for dominance on the shipping routes.\n\nBuild yourself a thriving merchant fleet, and guide it to economic prosperity. Acquire the most modern steamships on the market and take over the precious ports from your rivals. Build an extensive network of trading posts and coal bunkers to expand the capability of your fleet. Make use of diverse options to carry out lucrative transports and win the prestigious Blue Riband of the North Atlantic.\n\nCrossing Oceans picks up the theme and some elements of the 2017 board game Transatlantic, composing an entirely new game on a large historical map.\n\nDuring their turn, a player can put a ship on the board or take a contract, use contracts in three different ways (optional), and choose an action on the rondel. (The main difference in this design is that it's a rondel game, not a card-driven game.)\n\n",
+    "image": "https://cf.geekdo-images.com/TgH421I-S3_oFSwfMAXXeA__original/img/YY3lEbVi_YopS43DCC2_cUZBO3E=/0x0/filters:format(jpeg)/pic7029375.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TgH421I-S3_oFSwfMAXXeA__small/img/vxc7y0OLMjBBbfBpHuvPwx1po9E=/fit-in/200x150/filters:strip_icc()/pic7029375.jpg",
+    "link": "https://boardgamegeek.com/thing/368854",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.05193",
+    "averageWeight": "2.5",
+    "boardGameRank": "5329",
+    "mechanics": [
+      "Action Retrieval",
+      "Ownership",
+      "Rondel"
+    ],
+    "categories": [
+      "Economic",
+      "Nautical",
+      "Transportation"
+    ],
+    "designers": [
+      "Mac Gerdts"
+    ]
+  }
+}

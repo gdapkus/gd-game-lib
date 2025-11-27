@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:52:32.691Z",
+  "gameDetails": {
+    "id": "83787",
+    "name": "Ecalper",
+    "type": "boardgame",
+    "description": "Ecalper is a 2-player abstract game about negotiation for territory conquest. It was invented in 2010, while the designer were reflecting about the pie rule.\n\nThe game begins with an empty 7x7x7 hex-hex board. The game is scalable, so a beginner can start with 5x5x5 and. Expert players should play on 8x8x8 board or bigger.\n\nOne of the players uses black stones and the other player uses white stones. Players move alternately, starting with black player.\n\nIn the first turn, the black player places just 3 stones.  For each turn afterwards, players replace 1 of their opponent's stones placed in the last turn (not the replaced one) by their own, and continues placing 3 more of his stones.  In the last turn, black replaces just one of the last white stones and the game is over.\n\nThe pie rule can be used.\n\nWhen at the end of the white turn the board has just 1 empty cell, the last turn starts. The game ends with an unoccupied cell. When the game is finished, the player with the largest group of stones wins. If both players have the same score, the winner is the player with less number of groups. Of course a player may resign at time if the situation looks hopeless, this causes his immediate defeat.\n\nFor making the gameplay easier, without memorizing the last three opposite placements each turn, it's possible to mark those stones in some way. For more info about: Homemade Ecalper: an advice.\n\nOnline Play\n\n     Real time, against humans at http://www.iggamecenter.com\n     Against Stephen Tavener's AiAi at http://mrraow.com/index.php/aiai-home/ (Java 8 required)\n     Against Greg Schmidt's Axiom AI at https://boardgamegeek.com/filepage/61515/ecalper-axiom-pc-game\n\n\n",
+    "image": "https://cf.geekdo-images.com/OLFVDQidGpDwtocdwP5umQ__original/img/2VLnIfUC5sP0jxikALReL5-tBsA=/0x0/filters:format(jpeg)/pic817874.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OLFVDQidGpDwtocdwP5umQ__small/img/S3jFSpUOzSo6Qi-j1c5QeORJzzg=/fit-in/200x150/filters:strip_icc()/pic817874.jpg",
+    "link": "https://boardgamegeek.com/thing/83787",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2010",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.4",
+    "averageWeight": "3.3333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Enclosure",
+      "I Cut, You Choose"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Print & Play"
+    ],
+    "designers": [
+      "Matteo Perlini"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-11-26T20:53:55.257Z",
+  "gameDetails": {
+    "id": "126782",
+    "name": "Freimaurerei",
+    "type": "boardgame",
+    "description": "A two-player game of conspiracy among Masonic lodges in Enlightenment Germany. The Illuminati and the Rosicrucians are trying to extend their control over two principalities. Each player controls a Secret Master in one of the two countries, and they compete to see who can most effectively align the local initiates and their prince with the secret faction they support. (Freimaurerei is German for \"Freemasonry.\" Pronounce it \"FRY-mau-reh-rye\")\n\nThe game requires nine stashes of Components: Looney Pyramid Games, a deck of playing cards, dice, and an opaque bag. The Secret Master is a large opaque pyramid (black for Illuminati or white for Rosicrucian), who may be accurately representing his allegiance, or may have the opposite alignment concealed within. Blue pyramids represent Freemasons, who are further initiated into higher degrees by having smaller pyramids stacked on top of them. Small black and white pyramids are nested inside high-degree Masons to show their allegiance to the Rosicrucians or the Illuminati. Yellow and/or orange pyramids are used as money.\n\nDuring the course of play, number cards are placed on the table to represent Masonic lodges, while face cards represent the rulers of the countries. Black suits are Illuminati-allied, and red ones belong to the Rosicrucians. Intrigue actions may change the alignment of rulers, make Mason pieces defect, inspire rulers to suppress lodges, etc.\n\nA certain level of development is needed in order to call a stop to the game. At that point, true alignments are revealed and victory points are totaled. The apparent winner may actually be defeated. Bluffing and subterfuge are key to this game.\n\n",
+    "image": "https://cf.geekdo-images.com/lDqEKVGGl73IctZAdCRrEw__original/img/MF9oT2hL_Wbkqw12lgRlmaIxrWU=/0x0/filters:format(png)/pic1350451.png",
+    "thumbnail": "https://cf.geekdo-images.com/lDqEKVGGl73IctZAdCRrEw__small/img/2rkXxJXvYPNeb6xpAkuwwvK5hVw=/fit-in/200x150/filters:strip_icc()/pic1350451.png",
+    "link": "https://boardgamegeek.com/thing/126782",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2012",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "7.75",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Matthew Rogers"
+    ]
+  }
+}

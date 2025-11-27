@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:28:13.465Z",
+  "gameDetails": {
+    "id": "250458",
+    "name": "Gùgōng",
+    "type": "boardgame",
+    "description": "China, 1570. China is under the reign of the Longqing Emperor, of the Ming Dynasty. He inherited a country in disarray after years of mismanagement and corruption. He resided in the Forbidden city, which was the seat of many emperors under the Ming Dynasty. Constructed from 1406 to 1420, the complex consists of 980 buildings and covers 72 ha (over 180 acres). It is also under the Ming Dynasty that the Great Wall of China was rebuilt, fortified, and expanded. Around this period, China was under heavy attack from the Mongols, so maintaining the Great Wall was essential. Most of what we now have left of the Great Wall, we owe to the Ming dynasty.\n\nThe country was already famous for its very intricate bureaucracy, but this also led to a lot of corruption. Even though the penalties for corruption were very high, the highest Officials of the Forbidden City would pretend to uphold the ban on corruption, by accepting gifts of petitioners, and returning one of seemingly lower value.\n\nG&ugrave;gōng uses this extraordinary custom as its basis. Players take on the role of powerful Chinese families trying to gain influence and power by exchanging gifts with Officials. The gift cards you offer as a player have to be of a higher value than the one you receive, forcing you to make strategic choices regarding which actions you want to take each turn. You will travel around China, sail down the Grand Canal, purchase precious jade, help construct the Great Wall, secure advantages through decrees, influence the game through intrigue, and ultimately, receive an audience with the emperor. If only 1 player succeeds in doing so, he wins. If several players succeed, the player with the most VPs among those players wins the game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/HJ263_vhLJ58QUWPvMVbEg__original/img/pUen2yvuqACs8rQ_aEt4SKViEfU=/0x0/filters:format(jpeg)/pic4143114.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HJ263_vhLJ58QUWPvMVbEg__small/img/uRX0KCJmdwWZiL8Z7fo4V-mwm_E=/fit-in/200x150/filters:strip_icc()/pic4143114.jpg",
+    "link": "https://boardgamegeek.com/thing/250458",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.42251",
+    "averageWeight": "3.0808",
+    "boardGameRank": "463",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Medieval",
+      "Travel"
+    ],
+    "designers": [
+      "Andreas Steding"
+    ]
+  }
+}

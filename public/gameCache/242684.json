@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:15:07.546Z",
+  "gameDetails": {
+    "id": "242684",
+    "name": "Reavers of Midgard",
+    "type": "boardgame",
+    "description": "Reavers of Midgard is a single worker placement game with elements of set collection, dice combat and engine building set in the Champions of Midgard universe.\n\nIn Champions of Midgard, your quest was to become Jarl.  You battled back the trolls, draugr and some of the epic monsters that once threatened the sanctity of your humble port town.  Now it's time to go on the offensive.\n\nIn Reavers of Midgard, you'll be looking to gain glory by raiding nearby villages for their riches, sacking well-fortified castles and battling both man and monster on the open seas. You'll not only need to take your rowdy crew of vikings and the food needed to keep them happy along for the ride but you'll also have to recruit a crew of elite warriors - the Reavers.\n\nReavers can be used in three different ways. They can be made your ship's leader, earning you a one-time bonus and enabling your warriors to be more versatile in combat. They can also be used to rally more warriors to your cause, filling your ship to the brim with the right fighters for the right situations. Finally, they can also be used to help your crew specialize, earning you a bonus every time your crew sails into battle.\n\nWhoever can earn the most glory after six rounds will be the winner.\n\n",
+    "image": "https://cf.geekdo-images.com/RCV5d4ZMgzm20MosK3zADQ__original/img/TQBvSyATFkPKRmILIC14phaxpfQ=/0x0/filters:format(png)/pic3916976.png",
+    "thumbnail": "https://cf.geekdo-images.com/RCV5d4ZMgzm20MosK3zADQ__small/img/MYsrcgv_ztbdhHkSboUN4jfOJjo=/fit-in/200x150/filters:strip_icc()/pic3916976.png",
+    "link": "https://boardgamegeek.com/thing/242684",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.32636",
+    "averageWeight": "2.9216",
+    "boardGameRank": "1199",
+    "mechanics": [
+      "Dice Rolling",
+      "Follow",
+      "Open Drafting",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [],
+    "designers": [
+      "J.B. Howell"
+    ]
+  }
+}

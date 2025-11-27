@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:32:56.207Z",
+  "gameDetails": {
+    "id": "42276",
+    "name": "Wealth of Nations: War Clouds",
+    "type": "boardgameexpansion",
+    "description": "The Clouds of War \nThunder on the Horizon\n\nWar Machines are rumbling to life and the peaceful economies of the land tremble in fear. Will your nation be able to stand in the face of War or will it fall to the military might of your neighbors? Can you negotiate the delicate balance between putting resources into building your economy and creating armies to vanquish your opponents?\n\nA whole new way to play Wealth of Nations including:\n\n- New rules to wage war on your neighbors!\n- Brand New Tiles.\n- Official Second Edition Rules updates.\n- New rules for a faster game!\n- Optional rules\n- Rules for two Players\n\nAn official expansion to Wealth of Nations.\n\n",
+    "image": "https://cf.geekdo-images.com/DVUcQegEyjjh3hOiCN_J2A__original/img/_bG26D-EgeuB1FuwXljidghesvw=/0x0/filters:format(jpeg)/pic477443.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DVUcQegEyjjh3hOiCN_J2A__small/img/yO7lWsYfxbt4MvgUFsP0kbLFSjI=/fit-in/200x150/filters:strip_icc()/pic477443.jpg",
+    "link": "https://boardgamegeek.com/thing/42276",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2010",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.07804",
+    "averageWeight": "3.4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Commodity Speculation",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Economic"
+    ],
+    "designers": [
+      "Peter Hansell"
+    ]
+  }
+}

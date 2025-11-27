@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:02:04.139Z",
+  "gameDetails": {
+    "id": "70767",
+    "name": "Smash Monster Rampage!",
+    "type": "boardgame",
+    "description": "A huge monster, taller than the highest skyscraper, is attacking your city! Work together to mobilize your troops and exterminate the beast before every building becomes a heap of rubble.\n\nIn Smash Monster Rampage!, players work together to defeat an attacking monster before the town is destroyed or too many survivors are lost. The \"Monster Die\" generates random actions for the Monster, making the beast unpredictable and dangerous. It sets buildings ablaze, creates devastating quakes, and destroys everything in its path. Taking turns to move their tank and helicopter units, players get into position to attack the Monster. They can win \"Monster Hit\" cards by successfully firing at the Monster and fulfilling the conditions on the cards.\n\nIf the city is flattened before the Monster is defeated, the Monster wins!\n\n",
+    "image": "https://cf.geekdo-images.com/Snr6pqDf9MBhU8lQSTshVQ__original/img/EGMTcjL5bXan6AuWbkDmAv-45IU=/0x0/filters:format(jpeg)/pic1731248.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Snr6pqDf9MBhU8lQSTshVQ__small/img/8eeU2F3cT5v_ZGIMSmj-3MBX7Hg=/fit-in/200x150/filters:strip_icc()/pic1731248.jpg",
+    "link": "https://boardgamegeek.com/thing/70767",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.47773",
+    "averageWeight": "2.0769",
+    "boardGameRank": "13453",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Humor",
+      "Print & Play",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Mike Swindall"
+    ]
+  }
+}

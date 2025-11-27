@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:12:51.068Z",
+  "gameDetails": {
+    "id": "201748",
+    "name": "Massive Darkness: Heroes & Monster Set – Noble Warriors vs The Cockatrix",
+    "type": "boardgameexpansion",
+    "description": "Expansion for Massive Darkness containing:\n\n3 Hero miniatures (Zoe the Dwarf, Azrael the High Elf and Mila the Barbarian); \n1 Roaming Monster Creature (the Cockatrix); \n5 Cards; \n1 Class sheet pad.\n\n",
+    "image": "https://cf.geekdo-images.com/Ql5rKo5gF34A6tl44P0B5A__original/img/4M699VmX_hYz1rEvjHDjG99pFyQ=/0x0/filters:format(jpeg)/pic3687956.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ql5rKo5gF34A6tl44P0B5A__small/img/9ClZOHd0SbbjInQmR2vgQ0XtPCM=/fit-in/200x150/filters:strip_icc()/pic3687956.jpg",
+    "link": "https://boardgamegeek.com/thing/201748",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.38045",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Raphaël Guiton",
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult"
+    ]
+  }
+}

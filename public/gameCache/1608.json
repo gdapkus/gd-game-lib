@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T20:16:25.351Z",
+  "gameDetails": {
+    "id": "1608",
+    "name": "Ambush!",
+    "type": "boardgame",
+    "description": "from the back of the box:\n\nAmbush! is the solitaire wargame of combat, adventure, and heroism in World War Two France. Using a ground-breaking development of the programmed paragraph solitaire system, Ambush! gives the player control of an American squad, faced with a variety of missions against an ever-changing, hidden German foe.  The variable events, innumerable tactical options, and wealth of unexpected occurrences make Ambush! a solitaire gaming experience unlike any that has gone before. The easily learned rules are specially designed to get the player into the action within minutes.  The player selects and arms his squad, providing each soldier with command and initiative ratings, perception, weapons skill, driving skill, and movement capability. After selecting one of the eight missions provided, the player sends his squad into a mission map to conduct operations called for in the mission.  Soldiers move freely, as far as the player wishes, checking for events each time they move...until the sequenced action rounds are triggered by the whine of German bullets!\n\n",
+    "image": "https://cf.geekdo-images.com/8H-hiPuWsdD07fcj0kMsYA__original/img/pA8C9Vf-DY687SR5oKSgFRLSz0A=/0x0/filters:format(jpeg)/pic265524.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8H-hiPuWsdD07fcj0kMsYA__small/img/QxDn57ooLqX29aWH3ThD0agawOA=/fit-in/200x150/filters:strip_icc()/pic265524.jpg",
+    "link": "https://boardgamegeek.com/thing/1608",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "1983",
+    "playingTime": "240",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.52226",
+    "averageWeight": "3.2553",
+    "boardGameRank": "1329",
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Events",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Movement Points",
+      "Paper-and-Pencil",
+      "Ratio / Combat Results Table",
+      "Scenario / Mission / Campaign Game",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "John H. Butterfield",
+      "Eric Lee Smith"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:07:53.532Z",
+  "gameDetails": {
+    "id": "194879",
+    "name": "Not Alone",
+    "type": "boardgame",
+    "description": "It is the 25th century. You are a member of an intergalactic expedition shipwrecked on a mysterious planet named Artemia. While waiting for the rescue ship, you begin to explore the planet but an alien entity picks up your scent and begins to hunt you. You are NOT ALONE! Will you survive the dangers of Artemia?\n\nNOT ALONE is an asymmetrical card game, in which one player (the Creature) plays against the stranded explorers (the Hunted).\n\nIf you play as one of the Hunted, you will explore Artemia using Place cards. By playing these and Survival cards, you try to avoid, confuse or distract the Creature until help arrives.\n\nIf you play as the Creature, you will stalk and pursue the shipwrecked survivors. By playing your Hunt cards and using the mysterious powers of Artemia, you try to wear down the Hunted and assimilate them to the planet forever.\n\nNOT ALONE is a immersive, thematic card game, where you use guessing, bluffing, hand management, and just a pinch of deck-building to achieve your goal, which is survival for the Hunted... or total assimilation for the Creature!\n\n",
+    "image": "https://cf.geekdo-images.com/2nPAI9x1rOjj2fq30qRFvQ__original/img/Sc9SmhfC5cLiDdXeY9HOQphCKcQ=/0x0/filters:format(jpeg)/pic3118416.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2nPAI9x1rOjj2fq30qRFvQ__small/img/JXiKvNcM8FmuJxJV6-SSm-2CN2o=/fit-in/200x150/filters:strip_icc()/pic3118416.jpg",
+    "link": "https://boardgamegeek.com/thing/194879",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "yearPublished": "2016",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.95819",
+    "averageWeight": "1.9801",
+    "boardGameRank": "945",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Hidden Movement",
+      "Race",
+      "Simultaneous Action Selection",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Horror",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Ghislain Masson"
+    ]
+  }
+}

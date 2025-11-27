@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:36:35.010Z",
+  "gameDetails": {
+    "id": "357992",
+    "name": "Disney Return of the Headless Horseman Game",
+    "type": "boardgame",
+    "description": "After midnight in Sleepy Hollow, the town comes to life with spooky sounds and creepy creatures!\n\nIn Disney Return of the Headless Horseman Game, Ichabod is frightened and needs your help! You have several chances to work together to get him to the covered bridge before the Headless Horseman heads him off...\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/sLEdFsVYPU0A0fHfUvze9Q__original/img/ygLiL3HiYsUaja3ry2BsgMCt1tY=/0x0/filters:format(png)/pic6714751.png",
+    "thumbnail": "https://cf.geekdo-images.com/sLEdFsVYPU0A0fHfUvze9Q__small/img/LJlaWJtE102XC8dXoAwxVPktxiI=/fit-in/200x150/filters:strip_icc()/pic6714751.png",
+    "link": "https://boardgamegeek.com/thing/357992",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": null,
+    "averageRating": "6.97481",
+    "averageWeight": "1",
+    "boardGameRank": "13113",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Children's Game",
+      "Movies / TV / Radio theme"
+    ],
+    "designers": [
+      "Prospero Hall",
+      "Peter Lee"
+    ]
+  }
+}

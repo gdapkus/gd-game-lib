@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:59:12.994Z",
+  "gameDetails": {
+    "id": "386139",
+    "name": "NUCK TATS",
+    "type": "boardgame",
+    "description": "\"Nuck tats\" are messages tattooed on someone's knuckles. If it fits, anything goes.\n\nEach round in NUCK TATS, one player reveals a customer &mdash; a celebrity, character, mythical creature, whoever &mdash; and everyone else writes nuck tats for that customer. The best tat wins the round...and if your friends make you laugh, feel free to throw them a tip. It's that easy!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/-dXp6CY1MwmVsfkZNnp80g__original/img/JwiFmMG-BHkHlL9cKvr3U8EJIvA=/0x0/filters:format(png)/pic7468165.png",
+    "thumbnail": "https://cf.geekdo-images.com/-dXp6CY1MwmVsfkZNnp80g__small/img/gKU_Casz2A1oyCVauMnsC61KB_o=/fit-in/200x150/filters:strip_icc()/pic7468165.png",
+    "link": "https://boardgamegeek.com/thing/386139",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "40",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "40",
+    "bestAtCount": null,
+    "averageRating": "6.38148",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Drawing",
+      "Player Judge",
+      "Simultaneous Action Selection",
+      "Targeted Clues"
+    ],
+    "categories": [
+      "Real-time",
+      "Word Game"
+    ],
+    "designers": [
+      "Funko Games",
+      "Dexter Stevens"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:51:42.442Z",
+  "gameDetails": {
+    "id": "38429",
+    "name": "Cornerstone",
+    "type": "boardgame",
+    "description": "In the game of Cornerstone, players build and climb their towers, working together in teams or in a head to head race to reach the top. Each turn players build by strategically placing blocks, gaining a better vantage point for the Climber or blocking an opponent. Players must manually balance blocks, while strategically balancing offense with defense.  With every move the game gets more exciting as the towers grow taller and the structure more unstable.\nCan you reach the top before it falls?\n\nRe-implemented by:\n\n    Cornerstone Essential\n\n\n",
+    "image": "https://cf.geekdo-images.com/Iwr9D18UlH0DPeKDd-ScCg__original/img/QmGkwLkf8VtiuEvMpo0pdJV9YuY=/0x0/filters:format(jpeg)/pic383999.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Iwr9D18UlH0DPeKDd-ScCg__small/img/mUQVVx-SpnLM1h0xboq0sS-67C0=/fit-in/200x150/filters:strip_icc()/pic383999.jpg",
+    "link": "https://boardgamegeek.com/thing/38429",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.16245",
+    "averageWeight": "1.7037",
+    "boardGameRank": "7477",
+    "mechanics": [
+      "Dice Rolling",
+      "Network and Route Building",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Action / Dexterity"
+    ],
+    "designers": [
+      "Matt Mette"
+    ]
+  }
+}

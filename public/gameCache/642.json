@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:30:17.086Z",
+  "gameDetails": {
+    "id": "642",
+    "name": "Oodles",
+    "type": "boardgame",
+    "description": "Oodles is made up of three main items... a nifty ticking electronic timer that stops when you hold the button down and starts up again when you let go of it, an extraneous plastic Oodle stick (a large \"start player\" marker), and a deck of Oodle cards.\n\nEach card has 10 questions on it, plus a \"Silly Starter.\" The \"silly\" question is asked to the player currently holding the Oodle stick and if he/she answers correctly, they begin answering the questions on the card (each answer begins with the same letter). You are allowed only one guess... so if you're wrong, the moderator calls an \"all play\" and reads the question again. The first player to guess correctly wins the right to keep answering questions on the card - in case of ties, the tied players both take a shot at the next question. The player who answers the last question correctly gets the card... and five cards wins the game. (If the moderator is passing from person to person, if no one gets the last question, the moderator gets the card.)\n\nThe joy of the game is in the odd crossword puzzle-like clues:\n  Q: Cowboy questionnaire\n  A: Gallup Poll\n  Q: A very serious hole\n  A: Grave\n  Q: Where they regularly hang painters\n  A: Gallery\n\nQ: Word to describe a naked grizzly\n  A: Bare\n  Q: Fish with a very deep voice\n  A: Bass\n\nQ: How to get around a circle\n  A: Circumference\n  Q: Lahr's Lion\n  A: Cowardly\n  Q: What the farmer does to his photos\n  A: Crops\n\n",
+    "image": "https://cf.geekdo-images.com/rGPzboSI4J0abdKFepHoiA__original/img/aTvb_VVoEzneUO_pisjwTJBYsbQ=/0x0/filters:format(jpeg)/pic2493652.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rGPzboSI4J0abdKFepHoiA__small/img/UsxOku8i7XsNloV9GcdfqfZHdT0=/fit-in/200x150/filters:strip_icc()/pic2493652.jpg",
+    "link": "https://boardgamegeek.com/thing/642",
+    "minPlayers": "3",
+    "maxPlayers": "10",
+    "yearPublished": "1992",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.08718",
+    "averageWeight": "1.3684",
+    "boardGameRank": "12535",
+    "mechanics": [],
+    "categories": [
+      "Party Game",
+      "Trivia"
+    ],
+    "designers": [
+      "Brian Hersch"
+    ]
+  }
+}

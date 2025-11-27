@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:02:54.395Z",
+  "gameDetails": {
+    "id": "27627",
+    "name": "Talisman: Revised 4th Edition",
+    "type": "boardgame",
+    "description": "Theme:\n\nTalisman is an adventure board game set in a high fantasy medieval world.  Players have 14 characters to choose from all based on role playing archetypes, such as heroes, wizards, villains, thieves, monsters, etc.  The game makes players feel they are traveling the world to find equipment, weapons, ancient relics, and companions that will help them on their quest to acquire the Crown of Command.  Along the way they visit various locales in the worlds, battle each other and fantastic creatures to make their way to the top.\n\nGoal:\n\nEach player is trying to move from the outer world and ultimately to the inner world. Players wander the outer, middle, and inner worlds trying to acquire equipment, weapons, and companions.  They will also improve statistics with equipment, companions, and encounters and battles with fantasy creatures and each other.  Once they complete a Talisman quest, players will enter the inner world and face its challenges to finally reach the Portal of Power to claim the Crown of Command.  Then the other players must race to stop this player before he eventually kills them all with the Command spell.\n\nGameplay:\n\nTo begin, players select a character card from among the 14 provided.  Characters have basic statistics to start.  These are Life [hit points], Strength [physical prowess], and Craft [Magic and Intelligence].  Some characters are naturally more gifted in combat and others in magic, while others are mix of the two.  Additionally characters are often differentiated with unique abilities, starting equipment, and starting spells.  This all makes the players actually feel different during play.  In addition items and companions players acquire during play also add to statistics, increasing Strength, Craft, Life or adding new abilities, etc.\n\nActual game play is relatively simple, making the game easy to pick up with novices.  On a player's turn they throw a die for movement.  Player then chooses which direction, left or right, or if meeting qualifications may be able to move from outer to middle world, or middle to inner world.  Once on space, player follows instructions on space, or encounters face up cards already in space, or other player if in space.  Most spaces have a player draw a number of cards to encounter.  These can be creatures, companions, weapons, equipment, treasure, or relics.  Players must fight creatures and win before acquiring any other items or companions.  If another player is in the space, players may attack with either Craft or Strength but are not required to do so.  The defender defends with same statistic attacked with.  If the defender loses, he loses a life and an item or companion of attackers choice.  If the attacker loses, he loses a life.\n\nPlayers start in the outer world, and build up their character's statistics and items to try and move to the middle world.  There are two ways to move up to the middle world, one requiring a test of strength and the other a boat man's ride for a price.  Once in the middle world, play proceeds in the same manner, but the challenge generally is increased with more threats such as the desert and temple.  However, there is more potential for encounters and items as most spaces now draw more than one card.\n\nIn the middle world, players may also acquire a Talisman quest, that once completed, will grant them a Talisman.  The Talisman is required to unlock the Crown of Command and pass through the Portal of Power in the Inner World.\n\nOnce players have a Talisman and have enough Strength or Craft to enter the Portal of Power, they will try to enter the Inner World.  There they must face and survive the guardians there, like the Vampire's Tower and Werewolf before claiming the Crown of Command.  Once a player claims the Crown of Command, they can cast the Command Spell, automatically forcing a player to lose a life.  It then becomes a race for the Crown as the other players try to take the player with the Crown down before he finishes them all off.\n\nRevised using:\n\n    Talisman: Upgrade Pack\n\n\n",
+    "image": "https://cf.geekdo-images.com/PxQnAcYv74J-dJW_s6CHMA__original/img/o0A1Lkuaqo1zBuMpGk6hsXb5dUY=/0x0/filters:format(jpeg)/pic332870.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PxQnAcYv74J-dJW_s6CHMA__small/img/Fzg4e1lL8MLxk6bSgHxKO2alffc=/fit-in/200x150/filters:strip_icc()/pic332870.jpg",
+    "link": "https://boardgamegeek.com/thing/27627",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.50539",
+    "averageWeight": "2.1714",
+    "boardGameRank": "2071",
+    "mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Roll / Spin and Move",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "John Goodenough",
+      "Robert Harris"
+    ]
+  }
+}

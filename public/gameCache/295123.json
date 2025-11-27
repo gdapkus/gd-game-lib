@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T21:10:33.205Z",
+  "gameDetails": {
+    "id": "295123",
+    "name": "Hellenica: Story of Greece – Leaders and Legends",
+    "type": "boardgameexpansion",
+    "description": "An expansion for Hellenica: Story of Greece that adds unique leaders to the game allowing players to modify the characteristics of their city-state.\n\nEach leader confers a special bonus on the city-state that recruits them. For example, Heracles aids in fighting Mythological Creatures while Socrates makes your research more productive.\n\nEach leader is represented by a deck of cards that appear in a market that players review to recruit the leaders that they want. But, watch out, other players may be desiring the same leaders as you and leaders will not serve two city-states!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/03yXiiI5B-3zzTDybFfyMg__original/img/KArzo4i8fElZuIozUgn4nM_JRnE=/0x0/filters:format(png)/pic5416167.png",
+    "thumbnail": "https://cf.geekdo-images.com/03yXiiI5B-3zzTDybFfyMg__small/img/oET1rXQJ5Kgdn0wwMfanjyD_XtM=/fit-in/200x150/filters:strip_icc()/pic5416167.png",
+    "link": "https://boardgamegeek.com/thing/295123",
+    "minPlayers": "1",
+    "maxPlayers": "7",
+    "yearPublished": "2021",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": null,
+    "averageRating": "8.10917",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Events",
+      "Hidden Victory Points",
+      "Interrupts",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Ancient",
+      "City Building",
+      "Mythology",
+      "Territory Building"
+    ],
+    "designers": [
+      "Scott DeMers"
+    ]
+  }
+}

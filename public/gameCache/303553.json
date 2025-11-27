@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:16:06.087Z",
+  "gameDetails": {
+    "id": "303553",
+    "name": "Skulls of Sedlec",
+    "type": "boardgame",
+    "description": "Sedlec Ossuary, 16th Century AD.\n\nThe Black Plague and Hussite Wars have overcrowded the graveyard. Help the Bone Collector, a half-blind monk, by exhuming graves and arranging the skulls inside the crypt.\n\nYou are novice monks, competing to create the best arrangement of skulls.\n\nDig up graves from the graveyard to reveal cards, take cards into your hand to collect skulls, and arrange the cards from your hand into a stack. Whoever better honors the deceased&rsquo;s last wishes will score more points.\n\nThe Bone Collector will then judge each player&rsquo;s completed stack and declare one as the most exceptional.\n\n&mdash;description from the publisher\n\n\nReleased in the June 2020 Board Game of the Month Club $20+ package.\n\nFinalist (top 3) of Button Shy's 18 Card Challenge: Design a game about a real life location.\n\n",
+    "image": "https://cf.geekdo-images.com/LR0EXZNM9ISEF11WmMM-Lw__original/img/KfhEVVprCfmI8iihlHklomP5nN4=/0x0/filters:format(png)/pic8332459.png",
+    "thumbnail": "https://cf.geekdo-images.com/LR0EXZNM9ISEF11WmMM-Lw__small/img/mWZVFjacCEjozvH4iynF6x5EtnM=/fit-in/200x150/filters:strip_icc()/pic8332459.png",
+    "link": "https://boardgamegeek.com/thing/303553",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "2020",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.37146",
+    "averageWeight": "1.2469",
+    "boardGameRank": "1087",
+    "mechanics": [
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play",
+      "Renaissance"
+    ],
+    "designers": [
+      "Dustin Dobson"
+    ]
+  }
+}

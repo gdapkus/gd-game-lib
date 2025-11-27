@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:51:28.905Z",
+  "gameDetails": {
+    "id": "99392",
+    "name": "Colonial: Europe's Empires Overseas",
+    "type": "boardgame",
+    "description": "Colonial: Europe's Empires Overseas is a board game about colonial times, from the Renaissance to the Industrial Revolution.\n\nIn Colonial players are the rulers of mighty European states and send their ministers to explore the earth, establish missions, ascertain scientific supremacy, and trade in exotic goods. These commodities will have to be exploited on an industrial scale and resold in Europe or in the colonies.\n\nSet against an epic historical backdrop and using a branded Character Card-driven system, conventional dice and custom dice, this fast-paced board game requires careful management, knowledge, diplomacy and a degree of luck to lead to victory in the race for prestige.\n\n",
+    "image": "https://cf.geekdo-images.com/DEiTycKXeyKTfRM4Jfn_YQ__original/img/w_0zmkL6pi2hukT2HZ-x0h_JIOw=/0x0/filters:format(jpeg)/pic1420788.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DEiTycKXeyKTfRM4Jfn_YQ__small/img/I_Ma69KC23TM3UMmKfyZkDFdOPs=/fit-in/200x150/filters:strip_icc()/pic1420788.jpg",
+    "link": "https://boardgamegeek.com/thing/99392",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2011",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.12976",
+    "averageWeight": "3.469",
+    "boardGameRank": "3311",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Exploration",
+      "Negotiation",
+      "Political",
+      "Territory Building"
+    ],
+    "designers": [
+      "Maxence Dumontet",
+      "Patrice Gasser",
+      "Christophe Pont"
+    ]
+  }
+}

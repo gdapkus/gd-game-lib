@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:00:56.894Z",
+  "gameDetails": {
+    "id": "47389",
+    "name": "Roll Through the Ages: The Late Bronze Age",
+    "type": "boardgameexpansion",
+    "description": "Roll Through the Ages: The Late Bronze Age, an official print-and-play expansion later published by Pegasus Spiele, consists of additional rules and a new score sheet. The new rules add four developments (Preservation, Smithing, Shipping, Commerce) and change the cost and reward of five other developments (Medicine, Religion, Granaries, Architecture, Empire). \nTrading between players is now a base rule, and a player who completes the \"shipping\" development can build ships that will allow resource conversion.\n\nRoll Through the Ages: The Late Bronze Age increases both the game's playing time and the level of interactivity between players.\n\n",
+    "image": "https://cf.geekdo-images.com/R8DpR1Dlh6KHxKTqZN_IPQ__original/img/6f75QX4obWvMmUTOxXtqhYga1bY=/0x0/filters:format(jpeg)/pic572522.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/R8DpR1Dlh6KHxKTqZN_IPQ__small/img/erd_MfVn778NVmWQxxvxJ3B2wp8=/fit-in/200x150/filters:strip_icc()/pic572522.jpg",
+    "link": "https://boardgamegeek.com/thing/47389",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2009",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.30141",
+    "averageWeight": "1.8125",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Push Your Luck",
+      "Re-rolling and Locking",
+      "Solo / Solitaire Game",
+      "Trading"
+    ],
+    "categories": [
+      "Ancient",
+      "City Building",
+      "Civilization",
+      "Dice",
+      "Expansion for Base-game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Matt Leacock"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:37:44.021Z",
+  "gameDetails": {
+    "id": "233955",
+    "name": "Montana",
+    "type": "boardgame",
+    "description": "Halfway through the 19th century, the first permanent settlements appeared in Montana. After this, many fortune seekers traveled to this region with their caravans in search of work in order to build a better future for themselves &mdash; and there is an abundance of work as in the mountains precious metals are to be found and on the fields a lot of manpower is required. Meanwhile, the number of settlements is growing and the demand for goods is rising. Recruit the right workers, deliver goods on time, and choose your settlements tactically. Only then you will have the biggest chance of winning Montana.\n\nIn more detail, on each turn players choose one of these three actions:\n\n\n     Recruit: Use the spinner to get new workers.\n     Work: Send your workers to one of the different locations to get resources or money.\n     Build: Spend your resources to build new settlements.\n\n\nThe first player to build all of their settlements wins!\n\n",
+    "image": "https://cf.geekdo-images.com/m6DfJ9oG_ybEIpUl775i1A__original/img/FOG2ghdAtNwo-YwQW9eywpWuqNY=/0x0/filters:format(jpeg)/pic3714270.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/m6DfJ9oG_ybEIpUl775i1A__small/img/bNUl4T8JfVs7_XdFN3qaXJBZDOo=/fit-in/200x150/filters:strip_icc()/pic3714270.jpg",
+    "link": "https://boardgamegeek.com/thing/233955",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.68576",
+    "averageWeight": "2.2292",
+    "boardGameRank": "3089",
+    "mechanics": [
+      "Auction / Bidding",
+      "Auction: Fixed Placement",
+      "Constrained Bidding",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [
+      "American West",
+      "City Building",
+      "Racing",
+      "Territory Building"
+    ],
+    "designers": [
+      "Rüdiger Dorn"
+    ]
+  }
+}

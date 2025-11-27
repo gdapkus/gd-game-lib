@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:10:51.246Z",
+  "gameDetails": {
+    "id": "310993",
+    "name": "Interceptor",
+    "type": "boardgame",
+    "description": "Government officials are plotting to undermine democracy! They need to exchange documents and money in secret, but a pair of investigative journalists are getting suspicious of their activities. Will the intrepid reporters be able to expose the corruption before it's too late?\n\nTwo corrupt politicians need to exchange messages and dirty money while two investigators try to intercept their actions and publish them in the international media.\n\nWinner of Button Shy's 18 identical cards challenge, Interceptor is a game for 4 people in pairs that will sit facing your partner.\n\nThe cards have two sides: money or message. Players must place one of their 5 cards with one side forward and make a pre-arranged secret code for their partner to place the same side forward. Corruptors should try to avoid investigations by placing the opposite side that their opponents put, while investigators want to put on the same side as their opponents.\n\nAfter 4 cards on the table, they are all revealed and losers lose their cards. Whoever runs out of cards loses the game.\n\nBut there is one more thing. If you discover your opponent's code, you can say \"Interceptor!\" and make a guess. If you're wrong, you lose a card, if you get it right, you win the game instantly.\n\nIt is a fast and very fun game, great for playing several games in a row.\n\n&mdash;description from the designer\n\n\nWinner of Button Shy's 18 Card Challenge: Design a game with 18 identical cards.\n\n",
+    "image": "https://cf.geekdo-images.com/SaZSbtqmfJsbotwKRvTXPQ__original/img/NDOLuMpVNu0GMNXxA5rVFhiCe9s=/0x0/filters:format(png)/pic7007015.png",
+    "thumbnail": "https://cf.geekdo-images.com/SaZSbtqmfJsbotwKRvTXPQ__small/img/zzOE05_9NWqyQmkQW69BHrt8KxQ=/fit-in/200x150/filters:strip_icc()/pic7007015.png",
+    "link": "https://boardgamegeek.com/thing/310993",
+    "minPlayers": "4",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.244",
+    "averageWeight": "2",
+    "boardGameRank": "22726",
+    "mechanics": [
+      "Action / Event",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Print & Play",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Felipe Galery",
+      "Gabriel Santana",
+      "Ingrid Spangler"
+    ]
+  }
+}

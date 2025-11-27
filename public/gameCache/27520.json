@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:48:14.575Z",
+  "gameDetails": {
+    "id": "27520",
+    "name": "Age of Steam Expansion: Mississippi Steamboats / Golden Spike",
+    "type": "boardgameexpansion",
+    "description": "This Age of Steam Expansion expands the game to Mississippi Steamboats and the Golden Spike.\n\nAge of Steam Expansion: Mississippi Steamboats: This Age of Steam expansion takes place on the great Mississippi River, where Steamboats were used in conjunction with the railroads to quickly and efficiently deliver goods throughout the Midwest. In this 3-6 player map, players compete to build and deliver goods to steamboats which are moving up and down the Mississippi River. Instead of urbanizing towns into cities, players use the Steamboat Building action to build steamboats outside of port cities. Delivering to a steamboat provides players with a 1 income bonus, and goods can be transported from and through steamboats as well. Each turn, the steamboats move a certain number of spaces up or down the river.\n\nAge of Steam Expansion: Golden Spike: This Age of Steam expansion takes place in 1860&rsquo;s Western USA, where the Union Pacific Railroad and the Central Pacific Railroad raced towards each other in order to complete the first transcontinental railroad system with the Golden Spike. This is a 4-player team-dependent map, with players delivering goods to cities along the main route to build more track towards Promontory; if one side reaches before the other, their opponents are eliminated. The map starts with pre-printed \"hidden\" track tiles which are revealed each time a good is delivered to a city along the main Sacramento/Promontory/Omaha line. The game ends on the turn that at least one team reaches Promontory; if both teams reach it, victory points are tabulated as usual. If only one team reaches it, the other team's score is reduced to zero (but the winning team still determines each of their score using the traditional manner).\n\nThis expansion is professionally designed, printed and mounted on double-sided gameboard, just like the original Age of Steam map.\n\n",
+    "image": "https://cf.geekdo-images.com/IdyaWjKjEdCkU4XybYAwrA__original/img/XdlJ6VavG9Gh-gyJc_ofjEF369k=/0x0/filters:format(jpeg)/pic177304.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/IdyaWjKjEdCkU4XybYAwrA__small/img/r27K8kJQuRvUrawHEbdrjWB1jj0=/fit-in/200x150/filters:strip_icc()/pic177304.jpg",
+    "link": "https://boardgamegeek.com/thing/27520",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.17185",
+    "averageWeight": "3.75",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Ted Alspach"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:17:35.377Z",
+  "gameDetails": {
+    "id": "371140",
+    "name": "Ticket to Ride: Northern Lights",
+    "type": "boardgame",
+    "description": "Welcome to the North! While traveling through Finland, Sweden, Norway and Denmark, you will get to know the most beautiful places in the Nordic countries.  Relax in the bustle of the countries' port cities or be charmed by the wonderful fjords on the north side of the Arctic Circle.  Build railways through the forests, countryside and fells that mark the region.  Establish ferry lines between the picturesque Turku archipelago and the colorful city of Bergen. Create the greatest transport network in Pohjola!\n\nTicket to Ride: Northern Lights is standalone game in Ticket to Ride series. It's designed for 2&ndash;5 players and introduces various end game bonus cards &ndash; 4 of 11 are selected every game, so now there are games where, for example, longest route gives extra points, but in other games you will score some extra, if most unused trains are in your supply.\n\n",
+    "image": "https://cf.geekdo-images.com/orv7QCi6tv8mXo40pDmypg__original/img/0AAFjQP6DfZEuHAVosesj7cnNmY=/0x0/filters:format(png)/pic7084455.png",
+    "thumbnail": "https://cf.geekdo-images.com/orv7QCi6tv8mXo40pDmypg__small/img/p0vvYFPRrQ5O_UbQ18Z3jfsK7eo=/fit-in/200x150/filters:strip_icc()/pic7084455.png",
+    "link": "https://boardgamegeek.com/thing/371140",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.79854",
+    "averageWeight": "1.8571",
+    "boardGameRank": "4662",
+    "mechanics": [
+      "Connections",
+      "Contracts",
+      "End Game Bonuses",
+      "Hand Management",
+      "Network and Route Building",
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "categories": [
+      "Trains"
+    ],
+    "designers": [
+      "Alan R. Moon"
+    ]
+  }
+}

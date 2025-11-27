@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:29:22.623Z",
+  "gameDetails": {
+    "id": "198740",
+    "name": "Lovecraft Letter",
+    "type": "boardgame",
+    "description": "It is the 1920s, and the world is in a state of confusion following WWI. During this time, you and your friends find yourselves amongst mysterious events. You are surrounded by strange figures, letters with unreadable texts, as well as sudden appearances of being unknown. By relying on your connections, you set out to investigate these incidents. Unknown to you are the frightful truths that lie in wait ahead of you...\n\nLovecraft Letter is a card game that combines the Love Letter system with the world of H.P. Lovecraft. In addition to the standard sixteen cards in the Love Letter game are new versions of the cards that include special \"insanity\" powers. If you have one of these cards in your discard pile, then you are insane (at least for the current round) and on future turns can play insanity cards for their regular power or their special power, giving you more options during play. The risk, however, is that you must undergo a sanity check at the start of each of your turns, drawing as many cards from the deck as the number of insanity cards in front of you; draw one or more insanity cards, and you're out for the round.\n\nIf you win the game, whether by being the last person standing or the player with the highest single card after the deck runs out, you win a token colored to reflect whether you were sane or insane. Win enough tokens of the right type, and you win the game. Cthluhu can also help you win the game if you release it at the right time...\n\nWill you put an end to the evil schemes as an investigator, or will you help guide the world to destruction as one of insanity's disciples? It all depends on you.\n\n1920年代、世界はいまだ第一次大戦後の混迷の中にあった。そんな折、あなたの身内、あるいは友人が、不可思議な出来事に遭遇する。周囲に現れた奇妙な人影、読めない文字で綴られた手紙、そして、突然の失踪。\n\nあなたは伝手を頼りに、この事件の調査へと乗り出した。その先にどのような恐ろしい事実が待っているかも知らずに&hellip;&hellip;。\n\n本ゲームは、ラブレターのゲームシステムでクトゥルフの世界観を表現したカードゲームです。通常のカードセットに加えて、恐るべき力を持つ狂気カードが新たに導入され、元のゲームとは異なるゲーム展開を楽しむことができます。\n\n探索者として陰謀を未然に防ぐのか、狂気の信徒となって世界を破滅に導くのか。それらは全てあなたの選択次第です。\n\n",
+    "image": "https://cf.geekdo-images.com/iRDSJ4wnIjbcZnYYmxrS7w__original/img/bSIutW2D3GSfc8vFkkio4NW2pEw=/0x0/filters:format(png)/pic3485528.png",
+    "thumbnail": "https://cf.geekdo-images.com/iRDSJ4wnIjbcZnYYmxrS7w__small/img/a3lM0zDNSGhWG-Q_7h5sMk24xCU=/fit-in/200x150/filters:strip_icc()/pic3485528.png",
+    "link": "https://boardgamegeek.com/thing/198740",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "15",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.22394",
+    "averageWeight": "1.4455",
+    "boardGameRank": "923",
+    "mechanics": [
+      "Deduction",
+      "Hand Management",
+      "Player Elimination",
+      "Score-and-Reset Game",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Fantasy",
+      "Horror"
+    ],
+    "designers": [
+      "Seiji Kanai"
+    ]
+  }
+}

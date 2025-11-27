@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T19:33:26.851Z",
+  "gameDetails": {
+    "id": "2083",
+    "name": "Checkers",
+    "type": "boardgame",
+    "description": "Abstract strategy game where players move disc-shaped pieces across an 8 by 8 cross-hatched (\"checker\") board. \nPieces only move diagonally, and only one space at a time.  If a player can move one of his pieces so that it jumps over an adjacent piece of their opponent and into an empty space, that player captures the opponent's disc.  Jumping moves must be taken when possible, thereby creating a strategy game where players offer up jumps in exchange for setting up the board so that they jump even more pieces on their turn.  A player wins by removing all of his opponent's pieces from the board or by blocking the opponent so that he has no more moves.\nThis game, also known as Draughts, is part of the Checkers family.\n\nThe Official Checker Board to be used in tournaments and official matches of associations like international WCDF, ACF, and APCA usually shall be colored of green and off-white (buff). Board squares shall be not less than 2 inches nor more than 2&frac12; inches wide. Tournament pieces are Red and White, but called Black and White in game related literature.\n\n",
+    "image": "https://cf.geekdo-images.com/S4IBcWYhlbn51_5f0EIR4g__original/img/jUJ1Ev4_WhCIT7aTvyvpIGG7cGI=/0x0/filters:format(jpeg)/pic113720.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/S4IBcWYhlbn51_5f0EIR4g__small/img/wxqQxa2--TclJY8n8hzMGXzk1sI=/fit-in/200x150/filters:strip_icc()/pic113720.jpg",
+    "link": "https://boardgamegeek.com/thing/2083",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1150",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "4.94431",
+    "averageWeight": "1.7147",
+    "boardGameRank": "29575",
+    "mechanics": [
+      "Grid Movement",
+      "Pattern Movement",
+      "Square Grid",
+      "Static Capture"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Comic Book / Strip"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

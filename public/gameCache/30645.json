@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:38:27.672Z",
+  "gameDetails": {
+    "id": "30645",
+    "name": "Tammany Hall",
+    "type": "boardgame",
+    "description": "\"The way to have Power is to take it\" - William \"Boss\" Tweed\n\nTammany Hall is a game of backstabbing, corruption, temporary alliances, and taking power at all costs. If you want to rule New York, you are going to need to play the city's growing immigrant populations against one another. Help the immigrant groups who owe you political favors, call in those favors to slander your rivals, and win elections.\n\nIn Tammany Hall, players help immigrants settle in New York, collect political favors from those immigrant groups, send ward bosses into Manhattan to secure votes, and slander political opponents. An election is held at the end of every fourth year, and the player who uses his power base best will be elected mayor. The Mayor's grip on the city is tenuous at best. After every election, the Mayor must pay off his political rivals by placing them in offices that they can wield to try to take control of the city. Every player is your friend, every player is your enemy.\n\nTammany Hall was the political machine that dominated New York City politics by organizing the immigrant populations. While the organization's influence spanned from its founding in the 1790s to its collapse in the 1960s, this game is set in lower Manhattan roughly between 1850 and 1870 &ndash; the era of Boss Tweed.\n\n",
+    "image": "https://cf.geekdo-images.com/Oesqx8u3Wuwa0S1JcsQREg__original/img/xQZOU1cbg0fU68uKoyQGt3zyfA8=/0x0/filters:format(png)/pic5585780.png",
+    "thumbnail": "https://cf.geekdo-images.com/Oesqx8u3Wuwa0S1JcsQREg__small/img/GmitOj1Yvh7GO_g3Buwdwo-zMx0=/fit-in/200x150/filters:strip_icc()/pic5585780.png",
+    "link": "https://boardgamegeek.com/thing/30645",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2007",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.26692",
+    "averageWeight": "2.7801",
+    "boardGameRank": "957",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Auction: Sealed Bid",
+      "Catch the Leader",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Negotiation",
+      "Political",
+      "Territory Building"
+    ],
+    "designers": [
+      "Doug Eckhart"
+    ]
+  }
+}

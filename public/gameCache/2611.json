@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:55:33.065Z",
+  "gameDetails": {
+    "id": "2611",
+    "name": "The HellGame",
+    "type": "boardgame",
+    "description": "The latest in Infernal Entertainment.\n\nThe HellGame is a board game of diplomacy and intrigue among the daemons of Hell. Each player assumes the role of a triumvirate of daemons on a quest for power and notoriety and the winner is the first player to claim control of one of Hell&rsquo;s circles and have his claim recognized as just by Lucifer Morningstar, Ruler of Hell.\n\nThe HellGame can be played by two to six players and takes between two and four hours to play. It has been described as a cross between Diplomacy and Magic as it uses board and counters to show how the struggle for Hell&rsquo;s Circles rages back and forth, while cards are used for such things as spells and dirty tricks.\n\nThe HellGame is wicked fun and will bring out the best and worst in the players. It will feature stunning graphics as well as the most bewildering cast of characters and creatures ever seen in a board game.\n\n",
+    "image": "https://cf.geekdo-images.com/rQCUZxSMe3lCcnNIrmzv7w__original/img/1UQuTvBbS7gBfDCKDSLa-cqFKH0=/0x0/filters:format(jpeg)/pic785146.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rQCUZxSMe3lCcnNIrmzv7w__small/img/sx8tCzm8zc5szkeCKJOokXzCoLE=/fit-in/200x150/filters:strip_icc()/pic785146.jpg",
+    "link": "https://boardgamegeek.com/thing/2611",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2003",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.50576",
+    "averageWeight": "3.6667",
+    "boardGameRank": "8470",
+    "mechanics": [
+      "Dice Rolling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Dice",
+      "Fantasy",
+      "Horror",
+      "Medieval",
+      "Negotiation",
+      "Renaissance"
+    ],
+    "designers": [
+      "Anders Fager",
+      "Lars Johansson"
+    ]
+  }
+}

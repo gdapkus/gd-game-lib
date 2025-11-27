@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:13:31.317Z",
+  "gameDetails": {
+    "id": "943",
+    "name": "Ligretto",
+    "type": "boardgame",
+    "description": "In Ligretto, each player has their own deck of forty cards, with cards 1-10 in four colors and a unique symbol on the back to identify which cards are theirs. At the start of each round, each player lays out 3-5 cards (depending on the number of players) face up in front of them to create their row; places a face-up stack of ten cards, seeing only the top card, next to their row to create their Ligretto stack; and holds the remaining cards in hand face down.\n\nPlaying at the same time, each player tries to empty their Ligretto stack. If a player has a 1 card on top of any face-up stack, they play it to the center of the table. If they have a 2 card of the same color as any 1 in the center of the table, they can place the 2 card on the 1. All cards in the central piles must be played in ascending order and must be the same color.\n\nIf a player can't play anything, they can reveal cards from the stack in their hand, counting them out in groups of three, then laying them face up while revealing only the top card. They can play this top card onto a central pile as long as the rules for doing so are met.\n\nAs soon as a player empties their Ligretto stack, the round ends. Each player scores 1 point for each of their cards among the central piles, then loses 2 points for each card remaining in their Ligretto stack. In some versions of the game, the player with the highest score wins; in other versions, players then sort all the cards and play another round, with the first player to reach 99 points winning.\n\nA rules variant for Ligretto allows a player to play cards from their Ligretto stack or the cards in hand onto the cards in their row, but only if the numbers are in descending order and the colors of adjacent cards are not identical.\n\n",
+    "image": "https://cf.geekdo-images.com/BQ6UyXXeivndO4F9Hu8CHw__original/img/vHmnrTRfyetzHO1iLIfRtF4Jv6I=/0x0/filters:format(jpeg)/pic1306961.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BQ6UyXXeivndO4F9Hu8CHw__small/img/2dXMh9HI7oiLw7ZGeLcrwfXLtjI=/fit-in/200x150/filters:strip_icc()/pic1306961.jpg",
+    "link": "https://boardgamegeek.com/thing/943",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1988",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.18869",
+    "averageWeight": "1.1683",
+    "boardGameRank": "3639",
+    "mechanics": [
+      "Ordering",
+      "Pattern Building",
+      "Real-Time",
+      "Speed Matching"
+    ],
+    "categories": [
+      "Card Game",
+      "Real-time"
+    ],
+    "designers": [
+      "Michael Michaels"
+    ]
+  }
+}

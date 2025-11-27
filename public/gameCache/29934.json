@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:48:37.248Z",
+  "gameDetails": {
+    "id": "29934",
+    "name": "Amyitis",
+    "type": "boardgame",
+    "description": "In Amyitis the players are rival architects competing to earn the most prestige building one of the seven wonders of the ancient world: the Hanging Gardens of Babylon. The game is named after the daughter (or granddaughter) of Cyaxares, the king of the Medes, who married King Nebuchadnezzar II, ruler of Babylon. The myth says that Amytis' homesickness for the forested mountains of the Median Empire led to the construction of the Hanging Gardens of Babylon, as Nebuchadnezzar attempted to please her by planting the trees and plants of her homeland.\n\nThe players embody noble Babylonians in quest of prestige. All along the game, they strive to raise their status by building gardens and their irrigation network, and by trading and recruiting. At the end of the game, the player with the highest prestige is the winner.\n\nIn this game the players compete to build gardens, acquire plants, hire craftsmen, build irrigation and trade with ancient cities. Points can also be gained from building your palace and controlling the temples. On a turn the players chose one of the following actions: a) Recruit a craftsman, that grants an action (priest on temple, resource, irrigation or camel) b) Move the caravan (to purchase plant or court card or trade) c) Pass to potentially gain income. It is an interactive game where a player's actions directly affect the other players.\n\n",
+    "image": "https://cf.geekdo-images.com/ayF1Nyw9hFSgxiTnJcnxiQ__original/img/CJCcta9mZydWjC2bZBzoCUegdL8=/0x0/filters:format(jpeg)/pic224426.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ayF1Nyw9hFSgxiTnJcnxiQ__small/img/UcoramyyOpx78N9U96Mr1T70vSo=/fit-in/200x150/filters:strip_icc()/pic224426.jpg",
+    "link": "https://boardgamegeek.com/thing/29934",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.90002",
+    "averageWeight": "3.2156",
+    "boardGameRank": "1785",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Ancient"
+    ],
+    "designers": [
+      "Cyril Demaegd"
+    ]
+  }
+}

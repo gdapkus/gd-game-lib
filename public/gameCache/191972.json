@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:25:36.931Z",
+  "gameDetails": {
+    "id": "191972",
+    "name": "Dynasties: Heirate & Herrsche",
+    "type": "boardgame",
+    "description": "Renaissance Europe is coming together, and people have realized that even the most powerful dynasties can achieve more together, so members of those dynasties are marrying, trading and sharing with one another &mdash; but who will end with the biggest piece of the pie?\n\nIn Dynasties, players must make many compromises, whether acting on their own or reacting to the behavior of their fellow players. In addition to these tactical and strategic decisions, luck also plays something of a role as not every marriage brings the windfall expected. Perhaps then another marriage will bring more success and influence?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/mV3c6ahvFBm4AnH2CSPqmw__original/img/MwL7yJTOK111ddeNwr7_Z52e8-0=/0x0/filters:format(png)/pic2987744.png",
+    "thumbnail": "https://cf.geekdo-images.com/mV3c6ahvFBm4AnH2CSPqmw__small/img/jvzkoqXKI8JUgSOOXrD4F2SiZpg=/fit-in/200x150/filters:strip_icc()/pic2987744.png",
+    "link": "https://boardgamegeek.com/thing/191972",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2016",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.20211",
+    "averageWeight": "3.0222",
+    "boardGameRank": "2518",
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "I Cut, You Choose",
+      "Turn Order: Stat-Based"
+    ],
+    "categories": [
+      "Renaissance"
+    ],
+    "designers": [
+      "Matthias Cramer"
+    ]
+  }
+}

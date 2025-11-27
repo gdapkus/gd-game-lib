@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:01:01.445Z",
+  "gameDetails": {
+    "id": "38992",
+    "name": "Royal Palace",
+    "type": "boardgame",
+    "description": "Royal Palace is primarily a game of majority. Each player has servants he will place appropriately on the nine parts of the palace. On his turn, a player will perform actions based on the number of servants available on each location. If he has, for example, three servants on the mint, he gets three pieces of gold. As a bonus, the player with the majority of servants on a location receives generally a bonus extra action.\n\nSome places allow you to add new servants or to move them from room to room. The purpose is to earn gold and royal seals and to use those to recruit the lofty noblemen waiting in the castle park. The latter will be the main source of victory points at the end of the game.\n\nSome noblemen benefits are that you can break the balance in the rooms of the palace and there are also cards with privileges, offering bonuses of the same nature that it is also possible to retain them in hand to score points.\n\n",
+    "image": "https://cf.geekdo-images.com/ivn_A3JwSNsd1Tnyb3WK_A__original/img/wL5Q-idKUvBpwJSsCuKd0z6s_TQ=/0x0/filters:format(jpeg)/pic408380.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ivn_A3JwSNsd1Tnyb3WK_A__small/img/tksIInRHCj9pQo0NSu-KG0i74CU=/fit-in/200x150/filters:strip_icc()/pic408380.jpg",
+    "link": "https://boardgamegeek.com/thing/38992",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.85456",
+    "averageWeight": "2.7773",
+    "boardGameRank": "2272",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Grid Movement"
+    ],
+    "categories": [
+      "Age of Reason"
+    ],
+    "designers": [
+      "Xavier Georges"
+    ]
+  }
+}

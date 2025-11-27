@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:17:07.516Z",
+  "gameDetails": {
+    "id": "182704",
+    "name": "SteamRollers",
+    "type": "boardgame",
+    "description": "In SteamRollers, players use dice to build the best railway network, upgrade their engine, and beat their opponents to the most lucrative cargo deliveries. Make smart use of the dice to become the world's most famous railroad tycoon!\n\nEach round, a certain number of dice are rolled and people draft one die with which to perform an action. They can draw a railroad track on their personal board, use the die to upgrade their engine, deliver a cube from a common supply board using their personal network (if their engine is strong enough) for victory points, or take a special card which allows the player to break the rules in small (or big) ways.\n\nOnce half the cities on the supply board are emptied, the game is over at the end of the round. Players total their delivery points and add extra points for their network, engine and cards. The player with the most points wins.\n\n",
+    "image": "https://cf.geekdo-images.com/QIU_I-1iZqyc6YXN-r5FPg__original/img/dtYm-dUPJ3WZafk792PNH01ee5E=/0x0/filters:format(jpeg)/pic4008984.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QIU_I-1iZqyc6YXN-r5FPg__small/img/Qaj_g5WXAjiq4of65qTeRx17VUA=/fit-in/200x150/filters:strip_icc()/pic4008984.jpg",
+    "link": "https://boardgamegeek.com/thing/182704",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.51293",
+    "averageWeight": "2.1429",
+    "boardGameRank": "3468",
+    "mechanics": [
+      "Dice Rolling",
+      "Network and Route Building",
+      "Open Drafting",
+      "Paper-and-Pencil",
+      "Pick-up and Deliver",
+      "Solo / Solitaire Game",
+      "Take That"
+    ],
+    "categories": [
+      "Dice",
+      "Trains"
+    ],
+    "designers": [
+      "Mark Gerrits"
+    ]
+  }
+}

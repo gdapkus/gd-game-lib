@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:15:04.448Z",
+  "gameDetails": {
+    "id": "394555",
+    "name": "Race for the Galaxy: Xeno Counterstrike",
+    "type": "boardgameexpansion",
+    "description": "Xeno Counterstrike is the sequel to Xeno Invasion, together forming the 3rd arc of RFTG expansions.\n\nIt expands Race for the Galaxy into the starry rift frontier and border zone that lies between the galactic empires and the Xeno hive worlds, with more than 40 frontier worlds (in separate decks) and a different risk/reward method of settling them.\n\nThe resulting greater empire sizes extends the game end conditions to 15+ tableau cards and 15 VPs/player in the common pool. This makes Xeno Counterstrike the version for those players who have wanted RFTG to be just a bit longer (typically, 1-2 rounds more), as the lead now frequently changes near the end as those final large frontier worlds are settled, the larger economic engines hit their stride, and the last 6-devs hit the table.\n\nXeno Counterstrike can be played by itself with just the base game, though its fifth player and optional counterstrike game require Xeno Invasion.\n\nThe counterstrike game begins as a Xeno invasion which, once the Xenos are repulsed, turns the tables as the galactic empires then strike back at the Xeno home systems across the starry rift frontier and border zone.\n\nIn this version, tableau size no longer ends the game: the counterstrike game continues until either an economic victory (VP chips in the pool of 30 VPs/player run out) or a military victory over the Xenos occurs. This is the epic conquest version of Race for the Galaxy; final tableau sizes of 25 cards are not uncommon.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/xvmy-AEGIVLJjiEg67CEPA__original/img/2Sl2pNOXyJxaWYoUy8yhJs5r6oU=/0x0/filters:format(jpeg)/pic8132819.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xvmy-AEGIVLJjiEg67CEPA__small/img/yjIPEK88zNtktJDkKuWaBmH0xgc=/fit-in/200x150/filters:strip_icc()/pic8132819.jpg",
+    "link": "https://boardgamegeek.com/thing/394555",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "9.4",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Simultaneous Action Selection",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Civilization",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Thomas Lehmann"
+    ]
+  }
+}

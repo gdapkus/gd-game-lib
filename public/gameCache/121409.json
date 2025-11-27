@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:23:33.834Z",
+  "gameDetails": {
+    "id": "121409",
+    "name": "1969",
+    "type": "boardgame",
+    "description": "1969 is a push-your-luck style game in which players take the role of the leader of a particular nation's space program attempting the first successful lunar landing mission.\n\nEach turn, the players use their income to hire scientists to research technology to improve their chances of success, hire spies to slow other players down, purchase cards to influence their missions and their competitors, or attempt easier, preparatory missions. Players gain victory points for performing well on prep missions, attracting famous scientists to their cause and, of course, how far they got on the Moon landing mission.\nThe core of the game are the mission tests, which consist of rolling five dice. Dice have success, neutral, and failure results, which add respectively to your success rating, do nothing, or subtract from it. The total of your successes will determine the points you earn from the mission and whether you'll get a bonus on the final lunar mission or not. Die rolls can be affected by technology and your success can be influenced by having scientists research relevant tech and by cards played by any player.\n\n1969 combines simple dice mechanics with elements of resource management and even some light engine building to make an interesting lightweight experience. There are some mechanics of player interference (meaning players can disrupt each other's progress), but these elements can be avoided if desired.\n\n",
+    "image": "https://cf.geekdo-images.com/Saa42uVlx9Jb3c_xC_mRYQ__original/img/wGOYSBgLWXfb0NDZTL1jgGk6JKY=/0x0/filters:format(jpeg)/pic1364640.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Saa42uVlx9Jb3c_xC_mRYQ__small/img/m7m9L5O3c2mVSjIi-bF8eHWxlpE=/fit-in/200x150/filters:strip_icc()/pic1364640.jpg",
+    "link": "https://boardgamegeek.com/thing/121409",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2012",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.28064",
+    "averageWeight": "2.3333",
+    "boardGameRank": "8570",
+    "mechanics": [
+      "Dice Rolling"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Aureliano Buonfino",
+      "Andrea Crespi",
+      "Lorenzo Silva",
+      "Lorenzo Tucci Sorrentino"
+    ]
+  }
+}

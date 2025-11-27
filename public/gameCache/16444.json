@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:16:36.098Z",
+  "gameDetails": {
+    "id": "16444",
+    "name": "The Battle of the Bulge",
+    "type": "boardgame",
+    "description": "Avalon Hill (AH)'s \"Battle of the Bulge\" board war-game -- first edition published in 1965.  Developed with the technical aid of General Anthony C. McAuliffe, U.S.A. (Ret.)\n\nContents include: a 4 page set of Basic Game instructions, a Battle Manual, 2 separate sheets outlining the German and U.S. \"Order of Appearance\", a two-sided Battle Results Table (Basic Game and Tournament Game), a Time Record Sheet, a full-color gameboard, a standard die, and 195 die-cut counters (including blanks).\n\n",
+    "image": "https://cf.geekdo-images.com/MQcGRVT8NvJS0lZdltiyFw__original/img/hoNBrZphuJhW9swIzWR-0MeiGHU=/0x0/filters:format(jpeg)/pic172312.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MQcGRVT8NvJS0lZdltiyFw__small/img/WcOmMHMwGkDA2NcidXeeRoz7GcY=/fit-in/200x150/filters:strip_icc()/pic172312.jpg",
+    "link": "https://boardgamegeek.com/thing/16444",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1965",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.20207",
+    "averageWeight": "2.2239",
+    "boardGameRank": "8948",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Paper-and-Pencil",
+      "Ratio / Combat Results Table",
+      "Simulation",
+      "Variable Set-up",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Larry Pinsky",
+      "Thomas N. Shaw"
+    ]
+  }
+}

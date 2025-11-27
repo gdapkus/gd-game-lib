@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:13:10.553Z",
+  "gameDetails": {
+    "id": "282765",
+    "name": "Mint Cooperative",
+    "type": "boardgame",
+    "description": "The \"big game in a tiny tin\" Mint Series continues with Mint Cooperative, a co-op game that fits in a mint tin!\n\nWork to deliver Mintopia City and the other towns of Mortimer County from the periodontal peril that is the Dominion of Halitosis!\n\nThe players, will be collectively trying to defeat the villain by making it through all of the Mayhem cards in the Trouble deck, utilizing each of their individual Superhero specialties and other randomized stunts, before triggering the end of the game.\n\nTo win, the players must reveal and process all of the Mayhem cards in the Trouble Deck without the Regional Panic Track meeting or exceeding 27.\n\n",
+    "image": "https://cf.geekdo-images.com/pEaJrQKaFzXhISfFaeFEkA__original/img/hED757IuGZG-_MGMsTgH0Ad-TJM=/0x0/filters:format(png)/pic4907863.png",
+    "thumbnail": "https://cf.geekdo-images.com/pEaJrQKaFzXhISfFaeFEkA__small/img/Xrw8QVQ6VZ1E9uZNJDCGgaCFFrE=/fit-in/200x150/filters:strip_icc()/pic4907863.png",
+    "link": "https://boardgamegeek.com/thing/282765",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "6.02279",
+    "averageWeight": "1.95",
+    "boardGameRank": "8089",
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Events",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Dice",
+      "Humor"
+    ],
+    "designers": [
+      "Jonathan Gilmour-Long",
+      "Brian Lewis"
+    ]
+  }
+}

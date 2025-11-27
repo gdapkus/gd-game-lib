@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:25:20.261Z",
+  "gameDetails": {
+    "id": "6137",
+    "name": "Drive",
+    "type": "boardgame",
+    "description": "In the two-player card game Crazy Chicken, players try to collect as many types of chickens as possible. Each turn, they draw two cards &ndash; from the two draw piles or two discard piles, with each card coming from a different pile &ndash; then either discard one card or lay down a set of cards. To lay down a set, you need at least two cards if that type of chicken hasn't been played or more cards than are already on the table if it has been played. Any cards of the same type on the table are discarded onto a single discard pile. The round ends when one player has six types of chicken, all types of chicken are on the table, or only one draw pile remains. Players then earn points based on which types of chickens they own: for example, Marilyn Henroe has only six cards in the deck and is worth 6 points, while Billy the Chick has twenty cards and is worth 20 points.\n\nAfter four rounds, the player with the most points wins.\n\nIn 2005, SimplyFun republished Crazy Chicken as Drive, with rules for up to four players and a collectible car theme. Three rounds are played rather than four.\n\n",
+    "image": "https://cf.geekdo-images.com/5_GcxrV9x-yAXZpukgbT9g__original/img/DU2FlzK3xYcjw4GLTMqUqQTyFYQ=/0x0/filters:format(jpeg)/pic251684.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5_GcxrV9x-yAXZpukgbT9g__small/img/CyXoLRzcbuvcHPkW_pBjxKIUV7Q=/fit-in/200x150/filters:strip_icc()/pic251684.jpg",
+    "link": "https://boardgamegeek.com/thing/6137",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2003",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.53801",
+    "averageWeight": "1.2586",
+    "boardGameRank": "6265",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "Michael Schacht"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:17:29.568Z",
+  "gameDetails": {
+    "id": "6615",
+    "name": "Napoleon at Austerlitz",
+    "type": "boardgame",
+    "description": "An elegant design, with just 9 pages of rules, plus 4 of historical background, 2 pages of charts and tables and a page of designers notes.\n\nScenarios-The Lower Goldbach, Lannes vs Bagration, Pratzen Heights, and The Campaign game.\n\n1 rule book\n1 34*22 map\n260 counters\n1 6 sided die\n\nFirst published in The Wargamer Magazine # 17 by 3W.\n\nscale = 150 yards/hex = 137 meters/hex\n\n",
+    "image": "https://cf.geekdo-images.com/AC9ivvYnxdoiM9JT_T5GFw__original/img/YAcwflKYuH4P28ugA92AIDdjm8k=/0x0/filters:format(jpeg)/pic49752.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AC9ivvYnxdoiM9JT_T5GFw__small/img/ikiCnHtdaOV45kFnqzRgAYbQ10I=/fit-in/200x150/filters:strip_icc()/pic49752.jpg",
+    "link": "https://boardgamegeek.com/thing/6615",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "1981",
+    "playingTime": "300",
+    "minPlayingTime": "300",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "6.15584",
+    "averageWeight": "2.4545",
+    "boardGameRank": "18739",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid"
+    ],
+    "categories": [
+      "Fighting",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "Jim Hind",
+      "Keith Poulter"
+    ]
+  }
+}

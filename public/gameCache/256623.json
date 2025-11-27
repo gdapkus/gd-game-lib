@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T21:00:42.984Z",
+  "gameDetails": {
+    "id": "256623",
+    "name": "Realm of Sand",
+    "type": "boardgame",
+    "description": "The Realm of Sand, the mirror of the material world and the source of magic in Ragusa, has started dying. After thousands of years of overuse, the magic has begun to dissipate. With the realm in peril, time bends and reality shifts uncontrollably in the physical world.\n\nThe Queen of Ragusa has embarked on a journey to the Realm of Sand to save her home. While she travels the plane awaking the power of the glyphs, you as a royal magician must act quickly to assemble those glyphs and stabilize the magic to reconstruct the realm of sands. Who will help the queen save Ragusa and become hero of the Realm of Sand?\n\n",
+    "image": "https://cf.geekdo-images.com/anjjVr-Hfhc3eIykwBv1jQ__original/img/Q8969o5p1kk9NEEeuvLDdZ2LFJ4=/0x0/filters:format(jpeg)/pic4828148.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/anjjVr-Hfhc3eIykwBv1jQ__small/img/mskj_X-LcADICu_5ZfZK5PRWzkg=/fit-in/200x150/filters:strip_icc()/pic4828148.jpg",
+    "link": "https://boardgamegeek.com/thing/256623",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.74061",
+    "averageWeight": "2.0357",
+    "boardGameRank": "4205",
+    "mechanics": [
+      "Contracts",
+      "Open Drafting",
+      "Pattern Building",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Fantasy",
+      "Puzzle"
+    ],
+    "designers": [
+      "Ji Hua Wei"
+    ]
+  }
+}

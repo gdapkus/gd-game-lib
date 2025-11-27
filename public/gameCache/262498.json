@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:08:03.415Z",
+  "gameDetails": {
+    "id": "262498",
+    "name": "Puzzle Dungeon",
+    "type": "boardgame",
+    "description": "Puzzle Dungeon is a solitaire hand management, modular board, set collection game in which you control a monster hunter making their way through a dungeon filled with several types of monsters and their kings.\n\nIn Puzzle Dungeon, the player uses the limited cards in their hand and cards they deal into play from a deck to defeat enemies which are dealt randomly each game to form a unique board. Players are limited by the order in which their cards are dealt and the order of the monsters in the dungeon, so a strong strategy is required to win.\n\nPuzzle Dungeon features twenty double-faced monster cards. The front of each monster card features an average monster of that type: a vampire, a goblin, or haunted armor. The back of each monster card depicts that monster as a monster king. There are four of each type of monster. When the third monster of a type is defeated, the fourth is flipped over to the monster king. Monster kings have punishing abilities and a strong effect on the game.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/-aFnYdoluhw2mjE3a1IIkg__original/img/Z7RK6oeVLX7AMf0VvoNfE8fNrAY=/0x0/filters:format(jpeg)/pic8563339.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-aFnYdoluhw2mjE3a1IIkg__small/img/LI5NMOizBMlZO3dQ0scfYUdKRtQ=/fit-in/200x150/filters:strip_icc()/pic8563339.jpg",
+    "link": "https://boardgamegeek.com/thing/262498",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2019",
+    "playingTime": "20",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.78838",
+    "averageWeight": "2.0909",
+    "boardGameRank": "5452",
+    "mechanics": [
+      "Hand Management",
+      "Modular Board",
+      "Set Collection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Puzzle"
+    ],
+    "designers": [
+      "Brian Garber"
+    ]
+  }
+}

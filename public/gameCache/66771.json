@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:00:38.614Z",
+  "gameDetails": {
+    "id": "66771",
+    "name": "Rattus: Pied Piper",
+    "type": "boardgameexpansion",
+    "description": "Europe, 1348. The Black Death ravages Europe. Until now the players have used the help of a handful of different medieval classes to fight the plague. Now it&rsquo;s time to call for reinforcements. 12 new personalities are ready to provide their help to the players. Some of these, like the Queen and the Emperor, use their wealth and power to aid the players. Some, like the Nun and the Bishop, use wisdom and faith to avoid the plague, while others resort to magic and witchcraft, like Pied Piper, who uses his magical flute to lure the rats along with him.\n\n",
+    "image": "https://cf.geekdo-images.com/6Z8R_Cwhs_OJi7lj5xx5GQ__original/img/RaDKU90BpDiEZEnUzPqwc4Gg1SY=/0x0/filters:format(jpeg)/pic666665.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6Z8R_Cwhs_OJi7lj5xx5GQ__small/img/vaEYejqP0VFS5ZIbTWBap1EkvJo=/fit-in/200x150/filters:strip_icc()/pic666665.jpg",
+    "link": "https://boardgamegeek.com/thing/66771",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.25907",
+    "averageWeight": "2.2542",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Medieval"
+    ],
+    "designers": [
+      "Åse Berg",
+      "Henrik Berg"
+    ]
+  }
+}

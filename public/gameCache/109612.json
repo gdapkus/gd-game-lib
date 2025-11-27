@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:58:23.887Z",
+  "gameDetails": {
+    "id": "109612",
+    "name": "Mondriaan 2020",
+    "type": "boardgame",
+    "description": "Mondriaan 2020 is a tile-placement game in which players create abstract images over the course of the game that resemble the work of Dutch artist Piet Mondrian (whose last name was originally spelled \"Mondriaan\"). But the players aren't working collaboratively &ndash; no, they want to make strong color connections for their own glory.\n\nOne player starts with a yellow tile, the other with a red tile. Twenty-one other tiles have some combination of red, blue and yellow on them, with each corner being a solid color. One tile is placed randomly on the table as a starting tile, and the other tiles are randomly distributed between the two players.\n\nOn a turn, a player adds one tile to the layout. The tile must be adjacent to at least one tile already on the board, and the colors of the just-placed tile must match all adjacent tiles, even if they touch only at a corner. The player scores points by adding to colored areas already on the board; he scores one point for each tile in a colored area that he adds to, while scoring no points for the tile just placed. (The starting player begins with five points.)\n\nA player must add a tile to the layout on his turn, discarding a tile instead if one can't be placed. After all tiles have been placed or discarded, the player with the most points wins.\n\n\n     Re-implemented as: TRIFUSION, allowing up to 4 players.\n\n\n",
+    "image": "https://cf.geekdo-images.com/HKuEYSkaxSybjq63nMKtjA__original/img/rm_lBHhF0n6pCw0xH0FTJqto_QM=/0x0/filters:format(jpeg)/pic1109305.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HKuEYSkaxSybjq63nMKtjA__small/img/4qx50Dwr3lplNCfm7ocLfptkbfA=/fit-in/200x150/filters:strip_icc()/pic1109305.jpg",
+    "link": "https://boardgamegeek.com/thing/109612",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2011",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.16765",
+    "averageWeight": "1.8571",
+    "boardGameRank": "17489",
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Corné van Moorsel"
+    ]
+  }
+}

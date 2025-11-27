@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T20:24:03.798Z",
+  "gameDetails": {
+    "id": "397437",
+    "name": "Barrage: The Colorado Connection",
+    "type": "boardgameexpansion",
+    "description": "The Barrage: The Colorado Connection expansion includes a specific map set on the Colorado area providing a new mechanic: the Bridges.\n\nThe Colorado Map includes some new elements: the Construction Sites for Bridges and the Areas for Productive Settlements.\n\nThe rivers represented on the Map flow along deep canyons creating clear physical separations between the delimited regions: the presence of bridges built on the crest of the Dams will allow an easier connection between the Productive Settlements of each region; on the other hand, a Dam with a Bridge cannot be further elevated for the rest of the game. Choose carefully when to build them!\n\nThe Productive Settlements are new action spaces (4 in the Mountains Area, 3 in the Hills Area, 3 in the Plains Area) that can be activated by placing the required number of Engineers. Activating a Productive Settlement has a cost in Credits that depends on the presence or absence of Bridges along the route from the Construction Site (located on the left edge in the Mountains and Plains Areas and right in the Hills Area) to the Productive Settlement you intend to activate.\n\nYou need the base game Barrage to be able to use it. You can also use the Barrage: Leeghwater Project expansion in combination with this expansion.\n\n&mdash;description from the rulebook\n\n",
+    "image": "https://cf.geekdo-images.com/eik1LzCdYPVGVi6xN0zL1A__original/img/Ty3WqyROniydA9MinifTXjpgOjg=/0x0/filters:format(jpeg)/pic8241114.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eik1LzCdYPVGVi6xN0zL1A__small/img/OKU-DXJxBjxQm0P8flqyPsdmv3Y=/fit-in/200x150/filters:strip_icc()/pic8241114.jpg",
+    "link": "https://boardgamegeek.com/thing/397437",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.22672",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Retrieval",
+      "Contracts",
+      "End Game Bonuses",
+      "Income",
+      "Network and Route Building",
+      "Ownership",
+      "Turn Order: Stat-Based",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Economic",
+      "Environmental",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Tommaso Battista",
+      "Simone Luciani"
+    ]
+  }
+}

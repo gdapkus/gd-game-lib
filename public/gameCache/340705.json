@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:47:40.512Z",
+  "gameDetails": {
+    "id": "340705",
+    "name": "1846: The Race for the Midwest – Mini-Expansion",
+    "type": "boardgameexpansion",
+    "description": "This expansion includes two new private companies for 1846 -- one blue square private named \"Boomtown\" and one orange dot private named \"Little Miami\".  These privates provide more variety in the private company draft, and in particular mean that different sets of privates can be used in different 5-player 1846 games.  These privates focus on the area around Cincinnati, which in some groups tends to be overlooked in the base game.\n\nAlso included are two markers for Boomtown and a reprinted private from the base game with clarified wording but no changes in play.\n\nThis expansion will be included with the GMT 2nd edition of 1846 and with the upcoming game 1833NE, and will also be made available separately following the release of the 2nd edition.\n\n",
+    "image": "https://cf.geekdo-images.com/il4rbLBNs_uZVUFbdpfu3g__original/img/qwFEpKspmKhdLtLveYg4SKv7vMg=/0x0/filters:format(jpeg)/pic8002567.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/il4rbLBNs_uZVUFbdpfu3g__small/img/YYnYREWf-fzQCTsR6Q54q6w6Ezg=/fit-in/200x150/filters:strip_icc()/pic8002567.jpg",
+    "link": "https://boardgamegeek.com/thing/340705",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2021",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": null,
+    "averageRating": "7.6796",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Investment",
+      "Market",
+      "Network and Route Building",
+      "Ownership",
+      "Stock Holding",
+      "Tile Placement",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Economic",
+      "Trains"
+    ],
+    "designers": [
+      "Thomas Lehmann"
+    ]
+  }
+}

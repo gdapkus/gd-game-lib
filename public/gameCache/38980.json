@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:57:56.980Z",
+  "gameDetails": {
+    "id": "38980",
+    "name": "Mecanisburgo",
+    "type": "boardgame",
+    "description": "Mecanisburgo is a  2-6 player science-fiction themed game that lasts 120-150 min. It's set in an alternate present in which all the predictions of classic sci-fi (Asimov, Conan Doyle, Clarke, etc) have turned true. Mecanisburgo is the megalopolis capital of the world, where the struggles of the biggest corporations take place. Players control these different corporations, each with different special abilities.\n\nThe game lasts 4 turns and whoever has more victory points is declared winner, unless a sudden victory has happened before. This can happen because of fulfilling alternate victory conditions that change from one game to another, or satisfying some character's victory conditions. A third path to victory is for the last corporation (in VP) to become a  global threat that must be stopped by the rest of the players.\n\n",
+    "image": "https://cf.geekdo-images.com/J6tJQP1NOoaI4kPY8OVZJQ__original/img/52GZWCQmcBdc3aDyMJT5vFhz3l8=/0x0/filters:format(jpeg)/pic412086.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/J6tJQP1NOoaI4kPY8OVZJQ__small/img/bxRD2BJznrbVnthzzoLmigUfCWA=/fit-in/200x150/filters:strip_icc()/pic412086.jpg",
+    "link": "https://boardgamegeek.com/thing/38980",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2008",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.5211",
+    "averageWeight": "3.7708",
+    "boardGameRank": "8514",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Open Drafting",
+      "Secret Unit Deployment",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Servando Carballar"
+    ]
+  }
+}

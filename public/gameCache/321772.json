@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:11:49.954Z",
+  "gameDetails": {
+    "id": "321772",
+    "name": "Marvel United: Adam Warlock",
+    "type": "boardgameexpansion",
+    "description": "Kickstarter Exclusive miniature only available with an all-in pledge but is packaged in its own box.\n\nAn additional hero.\n\nContents:\nAdam Warlock Miniature\n12 Cards\n\n",
+    "image": "https://cf.geekdo-images.com/zf7c0Rhj0QTh4KCZw5Tp0g__original/img/BD5yvLCQrh0mIuGMnzTYbzaPMF8=/0x0/filters:format(jpeg)/pic6599165.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zf7c0Rhj0QTh4KCZw5Tp0g__small/img/V22aCHE7syhHft70dRYNXFvxNFg=/fit-in/200x150/filters:strip_icc()/pic6599165.jpg",
+    "link": "https://boardgamegeek.com/thing/321772",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      1,
+      4
+    ],
+    "averageRating": "8.21077",
+    "averageWeight": "1.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Programmed Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": []
+  }
+}

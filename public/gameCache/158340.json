@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:57:27.740Z",
+  "gameDetails": {
+    "id": "158340",
+    "name": "Lost Legacy: Flying Garden",
+    "type": "boardgame",
+    "description": "Lost Legacy: Flying Garden is a game of risk, deduction, and luck for 2&ndash;4 players. You start the game with one card in hand from a deck of sixteen cards. On a turn, you do the following:\n\n\n         Draw: Draw the top card from the deck and add it to your hand.\n         Play: Choose one of the two cards in hand to play and place it face up in front of you.\n         Effect: Carry out the played card's effect, after which the card is considered as discarded.\n         End: If there is at least one card left in the deck, the turn goes to the next player; if not, the investigation phase starts. Using the investigation speed indicated on the card each player has in hand, players take turns guessing which player (whether yourself or someone else) holds the \"Lost Legacy\" card; this card might also be in the \"Ruins\", a location that holds one card at the start of the game and possibly acquires more cards during play. The player who guesses correctly wins; if no one finds the Lost Legacy, then everybody loses.\n    \n\n\nBy combining different Lost Legacy sets (while keeping only a single Lost Legacy card in play), up to six players can compete at the same time.\n\nThis is the English release of the 16 cards Flying Garden set in Lost Legacy with new artwork. The Starship set is released separately.\n\n",
+    "image": "https://cf.geekdo-images.com/1Zm4GQ769FTRGyCS9RkLzA__original/img/xbYX7KZvXxG7qPtYuLop4Wfrfa8=/0x0/filters:format(jpeg)/pic1998163.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1Zm4GQ769FTRGyCS9RkLzA__small/img/sGk-TiJyK7m3xKPKMwvLJvhUjLY=/fit-in/200x150/filters:strip_icc()/pic1998163.jpg",
+    "link": "https://boardgamegeek.com/thing/158340",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2013",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.67671",
+    "averageWeight": "1.3231",
+    "boardGameRank": "3128",
+    "mechanics": [
+      "Hand Management",
+      "Memory",
+      "Player Elimination"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction"
+    ],
+    "designers": [
+      "Seiji Kanai",
+      "Hayato Kisaragi"
+    ]
+  }
+}

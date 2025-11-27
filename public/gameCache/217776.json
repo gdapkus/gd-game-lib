@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-26T20:28:38.083Z",
+  "gameDetails": {
+    "id": "217776",
+    "name": "Import / Export",
+    "type": "boardgame",
+    "description": "Import / Export is a role selection game with a passive and active economy driven by player decisions. You have the power to gain over one hundred unique powers by exporting shipments of goods, specializing into a varied tech tree, and unlocking advanced game engines that will be completely unique to each play!\n\nOnce your shipments enter the open sea, someone can trigger an Import action, where everyone will hold a silent auction to buy your containers and either allocate them as a future end game investment or an immediate boost to their available actions for specific roles.\n\nThe end goal of the game is to have the most credits, which will be a combination of your physical credits, passive credits that were saved as imported goods, plus any bonuses from completed shipments.\n\n",
+    "image": "https://cf.geekdo-images.com/0NHi3tqHxg79C7LsUhH8eA__original/img/UbpDukOnBZg6fVt1EozX-9OH1UI=/0x0/filters:format(jpeg)/pic3721705.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0NHi3tqHxg79C7LsUhH8eA__small/img/vL4kxU-FKv8xWELeFtgXTb7SGgI=/fit-in/200x150/filters:strip_icc()/pic3721705.jpg",
+    "link": "https://boardgamegeek.com/thing/217776",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.13035",
+    "averageWeight": "3.2",
+    "boardGameRank": "3379",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Stock Holding",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Economic",
+      "Industry / Manufacturing",
+      "Math",
+      "Nautical",
+      "Pirates",
+      "Transportation"
+    ],
+    "designers": [
+      "Jordan Draper"
+    ]
+  }
+}

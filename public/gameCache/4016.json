@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:17:48.633Z",
+  "gameDetails": {
+    "id": "4016",
+    "name": "\"Scratch One Flat Top!\"",
+    "type": "boardgame",
+    "description": "\"Scratch One Flat Top!\" is an Operational/Tactical level wargame which recreate the Battle of the Coral Sea. Warned by MAGIC of a Japanese plan to land at Port Moresby, Admiral Nimitz sends two precious U.S. fleet carriers and an assortment of escorts to put an end to the long series of Allied  disasters and to put a stop to the Japanese juggernaut.\n\nGame is double blind, no referee needed\n\n",
+    "image": "https://cf.geekdo-images.com/1gylgVPT-EOPKbNaadjSWg__original/img/VusL-nle3wHEONcvIX7XrQB5xp0=/0x0/filters:format(png)/pic1716919.png",
+    "thumbnail": "https://cf.geekdo-images.com/1gylgVPT-EOPKbNaadjSWg__small/img/KXQgOOGKPAIdcGQSUp15yVKOo7M=/fit-in/200x150/filters:strip_icc()/pic1716919.png",
+    "link": "https://boardgamegeek.com/thing/4016",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1995",
+    "playingTime": "600",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "600",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.48617",
+    "averageWeight": "2.9524",
+    "boardGameRank": "13695",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Nautical",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Peter Bertram"
+    ]
+  }
+}

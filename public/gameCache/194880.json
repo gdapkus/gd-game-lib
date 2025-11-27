@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:02:20.174Z",
+  "gameDetails": {
+    "id": "194880",
+    "name": "Dream Home",
+    "type": "boardgame",
+    "description": "What would your house look like? Would you rather have a huge bedroom with an elegant canopy bed or a spacious living room with a grand piano? You are going to play a part of designers who will plan a house and add more and more rooms to it.\n\nDream Home is a family game about building and furnishing your new house. Over twelve rounds, players collect pairs of cards consisting of a room card and an accessory card (roof, helper, furnishing or tool) and place them on their personal boards, creating their dream homes.\n\nAt the end of the game, all players&rsquo; houses are finished and fully furnished. Players compare their houses, counting points for functionality, good design, quality of roof and furnishing. The player with the nicest and most comfortable house wins.\n\n",
+    "image": "https://cf.geekdo-images.com/CtVH__gM0TBISzOzV3OeFQ__original/img/d2B_-IP89EV5g22xMzggb4yyit0=/0x0/filters:format(jpeg)/pic3176771.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CtVH__gM0TBISzOzV3OeFQ__small/img/2aOcQ_RKw7fJYJTTdWrFHIk6coE=/fit-in/200x150/filters:strip_icc()/pic3176771.jpg",
+    "link": "https://boardgamegeek.com/thing/194880",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.8598",
+    "averageWeight": "1.6548",
+    "boardGameRank": "1274",
+    "mechanics": [
+      "Memory",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Variable Phase Order"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Klemens Kalicki"
+    ]
+  }
+}

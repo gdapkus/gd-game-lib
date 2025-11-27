@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T21:02:22.266Z",
+  "gameDetails": {
+    "id": "2794",
+    "name": "Spinball",
+    "type": "boardgame",
+    "description": "Try to maneuver the ping-pong ball into your opponents goal by deftly applying just enough backspin and English to reflect off the sidewalls and around the barrier that separates you.  You have 5 attempts to get a goal, as long as the ball keeps returning to you.  But if you put too much speed on it, it'll fly off the other side as there's no backstop in this game, only side rails.  If you can manage to curl it all the way into your opponents 'end zone' and make it come back into the goal, you get two points.  But instead of taking a point, you can set up a blocker instead, to try to protect your goal.  Comes with each players yoke like ball holder and rubber shooting implement with a small wooden handle.  One of a kind designs from Charbanova Studio (home of Aaron Weissblum), each one is hand painted and unique.\n\n",
+    "image": "https://cf.geekdo-images.com/m8oUMXv5yS3Bm8Nu9L-KJA__original/img/JlSMvDbRV7KhWO7g0-9WazXaIo0=/0x0/filters:format(jpeg)/pic2472645.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/m8oUMXv5yS3Bm8Nu9L-KJA__small/img/fP-RwsmEagkoXf59AdYUym-I2ik=/fit-in/200x150/filters:strip_icc()/pic2472645.jpg",
+    "link": "https://boardgamegeek.com/thing/2794",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2001",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.96755",
+    "averageWeight": "1.1875",
+    "boardGameRank": "8928",
+    "mechanics": [],
+    "categories": [
+      "Action / Dexterity"
+    ],
+    "designers": [
+      "Aaron Weissblum"
+    ]
+  }
+}

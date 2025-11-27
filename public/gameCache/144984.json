@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:29:40.502Z",
+  "gameDetails": {
+    "id": "144984",
+    "name": "Mascarade: Usurper",
+    "type": "boardgameexpansion",
+    "description": "The Usurper is a new character card for Mascarade. The player who holds the Usurper &ndash; or who is at least pretending to hold the Usurper &ndash; points at another player and announces what he thinks this other player's role is. If he's correct, he gains the power associated with the role guessed. (Note that if the revealed card is immediately to the left of the Usurper, the player who is next in line to play must take the second action: \"Swap cards or not\".)\n\nHe's also one of the characters in Mascarade Expansion.\n\n",
+    "image": "https://cf.geekdo-images.com/9QX87mpXuLYelO_6BoOGoQ__original/img/xDhBHOGkptnsgPIwx0CA_epbYU4=/0x0/filters:format(jpeg)/pic1751041.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9QX87mpXuLYelO_6BoOGoQ__small/img/DcP84ZcVWkDBip5Urt0D0hVoIFg=/fit-in/200x150/filters:strip_icc()/pic1751041.jpg",
+    "link": "https://boardgamegeek.com/thing/144984",
+    "minPlayers": "0",
+    "maxPlayers": "0",
+    "yearPublished": "2013",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "6.89672",
+    "averageWeight": "1.6",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Bruno Faidutti"
+    ]
+  }
+}

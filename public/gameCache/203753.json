@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:17:02.972Z",
+  "gameDetails": {
+    "id": "203753",
+    "name": "Statecraft: The Political Card Game – Extreme Supporters Pack",
+    "type": "boardgameexpansion",
+    "description": "Extreme Supporters come with insanely hard to claim preferences, as well as additional special requirements to claim them, making them particularly difficult to manage. Extreme Supporters are shuffled and replace one supporter in the floating supporters area at the start of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/Gp_Jewpyd2Pkw_bbVhHjVQ__original/img/kSao7k6kgk7IGrd9r0T8Kp3w4VA=/0x0/filters:format(png)/pic3102903.png",
+    "thumbnail": "https://cf.geekdo-images.com/Gp_Jewpyd2Pkw_bbVhHjVQ__small/img/9HNtKaXKc4BQdIsCCus585ttxoo=/fit-in/200x150/filters:strip_icc()/pic3102903.png",
+    "link": "https://boardgamegeek.com/thing/203753",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2016",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "6.22222",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Pattern Building",
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Expansion for Base-game",
+      "Political"
+    ],
+    "designers": [
+      "Peter Blenkharn"
+    ]
+  }
+}

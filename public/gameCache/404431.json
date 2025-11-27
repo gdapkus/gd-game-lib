@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:29:42.724Z",
+  "gameDetails": {
+    "id": "404431",
+    "name": "Men-Nefer",
+    "type": "boardgame",
+    "description": "Founded around 3050 BCE and located south of the River Nile Delta, Men-Nefer (a.k.a., Memphis) became the capital of ancient Egypt and the most populated city on the planet.\n\nIn Men-Nefer, you will relive one of the greatest periods of ancient Egypt, carrying out tasks typical to Egyptian culture: acquiring knowledge in the houses of life, navigating and trading on the Nile River, making offerings to the revered God, embalming the corpses of the nobles to send them off to a better life, erecting beautiful sphinxes, and contributing to the construction of the Great Pyramids. In addition to this, you must be careful of how you make your way through this earthly world to be sure that Osiris will grant you passage to Aaru, the long-awaited heavenly paradise of the afterlife.\n\nThroughout three eras, by means of a novel selection of actions that combine worker placement and tile drafting, players choose on each turn which area of Egyptian life and culture they wish to develop. Players must attempt to obtain the greatest number of prestige points in each era since only the one who manages to achieve the most prestige will take the victory.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__original/img/JsUocrjmr10HEIh-Ii97DCIYUIM=/0x0/filters:format(jpeg)/pic7984201.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__small/img/jlC58ndBNtI6kTO61AwdUhBMgHQ=/fit-in/200x150/filters:strip_icc()/pic7984201.jpg",
+    "link": "https://boardgamegeek.com/thing/404431",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.17898",
+    "averageWeight": "3.6768",
+    "boardGameRank": "726",
+    "mechanics": [
+      "Income",
+      "Open Drafting",
+      "Set Collection",
+      "Track Movement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Ancient",
+      "Civilization",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Germán P. Millán"
+    ]
+  }
+}

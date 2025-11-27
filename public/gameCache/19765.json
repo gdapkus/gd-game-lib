@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:52:05.076Z",
+  "gameDetails": {
+    "id": "19765",
+    "name": "Deduce or Die",
+    "type": "boardgame",
+    "description": "This is a deduction game that was published in The Games Journal.\n\nYou will need 3 decks of cards and the deduction sheets to play.  Here is the game description from the website:\n\n\"If you're a fan of deduction games such as Code 777, Clue, Sleuth or Black Vienna, here's an original design you may want to check out. I actually find it more challenging than any of the games I've listed, a statement that will be greeted with delight by some and with horror by others. If you're still with me, be prepared to sharpen both your pencils and your little gray cells. The game is afoot!\"\n-The Games Journal\n\nTheme:    Lawyers stranded on a remote island solving a murder of one of their own.\nGoal:     Deduce the evidence; identify the murderer; if you are the murderer then frame an opponent.\nGameplay: Ask questions, answer questions, deduce based on information received.\n\n",
+    "image": "https://cf.geekdo-images.com/kIVqF5Sf5dOdr0TetnJb9Q__original/img/PIhdPZGj67Li7PaK9Sk7OAIz4e0=/0x0/filters:format(jpeg)/pic160811.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kIVqF5Sf5dOdr0TetnJb9Q__small/img/ImepJXZtQEm9-PH2gpK10ap3mi8=/fit-in/200x150/filters:strip_icc()/pic160811.jpg",
+    "link": "https://boardgamegeek.com/thing/19765",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2003",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.15481",
+    "averageWeight": "3.1",
+    "boardGameRank": "7594",
+    "mechanics": [],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Print & Play"
+    ],
+    "designers": [
+      "Larry Levy"
+    ]
+  }
+}

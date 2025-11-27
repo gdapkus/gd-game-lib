@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T20:56:35.761Z",
+  "gameDetails": {
+    "id": "375115",
+    "name": "Jump Drive: Terminal Velocity",
+    "type": "boardgameexpansion",
+    "description": "As empires rapidly expand, the race for the galaxy continues!\n\nJump Drive: Terminal Velocity is an expansion to Jump Drive. It adds new game cards, optional start worlds and goals, material for a fifth player, and a series of five challenges for solo play.\n\n",
+    "image": "https://cf.geekdo-images.com/Sxh60ASRFSB1UXeYCa_9Lg__original/img/NSQAczurdeHoycrrEkzvn9QhLQM=/0x0/filters:format(jpeg)/pic7190157.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Sxh60ASRFSB1UXeYCa_9Lg__small/img/MwJdKa3GpEFhRKD_cGqWvrMXGJQ=/fit-in/200x150/filters:strip_icc()/pic7190157.jpg",
+    "link": "https://boardgamegeek.com/thing/375115",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2023",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.13338",
+    "averageWeight": "2.2727",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Income",
+      "Multi-Use Cards",
+      "Scenario / Mission / Campaign Game",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Eric Kaminsky",
+      "Thomas Lehmann"
+    ]
+  }
+}

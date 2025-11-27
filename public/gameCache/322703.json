@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:02:19.528Z",
+  "gameDetails": {
+    "id": "322703",
+    "name": "Death Valley",
+    "type": "boardgame",
+    "description": "Sunlight glaring through the windshield. Your favorite songs blasting through the speakers. Candy bar wrappers piled next to a warm drink in the cheap plastic cupholder. Your companion riding in the passenger seat, snapping pictures of landmarks as you settle into the hypnotic rhythm of the road. But be careful as this fun road trip could get dangerous as you drive through Death Valley.\n\nDeath Valley is a pocket-sized, push-your-luck, tableau-building game for 1-2 players, with each traveler striving to assemble the best mix of cards in their journey and scrapbook in order to win the game.\n\nEach turn, players choose whether to assign a card to their journey, or move cards from their journey to their scrapbook. Cards feature stars (points), special abilities (which affect the value and position of cards), and some interesting facts about Death Valley. Each card also lists a hazard: heat, terrain, flood or animals. Having three of the same hazard visible in their tableau causes the player to bust and lose all the progress in their journey.\n\nAt the end of the game, players sum the stars in their journey and any additional points from card abilities to determine who wins.\n\nDeath Valley was a top-three finalist in Button Shy's 18-Card Challenge: Design a game about a real life location.\n\n",
+    "image": "https://cf.geekdo-images.com/aDs97Vr3NP_vc-bg-w1jzw__original/img/EdeCTTIqIn85_BPehdPfnEGXdao=/0x0/filters:format(png)/pic8807033.png",
+    "thumbnail": "https://cf.geekdo-images.com/aDs97Vr3NP_vc-bg-w1jzw__small/img/SF4O-o1F_5TpdJPXtPU32nL595M=/fit-in/200x150/filters:strip_icc()/pic8807033.png",
+    "link": "https://boardgamegeek.com/thing/322703",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2021",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.73819",
+    "averageWeight": "1.8367",
+    "boardGameRank": "3376",
+    "mechanics": [
+      "Pattern Building",
+      "Push Your Luck",
+      "Solo / Solitaire Game",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play",
+      "Travel"
+    ],
+    "designers": [
+      "Kevin Ellenburg"
+    ]
+  }
+}

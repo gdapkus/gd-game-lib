@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:13:55.329Z",
+  "gameDetails": {
+    "id": "427677",
+    "name": "A Nice Cuppa: Seasonal Stress",
+    "type": "boardgameexpansion",
+    "description": "Every season seems to bring a new challenge that complicates your normal routine. Addressing it head-on may help you feel better, as long as you don't ignore your other concerns!\n\nSeasonal Stresses 4-card expansion introduces unique Stress cards. Add one random Stress card above your Tea line at the start of the game. Should you complete the card&rsquo;s requirement, such as having 4 Distracted Tea cards at once, you may immediately use its bonus effect then remove it from play. If you&rsquo;re unable to eliminate your Stress, you&rsquo;ll suffer negative points at the end of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/wNKsfA7nGbbnCTB43m59yw__original/img/lhPUa7YaqyxbQnQ7-MLpyJnP9ic=/0x0/filters:format(png)/pic8390427.png",
+    "thumbnail": "https://cf.geekdo-images.com/wNKsfA7nGbbnCTB43m59yw__small/img/ttEDpdffKV8NEwKNJAdB_KTY8tc=/fit-in/200x150/filters:strip_icc()/pic8390427.png",
+    "link": "https://boardgamegeek.com/thing/427677",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2024",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.20909",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

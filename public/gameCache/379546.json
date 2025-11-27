@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:37:02.552Z",
+  "gameDetails": {
+    "id": "379546",
+    "name": "Grand Central Skyport",
+    "type": "boardgame",
+    "description": "In Grand Central Skyport, you want to efficiently operate your airship station and attract the most prestigious tycoons to your city. During the game, you attract new airships to your skyport, and each airship has a color and an initial slotting movement. Try to maneuver your airships to group them by color so that they stack to score increasingly more points. Unfortunately, with each new ship entering your station, its movement will trigger the rearranging of previously placed airships, so ideally you can race other skyport owners around a central rondel to choose the incoming airships that are best for you.\n\nDrafting tycoons to your skyport will bring unique advantages in manipulating your docked airships, as well as additional scoring opportunities at the end of the game.\n\nDo you have the operational skills to handle the airships arriving at your station as efficiently as possible? If so, you may very well crown yours the grand central skyport.\n\n",
+    "image": "https://cf.geekdo-images.com/41r0g40Vz4p8E8PAHHtk2g__original/img/Wmv2cI-ZsaXD98l_qDru8Io1w68=/0x0/filters:format(png)/pic7988971.png",
+    "thumbnail": "https://cf.geekdo-images.com/41r0g40Vz4p8E8PAHHtk2g__small/img/F4FRm_cV1ipK7ozKxzbFmd3I_yE=/fit-in/200x150/filters:strip_icc()/pic7988971.png",
+    "link": "https://boardgamegeek.com/thing/379546",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.20732",
+    "averageWeight": "2",
+    "boardGameRank": "10467",
+    "mechanics": [
+      "Rondel",
+      "Set Collection"
+    ],
+    "categories": [
+      "Aviation / Flight",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Dan Germain"
+    ]
+  }
+}

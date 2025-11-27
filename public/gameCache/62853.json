@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:56:26.926Z",
+  "gameDetails": {
+    "id": "62853",
+    "name": "JAB: Realtime Boxing",
+    "type": "boardgame",
+    "description": "JAB is a skill-centric strategic boxing card game. In JAB, you get direct control over your boxer's fists, providing an experience as close as possible to real boxing without getting punched in the face. JAB is played in real-time, meaning there are no turns.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tWinning the gameTo win the game, get a knockout by throwing staggering haymakers at your opponent until he eats canvas, or strategically win more rounds than your opponent by impressing the judges with your beautiful technique.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tHow is JAB different?JAB attempts to innovate the real-time genre by challenging a player to be constantly making decisions, rather than simply recognizing patterns or performing calculations. The game also measures your ability to calmly manage your focus in a chaotic situation.\n\n",
+    "image": "https://cf.geekdo-images.com/Mvhpi6HsCLdHF1Wmr_CLew__original/img/tBuLcsmNqnG9i3Gey7R-Ci4sg8A=/0x0/filters:format(jpeg)/pic1094082.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Mvhpi6HsCLdHF1Wmr_CLew__small/img/nrHKqZ68swaQlPGv19e1NuYk2zM=/fit-in/200x150/filters:strip_icc()/pic1094082.jpg",
+    "link": "https://boardgamegeek.com/thing/62853",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2011",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.13711",
+    "averageWeight": "1.7419",
+    "boardGameRank": "6263",
+    "mechanics": [
+      "Memory",
+      "Pattern Building",
+      "Pattern Recognition"
+    ],
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Real-time",
+      "Sports"
+    ],
+    "designers": [
+      "Gavan Brown"
+    ]
+  }
+}

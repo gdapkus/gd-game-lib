@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:15:27.559Z",
+  "gameDetails": {
+    "id": "132505",
+    "name": "Ruhrschifffahrt: Kaufmann und Kohlenhandlung",
+    "type": "boardgameexpansion",
+    "description": "The Merchant and Coal Shop Expansion for Ruhrschifffahrt contains two new progress markers with white background: the merchant and the coal shop.\n\nThis expansion was available at Essen 2012.\n\n",
+    "image": "https://cf.geekdo-images.com/xxj32ZaT7jGuhmYgA1mbng__original/img/HpItvGPqqptmL4tQRFIpIzLkBzA=/0x0/filters:format(jpeg)/pic1451622.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xxj32ZaT7jGuhmYgA1mbng__small/img/IqIxWb4Pv-kKfCu_fuLlIdHlVFc=/fit-in/200x150/filters:strip_icc()/pic1451622.jpg",
+    "link": "https://boardgamegeek.com/thing/132505",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.56081",
+    "averageWeight": "3.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Industry / Manufacturing",
+      "Transportation"
+    ],
+    "designers": [
+      "Thomas Spitzer"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:24:14.163Z",
+  "gameDetails": {
+    "id": "323612",
+    "name": "Bitoku",
+    "type": "boardgame",
+    "description": "In Bitoku, the players take on the roles of Bitoku spirits of the forest in their path towards transcendence, with the goal of elevating themselves and becoming the next great spirit of the forest. To do so, they will have the help of the yōkai, the kodamas and the different pilgrims that accompany them on their path. This is a hand-management, engine-building game with multiple paths to victory.\n\nPlayers will have yōkai represented by the cards that make up their hand, which must be placed in the right places at the right times in order to obtain the maximum benefit from the abilities they offer. Furthermore, during the game players can earn more yōkai cards for their deck, thereby increasing their playing options and achieving a higher score. Each player also has three yōkai guardians (in the form of dice) that they can send to the large regions of the forest on the main board in order to obtain all kinds of new options that they can play during the game. These options can be structures they build in certain areas of the forest, soul crystals that generate resources when certain actions are carried out, and many others as well. The players also have the chance to help the mitamas, lost souls in search of redemption by using the chinkon fireflies.\n\nThere is truly a wide range of actions to carry out, and this is without taking into account the personal domain where the players can lay out another layer of additional strategy while managing the pilgrims. Pilgrims are followers of the player who embark upon journeys of contemplation and reflection who then share the experiences and learning they can along the spirit path with the Bitoku.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/sMP4YfVfwv6vvh_y7EcXzA__original/img/SdMc8sjTpcN8I15uZ_RmKdhLIkY=/0x0/filters:format(jpeg)/pic6182978.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sMP4YfVfwv6vvh_y7EcXzA__small/img/FelEz-syYFGhxLBVeXG_SQPCWRQ=/fit-in/200x150/filters:strip_icc()/pic6182978.jpg",
+    "link": "https://boardgamegeek.com/thing/323612",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.7936",
+    "averageWeight": "3.7644",
+    "boardGameRank": "299",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Turn Order: Claim Action",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "designers": [
+      "Germán P. Millán"
+    ]
+  }
+}

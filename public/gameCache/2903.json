@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:56:04.236Z",
+  "gameDetails": {
+    "id": "2903",
+    "name": "The Hunt for Red October",
+    "type": "boardgame",
+    "description": "The Hunt for Red October depicts \"modern\" naval combat in the North Atlantic, Soviets vs. Nato.\n\nThe game contains 8 scenarios that place various combinations of aircraft, surface ships, and submarines at the players' disposal. The map is broken up into irregular \"spaces\" containing land, shallow or deep sea. Land spaces may contain airbases and/or ports; sea spaces may contain standing detection patrols (SOSUS, etc).\n\nPieces are double sided cardboard of 3 different sizes (capital ships/task forces, small ships/submarines, and aircraft) with the back only giving the basic information (a formation of aircraft, a submarine silhouette or a Task Force symbol) to keep the specific information of the unit secret from the opponent. Each unit has a detection rating and an attack rating.\n\nEach side starts each turn with a random number of detection attempts (2+d10 for NATO, 2+d6 for Soviet). Pieces are moved on the board (ships/subs up to 3 spaces, aircraft up to 1, 4, or 8 depending on type). As opposing pieces are moved into the same spaces, detection attempts are spent trying to locate the enemy units in the space (usually d10 <= detection rating). Detected units are turned sideways so both sides can see it. Once units are found combat may be initiated.\n\nCombat is done in two attack phases. Dice are rolled vs. the attack rating of the attacking unit(s) (usually 1 d10 but there are exceptions) and hits are determined and resolved simultaneously. Ships that did not fire in the first phase conduct a second attack phase. Units can be in combat if not detected but upon firing become detected (which means undetected units almost invariably shoot in the second phase). Hits are again determined. 1, 2 or 3 hits (subs, small surface ships, large surface ships) are required to destroy a unit. Aircraft are destroyed only if the hit on them was a rolled 1 or 2. Victory is determined by scenario conditions. There are several optional rules, none of which appear to significantly increase the complexity of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/Qooy1OxaiofcfZ6wDI0Snw__original/img/cFhAsX0hr8RxMEWFrq_VIMOf5Kk=/0x0/filters:format(jpeg)/pic261029.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Qooy1OxaiofcfZ6wDI0Snw__small/img/eVOkwcLOQxYx5u_qasCYr0v8gaY=/fit-in/200x150/filters:strip_icc()/pic261029.jpg",
+    "link": "https://boardgamegeek.com/thing/2903",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1988",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.01626",
+    "averageWeight": "2.4717",
+    "boardGameRank": "11513",
+    "mechanics": [
+      "Area Movement",
+      "Area-Impulse",
+      "Dice Rolling",
+      "Secret Unit Deployment",
+      "Simulation"
+    ],
+    "categories": [
+      "Modern Warfare",
+      "Nautical",
+      "Novel-based",
+      "Wargame"
+    ],
+    "designers": [
+      "Douglas Niles"
+    ]
+  }
+}

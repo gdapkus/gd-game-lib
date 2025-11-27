@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:54:37.222Z",
+  "gameDetails": {
+    "id": "332885",
+    "name": "Gnome Hollow",
+    "type": "boardgame",
+    "description": "Since the beginning of time, gnomes have been the humble caretakers of nature. In secret, they emerge from their underground homes to maintain meticulous rings of mushrooms known to the human folk as \"fairy rings\". But the work must be done quickly because as soon as a mushroom path is finished, the mushrooms are ready for picking. Who will be the cleverest gnome and harvest the most mushrooms by the end of the season?\n\nGnome Hollow is a spatial, tile-placement, worker-placement game in which you grow a tabletop garden of mushrooms and flowers. Every piece is a hand-painted watercolor that captures the whimsical feel of gnomes and nature. Turns are deceptively simple: Players place tiles into the garden, and move a gnome to take a single action on their turn. Come to Gnome Hollow and experience a peaceful garden, the thrill of competing to harvest buckets of mushrooms, and the reward of gathering in all your shiny treasures!\n\n&middot; Immerse yourself in Gnome Hollow, a captivating fun strategy game where players cultivate a vibrant garden of mushrooms and flowers using strategic tile and worker placement mechanics.\n\n\n&middot; Harvest valuable mushrooms by completing intricate rings, select rewarding bonuses, and sell your mushrooms at the market for the shiniest treasures for points in the hollow.\n\n\n&middot; Enjoy automatic score calculation on player boards, ensuring smooth game play and allowing you to focus on strategic decisions and garden development.\n\n\n&middot; MAGNETIC BOARDS - Gnome Hollow features magnetic player boards, breathtaking components, and an advanced variant for added depth and replayability.\n\n\n&middot; STUNNING ARTWORK - Designed by Ammon Anderson, Gnome Hollow features stunning art and intuitive game play, perfect for both new and experienced board game enthusiasts.\n\n\n&middot; EASY TO LEARN & FUN TO MASTER - With simple rules, strategic depth, and engaging mechanics, Gnome Hollow is ideal for 2-4 players seeking a delightful gaming experience.\n\n",
+    "image": "https://cf.geekdo-images.com/kg2cK5kzUlxip4CONMY70Q__original/img/voKXqtNYiG8VEWLlPI2Rw1QJHO4=/0x0/filters:format(jpeg)/pic8035777.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kg2cK5kzUlxip4CONMY70Q__small/img/R2CS3Eil35rzz6HL3jgnaMd0MMg=/fit-in/200x150/filters:strip_icc()/pic8035777.jpg",
+    "link": "https://boardgamegeek.com/thing/332885",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.92175",
+    "averageWeight": "2.3077",
+    "boardGameRank": "3191",
+    "mechanics": [
+      "Action Queue",
+      "Hexagon Grid",
+      "Pieces as Map",
+      "Set Collection",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Fantasy",
+      "Farming"
+    ],
+    "designers": [
+      "Ammon Anderson"
+    ]
+  }
+}

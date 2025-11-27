@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:38:20.125Z",
+  "gameDetails": {
+    "id": "374173",
+    "name": "Star Wars: The Deckbuilding Game",
+    "type": "boardgame",
+    "description": "The Rebel Alliance fights valiantly against the tyranny of the Galactic Empire. Each new victory brings the Rebels hope, and each heroic sacrifice strengthens their resolve. Still, the Empire's resources are vast, and the firepower of its Empire Navy is unmatched. With neither side willing to accept defeat, their war rages across the galaxy...\n\nIn Star Wars: The Deckbuilding Game, a head-to-head game for two players, the galaxy-spanning war between the Galactic Empire and the Rebel Alliance comes alive on your tabletop. In this easy-to-learn game, you and your opponent each choose a side, playing as either the Empire or the Rebels, and as the game progresses you both strengthen the power of your starting decks and work to destroy each other's bases. The first player to destroy three of their opponent's bases wins.\n\nIn more detail, each player starts with a unique ten-card deck, with seven of those cards providing only resources to acquire new cards. Six cards from a galaxy deck are always on display, with Rebel cards facing the Rebel player, Empire cards the Empire player, and neutral cards turned sideways. You can spend resources to acquire cards in the galaxy row that don't belong to the opponent, and you can use attack power to take out cards that do belong to them, gaining a reward in the process.\n\nEach player starts with a base that lacks abilities (Dantooine for the Rebels and Lothal for the Empire), but when that base is destroyed, you get to choose a replacement from your base deck, with each base having a special ability. Choose wisely to counter your opponent's plans! In addition to having special abilities, capital ships absorb damage meant for your base.\n\nPlayers also fight for control of a Force track to gain additional resources or make use of \"If the Force is with you...\" abilities on their cards.\n\n",
+    "image": "https://cf.geekdo-images.com/U6scsOGrPtVym4nCLaYjyw__original/img/bPFq87JbA919A2vxks_PFF2DwsY=/0x0/filters:format(png)/pic7387735.png",
+    "thumbnail": "https://cf.geekdo-images.com/U6scsOGrPtVym4nCLaYjyw__small/img/0kgu-vLB9MQStlEyaR6bgKkemAQ=/fit-in/200x150/filters:strip_icc()/pic7387735.png",
+    "link": "https://boardgamegeek.com/thing/374173",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2023",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.82331",
+    "averageWeight": "2.0349",
+    "boardGameRank": "223",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Tug of War"
+    ],
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Caleb Grace"
+    ]
+  }
+}

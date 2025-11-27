@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:51:19.784Z",
+  "gameDetails": {
+    "id": "36932",
+    "name": "Claustrophobia",
+    "type": "boardgame",
+    "description": "Claustrophobia is a miniatures-based survival game set within the universe of Hell Dorado.\n\nThe box contains pre-painted miniatures which are placed on large tiles showing the dungeon spaces.  Also included are character boards, counters and markers, and dice.\n\nOne player controls a small group of determined humans, while the other plays an almost unending army of demonic creatures.  The game is thematic and highly asymmetric: human characters are stronger, but the demon characters are more numerous.  Gameplay is very straightforward with a minimum of rules, and each game plays in an hour or less.\n\nBasically, dice are allocated after rolling to perform actions, while cards or special abilities are also available.  The game is about managing decisions and choosing what to do with the resources that you have, managing difficult events and out-thinking your opponent.  Combat is handled by dice.\n\nComplexity is low, with the focus on theme and building towards a tense, climactic ending. \n Claustrophobia is played through scenarios of which there are several in the rulebook.  Generally speaking, the human characters are attempting to complete a task (e.g. escape the catacombs, close a portal) while the demons are focused on stopping them.  There are varying win conditions depending on the scenario chosen.\n\n",
+    "image": "https://cf.geekdo-images.com/OUNLwXPLWGBgqlooTuADeQ__original/img/H5vpyvjR2NkRGDEXDrDBp3L56Kw=/0x0/filters:format(jpeg)/pic570518.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OUNLwXPLWGBgqlooTuADeQ__small/img/_HYYNg_j_lEywSiF2PJEIS2_5WU=/fit-in/200x150/filters:strip_icc()/pic570518.jpg",
+    "link": "https://boardgamegeek.com/thing/36932",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2009",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.4667",
+    "averageWeight": "2.4848",
+    "boardGameRank": "544",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Line of Sight",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Miniatures"
+    ],
+    "designers": [
+      "Croc"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:16:51.648Z",
+  "gameDetails": {
+    "id": "5452",
+    "name": "DAK: The Campaign in North Africa, 1940-1942",
+    "type": "boardgame",
+    "description": "The 5th entry in The Gamer's popular Operational Combat System, and the grandest in scope, DAK covers the entire North African campaign at the regimental level, from Compass to El Alemain and beyond.\n\nThis is the most specialized of the OCS titles, with rules for the Commonwealth brigades & unusual organizations, minefields, the Greek campaign, and a variety of others (including the humorous poke at Richard H. Berg with the Italian Pasta rule: there is no rule for the Italians' preference for pasta).\n\n",
+    "image": "https://cf.geekdo-images.com/2VohhQ3mdvaxUekLXjBcfQ__original/img/0KZMYbn7nQt_jrITbBgAn1ls4PI=/0x0/filters:format(jpeg)/pic361351.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2VohhQ3mdvaxUekLXjBcfQ__small/img/aT2Axn83fglh2wuXJfUwlrj4bsM=/fit-in/200x150/filters:strip_icc()/pic361351.jpg",
+    "link": "https://boardgamegeek.com/thing/5452",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1997",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.09272",
+    "averageWeight": "4.08",
+    "boardGameRank": "6469",
+    "mechanics": [
+      "Hexagon Grid",
+      "Simulation"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Dean Essig"
+    ]
+  }
+}

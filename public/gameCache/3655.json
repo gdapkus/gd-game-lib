@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:01:37.368Z",
+  "gameDetails": {
+    "id": "3655",
+    "name": "The Settlers of Canaan",
+    "type": "boardgame",
+    "description": "Settlers of Canaan takes place in the territory of Canaan off the coast of the Great Sea.  Each Player represents a tribe of Israel as they seek to settle the land of Canaan. The time period of the game spans the time of Joshua's conquests of Canaan (Joshua), the turbulent years ruled by judges (Judges) through the choosing and crowning of King David (I & II Samuel).\n\nThe game uses the same basic mechanics as Settlers of Catan but adds some unique elements, similar to the Historical Scenarios. In the case of this game, players build the wall of Jerusalem by contributing bricks. The player who contributes the most bricks earns victory points and the right to use a special \"rule-breaking\" power of his/her choosing. This is contested in the same manner as \"the longest road\" from Settlers.\n\nThe German version does not use the build Jeruselem and stones mechanisms. Instead there are 13 hero cards that generate God's help. There are events (cards) that take place. Also the German board has 5 hexes not on the English board and one changed hex as well.\nBelongs to the Catan Series.\n\n",
+    "image": "https://cf.geekdo-images.com/rnMr0XseY-s6oq__8gmDVg__original/img/_Q-A5EXUeyZUuvqvufcAH9Wl5lg=/0x0/filters:format(jpeg)/pic162247.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rnMr0XseY-s6oq__8gmDVg__small/img/VeKyAkhmQioTKDP-Zir2Y43KXBU=/fit-in/200x150/filters:strip_icc()/pic162247.jpg",
+    "link": "https://boardgamegeek.com/thing/3655",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2002",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.72933",
+    "averageWeight": "2.3171",
+    "boardGameRank": "4109",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Trading"
+    ],
+    "categories": [
+      "Ancient",
+      "Civilization",
+      "Religious"
+    ],
+    "designers": [
+      "Klaus Teuber"
+    ]
+  }
+}

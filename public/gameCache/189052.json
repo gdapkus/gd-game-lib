@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:08:15.490Z",
+  "gameDetails": {
+    "id": "189052",
+    "name": "Sea of Clouds",
+    "type": "boardgame",
+    "description": "​In Sea of Clouds, as captain of a flying pirate ship, recruit a cutthroat crew, collect relics and unearth the best rum by gathering shares of Loot. Then send your pirates aboard enemy ships to plunder their treasure!\n\nIn each round of the game, players take turns divvying up shares of Loot to gain Rum, Relics, Objects, and Pirates. In some rounds, when ships are flying close together, they will also clash in a Boarding action, using the effects of any Pirates they picked up to gain Doubloons and plunder Loot.\n\nOn your turn, take the first of the three shares of Loot on the table, and look at it secretly. You must decide to either take all the cards in the Share then add the top card from the deck face-down to this Loot space, or to leave the Share and look at the next one. If you choose to do the latter, add the top card from the deck to the Share you declined (or a Doubloon, if there's already three cards), thus increasing its value for the next player. If no shares interest you, blindly take the top card of the deck.\n\nThe card backs give you a hint about what&rsquo;s in the next Shares: Pirates to board other ships, legendary Relics to collect, Rum to be scored at the end of the game, and Items with permanent, immediate, or secret effects.\n\nEvery 4 or 5 rounds (depending on the number of players), Boarding action will occur! Add the strength of your Captain and your Pirates, apply any bonuses or penalties, and face your two neighbors! For each victory, your Pirates will gain Doubloons or steal some Loot! After the fight, all Pirates are discarded.\n\nThe game ends after 12 (or 15) rounds. Players then add the value of their Doubloons and their Loot cards to determine who&rsquo;s the winner.\n\n",
+    "image": "https://cf.geekdo-images.com/NE1p4Sdl65tfpbYYGsayOw__original/img/2o_34v7TQhe6rFCVAHpe8C0T2EQ=/0x0/filters:format(jpeg)/pic3585484.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NE1p4Sdl65tfpbYYGsayOw__small/img/ZPiMEkDP9YdUtvXBKexGJUqpsoA=/fit-in/200x150/filters:strip_icc()/pic3585484.jpg",
+    "link": "https://boardgamegeek.com/thing/189052",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.62745",
+    "averageWeight": "1.7097",
+    "boardGameRank": "2743",
+    "mechanics": [
+      "Hidden Victory Points",
+      "Increase Value of Unchosen Resources",
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Pirates"
+    ],
+    "designers": [
+      "Théo Rivière"
+    ]
+  }
+}

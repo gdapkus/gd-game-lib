@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:07:54.694Z",
+  "gameDetails": {
+    "id": "184525",
+    "name": "Obama Llama",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nWelcome to the rhyming game with the funny sounding name! Obama Llama is full of weird and wonderful rhymes. You'll come across Cara Delevingne on a washing machine, George Clooney doing a moony, and Harrison Ford swallowing a sword. Your job is to describe or mime these rhymes, with your team shouting out as many as they can in 30 seconds time.\n\nObama Llama was first released in 2015 in the UK and has been rereleased in 2016 in a U.S. edition that features a different front cover and more U.S.-tailored game content.\n\n",
+    "image": "https://cf.geekdo-images.com/y95VuWOoAD6ZxxY7GrgMCw__original/img/g05EjxvSvlNMjHJ4e-BhZEXDqTo=/0x0/filters:format(jpeg)/pic3113301.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/y95VuWOoAD6ZxxY7GrgMCw__small/img/pJF4VCDFOO5C404VeL_p3OHKSmI=/fit-in/200x150/filters:strip_icc()/pic3113301.jpg",
+    "link": "https://boardgamegeek.com/thing/184525",
+    "minPlayers": "4",
+    "maxPlayers": "99",
+    "yearPublished": "2015",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "5.71553",
+    "averageWeight": "1",
+    "boardGameRank": "21772",
+    "mechanics": [
+      "Acting",
+      "Memory",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Party Game",
+      "Real-time"
+    ],
+    "designers": [
+      "Matt Edmondson"
+    ]
+  }
+}

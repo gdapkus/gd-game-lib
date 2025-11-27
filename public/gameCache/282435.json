@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:47:42.794Z",
+  "gameDetails": {
+    "id": "282435",
+    "name": "1882: Assiniboia",
+    "type": "boardgame",
+    "description": "In 1882, the CANADIAN PACIFIC RAILROAD pioneered railway construction in the territorial region of Assiniboia, an area now divided up across the provinces of Alberta and Saskatchewan. The area was a hotbed of prospector and investor speculation, as hundreds of square miles of fertile land were made available for colonizing. The Canadian Prairies railway boom had begun.\n\nThis is an 18xx game set in the territorial region of Assiniboia Canada.\n\nSome 1882 features:\n\n     full capitalization\n     a private company which allows moving of a station marker\n     neutral station markers\n     a public company (Canadian National) that uses only neutral markers\n\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/EoZQyUiTIiprEC-pvVRN2Q__original/img/HW1KmHGedewHaQsPtMSljiVcRJM=/0x0/filters:format(jpeg)/pic5322648.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EoZQyUiTIiprEC-pvVRN2Q__small/img/WXZ69OTPXyo9-948j7lbFjM1zpM=/fit-in/200x150/filters:strip_icc()/pic5322648.jpg",
+    "link": "https://boardgamegeek.com/thing/282435",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2019",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.95524",
+    "averageWeight": "3.8788",
+    "boardGameRank": "2479",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Stock Holding",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Marc Voyer"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:58:28.243Z",
+  "gameDetails": {
+    "id": "412911",
+    "name": "Monkey Palace",
+    "type": "boardgame",
+    "description": "Monkey Palace is a jungle-themed game of light strategy that incorporates both collaborative and competitive elements.\n\nPlayers must strategically work together to construct the Monkey Palace while competing for the highest brick income and points, all under the watchful gaze of the Monkey. The palace gradually takes form thanks to a construction using LEGO elements, and each time the board game is played, the building experience and final construction are unique.\n\n",
+    "image": "https://cf.geekdo-images.com/E0_jjeKtADvRnn0vSVGgeQ__original/img/47wS0eCENy1h2sD223YMs4aq0Vg=/0x0/filters:format(png)/pic8445137.png",
+    "thumbnail": "https://cf.geekdo-images.com/E0_jjeKtADvRnn0vSVGgeQ__small/img/oZkmJTRjIayLYOCs8eStlOVEEgo=/fit-in/200x150/filters:strip_icc()/pic8445137.png",
+    "link": "https://boardgamegeek.com/thing/412911",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.17234",
+    "averageWeight": "2.0182",
+    "boardGameRank": "2117",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hot Potato",
+      "Income",
+      "Open Drafting",
+      "Pattern Building",
+      "Pieces as Map",
+      "Three Dimensional Movement",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Animals",
+      "Children's Game"
+    ],
+    "designers": [
+      "David Gordon (I)",
+      "TAM"
+    ]
+  }
+}

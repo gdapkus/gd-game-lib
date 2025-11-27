@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:17:09.083Z",
+  "gameDetails": {
+    "id": "5233",
+    "name": "The Great Battles of Alexander",
+    "type": "boardgame",
+    "description": "The Great Battles of Alexander contains four of the Macedonian conqueror's most famous and decisive battles, all chosen to highlight the developement of the Macedonian Art of War. The battles covered are: \n\n     Chaeronea &ndash; August 338 BC \n     Granicus &ndash; May 334 BC\n     Issus &ndash; November 333 BC\n     Gaugamela &ndash; October 331 BC\n\n\nThe game mechanics use a combat system that emphasizes weapon/armor superiority and maneuverability over quantity. The battles can be fought separately or combined into a campaign version.\n\n",
+    "image": "https://cf.geekdo-images.com/bw1FsvCh5mJzMfXNo9a0yQ__original/img/_YugC9osa-8hWBkGIinr_xK4Bfo=/0x0/filters:format(jpeg)/pic774564.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bw1FsvCh5mJzMfXNo9a0yQ__small/img/2IqNf5o4FBSMxMvnZrxlSLeUfac=/fit-in/200x150/filters:strip_icc()/pic774564.jpg",
+    "link": "https://boardgamegeek.com/thing/5233",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "1991",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.05481",
+    "averageWeight": "3.3947",
+    "boardGameRank": "7241",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Movement Points",
+      "Ratio / Combat Results Table",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Ancient",
+      "Wargame"
+    ],
+    "designers": [
+      "Mark Herman"
+    ]
+  }
+}

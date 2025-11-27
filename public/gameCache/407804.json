@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:15:48.379Z",
+  "gameDetails": {
+    "id": "407804",
+    "name": "Sibille",
+    "type": "boardgame",
+    "description": "In Sibille 2 to 4 fortune tellers strive to obtain divine approval.\n4 deities will be randomly extracted during the game setup, each providing a different game-ending goal. The first player to fulfill two of these four goals wins the game.\n\nPlayers have a personal deck of 22 almost-always available tarot cards, each related to a specific action. In a round 3 cards are chosen and played form the deck to take the related actions, and three are played face down to guess opponents plays.\n\nTaking the actions printed on the played tarot cards, players interact with the game components: \nCustomers (resource-generating engines disputed between the players), \nArtifacts (power-ups to be acquired),\nTarot cards (to manage their availability),\ntracks, resources, tokens, and many more.\n\nMost of the gaming experience is about predictive bidding, combos, chains of actions, and interaction.\n\n&mdash;description from designer\n\n",
+    "image": "https://cf.geekdo-images.com/_1t8w81aEaiDMZiivbdnTA__original/img/6Y38mnGrYTAY93dWV4Sd53rZA6Y=/0x0/filters:format(png)/pic7949063.png",
+    "thumbnail": "https://cf.geekdo-images.com/_1t8w81aEaiDMZiivbdnTA__small/img/9AwIxBX5Gbmhh6hUeJZZgvpidu0=/fit-in/200x150/filters:strip_icc()/pic7949063.png",
+    "link": "https://boardgamegeek.com/thing/407804",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "8.13977",
+    "averageWeight": "3.3333",
+    "boardGameRank": "15316",
+    "mechanics": [
+      "Action Retrieval",
+      "Betting and Bluffing",
+      "Deduction",
+      "Die Icon Resolution",
+      "Hand Management",
+      "Predictive Bid",
+      "Sudden Death Ending",
+      "Track Movement"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Dice"
+    ],
+    "designers": [
+      "Luca Grippo",
+      "Paolo Raciti"
+    ]
+  }
+}

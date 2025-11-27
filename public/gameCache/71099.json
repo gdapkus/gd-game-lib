@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:56:15.567Z",
+  "gameDetails": {
+    "id": "71099",
+    "name": "Ingenious Challenges",
+    "type": "boardgame",
+    "description": "Created by renowned game designer Reiner Knizia, Ingenious Challenges contains three games of mental dexterity for 2-4 players. Retaining the spirit of its predecessor board game Ingenious, the games in Ingenious Challenges challenge players to score as many points as possible in each color/symbol while also forcing them to score points in all colors/symbols in order to do well. Four scoreboards with colored pegs and tracks for each color are used in each game, while the dice, cards and single-symbol tiles are used separately in their particular games.\n\n&bull; In the Card Challenge (published separately as Einfach Genial: Das Kartenspiel), a player receives a hand of six cards, with one card placed face-up in front of him. On a turn, he plays one of his hand cards and scores as many points for each symbol on the played card as there are symbols lying in front of all players. These points are marked in the matching color track on a player's individual scoring board, and the first player to have seven or more points in all colors wins. Progress is complicated by three barriers on the scoring tracks, which cannot be passed unless all colors have been bumped to a certain level of points &ndash; thereby forcing players to push their colors evenly.\n\n&bull; In the Dice Challenge (Einfach Genial: Das W&uuml;rfelspiel), players roll dice up to three times, then score as many points for each symbol on the rolled dice as there are symbols on the dice in front of the other players. Players record these points on their scoring boards, with the barriers causing hiccups on the way, and the first player to move all colors to seven points wins.\n\n&bull; In the Tile Challenge (Einfach Genial: Wer zu viel riskiert, verliert!), all 126 tiles (21 of each color/symbol) are shuffled face down, then three are placed face up in a shared pool. On a turn, a player reveals a tile. If the tile doesn't match one in the pool, he adds all tiles revealed this turn to the pool and ends his turn; if it does match, the player can collect all tiles revealed this turn and all matching tiles in the pool, or take another turn. If you're the first player to collect seven tiles of each color, you win. If a player has a single color with fewer tiles in it than all other colors and a tile of that color is in the pool, the player can take one such tile and end his turn; this rule allows players to work toward that final color they need, while also pushing other players to try to remove that color from the pool.\n\nIncorporates:\n\n    Einfach Genial: Das Kartenspiel\n    Einfach Genial: Das Würfelspiel\n    Simply Ingenious \n\n\n",
+    "image": "https://cf.geekdo-images.com/xr05OmQS62ErDJ-qa6I6aA__original/img/56tInRj0oVM1pJF26OTF-89IG7M=/0x0/filters:format(jpeg)/pic784334.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xr05OmQS62ErDJ-qa6I6aA__small/img/rmV8dHoOp06VsxIa2YGsd1WmiTI=/fit-in/200x150/filters:strip_icc()/pic784334.jpg",
+    "link": "https://boardgamegeek.com/thing/71099",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.86474",
+    "averageWeight": "1.375",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Push Your Luck",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Card Game",
+      "Dice",
+      "Puzzle"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

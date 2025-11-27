@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:17:00.924Z",
+  "gameDetails": {
+    "id": "172242",
+    "name": "Exploding Kittens: NSFW Edition",
+    "type": "boardgame",
+    "description": "Originally an expansion for Exploding Kittens, the most successful Kickstarer project ever, that contained cards that were too horrific and/or incredible to be included in a kid safe version. As a stretch goal this was turned into a stand alone game that can be combined with the standard Exploding Kittens deck. If you combine the two decks, you can go up to 9 players. 10 with Imploding Kittens\n\n",
+    "image": "https://cf.geekdo-images.com/_9v_15rJjapltOr0I74uJQ__original/img/5-sylqMMDS3r8RelWDrcNQJiUSE=/0x0/filters:format(png)/pic9005066.png",
+    "thumbnail": "https://cf.geekdo-images.com/_9v_15rJjapltOr0I74uJQ__small/img/RG3VraWEZaezik-9vAA0ksN4MZI=/fit-in/200x150/filters:strip_icc()/pic9005066.png",
+    "link": "https://boardgamegeek.com/thing/172242",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "20",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.23205",
+    "averageWeight": "1.0847",
+    "boardGameRank": "3347",
+    "mechanics": [
+      "Hand Management",
+      "Player Elimination",
+      "Push Your Luck",
+      "Set Collection",
+      "Take That"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Comic Book / Strip",
+      "Humor",
+      "Mature / Adult"
+    ],
+    "designers": [
+      "Matthew Inman",
+      "Elan Lee",
+      "Shane Small"
+    ]
+  }
+}

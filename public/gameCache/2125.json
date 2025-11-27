@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:48:34.936Z",
+  "gameDetails": {
+    "id": "2125",
+    "name": "Amazons",
+    "type": "boardgame",
+    "description": "The game is played on a square grid, usually 10 by 10.  Each player starts with four amazons (which move as chess queens, but do not capture) placed in predetermined locations on their side of the board.  On a player turn, he moves one amazon and then fires an arrow from the arrival position. Firing an arrow consists in placing a new arrow piece on the board; also the arrow moves like a queen from the position it is fired. The landed arrow doesn't move anymore and creates a permanent block on the board. Arrows can not be passed through by either amazons or other arrows.  The first player who can not make a legal move (move and then shoot) loses the game.\n\n",
+    "image": "https://cf.geekdo-images.com/lJwtJPMMJDHyh5VQEtQ0Qg__original/img/K-Yf1KNXKoPWcMWvEZprEBjx044=/0x0/filters:format(jpeg)/pic1152391.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lJwtJPMMJDHyh5VQEtQ0Qg__small/img/NuHrLa_HtKLyE1UOaIGV7zd3g-Q=/fit-in/200x150/filters:strip_icc()/pic1152391.jpg",
+    "link": "https://boardgamegeek.com/thing/2125",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1992",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.21691",
+    "averageWeight": "2.8182",
+    "boardGameRank": "5939",
+    "mechanics": [
+      "Enclosure",
+      "Grid Movement",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Walter Zamkauskas"
+    ]
+  }
+}

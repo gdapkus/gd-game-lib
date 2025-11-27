@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T20:07:55.991Z",
+  "gameDetails": {
+    "id": "361214",
+    "name": "Order Overload: Cafe",
+    "type": "boardgame",
+    "description": "You and your fellow players work in a coffee shop in Order Overload: Cafe, and to keep your jobs, you need to keep a handle on all the orders coming in. Will you be able to make the right drinks?\n\nIn a round, you deal a certain number of cards face up and read them aloud so that everyone knows all the orders placed, then you deal these cards out face down to the players. On a turn, you need to name an order that's in someone else's hand. Fail to do so, and you're eliminated from play! If you collectively reveal a set number of drinks before everyone is eliminated, then you clear the level and are ready to take on tougher challenges...\n\nWhat's the highest level you can clear?\n\n",
+    "image": "https://cf.geekdo-images.com/vGLuM4WQnd8pxJxxNkrZtQ__original/img/hQnW2DqTu0VhOU9uWibYLVJsqJM=/0x0/filters:format(jpeg)/pic7212733.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vGLuM4WQnd8pxJxxNkrZtQ__small/img/zYHgoKTHKeOiZhwQ1faZytJpQF8=/fit-in/200x150/filters:strip_icc()/pic7212733.jpg",
+    "link": "https://boardgamegeek.com/thing/361214",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.80193",
+    "averageWeight": "1.2",
+    "boardGameRank": "4134",
+    "mechanics": [
+      "Cooperative Game",
+      "Memory"
+    ],
+    "categories": [],
+    "designers": [
+      "Jun Sasaki"
+    ]
+  }
+}

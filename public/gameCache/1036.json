@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:38:15.691Z",
+  "gameDetails": {
+    "id": "1036",
+    "name": "Speculation",
+    "type": "boardgame",
+    "description": "In Speculation, players buy and sell shares of stock, trying to have the most money at the end of the game.\n\nEach player has a hand of nine cards; eight of them match the company shares that are available for purchase, while the ninth card is a \"Bank Holiday\" card. Each of the eight companies has 2-5 shares available, depending on the number of players, and each player starts with a randomly drawn share. At the start of the game, place six movement tiles (numbered 1-6) in one bag and six action tiles (trade x3, rank +1, rank -1, no action) in another bag.\n\nEach round, the starting player draws one tile from each bag. If he draws a rank +1 or rank -1, he moves one share price indicator (a.k.a. \"brick\") of his choice up or down one rank on the movement track that organizes the company bricks. If he draws a trade, each player buys and/or sells one share to the bank. Players then simultaneously choose one of the two cards in their hand and reveal them. If no one played a bank holiday card, then in turn order, the brick associated with each company card advances on the movement track a number of spaces equal to the movement tile drawn, ignoring occupied spaces. The value of a company's shares depends on the location of its brick on the movement track and its position relative to all of the other bricks. If one or more bank holiday cards were played, the bricks move only half the distance or don't move at all.)\n\nPlayers each draw a new card, and the bags pass to the next player in clockwise order, who becomes the starting player for the next round. If a trade tile was drawn, return all tiles to their respective bags first. The rounds continue until one or more company bricks reach the end of the movement track. At the end of that round, players cash out their holdings and whoever has the most money wins.\n\n",
+    "image": "https://cf.geekdo-images.com/DIOqNWsW565yd3hPNun2UQ__original/img/kGVLc9UuE3YLeNx-XVbwVaJdDww=/0x0/filters:format(jpeg)/pic4029529.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DIOqNWsW565yd3hPNun2UQ__small/img/8Bu2i8e03TSByVt95QUy4NoIxpQ=/fit-in/200x150/filters:strip_icc()/pic4029529.jpg",
+    "link": "https://boardgamegeek.com/thing/1036",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "1992",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.66638",
+    "averageWeight": "2.0185",
+    "boardGameRank": "4453",
+    "mechanics": [
+      "Commodity Speculation",
+      "Dice Rolling",
+      "Hand Management",
+      "Memory",
+      "Stock Holding"
+    ],
+    "categories": [
+      "Economic"
+    ],
+    "designers": [
+      "Dirk Henn"
+    ]
+  }
+}

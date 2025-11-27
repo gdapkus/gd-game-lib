@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:30:37.875Z",
+  "gameDetails": {
+    "id": "38531",
+    "name": "Powerboats",
+    "type": "boardgame",
+    "description": "Powerboats simulates the sport of powerboat racing for 2 to 6 players using three-sided dice and an innovative rolling mechanic to simulate movement on the water.\n\nPlayers aim to score the most points over a series of three races using a double-sided modular board for easier or more difficult challenges, but they must also avoid damaging their boats too much.\n\nOnce the board is set up buoys are placed to show the points the boats must pass during the race.  A player keeps the dice from their previous turn and may, if desired, add or subtract a die from these to accelerate or slow on their current turn.  Any or all dice used in the previous turn may be left at their current values or rerolled.  Once the roll is complete the player chooses a direction of travel, either straight or one hex side (60 degrees) to the left or right, and if the complete distance cannot be travelled the boat incurs damage.  Too much damage will sink your powerboat and penalise you for the next race.  The buoys change positions for each successive race and, after three races, players add up their points to determine the winner.  A scoring variant for two players is included in the rules.\n\n",
+    "image": "https://cf.geekdo-images.com/tgQZNEJPaLNhjyPYy0-vQQ__original/img/uA14D1CmjtIZ0G6HgskUNNUhVGc=/0x0/filters:format(jpeg)/pic373898.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tgQZNEJPaLNhjyPYy0-vQQ__small/img/tPp-Cuo2T6R0GN3zFsTUbRElJSA=/fit-in/200x150/filters:strip_icc()/pic373898.jpg",
+    "link": "https://boardgamegeek.com/thing/38531",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2008",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.69243",
+    "averageWeight": "1.6882",
+    "boardGameRank": "2796",
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Modular Board",
+      "Race"
+    ],
+    "categories": [
+      "Nautical",
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Corné van Moorsel"
+    ]
+  }
+}

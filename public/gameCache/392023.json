@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:07:43.806Z",
+  "gameDetails": {
+    "id": "392023",
+    "name": "Mycelia",
+    "type": "boardgame",
+    "description": "Each player starts with the same set of cards in Mycelia, improving their deck with better cards over the course of play as they race to clear their playing field of dewdrops first.\n\nIn this deck-building game, you need the support of mysterious forest dwellers to improve your deck, develop new and better skills, and bring the sacred dewdrops from your forest to the Shrine of Life in order to receive the forest goddess' support.\n\nThe game includes double-sided player boards for increased variability.\n\n",
+    "image": "https://cf.geekdo-images.com/P8-3HeCgEa_CODQiQxq9SQ__original/img/wpH1mGsLXafShzWDatYxmNnbvR4=/0x0/filters:format(jpeg)/pic7849476.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/P8-3HeCgEa_CODQiQxq9SQ__small/img/sggT8rR4B943r_4fVThDTeS1gko=/fit-in/200x150/filters:strip_icc()/pic7849476.jpg",
+    "link": "https://boardgamegeek.com/thing/392023",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.38197",
+    "averageWeight": "1.8947",
+    "boardGameRank": "1530",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Grid Movement",
+      "Race",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Daniel Greiner"
+    ]
+  }
+}

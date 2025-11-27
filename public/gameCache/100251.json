@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:05:39.200Z",
+  "gameDetails": {
+    "id": "100251",
+    "name": "Ziggurat Demolition Throwdown",
+    "type": "boardgame",
+    "description": "Because the world needs more games about dueling wizards.\n\nYou are an ancient and powerful wizard living in a community for aged but powerful wizards. The guy across the way bubbles his cauldron much too loud, even though you have asked him to turn it down several times. There was a time when those who disturbed your afternoon tea would feel the force of your eldritch wrath. Perhaps this afternoon will be such a time.\n\nThe uses a copy of the Decktet and one Rainbow Pyramid stash for each player. (That's a small, medium, and large pyramid in each of five colours: Red, Yellow, Green, Blue, and Black. Two players can play with an Ice Dice set or two Treehouse sets.) Cards represent spells you have in mind; in the game, this means attacks you can make. Pyramids are your circle of magical instruments; they are what you need to have in place to play cards. Your opponent will whittle away at your pyramids, and you at theirs. The first player to run out of pyramids loses.\n\n",
+    "image": "https://cf.geekdo-images.com/zyme3IBtGNcjZz0OHG-Rvw__original/img/dxYtyVzbMJXb_-qcxc4ZiSx7Bq8=/0x0/filters:format(jpeg)/pic1096479.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zyme3IBtGNcjZz0OHG-Rvw__small/img/rE3dT95YN3w29wNmX0MmpElQIrU=/fit-in/200x150/filters:strip_icc()/pic1096479.jpg",
+    "link": "https://boardgamegeek.com/thing/100251",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.7",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "P. D. Magnus"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:11:03.836Z",
+  "gameDetails": {
+    "id": "275067",
+    "name": "Key Market (Second Edition)",
+    "type": "boardgame",
+    "description": "Originally released in 2010, designer David Brain and developer Richard Breese have now re-visited Key Market, adding four new guilds to the game and updating a number of the original guilds to give an even more challenging gaming experience.\n\nAll of the guilds have been re-evaluated based on ongoing playing experiences and comments, including the Key Worker guild. So you will find previous strategies may no longer be effective or possible.\n\nIn Key Market, each player controls an extended family of workers.  Over the course of two years, players will organize their workers in an attempt to turn their initial scanty resources into a thriving economic system.\n\nAfter an initial set up phase, the game is played over eight seasons.  Each season has three distinct phases, during which players may take a variety of actions.  The topography, weather, and seasons will influence the ability of workers to produce crops and livestock in the fields and luxuries in the villages.  In addition, resources and luxuries may be bought and sold in the market, or gold and favors sought and acquired.  Other workers may be sponsored to join the powerful guilds, where they will acquire skills as they gain promotions to become craftsmen or even the guild master.\n\nTurn order throughout the game is determined by the player&rsquo;s position on the season track, which changes at the end of each season.  At the end of the game, the player who has acquired the most gold will win the game.\n\n",
+    "image": "https://cf.geekdo-images.com/VhwMnTvSJu5sFZ7UUDEUVQ__original/img/_HOwZnqIB3G_cVAXLX8NivOXZrg=/0x0/filters:format(jpeg)/pic4873750.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VhwMnTvSJu5sFZ7UUDEUVQ__small/img/S9TndZPGZzrEn-PsGirLwLAfziQ=/fit-in/200x150/filters:strip_icc()/pic4873750.jpg",
+    "link": "https://boardgamegeek.com/thing/275067",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.34784",
+    "averageWeight": "3.3571",
+    "boardGameRank": "5026",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Hand Management",
+      "Modular Board",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Farming",
+      "Medieval"
+    ],
+    "designers": [
+      "David Brain"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T19:31:32.736Z",
+  "gameDetails": {
+    "id": "98918",
+    "name": "Bios: Genesis",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nIn Bios: Genesis, one to four players start as organic compounds shortly after Earth's formation, represented by up to four Biont tokens. The Amino Acids command Metabolism, the lipids create cells, the pigments control energy absorption and storage, and the nucleic acids control templated replication. Their goal is a double origin of life: first as Autocatalytic Life (a metabolic cycle reproducing, yet not replicating, its own constituents), and the second as Darwinian Life (an Organism using a template to replicate in an RNA world). Players can play cooperative, competitive, or solitaire.\n\nNotes designer Phil Eklund, \"This subject is the most difficult and ambitious I have ever attempted, and it has taken many years to get it to work right.\" With Bios: Genesis, Bios: Megafauna, and Bios: Origins (Second Edition), Eklund takes players through almost the whole breadth and scope of life on Earth.\n\nLiving Rules\n\n",
+    "image": "https://cf.geekdo-images.com/PdNxs0DjHkhj5rEoGBbIXw__original/img/uk1idlH6QN41MAk8plBfrSG9jDY=/0x0/filters:format(jpeg)/pic2982166.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PdNxs0DjHkhj5rEoGBbIXw__small/img/tiaGLxnhkeiK1CfJT0fwelNDtTQ=/fit-in/200x150/filters:strip_icc()/pic2982166.jpg",
+    "link": "https://boardgamegeek.com/thing/98918",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.06698",
+    "averageWeight": "4.3952",
+    "boardGameRank": "2323",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction Compensation",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Events",
+      "King of the Hill",
+      "Market",
+      "Open Drafting",
+      "Random Production",
+      "Re-rolling and Locking",
+      "Simulation",
+      "Sudden Death Ending",
+      "Turn Order: Random",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Environmental",
+      "Prehistoric"
+    ],
+    "designers": [
+      "Phil Eklund"
+    ]
+  }
+}

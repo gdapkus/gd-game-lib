@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:09:33.540Z",
+  "gameDetails": {
+    "id": "254994",
+    "name": "Extraordinary Adventures: Pirates!",
+    "type": "boardgame",
+    "description": "While playing Extraordinary Adventures: Pirates, you become a pirate captain sailing three ships through the Caribbean in search of rich merchants to plunder and friendly ports in which to trade your booty for riches.\n\nIn more detail, you have one ship on each of the three \"tracks\", i.e., pathways through the Caribbean Sea. On each turn, you play three cards from your hand to move your ships. Your cards have a basic movement number, and often a secondary action. You may use one or the other to move your ships down the track or gain special advantages.\n\nEach of the three tracks winds through the Caribbean islands toward your ultimate goal: the Spanish Treasure Galleon at Trinidad. Along the way, there will be detours that lead to merchant ships that may be plundered, and towns that may be visited to cash in your plunder for treasure. Plundering merchant ships and visiting towns also allows you to recruit more crewmen (cards) for your crew (deck). The better your deck is, the faster that your ships are able to move, so deciding when to take detours for plunder and recruiting and when to sail on toward your ultimate goal is an important decision that every pirate captain must make.\n\nThe first pirate captain to reach the Treasure Galleon at the end of any track ends the game. Each pirate ship scores points based on what place they finished on each track, as well as for the treasures earned by selling plunder. The richest captain goes down in history as the Pirate King!\n\n",
+    "image": "https://cf.geekdo-images.com/lvwpMy-RTVhk4IiZFj0IbQ__original/img/oQE1UuAL8sTs6M9kjSnPGYy7gSU=/0x0/filters:format(jpeg)/pic4388109.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lvwpMy-RTVhk4IiZFj0IbQ__small/img/_sAnatOp30VnHux-apyMOgpOHR0=/fit-in/200x150/filters:strip_icc()/pic4388109.jpg",
+    "link": "https://boardgamegeek.com/thing/254994",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.57019",
+    "averageWeight": "2.1852",
+    "boardGameRank": "4995",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Race",
+      "Set Collection"
+    ],
+    "categories": [
+      "Nautical",
+      "Pirates"
+    ],
+    "designers": [
+      "Don Beyer",
+      "Glenn Drover"
+    ]
+  }
+}

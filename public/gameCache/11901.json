@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:03:08.119Z",
+  "gameDetails": {
+    "id": "11901",
+    "name": "Tic-Tac-Toe",
+    "type": "boardgame",
+    "description": "Tic-Tac-Toe is the modern American rebranding of the game previously known as Noughts and Crosses. It&rsquo;s still known as Noughts and Crosses throughout the U.K. A very old game where each player attempts to place three of their markers (usually an X or an O) in a line on a 3x3 grid.\n\nAlthough some may claim that the Romans called this game Terni Lapilli, this does not appear to be true; Terni Lapilli seems to be a distinct and separate game. It shares the board but the players only have 3 pieces each. The same game may be played not on the grid spaces but on lines where it is aka Three Men's Morris.\n\n",
+    "image": "https://cf.geekdo-images.com/UImMYmMZKE4AGTMPHRM9fA__original/img/yAjwt5O95x6cthCVs0HhHl4y4H0=/0x0/filters:format(jpeg)/pic48183.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UImMYmMZKE4AGTMPHRM9fA__small/img/Usf_w0hroenXwFopRfYCtZtdjmU=/fit-in/200x150/filters:strip_icc()/pic48183.jpg",
+    "link": "https://boardgamegeek.com/thing/11901",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "-1300",
+    "playingTime": "1",
+    "minPlayingTime": "1",
+    "maxPlayingTime": "1",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "2.76935",
+    "averageWeight": "1.2733",
+    "boardGameRank": "29602",
+    "mechanics": [
+      "Paper-and-Pencil",
+      "Pattern Building",
+      "Square Grid"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Children's Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

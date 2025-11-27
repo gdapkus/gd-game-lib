@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:00:36.416Z",
+  "gameDetails": {
+    "id": "177639",
+    "name": "Raptor",
+    "type": "boardgame",
+    "description": "Mamma Raptor has escaped from her run and laid her eggs in the park. A team of scientists must neutralize her and capture the baby raptors before they run wild into the forest.\n\nRaptor is a card-driven board game with tactical play and some double guessing. Players use their cards to move their pawns &mdash; with the scientists on one side, Mother and baby raptors on the other &mdash; on the board. Every round, the player who played the lowest ranked card can use the corresponding action, while their opponent has movement or attack points equal to the difference between the values of the two cards. The scientists can use fire, can move by jeep on the tracks, and can even call for reinforcements, while the mamma raptor can hide in the bushes, yell to frighten the scientists, and call for her babies.\n\n",
+    "image": "https://cf.geekdo-images.com/-Ro5KFX55FbZBWehBy9LKg__original/img/17jLBJbMVzZssJLpRh503itz008=/0x0/filters:format(jpeg)/pic6974678.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-Ro5KFX55FbZBWehBy9LKg__small/img/yHZjXqMjgYpXCZZDVQsCJfABYA4=/fit-in/200x150/filters:strip_icc()/pic6974678.jpg",
+    "link": "https://boardgamegeek.com/thing/177639",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2015",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.21943",
+    "averageWeight": "2.0706",
+    "boardGameRank": "622",
+    "mechanics": [
+      "Action Points",
+      "Action Retrieval",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Animals",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Bruno Cathala",
+      "Bruno Faidutti"
+    ]
+  }
+}

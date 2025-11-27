@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:50:30.130Z",
+  "gameDetails": {
+    "id": "1722",
+    "name": "Caesar's Legions",
+    "type": "boardgame",
+    "description": "Caesar's Legions is a medium complexity wargame simulating the Roman campaigns in Germany at the operational level.\n\nPlayers choose from 5 scenarios ranging from Caesar's own Germanic campaigns to the Batavian revolt of 70 AD.\n\nMovement is hex based.  Tactical cards effect combat resolution which is dice based and cross-referenced on a probability table.  Roman units are divided into cohorts.  German units are divided into tribes and enjoy hidden movement when in forest terrain.\n\nThe game consists of a 22\" x 28\" map board, over 400 counters (448 counters), playing aids, 16 tactical cards (2 sets of 1 - 8) and a 16-page rulebook.\n\n",
+    "image": "https://cf.geekdo-images.com/gGdmB0fjFj9q_qsl9uKqKw__original/img/6Sk1X5Zx7GFzu5EGh979OWAVzaY=/0x0/filters:format(jpeg)/pic2621542.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gGdmB0fjFj9q_qsl9uKqKw__small/img/6rxHIv_h4xpM7v811u0jskvuoPk=/fit-in/200x150/filters:strip_icc()/pic2621542.jpg",
+    "link": "https://boardgamegeek.com/thing/1722",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1975",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.23498",
+    "averageWeight": "2.75",
+    "boardGameRank": "10598",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Ancient",
+      "Wargame"
+    ],
+    "designers": [
+      "Don Greenwood",
+      "Loren K. Wiseman"
+    ]
+  }
+}

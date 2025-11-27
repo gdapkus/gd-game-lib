@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:35:47.243Z",
+  "gameDetails": {
+    "id": "419279",
+    "name": "Arcs: Leaders & Lore Pack",
+    "type": "boardgameexpansion",
+    "description": "Explore unique, tricky strategies in the Arcs base game with new Leaders, and add wild twists to both the Arcs base and campaign games with new Lore.\n\n&mdash;description form the publisher\n\nInitially known as the \"More to Explore Pack\" during the Kickstarter campaign.\n\n",
+    "image": "https://cf.geekdo-images.com/I7bZqrk7XuQ4GF6pPt5L6Q__original/img/dlWAkyUC4LSPKJ_4MknvR8Chj_c=/0x0/filters:format(png)/pic8147517.png",
+    "thumbnail": "https://cf.geekdo-images.com/I7bZqrk7XuQ4GF6pPt5L6Q__small/img/FvE_e9ZZ7W4I50MDI-v1s_6xr-8=/fit-in/200x150/filters:strip_icc()/pic8147517.png",
+    "link": "https://boardgamegeek.com/thing/419279",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.54563",
+    "averageWeight": "3.2353",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Hand Management",
+      "Negotiation",
+      "Trick-taking",
+      "Turn Order: Claim Action",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Negotiation",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Cole Wehrle",
+      "Joshua Yearsley"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:49:29.857Z",
+  "gameDetails": {
+    "id": "56758",
+    "name": "BasketBoss",
+    "type": "boardgame",
+    "description": "Each player of this game is the manager of a basketball team.\n\nDraft good new basketball players. With each of these players you see what is his expected value in next 6 seasons. And you see his best field position, his height, and how popular he is which is good for your team funds.\n\nGet assistance from a trainer, player agent, banker or even the referee to win the trophies.\nThe TRAINER can bring your players on the level they would normally reach next season.\nThe PLAYER AGENT helps you for getting good prices at the transfer market.\nThe BANKER gives you a good interest.\nThe help of the REFEREE makes your team 'stronger'.\n\nTry to win the most valuable trophies during your manager period. That, and good perspectives for the current season, is all your team fans want!\n\n",
+    "image": "https://cf.geekdo-images.com/v3WPE7f-Mi0rf667lLPuUA__original/img/99jAqiLFQoHbBKDeZ-neLHvAC6o=/0x0/filters:format(jpeg)/pic561501.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/v3WPE7f-Mi0rf667lLPuUA__small/img/t6LlbmMLPjhWT_vC1SrWn5fdCLk=/fit-in/200x150/filters:strip_icc()/pic561501.jpg",
+    "link": "https://boardgamegeek.com/thing/56758",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2009",
+    "playingTime": "50",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "50",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.40675",
+    "averageWeight": "2.125",
+    "boardGameRank": "5918",
+    "mechanics": [
+      "Auction / Bidding"
+    ],
+    "categories": [
+      "Economic",
+      "Sports"
+    ],
+    "designers": [
+      "Corné van Moorsel"
+    ]
+  }
+}

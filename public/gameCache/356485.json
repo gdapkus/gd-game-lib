@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:48:44.196Z",
+  "gameDetails": {
+    "id": "356485",
+    "name": "AOC: Age of Champagne",
+    "type": "boardgame",
+    "description": "AoC - Age of Champagne puts you in the shoes of a young Cellar Master who inherits a family winery.\n\nIn competitive mode, among many possible actions, you will have to make wise investments, optimize the processing of your precious grapes to meet the demands of the different markets. Three versatile workers are waiting for your instructions to support you in your strategy.\n\nThe Cellar Master at the head of the most prestigious and eco-responsible Champagne Maison at the end of the 10th harvest will be elected \"Cellar Master of the Decade\" and win the game.\n\n",
+    "image": "https://cf.geekdo-images.com/Bo8AsE8j_-uwTp-zZ7YFlw__original/img/0FrlnNL21l7F63rh-mfrzPdN_WQ=/0x0/filters:format(png)/pic7691204.png",
+    "thumbnail": "https://cf.geekdo-images.com/Bo8AsE8j_-uwTp-zZ7YFlw__small/img/mcxKN2NZTmy3YcEHUzTHvNLc9dE=/fit-in/200x150/filters:strip_icc()/pic7691204.png",
+    "link": "https://boardgamegeek.com/thing/356485",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.22248",
+    "averageWeight": "2.8696",
+    "boardGameRank": "7923",
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "Programmed Movement",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Collectible Components",
+      "Economic",
+      "Environmental",
+      "Farming"
+    ],
+    "designers": [
+      "Cyrille Lefranc",
+      "Christophe Pouey",
+      "Franck Rubarbe"
+    ]
+  }
+}

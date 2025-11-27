@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-26T20:25:47.386Z",
+  "gameDetails": {
+    "id": "15386",
+    "name": "Eye to Eye",
+    "type": "boardgame",
+    "description": "\"From the SimplyFun website\"\n\nEye to Eye&trade;\nSeeing the Same Never Looked So Different!\n\nHow closely do you see Eye to Eye with your friends and family? Draw a category card and write down three answers, trying to match at least one person for each item you write down. The person who matches the most answers with the other players will win the game!\n\nExpanded by:\n\n    More Eye To Eye\n    Eye to Eye Junior\n\n\n",
+    "image": "https://cf.geekdo-images.com/g1QYGHqf2gYK69hqvz_8SQ__original/img/zbiZppOApzlZ7O0hBIs02fDCpTk=/0x0/filters:format(jpeg)/pic440406.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/g1QYGHqf2gYK69hqvz_8SQ__small/img/e8fF_epNBlRMkXLQvx8SAgyVLro=/fit-in/200x150/filters:strip_icc()/pic440406.jpg",
+    "link": "https://boardgamegeek.com/thing/15386",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2004",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.42361",
+    "averageWeight": "1.0476",
+    "boardGameRank": "11702",
+    "mechanics": [],
+    "categories": [
+      "Party Game"
+    ],
+    "designers": [
+      "Aaron Weissblum"
+    ]
+  }
+}

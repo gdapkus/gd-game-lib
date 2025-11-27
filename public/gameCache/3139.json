@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:54:43.921Z",
+  "gameDetails": {
+    "id": "3139",
+    "name": "Goldland",
+    "type": "boardgame",
+    "description": "Each player has a backpack with room for 12 tools, provisions, trading goods, or treasures.  The number of squares you can move on a turn is the number of empty spaces in your backpack, so the lighter you travel, the faster.\n\nIn the beginning, only 13 tiles (two legs of a 7x7 square) are on the table, and everybody starts in the corner with three fish (provisions) and two pearl necklaces (trading goods).  One thing to do on your turn is \"explore,\" adding a randomly drawn tile next to the one where your pawn currently stands.  The board gradually fills in to the point where the tile at the opposite corner from the start is drawn, and this tile is designated the site of the lost temple and pays bonuses for everyone who reaches it.  The sooner you get there, the better the bonuses.\n\nAbout half the squares are free to enter and let you obtain other items for your backpack.  If you're already carrying a fishing pole, for example, in some squares you'll be able to pick up more fish.  The other half are \"adventure\" tiles that require the expenditure of backpack items in order to gain entry.  You might have to spend two rifles, for example, to enter a wildcat tile; then you place a \"camp\" marker and can enter that tile for free in the future.  A lot of the game involves going back and forth to tiles where you can assemble the necessary items to work your way through the adventure tiles to the lost temple.\n\nGoldland appeals to puzzle-solvers and has a fun atmosphere of exploring the wilderness in search of El Dorado.\n\n",
+    "image": "https://cf.geekdo-images.com/7mY9B6WfW2QJ1AOUwz-32A__original/img/somkZX8MvPn8lQjhzD6PLX4Neg0=/0x0/filters:format(jpeg)/pic238750.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7mY9B6WfW2QJ1AOUwz-32A__small/img/AfLXSeEOUbKGSt2RH2kHjO9RQOE=/fit-in/200x150/filters:strip_icc()/pic238750.jpg",
+    "link": "https://boardgamegeek.com/thing/3139",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2002",
+    "playingTime": "80",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "80",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.61994",
+    "averageWeight": "2.3768",
+    "boardGameRank": "3789",
+    "mechanics": [
+      "Hand Management",
+      "Modular Board",
+      "Pick-up and Deliver"
+    ],
+    "categories": [
+      "Exploration"
+    ],
+    "designers": [
+      "Wolfgang Kramer"
+    ]
+  }
+}

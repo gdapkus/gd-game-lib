@@ -1,0 +1,49 @@
+{
+  "timestamp": "2025-11-26T21:15:02.031Z",
+  "gameDetails": {
+    "id": "317030",
+    "name": "Quest: Avalon Big Box Edition",
+    "type": "boardgame",
+    "description": "A \"Big Box\" containing Quest and a limited release, \"Deluxe\" edition of Avalon, featuring beautiful artwork by Weberson Santiago, game play elements not previously available for Avalon, and entirely new content.\n\nQuest: Big Box also includes the Director's Cut, a personal recommendation from the designer about the preferred way to play Quest.\n\n______________________________________________________________________________________________________________________________\nErrata:Page 7 of the rulebook should say: (for non-Director's Cut version)\n\nThree successful Quests&mdash;Good wins! The game is over.\n\nNote: When using the optional Blind Hunter, the Blind Hunter reveals themself and a Hunt occurs (see page8). There is no discussion, nor Good's Last Chance.\n\nWhile the Blind Hunter is listed as optional, that role should always be included when including any named Good roles to provide a penalty for claiming. This (https://www.dropbox.com/s/7jw5t3x54up0jy0/Quest%20rulebook%20-%20page%2007.pdf?dl=0) is a PDF of page 7 if you'd like to see how that fits into context, or want to print and include in your box.\n\nThe above Errata rule does not apply to the Director's Cut.\n\n",
+    "image": "https://cf.geekdo-images.com/UdBEOw9XKizyVIJ2Ba97-A__original/img/5KjkZd7AhPZZdC25AFwOhxJ-CxY=/0x0/filters:format(jpeg)/pic5600658.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UdBEOw9XKizyVIJ2Ba97-A__small/img/klaOThxB9uNRqmG8OG6wzhjA3UU=/fit-in/200x150/filters:strip_icc()/pic5600658.jpg",
+    "link": "https://boardgamegeek.com/thing/317030",
+    "minPlayers": "4",
+    "maxPlayers": "10",
+    "yearPublished": "2021",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      7,
+      9
+    ],
+    "averageRating": "7.86649",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deduction",
+      "Hidden Roles",
+      "Memory",
+      "Roles with Asymmetric Information",
+      "Simultaneous Action Selection",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers",
+      "Voting"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Fantasy",
+      "Medieval",
+      "Negotiation",
+      "Party Game",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Don Eskridge"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:35:35.738Z",
+  "gameDetails": {
+    "id": "30929",
+    "name": "Age of Steam Expansion: Barbados / St. Lucia",
+    "type": "boardgameexpansion",
+    "description": "These Age of Steam Expansions are compatible with Winsome's original Age of Steam and Steam. Both maps are tight and highly strategic, with Barbados as a single player map with great replayability, and St. Lucia as a two player map with fast playing time and unique features.\n\nMaps are not mounted.  They are printed on card stock and cut into 2 pieces.\n\n",
+    "image": "https://cf.geekdo-images.com/gR_-3cPE6y3bS_EmsrviZg__original/img/NuUq88RarpZ7fW6p2-Ms0bLYq9U=/0x0/filters:format(jpeg)/pic231653.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gR_-3cPE6y3bS_EmsrviZg__small/img/UaEQPz2M1PKVU9Bbl3trSMF195M=/fit-in/200x150/filters:strip_icc()/pic231653.jpg",
+    "link": "https://boardgamegeek.com/thing/30929",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2007",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.22193",
+    "averageWeight": "3.0556",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Ted Alspach"
+    ]
+  }
+}

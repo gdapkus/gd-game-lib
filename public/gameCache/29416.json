@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:00:05.061Z",
+  "gameDetails": {
+    "id": "29416",
+    "name": "Power Grid: The New Power Plants – Set 1",
+    "type": "boardgameexpansion",
+    "description": "This deck is a complete set of power plant cards for Power Grid that can be used with any of the maps:\n\n     in place of the original deck\n     paired with the original deck (to make for an unpredictable mix) \n     cards added to the original deck (to make the game as long as \"Funkenschlag\", game will end at 20 cities)\n     in custom mixture of the two decks (to create specialized decks)\n\n\nThis set of cards has green borders to distinguish them easily from the original set of power plant cards.\n\nAnnounced April 2007. Released at Essen 2007.\n\nThe official variant rules for using the new power plants with all released maps can be found in Files section\n\n",
+    "image": "https://cf.geekdo-images.com/ipjXDrjtbFgaKeQuBKJ1Jg__original/img/W3-KxR4tbUkeyphWobjuDwZCvZA=/0x0/filters:format(jpeg)/pic6275995.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ipjXDrjtbFgaKeQuBKJ1Jg__small/img/DQBHP1Zr9yNHdawRVjU4tUDWp54=/fit-in/200x150/filters:strip_icc()/pic6275995.jpg",
+    "link": "https://boardgamegeek.com/thing/29416",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2007",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.7968",
+    "averageWeight": "2.9877",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

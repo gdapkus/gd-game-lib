@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:32:34.017Z",
+  "gameDetails": {
+    "id": "229414",
+    "name": "Tulip Bubble",
+    "type": "boardgame",
+    "description": "In 1637, the tulip craze fueled one of the first speculative investment bubbles. Coveted tulip varieties led to skyrocketing prices with tulip bulbs costing more than houses in Amsterdam. Then just as suddenly as it started, the bubble burst when investors could no longer afford even the cheapest bulbs, leaving economic turmoil.\n\nIn Tulip Bubble, players buy and sell on a fluctuating market, trying to earn the most guilders. The game flow includes a preparation phase, buying phase, and selling phase, with these phases recurring until the bubble collapses or someone manages to outwit the markets by purchasing a black tulip for 120 guilders before that collapse occurs.\n\n",
+    "image": "https://cf.geekdo-images.com/CR8TzOHBj8vX49XxPwImLg__original/img/jQYxrbKvw6gDmGVXj04yMnlylyw=/0x0/filters:format(jpeg)/pic3728636.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CR8TzOHBj8vX49XxPwImLg__small/img/v_tuXVZfpF2La-l9lAeSOlEsEsM=/fit-in/200x150/filters:strip_icc()/pic3728636.jpg",
+    "link": "https://boardgamegeek.com/thing/229414",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "70",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "70",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.06797",
+    "averageWeight": "2.4359",
+    "boardGameRank": "2754",
+    "mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Contracts",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Economic",
+      "Renaissance"
+    ],
+    "designers": [
+      "紅陽 (Kouyou)"
+    ]
+  }
+}

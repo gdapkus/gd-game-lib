@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:07:37.567Z",
+  "gameDetails": {
+    "id": "358124",
+    "name": "Mists over Carcassonne",
+    "type": "boardgame",
+    "description": "Mists over Carcassonne is a co-operative version of the well-known tile-laying game Carcassonne. Working together, you place tiles and score points while trying to stop the spread of ghosts, contain haunted ground in cemeteries, and use haunted castles to your advantage. If too many ghosts are loose on the ground or you've collected too few points when the tiles run out, you lose the game. If you do manage to survive three days, you can adjust the difficulty level of the game to increase the challenge.\n\nMists over Carcassonne includes 45 meeples in two new types and 60 tiles that match the graphics of the 2021 edition of Carcassonne, and this game includes rules for how to incorporate material in a regular competitive game of Carcassonne.\n\n",
+    "image": "https://cf.geekdo-images.com/yRFr7i5heyw9pIcuJ50jFw__original/img/C33xMMnOA4NMoH-CByHB1bYyUyI=/0x0/filters:format(jpeg)/pic7336367.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yRFr7i5heyw9pIcuJ50jFw__small/img/q_aOK5OUgItLzYrSJwpOd58LgRo=/fit-in/200x150/filters:strip_icc()/pic7336367.jpg",
+    "link": "https://boardgamegeek.com/thing/358124",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "35",
+    "minPlayingTime": "35",
+    "maxPlayingTime": "35",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.2913",
+    "averageWeight": "2.1455",
+    "boardGameRank": "1488",
+    "mechanics": [
+      "Cooperative Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Medieval"
+    ],
+    "designers": [
+      "Klaus-Jürgen Wrede"
+    ]
+  }
+}

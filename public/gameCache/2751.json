@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:17:18.727Z",
+  "gameDetails": {
+    "id": "2751",
+    "name": "Lawrence of Arabia: The British Offensive – September-October 1918",
+    "type": "boardgame",
+    "description": "\"Lawrence of Arabia\" is an operational level wargame of the British offensive of September-October 1918 against the Turks in Palestine. One player controls the Turkish, German and Bedouin forces, the other the British, French and Arab forces.\n\nScale is one or two days per turn, units are battalions, regiments and brigades. Sequence of play is classic Igo-Ugo with a Cavalry Exploitation Movement and Combat phase allowing cavalry/motorized British units to advance into gaps made in the Turkish line during the previous Infantry Combat phase.\n\nThe game has 4 scenarios, the full campaign, the full campaign with variable setup and two shorter scenarios.\n\n1 22\"x34\" map, 240 counters.\n\nComponents are average but standard for 3W and the period. Rules are complete but poorly organized.\n\nComplexity is medium-low.\n\n",
+    "image": "https://cf.geekdo-images.com/Fyaixe9jOTinMziIq8NcaQ__original/img/jx19y4tq5FEfolLYhWbqJeg2RuU=/0x0/filters:format(jpeg)/pic313424.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Fyaixe9jOTinMziIq8NcaQ__small/img/aUI3nMocJnYMeUmbSAkgyVU2-y8=/fit-in/200x150/filters:strip_icc()/pic313424.jpg",
+    "link": "https://boardgamegeek.com/thing/2751",
+    "minPlayers": "1",
+    "maxPlayers": "3",
+    "yearPublished": "1983",
+    "playingTime": "300",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.18889",
+    "averageWeight": "2.3125",
+    "boardGameRank": "16581",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Ratio / Combat Results Table",
+      "Simulation",
+      "Zone of Control"
+    ],
+    "categories": [
+      "Wargame",
+      "World War I"
+    ],
+    "designers": [
+      "Roger Nord"
+    ]
+  }
+}

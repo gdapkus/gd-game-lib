@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T19:33:33.964Z",
+  "gameDetails": {
+    "id": "332712",
+    "name": "Darwin's Journey: Darwin Worker mini-expansion",
+    "type": "boardgameexpansion",
+    "description": "This mini-expansion includes Darwin's Crew card and a Special Action that allows you to unlock Darwin's pawn which is used just for a single turn and acts as a worker with 6 purple Wax Seals and the Golden distinction.\n\n",
+    "image": "https://cf.geekdo-images.com/hIit4GMWD0NEoiz9BDXnMg__original/img/0lwgjcLSC0IsOIxgZ-GUjxSizBI=/0x0/filters:format(jpeg)/pic7704032.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hIit4GMWD0NEoiz9BDXnMg__small/img/ZjvXK8z6j6bwsa_K0eQhsogAHMc=/fit-in/200x150/filters:strip_icc()/pic7704032.jpg",
+    "link": "https://boardgamegeek.com/thing/332712",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.75576",
+    "averageWeight": "2.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Contracts",
+      "Point to Point Movement",
+      "Set Collection",
+      "Turn Order: Stat-Based",
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone"
+    ]
+  }
+}

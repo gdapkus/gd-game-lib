@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:59:40.159Z",
+  "gameDetails": {
+    "id": "252265",
+    "name": "Passtally",
+    "type": "boardgame",
+    "description": "In passtally, you take turns placing tiles on the game board to create a line connecting your player markers. The more tiles the line passes through, and the higher those tiles are stacked, the more points you score!\n\nゲームボードにタイルを配置しながら、\n自分のプレイヤーマーカー同士をラインで繋げて、勝利点を獲得していきます。\nラインがより高い段数のタイルを通過すると高得点のチャンスです。\n\n",
+    "image": "https://cf.geekdo-images.com/N1UxZtT-T6NeHN571x7jQQ__original/img/109JP11eiEw8QQ2WpZezlOg8vNM=/0x0/filters:format(png)/pic4111006.png",
+    "thumbnail": "https://cf.geekdo-images.com/N1UxZtT-T6NeHN571x7jQQ__small/img/DAauyajhkF5UeOIJURsbnf9bmo0=/fit-in/200x150/filters:strip_icc()/pic4111006.png",
+    "link": "https://boardgamegeek.com/thing/252265",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "2018",
+    "playingTime": "40",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.52002",
+    "averageWeight": "2.4375",
+    "boardGameRank": "5411",
+    "mechanics": [
+      "Connections",
+      "Network and Route Building",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Puzzle"
+    ],
+    "designers": [
+      "Masaki Suga (須賀 正樹)"
+    ]
+  }
+}

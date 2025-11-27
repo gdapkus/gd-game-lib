@@ -24,9 +24,6 @@
                     <v-list-item @click="switchCollection">
                       <v-list-item-title>Switch Collection</v-list-item-title>
                     </v-list-item>
-                    <v-list-item @click="updateCollection">
-                      <v-list-item-title>Update Collection</v-list-item-title>
-                    </v-list-item>
                     <v-list-item @click="filtersDialog = true">
                       <v-list-item-title>Filter Games</v-list-item-title>
                     </v-list-item>
@@ -339,6 +336,11 @@ export default {
       };
 
       return this.games.filter(game => {
+        // Add this line to filter by owned status
+        if (!game.status || !game.status.own) {
+          return false;
+        }
+
         if (!allowedTypes.includes(game.type)) {
           return false;
         }
@@ -522,35 +524,6 @@ export default {
       this.selectedItemId = itemId;
       this.dropdownActivator = event.currentTarget;
       this.dropdowns[itemId] = true;
-    },
-    async updateCollection() {
-      try {
-        this.snackbarMessage = 'Updating collection...';
-        this.snackbarVisible = true;
-        const response = await axios.get(`/api/loadCollection/${this.activeUser.username}`);
-        if (response.status === 200) {
-          this.snackbarMessage = 'Collection updated successfully!';
-          try {
-            this.snackbarMessage = 'Caching new games...';
-            const detailsResponse = await axios.get(`/api/loadDetails/${this.activeUser.username}`);
-            if (detailsResponse.status === 200) {
-              this.snackbarMessage = 'Games updated successfully!';
-            } else {
-              this.snackbarMessage = 'Failed to update games. Try again.';
-            }
-          } catch (error) {
-            this.snackbarMessage = `Error updating games: ${error.message}`;
-          } finally {
-            this.snackbarVisible = true;
-          }
-        } else {
-          this.snackbarMessage = 'Failed to update collection. Try again.';
-        }
-      } catch (error) {
-        this.snackbarMessage = `Error updating collection: ${error.message}`;
-      } finally {
-        this.snackbarVisible = true;
-      }
     },
     async addToTrello(gameId, listId) {
       try {

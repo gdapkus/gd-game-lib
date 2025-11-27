@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:16:30.188Z",
+  "gameDetails": {
+    "id": "1262",
+    "name": "Axis & Allies: Pacific",
+    "type": "boardgame",
+    "description": "From the publisher's website:\n\nAxis & Allies Pacific is the second stand-alone game expansion to the Axis & Allies game system. In this game, three main powers (Britain, Japan, and the US) square off against each other against the backdrop of the Pacific ocean. Japan is trying to grow her empire, either through military might or by holding off the Allies long enough to consolidate her gains.\n\nThe game adds a few new rules and a few new twists to the established A&A game system. Naval bases and air bases turn small, meaningless islands into vital strategic holdings. Convoy zones allow a single submarine pack to cripple an economy. The Chinese forces, while limited, are hard to crush. Japan gets her kamikazes, but will it be enough to hold off the vast economic power of the USA?\n\n",
+    "image": "https://cf.geekdo-images.com/r_-Sf5zie2BwIVKFgd_EIw__original/img/nxjac9Ym8QY3a10L2e0XYCzmsas=/0x0/filters:format(jpeg)/pic185485.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/r_-Sf5zie2BwIVKFgd_EIw__small/img/N3ie91eb2dv5fcwU74KRLqnIMW4=/fit-in/200x150/filters:strip_icc()/pic185485.jpg",
+    "link": "https://boardgamegeek.com/thing/1262",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "2001",
+    "playingTime": "240",
+    "minPlayingTime": "240",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.67003",
+    "averageWeight": "2.875",
+    "boardGameRank": "3223",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Stephen Baker",
+      "Rob Daviau",
+      "Larry Harris, Jr."
+    ]
+  }
+}

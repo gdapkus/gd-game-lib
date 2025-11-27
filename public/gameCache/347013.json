@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:54:21.778Z",
+  "gameDetails": {
+    "id": "347013",
+    "name": "Get on Board: New York & London",
+    "type": "boardgame",
+    "description": "Ah, here&rsquo;s the bus! Hurry, grab a seat, and get out of the rain! Just like every trip, you're fascinated by all the other passengers on board: tourists, professionals, students... They're all traveling together, though they each have different destinations. This bus line is truly special, but will it be able to transport everyone safe and sound?\n\nIn Get on Board: New York & London, you have twelve rounds in which to build the best bus line in town. Each round reveals a new card that shows each player the route shape they must complete. Place your bus accordingly on the central board. Take the passengers where they want to go by connecting them and their destination to your bus line, avoid traffic, and gain as many victory points as possible!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/hXevthEzKVew8nqfziCneA__original/img/ViHBPC4pKHbp-eCupEcdVJ6RWus=/0x0/filters:format(jpeg)/pic6399596.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hXevthEzKVew8nqfziCneA__small/img/YjScwSQf4lxEEFh50E9lHciWozk=/fit-in/200x150/filters:strip_icc()/pic6399596.jpg",
+    "link": "https://boardgamegeek.com/thing/347013",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.94877",
+    "averageWeight": "1.8906",
+    "boardGameRank": "1674",
+    "mechanics": [
+      "Bingo",
+      "Connections",
+      "Line Drawing",
+      "Network and Route Building",
+      "Paper-and-Pencil",
+      "Race"
+    ],
+    "categories": [
+      "Transportation"
+    ],
+    "designers": [
+      "Saashi"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:00:02.841Z",
+  "gameDetails": {
+    "id": "78727",
+    "name": "Power Grid: Russia & Japan",
+    "type": "boardgameexpansion",
+    "description": "Two new expansion maps for Power Grid: Russia on one side and Japan on the other.\n\nIn Russia, the market for power plants is restricted. Additionally, the standard rules for exchanging out-of-date power plants are changed, forcing the leading players to completely rethink their strategies.\n\nIn Japan, based on the crowded geographical surroundings, the players can start two separate networks. The first connections are restricted to certain cities, guaranteeing a tough fight for the best networks.\n\n",
+    "image": "https://cf.geekdo-images.com/5YNPSdHitt_NoU_afX5rWA__original/img/t1TGy8S16f2DeOFAUiqDMlhiE_A=/0x0/filters:format(jpeg)/pic779858.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5YNPSdHitt_NoU_afX5rWA__small/img/CT5NX-IhY17T-LrHN6C2lftuDpQ=/fit-in/200x150/filters:strip_icc()/pic779858.jpg",
+    "link": "https://boardgamegeek.com/thing/78727",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2010",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.88491",
+    "averageWeight": "3.0814",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Income",
+      "Market",
+      "Network and Route Building"
+    ],
+    "categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Friedemann Friese"
+    ]
+  }
+}

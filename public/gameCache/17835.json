@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:58:32.665Z",
+  "gameDetails": {
+    "id": "17835",
+    "name": "Monsters Menace America",
+    "type": "boardgame",
+    "description": "As a giant monster, stomping cities is what you do. But now, other giant monsters are moving in on your turf - and you have to put a stop to that. Through a bizarre twist of fate, a branch of the military has decided to focus all its firepower on the other monsters. While your rivals are busy trampling tanks and swatting fighter jets, you'll be out there growing in power and infamy - getting ready for the Monster Challenge. In the end, when the dust settles and the radiation fades, the last creature standing will be crowned King of the Giant Monsters!\n\nEach player is one of six Giant Monsters, stomping across a map of the USA in search of cities to destroy. The monsters run the gamut from the classic (enormous lizards and gargantuan apes) to the slightly more unconventional (giant walking eyeball), and each has its own set of attributes and powers.\n\nIngeniously, everyone also controls an arm of the military, which can be used to attack and weaken the other monsters on the board. It's a losing battle for the militia -- monsters can wipe out military bases and reduce the total number of forces available to each player -- but you can get a few good licks in early in the game.The battle escalates until the 20th city is reduced to rubble. At that time, all the monsters duke it out in a free-for-all, mano-a-clawo Monster Challenge; when the dust settles, the last monster standing is declared the winner.\n\nThis game is a reworking of Monsters Ravage America.\n\nKey differences between this version and the original game include: getting rid of money in favor of a set number of units each turn, streamlined combat (two rounds in the new edition as opposed to three), removal of \"bad\" cards from the Research and Mutation decks (along with a few new cards from some of the unofficial expansions), removal of terrain effects on the board, miscellaneous balance tweaks between the military branches and the monsters.\n\n",
+    "image": "https://cf.geekdo-images.com/xNDA287XuHALLqBHjqkhqg__original/img/ic0WyQ9oOgeUtljUOkQval4YRMo=/0x0/filters:format(jpeg)/pic498074.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xNDA287XuHALLqBHjqkhqg__small/img/5D4od_czVOpd6eo_jZAijNx2sG4=/fit-in/200x150/filters:strip_icc()/pic498074.jpg",
+    "link": "https://boardgamegeek.com/thing/17835",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.97641",
+    "averageWeight": "1.8418",
+    "boardGameRank": "5814",
+    "mechanics": [
+      "Dice Rolling",
+      "Finale Ending",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "J. C. Connors (I)",
+      "Ben Knight"
+    ]
+  }
+}

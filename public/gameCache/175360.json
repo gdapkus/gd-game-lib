@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:04:45.202Z",
+  "gameDetails": {
+    "id": "175360",
+    "name": "W1815",
+    "type": "boardgame",
+    "description": "W1815 is a simple strategy game that simulates the key events of the battle of Waterloo in 15 minutes. The French side can try a number of different strategies in an attempt to crush the Anglo-Allied army before the Prussians arrive. Meanwhile, the Anglo-Allied player must focus on keeping his army in the battle by using reserves in right situations until the Prussians get into the action.\n\nThe game contains a battlefield map which is used to record casualties and the current strength of the participating armies. The cards are setup around the battlefield map with each card representing a corps. Players take it in turns to activate one corps and carry out an action. The rules for each individual corps action are described on the cards. The results of these actions are then recorded on the battlefield map. The game ends when either army fails a rout test or the time marker is moved to the night square.\n\n",
+    "image": "https://cf.geekdo-images.com/o3sLE0diJ3kLdzZkvUoAjg__original/img/iD5qhK6HmQIxRdBK2L-HCa0L4K0=/0x0/filters:format(jpeg)/pic2460294.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/o3sLE0diJ3kLdzZkvUoAjg__small/img/9n4VSzR14PLuNpHJUwmvUFep7Ug=/fit-in/200x150/filters:strip_icc()/pic2460294.jpg",
+    "link": "https://boardgamegeek.com/thing/175360",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2015",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.35776",
+    "averageWeight": "1.5179",
+    "boardGameRank": "3503",
+    "mechanics": [
+      "Dice Rolling",
+      "Simulation",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Napoleonic",
+      "Wargame"
+    ],
+    "designers": [
+      "Hannu Uusitalo"
+    ]
+  }
+}

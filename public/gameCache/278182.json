@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T21:10:55.684Z",
+  "gameDetails": {
+    "id": "278182",
+    "name": "The Island of El Dorado: The Revenge of El Dorado",
+    "type": "boardgameexpansion",
+    "description": "Explorers and Thieves continue to wage war in their pursuit of the untold power hidden in the four shrines on The Island of El Dorado. But even as their civilizations grow vast, their economies grow prosperous, and their armies grow strong, their greatest battle yet will be against the power of the island which they&rsquo;ve just unleashed. Enraged by the conquests of the explorers and the misdeeds of the Thieves, the Guardian of El Dorado has risen from the depths of the island to reclaim what is eternally hers. With the power of a god she summons beasts, giants, and ruthless natural disasters to reclaim the shrines and cleanse the island of its trespassers.\n\nIn The Revenge of El Dorado, explorers and thieves widen and deepen their strategy as they face off against the mythical Guardian of El Dorado and the fury of the island she defends. Expanded explorer boards allow players to upgrade their buildings and units, unlocking new abilities, new military and economic tactics, and new paths to victory.\n\nFully cooperative gameplay allows explorers to band together against the island, employing complex strategy to control the shrines while defending against the islands varied and savage attacks. Or, take control of the Guardian herself (as a completely asymmetric faction), championing her army of beasts, giants, and the power of the island against the Thieves and explorers as she races to secure her shrines.\n\n-description from designer\n\n",
+    "image": "https://cf.geekdo-images.com/vgYcMuzovJtNXCaxVvtX_g__original/img/iXB6mA4_luDjnj4Q3OwQdWGvjFo=/0x0/filters:format(jpeg)/pic4769610.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vgYcMuzovJtNXCaxVvtX_g__small/img/CR3k4JJik3lOok-GsaBZrV6CeNo=/fit-in/200x150/filters:strip_icc()/pic4769610.jpg",
+    "link": "https://boardgamegeek.com/thing/278182",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "100",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "100",
+    "bestAtCount": null,
+    "averageRating": "7.27569",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board",
+      "Roll / Spin and Move",
+      "Team-Based Game",
+      "Tile Placement",
+      "Trading"
+    ],
+    "categories": [
+      "Adventure",
+      "Ancient",
+      "Civilization",
+      "Expansion for Base-game",
+      "Exploration",
+      "Mythology"
+    ],
+    "designers": [
+      "Daniel Aronson"
+    ]
+  }
+}

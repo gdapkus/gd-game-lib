@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:15:12.100Z",
+  "gameDetails": {
+    "id": "6955",
+    "name": "Reiner Knizia's Decathlon",
+    "type": "boardgame",
+    "description": "Reiner Knizia&rsquo;s Decathlon is a series of 10 short dice games with the loose theme of the events of an Olympic Decathlon: 100-meter dash, long jump, shot put, high jump, 400-meter dash, 110-meter hurdles, discus throw, pole vault, javelin throw, and 1500-meter run. The rules are available for free on Knizia's web site. The game is played with eight dice, pen, and paper. In each event, each player rolls a pool of dice, rerolling a limited number of times, and freezing desired rolls. The goal is to obtain the highest score across all the events.\n\nThe first edition of the game (in German) and the second printed English edition (a translation of the first edition) give two variants:\n\n\n     Energy: each player starts the game with a fixed amount of energy and must use one unit of it for each roll. Some minor adjustments are made to the rules for two of the events. Remaining energy can optionally be added to each player's score.\n\n\n\n     With two or more players you can play a championship game where the best scorer in an event gets as many points as there are players, the next-best gets one less, etc.\n\n\nThe web-published version includes a different version of the second variant (3/2/1 for 1st/2nd/3rd place, ties are friendly).\n\n",
+    "image": "https://cf.geekdo-images.com/claqFIvtO5U8Oj6dF4ENSA__original/img/MfXqI1paLQJE5aggut2DdZRfi_U=/0x0/filters:format(jpeg)/pic75802.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/claqFIvtO5U8Oj6dF4ENSA__small/img/ey52iVJ6wxC41zmRGmTn72jx-_Y=/fit-in/200x150/filters:strip_icc()/pic75802.jpg",
+    "link": "https://boardgamegeek.com/thing/6955",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2003",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.28582",
+    "averageWeight": "1.2105",
+    "boardGameRank": "4784",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Re-rolling and Locking"
+    ],
+    "categories": [
+      "Dice",
+      "Print & Play",
+      "Sports"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

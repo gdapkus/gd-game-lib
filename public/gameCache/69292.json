@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:55:04.026Z",
+  "gameDetails": {
+    "id": "69292",
+    "name": "Guardians of Graxia",
+    "type": "boardgame",
+    "description": "The fantasy world of Graxia is a shattered world of floating continents high in the sky. Each continent is connected by portals, the primary gateways between city-states that reside on these continents. Warlords command Guardians to lead armies through the portals on quests to conquer and control each other's lands.\n\nThe many continents are filled with races of all types, from Orcs, Goblins, Dwarves, Skeletons, Elves, Humans, as well as new races, such as the Celethreals and Boneshadows. While once in harmony with each other, the peace of the countryside has since been destroyed as portals open with armies pouring in from unknown continents.\n\nWhat Guardians will protect your lands?\n\nGuardians of Graxia will be released this summer as both a board game and a PC online-downloadable version. The game features dynamic strategic gameplay using more than 240 unique and spell cards, figurines, and map tiles in a fantasy-based environment. Heroes of Graxia is being released at the same time and is a Deck-Building Card Game version of the Graxia world.\n\nGuardians of Graxia will support both single and multiplayer gameplay as well.\n\n",
+    "image": "https://cf.geekdo-images.com/wbfoNUi8LTDyDmsCFKkEXw__original/img/Noc5DwWZIHN7kIUWI6KMQqdR2zs=/0x0/filters:format(jpeg)/pic811165.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wbfoNUi8LTDyDmsCFKkEXw__small/img/QkSoc0ZIec4GiGz0LtLhKZbMeGM=/fit-in/200x150/filters:strip_icc()/pic811165.jpg",
+    "link": "https://boardgamegeek.com/thing/69292",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2010",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "5.76776",
+    "averageWeight": "3",
+    "boardGameRank": "24843",
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Modular Board",
+      "Variable Phase Order"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "designers": [
+      "George Chastain",
+      "Chuck Kroegel",
+      "Daniel Kroegel",
+      "Anthony Mullins",
+      "Tony Mullins"
+    ]
+  }
+}

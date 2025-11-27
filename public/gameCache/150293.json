@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:00:40.783Z",
+  "gameDetails": {
+    "id": "150293",
+    "name": "The Ravens of Thri Sahashri",
+    "type": "boardgame",
+    "description": "The Ravens of Thri Sahashri is a two-player cooperative card game. One player is playing the girl Ren who has lost her memory; the other is her psychic friend Feth who is trying to repair it. The game is about trying to communicate as well as possible by simply the choice of cards. (Note: \"Thri Sahashri\" is the buddhist term for a trillion worlds combined, which in this case means \"the other plane\".)\n\nOf a deck consisting of cards of five colors and numbered 1&ndash;5, the Ren player draws four cards and keeps them face down. The goal for both players is to ensure that when the hand ends, the playing field has cards of these colors and these colors only.\n\nEach round, the Feth player draws as many cards as he wishes from the shuffled deck, putting them on the playing field according to the marks on the cards. The deck also contains ravens, which when drawn will \"eat\" any discarded cards of that color and threaten to take them out of the game.\n\nWhen the Feth player is done, the Ren player picks one of the cards in the playing field and puts on the leftmost still \"incomplete\" hidden card. A hidden card is complete when that card plus the cards placed on it total 7. (The fourth pile, however, should total only 5, according to the Japanese poem metric \"dodoitsu\" that goes 7-7-7-5.)\n\nOnce all four hidden cards are completed, the round ends and unless the playing field has exactly the colors represented among the hidden cards, the players have failed. The game is played for three hands, but in the final hand, one hidden card must be completed per round, lest the players fail. Players also fail if the deck runs out or if all five Ravens are drawn.\n\n",
+    "image": "https://cf.geekdo-images.com/i-naPlqJ-6EPLFEvRMUw_g__original/img/lf_68hEc-ENbudSbpAKUyY-cGTI=/0x0/filters:format(jpeg)/pic3048542.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/i-naPlqJ-6EPLFEvRMUw_g__small/img/RGVgUg4XyDQQL084dy_OSkKdy0k=/fit-in/200x150/filters:strip_icc()/pic3048542.jpg",
+    "link": "https://boardgamegeek.com/thing/150293",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2013",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.09196",
+    "averageWeight": "3.42",
+    "boardGameRank": "2658",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Deduction",
+      "Pattern Building",
+      "Push Your Luck",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction"
+    ],
+    "designers": [
+      "Kuro"
+    ]
+  }
+}

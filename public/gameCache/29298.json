@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:52:07.449Z",
+  "gameDetails": {
+    "id": "29298",
+    "name": "Descent: The Road to Legend",
+    "type": "boardgameexpansion",
+    "description": "In the dark and secret parts of the world, foul Overlords plot and scheme to unleash great evil and cover the world in suffering. Only those Heroes brave enough to journey into the dark and oppose them can save the known world from disaster.\n\nThe Road to Legend represents a new way to play Descent with the introduction of campaign rules and an overland map of Terrinoth.\n\n",
+    "image": "https://cf.geekdo-images.com/WajsvfvjFsU1X79V7fjxkA__original/img/1cjjifJocdiKBKCoxGrD6MfAnJo=/0x0/filters:format(jpeg)/pic316503.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WajsvfvjFsU1X79V7fjxkA__small/img/wYU2kCOwQn48KtsAEENv19_rbsQ=/fit-in/200x150/filters:strip_icc()/pic316503.jpg",
+    "link": "https://boardgamegeek.com/thing/29298",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2008",
+    "playingTime": "240",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.97919",
+    "averageWeight": "3.6829",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Modular Board",
+      "Role Playing",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Expansion for Base-game",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Miniatures"
+    ],
+    "designers": [
+      "Robert A. Kouba",
+      "Kevin Wilson"
+    ]
+  }
+}

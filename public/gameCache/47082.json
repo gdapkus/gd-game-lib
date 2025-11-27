@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:05:11.973Z",
+  "gameDetails": {
+    "id": "47082",
+    "name": "Win, Lose, or Banana",
+    "type": "boardgame",
+    "description": "A super-light card game from Asmadi Games that made a minor splash at Origins in 2009. Players draw one of three cards, and whoever draws the \"Win\" card wins.\n\nThe \"Who's the Banana?\" variant requires the winning player to guess which of the other two players has the \"Banana\" card.\n\n",
+    "image": "https://cf.geekdo-images.com/RkHrnWVAdILYe9wjhNoUTQ__original/img/itGU5-jjCK5QE6qrRjQirBFkVw4=/0x0/filters:format(jpeg)/pic1355334.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RkHrnWVAdILYe9wjhNoUTQ__small/img/-9JfwaRmIUoGc_9a1MoO1VuKkr4=/fit-in/200x150/filters:strip_icc()/pic1355334.jpg",
+    "link": "https://boardgamegeek.com/thing/47082",
+    "minPlayers": "3",
+    "maxPlayers": "3",
+    "yearPublished": "2009",
+    "playingTime": "1",
+    "minPlayingTime": "1",
+    "maxPlayingTime": "1",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "5.4102",
+    "averageWeight": "1.0658",
+    "boardGameRank": "28995",
+    "mechanics": [
+      "Roles with Asymmetric Information"
+    ],
+    "categories": [
+      "Card Game",
+      "Humor"
+    ],
+    "designers": [
+      "Chris Cieslik"
+    ]
+  }
+}

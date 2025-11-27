@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:04:06.596Z",
+  "gameDetails": {
+    "id": "258412",
+    "name": "Unlock!: Exotic Adventures – Night of the Boogeymen",
+    "type": "boardgame",
+    "description": "Little William has been having sleepless nights as of late. The poor boy has been attacked by monsters from nightmares: the boogeymen! Under the cloak of darkness, you open William's door to seek out the monsters. Be careful as you fight with them; William is sleeping, and you can't wake him up!\n\nThe Night of the Boogeymen is an Unlock! adventure for up to six players. With just one hour on the clock, players must work through a deck of sixty cards as a team, searching for clues, combining objects, and figuring out puzzles to solve the mystery and escape the countdown timer. The free Unlock! app runs the timer while providing clues, giving hints, and helping players succeed. Once the team has reached the solution and entered the correct code, they've escaped, and the game has been won!\n\n",
+    "image": "https://cf.geekdo-images.com/XKP3VV2DOXVFC-Ci-9eRUg__original/img/JW8Mx1W1_pSNzpagQQEHqeF0sLs=/0x0/filters:format(png)/pic4511365.png",
+    "thumbnail": "https://cf.geekdo-images.com/XKP3VV2DOXVFC-Ci-9eRUg__small/img/G86tU0mpZ11QGRWbbBSn-UMUSZU=/fit-in/200x150/filters:strip_icc()/pic4511365.png",
+    "link": "https://boardgamegeek.com/thing/258412",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2019",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.73382",
+    "averageWeight": "1.9091",
+    "boardGameRank": "4344",
+    "mechanics": [
+      "Cooperative Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Germain Winzenschtark"
+    ]
+  }
+}

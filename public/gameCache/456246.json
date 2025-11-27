@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-11-26T21:18:21.246Z",
+  "gameDetails": {
+    "id": "456246",
+    "name": "Die wandelnden Türme: Der Zauberturm",
+    "type": "boardgameexpansion",
+    "description": "This expansion consists of 5 expansion modules, which can be combined arbitrarily.\nThe 5 modules are:\n\n     Elixir Fountain - Lets you fill one of your empty magic flasks, if landed on\n     Spiderweb - Move the same amount of steps that took you on the spiderweb again\n     Hag - When the hag lands on a space occupied by a wizard, the wizard has to empty one of his filled magic flasks\n     The Raven - If the raven moves to a space with wizards, each player that has a wizard on the space gets a raven feather (max. 3) which let you execute one of three actions (Play your third movement card, use 1 magic spell without using a magic flask, advance any  1 wizard 1-6 spaces)\n     Magic Tower - If a wizard moves to the magic tower, it may use 1 magic spell without using a magic flask\n\n\n",
+    "image": "https://cf.geekdo-images.com/7Iuu9bEEDWn9HNS5Ns8-OA__original/img/3bfGuVVJaAOQHUbEdDbOFc2C__o=/0x0/filters:format(jpeg)/pic9162220.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7Iuu9bEEDWn9HNS5Ns8-OA__small/img/ImoUHbUetlIj9V6-HclJq_P5KWM=/fit-in/200x150/filters:strip_icc()/pic9162220.jpg",
+    "link": "https://boardgamegeek.com/thing/456246",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "8",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ]
+  }
+}

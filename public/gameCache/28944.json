@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:55:24.168Z",
+  "gameDetails": {
+    "id": "28944",
+    "name": "Harzbahn 1873",
+    "type": "boardgame",
+    "description": "1873 Harzbahn is an 18xx variant set in the Harz mountain range in northern Germany. It simulates not only the (narrow-gauge) railroads in that area, but also mines and other plants. Mining in the Harz mountains suffered a major crisis in the end of the 19th century and the theme of the game is to end this crisis by connecting the mines and other plants to the railroad network - and of course by proper management of the 7 public railroad companies, 15 private mining companies, and up to 5 public mining companies.\n\n1873 has a bunch of fundamental differences from the usual 18xx game, which makes it one of the more distant members of the family (most prominent are the totally different systems of train operations, route determination, and revenue calculation).\n\n---\n\nThe game presents an interesting dynamic. Mines are static and need rails to move product.\n\nThe game starts with 15 independent mines struggling with horse drawn delivery. Rails are just beginning to extend track through the difficult terrain with weak and puny engines hardly better than horse drawn wagons.  What do you invest in? The rails or the mines?\n\nSoon however some mines are connected and the profits begin to roll in. But not very efficiently for the mines as they are too fragmented and cannot get good prices for their product. The mines then join forces into mining companies. The mining companies pay better then the independent companies but have limited capital. Do you continue to reap Okay revenues or take it public. Public mining companies move quickly to acquire additional mines from their owners who reap huge profits.\n\nNew rail companies are also forming but have to struggle with purchasing routes and difficult terrain. But the mines need the track so once connected to the mines, they start turning a profit. But how do they protect their market or extend and try to expand to new markets?\n\nSome may fail, overextended by mismanagement and greedy owners. Others with prudent management and extended routes can reap huge profits for the shareholders.\n\n",
+    "image": "https://cf.geekdo-images.com/et0Qb9iZaCA8kekAwdX2eQ__original/img/XivJ3pehEuPzx3L96DqXg9xPfGE=/0x0/filters:format(png)/pic5891304.png",
+    "thumbnail": "https://cf.geekdo-images.com/et0Qb9iZaCA8kekAwdX2eQ__small/img/ECJju_YFITDgAcEgiGJjcBdFuos=/fit-in/200x150/filters:strip_icc()/pic5891304.png",
+    "link": "https://boardgamegeek.com/thing/28944",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2011",
+    "playingTime": "300",
+    "minPlayingTime": "300",
+    "maxPlayingTime": "300",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.0721",
+    "averageWeight": "4.1667",
+    "boardGameRank": "8225",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Stock Holding",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Klaus Kiermeier"
+    ]
+  }
+}

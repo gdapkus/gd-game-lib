@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T19:31:41.734Z",
+  "gameDetails": {
+    "id": "230265",
+    "name": "Chronicles of Frost",
+    "type": "boardgame",
+    "description": "The land of Valskyrr needs its heroes once again! Only those with true skill and resolve can brave the ever changing icy paths and monstrosities spawned by the nefarious power of the Mists. Fell mighty enemies, explore and shape the land, embark on quests, write your own chronicle, and become a legend in a world of dark sorcery and peril. Will you answer the call to adventure?\n\nChronicles of Frost is a deck-building adventure game set in &AElig;stemyr, a dark fantasy universe rich in its own lore, shared by Mistfall, Heart of the Mists and Shadowscape.\n\nStart with two unique quests and a small deck, and improve your character by gaining new ability cards, items and allies. Unlock each card's more powerful effect by using skill tokens or by exerting your character to push ever further on your way to becoming a legend. Face ruthless enemies and reap the rewards of your victories. Explore and build the world, creating a new map every time you play, and use the special abilities of locations to your benefit. Manage your deck by retiring cards into your personal chronicle, where they will yield more fame at the end of the game.\n\nFace up to three opponents in a new competitive adventure game (or brave the frozen wilds cooperatively), playable in 80 minutes, and write the chronicle of your hero.\n\n",
+    "image": "https://cf.geekdo-images.com/99MqA1Hn8-itlL7sb11q2Q__original/img/mkoeIVlJ4mmVFvoMXOZEE3qxpyw=/0x0/filters:format(jpeg)/pic3739432.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/99MqA1Hn8-itlL7sb11q2Q__small/img/3lUbRAteNs9ZkHq3LqxfoIlvZJs=/fit-in/200x150/filters:strip_icc()/pic3739432.jpg",
+    "link": "https://boardgamegeek.com/thing/230265",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "80",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "80",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.09174",
+    "averageWeight": "2.25",
+    "boardGameRank": "6284",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Exploration",
+      "Fantasy"
+    ],
+    "designers": [
+      "Błażej Kubacki"
+    ]
+  }
+}

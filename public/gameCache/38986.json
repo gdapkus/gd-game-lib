@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:23:28.708Z",
+  "gameDetails": {
+    "id": "38986",
+    "name": "18NEB",
+    "type": "boardgame",
+    "description": "18NEB -- Railroads Across Nebraska\n\n18NEB is an 18xx game set in the state of Nebraska. 18NEB is a small game inspired by 18VA, 18FL, 18GA, and 18AL. It is intended to be an alternative to some of the longer and larger games while still providing interesting decisions and tension.\n\nIt features partial capitalization, in which a RR may be floated just by buying the president's share.  There are no par values and shares always trade at market value.\n\nThere is an original Priority Deal mechanic and a new Initial Auction system, both of which are highly regarded.\n\nIn the late game two \"regional railroads\" are available, similar to the granger railroads that operated in the American plains, making this game historically accurate.\n\n",
+    "image": "https://cf.geekdo-images.com/WGqfojo8HT-nZDoDjOwoIw__original/img/uZ4taewyLWroxlVI2axoQEUvqBE=/0x0/filters:format(jpeg)/pic1221093.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WGqfojo8HT-nZDoDjOwoIw__small/img/ZEWxc1QfjF7pO3dRRAbsq9AOAFg=/fit-in/200x150/filters:strip_icc()/pic1221093.jpg",
+    "link": "https://boardgamegeek.com/thing/38986",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.3865",
+    "averageWeight": "3.9545",
+    "boardGameRank": "7000",
+    "mechanics": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Stock Holding",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Matthew Campbell"
+    ]
+  }
+}

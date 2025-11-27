@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:16:58.644Z",
+  "gameDetails": {
+    "id": "204468",
+    "name": "Statecraft: The Political Card Game – Assets & Agents",
+    "type": "boardgameexpansion",
+    "description": "Description from the publisher:\n\nExpansion for the Statecraft political card game system that introduces two new card types, Assets and Agents.\n\n",
+    "image": "https://cf.geekdo-images.com/Ss27XwarYtFQiO8F95KV1Q__original/img/nAM-q-K35hzCgxZj_N4NjOp1KZM=/0x0/filters:format(jpeg)/pic3308491.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ss27XwarYtFQiO8F95KV1Q__small/img/bOfYvZeCItVhsnm6Y_U6SnqQkHA=/fit-in/200x150/filters:strip_icc()/pic3308491.jpg",
+    "link": "https://boardgamegeek.com/thing/204468",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2016",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "6.0625",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Pattern Building",
+      "Pattern Recognition",
+      "Set Collection",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Educational",
+      "Political"
+    ],
+    "designers": [
+      "Peter Blenkharn"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:01:03.730Z",
+  "gameDetails": {
+    "id": "15878",
+    "name": "Rummy",
+    "type": "boardgame",
+    "description": "There are many different versions of Rummy. Rummy 500 is the most commonly played form of Rummy. Rummy 500 is a standard deck playing card game using 52 cards.  It is one of the most popular family card games, and has a simple premise.  Players are dealt a hand of cards, with the goal being to rid yourself of all the cards in your hand.  You can do this by playing cards to the table, in groups of three, either in sets (groups of cards with the same value from different suits) or in runs (three or more consecutive cards for one suit).  Once a person lays down a group of cards, other players -- including the player who played the original set -- can now \"lay off\" cards to that group.\n\nOn a player's turn, they can take the top face down card from the stock, or take the top face up card from the discard pile.  After melding, laying off, or making no plays on the table, a player must discard a card face up on the discard pile. The discard pile is spread out, so that the value of all cards is visible.  If you see a card that you can use, you may take it, but you must also take all the cards that have been discarded on top of it, and you must play the lowest (physical) card in the deck as soon as you pick it up. If you only take the top card of the discard pile, you do not have to meld it immediately. (Variant: No wait, actually you do.)\n\nThe hand ends as soon as one player discards her last remaining card (going out). Cards on the table are worth positive points, and cards left in your hand are worth negative points.  Numbered cards from 2-10 are worth their pip value (Variant: 2-9 are worth 5); face-cards are worth 10 points; aces are worth 15 points, unless used in an A-2-3 run; jokers are worth 15 points. (Variant: All players add up the pip values of the cards in their hands, and those points are given to the player who went out.) A player who goes out without previously laying down any cards goes \"rummy,\" and scores double the points. Normally, games are played to 500 points, but players can opt to play to fewer points, or play a specific number of rounds.\n\nWhen playing with 2, both players get 13 cards.  When playing with 3 or 4, each player gets 7 cards.  When playing with 5 or 6 players, each player receives 6 cards.\n\nThere are many other variations of the game.  Early versions of Rummy were often played with a 44-card deck, Ace through 11 in four suits.  In the 2-player version players are dealt 8 cards, with 3 or more players, the hand size is 6 cards.\n\nOne such variation, Rommé, played in Germany, requires that a player cannot start laying any cards down at all, until they have broken in with a lay down valued at 40 points or more (the exception being if you can play all of the 13 cards in your hand in one go).  In the German variant, each face card is 10, number cards are worth their shown number, aces are worth 11 (if used after the king or as a set) or 1 if used as a 1 in front of a 2 in a sequence.  Jokers are the value of the card they are representing.  This German rummy variant is also played with 2x52 cards + 6(or 4) jokers - for a 110 card deck.  Another difference from American Rummy is that one can only pick up the top discard, from a single growing discard pile - never a larger part of a spread out discard deck. Rather than scoring points based on what you have laid down in front of you, the winner (first person out), gets zero, and every other player adds up the cards remaining in their hands and takes that much in points (adding up the deadwood)  Here the player that finished has no deadwood.  When someone reaches 500 (or agreed to goal) the game ends and the player with the lowest score (least penalty points) wins.  Because of this 'breaking through with 40+' rule, this game is a bit more difficult and closer to Gin Rummy.\n\nPagat.com considers the overlapping discard pile, from which a player can take any card plus all cards above it in the pile, to be the feature distinguishing Rummy 500 from basic Rummy. However, numerous other optional rules for each variant are also listed, some of which could be considered to be equally significant, and there is no consensus across the web as to what defines one or the other.\n\n",
+    "image": "https://cf.geekdo-images.com/0dNnQyrYWHp5U4yaHUh-1w__original/img/aDDvcCXRW5jNuplxsvLHMQO8ANU=/0x0/filters:format(jpeg)/pic1287045.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0dNnQyrYWHp5U4yaHUh-1w__small/img/iGlvrAUXQZNZDKBPEqaVUiV_cz4=/fit-in/200x150/filters:strip_icc()/pic1287045.jpg",
+    "link": "https://boardgamegeek.com/thing/15878",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1887",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.92269",
+    "averageWeight": "1.4024",
+    "boardGameRank": "6537",
+    "mechanics": [
+      "Melding and Splaying",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game",
+      "Children's Game"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ]
+  }
+}

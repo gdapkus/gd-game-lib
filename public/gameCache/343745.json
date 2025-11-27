@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:02:19.690Z",
+  "gameDetails": {
+    "id": "343745",
+    "name": "Deckula!",
+    "type": "boardgame",
+    "description": "After a century of slumber, you awaken to discover your castle in a disgraceful state. This will not do! Vampires are, after all, connoisseurs of the very best that (un)life has to offer... Renovate the most imposing rooms of your lair! Fill the halls with ghoulish servants! Drink a fine wine, pose dramatically on the highest tower, and write dreadful poetry! But beware the curious and bold locals that might wander by - perhaps you can invite them in...for a drink?\n\nDeckula is a darkly-comic card game of high stakes (sorry) where you try to balance a decadent lifestyle with fending off aspiring vampire hunters and looters. It's quick and easy-to-play, with scalable difficulty and a small footprint.\n\nThe objective of the game is to make it to the end of the deck without getting killed by any visitors to the castle. Each turn, you have a simple decision to make - draw a card and decide whether to buy it (adding it to your tableau) or discard it (gaining energy points to purchase future cards). Many cards are worth victory points and most of them feature a variety of tricky effects you can use to defend yourself and manipulate the flow of play. The visitor cards are the exception - they'll instantly enter a 'threat area' and have a couple of nasty effects that can affect your score or even destroy you, if you're not careful. The challenge is playing as many high-scoring cards as possible while still keeping the negative effects of the visitors under control.\n\nThe game ends when you make it to the end of the deck - winning the game and scoring your cards - or when a visitor or other card effect causes you to lose.\n\n&mdash;description from the designer\n\nIn the 2021 Solitaire Print & Play Contest, Deckula won:\n\n     1st place in Best Use of Theme\n     2nd place in Best Graphic Design\n     2nd place in Best New Solo Designer\n\n\n",
+    "image": "https://cf.geekdo-images.com/6yDtLeMRBgIppBHBW6f5pw__original/img/zyeiccbkZ-B3oTTAGOaBMTZOvfA=/0x0/filters:format(png)/pic7118911.png",
+    "thumbnail": "https://cf.geekdo-images.com/6yDtLeMRBgIppBHBW6f5pw__small/img/10A8bSKsNKmoq_a7oAAjCin4-C8=/fit-in/200x150/filters:strip_icc()/pic7118911.png",
+    "link": "https://boardgamegeek.com/thing/343745",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2021",
+    "playingTime": "10",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.22984",
+    "averageWeight": "1.375",
+    "boardGameRank": "8379",
+    "mechanics": [
+      "Move Through Deck",
+      "Open Drafting",
+      "Push Your Luck",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Horror",
+      "Humor",
+      "Print & Play"
+    ],
+    "designers": [
+      "Dr. Mindflip"
+    ]
+  }
+}

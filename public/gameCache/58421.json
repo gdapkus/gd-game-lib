@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T19:31:56.843Z",
+  "gameDetails": {
+    "id": "58421",
+    "name": "Egizia",
+    "type": "boardgame",
+    "description": "The players are builders in Ancient Egypt, competing to get the most fame building different monuments requested by the Pharaoh (the Sphinx, the Obelisk, the Temple, and the Pyramid).\n\nThe game lasts 5 turns. In each turn, the players place their pawns on the board, along the banks of the Nile, getting the advantages shown on each square. On the right bank there are fixed squares where the players may get workers, improve their mercantile capabilities, influence the floods (and thus the fertility of the fields) and reserve the right to build the monuments (that are built only after all the placements are done). On the left bank the players may take cards that are deployed randomly on the 10 squares at the start of each turn; some of these cards are kept until the end of the game (cultivable fields, stone quarries, deities granting special advantages), while others are discarded after the use and offer multiple immediate advantages.\n\nIn Egizia, the twist on the worker placement mechanic is that the players must place their pawns following the course of the Nile, moving northwards (from the top to the bottom of the board, that is seen from the Mediterranean Sea). In this way, each placement not only blocks the opponents from choosing the same square (except monuments, where multiple players are always allowed), but also forces the player to place his remaining pawns only on the squares below the one he just occupied (note that \"pawns\" are placed, since \"workers\" are one of the resources of the game, like grain and stones).\n\nWhen the placement phase is over, the workers of the players must be fed with the grain produced in the fields. The production of each field is based on the floods of the Nile, so some fields may not give grain each turn. If a player has not enough grain for all his workers, he has to buy it with Victory Points (the ratio is better for players with improved mercantile capabilities, recorded on a specific track on the board).\n\nAfter that, stones are received from the owned quarries and used to build the monuments (if the right to do was reserved earlier) along with the workers.\n\nWhen the game ends, the points scored during the game (mainly building the monuments) are added to the bonuses obtained fulfilling certain conditions on the Sphinx cards. Whoever has the highest total is the winner.\n\nOnline Play\n\n\n     Yucata (turn-based)\n\n\n",
+    "image": "https://cf.geekdo-images.com/lt07T2HIr_r7JerYdW0iyA__original/img/d8zivAydrkxYBwwXi1XeM73XlIU=/0x0/filters:format(jpeg)/pic1651950.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lt07T2HIr_r7JerYdW0iyA__small/img/sfnHUziRZl-kItnnr-QFfocySck=/fit-in/200x150/filters:strip_icc()/pic1651950.jpg",
+    "link": "https://boardgamegeek.com/thing/58421",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2009",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.38633",
+    "averageWeight": "2.832",
+    "boardGameRank": "703",
+    "mechanics": [
+      "Bias",
+      "End Game Bonuses",
+      "Open Drafting",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Ancient",
+      "Farming"
+    ],
+    "designers": [
+      "Acchittocca",
+      "Flaminia Brasini",
+      "Virginio Gigli",
+      "Stefano Luperto",
+      "Antonio Tinto"
+    ]
+  }
+}

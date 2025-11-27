@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:08:19.324Z",
+  "gameDetails": {
+    "id": "206169",
+    "name": "Slide Blast",
+    "type": "boardgame",
+    "description": "In Slide Blast, players ride water slides to be the best slider in the world. Extend your slide to make successive movements for more points, and score bonus points when you help another slider. Enjoy the stunning water park that all players create together...\n\nOn a turn, a player draws one slide tile from the slide deck and plays one tile from their hand tiles to extend their slide, then moves their pawn along the path. If the player makes an opponent's pawn move, too, they get a bonus token. Once all slide tiles have been used, the game ends. Now each player returns to their starting point and counts how long they can slide. The player who has the most victory points + bonus points wins!\n\n",
+    "image": "https://cf.geekdo-images.com/Oqt9SJnwp_ZJKxZkYrh-Yw__original/img/ENxPKEksM-BTWcBzoZtEs6Cdqvs=/0x0/filters:format(jpeg)/pic3311106.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Oqt9SJnwp_ZJKxZkYrh-Yw__small/img/sRQW_9aSlMD5r-aNO7vcvuUb8uk=/fit-in/200x150/filters:strip_icc()/pic3311106.jpg",
+    "link": "https://boardgamegeek.com/thing/206169",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2016",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.62941",
+    "averageWeight": "1.2222",
+    "boardGameRank": "7898",
+    "mechanics": [
+      "Hand Management",
+      "Network and Route Building",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Sports",
+      "Territory Building"
+    ],
+    "designers": [
+      "Sam-goo",
+      "Evan Song"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:58:10.217Z",
+  "gameDetails": {
+    "id": "238799",
+    "name": "Messina 1347",
+    "type": "boardgame",
+    "description": "Messina 1347 takes place during the introduction of the plague epidemic (a.k.a. the \"black death\") and the spreading of its infection through town. During this time period, merchant ships delivering luxury goods to Europe brought to these countries an unprecedented epidemic &mdash; and one of the first affected cities was Messina, Italy.\n\nIn the game, players take the role of important Messina families who are leaving town and moving to the countryside out of fear of being infected by the plague. While doing this, they are focusing on saving other inhabitants and helping to fight the plague infection in town. They must also endeavor to prosper in their countryside residence, where they are temporarily accommodating rescued residents. They are all waiting there for the epidemic to subside, then they return to Messina to take over and dominate particular districts in the town.\n\n",
+    "image": "https://cf.geekdo-images.com/Pw9TGohEb7PITFJnuq48bQ__original/img/W4JriNN41N9CK2e2pQgmz9Ud9bY=/0x0/filters:format(jpeg)/pic6397342.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Pw9TGohEb7PITFJnuq48bQ__small/img/bWVi55qMYTv6VrQNHFllltHLlZI=/fit-in/200x150/filters:strip_icc()/pic6397342.jpg",
+    "link": "https://boardgamegeek.com/thing/238799",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "140",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "140",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.50896",
+    "averageWeight": "3.599",
+    "boardGameRank": "843",
+    "mechanics": [
+      "Grid Movement",
+      "Income",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Medical",
+      "Medieval"
+    ],
+    "designers": [
+      "Raúl Fernández Aparicio",
+      "Vladimír Suchý"
+    ]
+  }
+}

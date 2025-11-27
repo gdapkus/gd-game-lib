@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:49:56.653Z",
+  "gameDetails": {
+    "id": "756",
+    "name": "Black Vienna",
+    "type": "boardgame",
+    "description": "In this thinly-themed game, players seek to uncover the three spies who have their identities hidden.  There are twenty-seven possible suspects, represented by twenty-seven lettered cards (with the umlauted O).  Three of the cards are removed, as they are the spies.  The remainder are dealt out to the players.  Then players take turns 'asking' each other for information by playing a card with three letters in front of the informant.  He must then look at his cards and place either zero, one, two, or three chips on the card, depending on how many of those letters are part of his secret collection.  The first player to correctly identify the three missing spies (letters) is the winner.\n\n",
+    "image": "https://cf.geekdo-images.com/wW8vAh69jBahB3jsK44tWQ__original/img/OQ3iPRaflo124iDf-GRu2RiZMhU=/0x0/filters:format(jpeg)/pic1734204.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wW8vAh69jBahB3jsK44tWQ__small/img/pRHEMqE_Meh7Hk5wdzjHg3SBGCs=/fit-in/200x150/filters:strip_icc()/pic1734204.jpg",
+    "link": "https://boardgamegeek.com/thing/756",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "1987",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "7.00929",
+    "averageWeight": "2.62",
+    "boardGameRank": "5110",
+    "mechanics": [
+      "Deduction",
+      "Paper-and-Pencil"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Gilbert Obermair"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:24:52.765Z",
+  "gameDetails": {
+    "id": "24742",
+    "name": "Cold War: CIA vs KGB",
+    "type": "boardgame",
+    "description": "World War II has left the world in upheaval, and many nations' futures are filled with uncertainty. The USA and the USSR are the only Superpowers who can lead the world toward a better future.\n\nCold War: CIA vs. KGB puts you in charge of a spy network during the post-war era. Your purpose: to \"persuade\" foreign governments to embrace the \"proper\" ideology, by any means necessary. Manipulate local factions of influence to get your coup d'etat up and running. Double-cross and eliminate your opponent's leaders. Gain prestige for your side by winning the Space Race, dominating the Olympic Games, or ensuring that one of your countrymen wins the Nobel Peace Prize.\n\nIn this decades-long conflict, victory will go to the side with the resources, conviction, and commitment necessary to ensure that their world view shapes the future.\n\nOnline play\n\n    Jeux sur un Plateau (turn-based)\n\n\n",
+    "image": "https://cf.geekdo-images.com/PgMdJGJD1c9M42alKzQjIg__original/img/tW4Ro9kzmDU0GNv1EnGyd_KuvX8=/0x0/filters:format(jpeg)/pic3021018.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PgMdJGJD1c9M42alKzQjIg__small/img/QFUj28JLMmaGA4acWi7Im9DIoIw=/fit-in/200x150/filters:strip_icc()/pic3021018.jpg",
+    "link": "https://boardgamegeek.com/thing/24742",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2007",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.62799",
+    "averageWeight": "1.8537",
+    "boardGameRank": "2161",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Multi-Use Cards",
+      "Push Your Luck",
+      "Race",
+      "Secret Unit Deployment",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Modern Warfare",
+      "Political",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Sébastien Gigaudaut",
+      "David Rakoto"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:33:23.513Z",
+  "gameDetails": {
+    "id": "269789",
+    "name": "Caravan",
+    "type": "boardgame",
+    "description": "1300 A.D., Western Africa &mdash; the desire for goods such as ivory in Europe drives the development of many trade routes here, with caravans of camels delivering goods across the desert landscape.\n\nIn Caravan, players must use their camels to deliver goods where they are wanted. Each player starts with five camels in their color (or six in an introductory game), and the game board is seeded with eight goods on the spaces numbered 1-8, with demand markers placed on the goods at spaces 1, 2, 7 and 8. The first player in the game takes one action, the second player two, and so on until someone takes four actions, after which each player can take up to four actions on their turn. Actions are:\n\n\n    Place or move an unladen camel of your color into an empty space: 1 action\n    Place or move an unladen camel of your color into an occupied space: 2 actions\n    Pick up a good and place it on the camel in that space: 1 action; if any demand markers are on this space, you keep them.\n    Move a good along a chain of your camels, ending with it on top of one of your unladen camels: 1 action\n    Steal a good from on top of an opponent's laden camel, placing it under one of your camels in the same space: 1 action and a theft marker; if you have no theft markers, you can't do this.\n\n\nIf you move a good to a camel located in the city that wants that good (as indicated by color), then you remove that good from the board and keep it. As soon as four goods have been picked up (not necessarily delivered), pause the game and place a demand marker on each good still on the board; in addition, refill the empty numbered spots with a good from the bag.\n\nOnce the final four goods have been drawn from the bag, the game ends immediately following the next delivery. Players score points based upon what they've collected: Rare goods (of which there are three each of four types) are worth 6 points each; common goods (nine each of four types) are worth 3 points each; and each demand marker is worth 1 point. Whoever scores the most wins.\n\n",
+    "image": "https://cf.geekdo-images.com/lTNVCrHWeb_wMqClG3AbjA__original/img/FigWz8N6dZCaqDi5t8hfX6yjIZM=/0x0/filters:format(png)/pic4523723.png",
+    "thumbnail": "https://cf.geekdo-images.com/lTNVCrHWeb_wMqClG3AbjA__small/img/0iM5gH-YkySk6A0vvRb1lZX2fSs=/fit-in/200x150/filters:strip_icc()/pic4523723.png",
+    "link": "https://boardgamegeek.com/thing/269789",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.56379",
+    "averageWeight": "1.7692",
+    "boardGameRank": "5219",
+    "mechanics": [
+      "Grid Movement",
+      "Pick-up and Deliver",
+      "Take That"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Arabian"
+    ],
+    "designers": [
+      "Joe Huber (I)"
+    ]
+  }
+}

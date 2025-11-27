@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:38:32.652Z",
+  "gameDetails": {
+    "id": "309430",
+    "name": "Tiny Epic Pirates",
+    "type": "boardgame",
+    "description": "Tiny Epic Pirates is a 45 minute, 1-4 player game of high-seas adventure, utilizing a variable rondel action system and action combo-ing!.  In Tiny Epic Pirates you take control of a Pirate ship with the goal of burying vast amounts of wealth on secret island hideaways.\n\nEach turn, you move your Captain Token around your ship&rsquo;s action wheel (rondel), selecting which action to perform... Plunder, Trade, Crew Up, Attack, or Search. Each player has a randomized and unique arrangement of these actions on their rondel. Sailing your Pirate Ship is something every player can do every time they take an action. Plundering allows you to acquire booty from settlements at a very reasonable rate. It&rsquo;s amazing how negotiating changes when your blunderbuss is at the ready. A crate of gunpowder for a promise of no harm? Fair exchange. Trading allows you to sell your ill-gotten goods to the Black Market for gold. Each Market is only interested in a specific good, so make sure you are sailing in the right direction. Timing is everything, sell your good at the wrong time and it&rsquo;s worth a pittance. Crew Up adds a new crew member to your growing Pirate Ship. Crew increases your ship&rsquo;s combat advantage and unlocks new abilities for each spoke of your ship&rsquo;s action wheel, making that action more powerful every time you take it!  Attacking Merchant Ships and other Pirates will  grow your reputation. It also happens to be a great way to score some gold and more booty to sell. Be enough of a menace and you may just become a Legend of the Sea!\n\nSearch the high-seas for treasures left behind by the unfortunate souls that preceded you. Salvage old ship parts for temporary aid or get lucky and find something worth selling.\n\nThe end of the game is triggered once a player has buried three treasures. To do this, a player must first acquire the amount of gold required to bury at the various bury spots on the map. After all players have had an equal number of turns. The player who has buried three treasures wins the game. Ties are decided by the player who has the highest legendary status, followed by which player has the most gold.\n\n--description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/OACc4dCZKetKnT2hzAO1Mg__original/img/8hM0Y4fF_KxOEnm-rXK_ZmnaKR0=/0x0/filters:format(jpeg)/pic5410377.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OACc4dCZKetKnT2hzAO1Mg__small/img/bCHPPDZK8gPmVI0KWiwUwhMWXgU=/fit-in/200x150/filters:strip_icc()/pic5410377.jpg",
+    "link": "https://boardgamegeek.com/thing/309430",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.01103",
+    "averageWeight": "2.869",
+    "boardGameRank": "2028",
+    "mechanics": [
+      "Dice Rolling",
+      "Market",
+      "Movement Points",
+      "Pick-up and Deliver",
+      "Rondel",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Dice",
+      "Exploration",
+      "Nautical",
+      "Pirates"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

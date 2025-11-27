@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:54:52.924Z",
+  "gameDetails": {
+    "id": "5055",
+    "name": "The Great War 1914-1918",
+    "type": "boardgame",
+    "description": "A strategic level, area movement game based on WWI. The map covers all major European and West-Asian countries ranging from Britain and France in the west to Persia and Russia in the east. Players maneuver armies, corps, and naval squadrons while engaging in mobilization, combat, and diplomacy.\n\nThere are seven historical and one hypothetical scenario, plus a campaign game that links all of them into one massive 72 turn game. (One turn equals one month.)\n\nEach player begins with a set amount of resources and must manage them properly to gain victory. Run out of \"money\" (National Resource Credits) before the others and you're probably out of the game. Similarly, players have fixed mobilization pools from which to draw on to create new units. You can end up with having enough money to outfit a new infantry division but without any more young men to wear those uniforms! There are no endless supplies in this game to keep building unit after unit after unit. Makes for a very challenging and interesting gaming situation.\n\nContents: \n\n    1 32\" x 22\" map \n    200 double-sided die-cut counters \n    Rules Booklet \n\n\nAlso available: 1 errata sheet, 1 advanced tournament optionals sheet.\n\n",
+    "image": "https://cf.geekdo-images.com/wZBVJScmRfDC_ykEFIIgiQ__original/img/BhJgNDkUKgZUDuVPvB0jxBeB0Jw=/0x0/filters:format(png)/pic2373646.png",
+    "thumbnail": "https://cf.geekdo-images.com/wZBVJScmRfDC_ykEFIIgiQ__small/img/wxbNH1-6AJpH6Z_op8QtSwANPys=/fit-in/200x150/filters:strip_icc()/pic2373646.png",
+    "link": "https://boardgamegeek.com/thing/5055",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "yearPublished": "1976",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.42115",
+    "averageWeight": "3",
+    "boardGameRank": "19004",
+    "mechanics": [
+      "Area Movement"
+    ],
+    "categories": [
+      "Wargame",
+      "World War I"
+    ],
+    "designers": [
+      "Albert A. Nofi",
+      "John Prados"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:02:16.749Z",
+  "gameDetails": {
+    "id": "1231",
+    "name": "Bandu",
+    "type": "boardgame",
+    "description": "Players take turns choosing blocks and giving them to each other to place on their structure.  A player may pay a certain number of 'beans' to refuse a block and it gets passed to the next player.  When a player's structure falls, they are out of the game.  Last player standing wins.\n\nDescription of Bandu (1992, Milton Bradley, 2-6 players):\nBandu is based upon the game of Bausack. Each player is given a base block and a number of beans. During a turn, a player chooses a wood block from a common supply and either holds a Refuse or Use auction. All player bid with their beans and the winner/loser must place the piece on their tower. If your tower falls you are out of the game. The last tower standing wins.\n\nDescription of Sac Noir (Rio Grande Games, 2-8 players):\nThere are five variations on how to play. The goal in all of them is to build a tower. The bag contains very different wooden pieces (i.e. an ashlar, an egg, a ring, a fir tree etc.) as well as a sack of beans for the \"auction variation\" of the game. Depending on the variation you choose, either each player builds his own tower or all build one together. The \"auction variations\" are the most suspenseful and surprising. One might end up spending quite some beans to avoid building an especially difficult element. Gambling and bluffing abilities are needed just as much as a feeling for statics and construction skills. It's a game with almost endless building possibilities. It's a challenge for steady hands and shaky suspense for clever tacticians.\n\n",
+    "image": "https://cf.geekdo-images.com/Jl01kNLgVCusSm3GdMHhSg__original/img/NA2NFGJm51ZdyQqAbiQGUkpP5QI=/0x0/filters:format(jpeg)/pic2340406.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Jl01kNLgVCusSm3GdMHhSg__small/img/uwDP529GcDENI87phFNQXDKM5vg=/fit-in/200x150/filters:strip_icc()/pic2340406.jpg",
+    "link": "https://boardgamegeek.com/thing/1231",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "1987",
+    "playingTime": "45",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.79599",
+    "averageWeight": "1.2852",
+    "boardGameRank": "1772",
+    "mechanics": [
+      "Auction / Bidding",
+      "Stacking and Balancing"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Party Game"
+    ],
+    "designers": [
+      "Klaus Zoch"
+    ]
+  }
+}

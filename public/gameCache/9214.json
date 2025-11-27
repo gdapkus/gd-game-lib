@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:29:33.833Z",
+  "gameDetails": {
+    "id": "9214",
+    "name": "Manga Manga",
+    "type": "boardgame",
+    "description": "Here is a description of the game from Uberplay:\n\nAs brave heroes, the players enter the arena. All players play cards at the same time. The cards are dealt and each card shows a hero in a certain color and a shield in the same or another color.\n\nA card is turned over which shows, for example, a blue hero and a red shield of his opponent. Now all players have to hurry to discard a red hero. If the card shows a yellow shield, a yellow hero has to be discarded and so on. The player who managers to discard all of his cards first, receives a score disc. The one who holds the most cards at the end of the round, receives a consolation disc, which may be an advantage in a later round.\n\n",
+    "image": "https://cf.geekdo-images.com/wfg8xoevbHEbin1YecGXVg__original/img/FXvwwxMPQMKP8aVzPTYxh6zI6Bs=/0x0/filters:format(jpeg)/pic710081.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wfg8xoevbHEbin1YecGXVg__small/img/v8wM5Jeg4rVieRyksgOLRlkTwks=/fit-in/200x150/filters:strip_icc()/pic710081.jpg",
+    "link": "https://boardgamegeek.com/thing/9214",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2004",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "4.2715",
+    "averageWeight": "1.1176",
+    "boardGameRank": "29409",
+    "mechanics": [
+      "Hand Management",
+      "Speed Matching"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Peter Neugebauer"
+    ]
+  }
+}

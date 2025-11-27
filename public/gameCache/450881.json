@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:14:26.893Z",
+  "gameDetails": {
+    "id": "450881",
+    "name": "Pirates of Maracaibo: Bermuda Triangle",
+    "type": "boardgameexpansion",
+    "description": "The waters of the Bermuda Triangle are feared because storms sometimes make navigation impossible. What's more, legends tell of huge monsters lurking there for unsuspecting sailors...but the stories also tell of legendary treasures to be found there, so now you'll race in search of them.\n\nThe Pirates of Maracaibo: Bermuda Triangle expansion features a \"Treasure Hunt\" module in which you compete against each other in a race to find the biggest treasure. It also contains new improvement cards that you can mix into the base game for more variety, as well as a new card for the solo mode.\n\n",
+    "image": "https://cf.geekdo-images.com/M_yI8EboYxhCdtDlbGz29w__original/img/FRVfM65All1cuW7YR0W2q_G6ZBE=/0x0/filters:format(jpeg)/pic9003815.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/M_yI8EboYxhCdtDlbGz29w__small/img/Al26Qm4C0Z23qeFMcgfpvvpCpwo=/fit-in/200x150/filters:strip_icc()/pic9003815.jpg",
+    "link": "https://boardgamegeek.com/thing/450881",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "100",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "100",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.41667",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Increase Value of Unchosen Resources",
+      "Multi-Use Cards",
+      "Pieces as Map",
+      "Race",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Nautical",
+      "Pirates"
+    ],
+    "designers": [
+      "Ryan Hendrickson",
+      "Florian Kumschier",
+      "Alexander Pfister"
+    ]
+  }
+}

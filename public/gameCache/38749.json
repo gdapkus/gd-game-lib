@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:50:52.607Z",
+  "gameDetails": {
+    "id": "38749",
+    "name": "Catan Geographies: Germany",
+    "type": "boardgame",
+    "description": "Germany was founded in 1949 and reunited in 1989. Therefore, the year 2009 will be Germany's 60th birthday and the 20th Anniversary of the Reunion.\nKlaus Teuber and the Kosmos Verlag wanted to do something special for this event and will bring out this gorgeous version of their CATAN game.\nIt will feature a map of Germany, designed by Michale Menzel, and some slightly simplified rules. You will be able to build city landmarks as for example the 'Brandenburger Tor' or the 'Dresdner Dom' in one of the 12 possible cities. All these landmarks will be in the box as plastic miniatures of significant detail.\nIn short: A must have for all German Catanien and a good addition to the collection of every other wood-for-sheep-enthusiast.\n\nOn the box: Discover and settle germany!\nExplore and settle the storied land of Germany using the elegant, award-winning game design from The Settlers of Catan. Here, you will find great social interaction, simple rules, beautiful German geography, rich history and lore, and 12 wonderfully-sculpted landmarks.\nCatan Geographies: Germany is a game about trade, building, and settlement. Start with town halls in 3 cities. Then build roads to neighboring cities, where you can purchase landmarks and new town halls. Town halls create resource production, while the unique landmarks generate special awards. Both yield victory points - as do the Longest Road, Largest Army, and historically-based victory point cards.\nSo, have fun with friends or family while casually discovering the novel geography and history of Germany.\n\n",
+    "image": "https://cf.geekdo-images.com/6lXxgzm-geYqUCRhna9tgA__original/img/DCo1PngiBWOXsf50lS-M-GHbYxQ=/0x0/filters:format(jpeg)/pic594446.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6lXxgzm-geYqUCRhna9tgA__small/img/MQnJv_iaoR0yA23T8ZBJ78BXvG4=/fit-in/200x150/filters:strip_icc()/pic594446.jpg",
+    "link": "https://boardgamegeek.com/thing/38749",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.82263",
+    "averageWeight": "2.35",
+    "boardGameRank": "4582",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Memory",
+      "Network and Route Building",
+      "Trading"
+    ],
+    "categories": [
+      "Negotiation"
+    ],
+    "designers": [
+      "Klaus Teuber"
+    ]
+  }
+}

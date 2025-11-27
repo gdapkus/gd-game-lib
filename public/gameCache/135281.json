@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T21:01:30.784Z",
+  "gameDetails": {
+    "id": "135281",
+    "name": "Serenissima (Second Edition)",
+    "type": "boardgame",
+    "description": "Serenissima is the new Ystari edition of the 1996 game (M&eacute;diterran&eacute;e in France). The rules have been updated and the game is more fluid.\n\nIn Serenissima players represent a merchant family during the Renaissance. Players attempt to balance the need of trading and open commerce versus the cut-throat economic piracy of the day. Players create a fleet of ships to purchase and move various commodities around the Mediterranean while also keeping well manned ships to attack and defend against other player's fleets.\n\n\n\n(block of information submitted by user in comments not included in game entry)\nBoard\nThe maritime areas are bigger and there are fewer of them. Starting ports are different too: Alexandria is one of them in the new version.Resources and Trade\nOne of the resources has changed (marble replaces gems) and the ports produce different resources compared to the 1996 version. In the 1996 version, when buying goods from a port owned by another player, you had to bargain. It could be hard. Now, you just pay them 1 ducat, instead of paying the bank.\nWine is now special: one port with wine in its warehouse is worth more VP at the end of the game.\n\nGame Flow (big point)\nIn the 1996 version, all the players used to bid for turn order. Then, they all played the phases according to this order: they loaded, built and bought, then they all moved their galleys, they fought and finally they took over free ports and made money.\nThere's no bidding anymore. Now, the galleys you build are numbered, and when it's the turn of one specific galley, its owner can perform their actions (load, move and fight, or build), before the next galley is the active one. If your galleys have successive numbers, you can play several times.\nThe little flags that used to be awkwardly fixed on the galleys are now useless, and the men have to be in the player's colour (instead of being a nice bunch of nice Sailor Smurfs).\nThis is a major difference, the game is radically altered.\n\nCounts and Victory Points\nThere are several counts in the game, and not only one at the end of the game. What's more: another kind of count can bring players money if they have wine in their warehouse. All of that depends on the drawn cards at the end of a galleys' turn. The pace of the game may be altered by those cards, too.\nThere is no card in the 1996 version.\nIn this old version, the only way to have your port well valued at the end of the game was to have its warehouses full. It's now different too: a port with one good is better than one with none, but worse than one with two, etc.\n\nOther Changes\nThere's a building more: basilic. It brings more VP.\nGalleys are easier to build but the price is not the same.\nCombat rules are very different, the fort has a different power. Dice are different too.\nPort limits to recruit sailors are different.\n2 and 3 players rules are different.\n...and this list is all but exhaustive.\n\n",
+    "image": "https://cf.geekdo-images.com/MYlQ4TxZBvb0kKxCg2KxLQ__original/img/Cr7WYlUIwSPRpv5nhx8IbAe5QAo=/0x0/filters:format(jpeg)/pic1344580.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MYlQ4TxZBvb0kKxCg2KxLQ__small/img/go9uI7ep_fjMPBFRwvayhnoYx-Q=/fit-in/200x150/filters:strip_icc()/pic1344580.jpg",
+    "link": "https://boardgamegeek.com/thing/135281",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.89908",
+    "averageWeight": "2.9219",
+    "boardGameRank": "3576",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Pick-up and Deliver",
+      "Rondel",
+      "Team-Based Game",
+      "Trading"
+    ],
+    "categories": [
+      "Economic",
+      "Nautical",
+      "Renaissance"
+    ],
+    "designers": [
+      "Dominique Ehrhard"
+    ]
+  }
+}

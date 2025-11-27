@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:59:21.906Z",
+  "gameDetails": {
+    "id": "338349",
+    "name": "Obsession: Useful Box",
+    "type": "boardgameexpansion",
+    "description": "The Obsession: Useful Box contains new content such as promo Gentry cards, Improvement Tiles, Rule cards for new content, Solo Opponent cards for Upstairs, Downstairs, as well as several updated or corrected content from the base game and the Wessex and Upstairs, Downstairs expansions.\n\nThe full list of changes is detailed in this thread:\nhttps://boardgamegeek.com/thread/2647648/useful-box\n\n",
+    "image": "https://cf.geekdo-images.com/QGgGrOMnzWgTCJ47LGb8mA__original/img/u3k3OqvCK7qRzzDW97txg9LOllQ=/0x0/filters:format(png)/pic6193641.png",
+    "thumbnail": "https://cf.geekdo-images.com/QGgGrOMnzWgTCJ47LGb8mA__small/img/vrlLlG_HT-oQzP4BRB72FC9uR0M=/fit-in/200x150/filters:strip_icc()/pic6193641.png",
+    "link": "https://boardgamegeek.com/thing/338349",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2021",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.4354",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Post-Napoleonic"
+    ],
+    "designers": [
+      "Dan Hallagan"
+    ]
+  }
+}

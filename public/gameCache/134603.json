@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:48:28.200Z",
+  "gameDetails": {
+    "id": "134603",
+    "name": "Alice Chess",
+    "type": "boardgame",
+    "description": "Alice Chess is one of the more popular chess variants. David Pritchard's Encyclopedia of Chess Variants recommends it as one of the best chess variants.\n\nIt was created by V. R. Parton, who described his variant in his 23-page booklet \"Chessery for Duffer and Master\" (1953).\n\nThe standard game of Alice Chess is played using two boards, A and B. All pieces move as in standard chess. The normal array is on board A; board B starts empty.\n\nIn turn, each player makes a single move on either board following these three rules:\n\n1. A move must be legal on the board where it is played.\n2. A piece can only move or capture if the corresponding destination square on the other board is vacant.\n3. After moving, the piece is transfered to the corresponding square on the other board.\n\n(Thus a square and its corresponding square on the other board are never both occupied.)\n\n",
+    "image": "https://cf.geekdo-images.com/2mQ8tuZVcCCu1VXGRSJihQ__original/img/GoxPdYceC6jcyTeyaY_qc9XFOpg=/0x0/filters:format(jpeg)/pic1596798.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2mQ8tuZVcCCu1VXGRSJihQ__small/img/zflOhP87OhL0tiQRGYwTAHC2JAA=/fit-in/200x150/filters:strip_icc()/pic1596798.jpg",
+    "link": "https://boardgamegeek.com/thing/134603",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1953",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.2",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Grid Movement"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "V. R. Parton"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:04:43.029Z",
+  "gameDetails": {
+    "id": "75165",
+    "name": "De Vulgari Eloquentia",
+    "type": "boardgame",
+    "description": "Italy, late Middle Ages. The fabric merchants need to write down their contracts in a language that everyone can understand and the literates are looking for an alternative to the elite of the traditional Latin language. So, the Volgare, the language spoken by the common people, taken from the dialects spoken in the various Italian regions, starts to gain relevance. During this period, Francesco D&rsquo;Assisi writes his famous Canticle of the Sun and Dante writes the Divine Comedy, both written in Volgare.\n\nThe players will have to do their part in the creation of this new language! But who will provide them the proper knowledge to understand the manuscripts in the different dialects? Who will succeed to uncover the secrets of the books inside the Papal Library? Who will embrace the religious life and who will remain a merchant? Some of the players can become a famous banker, someone else can climb the church&rsquo;s hierarchy to be the next Pope! But in the end, who will be the most appreciated and respected for his status and his culture?\n\nThe aim of the game is to obtain more Volgare points. The players will gain VP from reading manuscripts, looking for important documents like the Canticle of the Sun or \"The Riddle from Verona\". Players can also gain VP by improving their social status, for example, if the merchant becomes a banker or the Friar becomes a Benedictine Monk or the Cardinal becomes Camerlengo or Pope. Moreover, VP can be gotten with money and with the support of Politicians, Noblemen, Abbesses, and the Amanuensis.\n\n",
+    "image": "https://cf.geekdo-images.com/mAyx-NXFYvTj6Dz-YKormQ__original/img/Ch4TL5VvsCZGDrEfAvpA65Drym8=/0x0/filters:format(jpeg)/pic778029.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mAyx-NXFYvTj6Dz-YKormQ__small/img/k56Pz_BhVJ2ojAzx9Z5BeZth3pQ=/fit-in/200x150/filters:strip_icc()/pic778029.jpg",
+    "link": "https://boardgamegeek.com/thing/75165",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.18761",
+    "averageWeight": "3.6377",
+    "boardGameRank": "1859",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Set Collection"
+    ],
+    "categories": [
+      "Medieval",
+      "Religious",
+      "Travel"
+    ],
+    "designers": [
+      "Mario Papini"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:13:53.155Z",
+  "gameDetails": {
+    "id": "427679",
+    "name": "A Nice Cuppa: A Good Book",
+    "type": "boardgameexpansion",
+    "description": "Few things pair together as nicely as a warm cup of tea and a good book. Let the worries of the world go as you settle in for a nice relaxing read.\n\nA Good Book 5-card expansion adds 2 new Tea cards and 3 new Worries to manage. Use a full set of 9 Tea Cards (and correspondingly 9 Worries) to play through a longer, more challenging game. Can you pay attention to both your tea and book through a full 10 turns?\n\n",
+    "image": "https://cf.geekdo-images.com/QRA8xEE4OZNSCm3c2Zt_ew__original/img/2JuydIzmyXByeeXBDkMtcsxPN1Y=/0x0/filters:format(png)/pic8390425.png",
+    "thumbnail": "https://cf.geekdo-images.com/QRA8xEE4OZNSCm3c2Zt_ew__small/img/lOQWYNKmQhuCDoKCKVcmCTFQFIo=/fit-in/200x150/filters:strip_icc()/pic8390425.png",
+    "link": "https://boardgamegeek.com/thing/427679",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2024",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.60175",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:58:48.163Z",
+  "gameDetails": {
+    "id": "126792",
+    "name": "Myrmes",
+    "type": "boardgame",
+    "description": "In Myrmes, originally shown under the name ANTerpryse, players control ant colonies and use their ants to explore the land (leaving pheromones in their wake); harvest \"crops\" like stone, earth and aphids; fight with other ants; complete requests from the Queen; birth new ants; and otherwise dominate their tiny patch of dirt, all in a quest to score points and prove that they belong at the top of the heap, er, anthill. After three seasons of scrabbling and foraging, each ant colony faces a harsh winter that will test its colonial strength.\n\nIn game terms, each player has an individual game board to track what's going on inside his colony &ndash; that is, whether the nurses are tending to larvae or doing other things, where the larvae are in their growth process, what resources the colony has, which actions are available to workers when they leave the colony, and so on. The shared game board shows the landscape outside the exit tunnel that all colonies share; after exiting this tunnel, workers ants can move over the terrain to place pheromones (which gives them access to resource cubes), clean up empty pheromones (to make space), hunt prey (by discarding soldiers) or place special tiles (but only if they've developed the ant colony).\n\nThe game lasts three years, and at the start of each year three season dice are rolled to determine the event for each season: extra larvae or soldiers, more VPs for actions, and so on. Within each season, players can spend larvae to adjust the event for themselves on their personal player board. (Put the kids to work!) After adjusting the event, player allocate nurses to birth larvae, worker or soldier ants or to use them for other actions. The worker ants then do their thing, working within the colony itself (although only one colony level is open initially) or traveling to the outside world to hunt prey (ladybugs, termites, spiders), lay down pheromones (which later lets them claim resources on these spaces), place special tiles (like an aphid farm or sub-colony), or clear out pheromones left by ants from any colony. After harvesting, nurses who didn't tend to births then take additional actions, such as opening a new tunnel that only your colony can use, clearing a new level within your colony, or meeting one of the six objectives (capture a certain number of prey, build special tiles, and so on) laid out at the start of the game.\n\nAfter three seasons, players must pay food to get their colony through winter, losing points if they can't. Whoever has the most points after three years wins. All hail our new ant overlords!\n\n",
+    "image": "https://cf.geekdo-images.com/irYtV0aFZFz-UlhV1uMNOg__original/img/sD1dVazfYaOAnndFaa8VtJxw7EQ=/0x0/filters:format(jpeg)/pic1370050.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/irYtV0aFZFz-UlhV1uMNOg__small/img/pc-1nA3dBW6e1KBluTMb4FRTTbI=/fit-in/200x150/filters:strip_icc()/pic1370050.jpg",
+    "link": "https://boardgamegeek.com/thing/126792",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.25343",
+    "averageWeight": "3.454",
+    "boardGameRank": "839",
+    "mechanics": [
+      "Grid Coverage",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Network and Route Building",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Environmental",
+      "Farming"
+    ],
+    "designers": [
+      "Yoann Levet"
+    ]
+  }
+}

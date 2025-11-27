@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:09:13.610Z",
+  "gameDetails": {
+    "id": "267271",
+    "name": "Egizia: Shifting Sands",
+    "type": "boardgame",
+    "description": "Egizia: Shifting Sands is an updated version of the beloved strategy game Egizia. Players travel down the Nile, placing boats as they go, to collect resources that will help them construct some of Egypt's most famous monuments. With new monuments to build, new cards to collect, and a constantly shifting river, Egizia: Shifting Sands Edition is a streamlined, modern update that both longtime fans and new players can easily pick up and enjoy.\n\nIn Egizia, players must place their pawns following the course of the Nile, moving northwards. In this way, each placement not only blocks the opponents from choosing the same square (except monuments, where multiple players are always allowed), but also forces the player to place their remaining pawns only on the squares below the one they just occupied.\n\nWhen the placement phase is over, the workers of the players (which are separate from the pawns) must be fed with the grain produced in the fields. The production of each field is based on the floods of the Nile, so some fields may not give grain each turn. If a player doesn't have enough grain for all their workers, they must buy it with victory points. After that, stones are received from the owned quarries and used to build the monuments (if the right to do so was reserved earlier) along with the workers.\n\nIn this new edition, players each get a chance to build across the Colonnade, a new monument. The more columns you build, the better powers you unlock to help you on the river. Perhaps once per turn you can place boats on occupied river spaces or upstream, or gain an extra point each time you place bricks in monuments. With randomized rewards from game to game, the Colonnade is a dynamic new monument to shake up traditional gameplay.\n\nBelow the Colonnade, where the graves once stood, lie the mysterious statues &mdash; a new monument unlike anything else in Egizia. These tiny build sites are cheaper than any other monument, but they hold the potential for high reward if you fulfill their requirements. Players must plan early as they can place only one brick in a statue per round, and each level they build has more strenuous requirements for endgame bonuses.\n\nEgizia: Shifting Sands keeps all the painstaking risk/reward decisions of the original Egizia and adds new depths of strategy, balance, and gameplay for a fresh twist on a timeless classic.\n\n",
+    "image": "https://cf.geekdo-images.com/VJ-wgcC7gzkh5E36kuRGcw__original/img/U5SGgZhXBHENfzcV5Z6Bejl5VEw=/0x0/filters:format(jpeg)/pic4742534.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VJ-wgcC7gzkh5E36kuRGcw__small/img/XgleCfzTAPHFZ5LvxbTSN6BnvhY=/fit-in/200x150/filters:strip_icc()/pic4742534.jpg",
+    "link": "https://boardgamegeek.com/thing/267271",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2019",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.46197",
+    "averageWeight": "2.8542",
+    "boardGameRank": "2006",
+    "mechanics": [
+      "Bias",
+      "Open Drafting",
+      "Track Movement",
+      "Variable Phase Order",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Ancient",
+      "Farming"
+    ],
+    "designers": [
+      "Acchittocca",
+      "Flaminia Brasini",
+      "Virginio Gigli",
+      "Stefano Luperto",
+      "Antonio Tinto"
+    ]
+  }
+}

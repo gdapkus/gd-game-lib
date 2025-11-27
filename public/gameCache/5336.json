@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:02:52.232Z",
+  "gameDetails": {
+    "id": "5336",
+    "name": "Talisman (Third Edition)",
+    "type": "boardgame",
+    "description": "The third edition of one of Games Workshop's most popular boardgames. Differs from first & second edition Talisman significantly.\n\nEnter a world of fantastic heroic adventure, where magic really works and monsters roam the land. You are an adventurer on a quest to retrieve the fabled Crown of Command from its fearsome guardian, the Dragon King. You must find one of the Magic Talismans that will allow you to enter the Dragon King's lair and then defeat him in mortal combat. On your quest you will encounter powerful enemies, discover friends and magical artifacts, and meet strange beings. Finally, when you have gained sufficient power, you can confront the Dragon King in your bid to secure the Crown of Command.\n\nPart of the Talisman series of games and expansions published by Games Workshop Ltd..\n\n",
+    "image": "https://cf.geekdo-images.com/c_GmyHR6gi9ZCkIQaSL0ZA__original/img/DzMdXHxiGaNqGckFhMVddUR1aMg=/0x0/filters:format(jpeg)/pic1691099.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/c_GmyHR6gi9ZCkIQaSL0ZA__small/img/qb4-X5Os5xj5HSw2SxIZ1MZJ2lI=/fit-in/200x150/filters:strip_icc()/pic1691099.jpg",
+    "link": "https://boardgamegeek.com/thing/5336",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "1994",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.35101",
+    "averageWeight": "2.089",
+    "boardGameRank": "4679",
+    "mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Roll / Spin and Move",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Jervis Johnson"
+    ]
+  }
+}

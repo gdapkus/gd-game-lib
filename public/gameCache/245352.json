@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:04:19.702Z",
+  "gameDetails": {
+    "id": "245352",
+    "name": "Unlock!: Secret Adventures – A Noside Story",
+    "type": "boardgame",
+    "description": "Noside has returned to ruin your day! A thick smoke lingers over the region &mdash; it must be another trick of Noside. It's up to you to stop him before it's too late! A Noside Story is a brand new Unlock! adventure for up to six players.\n\nUnlock! is a series of escape adventures for up to six players. With one hour on the clock, players work through a deck of sixty cards as a team, searching for clues, combining objects, and solving puzzles. The free Unlock! companion app runs the timer while also providing clues, offering hints, and confirming successes. Once the team has reached a solution and entered the correct code into the app, they will escape and win the game!\n\n",
+    "image": "https://cf.geekdo-images.com/CgU69do4FhFfihrUthxg7g__original/img/c1NsOxsEau4bu-04Lt80am0u2mQ=/0x0/filters:format(png)/pic3949884.png",
+    "thumbnail": "https://cf.geekdo-images.com/CgU69do4FhFfihrUthxg7g__small/img/C-jOYxwvtbIolKsJxGOWge2zTIc=/fit-in/200x150/filters:strip_icc()/pic3949884.png",
+    "link": "https://boardgamegeek.com/thing/245352",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2018",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.00436",
+    "averageWeight": "2.5",
+    "boardGameRank": "2741",
+    "mechanics": [
+      "Cooperative Game",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Puzzle",
+      "Real-time"
+    ],
+    "designers": [
+      "Vincent Goyat"
+    ]
+  }
+}

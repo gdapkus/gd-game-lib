@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:12:35.725Z",
+  "gameDetails": {
+    "id": "339132",
+    "name": "Marvel United: X-Men – X-Force",
+    "type": "boardgameexpansion",
+    "description": "Created by Cable out of the remnants of the New Mutants, the X-Force is unlike other X-Men teams who focus on reacting to Villain&rsquo;s schemes and protecting the innocents. Following Cable&rsquo;s philosophy of &ldquo;Get them before they get you,&rdquo; the X-Force is an aggressive team who actively attacks evil mutants every chance they get.\n\nThis Kickstarter Exclusive Expansion for Marvel United includes four heroes, one villain, and four locations.\n\n",
+    "image": "https://cf.geekdo-images.com/8SmEuv6ODSRoJD8gd5sepQ__original/img/HNeXis75tACE9rkNQyRm3I7YEPY=/0x0/filters:format(jpeg)/pic7365041.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8SmEuv6ODSRoJD8gd5sepQ__small/img/F2MDWDEMWe22DdaIvJD-9A13HPA=/fit-in/200x150/filters:strip_icc()/pic7365041.jpg",
+    "link": "https://boardgamegeek.com/thing/339132",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "0",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.11553",
+    "averageWeight": "1.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang",
+      "Francesco Rugerfred Sedda"
+    ]
+  }
+}

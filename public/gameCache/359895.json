@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:51:06.378Z",
+  "gameDetails": {
+    "id": "359895",
+    "name": "Chicken vs Hotdog",
+    "type": "boardgame",
+    "description": "Okay, it&rsquo;s time to settle this once and for all &ndash; who is top dog (or chicken)? Get ready to find out.\n\nSplit into teams, or go one-on-one, then grab your Sling&rsquo;Em&reg; and get ready to bid and flip your way to sweet-tastin&rsquo; victory.\n\nTurn over a Challenge Card, then secretly bid high if you think you can nail it or bid low to avoid it. If both bids match, then it&rsquo;s Flipperama time!\n\nEvery time you complete a challenge, you&rsquo;ll get to turn over one of your Character Cards. The first player to turn over all six wins!\n\n",
+    "image": "https://cf.geekdo-images.com/Fofl9G3zCqmWtwn13m2nng__original/img/eqIbFFmU_zzfF5WzqvnJjk4GfWY=/0x0/filters:format(png)/pic7693599.png",
+    "thumbnail": "https://cf.geekdo-images.com/Fofl9G3zCqmWtwn13m2nng__small/img/hFtManTouNVGKqD8jijzaCYjL7M=/fit-in/200x150/filters:strip_icc()/pic7693599.png",
+    "link": "https://boardgamegeek.com/thing/359895",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "2022",
+    "playingTime": "60",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "5.95373",
+    "averageWeight": "1",
+    "boardGameRank": "16274",
+    "mechanics": [
+      "Auction / Bidding",
+      "Set Collection",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Party Game"
+    ],
+    "designers": []
+  }
+}

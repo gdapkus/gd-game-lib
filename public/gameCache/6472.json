@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:02:21.204Z",
+  "gameDetails": {
+    "id": "6472",
+    "name": "A Game of Thrones",
+    "type": "boardgame",
+    "description": "Description from the publisher:\n\nWar and chaos are engulfing the lands of Westeros. The great Houses are vying for control of the Iron Throne using the old tools of intrigue and war. Yet while the war for Westeros rages, grave dangers gather in the cold North, and an ancient enemy is gaining momentum in the distant East.\n\nIn A Game of Thrones: The Board Game, players take control of one of the great Houses of Westeros. Via resource management, diplomacy, and cunning, they seek to win dominance over the land. Players must give orders to armies, control important characters, gather resources for the coming winter, and survive the onslaught of their enemies. A unique phase mechanic, battle resolution, and special ordering system make for an engaging game in which all players are actively involved at all times.\n\nReimplemented by:\n\n     A Game of Thrones: The Board Game (Second Edition) (2011)\n\n\n",
+    "image": "https://cf.geekdo-images.com/Gr3qfzoK-428kv1M9WUG1Q__original/img/8TVCyztBT_50oYKLtC7dYTxDGnU=/0x0/filters:format(jpeg)/pic1222116.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Gr3qfzoK-428kv1M9WUG1Q__small/img/ggRHe5WjwRhEIRtWI2TJBX-HPic=/fit-in/200x150/filters:strip_icc()/pic1222116.jpg",
+    "link": "https://boardgamegeek.com/thing/6472",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2003",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.16475",
+    "averageWeight": "3.4488",
+    "boardGameRank": "736",
+    "mechanics": [
+      "Area Movement",
+      "Auction / Bidding",
+      "Events",
+      "Hand Management",
+      "Memory",
+      "Order Counters",
+      "Player Elimination",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Fantasy",
+      "Negotiation",
+      "Novel-based",
+      "Political",
+      "Wargame"
+    ],
+    "designers": [
+      "Christian T. Petersen",
+      "Kevin Wilson"
+    ]
+  }
+}

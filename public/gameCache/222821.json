@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:14:43.366Z",
+  "gameDetails": {
+    "id": "222821",
+    "name": "Powerships",
+    "type": "boardgame",
+    "description": "In a course built in our solar system, players are spaceship (powership) pilots. The pilots try to manouver their powership quickly, while rounding three space buoys and finally landing on the finish planet.\n\nThe modular board in Powerships consists of 16 tiles to build different solar system constellations. Altogether this board contains about 662 race hexagon spaces around the sun, with all solar system planets and several space dust hexagons in between.\n\nThe dice system, with 3-sided dice, simulates accelerating and decelerating. At the start of each turn, you have your dice showing your speed from your former turn. You may add or remove 1 die maximum. For the dice you keep from your former turn, you can choose which to roll and which to keep unchanged! Then, before moving your powership, you can turn it one side to the left or right in its hexagon space. Now, move it by the speed determined by the sum of the numbers on your dice.\n\nFinding the best route for your powership is a challenge because space dust, planets, and the sun block your paths. Crashing into them makes you lose your speed and damages your powership, which limits your maximum number of dice. Other powerships might possibly occupy your desired space, though you can also use them as a bumper to reach a desired space.\n\nSpecial spaces make your powership shift a space, turn to the left or right, double your speed, or make you move over/under obstacles.\n\n",
+    "image": "https://cf.geekdo-images.com/bhsKz-Y580zxy8WoDJqgQw__original/img/vmfD8NTJFW0CY2KK8BbAoMLJBFE=/0x0/filters:format(png)/pic3673888.png",
+    "thumbnail": "https://cf.geekdo-images.com/bhsKz-Y580zxy8WoDJqgQw__small/img/f4e-VAYiW57r0AYORwXghLiXeJs=/fit-in/200x150/filters:strip_icc()/pic3673888.png",
+    "link": "https://boardgamegeek.com/thing/222821",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "yearPublished": "2018",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.8758",
+    "averageWeight": "1.625",
+    "boardGameRank": "6360",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Modular Board",
+      "Race"
+    ],
+    "categories": [
+      "Racing"
+    ],
+    "designers": [
+      "Corné van Moorsel"
+    ]
+  }
+}

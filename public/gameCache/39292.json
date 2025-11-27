@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T19:33:25.570Z",
+  "gameDetails": {
+    "id": "39292",
+    "name": "Caylus Magna Carta: The Library",
+    "type": "boardgameexpansion",
+    "description": "Expansion for the 2007 Ystari Game \"Caylus Magna Carta\" (from Spielbox 2/2007).\n\nWhoever builds the library may take the first card from their draw pile (in phase 1 - income) each round.\n\nNote:\n\n    This card is included with the Rio Grande Games edition of the base game\n\n\n",
+    "image": "https://cf.geekdo-images.com/koJqbywScbgEv0sZvX0wdA__original/img/4BKr5KYM30N9HZcLUNR6TOSFsDA=/0x0/filters:format(jpeg)/pic419793.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/koJqbywScbgEv0sZvX0wdA__small/img/YIoBpMT22DaqAo4dwpbWUU1zkDY=/fit-in/200x150/filters:strip_icc()/pic419793.jpg",
+    "link": "https://boardgamegeek.com/thing/39292",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.80171",
+    "averageWeight": "2.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Economic",
+      "Expansion for Base-game",
+      "Medieval"
+    ],
+    "designers": [
+      "William Attia"
+    ]
+  }
+}

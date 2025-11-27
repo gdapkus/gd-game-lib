@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:17:35.853Z",
+  "gameDetails": {
+    "id": "912",
+    "name": "Pacific Victory: War in the Pacific 1941-45",
+    "type": "boardgame",
+    "description": "Pacific Victory covers the war in the Pacific during World War II using the Columbia Block game system. Units are represented by wooden blocks which remain upright and hide the type and strength of the unit. A fusion of Columbia's older \"Front\" system and its newer \"Victory\" system, the game focuses on the grand strategy of the Pacific war. It provides a number of scenarios that deal with specific stages of the war and also a grand campaign.\n\n\nSee wiki page for Pacific Victory.\n\n",
+    "image": "https://cf.geekdo-images.com/gez--aYKtjoBFmH-KBrcmQ__original/img/9En8f8sPKB4R7chvV3JB5rt-_F0=/0x0/filters:format(jpeg)/pic32734.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gez--aYKtjoBFmH-KBrcmQ__small/img/wc_lMeEkumraH-nEoyBlOO0JYl4=/fit-in/200x150/filters:strip_icc()/pic32734.jpg",
+    "link": "https://boardgamegeek.com/thing/912",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2000",
+    "playingTime": "240",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.93275",
+    "averageWeight": "3.1897",
+    "boardGameRank": "5813",
+    "mechanics": [
+      "Dice Rolling",
+      "Secret Unit Deployment",
+      "Simulation"
+    ],
+    "categories": [
+      "Nautical",
+      "Wargame",
+      "World War II"
+    ],
+    "designers": [
+      "Tom Dalgliesh"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:56:08.787Z",
+  "gameDetails": {
+    "id": "89478",
+    "name": "Imaginiff: 10th Anniversary Edition",
+    "type": "boardgame",
+    "description": "The game is played in rounds. Each round, one of the players is chosen as the \"subject\" of a question. The question has 6 multiple choice answers. The question is read aloud and players vote on the answer they think is correct. Points are awarded to the players that chose the most popular answer.\n\nAn example of a question:\n\nImaginiff X were a flying object. Which would he/she be?\n1) Blimp\n2) Biplane\n3) Glider\n4) Frisbee\n5) Lear jet\n6) Brick\n\nThe 10th Anniversary edition features a new card type: \"pick-a-player\". Instead of choosing an answer to fit one player, you choose a player to fit the listed description.\n\nRe-implements:\n\n    Imaginiff\n\n\n",
+    "image": "https://cf.geekdo-images.com/QRcFAxCZCNjq-D-tQU_MYg__original/img/v9o3w5iaT4uloO3rZYIUS-ln3X0=/0x0/filters:format(png)/pic888854.png",
+    "thumbnail": "https://cf.geekdo-images.com/QRcFAxCZCNjq-D-tQU_MYg__small/img/ubeIKDodXvk4RHVCHjAOuIFx0WQ=/fit-in/200x150/filters:strip_icc()/pic888854.png",
+    "link": "https://boardgamegeek.com/thing/89478",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2008",
+    "playingTime": "35",
+    "minPlayingTime": "35",
+    "maxPlayingTime": "35",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.09901",
+    "averageWeight": "1",
+    "boardGameRank": "16357",
+    "mechanics": [
+      "Roll / Spin and Move",
+      "Simultaneous Action Selection",
+      "Voting"
+    ],
+    "categories": [
+      "Bluffing",
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "Jack Lawson",
+      "Andrew Lawson"
+    ]
+  }
+}

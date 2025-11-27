@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:28:49.089Z",
+  "gameDetails": {
+    "id": "324914",
+    "name": "Inside Job",
+    "type": "boardgame",
+    "description": "The Mostly Cooperative Trick-Taking Game\n\nYou are a group of secret agents and must work together to complete your missions. But beware! An insider is hiding amongst you, sabotaging you at every turn and collecting secret information along the way. In this (mostly) cooperative trick-taking card game, you slip into undercover roles. Who is acting suspiciously? Who can you trust? Complete a mission with each trick and find out who is the insider.\n\n\n     A (mostly) cooperative trick-taking card game for groups of three to five players.\n     Each player assumes the role of secret agent tasked with various missions, except there&rsquo;s one insider hiding amongst you, ready to thwart your efforts!\n     Can you complete your missions, despite the secret saboteur, or will the insider get the best of you all?\n     Fun, entertaining party game with high replayability and variants to add complexity.\n     Great for fans of social deduction, role-playing, or mystery games.\n\n\n",
+    "image": "https://cf.geekdo-images.com/Kimz03Spg3dB96_O-xbcPg__original/img/306hB7Q2HkcGe1DTiqKOnVNU03Q=/0x0/filters:format(png)/pic7233520.png",
+    "thumbnail": "https://cf.geekdo-images.com/Kimz03Spg3dB96_O-xbcPg__small/img/4MXilcl8plyqXtNQoCk6pE_lroM=/fit-in/200x150/filters:strip_icc()/pic7233520.png",
+    "link": "https://boardgamegeek.com/thing/324914",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.00773",
+    "averageWeight": "1.6383",
+    "boardGameRank": "2107",
+    "mechanics": [
+      "Communication Limits",
+      "Deduction",
+      "Hand Management",
+      "Hidden Roles",
+      "Semi-Cooperative Game",
+      "Team-Based Game",
+      "Traitor Game",
+      "Trick-taking",
+      "Variable Player Powers",
+      "Voting"
+    ],
+    "categories": [
+      "Card Game",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Tanner Simmons"
+    ]
+  }
+}

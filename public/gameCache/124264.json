@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:05:48.007Z",
+  "gameDetails": {
+    "id": "124264",
+    "name": "Zombies at Your Heels",
+    "type": "boardgame",
+    "description": "In Zombies at your Heels, 2-4 players each take an identical stack of survivor cards and try to lead them to safety, away from a pursuing horde of ravenous zombies.\n\nSurvivor cards are played in a queue that stretches from the Zombie Horde card to the safety of the Bunker card, and each survivor has a special ability - most of which manipulate the order of cards in the queue.\n\nEach survivor card also has as a speed value and a points value. The speed value determines where in the queue the survivor starts when played, and the points value is how many points that survivor is worth if led to safety by the end of the game.\n\nAll profits from Zombies at your Heels go to benefit Special Effect, a charity that develops technology and initiatives to help injured and disabled young people to enjoy video games they would not otherwise be able to.\n\nhttp://www.zombiesatyourheels.com\n\n",
+    "image": "https://cf.geekdo-images.com/KIr82cBLFQ4KqoPvlTBaFg__original/img/-9j-nAgx5pK3NrPrtoxXOvlySuc=/0x0/filters:format(png)/pic1302003.png",
+    "thumbnail": "https://cf.geekdo-images.com/KIr82cBLFQ4KqoPvlTBaFg__small/img/8MWYR2KoUK1Y7L052sxTdycJGnY=/fit-in/200x150/filters:strip_icc()/pic1302003.png",
+    "link": "https://boardgamegeek.com/thing/124264",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.28906",
+    "averageWeight": "1.75",
+    "boardGameRank": "22076",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Zombies"
+    ],
+    "designers": [
+      "Andrew Rowse"
+    ]
+  }
+}

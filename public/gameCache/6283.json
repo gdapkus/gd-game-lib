@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:03:49.106Z",
+  "gameDetails": {
+    "id": "6283",
+    "name": "The Ungame",
+    "type": "boardgame",
+    "description": "The UNGAME was designed for YOU to experience the fun of learning how to communicate more effectively. As you share thoughts, ideas and feelings, you will develop a deeper understanding of others and of yourself. Each person's ability to respond and become involved will improve as he continues to TELL IT LIKE IT IS. You'll find the UNGAME both entertaining AND educational.\n\nThe UNGAME is appropriate with friends, for family circles, classrooms, committees, counseling groups, and at any social gathering.\n\nFrom two to six people can participate and there is no competition! Everyone wins! So follow the rules and have a most enjoyable time TELLING IT LIKE IT IS!\n\nGames last for a predesignated amount of time agreed upon by the players prior to the start. 1 hour - 45 minutes is recommended. Players take turns rolling and moving. When your piece lands on a space, you do what that space says, usually draw a card or answer the question on the board. The goal of the game is to connect to the other players on a deeper level. Only the individual players can determine to what extent they have won.\n\nThemes for the game and depth of questions shift with varying decks of cards and expansions.\n\nOstensibly, this is Outside the Scope of BGG, but is kept in the database by fiat due to history.\n\n",
+    "image": "https://cf.geekdo-images.com/kvcLP5Vbod1tjwyYOkY5QQ__original/img/pqllTV2GNm2AGDW5LydzG0Kv_0E=/0x0/filters:format(jpeg)/pic281918.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kvcLP5Vbod1tjwyYOkY5QQ__small/img/hXkiaLxR8bi4IV2ElOisnkbG_i8=/fit-in/200x150/filters:strip_icc()/pic281918.jpg",
+    "link": "https://boardgamegeek.com/thing/6283",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1973",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "3.17831",
+    "averageWeight": "1.2",
+    "boardGameRank": "29549",
+    "mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move",
+      "Storytelling"
+    ],
+    "categories": [
+      "Card Game",
+      "Educational",
+      "Religious"
+    ],
+    "designers": [
+      "Rhea Zakich"
+    ]
+  }
+}

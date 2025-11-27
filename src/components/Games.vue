@@ -353,6 +353,11 @@ export default {
       };
 
       return this.games.filter(game => {
+        // Add this line to filter by owned status
+        if (!game.status || !game.status.own) {
+          return false;
+        }
+
         if (!allowedTypes.includes(game.type)) {
           return false;
         }

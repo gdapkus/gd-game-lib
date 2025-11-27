@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:52:50.841Z",
+  "gameDetails": {
+    "id": "363307",
+    "name": "Evergreen",
+    "type": "boardgame",
+    "description": "In Evergreen, your goal is to build a lush ecosystem by planting seeds, growing trees, and placing other natural elements on your planet, trying to make it the greenest and most fertile of all.\n\nYou choose biome cards from a common pool to determine which area of your planet you'll develop in a round. The cards not chosen make those regions more fertile, and thus more valuable. To create a huge forest, you want to grow trees, plant bushes, and place lakes, while using the power of nature to gain extra actions. Ideally you can concentrate your trees in the most fertile areas, but without them overshadowing one another as you also want them to collect as much light as possible.\n\n",
+    "image": "https://cf.geekdo-images.com/71I0Ku92KgjaW_ZokJidCA__original/img/idwvytJgNpT0IXRTVUUXw8AWhTE=/0x0/filters:format(png)/pic6872745.png",
+    "thumbnail": "https://cf.geekdo-images.com/71I0Ku92KgjaW_ZokJidCA__small/img/3BpSIoMWf4ig9_S-CTMpoo3KdfU=/fit-in/200x150/filters:strip_icc()/pic6872745.png",
+    "link": "https://boardgamegeek.com/thing/363307",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.45626",
+    "averageWeight": "2.1339",
+    "boardGameRank": "861",
+    "mechanics": [
+      "Bias",
+      "End Game Bonuses",
+      "Grid Coverage",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Puzzle"
+    ],
+    "designers": [
+      "Hjalmar Hach"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T19:57:36.189Z",
+  "gameDetails": {
+    "id": "284045",
+    "name": "Dice Hospital: Kickstarter Pack",
+    "type": "boardgameexpansion",
+    "description": "Includes:\n\n5 wooden pill bottles (for use with the maternity expansion and alternatives for the punchboard ones from the base game)\n1 helicopter mini\n1 parking garage (base game upgrade)\n1 screen printed birthing die\nnew round tracker (base game upgrade)\n4 wooden syringes (base game upgrade)\n5th player expansion\n\nThe 5th Player expansion adds everything you'll need to play the base game and the other expansions with a 5th player including:\n\nA new player hospital\nExtra nurse meeples\nExtra score tracker\nExtra Dice\n\nThe Helicopter from the Community Care expansion acts as ambulance '0' -  the 6th ambulance for a 5 player game.\n\nThese will not be included in the retail version of the game but will be available to non backers at conventions and directly from the publisher's store at a much higher price.\n\n",
+    "image": "https://cf.geekdo-images.com/f60HFx86a4Er8cbQz-RTcg__original/img/1_HBXOdATuBaMV0vVzVTjn8WsIk=/0x0/filters:format(jpeg)/pic7148857.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/f60HFx86a4Er8cbQz-RTcg__small/img/NViIw1DIAufLjkIkvWc-EvQmHqA=/fit-in/200x150/filters:strip_icc()/pic7148857.jpg",
+    "link": "https://boardgamegeek.com/thing/284045",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2020",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.61789",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Variable Phase Order",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Dice",
+      "Medical"
+    ],
+    "designers": [
+      "Mike Nudd"
+    ]
+  }
+}

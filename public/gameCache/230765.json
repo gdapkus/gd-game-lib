@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T21:01:52.906Z",
+  "gameDetails": {
+    "id": "230765",
+    "name": "Side Effects",
+    "type": "boardgame",
+    "description": "Drug use, personal demons, wild episodes, and more. Side Effects is a \"take that\" card game where players race to treat all the diseases in their psyche with medication and therapy.\n\nPlayers start with four disease cards dealt face up in front of them (their \"psyche\") and then four cards in a concealed hand. Players take turns picking up cards from the deck and trying to find the right drugs to treat their diseases. A drug card will treat a disease but also leave the player open to receiving new diseases (of that drug's list of side effects) from other players.\n\nEach disease card has a unique punishment written on it and episode cards will trigger these punishments. Play an episode card on another player to hinder them or help yourself.\n\nThe game is over when one player treats all of the diseases in their psyche.\n\n",
+    "image": "https://cf.geekdo-images.com/8mKYBqNze76OgoOjIdNzcg__original/img/76mu8emmPUcNLWfaV8bvzAE_q7Y=/0x0/filters:format(jpeg)/pic7045357.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8mKYBqNze76OgoOjIdNzcg__small/img/EGvRzmUzQRkMprAr2_4eduA6yDY=/fit-in/200x150/filters:strip_icc()/pic7045357.jpg",
+    "link": "https://boardgamegeek.com/thing/230765",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2017",
+    "playingTime": "30",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.69793",
+    "averageWeight": "1.15",
+    "boardGameRank": "4819",
+    "mechanics": [
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Mature / Adult",
+      "Party Game",
+      "Racing"
+    ],
+    "designers": [
+      "Jen Igartua",
+      "Jade Shames",
+      "Kat Thek"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "timestamp": "2025-11-26T20:52:21.556Z",
+  "gameDetails": {
+    "id": "367150",
+    "name": "Dune: War for Arrakis",
+    "type": "boardgame",
+    "description": "Arrakis is a desert world seemingly dead and barren, yet here lies the most important resource in the galaxy: Spice. Without Spice, space travel is impossible, and humans become little clusters on isolated planets. The noble House that controls Arrakis and the production of Spice wields great power. The Emperor gave Arrakis to House Atreides, but then he conspired to replace them with their old rivals, House Harkonnen. Baron Harkonnen crushed the Atreides in a treasonous attack, and now rules the planet with an iron fist. But Paul and Jessica, heirs to House Atreides, are alive, and are mounting a rebellion with the aid of the formidable Fremen, the mysterious inhabitants of the barren expanses of Arrakis.\n\nOnly one House will emerge victorious from the coming struggle, while the other will be lost in the desert sands. It's into this grim reality that players will be thrust in Dune: War for Arrakis.\n\nIn this asymmetrical strategy game, players fight for control of the planet, maneuvering troops like the Fremen, the Fedaykin, and the fearsome Sardaukar, while sending Spice harvesters into the deep desert, daring to challenge the great Sandworms. The game features an action dice system with numerous event cards that will enable players to retell the Dune saga differently with each playthrough.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/b_Uo-x3szhupSWeQdw5bdg__original/img/FGqkNWPyWBiERARxf5eLuLt831o=/0x0/filters:format(jpeg)/pic7088918.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/b_Uo-x3szhupSWeQdw5bdg__small/img/890K-CXqdcJoNgICyOlpnru48v4=/fit-in/200x150/filters:strip_icc()/pic7088918.jpg",
+    "link": "https://boardgamegeek.com/thing/367150",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.48528",
+    "averageWeight": "3.6414",
+    "boardGameRank": "320",
+    "mechanics": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Events",
+      "Hand Management",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Dice",
+      "Movies / TV / Radio theme",
+      "Novel-based",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Marco Maggi",
+      "Francesco Nepitello"
+    ]
+  }
+}

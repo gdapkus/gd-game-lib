@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:13:50.986Z",
+  "gameDetails": {
+    "id": "408839",
+    "name": "A Nice Cuppa",
+    "type": "boardgame",
+    "description": "Demanding jobs, unpaid bills, health concerns: modern life is filled with constant worry. Let your burdens drift away, if only for a moment, in the rich aromatic steam of your favorite tea.\n\nA Nice Cuppa is the seventh game in Button Shy&rsquo;s Simply Solo series. The game tasks the player with managing Worries through careful card management across 8 turns. As Worries are revealed, they complicate your life and force you to become distracted. Focus on your tea to eliminate those pesky problems and soothe your shattered nerves. Once your tea is ready, evaluate how you did.\n\nOn your turn, first flip over a single face-down Worry. Then, in sequence from left to right, resolve each face-up Worry. These force you to rearrange your Tea cards in various ways, and you'll need to plan carefully to keep them from messing up your well-laid plans.\n\nAfter 8 turns, your tea is ready (whether you are or not). Score points for each Tea Card you have in the correct order, plus extra points for each Tea Card with its Focused side showing. But beware that you&rsquo;ll lose points for each remaining Worry.\n\nTally up your total and check your score to see whether you&rsquo;re ready to face the rest of your day or need to cozy up with another cuppa!\n\n",
+    "image": "https://cf.geekdo-images.com/0-bQbZmBGWpvExEh1JCjWA__original/img/18VcsqCTMhKfTp33E6u9P_9gnic=/0x0/filters:format(png)/pic8168180.png",
+    "thumbnail": "https://cf.geekdo-images.com/0-bQbZmBGWpvExEh1JCjWA__small/img/xmG6XKTASZbXHiQzxsMZ8ybb6mc=/fit-in/200x150/filters:strip_icc()/pic8168180.png",
+    "link": "https://boardgamegeek.com/thing/408839",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2024",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.42109",
+    "averageWeight": "1.5",
+    "boardGameRank": "5513",
+    "mechanics": [
+      "Action Queue",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

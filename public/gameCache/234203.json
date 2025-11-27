@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-11-26T20:23:53.466Z",
+  "gameDetails": {
+    "id": "234203",
+    "name": "Artificial Intelligence",
+    "type": "boardgame",
+    "description": "The year is 2090, and the world has witnessed the biggest &mdash; the last? &mdash; event in human history. Knowledge is the fuel that powers the engine of the new revolution.\n\nTechnological Singularity changed everything. Human labor became obsolete; automation and machine learning are the new reality. Machines, run by a flawless artificial intelligence, control production and research, self replicating the answers to problems civilization did not know existed. While prophets whisper the end of time throughout the streets, corporations thrive, pushing boundaries and ignoring old rules. The rush to control the new A.I. era has begun and there&rsquo;s no time for ethics. Is there time shut down the A.I. Box. Was there ever one?\n\nArtificial Intelligence is an action selection game in which each player plays the role of a big investor pulling the strings from various corporations in order to make money and increase the power of both investor and corp.\n\n",
+    "image": "https://cf.geekdo-images.com/lpzJUosidCyKP-KvTGHOjA__original/img/lXHczqLN8LqDMVslrjWpqYn92e0=/0x0/filters:format(jpeg)/pic3738958.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lpzJUosidCyKP-KvTGHOjA__small/img/S5V5Hy0Z7AJTjLhfWvgQX0qCzcs=/fit-in/200x150/filters:strip_icc()/pic3738958.jpg",
+    "link": "https://boardgamegeek.com/thing/234203",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "0",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "5.29",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Economic",
+      "Science Fiction"
+    ],
+    "designers": []
+  }
+}

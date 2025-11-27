@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:51:24.287Z",
+  "gameDetails": {
+    "id": "443",
+    "name": "Code 777",
+    "type": "boardgame",
+    "description": "The clever little game Code 777 combines the elements of a good, logical deduction game and Indian poker. Each player receives a rack for keeping three tiles drawn from a pool of tiles, which are seven different numbers in seven different colors (28 tiles in total); however, the rack is turned away from you. When players sit in a circle, each player can see everyone else's tiles, except their own. Each turn, players draw a card with a question like, \"Do you see more yellow sevens or more blue sevens?\" which should help the others determine their tiles. Once you're reasonably sure of which tiles you have in front of you, you can take a guess &mdash; but if you're wrong, you have to start over with a fresh set of tiles ...\n\nCode 777 was explicitly inspired by What's That on My Head?, and Alex Randolph credited Robert Abbott with co-designing this game based on that inspiration.\n\nIn 2010, Stronghold Games released Code 777: 25th Anniversary Deluxe Edition, adding both a fifth player to the game and symbols to make it colorblind-friendly. In 2015, Stronghold Games released Code 777: 30th Anniversary Limited Edition, which is the final edition from Stronghold Games.\n\nIn 2015 DiceTree Games released a multi-lingual edition of the game.\n\nSimilar to:\n\n    What's That on My Head?\n    Egghead\n    Figure It\n    Amnesia\n    Guess What I Am!\n    Coyote\n    Pow Wow\n    Am I a Banana?\n    What's That on My Head?\n\n\n",
+    "image": "https://cf.geekdo-images.com/O-o5sVxmvFrHAJ_UT0UNrw__original/img/pRiqWT8bLjU_0JXTsoBUjS5Hi6o=/0x0/filters:format(png)/pic2552987.png",
+    "thumbnail": "https://cf.geekdo-images.com/O-o5sVxmvFrHAJ_UT0UNrw__small/img/luyRTvVoMm3MElK3E0AyppCJD7M=/fit-in/200x150/filters:strip_icc()/pic2552987.png",
+    "link": "https://boardgamegeek.com/thing/443",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "1985",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.70991",
+    "averageWeight": "2.3193",
+    "boardGameRank": "2690",
+    "mechanics": [
+      "Deduction",
+      "Paper-and-Pencil"
+    ],
+    "categories": [
+      "Deduction",
+      "Puzzle"
+    ],
+    "designers": [
+      "Robert Abbott",
+      "Alex Randolph"
+    ]
+  }
+}

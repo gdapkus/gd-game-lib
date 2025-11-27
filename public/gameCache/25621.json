@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:28:02.266Z",
+  "gameDetails": {
+    "id": "25621",
+    "name": "Gloom: Unwelcome Guests",
+    "type": "boardgameexpansion",
+    "description": "The Gloom: Unwelcome Guests expansion adds one player and 55 cards to the game. Here is a description of the expansion from the publisher:\n\nIn the Gloom card game, you make your eccentric family of misfits suffer the greatest tragedies possible before helping them pass on to the well-deserved respite of death. Just mix the 55 transparent cards in this new set together with your copy of Gloom to add morbid new Modifiers, Events, and Untimely Deaths, and a new family - the malodorous Malone mob - including The Broken Arms Hotel as a Residence card to use with the Unhappy Homes expansion. When Boils Malone brought his family overseas to &ldquo;get away from the heat,&rdquo; he wasn&rsquo;t expecting quite so much rain!\n\nAdding an extra level of strategy, new persistent effect icons on cards allow their special effects to continue to be active even if covered by another card. A persistent effect ends only when the attached character is killed.\n\nAlso inside are five Unwelcome Guest cards. Deal one or more face up to the table&rsquo;s center at the start of the game. Guests &ldquo;follow&rdquo; the card types noted on them; no matter where it currently is, a living Guest immediately moves to join the family of the character on which one of its &ldquo;trigger&rdquo; cards is played. All its Modifiers are moved with it, and it&rsquo;s considered a member of that family until it moves again. This may delay the game&rsquo;s end if a final play draws a Guest to the near-winner&rsquo;s family.\n\n",
+    "image": "https://cf.geekdo-images.com/_K73yh6DaFTWt5SQPDcbog__original/img/8JfdMWv5boXCq6fWG9WNQGHCNY0=/0x0/filters:format(jpeg)/pic2031893.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_K73yh6DaFTWt5SQPDcbog__small/img/Mwyg0YuprZthJKXax98G0iDRlug=/fit-in/200x150/filters:strip_icc()/pic2031893.jpg",
+    "link": "https://boardgamegeek.com/thing/25621",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2007",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.6771",
+    "averageWeight": "1.82",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Role Playing",
+      "Storytelling",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Horror",
+      "Humor"
+    ],
+    "designers": [
+      "Keith Baker"
+    ]
+  }
+}

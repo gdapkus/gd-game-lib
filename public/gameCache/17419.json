@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:16:43.819Z",
+  "gameDetails": {
+    "id": "17419",
+    "name": "CATAN 3D Collector's Edition",
+    "type": "boardgame",
+    "description": "To commemorate this momentous and joyous event, a special edition is being created. The special edition encompasses Settlers of Catan and Cities and Knights for 3-4 players. This edition features three-dimensional hand painted tiles made of dense heavy weight resin and a complete interlocking border. Each player gets a set of hand-painted settlements, cities, metropoli, city walls, knights, and roads. The special hardwood case is designed to keep your set safe and will feature a special slotted level with felt lined slots to hold each hex. A wooden tray holds pieces for play and storage.\n\nBelongs to the Catan Series.\n\n",
+    "image": "https://cf.geekdo-images.com/LtwUIl9IteWuWpwfapspDQ__original/img/v5Ovtw8Lgyadd3P6xEHm9--pN9E=/0x0/filters:format(jpeg)/pic454336.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LtwUIl9IteWuWpwfapspDQ__small/img/JB94k8JyBLyM_KoLY97DtGvPMYw=/fit-in/200x150/filters:strip_icc()/pic454336.jpg",
+    "link": "https://boardgamegeek.com/thing/17419",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2005",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.89497",
+    "averageWeight": "2.6446",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Memory",
+      "Modular Board",
+      "Network and Route Building",
+      "Trading"
+    ],
+    "categories": [
+      "Negotiation"
+    ],
+    "designers": [
+      "Klaus Teuber"
+    ]
+  }
+}

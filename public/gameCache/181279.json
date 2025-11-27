@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T20:13:27.980Z",
+  "gameDetails": {
+    "id": "181279",
+    "name": "Fury of Dracula (Third/Fourth Edition)",
+    "type": "boardgame",
+    "description": "The third edition of Fury of Dracula features all-new art and graphic design crafted to complement the game's intuitive, thematic mechanisms. Rounds are now broken into day and night, with hunters taking actions during both, while Dracula can act only at night. Combat is more streamlined and decisive, and new rumor tokens allow Dracula to mislead hunters and extend the terrible reach of his influence. Count Dracula triumphs if he advances his influence track to thirteen; if the hunters can defeat him before then, they save the continent of Europe and win the game.\n\nThe fourth edition of Fury of Dracula contains rules clarifications, pre-painted miniatures instead of unpainted figures, a different rulebook and different card sizes.\n\n",
+    "image": "https://cf.geekdo-images.com/iLiUp891Wqb5EE0gBqjBaA__original/img/XowehLK_AtTFigFRNeLqCMmVXNo=/0x0/filters:format(jpeg)/pic4411188.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iLiUp891Wqb5EE0gBqjBaA__small/img/Jg01alIAt8H1KI6gFhS-naLJans=/fit-in/200x150/filters:strip_icc()/pic4411188.jpg",
+    "link": "https://boardgamegeek.com/thing/181279",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      3,
+      5
+    ],
+    "averageRating": "7.39954",
+    "averageWeight": "3.2812",
+    "boardGameRank": "389",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Hand Management",
+      "Hidden Movement",
+      "Point to Point Movement",
+      "Resource to Move",
+      "Rock-Paper-Scissors",
+      "Secret Unit Deployment",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Deduction",
+      "Fighting",
+      "Horror",
+      "Novel-based"
+    ],
+    "designers": [
+      "Frank Brooks",
+      "Stephen Hand",
+      "Kevin Wilson"
+    ]
+  }
+}

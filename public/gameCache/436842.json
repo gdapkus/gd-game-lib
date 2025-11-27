@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:32:58.729Z",
+  "gameDetails": {
+    "id": "436842",
+    "name": "The Wondrous Museum",
+    "type": "boardgame",
+    "description": "Welcome to the most surprising place in the city of magic! At The Wondrous Museum, we are thrilled to present treasures of all shapes and sizes from around the world. Driven by the power of wondrous magic, they come to life &mdash; all to win your applause!\n\nIn The Wondrous Museum, each player manages their own museum, and on a turn, you can acquire exhibits or &mdash; by using the right runes &mdash; activate them for their special effects in order from left to right. Every effect can be chained together, so carefully select which collections you want to display, and activate them from time to time to win applause from the visitors. The more applause you gain, the higher your rating and the more money you earn! Sometimes, you may collect strong exhibits from the black market, exhibits that may not be traded in the sun, but which are strong enough to be worth the trouble.\n When the endgame conditions are triggered, calculate each player's rating, which comes from the exhibits themselves and from the admiration tokens on the exhibits.\n\n",
+    "image": "https://cf.geekdo-images.com/AYJWFrJ9xTuLGlT2PWEz7A__original/img/nwEi45Y3DlPmhrVE9Ca5shZaouI=/0x0/filters:format(png)/pic8789317.png",
+    "thumbnail": "https://cf.geekdo-images.com/AYJWFrJ9xTuLGlT2PWEz7A__small/img/z912U0KhcSVOLx-NChPfaIZzBac=/fit-in/200x150/filters:strip_icc()/pic8789317.png",
+    "link": "https://boardgamegeek.com/thing/436842",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.66706",
+    "averageWeight": "2.5",
+    "boardGameRank": "13806",
+    "mechanics": [
+      "Hand Management",
+      "Income",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Zong-Ger(蔥哥)"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:24:59.864Z",
+  "gameDetails": {
+    "id": "6854",
+    "name": "Cranium Booster Box 1",
+    "type": "boardgameexpansion",
+    "description": "More cards for the base game.\n\nExpands:\n\n    Cranium\n\n\n",
+    "image": "https://cf.geekdo-images.com/KMxnlpzVD_WkthJ2eFL7CQ__original/img/ZjkNj2V50yda4qpRvae8THoFWAk=/0x0/filters:format(jpeg)/pic65206.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KMxnlpzVD_WkthJ2eFL7CQ__small/img/VUiKbNeucepphf3cFxGjXZ5VwK4=/fit-in/200x150/filters:strip_icc()/pic65206.jpg",
+    "link": "https://boardgamegeek.com/thing/6854",
+    "minPlayers": "4",
+    "maxPlayers": "99",
+    "yearPublished": "1999",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "6.19812",
+    "averageWeight": "1.7333",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Acting",
+      "Line Drawing",
+      "Memory",
+      "Paper-and-Pencil"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Expansion for Base-game",
+      "Humor",
+      "Memory",
+      "Party Game",
+      "Trivia",
+      "Word Game"
+    ],
+    "designers": [
+      "Whit Alexander",
+      "Richard Tait"
+    ]
+  }
+}

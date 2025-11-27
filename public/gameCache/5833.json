@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:16:40.768Z",
+  "gameDetails": {
+    "id": "5833",
+    "name": "CAESAR: The Great Battles of Julius Caesar – The Civil Wars 48-45 B.C.",
+    "type": "boardgame",
+    "description": "Alea iacta est... 49 B.C. Rome is in turmoil. Armed mobs rule the streets. The First Triumvirate - overseers of the last days of the Roman Republic - has disintegrated. The Senate and the People have two options: on the one hand is the overweening ego, ambition, but limited military vision of Gnaeus Pompeius Magno - Pompey the Great. On the other hand is one of history's greatest - and most schemingly ambitious - political/military figures, the conqueror of Gaul, Caius Julius Caesar. In Italy, at the edge of the Rubicon River, word of the stalemate has reached Caesar and his XIII Legion. He intones, for posterity: Ialea acta est... the die is cast.\n\nCAESAR: The Great Battles of Julius Caesar - The Civil Wars 48-45 B.C. recreates 5 battles, using the GMT Great Battles of History (GBoH) basic system:\n\n    Pharsalus (Tessaly), 48 B.C.\n    Dyrrhachium-Lesnika (Illyria), 48 B.C.\n    Thapsus (Africa), 46 B.C.\n    Ruspina (Africa), 46 B.C.\n    Munda (Spain), 45 B.C.\n\n\n",
+    "image": "https://cf.geekdo-images.com/Sm_iOssvYlmYYaZrVkVWwA__original/img/8VeUgSffB4CwzkBJvqxUIKZ9vaA=/0x0/filters:format(jpeg)/pic7949756.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Sm_iOssvYlmYYaZrVkVWwA__small/img/CGrUnopFWRFE6EYg6DhUOf8PKME=/fit-in/200x150/filters:strip_icc()/pic7949756.jpg",
+    "link": "https://boardgamegeek.com/thing/5833",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "1994",
+    "playingTime": "360",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "360",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.23028",
+    "averageWeight": "3.4444",
+    "boardGameRank": "6241",
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Movement Points",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "categories": [
+      "Ancient",
+      "Civil War",
+      "Wargame"
+    ],
+    "designers": [
+      "Richard H. Berg",
+      "Mark Herman"
+    ]
+  }
+}

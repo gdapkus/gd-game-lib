@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T20:59:58.366Z",
+  "gameDetails": {
+    "id": "39320",
+    "name": "Potions",
+    "type": "boardgame",
+    "description": "In Potions, everyone is a \"wizarding\" apprentice competing to become a wizard. The first apprentice to collect five Potion Class Credit Tokens wins. Players collect Potion Class Credit Tokens by being the first to obtain a set of cards that match the potion recipe as instructed by a roll of the potion dice. Watch out for other aspiring wizards &ndash; they will try to change the recipe, steal your ingredients, and spill your cauldron.\n\n",
+    "image": "https://cf.geekdo-images.com/8Ls4Q7Vst21Y_OvyDiS74w__original/img/tYQwGVoNk9Yhd8hUAxj75wETpSU=/0x0/filters:format(jpeg)/pic419526.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8Ls4Q7Vst21Y_OvyDiS74w__small/img/7HDe8u0d-N6ssWBWzp7VzIyOLQk=/fit-in/200x150/filters:strip_icc()/pic419526.jpg",
+    "link": "https://boardgamegeek.com/thing/39320",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "4.44481",
+    "averageWeight": "1.25",
+    "boardGameRank": "28223",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Steve Edmiston",
+      "Tom Phillips"
+    ]
+  }
+}

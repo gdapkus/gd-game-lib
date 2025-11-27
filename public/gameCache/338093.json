@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T19:31:24.456Z",
+  "gameDetails": {
+    "id": "338093",
+    "name": "Ancient Knowledge",
+    "type": "boardgame",
+    "description": "Heirs to an exceptional knowledge that has survived the ages, it is now up to you to preserve the vestige of your civilization.\n\nAncient Knowledge is a strategic card game in which you erect monuments and build artefacts to pass on your knowledge. Time will make your constructions ephemeral,so make the right decision and combine the many cards at your disposal, because all knowledge is doomed to disappear&hellip;\n\nIt's up to you to find the best synergy so that you can pass down knowledge before the decline of the emblematic monuments you have constructed, monuments we still find nowadays in the four corners of the globe. From Mexican pyramids to the Sphinx of Giza, passing through the famous cities of Tiwanaku and Babylon, only the cleverest builder will shine through the ages and seize victory. In this game, your only enemy is time.\n\nProve to your opponents that you are the worthy representative of your Legacy!\nWill your monuments withstand the trial of time?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/EDJ1Xynm6XjAKeG-q2B85A__original/img/fjmKvrqL1EfIvWltRy1vw49Jf58=/0x0/filters:format(jpeg)/pic7600216.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EDJ1Xynm6XjAKeG-q2B85A__small/img/kgmY0jqbsq14Glt--pyJ8shSZuY=/fit-in/200x150/filters:strip_icc()/pic7600216.jpg",
+    "link": "https://boardgamegeek.com/thing/338093",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "75",
+    "minPlayingTime": "75",
+    "maxPlayingTime": "75",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.13815",
+    "averageWeight": "2.7395",
+    "boardGameRank": "1434",
+    "mechanics": [
+      "Delayed Purchase",
+      "End Game Bonuses",
+      "Hand Management",
+      "Open Drafting",
+      "Tags"
+    ],
+    "categories": [
+      "Ancient",
+      "Card Game",
+      "Civilization",
+      "Mythology"
+    ],
+    "designers": [
+      "Rémi Mathieu"
+    ]
+  }
+}

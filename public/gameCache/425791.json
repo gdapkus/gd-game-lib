@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T19:33:34.577Z",
+  "gameDetails": {
+    "id": "425791",
+    "name": "Darwin's Journey: Komodo Dragon",
+    "type": "boardgameexpansion",
+    "description": "The Darwin's Journey: Komodo mini-expansion introduces a new element to the museum: twenty new bonus tiles that replace the existing bonus coins.\n\nPlayers can earn these new rewards by delivering specimens. After delivering a specimen, players will place a corresponding bonus tile in another bonus display. Additionally, players can access these bonus displays by researching the Komodo Dragon, which moves across the islands based on the specimens delivered.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/UCA0Z9EwCF9U0TowoG_FpA__original/img/BJ4682ivxiGRpbrMk-aiy8gh62c=/0x0/filters:format(jpeg)/pic8340797.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UCA0Z9EwCF9U0TowoG_FpA__small/img/M6oxcmYf9dFENZGV-TFBWius-EY=/fit-in/200x150/filters:strip_icc()/pic8340797.jpg",
+    "link": "https://boardgamegeek.com/thing/425791",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "8.16129",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Point to Point Movement",
+      "Set Collection",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Travel"
+    ],
+    "designers": [
+      "Simone Luciani",
+      "Nestore Mangone",
+      "Pierpaolo Paoletti"
+    ]
+  }
+}

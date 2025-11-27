@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T20:49:40.947Z",
+  "gameDetails": {
+    "id": "93538",
+    "name": "Battleship Galaxies",
+    "type": "boardgame",
+    "description": "Battleship Galaxies is a space combat miniatures game that is a distant cousin to the original Battleship game. The two opposing forces represented in the game, the human Intergalactic Space Navy and the alien Wretcheridians, are represented by 20 starship miniatures. There are figures for several different ship types and each has an individual reference card that defines the characteristics (e.g., weapons, movement, shields) of that ship.\n\nThe game is scenario driven and each scenario defines the goal of the game as well as the initial setup of the starfield hex board. Each turn, players have a certain number of energy points that can be spent to perform actions such as movement or firing. Combat is resolved by rolling special dice: a 10-sided die with letters and an eight-sided die with numbers. The resulting letter-number combination is compared to the target ship&rsquo;s reference card to determine the result. Hits on a ship are indicated by placing colored pegs in the figure&rsquo;s base.\n\n",
+    "image": "https://cf.geekdo-images.com/rimXUT3k7W7RVb59fEjKCw__original/img/KwwtwiIFmSdKNTbRCGuQn8N0WfE=/0x0/filters:format(jpeg)/pic4601229.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rimXUT3k7W7RVb59fEjKCw__small/img/_54D5gZHncBtJqR4vkyTnhKhK7c=/fit-in/200x150/filters:strip_icc()/pic4601229.jpg",
+    "link": "https://boardgamegeek.com/thing/93538",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2011",
+    "playingTime": "70",
+    "minPlayingTime": "70",
+    "maxPlayingTime": "70",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "6.544",
+    "averageWeight": "2.3838",
+    "boardGameRank": "4143",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Critical Hits and Failures",
+      "Dice Rolling",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "designers": [
+      "Colby Dauch",
+      "Dustin DePenning",
+      "Jerry Hawthorne",
+      "Craig Van Ness"
+    ]
+  }
+}

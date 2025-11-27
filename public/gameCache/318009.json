@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T19:57:36.791Z",
+  "gameDetails": {
+    "id": "318009",
+    "name": "Dinosaur Island: Rawr 'n Write",
+    "type": "boardgame",
+    "description": "Dinosaur Island: Rawr 'n Write is a roll-and-write version of the critically-acclaimed game Dinosaur Island.\n\nDinosaur Island: Rawr &lsquo;n Write is a unique game in which players draft dice and then use those drafted dice as workers in a worker placement phase. Then, a fun polyomino puzzle ensues as you try and fit all your attractions and Dinosaurs into your park while buildings roads and routes to the exits for bonus points. At the end of the game, have more victory points than your opponents to win!\n\n",
+    "image": "https://cf.geekdo-images.com/xRP9jo5gfwhfFkgxQBgWTw__original/img/h-5jmA7e2JrfO9DM9OKy0S2MDjw=/0x0/filters:format(png)/pic5622932.png",
+    "thumbnail": "https://cf.geekdo-images.com/xRP9jo5gfwhfFkgxQBgWTw__small/img/Ax_lCMYmPvnu1qYP0-nRAjcVBO8=/fit-in/200x150/filters:strip_icc()/pic5622932.png",
+    "link": "https://boardgamegeek.com/thing/318009",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.67243",
+    "averageWeight": "2.8407",
+    "boardGameRank": "615",
+    "mechanics": [
+      "Connections",
+      "Dice Rolling",
+      "Grid Coverage",
+      "Network and Route Building",
+      "Open Drafting",
+      "Paper-and-Pencil",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Animals",
+      "Dice",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Brian Lewis",
+      "David McGregor",
+      "Marissa Misura"
+    ]
+  }
+}

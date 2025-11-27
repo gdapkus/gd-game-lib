@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T19:57:34.541Z",
+  "gameDetails": {
+    "id": "227748",
+    "name": "Deception: Undercover Allies",
+    "type": "boardgameexpansion",
+    "description": "A tremor of fear ripples through the population in the streets of Hong Kong.  Word is out that a recent string of murders may have been committed by one of the very investigators charged with solving them. The police are bringing in more help.  Behind the scenes, the killer is recruiting too.\n\nIn Deception: Undercover Allies, new roles give special powers to both teams. More means and clue cards increase the possible solutions to the crime.  Fresh scene tiles bring more life to the forensic scientist&rsquo;s descriptions. And a new event challenges the already tenuous trust which exists among the investigators.\n\nWith so many new variables, both sides will have to find new ways to deal with the deception that surrounds them.\n\n",
+    "image": "https://cf.geekdo-images.com/Q0ymbSxvWcA7_g55ns96Yg__original/img/IpAnU1uN9PYr3n1gdzzepYX3PHo=/0x0/filters:format(jpeg)/pic4199680.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Q0ymbSxvWcA7_g55ns96Yg__small/img/9OvFs1njwq_-ZjxRVGD2DlW2pV0=/fit-in/200x150/filters:strip_icc()/pic4199680.jpg",
+    "link": "https://boardgamegeek.com/thing/227748",
+    "minPlayers": "4",
+    "maxPlayers": "14",
+    "yearPublished": "2017",
+    "playingTime": "0",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      7,
+      10
+    ],
+    "averageRating": "7.96612",
+    "averageWeight": "1.7692",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Communication Limits",
+      "Storytelling",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Bluffing",
+      "Deduction",
+      "Murder / Mystery",
+      "Party Game"
+    ],
+    "designers": [
+      "Tobey Ho"
+    ]
+  }
+}

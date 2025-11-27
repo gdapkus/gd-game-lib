@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:53:48.592Z",
+  "gameDetails": {
+    "id": "12489",
+    "name": "Formula Dé Circuits 34 & 35: Bahrain & Shanghai",
+    "type": "boardgameexpansion",
+    "description": "Formula D&eacute; Circuits 34 & 35 - Bahrain & Shanghai\nExpansion tracks for Formula Dé:\n\n\n    34 - Shanghai, China\n    35 - Bahrain, Sakhir Racing Circuit\n\n\n",
+    "image": "https://cf.geekdo-images.com/qPfPgmZExXfjCwkCV4IL4w__original/img/Cowt5D42Aju_4ogydK_J2khzBfY=/0x0/filters:format(jpeg)/pic441625.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qPfPgmZExXfjCwkCV4IL4w__small/img/nMj-NHy3Z0uRvSdxm3_CTax8ZqI=/fit-in/200x150/filters:strip_icc()/pic441625.jpg",
+    "link": "https://boardgamegeek.com/thing/12489",
+    "minPlayers": "2",
+    "maxPlayers": "10",
+    "yearPublished": "2004",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      6
+    ],
+    "averageRating": "7.64701",
+    "averageWeight": "1.7222",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Laurent Lavaur",
+      "Eric Randall"
+    ]
+  }
+}

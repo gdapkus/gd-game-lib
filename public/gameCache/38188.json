@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:59:01.672Z",
+  "gameDetails": {
+    "id": "38188",
+    "name": "Neuroshima Hex! Babel13",
+    "type": "boardgameexpansion",
+    "description": "Babel13, an expanded NY military base, has lost contact with its HQ. The lonely defenders must face an enemy they have never seen before: the forces of mutated nature, the Neojungle. The battle for survival begins.\n\nNeuroshima Hex! Babel13 is the first Neuroshima Hex! expansion. In this box you'll find two new, unique armies (the heavily armored forces of New York and the Neojungle full of beasts). You'll also get terrain tiles that rebuild and modify the main board, allowing players to play different scenarios. The box also has a two-player campaign titled \"Babel13\" which allows players to play four closely connected scenarios which resolve in a deadly final game!\n\n",
+    "image": "https://cf.geekdo-images.com/-F8xYUOR488Ieg--dyBpBg__original/img/5oyhbCGN7cQ1hvxyXiVkYy-CdII=/0x0/filters:format(jpeg)/pic366260.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-F8xYUOR488Ieg--dyBpBg__small/img/LDgwTZRBMBsCZfgSo1oJBlvzGIU=/fit-in/200x150/filters:strip_icc()/pic366260.jpg",
+    "link": "https://boardgamegeek.com/thing/38188",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2008",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.69989",
+    "averageWeight": "2.7083",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Hand Management",
+      "Hexagon Grid",
+      "Player Elimination",
+      "Team-Based Game",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Michał Oracz"
+    ]
+  }
+}

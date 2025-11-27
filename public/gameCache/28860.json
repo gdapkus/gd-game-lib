@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-26T21:03:30.651Z",
+  "gameDetails": {
+    "id": "28860",
+    "name": "Totem Land",
+    "type": "boardgame",
+    "description": "You are the chosen leader of one of up to four clans that have converged on Totem land. Your charge: to build Totem poles along with other competing clans, using your allocated 8 precious totems.\n\nEach totem has a unique value on it. The goal is to finish the game with as many of your most valuable totem pieces on top of the totem poles as possible - ideally, with a totem built only with your own pieces.\n\n",
+    "image": "https://cf.geekdo-images.com/x6px75l7vSgCCMW_oCCwZg__original/img/oIGKdiSixRjnsh017-OhdWuUZHg=/0x0/filters:format(jpeg)/pic229113.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/x6px75l7vSgCCMW_oCCwZg__small/img/Nsuqdhwp_o6C41o2qY5nVLRXqtU=/fit-in/200x150/filters:strip_icc()/pic229113.jpg",
+    "link": "https://boardgamegeek.com/thing/28860",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": null,
+    "averageRating": "4.78491",
+    "averageWeight": "2.1111",
+    "boardGameRank": "27850",
+    "mechanics": [
+      "Pattern Building"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "Frank Dyksterhuis",
+      "Mark Wood"
+    ]
+  }
+}

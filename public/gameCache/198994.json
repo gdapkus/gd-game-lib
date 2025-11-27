@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-26T20:17:13.457Z",
+  "gameDetails": {
+    "id": "198994",
+    "name": "Hero Realms",
+    "type": "boardgame",
+    "description": "Hero Realms is a fantasy-themed deck-building game that is an adaptation of the award-winning Star Realms game. The game includes basic rules for two-player games, along with rules for multiplayer formats such as Free-For-All, Hunter, and Hydra.\n\nEach player starts the game with a ten-card personal deck containing gold (for buying) and weapons (for combat). You start each turn with a new hand of five cards from your personal deck. When your deck runs out of cards, you shuffle your discard pile into your new deck. An 80-card Market deck is shared by all players, with five cards being revealed from that deck to create the Market Row. As you play, you use gold to buy champion cards and action cards from the Market. These champions and actions can generate large amounts of gold, combat, or other powerful effects. You use combat to attack your opponent and their champions. When you reduce your opponent's score (called health) to zero, you win!\n\nMultiple expansions are available for Hero Realms that allow players to start as a particular character (Cleric, Fighter, Ranger, Thief, or Wizard) and fight cooperatively against a Boss, fight Boss decks against one another, or compete in a campaign mode that has you gain experience to work through different levels of missions.\n\n",
+    "image": "https://cf.geekdo-images.com/6xc4TuJynN5o_ZF0fHOdAA__original/img/H5xSdHoOk1x5nR16LebPVRh88ZI=/0x0/filters:format(png)/pic6162556.png",
+    "thumbnail": "https://cf.geekdo-images.com/6xc4TuJynN5o_ZF0fHOdAA__small/img/sMbWo--LyzJw_weK0h1ESSPqdtU=/fit-in/200x150/filters:strip_icc()/pic6162556.png",
+    "link": "https://boardgamegeek.com/thing/198994",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2016",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.49943",
+    "averageWeight": "1.8473",
+    "boardGameRank": "297",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Hand Management",
+      "Once-Per-Game Abilities",
+      "Player Elimination",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Robert Dougherty",
+      "Darwin Kastle"
+    ]
+  }
+}

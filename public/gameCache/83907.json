@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:49:09.484Z",
+  "gameDetails": {
+    "id": "83907",
+    "name": "Assist",
+    "type": "boardgame",
+    "description": "Your goal in Assist is to guess the chosen word, and on each turn you have a choice: ask your question or give your answer. Atthe same time, you're trying to \"assist\" other players in losing their chips by guessing a hidden word before they can.\n\nEach round, one player draws an illustration card that shows six words on it, chooses one of those words, and tells all players which number he has chosen; each other player receives a hand of three question cards, then antes one chip into a central pot. (Question and illustration cards have text in Italian, English, German and French.) On a turn, a player either plays and reads a question card &ndash; which the player who holds the illustration card must answer as honestly as possible &ndash; or tries to guess the word hidden on the card. Before a player guesses, he can ante any number of chips into the pot. If no one else matches his ante, he claims all the chips in the pot without having to guess the word; if at least one other player antes, he must give his guess, winning the pot if correct.\n\nWhen a round end, the next player chooses a word from an illustration card and the game continues. When one player runs out of chips, the game ends and the player with the most chips wins.\n\n",
+    "image": "https://cf.geekdo-images.com/sh_ymITtVSoU4yUjVE7tqg__original/img/gQGhrTCe6KUkdk1FjczTrCOhQAE=/0x0/filters:format(jpeg)/pic1106984.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sh_ymITtVSoU4yUjVE7tqg__small/img/DOe7zcNKFg2JOZcFZ4Hl36jJZCk=/fit-in/200x150/filters:strip_icc()/pic1106984.jpg",
+    "link": "https://boardgamegeek.com/thing/83907",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "yearPublished": "2011",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.81974",
+    "averageWeight": "1.125",
+    "boardGameRank": "18838",
+    "mechanics": [
+      "Open Drafting"
+    ],
+    "categories": [
+      "Party Game"
+    ],
+    "designers": [
+      "Marco Donadoni",
+      "Angelo Porazzi"
+    ]
+  }
+}

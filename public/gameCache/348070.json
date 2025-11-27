@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T20:37:53.431Z",
+  "gameDetails": {
+    "id": "348070",
+    "name": "The Palaces of Carrara (Second Edition)",
+    "type": "boardgame",
+    "description": "In The Palaces of Carrara, players want to buy the marble from this famous region of Italy as cheaply as possible &ndash; but any reduction in price will benefit your opponents as well. Maybe you'll find it profitable to instead invest in the buildings created from this exclusive marble? Maybe it'll be more worthwhile to grab the expensive raw material when bigger buildings in town turn out to be not as lucrative as you'd hoped?\n\nThis second edition includes a revised set of rules, as well as a completely new advanced version that will include many new strategies and ways of scoring. This new advanced mode of play introduces statues, which will allow you to score your buildings in a multitude of new ways. So come and revisit this classic game by famous designers Wolfgang Kramer and Michael Kiesling.\n\n",
+    "image": "https://cf.geekdo-images.com/mbmvAO1U6E_8yS-IsvYaRw__original/img/5dNLBWXONaTDxgMk1bpnLnbJSSU=/0x0/filters:format(jpeg)/pic6427566.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mbmvAO1U6E_8yS-IsvYaRw__small/img/jbgqZu9BcpCecqmpRTUFxvkBHrc=/fit-in/200x150/filters:strip_icc()/pic6427566.jpg",
+    "link": "https://boardgamegeek.com/thing/348070",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.43216",
+    "averageWeight": "2.6923",
+    "boardGameRank": "3229",
+    "mechanics": [
+      "Increase Value of Unchosen Resources",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Economic",
+      "Renaissance"
+    ],
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ]
+  }
+}

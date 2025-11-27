@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T21:13:24.264Z",
+  "gameDetails": {
+    "id": "209001",
+    "name": "Monster Lands",
+    "type": "boardgame",
+    "description": "Monster Lands is a competitive dice-placement game that combines resource management, worker placement, and fun combat.\n\nYou will take on the role of the leader of a small clan of brave warriors, competing to win the crown of the Lands of the Discord. You will visit buildings within the Citadel, the last bastion against the monsters that have overrun the kingdom, and also travel to the outside, the areas surrounding the Citadel, where you will battle monsters and reclaim the lands for the Queen.\n\nAt the end of the game, the crown is handed to the clan with most victory points, which are gained by amassing glory, reputation, gold, and trophies from defeating monsters. The most important factor is glory; to gain it you must leave the safety of the Citadel and undertake missions, defeat or capture monsters, and conquer lands.\n\nYour mercenaries provide you with dice, which you will use to take actions using a &ldquo;worker-placement&rdquo; mechanic. In the Citadel, your dice allow you to improve your clan, acquiring hunting tools, shields, potions, venoms, mercenaries, and more. The timing of your dice placement and the type of dice you use affects both yourself and other players.\n\nIn the Outside, your dice become battle tools. You roll them in missions and battles to try and defeat monsters or reconquer the land. If you plan well, you will have many ways to manipulate your dice results and increase your chance of success. You cannot simply hope for lucky rolls to snatch the crown, you will need to carefully manage your resources and do some proper planning to be successful.\n\nDo you have what it takes to go for the crown?\n\n",
+    "image": "https://cf.geekdo-images.com/bJY8kMNttnF6APrlKGSaJA__original/img/FgcI5y8TDpxGU79i9EX_kcYd3HQ=/0x0/filters:format(jpeg)/pic4528842.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bJY8kMNttnF6APrlKGSaJA__small/img/0oT803dYp0bamh18KxZclEjkMys=/fit-in/200x150/filters:strip_icc()/pic4528842.jpg",
+    "link": "https://boardgamegeek.com/thing/209001",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.1408",
+    "averageWeight": "3.3289",
+    "boardGameRank": "2544",
+    "mechanics": [
+      "Dice Rolling",
+      "Kill Steal",
+      "Open Drafting",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Dice",
+      "Fantasy",
+      "Fighting"
+    ],
+    "designers": [
+      "Víctor Fernández",
+      "Gorka Mata",
+      "Sergi Solé Pascual",
+      "Daniel Schloesser"
+    ]
+  }
+}

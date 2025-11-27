@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:57:14.028Z",
+  "gameDetails": {
+    "id": "17709",
+    "name": "Last Word",
+    "type": "boardgame",
+    "description": "Last Word is the uproarious race to have the final say!  This party game has sold over 1,000,000 copies and is perfect for everyone ages 14 and up.\n\nEach round, blurt out answers while racing a timer and the other players.  For example, Subject: &ldquo;Animals&rdquo;, Letter: &ldquo;L&rdquo;.  Players yell out&hellip; Lion!  Lemur!  Leech!  Leopard! The player with the Last Word before the timer sounds advances toward Finish.  Beware &ndash; the timer is cleverly programmed to go off at random intervals.  Contents include Game Boards, 230 Subject and 56 Letter cards, 8 Pawns, an Electronic Random Timer (two AAA batteries not included) and Rules. Last Word is for 2-8 players.\n\n",
+    "image": "https://cf.geekdo-images.com/wR1ZYgA3DAlyeXkBh0yZdA__original/img/7TAN6OaFREQtxElC_whxP0nlIXg=/0x0/filters:format(jpeg)/pic1673714.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wR1ZYgA3DAlyeXkBh0yZdA__small/img/8jq-NaKMPxi1JWzFSjL7d-BH5_A=/fit-in/200x150/filters:strip_icc()/pic1673714.jpg",
+    "link": "https://boardgamegeek.com/thing/17709",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2005",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "5.4484",
+    "averageWeight": "1.2558",
+    "boardGameRank": "28389",
+    "mechanics": [],
+    "categories": [
+      "Card Game",
+      "Party Game",
+      "Real-time",
+      "Word Game"
+    ],
+    "designers": [
+      "Garrett J. Donner",
+      "Brian S. Spence",
+      "Michael S. Steer"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:59:28.768Z",
+  "gameDetails": {
+    "id": "31497",
+    "name": "Oregon",
+    "type": "boardgame",
+    "description": "Taken from Boardgame News:\n\nOregon is a family/strategy game with a colonization-theme and a card-driven placement mechanism. The aim of the game is to position farmers and point-giving buildings in the best possible locations on the board.\n\nThe year is 1846. Gunslingers, lawmen, pioneers, and whole families left their homes in the east and midwest to try their luck in the West. They loaded their covered wagons with all they could and headed west across steppes, deserts, and mountains. Many chose to settle in Oregon, where the farming and hunting were plentiful, and they could stake out a bit of land for themselves. The players have already reached Oregon and gaze upon the rich farmland below and the potential gold and coal reserves of the mountains. They build ports on the lakes and rivers, churches, warehouses, post offices, and train stations on the plains. And, of course, they must farm the rich land to grow the food necessary for the area to grow and thrive. To win, a player must choose the right times to farm and the right times to build, for planning is necessary, even here in the untamed wilderness of Oregon! Oregon - the way the west was won...\n\n",
+    "image": "https://cf.geekdo-images.com/urxIKf8swB-HeaFTVXt54g__original/img/Kwv7pn6G7ptWF6nTdEZAikb8a0M=/0x0/filters:format(jpeg)/pic1450927.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/urxIKf8swB-HeaFTVXt54g__small/img/6UbRVzdHIuzhyZaUtB0i6TL-YjI=/fit-in/200x150/filters:strip_icc()/pic1450927.jpg",
+    "link": "https://boardgamegeek.com/thing/31497",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.77473",
+    "averageWeight": "2.1483",
+    "boardGameRank": "1938",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Tile Placement"
+    ],
+    "categories": [
+      "American West"
+    ],
+    "designers": [
+      "Henrik Berg",
+      "Åse Berg"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:57:25.350Z",
+  "gameDetails": {
+    "id": "4724",
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "type": "boardgame",
+    "description": "Relive the adventure of The Fellowship of the Ring with this board game. The fate of Middle-earth is in your hands, as you become the force behind the Fellowship of the Ring, guiding Frodo Baggins and his heroic companions on the first part of their epic journey. With majestic images and scenes taken directly from the film, life-long followers and first-time fans of The Lord of the Rings will find the game uniquely challenging, yet easy to play, as this saga of good against evil unfolds.\n\nThe game is presented in a box that measures approximately 10 1/2 by 10 1/2 by 2 1/2 inches, and contains a die, 14 unique interlocking game tiles, 74 ring cards, 12 character cards, 6 metallic rings, and more.\n\nCan be played as stand alone or in combination with &lsquo;The Lord of the Rings: The Two Towers Board Game&rsquo; and &lsquo;The Lord of the Rings: The Return of the King&rsquo;\n\nThis may be the same game as The Lord of the Rings: The Fellowship of the Ring Board Game.\n\n",
+    "image": "https://cf.geekdo-images.com/YB-clf9dyXAYOyOpTMT_4A__original/img/oWylk4j6NbOVyuFBnKQTInP1D5o=/0x0/filters:format(jpeg)/pic191494.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YB-clf9dyXAYOyOpTMT_4A__small/img/WQxDzJnHPinYfVvaId_KS1giW0g=/fit-in/200x150/filters:strip_icc()/pic191494.jpg",
+    "link": "https://boardgamegeek.com/thing/4724",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2002",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "3.33628",
+    "averageWeight": "1.4",
+    "boardGameRank": "29521",
+    "mechanics": [
+      "Modular Board",
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Movies / TV / Radio theme",
+      "Novel-based"
+    ],
+    "designers": [
+      "Terry Miller Associates"
+    ]
+  }
+}

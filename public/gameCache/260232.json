@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:13:28.714Z",
+  "gameDetails": {
+    "id": "260232",
+    "name": "Montana: Goldrush",
+    "type": "boardgameexpansion",
+    "description": "Rumors are told that gold can be found in the mountains!\n\nBuild settlements next to the mountains in Montana: Goldrush to claim your spot and get a chance to gain some extra wealth. New settlements can be built, which can be used to gain extra benefits or to hinder others. Also, new landscapes with their own special rules bring more variety to the game. Finally, events will change the flow of the game. Some events give players a bonus while others make actions harder.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/REAiPSnXcAUAoGfoT4u4Ig__original/img/Sumt0uMhxsttDOEGGmaZqnNh-Xo=/0x0/filters:format(jpeg)/pic4294303.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/REAiPSnXcAUAoGfoT4u4Ig__small/img/0cOqmDINcjruLZKydYrhRdY2Jr0=/fit-in/200x150/filters:strip_icc()/pic4294303.jpg",
+    "link": "https://boardgamegeek.com/thing/260232",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.37914",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "American West",
+      "City Building",
+      "Territory Building"
+    ],
+    "designers": [
+      "Rüdiger Dorn"
+    ]
+  }
+}

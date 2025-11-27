@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:49:45.343Z",
+  "gameDetails": {
+    "id": "17640",
+    "name": "Beat to Quarters",
+    "type": "boardgame",
+    "description": "Miniature naval rules for the Age of Sail, 1775-1815. Includes die-cut 1/1200 ship counters, compass, turning and wind direction gauges, charts and battle logs. The rules include a detailed tactical ship-to-ship combat system and a simpler Fleet Engagement combat system. Ship statistics are included for America, Denmark, England, France, Russia and Spain - over 20 nationalities for the period.\n\n",
+    "image": "https://cf.geekdo-images.com/uUoYlQWaJno2fF8EE-PFjw__original/img/krLCis1YjunjSVrmLxw59UvOAiU=/0x0/filters:format(jpeg)/pic5612896.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uUoYlQWaJno2fF8EE-PFjw__small/img/zZouX0QKRIHbPjFn3fg_FvXY4rs=/fit-in/200x150/filters:strip_icc()/pic5612896.jpg",
+    "link": "https://boardgamegeek.com/thing/17640",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1981",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.2",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Bias",
+      "Critical Hits and Failures",
+      "Dice Rolling",
+      "Events",
+      "Impulse Movement",
+      "Measurement Movement",
+      "Paper-and-Pencil",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Age of Reason",
+      "American Revolutionary War",
+      "Miniatures",
+      "Napoleonic",
+      "Nautical",
+      "Wargame"
+    ],
+    "designers": [
+      "Barry J. Fox"
+    ]
+  }
+}

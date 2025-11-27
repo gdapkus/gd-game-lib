@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T21:05:05.331Z",
+  "gameDetails": {
+    "id": "4910",
+    "name": "Wheel of Fortune",
+    "type": "boardgame",
+    "description": "Editions vary, but a familiar phrase or name is hidden on the gameboard. Either the letters represented by cards are face down or the letters are covered by slides. Before guessing letter, a player must spin the eponymous Wheel of Fortune to determine how much each letter, if revealed, is worth to one&rsquo;s account. Every spin is risk, however, because one could lose a turn or spin \"Bankrupt\" which means lose a turn and forfeit one&rsquo;s earnings! Consonants only can be guessed after spinning the wheel; vowels can be guessed at a cost.\n\nA player can continue taking one&rsquo;s turn until a wrong guess is made and then the turn passes to the next player. Only the player who solves the word puzzle can keep the earnings made for that round. The player who has made the most money after a predetermined number of puzzles is the winner.\n\nThe game is a faithful adaptation to the wildly popular television series.\n\n",
+    "image": "https://cf.geekdo-images.com/7SwK5aJNJTaYIzqppvkL2A__original/img/_yxk0iRKoOSLsDCgIfY8Ui8kuRY=/0x0/filters:format(jpeg)/pic5077790.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7SwK5aJNJTaYIzqppvkL2A__small/img/jigFce2lTxkHYN05bZorKW2CXMk=/fit-in/200x150/filters:strip_icc()/pic5077790.jpg",
+    "link": "https://boardgamegeek.com/thing/4910",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1975",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "4.65151",
+    "averageWeight": "1.2439",
+    "boardGameRank": "29478",
+    "mechanics": [
+      "Spelling"
+    ],
+    "categories": [
+      "Movies / TV / Radio theme",
+      "Word Game"
+    ],
+    "designers": [
+      "Merv Griffin"
+    ]
+  }
+}

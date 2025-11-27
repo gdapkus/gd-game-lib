@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:37:17.613Z",
+  "gameDetails": {
+    "id": "770",
+    "name": "Loot",
+    "type": "boardgame",
+    "description": "In Loot, players send out their pirates to attack and defend trading ships in order to get the most gold coins. The game box contains 78 cards consisting of  trading ships, pirate ships, captains, and an admiral. Players send out a trading ship on a voyage in which it must survive a round of attacks from other player's pirate ships. You defend your traders with your own pirates and collect the spoils of your attacks elsewhere. The game ends once the draw deck is depleted and one player is out of cards. The player with the most gold coins wins.\n\nDescription for the Heidelberger release:\n\nEssen release, 2002. In the nice small black box, with embossed lettering. This game has 25 Trade ships worth different amounts of gold (from 2 to 8), 48 Pirate ships, 12 each in 4 colors. The Pirate ships are worth 1-4 skulls (the player with the most skulls played on a trade ship captures it if the lead is kept for one full pass around the table). There are 4 Pirate Captains (1 of each color) to help win the battles and 1 Admiral to help defend the trade ships. The game is playable with 2-5 players individually. With partners it can be played with up to 6 or 8.\n\n",
+    "image": "https://cf.geekdo-images.com/dlbZb-s9Taj5XqtFoOr3cg__original/img/kRqcwCKqbCApLkaftGJIZWpVYUk=/0x0/filters:format(jpeg)/pic8548587.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dlbZb-s9Taj5XqtFoOr3cg__small/img/UHgxAOmhglpTSZ5WBh6mEevmn6s=/fit-in/200x150/filters:strip_icc()/pic8548587.jpg",
+    "link": "https://boardgamegeek.com/thing/770",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "1992",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.29759",
+    "averageWeight": "1.3808",
+    "boardGameRank": "2702",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Nautical",
+      "Pirates"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

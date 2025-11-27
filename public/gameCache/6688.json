@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T20:59:08.488Z",
+  "gameDetails": {
+    "id": "6688",
+    "name": "Ninety-Nine",
+    "type": "boardgame",
+    "description": "Trick-taking card game for three in which players must sacrifice cards from their hands to bid the number of tricks they will take.  It uses a standard deck of cards, shorted to 6 through Ace in each suit, plus one Joker. (A more recent version of play omits the joker.)\n\nTo bid, lay aside three cards from your hand; the suit of those cards determines how many tricks you must take (each club is three tricks, heart two tricks, spade one trick, diamond zero tricks). Score one point per trick you take plus a bonus if you make your bid exactly.\n\nFor an additional bonus, you may offer to declare by turning your bidcards face up at start of play, thus declaring your target and revealing more information about the lie of cards.\n\nFor a higher bonus, you may also offer to reveal. This involves not only turning your bid-cards up but also then playing with your hand of cards exposed on the table before the opening lead.\n\nWhile designed for three players, the four-player version is faithful to the original but played with a standard 52-card deck. Two- and five-player variants also exists, but they employ a dummy hand and a 500 deck, respectively.\n\n",
+    "image": "https://cf.geekdo-images.com/D_p5GsN0kxsUI4-VujjN4Q__original/img/-RBYAxQeKx_yGS5Iht182mpYBJA=/0x0/filters:format(jpeg)/pic9187498.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/D_p5GsN0kxsUI4-VujjN4Q__small/img/wvI40b-jgxFJpgFE1KjRpaQaXMY=/fit-in/200x150/filters:strip_icc()/pic9187498.jpg",
+    "link": "https://boardgamegeek.com/thing/6688",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1974",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.16494",
+    "averageWeight": "2.0811",
+    "boardGameRank": "4206",
+    "mechanics": [
+      "Hand Management",
+      "Predictive Bid",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "David Parlett"
+    ]
+  }
+}

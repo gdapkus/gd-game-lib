@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:30:28.897Z",
+  "gameDetails": {
+    "id": "124047",
+    "name": "Pirate Dice: Voyage on the Rolling Seas",
+    "type": "boardgame",
+    "description": "Ready for a taste of high adventure on the rolling seas? In Pirate Dice, you are the captain of a pirate ship, racing through the Caribbean against your fellow pirates. You must navigate the seas, obtain the buried treasure, and return safely to your port. But beware &ndash; many hazards await on the rolling seas, not the least of which are your rivals!\n\nYou will need more than pure speed to win. Use your wits to block, ram, and fire at your opponents &ndash; while doing your best to keep them from doing the same to you! As you take damage, your ship will become more difficult to pilot. But no matter &ndash; treasure awaits! So weigh anchor, set the sails, and run out your cannons &ndash; there's no room for lily-livered landlubbers here! It takes a shrewd captain with a sharp eye to navigate the rolling seas of Pirate Dice!\n\n",
+    "image": "https://cf.geekdo-images.com/ZV-YdoLtx_UQNNtChtNnDA__original/img/SALa8ZlEYBSH0165zymYpYPCCH8=/0x0/filters:format(png)/pic1364948.png",
+    "thumbnail": "https://cf.geekdo-images.com/ZV-YdoLtx_UQNNtChtNnDA__small/img/RdyDP1EhTvMmqMR3HRBYzKDHqZQ=/fit-in/200x150/filters:strip_icc()/pic1364948.png",
+    "link": "https://boardgamegeek.com/thing/124047",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2012",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.11282",
+    "averageWeight": "1.6765",
+    "boardGameRank": "8162",
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "Modular Board",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Dice",
+      "Nautical",
+      "Pirates"
+    ],
+    "designers": [
+      "Sean Brown",
+      "Clint Herron"
+    ]
+  }
+}

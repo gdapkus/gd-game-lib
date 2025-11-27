@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:14:59.293Z",
+  "gameDetails": {
+    "id": "228341",
+    "name": "Pulsar 2849",
+    "type": "boardgame",
+    "description": "It is the year 2849, and humanity has harnessed the power of the pulsars. Now we must find a way to distribute this power throughout the stars.\nIn this Euro-style game, players explore space, claim pulsars, and discover technologies that will help them build energy-distribution infrastructure on a cosmic scale. Dice are used to purchase actions, and players choose their dice from a communal pool. There are many paths to victory so you can blaze your own trail to a bright future.\n\nDraft dice to explore the universe in Pulsar 2849. Game is only 8 rounds long.\nEach round, roll dice based on the number of players, sort them based on their values, then draft dice to take actions.\n\nPossible actions\n    □ Fly your survey ship\n    □ take a Gyrodyne\n    □ Develop a Pulsar\n    □ Build one or more energy transmitter vectors\n    □ Patent a technology\n    □ Buy a dice modifier\n    □ Complete a special project in your HQ and unlock Gate Run\n\nPlayers score points each round based on what they've discovered and explored, and everyone has common goals that they want to achieve.\n\n",
+    "image": "https://cf.geekdo-images.com/6TOzhqw0BXNxbUZCl0k1sg__original/img/tj-4BHcZxjUmiJpMnPCxXF1g0YY=/0x0/filters:format(jpeg)/pic6285702.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6TOzhqw0BXNxbUZCl0k1sg__small/img/mwWM79qLTJj9ZoGThWiu6ljbtiw=/fit-in/200x150/filters:strip_icc()/pic6285702.jpg",
+    "link": "https://boardgamegeek.com/thing/228341",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.64323",
+    "averageWeight": "3.3333",
+    "boardGameRank": "296",
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Point to Point Movement",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "Dice",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Vladimír Suchý"
+    ]
+  }
+}

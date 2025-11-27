@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T19:33:30.591Z",
+  "gameDetails": {
+    "id": "218200",
+    "name": "Constellations",
+    "type": "boardgame",
+    "description": "In Constellations: The Game of Stargazing and the Night Sky, players compete to populate the sky with real constellations.\n\nIn the game, players draw star cards, which represent the seven types of stars in the universe. Each constellation requires a unique combination of stars to play on the board. As the game progresses and the night sky fills up, players must use their puzzle skills to fit the last few constellations on the board. The player with the most constellation points at the end of the game wins!\n\nThe game also includes an educational workbook about stellar evolution and the history and mythology of constellations.\n\n",
+    "image": "https://cf.geekdo-images.com/n3FX9YkVk1M9oqFO8I6bwQ__original/img/dXapb17PKmY3kQyxLPTsKjZJoLk=/0x0/filters:format(jpeg)/pic5165542.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/n3FX9YkVk1M9oqFO8I6bwQ__small/img/ak-c7oRjuO9-L8525z3xf9GtWdg=/fit-in/200x150/filters:strip_icc()/pic5165542.jpg",
+    "link": "https://boardgamegeek.com/thing/218200",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.8352",
+    "averageWeight": "1.6667",
+    "boardGameRank": "9390",
+    "mechanics": [
+      "Hand Management",
+      "Modular Board",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Card Game",
+      "Educational",
+      "Puzzle"
+    ],
+    "designers": [
+      "Dante Lauretta",
+      "Ian Zang"
+    ]
+  }
+}

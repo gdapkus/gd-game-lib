@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-26T20:30:26.570Z",
+  "gameDetails": {
+    "id": "285115",
+    "name": "Peak Oil: Profiteer",
+    "type": "boardgame",
+    "description": "Peak Oil Profiteer is a standalone board game set in the Peak Oil universe. As the top executive of an oil corporation, you are sent to a war-torn nation that's got a lot of oil &mdash; and no one who can help sell it! That's where you come in: Your task is to make the most cash before corruption ruins the land.\n\nThis card-driven tactical game features area control, simultaneous action selection, and a healthy dose of player interaction. Progressing in rounds, players improve their workforce by investing in powerful consultants and vie for influence over the nation's three warring factions. As control of the oil fields passes between the hands of the so-called \"government\", the \"National Liberation Front\", and the noble \"Guerilla Militia\" you have to ensure you're in the right place at the right time with the right faction leader in your pocket.\n\nDouble guess your competitors, blackmail politicians, and sell weapons to whoever needs them to ensure you keep the oil &mdash; and money &mdash; flowing in your direction. Remember, your sole goal is to make the most profit before corruption destroys this sorry region.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/qAXoHsdvFsmVlchdUbGeWw__original/img/S7OUr2l8iQQ3jxqZHRko3dDN3WQ=/0x0/filters:format(png)/pic6210479.png",
+    "thumbnail": "https://cf.geekdo-images.com/qAXoHsdvFsmVlchdUbGeWw__small/img/8Uzrw1JaLnYRCQqzWYcMlnJunzQ=/fit-in/200x150/filters:strip_icc()/pic6210479.png",
+    "link": "https://boardgamegeek.com/thing/285115",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2022",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.19633",
+    "averageWeight": "2.7273",
+    "boardGameRank": "8183",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Events",
+      "Network and Route Building",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Victory Points as a Resource"
+    ],
+    "categories": [
+      "Economic",
+      "Environmental",
+      "Humor",
+      "Industry / Manufacturing",
+      "Political",
+      "Print & Play",
+      "Transportation"
+    ],
+    "designers": [
+      "Tobias Gohrbandt",
+      "Heiko Günther"
+    ]
+  }
+}

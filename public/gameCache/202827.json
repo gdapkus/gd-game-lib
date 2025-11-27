@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:12:42.321Z",
+  "gameDetails": {
+    "id": "202827",
+    "name": "Massive Darkness: Enemy Box – Ratlings",
+    "type": "boardgameexpansion",
+    "description": "Expansion for Massive Darkness containing:\n\n1 Ratling Crossbowmen Boss figure\n6 Ratling Crossbowmen Minion figures\n1 Ratling Warriors Boss figure\n12 Ratling Warriors Minion figures\n1 Ratling Agent figure\n1 large Ratling Bully figure\n13 cards\n\n",
+    "image": "https://cf.geekdo-images.com/_ETzHvm0-6YLgyfjF71Btg__original/img/rk1oW8VgPORR3gGCeV0REsFccdM=/0x0/filters:format(jpeg)/pic3687955.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_ETzHvm0-6YLgyfjF71Btg__small/img/ayo1eu7EmMNiWP1GVkidmA1GVtw=/fit-in/200x150/filters:strip_icc()/pic3687955.jpg",
+    "link": "https://boardgamegeek.com/thing/202827",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2017",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.52075",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Raphaël Guiton",
+      "Jean-Baptiste Lullien",
+      "Nicolas Raoult"
+    ]
+  }
+}

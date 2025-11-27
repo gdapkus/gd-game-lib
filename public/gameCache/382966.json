@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-11-26T21:10:08.353Z",
+  "gameDetails": {
+    "id": "382966",
+    "name": "The Glade",
+    "type": "boardgame",
+    "description": "It&rsquo;s summer time, and amid the forest lies the glade.\n\nIn The Glade, you fill your personal forest board with sets of forest tiles (played from your tile rack) that feature creatures, leaves, and forest fruits. Create sets of three tiles to place one of your toadstool counters onto the central glade board. Complete a set of four tiles to add a toadstool to your store. Claim toadstool counters from the glade for your store by playing matching forest tiles. Play toadstool counters into enclosures in your forest to create extra actions.\n\nWhen one player has played all twelve of their toadstool counters or when all the forest tiles have been drawn from the bag, the player with the most points wins.\n\nAfter playing the basic game, progress to the \"matching\" game in which you also match your forest tiles to the creatures, leaves, or forest fruits on your forest board.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/8efZyVI3MicQdMYThEdpQw__original/img/ZCVVEJz4_HoCF1Sq9mB9VlyAv8o=/0x0/filters:format(jpeg)/pic7442305.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8efZyVI3MicQdMYThEdpQw__small/img/2Zu0sj1ogkKqNnZ9y_OyHC8b8sI=/fit-in/200x150/filters:strip_icc()/pic7442305.jpg",
+    "link": "https://boardgamegeek.com/thing/382966",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.37899",
+    "averageWeight": "2.625",
+    "boardGameRank": "11267",
+    "mechanics": [
+      "Connections",
+      "Enclosure",
+      "Grid Coverage",
+      "Matching",
+      "Network and Route Building",
+      "Physical Removal",
+      "Set Collection",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Animals",
+      "Deduction",
+      "Environmental",
+      "Puzzle"
+    ],
+    "designers": [
+      "Richard Breese"
+    ]
+  }
+}

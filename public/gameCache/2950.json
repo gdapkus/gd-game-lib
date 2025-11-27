@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-26T20:16:53.446Z",
+  "gameDetails": {
+    "id": "2950",
+    "name": "Dune: The Duel",
+    "type": "boardgameexpansion",
+    "description": "Expansion for the Avalon Hill game, Dune. Adds a tactical individual fighting element to the game, and a 10-point leader for each side whose death means their faction is eliminated.\n\nExpands:\n\n    Dune\n\n\n",
+    "image": "https://cf.geekdo-images.com/hdDYPsaTb-hnOEumSkdZpw__original/img/Fs_11Zi8DT3ifX9fzFum0h17I6c=/0x0/filters:format(jpeg)/pic9152.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hdDYPsaTb-hnOEumSkdZpw__small/img/bPRbVpPrR_RPMowO4MQdfHtP7zo=/fit-in/200x150/filters:strip_icc()/pic9152.jpg",
+    "link": "https://boardgamegeek.com/thing/2950",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "1984",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "5.90281",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Player Elimination",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Expansion for Base-game",
+      "Fighting",
+      "Negotiation",
+      "Novel-based",
+      "Political",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Bill Eberle",
+      "Jack Kittredge",
+      "Peter Olotka"
+    ]
+  }
+}

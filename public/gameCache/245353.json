@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-26T21:04:24.039Z",
+  "gameDetails": {
+    "id": "245353",
+    "name": "Unlock!: Secret Adventures – Tombstone Express",
+    "type": "boardgame",
+    "description": "The train you're escorting through the Wild West contains some precious cargo. It's up to you to survive the adventure and escort it home safely. Tombstone Express is a brand new Unlock! adventure for up to six players.\n\nUnlock! is a series of escape adventures for up to six players. With one hour on the clock, players work through a deck of sixty cards as a team, searching for clues, combining objects, and solving puzzles. The free Unlock! companion app runs the timer while also providing clues, offering hints, and confirming successes. Once the team has reached a solution and entered the correct code into the app, they will escape and win the game!\n\n",
+    "image": "https://cf.geekdo-images.com/CUWMaQ_EsQYcYUAykAua_A__original/img/2JR95ElqD9rvBqPJ_UmAHR3UCx8=/0x0/filters:format(png)/pic3949891.png",
+    "thumbnail": "https://cf.geekdo-images.com/CUWMaQ_EsQYcYUAykAua_A__small/img/uD644Ym_PxlENEuYUrfSyu69FBc=/fit-in/200x150/filters:strip_icc()/pic3949891.png",
+    "link": "https://boardgamegeek.com/thing/245353",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2018",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.66547",
+    "averageWeight": "2.1429",
+    "boardGameRank": "3515",
+    "mechanics": [
+      "Cooperative Game",
+      "Memory",
+      "Storytelling"
+    ],
+    "categories": [
+      "American West",
+      "Card Game",
+      "Deduction",
+      "Exploration",
+      "Puzzle",
+      "Real-time",
+      "Trains"
+    ],
+    "designers": [
+      "Arch Stanton"
+    ]
+  }
+}

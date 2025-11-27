@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T19:31:31.056Z",
+  "gameDetails": {
+    "id": "344925",
+    "name": "Bardwood Grove",
+    "type": "boardgame",
+    "description": "Bardwood Grove is a tableau-composition euro game where each player assumes the role of a fantastical Bard. Set in The Five Realms universe (Merchants Cove, Rise to Nobility, Cavern Tavern), players will adventure to the Halfling Realm, the home to the finest, highly-talented, and most-legendary Bards of all the land.\n\nAs Bards, players will manage a unique tempo dial mechanism to build temporary Song tableaus from your deck, while exploring and activating locations around the lush woodland city. Each Bard starts with asymmetric skill decks that match their style, such as the Bardbarian, Sword Dancer, and Wardrummer. Learn new Bardic skills, tell tales and perform gigs, soothe the dissonant creatures invading the Grove, and contend with other Bards for the most Glory and Fame. Once all Glory has been collected, the Bard with the most combined Glory and Fame wins!\n\nEach turn, players draw two cards from their unique skill deck and play one to their Story (discard pile) for instant benefits, while the other is added to their Song (tableau). Bardwood Grove challenges players to carefully craft their Song tableaus, coordinating them with their Composition cycle that governs how frequently they sing. As players strategically use resources to upgrade their decks, Songs will release powerful combos and allow players to interact with multiple locations. This creates a unique ebb and flow to the game, as players build their songs, and then decide when and where to sing them.\n\nRumor has it that Bardwood Grove is full of hidden secrets. As the game is played and decisions are made, players will unlock content and evolve the game naturally.  An achievement system tied to the choices and performances of each game will guide players through a series of unlockable content.  As new content emerges through each play, the game will provide players with new content that is based on unique outcomes and player decisions. Grove locations will change, additional Bardic skills can be unlocked, Bard decks become more powerful, new Bards arrive in town, and a variety of characters (both good and bad) can enter the game.\n\nUnravel the mysteries of Bardwood Grove!\n\n",
+    "image": "https://cf.geekdo-images.com/Mgv8-ZhhHO9NoknMrIJYXg__original/img/g_rnKZZGsGbyj47FcUPPRhtd2LA=/0x0/filters:format(jpeg)/pic6352309.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Mgv8-ZhhHO9NoknMrIJYXg__small/img/wcYp2BXHbsQljldP08vQbtXw7ms=/fit-in/200x150/filters:strip_icc()/pic6352309.jpg",
+    "link": "https://boardgamegeek.com/thing/344925",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.30101",
+    "averageWeight": "3.2903",
+    "boardGameRank": "4415",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Movement Points",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Carl Van Ostrand"
+    ]
+  }
+}

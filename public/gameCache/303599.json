@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:12:13.928Z",
+  "gameDetails": {
+    "id": "303599",
+    "name": "Marvel United: The Infinity Gauntlet",
+    "type": "boardgameexpansion",
+    "description": "Thanos is in search of the Infinity Stones. If he collects all six in his Gauntlet, he'll be unstoppable.\n\nThe Infinity Gauntlet adds an epic game mode to Marvel United. Embark on a sequence of up to four games in the struggle to first keep the Children of Thanos from gathering all Infinity Stones, then battle against Thanos himself. Over the course of the first three games, try to defeat the Children of Thanos as quickly as possible to prevent too many Infinity Stones from falling into their master's hands, all the while sparing some effort to unlock power-ups that may be decisive in the final confrontation.\n\nShould you make it to the end, you'll take the fight directly to Thanos, who is empowered by the Stones collected in his Infinity Gauntlet. The Heroes will need to unite and make the best use of their power-ups if they are to save the universe!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/bb4j4LqGJWabIM6v64O-tw__original/img/ALSiLxC1ky0bucneg8rhOHL0Qyc=/0x0/filters:format(jpeg)/pic5263270.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bb4j4LqGJWabIM6v64O-tw__small/img/vrZXsRBX-_iNQgfUvg0F5Vg7nLs=/fit-in/200x150/filters:strip_icc()/pic5263270.jpg",
+    "link": "https://boardgamegeek.com/thing/303599",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.24745",
+    "averageWeight": "2.4286",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Comic Book / Strip",
+      "Fighting"
+    ],
+    "designers": [
+      "Andrea Chiarvesio",
+      "Eric M. Lang"
+    ]
+  }
+}

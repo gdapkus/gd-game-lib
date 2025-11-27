@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-26T21:11:21.620Z",
+  "gameDetails": {
+    "id": "427681",
+    "name": "The Last Lighthouse: Terrible Tides",
+    "type": "boardgameexpansion",
+    "description": "The deepest recesses of the ocean hide nightmares even more terrible than those you&rsquo;ve seen. As the tides carry them to shore, you must steel yourself for a desperate fight.\n\nTerrible Tides 6-card expansion introduces Tide cards, which increase the health and range of existing Nightmares to create nearly unstoppable horrors. One Tide card is added to the rightmost Nightmare at setup and each time a Nightmare is moved to the right side of the sea, it also receives a Tide card. When Nightmares are defeated, their Tide cards are discarded &ndash; but they may return if the deck runs out. With the possibility of some Nightmares acquiring multiple Tide cards, careful management is critical to surviving the worst night of your life.\n\n",
+    "image": "https://cf.geekdo-images.com/TpAt6o-4DqwCdh-YrOw3Mg__original/img/rg0MnRVSane53egfc3e8hJalxB8=/0x0/filters:format(png)/pic8489512.png",
+    "thumbnail": "https://cf.geekdo-images.com/TpAt6o-4DqwCdh-YrOw3Mg__small/img/Kl4pO7TyYkydX5BaeD3WaYnnZ4Q=/fit-in/200x150/filters:strip_icc()/pic8489512.png",
+    "link": "https://boardgamegeek.com/thing/427681",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2024",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "7.38333",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Horror"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

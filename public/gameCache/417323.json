@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T21:14:16.174Z",
+  "gameDetails": {
+    "id": "417323",
+    "name": "Panda Spin",
+    "type": "boardgame",
+    "description": "In Panda Spin, each player attempts to be the first to rid their hand of cards, collecting bamboo in the process to keep their pandas well fed.\n\nIn more detail, Panda Spin is a climbing game played with a special deck of \"double-headed\" cards. All cards start with the orange animals toward the top. Each player receives a hand of twelve cards, with the remaining cards placed in a deck.\n\nDuring the game, players lay down cards to tricks as singles, in sets, in runs, or in formations (two consecutive pairs, two consecutive triples, etc.) If you're the first player in a trick, lead what you wish other than a bomb, that is, four or more cards of the same value. In turn, players must play a higher matching set of cards, e.g. a higher three-of-a-kind on a three-of-a-kind, or pass, after which they can no longer play in a trick. (A bomb cannot be lead, but can be played on any card combination.)\n\nWhen you pass, if you've played cards and all of those cards have orange animals at the top, flip the cards so that the blue animals are at top. Each time you flip a card, you change its value depending on its suit: e.g., the water 4 becomes a pair of Qs, the wood 6 becomes a A+bamboo (and each time you play a card with bamboo, you take a bamboo token from the reserve), the earth 8 becomes a Q+panda (with you stealing a bamboo from an opponent for each panda you play), the fire 3 becomes a 10+fire, with the fire being a value of your choice when played.\n\nIf you pass and the cards you've played have at least one blue animal, you discard all of those played cards. The winner of the trick always discards all of their played cards, then they lead to the next trick. When you play an element card &mdash; Water, for example, beats any bid with3+ values &mdash; you immediately win the trick, and draw two cards from the deck.\n\nWhen a player runs out of cards &mdash; that is, they \"show out\" &mdash; they score bamboo equal to how many cards are held by the player with the largest hand. When all but one player have shown out, the round ends, then you shuffle all the cards (including the winds) and deal everyone a new hand. The game ends, when, at the end of a round,a player has amassed 15 or more points. The player with the most bamboo points wins the game.\n\n",
+    "image": "https://cf.geekdo-images.com/-s_z7CrUOywLKfc-2OznRg__original/img/jg0U8cCRyH-VzRggrm_AU-32e0g=/0x0/filters:format(jpeg)/pic8170512.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-s_z7CrUOywLKfc-2OznRg__small/img/k98i12tmvXLaWKdirIMtXr6RtaM=/fit-in/200x150/filters:strip_icc()/pic8170512.jpg",
+    "link": "https://boardgamegeek.com/thing/417323",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "40",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.08225",
+    "averageWeight": "2.0571",
+    "boardGameRank": "2846",
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing",
+      "Melding and Splaying",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Carl Chudyk"
+    ]
+  }
+}

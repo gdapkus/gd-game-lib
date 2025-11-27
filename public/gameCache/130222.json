@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-26T21:04:38.299Z",
+  "gameDetails": {
+    "id": "130222",
+    "name": "Vimbre",
+    "type": "boardgame",
+    "description": "\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tIntroductionVimbre is a drawless connection game for two players: Black and White. It's played on the intersections (points) of a square board, which is initially empty. The top and bottom edges of the board are colored black; the left and right edges are colored white.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tDefinitionsA stone is flipped when it's replaced with a stone of the opposite color.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tPlayBlack plays first, then turns alternate. On his turn, a player must perform exactly one of the following actions:\n\n\n     Place one or two stones of his color on empty points of the board. On his first turn, Black can only place one stone. In any case, at the end of a turn, any two like-colored, diagonally adjacent stones must share at least one orthogonally adjacent, like-colored neighbor. Otherwise, the move is illegal.\n\n\n\n     Flip one enemy stone which is sandwiched between two friendly stones adjacent to it on the same orthogonal line. This kind of move is illegal if said enemy piece isn't orthogonally adjacent to any empty point.\n\n\nIf a player can't make a move on his turn, he must pass. Passing is otherwise not allowed. There will always be a move available to at least one of the players.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tObjectiveThe game is won by the player who completes a chain of orthogonally adjacent stones of his color touching the two opposite board edges of his color. Draws are not possible.\n\n",
+    "image": "https://cf.geekdo-images.com/hmmwTTgMxDVOCHxtDM4ScA__original/img/oTCmiD8dvPsJYDRzLmRHt-GIOjQ=/0x0/filters:format(png)/pic1698318.png",
+    "thumbnail": "https://cf.geekdo-images.com/hmmwTTgMxDVOCHxtDM4ScA__small/img/CR-ofmhpZvz5jf8hPQP3jr7MVGE=/fit-in/200x150/filters:strip_icc()/pic1698318.png",
+    "link": "https://boardgamegeek.com/thing/130222",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2012",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.25",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Chaining",
+      "Connections",
+      "Paper-and-Pencil",
+      "Pattern Recognition",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Print & Play"
+    ],
+    "designers": [
+      "Luis Bolaños Mures"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:54:46.115Z",
+  "gameDetails": {
+    "id": "64520",
+    "name": "Gongor Whist",
+    "type": "boardgame",
+    "description": "Gongor Whist is a solitaire trick-taking game in which you try to win tricks against a dummy hand.\nThe trump is randomly determined by flipping over an Ace, but with every trick you have the option of randomly determining a new trump.\n\nEach pass through the deck is two hands; each hand uses about half the cards.\n\nThe goal is to successfully make all the possible bids without repeating any of them.\n\n\n     Rules at the Decktet Wiki\n\n\n",
+    "image": "https://cf.geekdo-images.com/aELsW7FG3SlzGjTP7WY2oQ__original/img/h6u75A0E5iSnk2T0FTuVYyBGCmg=/0x0/filters:format(jpeg)/pic958046.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aELsW7FG3SlzGjTP7WY2oQ__small/img/Ta6FVo6RuwXgmAuKp0o69KXqc5s=/fit-in/200x150/filters:strip_icc()/pic958046.jpg",
+    "link": "https://boardgamegeek.com/thing/64520",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2008",
+    "playingTime": "10",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "10",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "6.27209",
+    "averageWeight": "2",
+    "boardGameRank": "20402",
+    "mechanics": [
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "P. D. Magnus"
+    ]
+  }
+}

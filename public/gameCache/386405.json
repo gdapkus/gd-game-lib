@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:02:19.072Z",
+  "gameDetails": {
+    "id": "386405",
+    "name": "Come Sail Away!",
+    "type": "boardgame",
+    "description": "Come Sail Away! is a board game for 1-4 players in which you compete to board passengers upon your luxury liner, bringing them to their favorite cabins and facilities. Players can enjoy a deliciously thoughtful and brightly illustrated game that is simple to learn, yet always challenging.\n\nThe aim of Come Sail Away is to guide passengers into your cruise ship as smoothly as possible, earning points in the process. In addition to earning points for filling each room on the ship, you can earn bonus points for filling certain rooms faster than other players. Further, by guiding passengers with luggage to their cabins, players can advance on the luggage track, allowing you to place additional small cabins, gain additional passengers, and earn bonus points. As the game progresses, it is also important to think ahead and make sure your ship has room for passengers, or else you will have a crowd of disgruntled passengers at hand!\n\n---from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/T8ZyGekIgq12Isq7BzgT-Q__original/img/O4lVXP9VQ1Mwuh4T9wbm3AQ4_Jc=/0x0/filters:format(jpeg)/pic7655631.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/T8ZyGekIgq12Isq7BzgT-Q__small/img/p1iYmAZu3pTjCDb8SPoZHXJGbYk=/fit-in/200x150/filters:strip_icc()/pic7655631.jpg",
+    "link": "https://boardgamegeek.com/thing/386405",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "25",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "25",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.76375",
+    "averageWeight": "2.1136",
+    "boardGameRank": "1406",
+    "mechanics": [
+      "Closed Drafting",
+      "Mancala",
+      "Modular Board",
+      "Simultaneous Action Selection"
+    ],
+    "categories": [
+      "Nautical",
+      "Puzzle",
+      "Travel"
+    ],
+    "designers": [
+      "Daryl Chow",
+      "Saashi"
+    ]
+  }
+}

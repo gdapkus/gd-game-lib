@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:27:32.955Z",
+  "gameDetails": {
+    "id": "345868",
+    "name": "Federation",
+    "type": "boardgame",
+    "description": "The universe is organized into many federations which trade, intrigue, develop&hellip; One of these federations, still not fully developed yet (5 member planets so far) wants a new delegation to join them, but you are not the only one having your sights set on the federation. The Federation challenges you to prove your worth for 5 years. During these 5 years, you must develop strategies, deploy tactics, take the best opportunities but also form the right alliances at the right time&hellip; In the end, only 1 delegation will be chosen: the one with the most prestige!\n\nFederation is an interactive Eurogame with innovative double-sided worker placement mechanic..\n\nFederation is played over 5 rounds.  Each round is divided into 2 main steps. The first step is player turns where each player plays an Ambassador's pawn and send a spaceship on a special mission. Once all players have completed their turn, the Executive Phase starts, where players receive their income, fund Major Projects and pass laws.\n\nAt the end of the 5th round, the game ends. The Player with the most prestige points wins the game and joins the Federation. In case of a tie, the victory is shared.\n\nYour individual board is composed of the 5 federated actions, 1 spy action, some senate actions and some special senate actions giving prestige points.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/sdimOaBoZ6_VG1153BtzbQ__original/img/kkiEWOU0-9x9JZ2_VHR4lUVzxms=/0x0/filters:format(jpeg)/pic6362475.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sdimOaBoZ6_VG1153BtzbQ__small/img/mY3CJjlViAX21LSxI0qcVFHpGa4=/fit-in/200x150/filters:strip_icc()/pic6362475.jpg",
+    "link": "https://boardgamegeek.com/thing/345868",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.84023",
+    "averageWeight": "3.7517",
+    "boardGameRank": "725",
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Variable Set-up",
+      "Voting",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Political",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Dimitri Perrier",
+      "Matthieu Verdier"
+    ]
+  }
+}

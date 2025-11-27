@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T21:10:35.790Z",
+  "gameDetails": {
+    "id": "254888",
+    "name": "High Rise",
+    "type": "boardgame",
+    "description": "High Rise is a strategic city-building game with a bit of corruption. You can get bonuses on your actions by gaining Corruption, but the game will periodically penalize the most corrupt players, and everyone loses VP for Corruption at the end of the game.\n\nYou'll perform all your actions &mdash; like collecting resources, constructing buildings, and repaying favors &mdash; on a one-way track. Like other one-way track games, you can go as far as you'd like, but you'll only get another turn when everyone else passes you. You gain 1 VP per floor for each building you construct. Tenants offer powerful actions that change each game. You can collect a tenant power by landing on its space or constructing a building on its card.\n\nThe round ends after everyone makes a lap around the one-way track. Players score bonus points for tallest buildings in each neighborhood and the game. You'll play 2 rounds in the Standard Game (about 90-120 minutes for 3-4 players) and 3 rounds (about 2.5 hours) in the Full game. After the appropriate number of rounds, players lose points for Corruption, and the player with most VP wins.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/2-BtabrB2WhfWUS7Xxn-9g__original/img/ty6fEQt-nLDSNS42ZHWZ-pXOXEM=/0x0/filters:format(png)/pic4608756.png",
+    "thumbnail": "https://cf.geekdo-images.com/2-BtabrB2WhfWUS7Xxn-9g__small/img/3UB7OOApda-RtdeDaURulGnUymI=/fit-in/200x150/filters:strip_icc()/pic4608756.png",
+    "link": "https://boardgamegeek.com/thing/254888",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "150",
+    "minPlayingTime": "100",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.15555",
+    "averageWeight": "2.9412",
+    "boardGameRank": "4473",
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Solo / Solitaire Game",
+      "Turn Order: Time Track"
+    ],
+    "categories": [
+      "City Building"
+    ],
+    "designers": [
+      "Gil Hova"
+    ]
+  }
+}

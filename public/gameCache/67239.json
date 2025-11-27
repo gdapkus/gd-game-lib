@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-26T20:16:45.246Z",
+  "gameDetails": {
+    "id": "67239",
+    "name": "Catan Histories: Settlers of America – Trails to Rails",
+    "type": "boardgame",
+    "description": "Catan is off the island and in America.  Fans of Catan are eagerly anticipating the next release in the Catan Histories line.\n\nThe 19th Century has arrived, and Americans are heading west. Wagon trains are forming up and heading out to settle new lands and build new cities. These new cities will need railroad lines to bring in new people and necessary goods. Some head west for the adventure, some to start a new life, still others to find work.\n\nLook west to make your fortune. As the population grows, resources will dwindle, and the smart money seeks new sources and new markets. Finance your settlers as they head west to build the cities of tomorrow. Link these cities with rails of steel and operate your railroad to supply the townsfolk with goods. To the west lie lands to settle and fortunes to be made!\n Settlers of America: Trails to Rails uses the familiar Catan hex-tile grid to present a map of the United States. Players collect and trade resources in order to purchase, migrate and build settlements, forge railroads, and acquire locomotives. Railroads are used to distribute goods to the interconnected cities. As westward locations are settled, old sources of resources deplete. The addition of gold adds to the depth of play and increases options for the players.\n\n",
+    "image": "https://cf.geekdo-images.com/4xEt1MM-l4BFuaHOf_IcQw__original/img/sVUSziIxwBVmZhRGYtVIF81Zi0w=/0x0/filters:format(jpeg)/pic685614.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4xEt1MM-l4BFuaHOf_IcQw__small/img/I_uH_0OyWtEfrDrxhz9wpTQhhwI=/fit-in/200x150/filters:strip_icc()/pic685614.jpg",
+    "link": "https://boardgamegeek.com/thing/67239",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "120",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.7855",
+    "averageWeight": "2.6887",
+    "boardGameRank": "2360",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Network and Route Building",
+      "Trading"
+    ],
+    "categories": [
+      "Civilization",
+      "Exploration",
+      "Negotiation",
+      "Trains"
+    ],
+    "designers": [
+      "Klaus Teuber"
+    ]
+  }
+}

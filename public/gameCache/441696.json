@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-26T20:31:23.259Z",
+  "gameDetails": {
+    "id": "441696",
+    "name": "Sanctuary",
+    "type": "boardgame",
+    "description": "In Sanctuary, you will plan and design a modern, scientifically-managed zoo for animals and visitors. A supply of 135 unique zoo tiles provides you with animals, buildings, and projects. In every game, you want to find the best mix from those available to build the most successful zoological establishment. Different effects on the tiles will help you to achieve conservation goals and to increase the attraction of your zoo.\n\nEach player has a set of four action cards to manage their gameplay, and the power of an action is determined by the slot the card currently occupies. One of those cards will let you play projects, and the other three cards will let you play animals of a specific habitat: forest, rock, or water.\n\nSanctuary is based on its predecessor Ark Nova, but modifies and simplifies many of the mechanisms of that game in an elegant and surprising manner. Your goal to find the best way to puzzle together your animals, buildings, and projects on your zoo map is an ongoing pleasure!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/C6V2VCtf1_7cavenn7Is3A__original/img/mdgxo4BZpLgvG20XfNHfMg8j8Go=/0x0/filters:format(jpeg)/pic8932906.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/C6V2VCtf1_7cavenn7Is3A__small/img/ZJJOWNSKk81xpvNkMpGd5T0ybLo=/fit-in/200x150/filters:strip_icc()/pic8932906.jpg",
+    "link": "https://boardgamegeek.com/thing/441696",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "100",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "100",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.65497",
+    "averageWeight": "2.7692",
+    "boardGameRank": "2632",
+    "mechanics": [
+      "Action Queue",
+      "Hand Management",
+      "Hexagon Grid",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Animals",
+      "Environmental",
+      "Territory Building"
+    ],
+    "designers": [
+      "Mathias Wigge"
+    ]
+  }
+}

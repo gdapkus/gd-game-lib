@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:24:45.549Z",
+  "gameDetails": {
+    "id": "2741",
+    "name": "Chez Geek 3: Block Party",
+    "type": "boardgameexpansion",
+    "description": "Chez Geek 3: Block Party adds 56 new job, thing and activity cards to your Chez Geek game.  Now you can be a security guard (gets to sleep a lot), bicycle courier (likes the weed), \"enevelope stuffer\" (works at home and watches lots of tv), or the Lord of the Fries working the grill at Friedey's (gets free food, and a tip of the hat to Cheapass Games).\n\nExpands:\n\n    Chez Geek\n    Chez Geek 2: Slack Attack\n\n\nNew Edition\n\n    The cards from Chez Geek 3: Block Party are now incorperated in Chez Geek: House Party edition with the cards from Chez Geek 2: Slack Attack.\n\n\n",
+    "image": "https://cf.geekdo-images.com/V1KNQcbt7ESOFqaE1WowKA__original/img/YYnkAOt4n8JasIFtTP_iOMgd13k=/0x0/filters:format(jpeg)/pic263878.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/V1KNQcbt7ESOFqaE1WowKA__small/img/79NQOVc_kWYOwvwg9z-kmu8npT4=/fit-in/200x150/filters:strip_icc()/pic263878.jpg",
+    "link": "https://boardgamegeek.com/thing/2741",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2001",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "6.36327",
+    "averageWeight": "1.4935",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Set Collection",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Party Game"
+    ],
+    "designers": [
+      "Steve Jackson (I)",
+      "Philip Reed"
+    ]
+  }
+}

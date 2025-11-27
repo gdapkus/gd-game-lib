@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-26T20:58:07.951Z",
+  "gameDetails": {
+    "id": "25292",
+    "name": "Merchants & Marauders",
+    "type": "boardgame",
+    "description": "Merchants & Marauders lets you live the life of an influential merchant or a dreaded pirate in the Caribbean during the Golden Age of Piracy. Seek your fortune through trade, rumor hunting, missions, and of course, plundering.  Modify your ship, buy impressive vessels, load deadly special ammunition, and hire specialist crew members. Will your captain gain eternal glory and immense wealth - or find his wet grave under the stormy surface of the Caribbean Sea?\n\nIn Merchants and Marauders, players take on the role of a captain of a small vessel in the Caribbean.  The goal is to be the first to achieve 10 \"glory\" points through performing daring deeds (through the completion of missions or rumors), crushing your enemies (through defeating opponents and NPCs in combat), amassing gold, performing an epic plunder or pulling off the trade of a lifetime, and buying a grand ship.  While some points earned from performing various tasks are permanent, players earn points for amassing gold, which can be stolen or lost (or at least diminished) if their captain is killed.  Points due to gold are hidden so there's some uncertainty about when the game will end.\n\nA big component of the game is whether (or when) to turn \"pirate\" or remain as a trader or neutral party. Both careers are fraught with danger: pirates are hunted by NPCs (and other players) for their bounty and blocked to certain ports while traders are hunted by non-player pirates as well as their opponents and generally have to sacrifice combat capability for cargo capacity.  Although players can kill each other, there is no player elimination as players may draw a new captain (with a penalty) so it's possible to come back from defeat.\n\n",
+    "image": "https://cf.geekdo-images.com/RmKYojYHmV8X-ebtNgaz-g__original/img/wrLHO6mElyCGzog0aHzJ9KE-SeE=/0x0/filters:format(jpeg)/pic738119.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RmKYojYHmV8X-ebtNgaz-g__small/img/Rd6POAEmJOEtwKB7bSDTKPsL_9k=/fit-in/200x150/filters:strip_icc()/pic738119.jpg",
+    "link": "https://boardgamegeek.com/thing/25292",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2010",
+    "playingTime": "180",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.38813",
+    "averageWeight": "3.2566",
+    "boardGameRank": "406",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Bias",
+      "Dice Rolling",
+      "Events",
+      "Pick-up and Deliver",
+      "Race",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Adventure",
+      "Fighting",
+      "Nautical",
+      "Pike and Shot",
+      "Pirates",
+      "Transportation"
+    ],
+    "designers": [
+      "Kasper Aagaard",
+      "Christian Marcussen"
+    ]
+  }
+}

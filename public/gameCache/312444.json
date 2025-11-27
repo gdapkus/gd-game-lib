@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-11-26T20:47:54.145Z",
+  "gameDetails": {
+    "id": "312444",
+    "name": "Abandon All Artichokes: Rhubarb Promo",
+    "type": "boardgameexpansion",
+    "description": "Set of six Rhubarb cards for the game Abandon All Artichokes.\n\nCompost this card to refresh the Garden Row, then harvest a card. (Place old cards under Garden Stack.)\n\n",
+    "image": "https://cf.geekdo-images.com/a0sLV2Nc8F9lB0v_X16tlg__original/img/06FMjltuCXboOR54gVvmV3c3iGM=/0x0/filters:format(jpeg)/pic5484601.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/a0sLV2Nc8F9lB0v_X16tlg__small/img/j8q0DxzOiiBipy2XyI6H7TnLKUE=/fit-in/200x150/filters:strip_icc()/pic5484601.jpg",
+    "link": "https://boardgamegeek.com/thing/312444",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.75841",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Emma Larkins"
+    ]
+  }
+}

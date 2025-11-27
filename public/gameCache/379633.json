@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-11-26T20:28:33.564Z",
+  "gameDetails": {
+    "id": "379633",
+    "name": "Humanity",
+    "type": "boardgame",
+    "description": "Humanity is a game of anticipation, very close to our future (in 2073). In this tile-and-worker placement game, 2-4 players have to manage resources and their time to build a base that will be used by scientific civilian settlers. Players have to assemble the modules produced by the automated station, too, and carry out experiments to further research.\n\nOn a turn, you can choose to produce resources or spend them by sending one of your three astronauts to the automated station to get new base modules or carry out experiments to further research. But time is a tool that must be managed as well; the further you go to get a specific module, the later you will get back to your scientific base to connect it...\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/jhS92fbGyfajIZ_zPK9-rA__original/img/egJsTkmxK7zgVtZMVDmP5CE6Fj4=/0x0/filters:format(jpeg)/pic7682588.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jhS92fbGyfajIZ_zPK9-rA__small/img/bNocOwRTuluYcs_RQAugIws1MqI=/fit-in/200x150/filters:strip_icc()/pic7682588.jpg",
+    "link": "https://boardgamegeek.com/thing/379633",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "6.66669",
+    "averageWeight": "2.6",
+    "boardGameRank": "7963",
+    "mechanics": [
+      "Hidden Victory Points",
+      "Order Counters",
+      "Tech Trees / Tech Tracks",
+      "Tile Placement",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ],
+    "categories": [
+      "City Building",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Yoann Levet"
+    ]
+  }
+}

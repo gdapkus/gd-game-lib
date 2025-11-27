@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-26T21:02:11.019Z",
+  "gameDetails": {
+    "id": "2407",
+    "name": "Sorry!",
+    "type": "boardgame",
+    "description": "Slide Pursuit Game\n\nRace your four game pieces from Start around the board to your Home in this Pachisi type game. By turning over a card from the draw deck and following its instructions, players move their pieces around the game board, switch places with players, and knock opponents' pieces off the track and back to their Start position.\n\nSlides are located at various places around the game board. When a player's piece lands at the beginning of one of these slides not of its own color, it automatically advances to the end, removing any piece on the slide and sending it back to Start.\n\nGame moves are directed exclusively by cards from the play-action deck.  If one plays the normal version in which one card is drawn from the deck each turn, the outcome has a huge element of luck.  Sorry can be made more of a strategic game (and more appealing to adults) by dealing five cards to each player at the start of the game and allowing the player to choose which card he/she will play each turn.  In this version, at the end of each turn, a new card is drawn from the deck to replace the card that was played, so that each player is always working from five cards.\n\nA player's fortunes can change dramatically in one or two rounds of play through the use of Sorry cards, the \"11\" cards (which give the player the option of trading places with an opponent's piece on the track), and the fact that it is possible to move from Start to Home without circumnavigating the full board by making judicious use of the \"backward 4\" cards.\n\n",
+    "image": "https://cf.geekdo-images.com/zV33y_kLzvOuGz1_r1DWNA__original/img/JnvWT9eND5TInSUeYovoDUG6Gto=/0x0/filters:format(jpeg)/pic8204421.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zV33y_kLzvOuGz1_r1DWNA__small/img/BDEzpnC1LDvDFqLIIbe5qAz1W4Q=/fit-in/200x150/filters:strip_icc()/pic8204421.jpg",
+    "link": "https://boardgamegeek.com/thing/2407",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "1929",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "4.55282",
+    "averageWeight": "1.1607",
+    "boardGameRank": "29589",
+    "mechanics": [
+      "Roll / Spin and Move",
+      "Take That"
+    ],
+    "categories": [
+      "Children's Game"
+    ],
+    "designers": [
+      "Paul T. Haskell, Jr.",
+      "William Henry Storey"
+    ]
+  }
+}

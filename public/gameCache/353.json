@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-26T20:28:46.908Z",
+  "gameDetails": {
+    "id": "353",
+    "name": "Inkognito: The Card Game",
+    "type": "boardgame",
+    "description": "It is Carnival in Venice, and you are seeking your partner, one of three other world famous secret agents.  Your mission is to make contact with that agent and trade information that will allow the two of you to break into a safe containing the last known whereabouts of a mysterious figure known only as \"the Grand Old Man.\"  But beware, for another team of agents has been sent to Venice as well, to steal the information before you, and one mistake could cost you your life...\n\nIn INKOGNITO: THE CARD GAME, each player is assigned the role of one of four secret agents: Lord Fiddlebottom, Colonel Bubble, Agent X or Madame Zsa Zsa, and must deduce who the other players are by arranging meetings with them to share tidbits of information.  The players may also meet up with \"the Ambassador\" to gain valuable knowledge about the other spies.  The first player to deduce the identities of the other agents and meet up with their partner wins the game.\n\nINKOGNITO: THE CARD GAME is a deductive card game of secrets, lies, and investigation for 2-5 players, playable in 2-30 minutes.\n\nRe-implements:\n\n    Inkognito\n\n\n",
+    "image": "https://cf.geekdo-images.com/ObrWfB0VE8vEIhh_xUUUqQ__original/img/9cuaEVhdMDNCNtvlsx4AwN_0lXs=/0x0/filters:format(jpeg)/pic194865.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ObrWfB0VE8vEIhh_xUUUqQ__small/img/LVuunDBIkWPnsPEevJ9kI37KqeI=/fit-in/200x150/filters:strip_icc()/pic194865.jpg",
+    "link": "https://boardgamegeek.com/thing/353",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "1997",
+    "playingTime": "30",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "5.46464",
+    "averageWeight": "1.6538",
+    "boardGameRank": "27159",
+    "mechanics": [
+      "Hand Management"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Leo Colovini",
+      "Alex Randolph"
+    ]
+  }
+}

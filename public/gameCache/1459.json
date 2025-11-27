@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-26T20:31:34.648Z",
+  "gameDetails": {
+    "id": "1459",
+    "name": "Sharp Shooters",
+    "type": "boardgame",
+    "description": "From the description on the box:\n\n\"A fistful of dice to roll.  Challenging cards to build them on.  Fast-moving play and shifting strategies.  It&rsquo;s a good bet Sharp Shooters will be your favorite dice game ever.\n  \nPlayers roll dice to build rows on a common card.  Win chips by placing the last die in a row.  Score for straights, full houses, 4 of a kind, and more.\n  \nEvery turn is a brand new challenge.  How many dice will you place, and where?  Will you risk another roll?\n\nAs the card builds, so does the tension.  Can you keep point-snatching opponents from finishing rows?  To win, have the most points when the game ends!\"\n\nGames Magazine's 1996 Game of the Year.  Each player, armed with a fistful of dice, starts his turn by rolling 5 dice and placing as many of them as possible on a card, though you must always place at least one if you can.  Each card has 6 rows, with from 1 to six dice pictured in each row.  These are in various combinations, and dice must be placed in order in each row.  As long as you place at least one die, and you have not used all of your 5 dice, you can then choose to roll again.  If you choose to stop, or you roll dice with no legal placement available, your turn is over.\n\nScoring is achieved by placing the last die in a row and scoring can be a negative.  When the last row of a card is scored it is removed and a new card replaces it.  Play until a predetermined number of cards are scored.\n\nWon Games Magazine Game of the Year award in 1995.\n\nReimplemented as \"Royal Casino\" by Ravensburger\n\n",
+    "image": "https://cf.geekdo-images.com/l6eh96g0nqAnCz64sbxmHQ__original/img/c2MoXNHVpXxiWWOIf-YwuwtZLhs=/0x0/filters:format(jpeg)/pic471474.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/l6eh96g0nqAnCz64sbxmHQ__small/img/1mPjKkWcFB9PlfU43SX_1CPJm0g=/fit-in/200x150/filters:strip_icc()/pic471474.jpg",
+    "link": "https://boardgamegeek.com/thing/1459",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "1994",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.43566",
+    "averageWeight": "1.2414",
+    "boardGameRank": "4261",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Dice"
+    ],
+    "designers": [
+      "Jeffrey Breslow",
+      "Howard J. Morrison",
+      "Rouben Terzian"
+    ]
+  }
+}
