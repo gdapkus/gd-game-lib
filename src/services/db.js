@@ -52,7 +52,7 @@ async function fetchUsersFromDb () {
   try {
     const result = await pgPool.query(`
       SELECT
-        id AS userid,
+        bgg_userid AS userid,
         username,
         display_name,
         altname,

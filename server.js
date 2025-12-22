@@ -372,15 +372,15 @@ async function loadCollection(userName) {
                     lastmodified: status.lastmodified || existingGame?.lastmodified || new Date().toISOString(),
                     numplays: numPlaysValue,
                     status: {
-                        own: status.own === '1' || existingGame?.status?.own || false,
-                        prevowned: status.prevowned === '1' || existingGame?.status?.prevowned || false,
-                        fortrade: status.fortrade === '1' || existingGame?.status?.fortrade || false,
-                        want: status.want === '1' || existingGame?.status?.want || false,
-                        wanttoplay: status.wanttoplay === '1' || existingGame?.status?.wanttoplay || false,
-                        wanttobuy: status.wanttobuy === '1' || existingGame?.status?.wanttobuy || false,
-                        wishlist: status.wishlist === '1' || existingGame?.status?.wishlist || false,
-                        wishlistpriority: typeof status.wishlistpriority === 'string' ? parseInt(status.wishlistpriority, 10) || null : existingGame?.status?.wishlistpriority || null,
-                        preordered: status.preordered === '1' || existingGame?.status?.preordered || false
+                        own: status.own === '1' || false,
+                        prevowned: status.prevowned === '1' || false,
+                        fortrade: status.fortrade === '1' || false,
+                        want: status.want === '1' || false,
+                        wanttoplay: status.wanttoplay === '1' || false,
+                        wanttobuy: status.wanttobuy === '1' || false,
+                        wishlist: status.wishlist === '1' || false,
+                        wishlistpriority: parseInt(status.wishlistpriority, 10) || null,
+                        preordered: status.preordered === '1' || false
                     }
                 };
 

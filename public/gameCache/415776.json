@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-12-03T17:53:44.416Z",
+  "gameDetails": {
+    "id": "415776",
+    "name": "Kingdom Legacy: Feudal Kingdom",
+    "type": "boardgame",
+    "description": "You&rsquo;ve claimed the land. Now let&rsquo;s get to work, there is a kingdom to build...\n\nKingdom Legacy is a unique solo campaign full of exploration delight and adventure: Discover new cards and learn how to use them to your advantage and how to survive hardships.\n\nSome cards will be torn, others will be upgraded or enhanced with stickers, whatever it takes to build the ultimate kingdom, your kingdom! By the way, what will you name it? Write the name on the side of the box with the most permanent marker you can find. Your journey starts here...\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/rQ3ngxxeGr5K9jiADGdmbQ__original/img/Zi2rDqHK0bswUMfbZe4bqrm4H04=/0x0/filters:format(png)/pic8400952.png",
+    "thumbnail": "https://cf.geekdo-images.com/rQ3ngxxeGr5K9jiADGdmbQ__small/img/g2kdTqcVfnAnmSJinHc61pParQs=/fit-in/200x150/filters:strip_icc()/pic8400952.png",
+    "link": "https://boardgamegeek.com/thing/415776",
+    "minPlayers": "1",
+    "maxPlayers": "1",
+    "yearPublished": "2024",
+    "playingTime": "480",
+    "minPlayingTime": "360",
+    "maxPlayingTime": "480",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "8.15331",
+    "averageWeight": "2.2692",
+    "boardGameRank": "784",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Events",
+      "Hand Management",
+      "Legacy Game",
+      "Move Through Deck",
+      "Narrative Choice / Paragraph",
+      "Push Your Luck",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "City Building",
+      "Civilization",
+      "Economic",
+      "Exploration",
+      "Medieval"
+    ],
+    "designers": [
+      "Jonathan Fryxelius"
+    ]
+  }
+}

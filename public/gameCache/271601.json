@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-12-03T19:38:39.599Z",
+  "gameDetails": {
+    "id": "271601",
+    "name": "Feed the Kraken",
+    "type": "boardgame",
+    "description": "Feed the Kraken is a hidden role deduction game, with three asymmetric factions. All players may be sitting in the same boat, but they want to navigate in different directions! The loyal sailors must bring the ship safely to mainland, whereas the pirates crave to secretly maneuver the ship into the Bermuda Triangle. Meanwhile a crazy cultist is busy convincing parts of the crew to help him summon their dark lord &mdash;the Kraken&mdash; from the depth of the sea to save them all.\n\nThe goal of the game is to navigate the ship towards your final destination, which would be easy if only players weren&rsquo;t divided into three different factions. Each secret faction wants to reach a different area of the board. Every turn the ship will sail in one of the three possible directions &mdash;but which one will it be? The current captain and their chosen lieutenant will study ancient sea maps and pass their often conflicting orders onto the chosen navigator, who has to make the final decision. Meanwhile the rest of the crew is busy drinking rum, gambling and telling each other tales of ancient sea monsters.\n\nAfter each navigation, the lieutenant and navigator go off duty, and the captain has to find somebody sober enough to take their spot instead. Everyone can discuss, how well that last navigation went, who is to blame for the current course, and who should be in charge in the future instead. Convince your enemies that it is in their best interest to make you the next lieutenant, or navigator! You can even draw your guns and become the new captain in open mutiny! But for how long will you be able to keep the trust of your crew? The next mutiny might already be waiting for you if your decisions don&rsquo;t please your fellow sailors.\n\n&mdash;description from designer\n\n",
+    "image": "https://cf.geekdo-images.com/1I9spdDMuRzgM4EVV6BRiQ__original/img/ad-NSXRHuJQSGxMN03ib4EaRYe0=/0x0/filters:format(jpeg)/pic8775698.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1I9spdDMuRzgM4EVV6BRiQ__small/img/aaiaeMGAajKyBKFGlYuPY-WjPrY=/fit-in/200x150/filters:strip_icc()/pic8775698.jpg",
+    "link": "https://boardgamegeek.com/thing/271601",
+    "minPlayers": "5",
+    "maxPlayers": "11",
+    "yearPublished": "2022",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      8,
+      11
+    ],
+    "averageRating": "7.79504",
+    "averageWeight": "2.1583",
+    "boardGameRank": "442",
+    "mechanics": [
+      "Acting",
+      "Betting and Bluffing",
+      "Grid Movement",
+      "Hidden Roles",
+      "Player Elimination",
+      "Role Playing",
+      "Roles with Asymmetric Information",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers",
+      "Voting"
+    ],
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Fantasy",
+      "Nautical",
+      "Party Game",
+      "Pirates"
+    ],
+    "designers": [
+      "Maikel Cheney",
+      "Dr. Hans Joachim Höh",
+      "Tobias Immich"
+    ]
+  }
+}

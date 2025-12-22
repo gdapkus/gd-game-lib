@@ -1,1 +1,40 @@
-{"timestamp":"2024-11-12T18:44:09.671Z","gameDetails":{"id":"367220","name":"Sea Salt & Paper","type":"boardgame","description":"During your turn, you assemble your hand, maybe place cards for their effect, and decide if you want to end the round. But do you think you are the one with the most points in hand?&#10;You will have to choose: stop the round immediately or give the others an extra turn to try to extend the gap? Is it worth taking the risk? &#10;The game ends when you reach 30/35/40 points (4/3/2 players).&#10;&#10;The excitement of ending the round to catch your opponents off guard&#10;&#10;The pleasure of playing your effect cards and making combos&#10;&#10;It's a set collection card game like Rummy. The origami created especially for the game is just the illustrations on the cards.&#10;&#10;","image":"https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__original/img/AX2wyHhWFgVh5OArXAjVHY-nFZg=/0x0/filters:format(jpeg)/pic6973911.jpg","thumbnail":"https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__thumb/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg","link":"https://boardgamegeek.com/thing/367220","minPlayers":"2","maxPlayers":"4","yearPublished":"2022","playingTime":"45","minPlayingTime":"30","maxPlayingTime":"45","bestAtCount":[2],"averageRating":"7.48962","averageWeight":"1.4493","boardGameRank":"335","mechanics":["Hand Management","Open Drafting","Push Your Luck","Set Collection"],"categories":["Animals","Card Game","Nautical"],"designers":["Bruno Cathala","Théo Rivière"]}}
+{
+  "timestamp": "2025-12-04T00:17:52.005Z",
+  "gameDetails": {
+    "id": "367220",
+    "name": "Sea Salt & Paper",
+    "type": "boardgame",
+    "description": "During your turn, you assemble your hand, maybe place cards for their effect, and decide if you want to end the round. But do you think you are the one with the most points in hand?\nYou will have to choose: stop the round immediately or give the others an extra turn to try to extend the gap? Is it worth taking the risk? \nThe game ends when you reach 30/35/40 points (4/3/2 players).\n\nThe excitement of ending the round to catch your opponents off guard\n\nThe pleasure of playing your effect cards and making combos\n\nIt's a set collection card game like Rummy. The origami created especially for the game is just the illustrations on the cards.\n\n",
+    "image": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__original/img/AX2wyHhWFgVh5OArXAjVHY-nFZg=/0x0/filters:format(jpeg)/pic6973911.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__small/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
+    "link": "https://boardgamegeek.com/thing/367220",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.50368",
+    "averageWeight": "1.4778",
+    "boardGameRank": "270",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Push Your Luck",
+      "Score-and-Reset Game",
+      "Set Collection",
+      "Sudden Death Ending"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "Bruno Cathala",
+      "Théo Rivière"
+    ]
+  }
+}

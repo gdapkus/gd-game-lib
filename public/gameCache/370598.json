@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-12-03T23:07:29.287Z",
+  "gameDetails": {
+    "id": "370598",
+    "name": "Trailblazers: Travel Edition",
+    "type": "boardgame",
+    "description": "Trailblazers are the gutsy folks who pave and brave the trails of the great outdoors.&nbsp; Whether by hiking boots, cycling wheels, or river paddle, these tenacious travelers seek to feed their insatiable appetite for adventure.&nbsp; With a scenic wilderness ever ahead and a freshly charted path upon the heels, one mustn&rsquo;t forget to eventually find their way back to camp.&nbsp; For there are always new environments to explore, further expeditions to undertake, and more trails to blaze.\n\nIn Trailblazers, players compete to earn the most points by building biking, hiking, and kayaking loops from their campsites of the matching trail type.  Each round, players are dealt eight trail cards where they&rsquo;ll draft two cards, arrange those cards in their personal area, and pass their hand to the next player three times.  Cards must either be placed adjacent to or overlapping other cards.  While players can push their luck by aiming to construct long and elaborate trails, only closed loops that start and end at a matching campsite will score points.  Players also compete to fulfill &ldquo;First To&rdquo; and &ldquo;End Game&rdquo; goal cards.  After four rounds, the game ends and the player with the most points from closed loops and goal cards wins.\n\nThe Travel Edition of Trailblazers plays up to 4 players and includes the clamshell case and carabiner.  It also includes the Animals expansion.  There are two solo modes. Another version of this game exists as the \"Pocket Edition\" which features the same game content but with no expansions and instead comes in a tuck box with regular cards.\n\n(The Standard and Deluxe editions play up to 8 players, include the Animals and Adventures expansions, and have three solo modes.)\n\n",
+    "image": "https://cf.geekdo-images.com/99busfFgiBq1hxCQHIGAbA__original/img/aWUvs21pHe3M9IwMWbJQHlb6T00=/0x0/filters:format(png)/pic8828767.png",
+    "thumbnail": "https://cf.geekdo-images.com/99busfFgiBq1hxCQHIGAbA__small/img/qzodUq7n-H1eTPfg0oNByvXFEg8=/fit-in/200x150/filters:strip_icc()/pic8828767.png",
+    "link": "https://boardgamegeek.com/thing/370598",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.17657",
+    "averageWeight": "1.8",
+    "boardGameRank": "5401",
+    "mechanics": [
+      "Closed Drafting",
+      "End Game Bonuses",
+      "Layering",
+      "Network and Route Building",
+      "Push Your Luck",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Track Movement"
+    ],
+    "categories": [
+      "Adventure",
+      "Animals",
+      "Card Game",
+      "Print & Play"
+    ],
+    "designers": [
+      "Ryan Courtney"
+    ]
+  }
+}

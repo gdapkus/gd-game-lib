@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-12-03T19:22:55.031Z",
+  "gameDetails": {
+    "id": "455166",
+    "name": "Rudolph",
+    "type": "boardgame",
+    "description": "The most magical night of the year is approaching, and Santa Claus still hasn't decided which sleigh he'll use to deliver presents. Each player will compete to assemble the best team of reindeer: fast, strong, and shiny. But only one sleigh will be able to take flight and lead the most anticipated journey of Christmas.\n\nIn Rudolph, designed by Gabriel Buend&iacute;a and Nico Cardona with illustrations by Benji Santiago, games take place over ten frantic rounds. In each round, players reveal cards in the center of the table and must quickly choose one to add to their sleigh. Speed ​​and intuition will be key to forming powerful combinations and paving the way for the final scoring.\n\nAfter the final round, the Rudolph card will lead each sleigh, and the reindeer majorities will be distributed, awarding decisive points. With simple rules and a dynamic pace, Rudolph is perfect for opening a family evening, sharing with friends, or even becoming the star gift from a Secret Santa.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/nnbBIY4dRIvAHGyWh2gB4w__original/img/GBXM1d7AV0bhTeOxup5Ip8TvDp8=/0x0/filters:format(jpeg)/pic9125165.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nnbBIY4dRIvAHGyWh2gB4w__small/img/rWRu-YMwh72mnZwQYs4u9bPGfPE=/fit-in/200x150/filters:strip_icc()/pic9125165.jpg",
+    "link": "https://boardgamegeek.com/thing/455166",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "6.85",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "End Game Bonuses",
+      "Pattern Building"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Children's Game"
+    ],
+    "designers": [
+      "Nico Cardona",
+      "Gabriel Buendía Herrerías"
+    ]
+  }
+}

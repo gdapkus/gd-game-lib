@@ -1,1 +1,46 @@
-{"timestamp":"2024-11-12T21:56:31.413Z","gameDetails":{"id":"366013","name":"Heat: Pedal to the Metal","type":"boardgame","description":"Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!&#10;&#10;Drivers can compete in a single race or use the &quot;Championship System&quot; to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.&#10;&#10;&mdash;description from the publisher&#10;&#10;","image":"https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__original/img/iXU8a9WaVlwrkiEiOxWN06y9y5g=/0x0/filters:format(png)/pic6940449.png","thumbnail":"https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__thumb/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png","link":"https://boardgamegeek.com/thing/366013","minPlayers":"1","maxPlayers":"6","yearPublished":"2022","playingTime":"60","minPlayingTime":"30","maxPlayingTime":"60","bestAtCount":[5,6],"averageRating":"8.04809","averageWeight":"2.193","boardGameRank":"40","mechanics":["Catch the Leader","Deck, Bag, and Pool Building","Hand Management","Programmed Movement","Push Your Luck","Race","Simulation","Simultaneous Action Selection","Solo / Solitaire Game","Track Movement","Variable Set-up"],"categories":["Racing","Sports"],"designers":["Asger Harding Granerud","Daniel Skjold Pedersen"]}}
+{
+  "timestamp": "2025-12-04T00:28:12.881Z",
+  "gameDetails": {
+    "id": "366013",
+    "name": "Heat: Pedal to the Metal",
+    "type": "boardgame",
+    "description": "Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!\n\nDrivers can compete in a single race or use the \"Championship System\" to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__original/img/iXU8a9WaVlwrkiEiOxWN06y9y5g=/0x0/filters:format(png)/pic6940449.png",
+    "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__small/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+    "link": "https://boardgamegeek.com/thing/366013",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2022",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "8.00593",
+    "averageWeight": "2.2004",
+    "boardGameRank": "45",
+    "mechanics": [
+      "Catch the Leader",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Programmed Movement",
+      "Push Your Luck",
+      "Race",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "designers": [
+      "Asger Harding Granerud",
+      "Daniel Skjold Pedersen"
+    ]
+  }
+}

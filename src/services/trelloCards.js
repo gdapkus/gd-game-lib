@@ -227,7 +227,7 @@ async function createTrelloCard(listId, gameId, trelloToken) {
 				const collectionData = JSON.parse(fs.readFileSync(collectionFilePath, 'utf8'));
 
 				// Check if the user owns the game
-				const ownsGame = collectionData.games.some(game => game.id === gameId);
+				const ownsGame = collectionData.games.some(game => game.id === gameId && game.status.own);
 				if (ownsGame) {
 				// Add a label for each owner
 				const label = `Owned by ${user.name}`
