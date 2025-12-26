@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-12-26T20:00:26.555Z",
+  "gameDetails": {
+    "id": "385799",
+    "name": "Scram!",
+    "type": "boardgame",
+    "description": "After hiking a local trail, you and your partner have returned to a campsite completely ransacked by pesky critters. Team up to clear your campground of critters before your neighbors. Scram! is a fun & fast team based card game that plays 1 vs 2, 2 vs 2 & 3 vs 3!\n\nEach animal has a different card value, and many have a special action. Be careful, there may be critters who are still hiding and waiting for the right moment to present themselves!\n\nCall out &ldquo;Scram!\" when you think your team has the fewest animals in your campsite; but will your team be able to toss out the troublesome trespassers before your neighbors?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/fk2wYp7_ZcLJ6ogWvB2-1w__original/img/xUzRyWOYXUjNTIfMfHxuEwlG348=/0x0/filters:format(png)/pic7477795.png",
+    "thumbnail": "https://cf.geekdo-images.com/fk2wYp7_ZcLJ6ogWvB2-1w__small/img/6DIrOU2tvdhFmNRKxBfLF93Gbis=/fit-in/200x150/filters:strip_icc()/pic7477795.png",
+    "link": "https://boardgamegeek.com/thing/385799",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2023",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      6
+    ],
+    "averageRating": "6.9609",
+    "averageWeight": "1.4444",
+    "boardGameRank": "5443",
+    "mechanics": [
+      "Hand Management",
+      "Memory",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "Ted Alspach"
+    ]
+  }
+}

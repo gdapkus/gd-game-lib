@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-12-26T19:59:54.035Z",
+  "gameDetails": {
+    "id": "417064",
+    "name": "Botany: Perilous Perfumes",
+    "type": "boardgameexpansion",
+    "description": "Poisonous, Carnivorous, Parasitic, and Bizarre Plants! Even more opportunities for sabotage and new plants to collect that have developed unique survival abilities.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/5u5FSmS_xeOUCLjsHjGgjA__original/img/doWGuH_qMnyHdtEaPoJiPXmX3C0=/0x0/filters:format(jpeg)/pic8117006.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5u5FSmS_xeOUCLjsHjGgjA__small/img/cI0wddxm7l4HPIOyDWirdulArek=/fit-in/200x150/filters:strip_icc()/pic8117006.jpg",
+    "link": "https://boardgamegeek.com/thing/417064",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.76364",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Events",
+      "Investment"
+    ],
+    "categories": [
+      "Adventure",
+      "Educational",
+      "Expansion for Base-game",
+      "Humor",
+      "Travel"
+    ],
+    "designers": [
+      "Amy Droz",
+      "Dusty Droz"
+    ]
+  }
+}

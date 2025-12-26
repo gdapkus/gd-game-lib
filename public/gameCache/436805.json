@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-12-26T20:05:23.495Z",
+  "gameDetails": {
+    "id": "436805",
+    "name": "Monopoly: Buy Everything",
+    "type": "boardgameexpansion",
+    "description": "Mr. Monopoly has opened the Sale Vault, and there&rsquo;s more for sale than ever before! The Monopoly Buy Everything Expansion brings a fresh twist to the Monopoly game and takes half the time to play. Just add this expansion to the classic Monopoly gameboard, and everything is for sale. (Classic Monopoly game required to play.\n\nPlayers can buy every space (including Go to Jail!), and they can roll the Buy die to purchase more ways to win and abilities from the rotating Sale Vault. When all properties are owned, the richest player wins &mdash; or a player can win instantly by completing an instant-win Sale card!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/cyrsIDb_ixQbYOpF-NX5XQ__original/img/LdHsO-fr31W6FCIff0rdBfQxN4Y=/0x0/filters:format(jpeg)/pic8638280.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/cyrsIDb_ixQbYOpF-NX5XQ__small/img/H5Ohx8BzgmVTAPGjYBzPgqB7xbg=/fit-in/200x150/filters:strip_icc()/pic8638280.jpg",
+    "link": "https://boardgamegeek.com/thing/436805",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": null,
+    "averageRating": "7.23333",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Economic"
+    ],
+    "designers": [
+      "Joe Bradford",
+      "William Foster"
+    ]
+  }
+}

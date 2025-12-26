@@ -1,15 +1,197 @@
 {
-  "timestamp": "2025-12-04T00:13:09.493Z",
+  "timestamp": "2025-12-26T20:02:51.988Z",
   "games": [
     {
-      "id": "366013",
-      "name": "Heat: Pedal to the Metal",
-      "yearPublished": "2022",
+      "id": "383010",
+      "name": "Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic",
+      "yearPublished": "2024",
       "type": "boardgame",
-      "postdate": "2023-10-05 16:21:31",
-      "lastmodified": "2025-12-03 18:12:03",
-      "myrating": 8,
-      "numplays": "14",
+      "postdate": "2025-12-26 10:37:57",
+      "lastmodified": "2025-12-26 10:37:57",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/xzG46GKyfJM2HEhZVQ_K9Q__small/img/_B8rs7Koi0Zz_9AZny2WPDpOmAc=/fit-in/200x150/filters:strip_icc()/pic7419605.jpg",
+      "link": "https://boardgamegeek.com/thing/383010",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.63151",
+      "averageWeight": "2.7143",
+      "boardGameRank": "1792",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Legacy Game",
+        "Push Your Luck",
+        "Scenario / Mission / Campaign Game"
+      ],
+      "categories": [
+        "Adventure",
+        "Fantasy",
+        "Miniatures"
+      ],
+      "designers": [
+        "Jay E. Treat, III"
+      ]
+    },
+    {
+      "id": "253170",
+      "name": "5-Minute Dungeon: Curses! Foiled Again!",
+      "yearPublished": "2018",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-26 10:37:24",
+      "lastmodified": "2025-12-26 10:37:25",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/aNf7qtwV7SuZOpW8kwXNJg__small/img/WYOCWWGHozJn-gNVLB51nytz3VI=/fit-in/200x150/filters:strip_icc()/pic7472626.jpg",
+      "link": "https://boardgamegeek.com/thing/253170",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 5",
+      "playingTime": "30",
+      "minPlayingTime": "5",
+      "maxPlayingTime": "30",
+      "averageRating": "7.2863",
+      "averageWeight": "1.3158",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Real-time"
+      ],
+      "designers": [
+        "Connor Reid"
+      ]
+    },
+    {
+      "id": "424784",
+      "name": "Arkham Horror: Lovecraft Letter",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-26 10:35:44",
+      "lastmodified": "2025-12-26 10:35:44",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/hLfQAtkN8m06_L3xAtqXEQ__small/img/noJhLlB0U0_TVyBj_pQRm07qxWI=/fit-in/200x150/filters:strip_icc()/pic8544768.png",
+      "link": "https://boardgamegeek.com/thing/424784",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "20",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "20",
+      "averageRating": "7.44891",
+      "averageWeight": "1.4211",
+      "boardGameRank": "3170",
+      "mechanics": [
+        "Hand Management",
+        "Player Elimination",
+        "Score-and-Reset Game",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Horror"
+      ],
+      "designers": [
+        "Seiji Kanai"
+      ]
+    },
+    {
+      "id": "440540",
+      "name": "Take Time",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-10-25 14:03:01",
+      "lastmodified": "2025-12-26 10:35:12",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/h6Bg4PZkapMB-fYfugoBrw__small/img/VZJFm572UpCvVpityT6iywOmlQU=/fit-in/200x150/filters:strip_icc()/pic8751380.png",
+      "link": "https://boardgamegeek.com/thing/440540",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.77547",
+      "averageWeight": "1.6667",
+      "boardGameRank": "3904",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Scenario / Mission / Campaign Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Puzzle"
+      ],
+      "designers": [
+        "Alexi Piovesan",
+        "Julien Prothière"
+      ]
+    },
+    {
+      "id": "434906",
+      "name": "Tag Team",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-11-26 15:38:12",
+      "lastmodified": "2025-12-26 10:35:06",
+      "myrating": null,
+      "numplays": "3",
       "status": {
         "own": false,
         "prevowned": false,
@@ -17,41 +199,175 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__thumb/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
-      "link": "https://boardgamegeek.com/thing/366013",
-      "minPlayers": "1",
-      "maxPlayers": "6",
-      "bestAtCount": "5, 6",
-      "playingTime": "60",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "60",
-      "averageRating": "8.04809",
-      "averageWeight": "2.193",
-      "boardGameRank": "40",
+      "thumbnail": "https://cf.geekdo-images.com/sLSlzWRe8Ixnksqawkzb3Q__small/img/O9Kg90i8kSi8N2ndrOKXaTTrQXE=/fit-in/200x150/filters:strip_icc()/pic8805857.jpg",
+      "link": "https://boardgamegeek.com/thing/434906",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "10",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "10",
+      "averageRating": "7.75874",
+      "averageWeight": "2.0196",
+      "boardGameRank": "1737",
       "mechanics": [
-        "Catch the Leader",
+        "Card Play Conflict Resolution",
         "Deck, Bag, and Pool Building",
         "Hand Management",
-        "Programmed Movement",
-        "Push Your Luck",
-        "Race",
-        "Simulation",
-        "Simultaneous Action Selection",
-        "Solo / Solitaire Game",
-        "Track Movement",
-        "Variable Set-up"
+        "Take That",
+        "Variable Player Powers"
       ],
       "categories": [
-        "Racing",
-        "Sports"
+        "Card Game",
+        "Fantasy",
+        "Fighting"
       ],
       "designers": [
-        "Asger Harding Granerud",
-        "Daniel Skjold Pedersen"
+        "Gricha German",
+        "Corentin Lebrat"
+      ]
+    },
+    {
+      "id": "396545",
+      "name": "Sea Salt & Paper: Extra Salt",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-11-26 15:38:46",
+      "lastmodified": "2025-12-26 10:35:00",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__thumb/img/qGTssy-U4rf5zTilJPd3nl3c1Nk=/fit-in/200x150/filters:strip_icc()/pic7731597.jpg",
+      "link": "https://boardgamegeek.com/thing/396545",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.79959",
+      "averageWeight": "1.2593",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Melding and Splaying",
+        "Push Your Luck",
+        "Set Collection"
+      ],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Bruno Cathala",
+        "Théo Rivière"
+      ]
+    },
+    {
+      "id": "442250",
+      "name": "Sea Salt & Paper: Extra Pepper",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-11-26 15:38:42",
+      "lastmodified": "2025-12-26 10:34:56",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__small/img/uQwYaaNlYpC51BLyuL95u5FhYKo=/fit-in/200x150/filters:strip_icc()/pic8822830.png",
+      "link": "https://boardgamegeek.com/thing/442250",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 4",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "8.0266",
+      "averageWeight": "1.3333",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Events",
+        "Hand Management",
+        "Melding and Splaying",
+        "Push Your Luck",
+        "Set Collection"
+      ],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Bruno Cathala",
+        "Théo Rivière"
+      ]
+    },
+    {
+      "id": "367220",
+      "name": "Sea Salt & Paper",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2025-10-25 14:20:55",
+      "lastmodified": "2025-12-26 10:34:51",
+      "myrating": null,
+      "numplays": "5",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__small/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
+      "link": "https://boardgamegeek.com/thing/367220",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.50368",
+      "averageWeight": "1.4778",
+      "boardGameRank": "270",
+      "mechanics": [
+        "Hand Management",
+        "Open Drafting",
+        "Push Your Luck",
+        "Score-and-Reset Game",
+        "Set Collection",
+        "Sudden Death Ending"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game"
+      ],
+      "designers": [
+        "Bruno Cathala",
+        "Théo Rivière"
       ]
     },
     {
@@ -60,7 +376,7 @@
       "yearPublished": "2025",
       "type": "boardgame",
       "postdate": "2025-12-03 13:18:11",
-      "lastmodified": "2025-12-03 13:18:11",
+      "lastmodified": "2025-12-26 10:34:46",
       "myrating": null,
       "numplays": "0",
       "status": {
@@ -72,7 +388,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "thumbnail": "https://cf.geekdo-images.com/nnbBIY4dRIvAHGyWh2gB4w__small/img/rWRu-YMwh72mnZwQYs4u9bPGfPE=/fit-in/200x150/filters:strip_icc()/pic9125165.jpg",
       "link": "https://boardgamegeek.com/thing/455166",
@@ -100,16 +416,16 @@
       ]
     },
     {
-      "id": "440606",
-      "name": "Compile: Main 2",
-      "yearPublished": "2025",
+      "id": "371183",
+      "name": "JOYRIDE: Survival of the Fastest",
+      "yearPublished": "2024",
       "type": "boardgame",
-      "postdate": "2025-12-03 13:11:28",
-      "lastmodified": "2025-12-03 13:11:28",
+      "postdate": "2025-10-25 14:22:49",
+      "lastmodified": "2025-12-26 10:34:32",
       "myrating": null,
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -117,7 +433,101 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ywWVqGH03eEOWFaRPtmlAg__small/img/zSIuSMwVuw0ZnLBCow6a71SBeHM=/fit-in/200x150/filters:strip_icc()/pic7186560.png",
+      "link": "https://boardgamegeek.com/thing/371183",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.31658",
+      "averageWeight": "2.2381",
+      "boardGameRank": "3176",
+      "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Push Your Luck",
+        "Race",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Racing"
+      ],
+      "designers": [
+        "Duncan Molloy",
+        "Pete Ward"
+      ]
+    },
+    {
+      "id": "399318",
+      "name": "JOYRIDE DUEL: Next Gen",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-10-31 05:02:40",
+      "lastmodified": "2025-12-26 10:34:24",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/00yYWNtiL4-RkqDmRSao_A__small/img/EPZxUVHGfMbzNKSjo_CFOH-u-GI=/fit-in/200x150/filters:strip_icc()/pic8244594.jpg",
+      "link": "https://boardgamegeek.com/thing/399318",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "40",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "40",
+      "averageRating": "7.67843",
+      "averageWeight": "2",
+      "boardGameRank": "9621",
+      "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Race",
+        "Turn Order: Stat-Based",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Racing"
+      ],
+      "designers": [
+        "Duncan Molloy",
+        "Pete Ward"
+      ]
+    },
+    {
+      "id": "440606",
+      "name": "Compile: Main 2",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-03 13:11:28",
+      "lastmodified": "2025-12-26 10:34:16",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
       },
       "thumbnail": "https://cf.geekdo-images.com/NlEJZ82WjMzIdPyEcQJiUQ__small/img/4SPm5ULu1rmxaQ8nO_i7ibJqyrM=/fit-in/200x150/filters:strip_icc()/pic8883907.jpg",
       "link": "https://boardgamegeek.com/thing/440606",
@@ -148,105 +558,114 @@
       ]
     },
     {
-      "id": "442250",
-      "name": "Sea Salt & Paper: Extra Pepper",
-      "yearPublished": "2025",
-      "type": "boardgameexpansion",
-      "postdate": "2025-11-26 15:38:42",
-      "lastmodified": "2025-12-03 13:06:59",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__small/img/uQwYaaNlYpC51BLyuL95u5FhYKo=/fit-in/200x150/filters:strip_icc()/pic8822830.png",
-      "link": "https://boardgamegeek.com/thing/442250",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "2, 4",
-      "playingTime": "45",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "45",
-      "averageRating": "8.0266",
-      "averageWeight": "1.3333",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Events",
-        "Hand Management",
-        "Melding and Splaying",
-        "Push Your Luck",
-        "Set Collection"
-      ],
-      "categories": [
-        "Expansion for Base-game"
-      ],
-      "designers": [
-        "Bruno Cathala",
-        "Théo Rivière"
-      ]
-    },
-    {
-      "id": "396545",
-      "name": "Sea Salt & Paper: Extra Salt",
-      "yearPublished": "2023",
-      "type": "boardgameexpansion",
-      "postdate": "2025-11-26 15:38:46",
-      "lastmodified": "2025-12-03 13:06:53",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__thumb/img/qGTssy-U4rf5zTilJPd3nl3c1Nk=/fit-in/200x150/filters:strip_icc()/pic7731597.jpg",
-      "link": "https://boardgamegeek.com/thing/396545",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "2",
-      "playingTime": "45",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "45",
-      "averageRating": "7.79959",
-      "averageWeight": "1.2593",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Hand Management",
-        "Melding and Splaying",
-        "Push Your Luck",
-        "Set Collection"
-      ],
-      "categories": [
-        "Expansion for Base-game"
-      ],
-      "designers": [
-        "Bruno Cathala",
-        "Théo Rivière"
-      ]
-    },
-    {
-      "id": "367220",
-      "name": "Sea Salt & Paper",
-      "yearPublished": "2022",
+      "id": "399941",
+      "name": "River of Gold",
+      "yearPublished": "2024",
       "type": "boardgame",
-      "postdate": "2025-10-25 14:20:55",
-      "lastmodified": "2025-12-03 13:06:48",
+      "postdate": "2025-12-16 14:02:34",
+      "lastmodified": "2025-12-16 14:02:34",
       "myrating": null,
-      "numplays": "5",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__small/img/mrk3uMkr4tmCWUmqs0BR4cAycEo=/fit-in/200x150/filters:strip_icc()/pic7697889.jpg",
+      "link": "https://boardgamegeek.com/thing/399941",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.55903",
+      "averageWeight": "2.4737",
+      "boardGameRank": "908",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Contracts",
+        "Dice Rolling",
+        "Die Icon Resolution",
+        "End Game Bonuses",
+        "Market",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Ownership",
+        "Set Collection",
+        "Track Movement"
+      ],
+      "categories": [
+        "Economic",
+        "Fantasy",
+        "Travel"
+      ],
+      "designers": [
+        "Keith Piggott"
+      ]
+    },
+    {
+      "id": "418858",
+      "name": "Resafa",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-10-02 19:47:14",
+      "lastmodified": "2025-12-16 12:52:55",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/aTDLIq7UfNrcORpwbU61UA__small/img/0-tVIFJeyTO5erNPcU9T1IaGKt8=/fit-in/200x150/filters:strip_icc()/pic8361340.jpg",
+      "link": "https://boardgamegeek.com/thing/418858",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "150",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "150",
+      "averageRating": "7.49293",
+      "averageWeight": "3.5714",
+      "boardGameRank": "3667",
+      "mechanics": [
+        "Hand Management",
+        "Multi-Use Cards",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Ancient",
+        "Transportation",
+        "Travel"
+      ],
+      "designers": [
+        "Vladimír Suchý"
+      ]
+    },
+    {
+      "id": "375459",
+      "name": "Speakeasy",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2024-09-13 11:38:22",
+      "lastmodified": "2025-12-08 18:12:52",
+      "myrating": null,
+      "numplays": "0",
       "status": {
         "own": false,
         "prevowned": false,
@@ -256,44 +675,89 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__thumb/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
-      "link": "https://boardgamegeek.com/thing/367220",
-      "minPlayers": "2",
+      "thumbnail": "https://cf.geekdo-images.com/Y7vIlh-m_Ugnv0jrUuOW3g__small/img/pTIdvbosIWlLSxorWRMWkUkeSj8=/fit-in/200x150/filters:strip_icc()/pic8165052.jpg",
+      "link": "https://boardgamegeek.com/thing/375459",
+      "minPlayers": "1",
       "maxPlayers": "4",
-      "bestAtCount": "2",
-      "playingTime": "45",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "45",
-      "averageRating": "7.48962",
-      "averageWeight": "1.4493",
-      "boardGameRank": "335",
+      "bestAtCount": "3",
+      "playingTime": "180",
+      "minPlayingTime": "50",
+      "maxPlayingTime": "180",
+      "averageRating": "8.41006",
+      "averageWeight": "4.2553",
+      "boardGameRank": "2283",
       "mechanics": [
+        "Area Majority / Influence",
         "Hand Management",
-        "Open Drafting",
-        "Push Your Luck",
-        "Set Collection"
+        "Pick-up and Deliver",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Economic",
+        "Industry / Manufacturing",
+        "Mafia",
+        "Territory Building"
+      ],
+      "designers": [
+        "Vital Lacerda"
+      ]
+    },
+    {
+      "id": "453893",
+      "name": "Collect!",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-04 14:11:19",
+      "lastmodified": "2025-12-04 14:11:19",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/4BOrkLzSy1Oquo3VwaToiA__small/img/IOrvq7TpHpu41mStx10f0C_xICw=/fit-in/200x150/filters:strip_icc()/pic9091458.png",
+      "link": "https://boardgamegeek.com/thing/453893",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "3, 4",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "6.80488",
+      "averageWeight": "1.375",
+      "boardGameRank": "10284",
+      "mechanics": [
+        "Set Collection",
+        "Take That"
       ],
       "categories": [
         "Animals",
         "Card Game",
-        "Nautical"
+        "Children's Game"
       ],
       "designers": [
-        "Bruno Cathala",
-        "Théo Rivière"
+        "Jérémy Ducret",
+        "Johannes Goupy"
       ]
     },
     {
-      "id": "434906",
-      "name": "Tag Team",
-      "yearPublished": "2025",
+      "id": "366013",
+      "name": "Heat: Pedal to the Metal",
+      "yearPublished": "2022",
       "type": "boardgame",
-      "postdate": "2025-11-26 15:38:12",
-      "lastmodified": "2025-12-03 11:54:55",
-      "myrating": null,
-      "numplays": "0",
+      "postdate": "2023-10-05 16:21:31",
+      "lastmodified": "2025-12-03 18:12:03",
+      "myrating": 8,
+      "numplays": "14",
       "status": {
         "own": false,
         "prevowned": false,
@@ -301,36 +765,41 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/sLSlzWRe8Ixnksqawkzb3Q__small/img/O9Kg90i8kSi8N2ndrOKXaTTrQXE=/fit-in/200x150/filters:strip_icc()/pic8805857.jpg",
-      "link": "https://boardgamegeek.com/thing/434906",
-      "minPlayers": "2",
-      "maxPlayers": "2",
-      "bestAtCount": "2",
-      "playingTime": "10",
-      "minPlayingTime": "10",
-      "maxPlayingTime": "10",
-      "averageRating": "7.75874",
-      "averageWeight": "2.0196",
-      "boardGameRank": "1737",
+      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__small/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+      "link": "https://boardgamegeek.com/thing/366013",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "5, 6",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "8.00593",
+      "averageWeight": "2.2004",
+      "boardGameRank": "45",
       "mechanics": [
-        "Card Play Conflict Resolution",
+        "Catch the Leader",
         "Deck, Bag, and Pool Building",
         "Hand Management",
-        "Take That",
-        "Variable Player Powers"
+        "Programmed Movement",
+        "Push Your Luck",
+        "Race",
+        "Simulation",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game",
+        "Track Movement",
+        "Variable Set-up"
       ],
       "categories": [
-        "Card Game",
-        "Fantasy",
-        "Fighting"
+        "Racing",
+        "Sports"
       ],
       "designers": [
-        "Gricha German",
-        "Corentin Lebrat"
+        "Asger Harding Granerud",
+        "Daniel Skjold Pedersen"
       ]
     },
     {
@@ -435,100 +904,6 @@
         "Edgar Cayce",
         "Harry Gavitt",
         "George S. Parker"
-      ]
-    },
-    {
-      "id": "375459",
-      "name": "Speakeasy",
-      "yearPublished": "2025",
-      "type": "boardgame",
-      "postdate": "2024-09-13 11:38:22",
-      "lastmodified": "2025-11-22 01:41:42",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/Y7vIlh-m_Ugnv0jrUuOW3g__small/img/pTIdvbosIWlLSxorWRMWkUkeSj8=/fit-in/200x150/filters:strip_icc()/pic8165052.jpg",
-      "link": "https://boardgamegeek.com/thing/375459",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "180",
-      "minPlayingTime": "50",
-      "maxPlayingTime": "180",
-      "averageRating": "8.41006",
-      "averageWeight": "4.2553",
-      "boardGameRank": "2283",
-      "mechanics": [
-        "Area Majority / Influence",
-        "Hand Management",
-        "Pick-up and Deliver",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Economic",
-        "Industry / Manufacturing",
-        "Mafia",
-        "Territory Building"
-      ],
-      "designers": [
-        "Vital Lacerda"
-      ]
-    },
-    {
-      "id": "371183",
-      "name": "JOYRIDE: Survival of the Fastest",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2025-10-25 14:22:49",
-      "lastmodified": "2025-11-20 19:52:22",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/ywWVqGH03eEOWFaRPtmlAg__small/img/zSIuSMwVuw0ZnLBCow6a71SBeHM=/fit-in/200x150/filters:strip_icc()/pic7186560.png",
-      "link": "https://boardgamegeek.com/thing/371183",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3, 4",
-      "playingTime": "60",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "60",
-      "averageRating": "7.31658",
-      "averageWeight": "2.2381",
-      "boardGameRank": "3176",
-      "mechanics": [
-        "Dice Rolling",
-        "Hexagon Grid",
-        "Push Your Luck",
-        "Race",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Racing"
-      ],
-      "designers": [
-        "Duncan Molloy",
-        "Pete Ward"
       ]
     },
     {
@@ -2747,51 +3122,6 @@
       ]
     },
     {
-      "id": "440540",
-      "name": "Take Time",
-      "yearPublished": "2025",
-      "type": "boardgame",
-      "postdate": "2025-10-25 14:03:01",
-      "lastmodified": "2025-11-02 01:31:23",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": true,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/h6Bg4PZkapMB-fYfugoBrw__small/img/VZJFm572UpCvVpityT6iywOmlQU=/fit-in/200x150/filters:strip_icc()/pic8751380.png",
-      "link": "https://boardgamegeek.com/thing/440540",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "30",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "30",
-      "averageRating": "7.77547",
-      "averageWeight": "1.6667",
-      "boardGameRank": "3904",
-      "mechanics": [
-        "Communication Limits",
-        "Cooperative Game",
-        "Scenario / Mission / Campaign Game"
-      ],
-      "categories": [
-        "Card Game",
-        "Puzzle"
-      ],
-      "designers": [
-        "Alexi Piovesan",
-        "Julien Prothière"
-      ]
-    },
-    {
       "id": "424621",
       "name": "Joyride: Unleashed",
       "yearPublished": "2025",
@@ -2879,53 +3209,6 @@
       ],
       "categories": [
         "Expansion for Base-game",
-        "Racing"
-      ],
-      "designers": [
-        "Duncan Molloy",
-        "Pete Ward"
-      ]
-    },
-    {
-      "id": "399318",
-      "name": "JOYRIDE DUEL: Next Gen",
-      "yearPublished": "2025",
-      "type": "boardgame",
-      "postdate": "2025-10-31 05:02:40",
-      "lastmodified": "2025-11-02 01:30:03",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": true,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/00yYWNtiL4-RkqDmRSao_A__small/img/EPZxUVHGfMbzNKSjo_CFOH-u-GI=/fit-in/200x150/filters:strip_icc()/pic8244594.jpg",
-      "link": "https://boardgamegeek.com/thing/399318",
-      "minPlayers": "2",
-      "maxPlayers": "2",
-      "bestAtCount": "2",
-      "playingTime": "40",
-      "minPlayingTime": "20",
-      "maxPlayingTime": "40",
-      "averageRating": "7.67843",
-      "averageWeight": "2",
-      "boardGameRank": "9621",
-      "mechanics": [
-        "Dice Rolling",
-        "Push Your Luck",
-        "Race",
-        "Turn Order: Stat-Based",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
         "Racing"
       ],
       "designers": [
@@ -7955,53 +8238,6 @@
       ],
       "designers": [
         "Stan Kordonskiy"
-      ]
-    },
-    {
-      "id": "418858",
-      "name": "Resafa",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2024-10-02 19:47:14",
-      "lastmodified": "2024-10-02 19:47:14",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/aTDLIq7UfNrcORpwbU61UA__small/img/0-tVIFJeyTO5erNPcU9T1IaGKt8=/fit-in/200x150/filters:strip_icc()/pic8361340.jpg",
-      "link": "https://boardgamegeek.com/thing/418858",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "150",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "150",
-      "averageRating": "7.49293",
-      "averageWeight": "3.5714",
-      "boardGameRank": "3667",
-      "mechanics": [
-        "Hand Management",
-        "Multi-Use Cards",
-        "Network and Route Building",
-        "Pick-up and Deliver",
-        "Tile Placement"
-      ],
-      "categories": [
-        "Ancient",
-        "Transportation",
-        "Travel"
-      ],
-      "designers": [
-        "Vladimír Suchý"
       ]
     },
     {

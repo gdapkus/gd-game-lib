@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-12-26T19:56:59.994Z",
+  "gameDetails": {
+    "id": "253170",
+    "name": "5-Minute Dungeon: Curses! Foiled Again!",
+    "type": "boardgameexpansion",
+    "description": "In Curses! Foiled Again! the Dungeon Master has unearthed a book of magical curses, and unleashed terrifying new threats to haunt the heroes.\n\nCurses! Foiled Again! is an expansion for 5-Minute Dungeon that brings new challenges and abilities to the party in their quest to defeat the Dungeon Master. The expansion adds Boss Cards to the Dungeon, two new heroes (Druid and Shaman), and powerful Artifacts that can be activated once per dungeon to help the party. This expansion also adds support for up to 6 players.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/aNf7qtwV7SuZOpW8kwXNJg__original/img/KNMsRvsfY2P58-QriTxz646Ar-U=/0x0/filters:format(jpeg)/pic7472626.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aNf7qtwV7SuZOpW8kwXNJg__small/img/WYOCWWGHozJn-gNVLB51nytz3VI=/fit-in/200x150/filters:strip_icc()/pic7472626.jpg",
+    "link": "https://boardgamegeek.com/thing/253170",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2018",
+    "playingTime": "30",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.2863",
+    "averageWeight": "1.3158",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Real-time"
+    ],
+    "designers": [
+      "Connor Reid"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-12-26T19:57:48.574Z",
+  "gameDetails": {
+    "id": "282308",
+    "name": "Arkham Horror (Third Edition): Dead of Night",
+    "type": "boardgameexpansion",
+    "description": "Kate Winthrop pulled the collar of her long coat tight against her neck to ward o the creeping chill of a damp autumn night. With a squeal of tires, a long black car raced by, pursued closely by a police wagon. Kate pressed herself up against the iron railing of the bridge over the Miskatonic to keep clear of the chaos.\n\nShe&rsquo;d read in the papers about the recent upsurge in violent crime and felt the increasing tension all around the city. As the nights grew longer, she noticed a deeper darkness lurking in the shadows around Arkham, and the instruments in her research lab at the university were responding to some influence that she couldn&rsquo;t observe.\n\nSomething was coming.\n\nStep into a world of horror with Dead of Night, a new expansion for Arkham Horror Third Edition!\n\nIn Dead of Night, investigators explore the facets of Arkham best left unseen in the light of day. Organized crime builds a strong foothold in the city, secret cults labor for a dark master, an alien moon hangs overhead, and unknowable horrors stalk the night. This expansion includes two all-new scenarios, new encounters for every location in Arkham, new monsters and anomalies, and four new investigators to face these fresh horrors, armed with new spells, items and allies.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/s1x6x8orRLGXOQxLSYz3LA__original/img/IHXRvwrcXaybnBqsHLpJhkqRu6U=/0x0/filters:format(jpeg)/pic4819011.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/s1x6x8orRLGXOQxLSYz3LA__small/img/jE40ItFzEC5swuKp-_3fzjfFtVo=/fit-in/200x150/filters:strip_icc()/pic4819011.jpg",
+    "link": "https://boardgamegeek.com/thing/282308",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2019",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "8.26934",
+    "averageWeight": "3.4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Fighting",
+      "Horror",
+      "Novel-based"
+    ],
+    "designers": [
+      "Daniel Clark (I)",
+      "Philip D. Henry"
+    ]
+  }
+}

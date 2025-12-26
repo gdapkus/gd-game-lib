@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-12-26T20:00:31.907Z",
+  "gameDetails": {
+    "id": "344258",
+    "name": "That Time You Killed Me",
+    "type": "boardgame",
+    "description": "You and your opponent are rival time travelers trying to erase each other from history. To prove you are the one true inventor of time travel, you must use your invention to find your enemy in time and murder them &mdash; before they get you!\n\nUnfortunately, since your enemy has strewn many copies of themself across the timeline, you may have to do the terrible deed many, many times before it sticks. Just make sure you don't get erased first!\n\nThat Time You Killed Me is an abstract narrative game of time and murder that introduces new scenarios with unique rules and components as you play. As with any game about mucking about across time, you must play through this content in a strict, unalterable order.\n\nTo set up, place three game boards in a row to represent past, present, and future. Each player starts with a player piece in the same location on each 4x4 board, with the start player having their focus token in the past while the other has it in the future.\n\nOn a turn, choose a single copy of yourself on the board where your focus token is located, then take two actions with this copy, with actions being movement to an adjacent orthogonal space, time travel forward to the next board (travel from the past to the future is not allowed), or time travel back to the previous board, leaving a copy of yourself in the current location when you do. Sure, you traveled to the past, but if you stick around long enough, you'll be right back where you started, so now you're there, too! At the end of your turn, move your focus token to a different board.\n\nUnder the basic rules, you murder a copy of your opponent by pushing them into the wall of the game board. You have a limited number of copies of yourself in reserve, and murdered copies don't return to your reserve because that would be gross. If you run out of copies, you can no longer travel to the past since you can't leave a copy of yourself behind.\n\nIf on your turn, your opponent has copies of themselves on only one board, you win!\n\nPlay through four chapters of escalating difficulty, adding more wild time-travel shenanigans and unlocking more content as you master the game!\n\n",
+    "image": "https://cf.geekdo-images.com/tcupSjoLMn9sKbnGxQU9Kg__original/img/1y5pSKExuTjPExQzWf99e_xbwPM=/0x0/filters:format(jpeg)/pic6326925.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tcupSjoLMn9sKbnGxQU9Kg__small/img/aQGuKmGqMS8WWfWA280XJJ2jiI4=/fit-in/200x150/filters:strip_icc()/pic6326925.jpg",
+    "link": "https://boardgamegeek.com/thing/344258",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2021",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.35508",
+    "averageWeight": "2.3396",
+    "boardGameRank": "1466",
+    "mechanics": [
+      "Grid Movement",
+      "King of the Hill",
+      "Multiple Maps",
+      "Scenario / Mission / Campaign Game",
+      "Slide / Push",
+      "Square Grid",
+      "Sudden Death Ending"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Peter C. Hayward"
+    ]
+  }
+}

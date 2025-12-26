@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-12-26T19:57:10.052Z",
+  "gameDetails": {
+    "id": "453893",
+    "name": "Collect!",
+    "type": "boardgame",
+    "description": "The king is gone, and the jungle is in chaos! With no one in charge, every animal is ready to claw, crawl, or chomp their way to the top. Only one can wear the crown; will it be you?\n\nIn Collect!, 2&ndash;5 players compete to form Alliances of animals in a fast-paced race for the crown. On your turn, draw and place cards into your row, aiming to line up four of the same animal. But watch out! Every animal comes with a sneaky special ability that can change the balance quickly. The Monkey might swap cards around, the Crab can crawl cards into place, the Crocodile will chomp away your plans, and the Chameleon...well, it&rsquo;s whatever it wants to be today!\n\nOutsmart your rivals, time your plays, and use a bit of luck to complete your Alliance and claim the crown before anyone else does. Win two Half Crowns, or go straight for the Full Crown to prove you&rsquo;re the rightful ruler of the jungle.\nCollect! is quick to learn, plays in about 15 minutes, and is packed with wild twists. With 8 unique animals and plenty of replayability, it&rsquo;s a colorful card game that&rsquo;s easy to take anywhere, and impossible to put down.\n\nGame Features:\nFast-paced card play\nUnique animal powers\nPlays in 15 minutes\nPortable and colorful\n\n",
+    "image": "https://cf.geekdo-images.com/4BOrkLzSy1Oquo3VwaToiA__original/img/r-vY54792Z8w1FpLx6_7UyzLLpk=/0x0/filters:format(png)/pic9091458.png",
+    "thumbnail": "https://cf.geekdo-images.com/4BOrkLzSy1Oquo3VwaToiA__small/img/IOrvq7TpHpu41mStx10f0C_xICw=/fit-in/200x150/filters:strip_icc()/pic9091458.png",
+    "link": "https://boardgamegeek.com/thing/453893",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.80488",
+    "averageWeight": "1.375",
+    "boardGameRank": "10284",
+    "mechanics": [
+      "Set Collection",
+      "Take That"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Children's Game"
+    ],
+    "designers": [
+      "Jérémy Ducret",
+      "Johannes Goupy"
+    ]
+  }
+}

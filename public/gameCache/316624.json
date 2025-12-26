@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-12-26T20:00:29.327Z",
+  "gameDetails": {
+    "id": "316624",
+    "name": "Stationfall",
+    "type": "boardgame",
+    "description": "What is Stationfall? Well, imagine a dozen or so random humans, robots, and none-of-the-aboves, each with their own abilities, goals, and secret relationships, have been turned loose on a space station that is going to be incinerated upon its inevitable reentry into Earth's atmosphere. You are one of these characters, and the others are collaborators you have on hand ready to assist you in achieving your goals. But choose them wisely, as any one of them could secretly be another player waiting to betray you! \n\n\nStationfall is a box full of creative solutions, but that box is going to morph, twist, and grow teeth over the course of play. Your best turns will exploit the unique tactical freedom of being a secret conspiracy, as well as deductions about your opponents&rsquo; identities and motives. Stationfall is messy, intricate, and full of dangerous variables.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/eUiju5SqZbkNt8gnEofrTw__original/img/Pq-vuK7-kGMs_pcZdFIeldHNLlU=/0x0/filters:format(png)/pic6035127.png",
+    "thumbnail": "https://cf.geekdo-images.com/eUiju5SqZbkNt8gnEofrTw__small/img/zNkmLNyeXJGOY24FeAAf4U67ejU=/fit-in/200x150/filters:strip_icc()/pic6035127.png",
+    "link": "https://boardgamegeek.com/thing/316624",
+    "minPlayers": "1",
+    "maxPlayers": "9",
+    "yearPublished": "2023",
+    "playingTime": "150",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.72346",
+    "averageWeight": "3.9534",
+    "boardGameRank": "808",
+    "mechanics": [
+      "Action Points",
+      "Deduction",
+      "Hidden Roles",
+      "Hidden Victory Points",
+      "Pick-up and Deliver",
+      "Roles with Asymmetric Information",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Deduction",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Matt Eklund"
+    ]
+  }
+}

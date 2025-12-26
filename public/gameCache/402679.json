@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-12-26T20:00:24.107Z",
+  "gameDetails": {
+    "id": "402679",
+    "name": "Rock Hard: 1977",
+    "type": "boardgame",
+    "description": "It's 1977. You're an up-and-coming musician, dreaming of making it big with your band. Over the next few months you'll rehearse, play gigs, write songs, and promote your band. With careful planning and a little luck, you'll earn the most fame and become the best new artist of the year.\n\nDesigned by Jackie Fox (member of the 1970s rock band \"The Runaways\", four-time Jeopardy! champion, and designer of the narrative adventure trilogy The Adventures of the Chubby Slugz) and illustrated by Jennifer Giner, Rock Hard: 1977 allows games for groups of between 2 and 5 players, from 14 years old, in games lasting about 45-90 minutes.\n\nRock Hard: 1977 is played over a maximum of nine rounds, each representing a typical day of one month in 1977, from April to December. You win the game by accruing the most fame. How? Increasing reputation, chops and songs; achieving production, performance, and publicity bonuses; getting record deals and earning royalties; playing concerts; and hanging out at the hottest after-hours spot. Ready to live like a rock star?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/CrJdKWVGgg24btEKtxNyzA__original/img/-oWI3wATvzhjEqGP2DTYguSU85c=/0x0/filters:format(jpeg)/pic8288389.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CrJdKWVGgg24btEKtxNyzA__small/img/iQkfQCZiXs2r4igjeAe_4bHgmks=/fit-in/200x150/filters:strip_icc()/pic8288389.jpg",
+    "link": "https://boardgamegeek.com/thing/402679",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.50474",
+    "averageWeight": "2.4933",
+    "boardGameRank": "1262",
+    "mechanics": [
+      "End Game Bonuses",
+      "Events",
+      "Push Your Luck",
+      "Set Collection",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "designers": [
+      "Jackie Fox"
+    ]
+  }
+}

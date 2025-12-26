@@ -1,6 +1,2290 @@
 {
-  "timestamp": "2025-12-03T19:49:37.402Z",
+  "timestamp": "2025-12-26T20:06:45.154Z",
   "games": [
+    {
+      "id": "239464",
+      "name": "Palm Island",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:46:22",
+      "lastmodified": "2025-12-25 12:46:22",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/CPJhhXGPCPIIpsTh-p3UQQ__thumb/img/2N2T0qeyGfqLCy7egIYquhGhhHU=/fit-in/200x150/filters:strip_icc()/pic3995767.png",
+      "link": "https://boardgamegeek.com/thing/239464",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "1",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.07127",
+      "averageWeight": "1.7451",
+      "boardGameRank": "987",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Memory",
+        "Move Through Deck",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Card Game",
+        "City Building",
+        "Print & Play"
+      ],
+      "designers": [
+        "Jon Mietling"
+      ]
+    },
+    {
+      "id": "334590",
+      "name": "For Northwood! A Solo Trick-Taking Game",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:45:47",
+      "lastmodified": "2025-12-25 12:45:47",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/3MdUGB8YD_jGTDyfbAnX9Q__thumb/img/c41bbBRd7BC3KKqLFdKb6URXzsA=/fit-in/200x150/filters:strip_icc()/pic6763912.png",
+      "link": "https://boardgamegeek.com/thing/334590",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "7.89974",
+      "averageWeight": "1.8354",
+      "boardGameRank": "572",
+      "mechanics": [
+        "Hand Management",
+        "Predictive Bid",
+        "Solo / Solitaire Game",
+        "Trick-taking"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "Fantasy",
+        "Print & Play"
+      ],
+      "designers": [
+        "Wilhelm Su"
+      ]
+    },
+    {
+      "id": "385799",
+      "name": "Scram!",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:44:47",
+      "lastmodified": "2025-12-25 12:44:47",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/fk2wYp7_ZcLJ6ogWvB2-1w__small/img/6DIrOU2tvdhFmNRKxBfLF93Gbis=/fit-in/200x150/filters:strip_icc()/pic7477795.png",
+      "link": "https://boardgamegeek.com/thing/385799",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 6",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "6.9609",
+      "averageWeight": "1.4444",
+      "boardGameRank": "5443",
+      "mechanics": [
+        "Hand Management",
+        "Memory",
+        "Team-Based Game"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game"
+      ],
+      "designers": [
+        "Ted Alspach"
+      ]
+    },
+    {
+      "id": "395623",
+      "name": "Harvest",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:43:59",
+      "lastmodified": "2025-12-25 12:43:59",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/GY6u68JwrMHKNDxRkyaZAg__small/img/bcgNy8nfsP8F7ZGpaL9wJiaSE2w=/fit-in/200x150/filters:strip_icc()/pic7696599.jpg",
+      "link": "https://boardgamegeek.com/thing/395623",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.41072",
+      "averageWeight": "2.6167",
+      "boardGameRank": "1847",
+      "mechanics": [
+        "Open Drafting",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Farming"
+      ],
+      "designers": [
+        "Trey Chambers"
+      ]
+    },
+    {
+      "id": "334011",
+      "name": "A Gentle Rain",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:43:13",
+      "lastmodified": "2025-12-25 12:43:13",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/EqqXUmjIuGspHNwt1UnDEQ__thumb/img/qKGfLe9Y83j2-UEzfRy1bIbNosI=/fit-in/200x150/filters:strip_icc()/pic7769466.png",
+      "link": "https://boardgamegeek.com/thing/334011",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "7.66483",
+      "averageWeight": "1.1458",
+      "boardGameRank": "2032",
+      "mechanics": [
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Puzzle"
+      ],
+      "designers": [
+        "Kevin Wilson"
+      ]
+    },
+    {
+      "id": "421471",
+      "name": "Deep Regrets: Lamentable Tentacles Mini-Expansion",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:42:55",
+      "lastmodified": "2025-12-25 12:42:55",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/fc4q35iV-qG26y3qXcs4wQ__small/img/_8qAI5ZLKUEgOThUutqt3kkcW5k=/fit-in/200x150/filters:strip_icc()/pic8296509.png",
+      "link": "https://boardgamegeek.com/thing/421471",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "150",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "150",
+      "averageRating": "7.84562",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game",
+        "Horror"
+      ],
+      "designers": [
+        "Judson Cowan"
+      ]
+    },
+    {
+      "id": "397931",
+      "name": "Deep Regrets",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:42:48",
+      "lastmodified": "2025-12-25 12:42:48",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/WUvpRzsNSZgq1gyvjiQcWw__small/img/XJyLMXaTHUGyAv7n-G0DpR1W1SU=/fit-in/200x150/filters:strip_icc()/pic8156363.jpg",
+      "link": "https://boardgamegeek.com/thing/397931",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "150",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "150",
+      "averageRating": "7.3478",
+      "averageWeight": "2.3523",
+      "boardGameRank": "1595",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Market",
+        "Push Your Luck",
+        "Re-rolling and Locking",
+        "Set Collection",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Dice",
+        "Horror",
+        "Nautical"
+      ],
+      "designers": [
+        "Judson Cowan"
+      ]
+    },
+    {
+      "id": "393922",
+      "name": "Agricola: Ephipparius Deck",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:42:20",
+      "lastmodified": "2025-12-25 12:42:20",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/3MnxRmc-uGw5JCFvfIQnrQ__small/img/9bA7ymwvqS_X6DHvyrMH-oZ4_S4=/fit-in/200x150/filters:strip_icc()/pic7691207.jpg",
+      "link": "https://boardgamegeek.com/thing/393922",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.57925",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Enclosure",
+        "Hand Management",
+        "Open Drafting",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Animals",
+        "Farming"
+      ],
+      "designers": [
+        "Uwe Rosenberg"
+      ]
+    },
+    {
+      "id": "329847",
+      "name": "Agricola: Consul Dirigens Deck",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:42:09",
+      "lastmodified": "2025-12-25 12:42:09",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/lsaMrbEu21fX5ExxsWYxJw__small/img/-Pvgd225PahoBPa5ACWEMieG1ew=/fit-in/200x150/filters:strip_icc()/pic6589997.jpg",
+      "link": "https://boardgamegeek.com/thing/329847",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "180",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "180",
+      "averageRating": "8.21158",
+      "averageWeight": "3.25",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Enclosure",
+        "Hand Management",
+        "Open Drafting",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Animals",
+        "Economic",
+        "Farming"
+      ],
+      "designers": [
+        "Uwe Rosenberg"
+      ]
+    },
+    {
+      "id": "271144",
+      "name": "Agricola: Corbarius Deck",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:41:59",
+      "lastmodified": "2025-12-25 12:41:59",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/2vNhvdDZaIC52D7UhYWn4A__small/img/KUANLlEtxNUPWE1JBGAGO26DMWI=/fit-in/200x150/filters:strip_icc()/pic4752899.jpg",
+      "link": "https://boardgamegeek.com/thing/271144",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.22915",
+      "averageWeight": "3.3333",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Enclosure",
+        "Hand Management",
+        "Open Drafting",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Animals",
+        "Farming"
+      ],
+      "designers": [
+        "Uwe Rosenberg"
+      ]
+    },
+    {
+      "id": "247720",
+      "name": "Agricola: Bubulcus Deck",
+      "yearPublished": "2018",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:41:42",
+      "lastmodified": "2025-12-25 12:41:42",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/u5Jrl-NP9emz-lFtAr7paQ__small/img/cWuP-J6t1BntRsnqiULHw1CE0HY=/fit-in/200x150/filters:strip_icc()/pic4268675.jpg",
+      "link": "https://boardgamegeek.com/thing/247720",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.23282",
+      "averageWeight": "3.6",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Enclosure",
+        "Hand Management",
+        "Open Drafting",
+        "Solo / Solitaire Game",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Animals",
+        "Farming"
+      ],
+      "designers": [
+        "Uwe Rosenberg"
+      ]
+    },
+    {
+      "id": "356510",
+      "name": "Spirit Island: Feather & Flame",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:40:55",
+      "lastmodified": "2025-12-25 12:40:55",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/pj16t5oYcSnd4UK1HVbKwQ__thumb/img/Dei5GJWSSwarkUkaNh0yiaxj8co=/fit-in/200x150/filters:strip_icc()/pic7126074.jpg",
+      "link": "https://boardgamegeek.com/thing/356510",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 3",
+      "playingTime": "120",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "120",
+      "averageRating": "8.98592",
+      "averageWeight": "4.5455",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Modular Board",
+        "Open Drafting",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Mythology",
+        "Territory Building"
+      ],
+      "designers": [
+        "R. Eric Reuss"
+      ]
+    },
+    {
+      "id": "414317",
+      "name": "Harmonies",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:40:17",
+      "lastmodified": "2025-12-25 12:40:17",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__thumb/img/ln5eKAzhse2PIHvWn7bu-jiW_uk=/fit-in/200x150/filters:strip_icc()/pic8026369.png",
+      "link": "https://boardgamegeek.com/thing/414317",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 3",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "8.02022",
+      "averageWeight": "2",
+      "boardGameRank": "128",
+      "mechanics": [
+        "Open Drafting",
+        "Pattern Building",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Environmental"
+      ],
+      "designers": [
+        "Johan Benvenuto"
+      ]
+    },
+    {
+      "id": "417197",
+      "name": "Rebirth",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:39:07",
+      "lastmodified": "2025-12-25 12:39:07",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/tyv6lPMlyU7YIUztlILQYQ__thumb/img/_CXQQbXsewUlde4R22XCRApxZ5k=/fit-in/200x150/filters:strip_icc()/pic8587890.png",
+      "link": "https://boardgamegeek.com/thing/417197",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "60",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "60",
+      "averageRating": "7.81037",
+      "averageWeight": "2.093",
+      "boardGameRank": "1863",
+      "mechanics": [
+        "Tile Placement"
+      ],
+      "categories": [
+        "Environmental",
+        "Fantasy",
+        "Farming",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Reiner Knizia"
+      ]
+    },
+    {
+      "id": "330152",
+      "name": "Nature",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:38:59",
+      "lastmodified": "2025-12-25 12:38:59",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/rNOQrjNmhTaBmaAyZah8cA__small/img/xSEV-lmGayPsB3m8ADrZH1zWQbQ=/fit-in/200x150/filters:strip_icc()/pic8115796.jpg",
+      "link": "https://boardgamegeek.com/thing/330152",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.08275",
+      "averageWeight": "2.2258",
+      "boardGameRank": "4251",
+      "mechanics": [
+        "Chaining",
+        "Hand Management",
+        "Move Through Deck",
+        "Simulation",
+        "Solo / Solitaire Game",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "Educational",
+        "Environmental"
+      ],
+      "designers": [
+        "Dominic Crapuchettes"
+      ]
+    },
+    {
+      "id": "425549",
+      "name": "Moon Colony Bloodbath",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:38:47",
+      "lastmodified": "2025-12-25 12:38:47",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/KDrRxEKQMmHyM0QQ2ONX4Q__small/img/EusjojuWYxwkxaP7eAnaBn1QzLg=/fit-in/200x150/filters:strip_icc()/pic8638247.jpg",
+      "link": "https://boardgamegeek.com/thing/425549",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.59374",
+      "averageWeight": "2.1702",
+      "boardGameRank": "1333",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Delayed Purchase",
+        "Events",
+        "Simultaneous Action Selection",
+        "Variable Phase Order"
+      ],
+      "categories": [
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Donald X. Vaccarino"
+      ]
+    },
+    {
+      "id": "306735",
+      "name": "Under Falling Skies",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:37:16",
+      "lastmodified": "2025-12-25 12:37:16",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ecO5eAd3RkctQ0-Tbqv37Q__thumb/img/uxrJLWxvi-f8CGbDpxQBStzvGes=/fit-in/200x150/filters:strip_icc()/pic5428723.jpg",
+      "link": "https://boardgamegeek.com/thing/306735",
+      "minPlayers": "1",
+      "maxPlayers": "1",
+      "bestAtCount": "1",
+      "playingTime": "40",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "40",
+      "averageRating": "7.64229",
+      "averageWeight": "2.3916",
+      "boardGameRank": "243",
+      "mechanics": [
+        "Dice Rolling",
+        "Modular Board",
+        "Once-Per-Game Abilities",
+        "Re-rolling and Locking",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Sudden Death Ending",
+        "Variable Set-up",
+        "Worker Placement",
+        "Worker Placement with Dice Workers"
+      ],
+      "categories": [
+        "Dice",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Tomáš Uhlíř"
+      ]
+    },
+    {
+      "id": "365137",
+      "name": "Spirit Island: Nature Incarnate",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:36:51",
+      "lastmodified": "2025-12-25 12:36:51",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/hE1lnC_WJ4TFDkmjpucUbQ__thumb/img/tO6Sje8PXYW-gFd9VU8i6O9yYEw=/fit-in/200x150/filters:strip_icc()/pic8114391.png",
+      "link": "https://boardgamegeek.com/thing/365137",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "2",
+      "playingTime": "180",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "180",
+      "averageRating": "9.36578",
+      "averageWeight": "4.4103",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Retrieval",
+        "Area Majority / Influence",
+        "Automatic Resource Growth",
+        "Campaign / Battle Card Driven",
+        "Cooperative Game",
+        "Events",
+        "Hand Management",
+        "Modular Board",
+        "Set Collection",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Mythology",
+        "Territory Building"
+      ],
+      "designers": [
+        "R. Eric Reuss"
+      ]
+    },
+    {
+      "id": "419279",
+      "name": "Arcs: Leaders & Lore Pack",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:36:32",
+      "lastmodified": "2025-12-25 12:36:32",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/I7bZqrk7XuQ4GF6pPt5L6Q__small/img/FvE_e9ZZ7W4I50MDI-v1s_6xr-8=/fit-in/200x150/filters:strip_icc()/pic8147517.png",
+      "link": "https://boardgamegeek.com/thing/419279",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.54563",
+      "averageWeight": "3.2353",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Area Movement",
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Die Icon Resolution",
+        "Hand Management",
+        "Negotiation",
+        "Trick-taking",
+        "Turn Order: Claim Action",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Negotiation",
+        "Science Fiction",
+        "Wargame"
+      ],
+      "designers": [
+        "Cole Wehrle",
+        "Joshua Yearsley"
+      ]
+    },
+    {
+      "id": "359871",
+      "name": "Arcs",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:36:27",
+      "lastmodified": "2025-12-25 12:36:27",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__thumb/img/Ry-6KHwNgERWadyxs1X1_P3dMvY=/fit-in/200x150/filters:strip_icc()/pic8145530.png",
+      "link": "https://boardgamegeek.com/thing/359871",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.19789",
+      "averageWeight": "3.409",
+      "boardGameRank": "147",
+      "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Area Movement",
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Die Icon Resolution",
+        "Hand Management",
+        "Negotiation",
+        "Trick-taking",
+        "Turn Order: Claim Action",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Science Fiction",
+        "Wargame"
+      ],
+      "designers": [
+        "Cole Wehrle"
+      ]
+    },
+    {
+      "id": "349750",
+      "name": "Molly House",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:36:19",
+      "lastmodified": "2025-12-25 12:36:19",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/7j1DUeGvykC6nNpch-bh3w__small/img/s-twh6b40XX9jfmP4hHvNSenPF8=/fit-in/200x150/filters:strip_icc()/pic8419925.jpg",
+      "link": "https://boardgamegeek.com/thing/349750",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.43958",
+      "averageWeight": "3.7374",
+      "boardGameRank": "2257",
+      "mechanics": [
+        "Multi-Use Cards",
+        "Negotiation",
+        "Push Your Luck",
+        "Roll / Spin and Move",
+        "Semi-Cooperative Game",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Traitor Game"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Deduction"
+      ],
+      "designers": [
+        "Jo Kelly",
+        "Cole Wehrle"
+      ]
+    },
+    {
+      "id": "344258",
+      "name": "That Time You Killed Me",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:36:04",
+      "lastmodified": "2025-12-25 12:36:04",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/tcupSjoLMn9sKbnGxQU9Kg__small/img/aQGuKmGqMS8WWfWA280XJJ2jiI4=/fit-in/200x150/filters:strip_icc()/pic6326925.jpg",
+      "link": "https://boardgamegeek.com/thing/344258",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "7.35508",
+      "averageWeight": "2.3396",
+      "boardGameRank": "1466",
+      "mechanics": [
+        "Grid Movement",
+        "King of the Hill",
+        "Multiple Maps",
+        "Scenario / Mission / Campaign Game",
+        "Slide / Push",
+        "Square Grid",
+        "Sudden Death Ending"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Murder / Mystery"
+      ],
+      "designers": [
+        "Peter C. Hayward"
+      ]
+    },
+    {
+      "id": "440542",
+      "name": "Botany: War of the Posies",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:35:38",
+      "lastmodified": "2025-12-25 12:35:38",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/DrrAqVJbMvEA1jJEhwnGIw__small/img/qj0URysCTJpOL4MdazhghO3aY2I=/fit-in/200x150/filters:strip_icc()/pic8747220.png",
+      "link": "https://boardgamegeek.com/thing/440542",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "7.49545",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Open Drafting",
+        "Set Collection",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game"
+      ],
+      "designers": [
+        "Amy Droz",
+        "Dusty Droz"
+      ]
+    },
+    {
+      "id": "425764",
+      "name": "Botany: Orchid Obsession",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:35:28",
+      "lastmodified": "2025-12-25 12:35:28",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ZTNbguyvvX2SqqzsgAMGuQ__small/img/xOqFOigO1HGDbpYv5wGg9Qsasyc=/fit-in/200x150/filters:strip_icc()/pic8708667.jpg",
+      "link": "https://boardgamegeek.com/thing/425764",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.4913",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": []
+    },
+    {
+      "id": "417064",
+      "name": "Botany: Perilous Perfumes",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:35:19",
+      "lastmodified": "2025-12-25 12:35:19",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/5u5FSmS_xeOUCLjsHjGgjA__small/img/cI0wddxm7l4HPIOyDWirdulArek=/fit-in/200x150/filters:strip_icc()/pic8117006.jpg",
+      "link": "https://boardgamegeek.com/thing/417064",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.76364",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "End Game Bonuses",
+        "Events",
+        "Investment"
+      ],
+      "categories": [
+        "Adventure",
+        "Educational",
+        "Expansion for Base-game",
+        "Humor",
+        "Travel"
+      ],
+      "designers": [
+        "Amy Droz",
+        "Dusty Droz"
+      ]
+    },
+    {
+      "id": "417060",
+      "name": "Botany: Tantalizing Trees",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:35:11",
+      "lastmodified": "2025-12-25 12:35:11",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Thr7ZNBbZ2kf4y8qqfKYqg__small/img/fYdmsnAVXxGi1w89YOY2SSVmVuQ=/fit-in/200x150/filters:strip_icc()/pic8117004.png",
+      "link": "https://boardgamegeek.com/thing/417060",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.80616",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "End Game Bonuses",
+        "Events",
+        "Investment"
+      ],
+      "categories": [
+        "Adventure",
+        "Educational",
+        "Expansion for Base-game",
+        "Humor",
+        "Travel"
+      ],
+      "designers": [
+        "Amy Droz",
+        "Dusty Droz"
+      ]
+    },
+    {
+      "id": "380837",
+      "name": "Botany",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:35:04",
+      "lastmodified": "2025-12-25 12:35:04",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/keC0oy0nbpewpRTdcte42Q__small/img/HZKE-1leOFpU4Ny_dVpzPITexXs=/fit-in/200x150/filters:strip_icc()/pic7361181.png",
+      "link": "https://boardgamegeek.com/thing/380837",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3, 4",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "6.99657",
+      "averageWeight": "2.0741",
+      "boardGameRank": "3907",
+      "mechanics": [
+        "Dice Rolling",
+        "End Game Bonuses",
+        "Events",
+        "Investment",
+        "Pick-up and Deliver",
+        "Point to Point Movement",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Educational",
+        "Humor",
+        "Travel"
+      ],
+      "designers": [
+        "Amy Droz",
+        "Dusty Droz"
+      ]
+    },
+    {
+      "id": "418059",
+      "name": "SETI: Search for Extraterrestrial Intelligence",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:34:53",
+      "lastmodified": "2025-12-25 12:34:53",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__thumb/img/icamIZ4nP3HHH3vczZqTr1hQgKY=/fit-in/200x150/filters:strip_icc()/pic8160466.jpg",
+      "link": "https://boardgamegeek.com/thing/418059",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "160",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "160",
+      "averageRating": "8.37872",
+      "averageWeight": "3.7",
+      "boardGameRank": "433",
+      "mechanics": [
+        "End Game Bonuses",
+        "Income",
+        "Multi-Use Cards",
+        "Resource to Move",
+        "Solo / Solitaire Game",
+        "Turn Order: Progressive",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "416851",
+      "name": "Castle Combo",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:34:46",
+      "lastmodified": "2025-12-25 12:34:46",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__small/img/DnptKBxT6l_W2B3jGXdnEDEkDM0=/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+      "link": "https://boardgamegeek.com/thing/416851",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "25",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "25",
+      "averageRating": "7.6478",
+      "averageWeight": "1.7355",
+      "boardGameRank": "294",
+      "mechanics": [
+        "End Game Bonuses",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Set Collection",
+        "Tags",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Card Game",
+        "Medieval"
+      ],
+      "designers": [
+        "Grégory Grard",
+        "Mathieu Roussel"
+      ]
+    },
+    {
+      "id": "402814",
+      "name": "Peaks",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:34:31",
+      "lastmodified": "2025-12-25 12:34:31",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/RWQMp_47slgPILOZu6gHnA__small/img/-SnHggGCswxuNJWii3ZKYyk0npQ=/fit-in/200x150/filters:strip_icc()/pic8243169.png",
+      "link": "https://boardgamegeek.com/thing/402814",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.87357",
+      "averageWeight": "2.5882",
+      "boardGameRank": "6360",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Follow",
+        "Negotiation",
+        "Set Collection",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Adventure"
+      ],
+      "designers": [
+        "Sam Gray"
+      ]
+    },
+    {
+      "id": "304783",
+      "name": "Hadrian's Wall",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:34:12",
+      "lastmodified": "2025-12-25 12:34:12",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/4XzRDw3VrgNpNfZlzZl66w__thumb/img/dGMBL60RMtAfcx741phN75mqlnA=/fit-in/200x150/filters:strip_icc()/pic5608818.png",
+      "link": "https://boardgamegeek.com/thing/304783",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "1",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.9334",
+      "averageWeight": "3.1569",
+      "boardGameRank": "157",
+      "mechanics": [
+        "Hand Management",
+        "Paper-and-Pencil",
+        "Solo / Solitaire Game",
+        "Tech Trees / Tech Tracks"
+      ],
+      "categories": [
+        "Ancient",
+        "City Building"
+      ],
+      "designers": [
+        "Bobby Hill"
+      ]
+    },
+    {
+      "id": "15162",
+      "name": "Mall Madness",
+      "yearPublished": "1988",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:34:01",
+      "lastmodified": "2025-12-25 12:34:01",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Za1OHDs6Rd52xaQZQaVrig__small/img/dBn_aDkOu-zPWaFENiYjAHhQ3XM=/fit-in/200x150/filters:strip_icc()/pic64777.jpg",
+      "link": "https://boardgamegeek.com/thing/15162",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "N/A",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "5.72819",
+      "averageWeight": "1",
+      "boardGameRank": "25406",
+      "mechanics": [
+        "Roll / Spin and Move"
+      ],
+      "categories": [
+        "Children's Game",
+        "Economic"
+      ],
+      "designers": []
+    },
+    {
+      "id": "427705",
+      "name": "Apiary: Expanding the Hive",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:33:51",
+      "lastmodified": "2025-12-25 12:33:51",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/RLuG8yld4HACaK8A6CpoYg__small/img/MK7a7_YjYnD8GA047czZVR3X7o0=/fit-in/200x150/filters:strip_icc()/pic8391222.jpg",
+      "link": "https://boardgamegeek.com/thing/427705",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3, 4",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.26479",
+      "averageWeight": "2.8571",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Connie Vogelmann"
+      ]
+    },
+    {
+      "id": "369548",
+      "name": "After Us",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:33:40",
+      "lastmodified": "2025-12-25 12:33:40",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/0p98Q5dENk3sh9mqd3xM0w__thumb/img/o1EGwssgObCxAUjaBB_yKS4SXVs=/fit-in/200x150/filters:strip_icc()/pic7471323.png",
+      "link": "https://boardgamegeek.com/thing/369548",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "3",
+      "playingTime": "60",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "60",
+      "averageRating": "6.83276",
+      "averageWeight": "2.0435",
+      "boardGameRank": "2226",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Melding and Splaying",
+        "Race",
+        "Simultaneous Action Selection"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "Puzzle",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Florian Sirieix"
+      ]
+    },
+    {
+      "id": "430307",
+      "name": "Escaping Extinction: Based on a True Story",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:33:33",
+      "lastmodified": "2025-12-25 12:33:33",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Lm67sw0WHjpnlb4c8rzdYA__thumb/img/QVcziaGEq3cu9wX7ALnSEz1jpvU=/fit-in/200x150/filters:strip_icc()/pic8480167.jpg",
+      "link": "https://boardgamegeek.com/thing/430307",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "7.3",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Events",
+        "Modular Board",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Exploration",
+        "Prehistoric",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Chris Armstrong",
+        "Jen Armstrong"
+      ]
+    },
+    {
+      "id": "366994",
+      "name": "Bonsai",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:33:21",
+      "lastmodified": "2025-12-25 12:33:21",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/7Bm5_VZARWmb5sa2Vd-9nQ__thumb/img/netlb06OfwpKM-22kVT9klcvC6I=/fit-in/200x150/filters:strip_icc()/pic6961607.png",
+      "link": "https://boardgamegeek.com/thing/366994",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "40",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "40",
+      "averageRating": "7.21731",
+      "averageWeight": "1.8833",
+      "boardGameRank": "1626",
+      "mechanics": [
+        "Open Drafting",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Environmental"
+      ],
+      "designers": [
+        "Rosaria Battiato",
+        "Massimo Borzì",
+        "Martino Chiacchiera"
+      ]
+    },
+    {
+      "id": "346965",
+      "name": "Azul: Queen's Garden",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:33:13",
+      "lastmodified": "2025-12-25 12:33:13",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/l-NBWJ1gIcfOCfrvAw8qvw__small/img/kvxUPoBvCzjV5r6poE29LFUQnSM=/fit-in/200x150/filters:strip_icc()/pic6389125.jpg",
+      "link": "https://boardgamegeek.com/thing/346965",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "60",
+      "averageRating": "7.44367",
+      "averageWeight": "2.9276",
+      "boardGameRank": "670",
+      "mechanics": [
+        "End Game Bonuses",
+        "Pattern Building",
+        "Set Collection",
+        "Tile Placement",
+        "Turn Order: Claim Action"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Puzzle",
+        "Renaissance"
+      ],
+      "designers": [
+        "Michael Kiesling"
+      ]
+    },
+    {
+      "id": "318009",
+      "name": "Dinosaur Island: Rawr 'n Write",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:33:01",
+      "lastmodified": "2025-12-25 12:33:01",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/xRP9jo5gfwhfFkgxQBgWTw__small/img/Ax_lCMYmPvnu1qYP0-nRAjcVBO8=/fit-in/200x150/filters:strip_icc()/pic5622932.png",
+      "link": "https://boardgamegeek.com/thing/318009",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.67243",
+      "averageWeight": "2.8407",
+      "boardGameRank": "615",
+      "mechanics": [
+        "Connections",
+        "Dice Rolling",
+        "Grid Coverage",
+        "Network and Route Building",
+        "Open Drafting",
+        "Paper-and-Pencil",
+        "Worker Placement with Dice Workers"
+      ],
+      "categories": [
+        "Animals",
+        "Dice",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Brian Lewis",
+        "David McGregor",
+        "Marissa Misura"
+      ]
+    },
+    {
+      "id": "385529",
+      "name": "The Vale of Eternity",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:32:50",
+      "lastmodified": "2025-12-25 12:32:50",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/yWwckUmFXuGXxp41-vFaVQ__small/img/ilHQqYcV-QqEkCF3GZ2XffcusrQ=/fit-in/200x150/filters:strip_icc()/pic7461472.png",
+      "link": "https://boardgamegeek.com/thing/385529",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.60213",
+      "averageWeight": "2.1429",
+      "boardGameRank": "364",
+      "mechanics": [
+        "Hand Management",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Race",
+        "Set Collection",
+        "Tags",
+        "Turn Order: Progressive"
+      ],
+      "categories": [
+        "Card Game",
+        "Fantasy",
+        "Mythology"
+      ],
+      "designers": [
+        "Eric Hong"
+      ]
+    },
+    {
+      "id": "175640",
+      "name": "Vinhos: Deluxe Edition",
+      "yearPublished": "2016",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:32:32",
+      "lastmodified": "2025-12-25 12:32:32",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/JuyN9UOenAG_BlO-APPpdw__thumb/img/hQLejMza7x_sM1hW24jAocbyqHY=/fit-in/200x150/filters:strip_icc()/pic2649446.jpg",
+      "link": "https://boardgamegeek.com/thing/175640",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "180",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "180",
+      "averageRating": "8.08783",
+      "averageWeight": "4.0134",
+      "boardGameRank": "138",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Variable Phase Order",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Economic",
+        "Industry / Manufacturing"
+      ],
+      "designers": [
+        "Vital Lacerda"
+      ]
+    },
+    {
+      "id": "305726",
+      "name": "High Frontier 4 All: Module 3 – Conflict",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:32:14",
+      "lastmodified": "2025-12-25 12:32:14",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/jrFtUyLO7IFMkLkXQ8gLaQ__thumb/img/PwqonOFU4hEzG9wrMz-UHbAnoy4=/fit-in/200x150/filters:strip_icc()/pic5310202.jpg",
+      "link": "https://boardgamegeek.com/thing/305726",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "3, 4",
+      "playingTime": "240",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "240",
+      "averageRating": "7.94015",
+      "averageWeight": "4.9167",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game",
+        "Civilization",
+        "Economic",
+        "Exploration",
+        "Fighting",
+        "Industry / Manufacturing",
+        "Political",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Phil Eklund",
+        "Justin Grey"
+      ]
+    },
+    {
+      "id": "304512",
+      "name": "High Frontier 4 All: Module 2 – Colonization",
+      "yearPublished": "2020",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:32:06",
+      "lastmodified": "2025-12-25 12:32:06",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/_ORbHDqyZuvJPMYVxWgOfw__thumb/img/67KbWyQwcUQCdXG1GKwr_UMt94g=/fit-in/200x150/filters:strip_icc()/pic5291832.png",
+      "link": "https://boardgamegeek.com/thing/304512",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "240",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "240",
+      "averageRating": "8.60568",
+      "averageWeight": "4.375",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Auction / Bidding",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Point to Point Movement",
+        "Simulation",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Civilization",
+        "Economic",
+        "Expansion for Base-game",
+        "Exploration",
+        "Industry / Manufacturing",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Jeffrey Chamberlain",
+        "Phil Eklund"
+      ]
+    },
+    {
+      "id": "304511",
+      "name": "High Frontier 4 All: Module 1 – Terawatt & Futures",
+      "yearPublished": "2020",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 12:31:59",
+      "lastmodified": "2025-12-25 12:31:59",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/K8ot8FhK9rdIZubPYT0cxQ__thumb/img/EoxWra1gu3HW6OwTbuN2MIGEdts=/fit-in/200x150/filters:strip_icc()/pic5291829.png",
+      "link": "https://boardgamegeek.com/thing/304511",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2, 3",
+      "playingTime": "240",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "240",
+      "averageRating": "8.6037",
+      "averageWeight": "4.1",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Auction / Bidding",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Network and Route Building",
+        "Point to Point Movement",
+        "Simulation",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Civilization",
+        "Economic",
+        "Expansion for Base-game",
+        "Exploration",
+        "Industry / Manufacturing",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Jeffrey Chamberlain",
+        "Phil Eklund"
+      ]
+    },
+    {
+      "id": "281655",
+      "name": "High Frontier 4 All",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:31:49",
+      "lastmodified": "2025-12-25 12:31:49",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/SjfNTsR84Ad--u5lo6HY-A__thumb/img/waH7O4sQox4guuFAHmst0-H_KHQ=/fit-in/200x150/filters:strip_icc()/pic5316685.png",
+      "link": "https://boardgamegeek.com/thing/281655",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "240",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "240",
+      "averageRating": "8.4232",
+      "averageWeight": "4.8191",
+      "boardGameRank": "751",
+      "mechanics": [
+        "Auction / Bidding",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Negotiation",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Point to Point Movement",
+        "Resource to Move",
+        "Simulation",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Civilization",
+        "Economic",
+        "Exploration",
+        "Industry / Manufacturing",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Phil Eklund",
+        "Justin Grey",
+        "Jon Manker",
+        "Dom Rougier"
+      ]
+    },
+    {
+      "id": "316624",
+      "name": "Stationfall",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:31:36",
+      "lastmodified": "2025-12-25 12:31:36",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/eUiju5SqZbkNt8gnEofrTw__small/img/zNkmLNyeXJGOY24FeAAf4U67ejU=/fit-in/200x150/filters:strip_icc()/pic6035127.png",
+      "link": "https://boardgamegeek.com/thing/316624",
+      "minPlayers": "1",
+      "maxPlayers": "9",
+      "bestAtCount": "4, 5",
+      "playingTime": "150",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "150",
+      "averageRating": "7.72346",
+      "averageWeight": "3.9534",
+      "boardGameRank": "808",
+      "mechanics": [
+        "Action Points",
+        "Deduction",
+        "Hidden Roles",
+        "Hidden Victory Points",
+        "Pick-up and Deliver",
+        "Roles with Asymmetric Information",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Deduction",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Matt Eklund"
+      ]
+    },
+    {
+      "id": "402679",
+      "name": "Rock Hard: 1977",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:31:25",
+      "lastmodified": "2025-12-25 12:31:25",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/CrJdKWVGgg24btEKtxNyzA__small/img/iQkfQCZiXs2r4igjeAe_4bHgmks=/fit-in/200x150/filters:strip_icc()/pic8288389.jpg",
+      "link": "https://boardgamegeek.com/thing/402679",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4, 5",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.50474",
+      "averageWeight": "2.4933",
+      "boardGameRank": "1262",
+      "mechanics": [
+        "End Game Bonuses",
+        "Events",
+        "Push Your Luck",
+        "Set Collection",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "designers": [
+        "Jackie Fox"
+      ]
+    },
+    {
+      "id": "197376",
+      "name": "Charterstone",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:31:01",
+      "lastmodified": "2025-12-25 12:31:01",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/yKjDaHQiv28iqtzDxfQOZQ__thumb/img/y0YNU2Bf4W6rNQUXVhhe4tWnU8E=/fit-in/200x150/filters:strip_icc()/pic3322613.jpg",
+      "link": "https://boardgamegeek.com/thing/197376",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "6",
+      "playingTime": "75",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "75",
+      "averageRating": "7.20248",
+      "averageWeight": "2.8502",
+      "boardGameRank": "558",
+      "mechanics": [
+        "Catch the Leader",
+        "Hand Management",
+        "Legacy Game",
+        "Open Drafting",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Worker Placement"
+      ],
+      "categories": [
+        "City Building",
+        "Economic",
+        "Medieval"
+      ],
+      "designers": [
+        "Jamey Stegmaier"
+      ]
+    },
+    {
+      "id": "314491",
+      "name": "Meadow",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2025-12-25 12:30:50",
+      "lastmodified": "2025-12-25 12:30:50",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/9r3qdPijtgoIN24PxFU2gw__small/img/tugW5aKyC6Vs31QaBX8YvmQiPTQ=/fit-in/200x150/filters:strip_icc()/pic5894745.jpg",
+      "link": "https://boardgamegeek.com/thing/314491",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.70745",
+      "averageWeight": "2.2543",
+      "boardGameRank": "215",
+      "mechanics": [
+        "Hand Management",
+        "Layering",
+        "Open Drafting",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Worker Placement, Different Worker Types"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "Environmental",
+        "Puzzle"
+      ],
+      "designers": [
+        "Klemens Kalicki"
+      ]
+    },
     {
       "id": "430307",
       "name": "Escaping Extinction: Based on a True Story",

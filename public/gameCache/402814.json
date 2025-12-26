@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-12-26T20:00:21.185Z",
+  "gameDetails": {
+    "id": "402814",
+    "name": "Peaks",
+    "type": "boardgame",
+    "description": "In Peaks, you are aspiring mountaineers, beginning the game hiking up iconic hills from around the world as you build your stamina and experience. You will gather equipment and meet companions to assist you in climbing the world's tallest mountains!\n\nOn your turn, choose one of three actions: rest to regain your stamina; prepare to gain mountain passes and equipment; or climb to climb a mountain and reap its rewards. A \"tag along\" mechanism keeps players engaged even when it's not their turn, adding a collaborative element. Mechanical player mats with moving tiles and dials, a custom die, and flag minis make for a new, tactile experience.\n\nAt game's end, the player with the most flags on the board &mdash; plus any extras from bonus cards &mdash; wins.\n\nSimple set-up, quick turns, and fun interactions along with a ruleset that organically develops throughout the game all bring about a satisfying adventure.\n\n-description from developer \n\n",
+    "image": "https://cf.geekdo-images.com/RWQMp_47slgPILOZu6gHnA__original/img/EfGh7S6DWLba-QxIppyT1R7ltvw=/0x0/filters:format(png)/pic8243169.png",
+    "thumbnail": "https://cf.geekdo-images.com/RWQMp_47slgPILOZu6gHnA__small/img/-SnHggGCswxuNJWii3ZKYyk0npQ=/fit-in/200x150/filters:strip_icc()/pic8243169.png",
+    "link": "https://boardgamegeek.com/thing/402814",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.87357",
+    "averageWeight": "2.5882",
+    "boardGameRank": "6360",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Follow",
+      "Negotiation",
+      "Set Collection",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Adventure"
+    ],
+    "designers": [
+      "Sam Gray"
+    ]
+  }
+}

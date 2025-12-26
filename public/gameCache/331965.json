@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-12-26T19:57:50.758Z",
+  "gameDetails": {
+    "id": "331965",
+    "name": "Arkham Horror (Third Edition): Secrets of the Order",
+    "type": "boardgameexpansion",
+    "description": "The unquiet spirits of the dead cry out and ghouls stalk the midnight streets of Arkham. Derelict portals yawn open between our existence and the horrific unknown, and even in the storied French Hill neighborhood, the Order of the Silver Twilight plots their path to greater power.\n\nThe Arkham Horror (Third Edition): Secrets of the Order expansion brings investigators to the classic neighborhood of French Hill while also sending them beyond our reality into the depths of the terrifying Underworld. Two new double-sided map tiles bring the older regions of Arkham, Massachusetts to life, including the aforementioned French Hill neighborhood, as well as the Underworld itself. Four more investigators join the party, ranging from the steadfast soldier Mark Harrigan to the confident aviatrix Winifred Habbamock. The investigators&rsquo; jobs will not be easy &mdash; this expansion brings three entirely new scenarios into the fold, challenging investigators with restless spirits, secret cultists, and the depths of the Underworld itself. With over 130 new encounter and event cards, new assets, monsters, conditions, and a new type of map tile, Secrets of the Order opens a portal to a hoard of content, pulling you into some truly terrifying tales.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/DjrJhjunCcEWl8RX1A1_ag__original/img/qpPRCcgMamGVaBlBVNpsYPh9IW0=/0x0/filters:format(jpeg)/pic6164412.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DjrJhjunCcEWl8RX1A1_ag__small/img/1jY7ggOkPr1wjKtJQElpIIBRGiw=/fit-in/200x150/filters:strip_icc()/pic6164412.jpg",
+    "link": "https://boardgamegeek.com/thing/331965",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2021",
+    "playingTime": "180",
+    "minPlayingTime": "120",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "8.4576",
+    "averageWeight": "3.375",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Horror"
+    ],
+    "designers": [
+      "Philip D. Henry"
+    ]
+  }
+}

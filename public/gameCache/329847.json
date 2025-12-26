@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-12-26T19:59:39.808Z",
+  "gameDetails": {
+    "id": "329847",
+    "name": "Agricola: Consul Dirigens Deck",
+    "type": "boardgameexpansion",
+    "description": "The Agricola: Consul Dirigens Deck contains 120 new cards for Agricola (Revised Edition): a set of 96 cards comprising the missing numbers from the Corbarius and Dulcinaria decks, and 24 bonus cards. The base game rules remain unchanged.\n\nThe Consul Dirigens (or short, CD) deck contains 96 of the 120 cards that have been previously published with the Wizkidz miniatures. The remaining 24 Wizkidz cards are contained in the Corbarius (C) and Dulcinaria (D) decks, which each contain 108 new cards and 12 from the Wizkidz decks.\n\n",
+    "image": "https://cf.geekdo-images.com/lsaMrbEu21fX5ExxsWYxJw__original/img/rV9pHITVhf8Ia8ji4-5NopvuWDc=/0x0/filters:format(jpeg)/pic6589997.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lsaMrbEu21fX5ExxsWYxJw__small/img/-Pvgd225PahoBPa5ACWEMieG1ew=/fit-in/200x150/filters:strip_icc()/pic6589997.jpg",
+    "link": "https://boardgamegeek.com/thing/329847",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "180",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "180",
+    "bestAtCount": null,
+    "averageRating": "8.21158",
+    "averageWeight": "3.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Enclosure",
+      "Hand Management",
+      "Open Drafting",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Economic",
+      "Farming"
+    ],
+    "designers": [
+      "Uwe Rosenberg"
+    ]
+  }
+}

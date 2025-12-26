@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-12-26T20:00:13.942Z",
+  "gameDetails": {
+    "id": "314491",
+    "name": "Meadow",
+    "type": "boardgame",
+    "description": "Meadow is an engaging set collection game with over two hundred unique cards containing hand-painted watercolor illustrations. In the game, players take the role of explorers competing for the title of the most skilled nature observer. To win, they collect cards with the most valuable species, landscapes, and discoveries. Their journey is led by passion, a curiosity of the world, an inquiring mind, and a desire to discover the mysteries of nature. The competition continues at the bonfire where the players race to fulfill the goals of their adventures.\n\nIn this medium-weight board game for 1-4 players, you take turns placing path tokens on one of the two boards. Placing a token on the main board allows the player to get cards, but playing them requires meeting certain requirements. Playing a token on the bonfire board activates special actions (which helps to implement a chosen strategy) and gives the opportunity to achieve goals that provide additional points. Throughout the game, players collect cards in their meadow and surroundings area. At the end, the player with the most points on cards and on the bonfire board wins.\n\nMeadow also includes envelopes with additional cards to open at specific moments...\n\n",
+    "image": "https://cf.geekdo-images.com/9r3qdPijtgoIN24PxFU2gw__original/img/tHQTKwwk4N8J5fpWhsoE8t0FQhw=/0x0/filters:format(jpeg)/pic5894745.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9r3qdPijtgoIN24PxFU2gw__small/img/tugW5aKyC6Vs31QaBX8YvmQiPTQ=/fit-in/200x150/filters:strip_icc()/pic5894745.jpg",
+    "link": "https://boardgamegeek.com/thing/314491",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2021",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.70745",
+    "averageWeight": "2.2543",
+    "boardGameRank": "215",
+    "mechanics": [
+      "Hand Management",
+      "Layering",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Environmental",
+      "Puzzle"
+    ],
+    "designers": [
+      "Klemens Kalicki"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-12-26T19:59:42.005Z",
+  "gameDetails": {
+    "id": "393922",
+    "name": "Agricola: Ephipparius Deck",
+    "type": "boardgameexpansion",
+    "description": "The Ephipparius deck expansion contains 168 new cards for Agricola comprising 84 minor improvements and 84 occupations.\n\nA very special expansion with more cards than former expansions, hence in a new box size: These cards have been thoroughly tested by the best Agricola players in the world. A must for every collector.\n\nThe Ephipparius-deck (E-Deck) can be played on its own, with the base game, or shuffled with any other Agricola expansion decks. \nThis deck works best with Agricola Revised Edition.\n\n",
+    "image": "https://cf.geekdo-images.com/3MnxRmc-uGw5JCFvfIQnrQ__original/img/Bq3kLitwqAZhDRnXGhvtr0wbIPA=/0x0/filters:format(jpeg)/pic7691207.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3MnxRmc-uGw5JCFvfIQnrQ__small/img/9bA7ymwvqS_X6DHvyrMH-oZ4_S4=/fit-in/200x150/filters:strip_icc()/pic7691207.jpg",
+    "link": "https://boardgamegeek.com/thing/393922",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.57925",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Enclosure",
+      "Hand Management",
+      "Open Drafting",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Animals",
+      "Farming"
+    ],
+    "designers": [
+      "Uwe Rosenberg"
+    ]
+  }
+}

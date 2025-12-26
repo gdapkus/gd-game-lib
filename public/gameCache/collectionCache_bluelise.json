@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T19:40:55.934Z",
+  "timestamp": "2025-12-26T20:01:05.024Z",
   "games": [
     {
       "id": "293653",
@@ -1663,17 +1663,17 @@
       "name": "Death Valley",
       "image": "https://cf.geekdo-images.com/aDs97Vr3NP_vc-bg-w1jzw__original/img/EdeCTTIqIn85_BPehdPfnEGXdao=/0x0/filters:format(png)/pic8807033.png",
       "thumbnail": "https://cf.geekdo-images.com/aDs97Vr3NP_vc-bg-w1jzw__small/img/SF4O-o1F_5TpdJPXtPU32nL595M=/fit-in/200x150/filters:strip_icc()/pic8807033.png",
-      "lastmodified": "2025-11-16 12:43:28",
+      "lastmodified": "2025-12-16 08:46:16",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-11-16 12:43:28",
@@ -3843,29 +3843,6 @@
       "ratingTimestamp": "2013-04-08 20:20:39"
     },
     {
-      "id": "42436",
-      "collid": "8546469",
-      "name": "Munchkin Fairy Dust",
-      "image": "https://cf.geekdo-images.com/e6Vh0YMyYCl4wAi_uBfnDw__original/img/E1YRj8ete4TZy73Bi1PlpIn7cmw=/0x0/filters:format(jpeg)/pic8803832.jpg",
-      "thumbnail": "https://cf.geekdo-images.com/e6Vh0YMyYCl4wAi_uBfnDw__small/img/wuX07TSEdL2Fcz44wD-SiOtkAYk=/fit-in/200x150/filters:strip_icc()/pic8803832.jpg",
-      "lastmodified": "2013-04-08 20:20:41",
-      "numplays": "1",
-      "status": {
-        "own": true,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "postdate": "2009-06-20 13:57:31",
-      "rating": 5,
-      "ratingTimestamp": "2013-04-08 20:20:41"
-    },
-    {
       "id": "29678",
       "collid": "7949782",
       "name": "Munchkin Quest",
@@ -3910,6 +3887,29 @@
       "postdate": "2011-12-24 19:21:13",
       "rating": 4,
       "ratingTimestamp": "2022-02-22 11:15:52"
+    },
+    {
+      "id": "42436",
+      "collid": "8546469",
+      "name": "Munchkin Fairy Dust",
+      "image": "https://cf.geekdo-images.com/e6Vh0YMyYCl4wAi_uBfnDw__original/img/E1YRj8ete4TZy73Bi1PlpIn7cmw=/0x0/filters:format(jpeg)/pic8803832.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/e6Vh0YMyYCl4wAi_uBfnDw__small/img/wuX07TSEdL2Fcz44wD-SiOtkAYk=/fit-in/200x150/filters:strip_icc()/pic8803832.jpg",
+      "lastmodified": "2013-04-08 20:20:41",
+      "numplays": "1",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2009-06-20 13:57:31",
+      "rating": 5,
+      "ratingTimestamp": "2013-04-08 20:20:41"
     },
     {
       "id": "68942",
@@ -4147,17 +4147,17 @@
       "name": "Next Station: London",
       "image": "https://cf.geekdo-images.com/T-eq9Ux4gkmqfEXry8HC1w__original/img/FgPzhjwC0X0-6ZNLhowN8iccREA=/0x0/filters:format(jpeg)/pic9018430.jpg",
       "thumbnail": "https://cf.geekdo-images.com/T-eq9Ux4gkmqfEXry8HC1w__small/img/6OG1_bmI_3NkAeD-IT9dJnFHmmc=/fit-in/200x150/filters:strip_icc()/pic9018430.jpg",
-      "lastmodified": "2025-03-04 16:15:11",
+      "lastmodified": "2025-12-16 08:44:41",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-03-04 16:15:11",
@@ -6240,10 +6240,10 @@
       "name": "Sprawlopolis",
       "image": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__original/img/70LwdlP8ezNxe00B48mSmzFfStU=/0x0/filters:format(png)/pic4654146.png",
       "thumbnail": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__small/img/8IMkDRysr2XJafkJGGWoWRcj3e0=/fit-in/200x150/filters:strip_icc()/pic4654146.png",
-      "lastmodified": "2024-10-18 14:57:00",
+      "lastmodified": "2025-12-16 08:45:51",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -6599,6 +6599,29 @@
         "preordered": false
       },
       "postdate": "2017-10-23 12:44:27",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "352454",
+      "collid": "139828517",
+      "name": "Trailblazers",
+      "image": "https://cf.geekdo-images.com/T4sN6cFeZy5Kv9Ajoubosw__original/img/_tBPk3WbZWBa0drSUbPGrDIKK4U=/0x0/filters:format(png)/pic8530930.png",
+      "thumbnail": "https://cf.geekdo-images.com/T4sN6cFeZy5Kv9Ajoubosw__small/img/CelxB6sOR51d5PIzgOSRz1bcMXQ=/fit-in/200x150/filters:strip_icc()/pic8530930.png",
+      "lastmodified": "2025-12-16 08:45:28",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2025-12-16 08:45:28",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },

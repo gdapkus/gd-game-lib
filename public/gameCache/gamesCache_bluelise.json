@@ -1,6 +1,206 @@
 {
-  "timestamp": "2025-12-03T19:46:22.180Z",
+  "timestamp": "2025-12-26T20:06:41.210Z",
   "games": [
+    {
+      "id": "322703",
+      "name": "Death Valley",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2025-11-16 12:43:28",
+      "lastmodified": "2025-12-16 08:46:16",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/aDs97Vr3NP_vc-bg-w1jzw__small/img/SF4O-o1F_5TpdJPXtPU32nL595M=/fit-in/200x150/filters:strip_icc()/pic8807033.png",
+      "link": "https://boardgamegeek.com/thing/322703",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.73819",
+      "averageWeight": "1.8367",
+      "boardGameRank": "3376",
+      "mechanics": [
+        "Pattern Building",
+        "Push Your Luck",
+        "Solo / Solitaire Game",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Print & Play",
+        "Travel"
+      ],
+      "designers": [
+        "Kevin Ellenburg"
+      ]
+    },
+    {
+      "id": "251658",
+      "name": "Sprawlopolis",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2024-10-17 14:42:43",
+      "lastmodified": "2025-12-16 08:45:51",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0=/fit-in/200x150/filters:strip_icc()/pic4654146.png",
+      "link": "https://boardgamegeek.com/thing/251658",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "20",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "20",
+      "averageRating": "7.30556",
+      "averageWeight": "1.8248",
+      "boardGameRank": "479",
+      "mechanics": [
+        "Closed Drafting",
+        "Cooperative Game",
+        "Hand Management",
+        "Layering",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Card Game",
+        "City Building",
+        "Territory Building"
+      ],
+      "designers": [
+        "Steven Aramini",
+        "Danny Devine",
+        "Paul Kluka"
+      ]
+    },
+    {
+      "id": "352454",
+      "name": "Trailblazers",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2025-12-16 08:45:28",
+      "lastmodified": "2025-12-16 08:45:28",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/jjLaKzZiy432J-5uKg_c5w__small/img/jSleThjpY7UYLNKD7AugwGOY_MM=/fit-in/200x150/filters:strip_icc()/pic6772212.jpg",
+      "link": "https://boardgamegeek.com/thing/352454",
+      "minPlayers": "1",
+      "maxPlayers": "8",
+      "bestAtCount": "1, 3",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.01962",
+      "averageWeight": "1.7826",
+      "boardGameRank": "2048",
+      "mechanics": [
+        "Closed Drafting",
+        "End Game Bonuses",
+        "Hand Management",
+        "Layering",
+        "Map Addition",
+        "Modular Board",
+        "Network and Route Building",
+        "Push Your Luck",
+        "Race",
+        "Set Collection",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Adventure",
+        "Animals",
+        "Card Game",
+        "Puzzle"
+      ],
+      "designers": [
+        "Ryan Courtney"
+      ]
+    },
+    {
+      "id": "353545",
+      "name": "Next Station: London",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2025-03-04 16:15:11",
+      "lastmodified": "2025-12-16 08:44:41",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/T-eq9Ux4gkmqfEXry8HC1w__small/img/6OG1_bmI_3NkAeD-IT9dJnFHmmc=/fit-in/200x150/filters:strip_icc()/pic9018430.jpg",
+      "link": "https://boardgamegeek.com/thing/353545",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 4",
+      "playingTime": "30",
+      "minPlayingTime": "25",
+      "maxPlayingTime": "30",
+      "averageRating": "7.42548",
+      "averageWeight": "1.4875",
+      "boardGameRank": "581",
+      "mechanics": [
+        "Bingo",
+        "Connections",
+        "End Game Bonuses",
+        "Line Drawing",
+        "Network and Route Building",
+        "Paper-and-Pencil"
+      ],
+      "categories": [
+        "City Building",
+        "Trains"
+      ],
+      "designers": [
+        "Matthew Dunstan"
+      ]
+    },
     {
       "id": "416851",
       "name": "Castle Combo",
@@ -277,52 +477,6 @@
       "designers": [
         "Dustin Dobson",
         "Milan Zivkovic"
-      ]
-    },
-    {
-      "id": "322703",
-      "name": "Death Valley",
-      "yearPublished": "2021",
-      "type": "boardgame",
-      "postdate": "2025-11-16 12:43:28",
-      "lastmodified": "2025-11-16 12:43:28",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/aDs97Vr3NP_vc-bg-w1jzw__small/img/SF4O-o1F_5TpdJPXtPU32nL595M=/fit-in/200x150/filters:strip_icc()/pic8807033.png",
-      "link": "https://boardgamegeek.com/thing/322703",
-      "minPlayers": "1",
-      "maxPlayers": "2",
-      "bestAtCount": "2",
-      "playingTime": "15",
-      "minPlayingTime": "15",
-      "maxPlayingTime": "15",
-      "averageRating": "6.73819",
-      "averageWeight": "1.8367",
-      "boardGameRank": "3376",
-      "mechanics": [
-        "Pattern Building",
-        "Push Your Luck",
-        "Solo / Solitaire Game",
-        "Take That"
-      ],
-      "categories": [
-        "Card Game",
-        "Print & Play",
-        "Travel"
-      ],
-      "designers": [
-        "Kevin Ellenburg"
       ]
     },
     {
@@ -804,53 +958,6 @@
       ]
     },
     {
-      "id": "353545",
-      "name": "Next Station: London",
-      "yearPublished": "2022",
-      "type": "boardgame",
-      "postdate": "2025-03-04 16:15:11",
-      "lastmodified": "2025-03-04 16:15:11",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/T-eq9Ux4gkmqfEXry8HC1w__small/img/6OG1_bmI_3NkAeD-IT9dJnFHmmc=/fit-in/200x150/filters:strip_icc()/pic9018430.jpg",
-      "link": "https://boardgamegeek.com/thing/353545",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "2, 4",
-      "playingTime": "30",
-      "minPlayingTime": "25",
-      "maxPlayingTime": "30",
-      "averageRating": "7.42548",
-      "averageWeight": "1.4875",
-      "boardGameRank": "581",
-      "mechanics": [
-        "Bingo",
-        "Connections",
-        "End Game Bonuses",
-        "Line Drawing",
-        "Network and Route Building",
-        "Paper-and-Pencil"
-      ],
-      "categories": [
-        "City Building",
-        "Trains"
-      ],
-      "designers": [
-        "Matthew Dunstan"
-      ]
-    },
-    {
       "id": "400044",
       "name": "Tulip Season",
       "yearPublished": "2025",
@@ -1276,56 +1383,6 @@
         "Print & Play"
       ],
       "designers": []
-    },
-    {
-      "id": "251658",
-      "name": "Sprawlopolis",
-      "yearPublished": "2018",
-      "type": "boardgame",
-      "postdate": "2024-10-17 14:42:43",
-      "lastmodified": "2024-10-18 14:57:00",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0=/fit-in/200x150/filters:strip_icc()/pic4654146.png",
-      "link": "https://boardgamegeek.com/thing/251658",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "20",
-      "minPlayingTime": "15",
-      "maxPlayingTime": "20",
-      "averageRating": "7.30556",
-      "averageWeight": "1.8248",
-      "boardGameRank": "479",
-      "mechanics": [
-        "Closed Drafting",
-        "Cooperative Game",
-        "Hand Management",
-        "Layering",
-        "Solo / Solitaire Game",
-        "Tile Placement"
-      ],
-      "categories": [
-        "Card Game",
-        "City Building",
-        "Territory Building"
-      ],
-      "designers": [
-        "Steven Aramini",
-        "Danny Devine",
-        "Paul Kluka"
-      ]
     },
     {
       "id": "327643",
@@ -2050,7 +2107,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__thumb/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__small/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
       "link": "https://boardgamegeek.com/thing/366013",
       "minPlayers": "1",
       "maxPlayers": "6",
@@ -2058,9 +2115,9 @@
       "playingTime": "60",
       "minPlayingTime": "30",
       "maxPlayingTime": "60",
-      "averageRating": "8.04809",
-      "averageWeight": "2.193",
-      "boardGameRank": "40",
+      "averageRating": "8.00593",
+      "averageWeight": "2.2004",
+      "boardGameRank": "45",
       "mechanics": [
         "Catch the Leader",
         "Deck, Bag, and Pool Building",
@@ -4031,7 +4088,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__thumb/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__small/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
       "link": "https://boardgamegeek.com/thing/367220",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -4039,19 +4096,20 @@
       "playingTime": "45",
       "minPlayingTime": "30",
       "maxPlayingTime": "45",
-      "averageRating": "7.48962",
-      "averageWeight": "1.4493",
-      "boardGameRank": "335",
+      "averageRating": "7.50368",
+      "averageWeight": "1.4778",
+      "boardGameRank": "270",
       "mechanics": [
         "Hand Management",
         "Open Drafting",
         "Push Your Luck",
-        "Set Collection"
+        "Score-and-Reset Game",
+        "Set Collection",
+        "Sudden Death Ending"
       ],
       "categories": [
         "Animals",
-        "Card Game",
-        "Nautical"
+        "Card Game"
       ],
       "designers": [
         "Bruno Cathala",

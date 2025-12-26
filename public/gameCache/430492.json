@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-12-26T20:05:19.285Z",
+  "gameDetails": {
+    "id": "430492",
+    "name": "Men Nefer: Promo Tiles",
+    "type": "boardgameexpansion",
+    "description": "These promotional tiles include two new gods and a new queens pyramid tile as well as the rules for including them in the game.\n\n",
+    "image": "https://cf.geekdo-images.com/OHAaDEmSCVGBkgCKLQ6ukQ__original/img/VqxSNnxHoahO6fvxPoe3qifJFU0=/0x0/filters:format(jpeg)/pic8471367.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OHAaDEmSCVGBkgCKLQ6ukQ__small/img/8ezRVexs5HXiTIZCkPCqJpICwSA=/fit-in/200x150/filters:strip_icc()/pic8471367.jpg",
+    "link": "https://boardgamegeek.com/thing/430492",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.924",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Income",
+      "Open Drafting",
+      "Set Collection",
+      "Track Movement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Ancient",
+      "Civilization",
+      "Industry / Manufacturing"
+    ],
+    "designers": [
+      "Germán P. Millán"
+    ]
+  }
+}

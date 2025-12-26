@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-12-26T19:59:44.438Z",
+  "gameDetails": {
+    "id": "427705",
+    "name": "Apiary: Expanding the Hive",
+    "type": "boardgameexpansion",
+    "description": "Apiary: Expanding the Hive adds to the variety of the core game with components all designed to fit inside the original insert and a comprehensive appendix that covers the core game and the expansion. It features a few bigger additions (7 new hive mats, 15 unique frames, and 15 new seed cards), along with a greater variety of tiles and tokens, plus a few updated components.\n\n&mdash;description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/RLuG8yld4HACaK8A6CpoYg__original/img/hBtzmBXg79h3DdaSUX6bgoY9i9c=/0x0/filters:format(jpeg)/pic8391222.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RLuG8yld4HACaK8A6CpoYg__small/img/MK7a7_YjYnD8GA047czZVR3X7o0=/fit-in/200x150/filters:strip_icc()/pic8391222.jpg",
+    "link": "https://boardgamegeek.com/thing/427705",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.26479",
+    "averageWeight": "2.8571",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Connie Vogelmann"
+    ]
+  }
+}

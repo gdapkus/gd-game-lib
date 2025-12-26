@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T00:12:43.155Z",
+  "timestamp": "2025-12-26T19:56:57.195Z",
   "games": [
     {
       "id": "363039",
@@ -322,6 +322,29 @@
       "postdate": "2008-12-09 16:38:32",
       "rating": null,
       "ratingTimestamp": "2009-03-23 17:59:15"
+    },
+    {
+      "id": "253170",
+      "collid": "140222059",
+      "name": "5-Minute Dungeon: Curses! Foiled Again!",
+      "image": "https://cf.geekdo-images.com/aNf7qtwV7SuZOpW8kwXNJg__original/img/KNMsRvsfY2P58-QriTxz646Ar-U=/0x0/filters:format(jpeg)/pic7472626.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/aNf7qtwV7SuZOpW8kwXNJg__small/img/WYOCWWGHozJn-gNVLB51nytz3VI=/fit-in/200x150/filters:strip_icc()/pic7472626.jpg",
+      "lastmodified": "2025-12-26 10:37:25",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2025-12-26 10:37:24",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
       "id": "175878",
@@ -1656,6 +1679,29 @@
       "postdate": "2009-01-19 13:59:59",
       "rating": null,
       "ratingTimestamp": "2009-03-17 11:50:09"
+    },
+    {
+      "id": "424784",
+      "collid": "140221963",
+      "name": "Arkham Horror: Lovecraft Letter",
+      "image": "https://cf.geekdo-images.com/hLfQAtkN8m06_L3xAtqXEQ__original/img/EdWsCpTM0VqDLQuSTsTuGjGUuKY=/0x0/filters:format(png)/pic8544768.png",
+      "thumbnail": "https://cf.geekdo-images.com/hLfQAtkN8m06_L3xAtqXEQ__small/img/noJhLlB0U0_TVyBj_pQRm07qxWI=/fit-in/200x150/filters:strip_icc()/pic8544768.png",
+      "lastmodified": "2025-12-26 10:35:44",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2025-12-26 10:35:44",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
       "id": "154825",
@@ -4464,6 +4510,29 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
+      "id": "383010",
+      "collid": "140222079",
+      "name": "Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic",
+      "image": "https://cf.geekdo-images.com/xzG46GKyfJM2HEhZVQ_K9Q__original/img/Mu-qpyRYwEoXO3x8kLxcb0QfXJA=/0x0/filters:format(jpeg)/pic7419605.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/xzG46GKyfJM2HEhZVQ_K9Q__small/img/_B8rs7Koi0Zz_9AZny2WPDpOmAc=/fit-in/200x150/filters:strip_icc()/pic7419605.jpg",
+      "lastmodified": "2025-12-26 10:37:57",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2025-12-26 10:37:57",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "266507",
       "collid": "123191400",
       "name": "Clank! Legacy: Acquisitions Incorporated",
@@ -4809,6 +4878,29 @@
       "ratingTimestamp": "2009-12-21 17:47:33"
     },
     {
+      "id": "453893",
+      "collid": "139395350",
+      "name": "Collect!",
+      "image": "https://cf.geekdo-images.com/4BOrkLzSy1Oquo3VwaToiA__original/img/r-vY54792Z8w1FpLx6_7UyzLLpk=/0x0/filters:format(png)/pic9091458.png",
+      "thumbnail": "https://cf.geekdo-images.com/4BOrkLzSy1Oquo3VwaToiA__small/img/IOrvq7TpHpu41mStx10f0C_xICw=/fit-in/200x150/filters:strip_icc()/pic9091458.png",
+      "lastmodified": "2025-12-04 14:11:19",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "postdate": "2025-12-04 14:11:19",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "192836",
       "collid": "43235064",
       "name": "The Colonists",
@@ -4906,10 +4998,10 @@
       "name": "Compile: Main 2",
       "image": "https://cf.geekdo-images.com/NlEJZ82WjMzIdPyEcQJiUQ__original/img/laD5y23DHl2_gvBMn7JoZU1y_BQ=/0x0/filters:format(jpeg)/pic8883907.jpg",
       "thumbnail": "https://cf.geekdo-images.com/NlEJZ82WjMzIdPyEcQJiUQ__small/img/4SPm5ULu1rmxaQ8nO_i7ibJqyrM=/fit-in/200x150/filters:strip_icc()/pic8883907.jpg",
-      "lastmodified": "2025-12-03 13:11:28",
+      "lastmodified": "2025-12-26 10:34:16",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -4917,7 +5009,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-12-03 13:11:28",
       "rating": null,
@@ -10610,7 +10702,7 @@
       "name": "JOYRIDE DUEL: Next Gen",
       "image": "https://cf.geekdo-images.com/00yYWNtiL4-RkqDmRSao_A__original/img/UQrp3StrW6YJvNVfaD8ulVRd2-U=/0x0/filters:format(jpeg)/pic8244594.jpg",
       "thumbnail": "https://cf.geekdo-images.com/00yYWNtiL4-RkqDmRSao_A__small/img/EPZxUVHGfMbzNKSjo_CFOH-u-GI=/fit-in/200x150/filters:strip_icc()/pic8244594.jpg",
-      "lastmodified": "2025-11-02 01:30:03",
+      "lastmodified": "2025-12-26 10:34:24",
       "numplays": "0",
       "status": {
         "own": true,
@@ -10656,10 +10748,10 @@
       "name": "JOYRIDE: Survival of the Fastest",
       "image": "https://cf.geekdo-images.com/ywWVqGH03eEOWFaRPtmlAg__original/img/igW-m9SJJZJe-uRH1UaZVcn0AhU=/0x0/filters:format(png)/pic7186560.png",
       "thumbnail": "https://cf.geekdo-images.com/ywWVqGH03eEOWFaRPtmlAg__small/img/zSIuSMwVuw0ZnLBCow6a71SBeHM=/fit-in/200x150/filters:strip_icc()/pic7186560.png",
-      "lastmodified": "2025-11-20 19:52:22",
+      "lastmodified": "2025-12-26 10:34:32",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -10667,7 +10759,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-10-25 14:22:49",
       "rating": null,
@@ -16245,17 +16337,17 @@
       "name": "Resafa",
       "image": "https://cf.geekdo-images.com/aTDLIq7UfNrcORpwbU61UA__original/img/KQD97S4S3uzgpOMBFFIZsk4hJps=/0x0/filters:format(jpeg)/pic8361340.jpg",
       "thumbnail": "https://cf.geekdo-images.com/aTDLIq7UfNrcORpwbU61UA__small/img/0-tVIFJeyTO5erNPcU9T1IaGKt8=/fit-in/200x150/filters:strip_icc()/pic8361340.jpg",
-      "lastmodified": "2024-10-02 19:47:14",
+      "lastmodified": "2025-12-16 12:52:55",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-10-02 19:47:14",
@@ -16535,6 +16627,29 @@
         "preordered": false
       },
       "postdate": "2013-06-14 20:47:34",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "399941",
+      "collid": "139838354",
+      "name": "River of Gold",
+      "image": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__original/img/VNiDkGDA9mEdFmWPCoH7lUBnG8E=/0x0/filters:format(jpeg)/pic7697889.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__small/img/mrk3uMkr4tmCWUmqs0BR4cAycEo=/fit-in/200x150/filters:strip_icc()/pic7697889.jpg",
+      "lastmodified": "2025-12-16 14:02:34",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "postdate": "2025-12-16 14:02:34",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -16820,7 +16935,7 @@
       "name": "Rudolph",
       "image": "https://cf.geekdo-images.com/nnbBIY4dRIvAHGyWh2gB4w__original/img/GBXM1d7AV0bhTeOxup5Ip8TvDp8=/0x0/filters:format(jpeg)/pic9125165.jpg",
       "thumbnail": "https://cf.geekdo-images.com/nnbBIY4dRIvAHGyWh2gB4w__small/img/rWRu-YMwh72mnZwQYs4u9bPGfPE=/fit-in/200x150/filters:strip_icc()/pic9125165.jpg",
-      "lastmodified": "2025-12-03 13:18:11",
+      "lastmodified": "2025-12-26 10:34:46",
       "numplays": "0",
       "status": {
         "own": false,
@@ -16831,7 +16946,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-12-03 13:18:11",
       "rating": null,
@@ -17280,10 +17395,10 @@
       "name": "Sea Salt & Paper",
       "image": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__original/img/AX2wyHhWFgVh5OArXAjVHY-nFZg=/0x0/filters:format(jpeg)/pic6973911.jpg",
       "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__small/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
-      "lastmodified": "2025-12-03 13:06:48",
+      "lastmodified": "2025-12-26 10:34:51",
       "numplays": "5",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -17291,7 +17406,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-10-25 14:20:55",
       "rating": null,
@@ -17303,10 +17418,10 @@
       "name": "Sea Salt & Paper: Extra Pepper",
       "image": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__original/img/MOVm4qZbZrkQN7_AqBfGm-BMsEQ=/0x0/filters:format(png)/pic8822830.png",
       "thumbnail": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__small/img/uQwYaaNlYpC51BLyuL95u5FhYKo=/fit-in/200x150/filters:strip_icc()/pic8822830.png",
-      "lastmodified": "2025-12-03 13:06:59",
+      "lastmodified": "2025-12-26 10:34:56",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -17314,7 +17429,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-11-26 15:38:42",
       "rating": null,
@@ -17326,10 +17441,10 @@
       "name": "Sea Salt & Paper: Extra Salt",
       "image": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__original/img/5PL-OXwTjbWiYiDCPdhJa5j_E8Q=/0x0/filters:format(jpeg)/pic7731597.jpg",
       "thumbnail": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__small/img/qGTssy-U4rf5zTilJPd3nl3c1Nk=/fit-in/200x150/filters:strip_icc()/pic7731597.jpg",
-      "lastmodified": "2025-12-03 13:06:53",
+      "lastmodified": "2025-12-26 10:35:00",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -17337,7 +17452,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-11-26 15:38:46",
       "rating": null,
@@ -18706,7 +18821,7 @@
       "name": "Speakeasy",
       "image": "https://cf.geekdo-images.com/Y7vIlh-m_Ugnv0jrUuOW3g__original/img/anztl_yjkT6QMcW4p5Dit7KAChE=/0x0/filters:format(jpeg)/pic8165052.jpg",
       "thumbnail": "https://cf.geekdo-images.com/Y7vIlh-m_Ugnv0jrUuOW3g__small/img/pTIdvbosIWlLSxorWRMWkUkeSj8=/fit-in/200x150/filters:strip_icc()/pic8165052.jpg",
-      "lastmodified": "2025-11-22 01:41:42",
+      "lastmodified": "2025-12-08 18:12:52",
       "numplays": "0",
       "status": {
         "own": false,
@@ -18715,8 +18830,8 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-09-13 11:38:22",
@@ -19626,8 +19741,8 @@
       "name": "Tag Team",
       "image": "https://cf.geekdo-images.com/sLSlzWRe8Ixnksqawkzb3Q__original/img/EylfRGx2qLzoQ3scqz19GPQYxo0=/0x0/filters:format(jpeg)/pic8805857.jpg",
       "thumbnail": "https://cf.geekdo-images.com/sLSlzWRe8Ixnksqawkzb3Q__small/img/O9Kg90i8kSi8N2ndrOKXaTTrQXE=/fit-in/200x150/filters:strip_icc()/pic8805857.jpg",
-      "lastmodified": "2025-12-03 11:54:55",
-      "numplays": "0",
+      "lastmodified": "2025-12-26 10:35:06",
+      "numplays": "3",
       "status": {
         "own": false,
         "prevowned": false,
@@ -19637,7 +19752,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-11-26 15:38:12",
       "rating": null,
@@ -19672,7 +19787,7 @@
       "name": "Take Time",
       "image": "https://cf.geekdo-images.com/h6Bg4PZkapMB-fYfugoBrw__original/img/-lDv1CgLGKvgwJE60okL_RSYv3U=/0x0/filters:format(png)/pic8751380.png",
       "thumbnail": "https://cf.geekdo-images.com/h6Bg4PZkapMB-fYfugoBrw__small/img/VZJFm572UpCvVpityT6iywOmlQU=/fit-in/200x150/filters:strip_icc()/pic8751380.png",
-      "lastmodified": "2025-11-02 01:31:23",
+      "lastmodified": "2025-12-26 10:35:12",
       "numplays": "0",
       "status": {
         "own": true,

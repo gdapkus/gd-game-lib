@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-12-26T20:00:18.589Z",
+  "gameDetails": {
+    "id": "330152",
+    "name": "Nature",
+    "type": "boardgame",
+    "description": "Nature is a redesign of the blockbuster Evolution to be more streamlined, more forgiving, and seamlessly expandable. The secret sauce is a modular system that allows players to create and explore a unique ecosystem each time they play.\n\nAdapt to the Changing Environment:\nThe goal is to grow thriving populations in an ecosystem where food is scarce and predators lurk. Evolve traits like Tusked for foraging, Fast for escaping danger, or Clawed for hunting.\n\nCreate a Unique Ecosystem Each Time You Play:\nThe core game of Nature is an accessible gateway into a world of dynamic ecosystems. Add the Jurassic module for a more aggressive game with colossal dinosaurs, or the Arctic Tundra module to experience life on the edge of the habitable world.  There are currently 5 modules and 2 mini-modules that can be combined to create 96 different ecosystems. After the GenCon 2026 release of Climate module and 2 new mini-modules, there will be over 700 combinations to explore!\n\nHow to Play:\nNature is a card-driven tableau-builder played over 4 rounds. Each round is split between the Adapting Phase and the Feeding Phase.\n\nAdapting Phase: Use 5 cards as actions to do the following: \n- Increase Population\n- Increase Body Size\n- Play as a Trait to power-up your species\n- Save to be used as food during the Feeding Phase\n\nFeeding Phase: Feed as many of your population as possible. At the end of the round, players get 1 point for each population they kept alive. The winner is the player that kept the most population alive over all 4 rounds.\n\n\n\nNature Digital: Learn to play with an interactive tutorial on the free-to-try Nature app (iOS, Android, and Steam).\nhttps://www.naturedigitalgame.com/\n\n\nA Living Game System:\nNorthStar Studio will release the Climate module in 2026, plus 1-2 new modules yearly for the next decade.\nVote for your favorite future module here: https://boardgamegeek.com/blog/308/blogpost/166360/future-nature-modules-poll\n\nDesigner Diary'\nHere is a link to the BGG designer diary that talks about the inspiration for Nature.\nhttps://boardgamegeek.com/blog/1/blogpost/179068/designer-diary-the-evolution-of-nature&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/rNOQrjNmhTaBmaAyZah8cA__original/img/5sUjBWXScLovzOPg0C2a3Kx091E=/0x0/filters:format(jpeg)/pic8115796.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rNOQrjNmhTaBmaAyZah8cA__small/img/xSEV-lmGayPsB3m8ADrZH1zWQbQ=/fit-in/200x150/filters:strip_icc()/pic8115796.jpg",
+    "link": "https://boardgamegeek.com/thing/330152",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.08275",
+    "averageWeight": "2.2258",
+    "boardGameRank": "4251",
+    "mechanics": [
+      "Chaining",
+      "Hand Management",
+      "Move Through Deck",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Educational",
+      "Environmental"
+    ],
+    "designers": [
+      "Dominic Crapuchettes"
+    ]
+  }
+}

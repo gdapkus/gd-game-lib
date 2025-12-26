@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-12-26T19:59:49.650Z",
+  "gameDetails": {
+    "id": "380837",
+    "name": "Botany",
+    "type": "boardgame",
+    "description": "Adventure, intrigue, and flowers! Botany is a strategy board game where you take on the role of a Victorian Era flower hunter as you explore the world to gather fortune and fame and be named the Royal Botanist. In Botany, each player takes on the role of a character whose abilities will shape the way they play the game. Will you focus on exploring the globe in search of the most valuable specimens? Will you make quick and efficient trips to gather reputation quickly and build your estate?\n\nEach player begins the game with a set of randomized goals that they then use to plot their path to victory. When players set out from their estate, they have access only to the coins they can carry with them. They can use these coins to traverse the globe and gain crew members and items to improve their odds of surviving the unknown, enhance their abilities, and increase the efficiency with which they traverse the map. However, there is danger in spending too freely, and players must ensure they have enough wealth on hand to return to England with their specimens intact.\n\nTurns in Botany are streamlined in order to minimize downtime and keep players engaged. Players will move around the map, build their character, and experience the story of their rise to fame, all with an eye for efficiency. Points are gained by improving the quality of your garden, retrieving live specimens from around the globe, and adding preserved flowers to your botanical press. The specimens that players hunt, the goals they focus on to achieve victory, and the events they experience create a unique feel across each game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/keC0oy0nbpewpRTdcte42Q__original/img/QNK35DZ__DvatgNqOkXKdZF5QM0=/0x0/filters:format(png)/pic7361181.png",
+    "thumbnail": "https://cf.geekdo-images.com/keC0oy0nbpewpRTdcte42Q__small/img/HZKE-1leOFpU4Ny_dVpzPITexXs=/fit-in/200x150/filters:strip_icc()/pic7361181.png",
+    "link": "https://boardgamegeek.com/thing/380837",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "6.99657",
+    "averageWeight": "2.0741",
+    "boardGameRank": "3907",
+    "mechanics": [
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Events",
+      "Investment",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Educational",
+      "Humor",
+      "Travel"
+    ],
+    "designers": [
+      "Amy Droz",
+      "Dusty Droz"
+    ]
+  }
+}

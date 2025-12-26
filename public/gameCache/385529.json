@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-12-26T20:00:34.885Z",
+  "gameDetails": {
+    "id": "385529",
+    "name": "The Vale of Eternity",
+    "type": "boardgame",
+    "description": "In The Vale of Eternity, players are tamers who hunt various monsters and spirits to tame them as minions. In this fantasy world, numerous creatures are living in harmony. Among them, dragons are the most valuable and noble ones, and all tamers dream of taming dragons. The player who manages to tame the most outstanding minions wins.\n\nIn each round, a player has three phases:\n\n\n    Hunting phase: Draft two cards from the game board.\n    Action phase: Take various actions, including selling cards, taming, or summoning cards.\n    Resolution phase: Use the active effects of cards they have summoned.\n\n\nSuccessive rounds are performed until the end of the game is triggered. The game includes cards of seventy creatures from myths all around the world.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/yWwckUmFXuGXxp41-vFaVQ__original/img/FHotXyNFHc3pC2fcu5i8HjrVis4=/0x0/filters:format(png)/pic7461472.png",
+    "thumbnail": "https://cf.geekdo-images.com/yWwckUmFXuGXxp41-vFaVQ__small/img/ilHQqYcV-QqEkCF3GZ2XffcusrQ=/fit-in/200x150/filters:strip_icc()/pic7461472.png",
+    "link": "https://boardgamegeek.com/thing/385529",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.60213",
+    "averageWeight": "2.1429",
+    "boardGameRank": "364",
+    "mechanics": [
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Race",
+      "Set Collection",
+      "Tags",
+      "Turn Order: Progressive"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Mythology"
+    ],
+    "designers": [
+      "Eric Hong"
+    ]
+  }
+}

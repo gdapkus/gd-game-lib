@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-12-26T20:00:04.014Z",
+  "gameDetails": {
+    "id": "421471",
+    "name": "Deep Regrets: Lamentable Tentacles Mini-Expansion",
+    "type": "boardgameexpansion",
+    "description": "18 additional fish cards to add to the base game, all featuring far too many tentacles and everybody's favorite great old one. Compatible with solo mode!\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/fc4q35iV-qG26y3qXcs4wQ__original/img/htwpppXFy6laYh2zBKUhbKKuj8k=/0x0/filters:format(png)/pic8296509.png",
+    "thumbnail": "https://cf.geekdo-images.com/fc4q35iV-qG26y3qXcs4wQ__small/img/_8qAI5ZLKUEgOThUutqt3kkcW5k=/fit-in/200x150/filters:strip_icc()/pic8296509.png",
+    "link": "https://boardgamegeek.com/thing/421471",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "150",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.84562",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game",
+      "Horror"
+    ],
+    "designers": [
+      "Judson Cowan"
+    ]
+  }
+}

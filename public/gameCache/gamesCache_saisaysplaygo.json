@@ -1,6 +1,265 @@
 {
-  "timestamp": "2025-12-03T23:29:41.383Z",
+  "timestamp": "2025-12-26T20:06:20.221Z",
   "games": [
+    {
+      "id": "1111",
+      "name": "Taboo",
+      "yearPublished": "1989",
+      "type": "boardgame",
+      "postdate": "2007-07-30 18:44:34",
+      "lastmodified": "2025-12-24 18:04:34",
+      "myrating": 6,
+      "numplays": "1",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/TdOB9V-wTf0LenXk8QWo-A__thumb/img/FU6jPnm6yzKxH8au69ZAJwC2wpY=/fit-in/200x150/filters:strip_icc()/pic8377520.jpg",
+      "link": "https://boardgamegeek.com/thing/1111",
+      "minPlayers": "4",
+      "maxPlayers": "10",
+      "bestAtCount": "6, 8",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "6.30436",
+      "averageWeight": "1.2073",
+      "boardGameRank": "2330",
+      "mechanics": [
+        "Communication Limits",
+        "Team-Based Game"
+      ],
+      "categories": [
+        "Party Game",
+        "Real-time",
+        "Word Game"
+      ],
+      "designers": [
+        "Brian Hersch"
+      ]
+    },
+    {
+      "id": "350184",
+      "name": "Earth",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2023-08-23 09:39:08",
+      "lastmodified": "2025-12-23 12:36:40",
+      "myrating": 5,
+      "numplays": "6",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/0xqF_KyOb7V26Lu5YT3fxw__thumb/img/ABTwzzMGekkz2jVl01LC4789TcQ=/fit-in/200x150/filters:strip_icc()/pic6699821.jpg",
+      "link": "https://boardgamegeek.com/thing/350184",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2, 3",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.6703",
+      "averageWeight": "2.8845",
+      "boardGameRank": "191",
+      "mechanics": [
+        "Contracts",
+        "End Game Bonuses",
+        "Follow",
+        "Hand Management",
+        "Pattern Building",
+        "Solo / Solitaire Game",
+        "Tags",
+        "Team-Based Game",
+        "Tile Placement",
+        "Variable Set-up",
+        "Victory Points as a Resource"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "Educational",
+        "Environmental"
+      ],
+      "designers": [
+        "Maxime Tardif"
+      ]
+    },
+    {
+      "id": "246431",
+      "name": "The Quest for El Dorado: Heroes & Hexes",
+      "yearPublished": "2018",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-16 16:10:31",
+      "lastmodified": "2025-12-16 16:10:31",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/QBmpa-_VClr0lEIE132MSw__thumb/img/aFBGonO3aLLKbU2bWRUqFsD-xaQ=/fit-in/200x150/filters:strip_icc()/pic6214976.jpg",
+      "link": "https://boardgamegeek.com/thing/246431",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 4",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.72934",
+      "averageWeight": "2.0645",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Delayed Purchase",
+        "Grid Movement",
+        "Hand Management",
+        "Hexagon Grid",
+        "Hot Potato",
+        "Modular Board",
+        "Multi-Use Cards",
+        "Once-Per-Game Abilities",
+        "Open Drafting",
+        "Race",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Reiner Knizia"
+      ]
+    },
+    {
+      "id": "217372",
+      "name": "The Quest for El Dorado",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2025-10-21 21:03:16",
+      "lastmodified": "2025-12-16 16:08:53",
+      "myrating": 8,
+      "numplays": "2",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/b5VyYjNfAxJ4Z-Dx2UWlqg__thumb/img/TB_X7b0PIfykfnI12rm3bt6rnGY=/fit-in/200x150/filters:strip_icc()/pic7945692.jpg",
+      "link": "https://boardgamegeek.com/thing/217372",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 4",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.69388",
+      "averageWeight": "1.9399",
+      "boardGameRank": "122",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Delayed Purchase",
+        "Grid Movement",
+        "Hand Management",
+        "Hexagon Grid",
+        "Modular Board",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Race",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Adventure",
+        "Exploration",
+        "Racing"
+      ],
+      "designers": [
+        "Reiner Knizia"
+      ]
+    },
+    {
+      "id": "342942",
+      "name": "Ark Nova",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2022-06-30 23:48:09",
+      "lastmodified": "2025-12-12 10:26:50",
+      "myrating": 9,
+      "numplays": "96",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__thumb/img/4KuHNTWSMPf8vTNDKSRMMI3oOv8=/fit-in/200x150/filters:strip_icc()/pic6293412.jpg",
+      "link": "https://boardgamegeek.com/thing/342942",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "150",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "150",
+      "averageRating": "8.5328",
+      "averageWeight": "3.7685",
+      "boardGameRank": "4",
+      "mechanics": [
+        "Action Queue",
+        "End Game Bonuses",
+        "Grid Coverage",
+        "Hand Management",
+        "Hexagon Grid",
+        "Income",
+        "Increase Value of Unchosen Resources",
+        "Open Drafting",
+        "Race",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Tags",
+        "Tile Placement",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Animals",
+        "Economic",
+        "Environmental"
+      ],
+      "designers": [
+        "Mathias Wigge"
+      ]
+    },
     {
       "id": "370598",
       "name": "Trailblazers: Travel Edition",
@@ -104,58 +363,6 @@
       "designers": [
         "Michael Palm",
         "Lukas Zach"
-      ]
-    },
-    {
-      "id": "217372",
-      "name": "The Quest for El Dorado",
-      "yearPublished": "2017",
-      "type": "boardgame",
-      "postdate": "2025-10-21 21:03:16",
-      "lastmodified": "2025-11-21 15:50:19",
-      "myrating": 8,
-      "numplays": "2",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/b5VyYjNfAxJ4Z-Dx2UWlqg__thumb/img/TB_X7b0PIfykfnI12rm3bt6rnGY=/fit-in/200x150/filters:strip_icc()/pic7945692.jpg",
-      "link": "https://boardgamegeek.com/thing/217372",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "2, 4",
-      "playingTime": "60",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "60",
-      "averageRating": "7.69388",
-      "averageWeight": "1.9399",
-      "boardGameRank": "122",
-      "mechanics": [
-        "Deck, Bag, and Pool Building",
-        "Delayed Purchase",
-        "Grid Movement",
-        "Hand Management",
-        "Hexagon Grid",
-        "Modular Board",
-        "Multi-Use Cards",
-        "Open Drafting",
-        "Race",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Adventure",
-        "Exploration",
-        "Racing"
-      ],
-      "designers": [
-        "Reiner Knizia"
       ]
     },
     {
@@ -27511,63 +27718,6 @@
       ]
     },
     {
-      "id": "342942",
-      "name": "Ark Nova",
-      "yearPublished": "2021",
-      "type": "boardgame",
-      "postdate": "2022-06-30 23:48:09",
-      "lastmodified": "2024-04-28 00:28:29",
-      "myrating": 8,
-      "numplays": "95",
-      "status": {
-        "own": true,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__thumb/img/4KuHNTWSMPf8vTNDKSRMMI3oOv8=/fit-in/200x150/filters:strip_icc()/pic6293412.jpg",
-      "link": "https://boardgamegeek.com/thing/342942",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "2",
-      "playingTime": "150",
-      "minPlayingTime": "90",
-      "maxPlayingTime": "150",
-      "averageRating": "8.5328",
-      "averageWeight": "3.7685",
-      "boardGameRank": "4",
-      "mechanics": [
-        "Action Queue",
-        "End Game Bonuses",
-        "Grid Coverage",
-        "Hand Management",
-        "Hexagon Grid",
-        "Income",
-        "Increase Value of Unchosen Resources",
-        "Open Drafting",
-        "Race",
-        "Set Collection",
-        "Solo / Solitaire Game",
-        "Tags",
-        "Tile Placement",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Animals",
-        "Economic",
-        "Environmental"
-      ],
-      "designers": [
-        "Mathias Wigge"
-      ]
-    },
-    {
       "id": "135270",
       "name": "Shibumi",
       "yearPublished": "2011",
@@ -30555,7 +30705,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__thumb/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__small/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
       "link": "https://boardgamegeek.com/thing/367220",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -30563,19 +30713,20 @@
       "playingTime": "45",
       "minPlayingTime": "30",
       "maxPlayingTime": "45",
-      "averageRating": "7.48962",
-      "averageWeight": "1.4493",
-      "boardGameRank": "335",
+      "averageRating": "7.50368",
+      "averageWeight": "1.4778",
+      "boardGameRank": "270",
       "mechanics": [
         "Hand Management",
         "Open Drafting",
         "Push Your Luck",
-        "Set Collection"
+        "Score-and-Reset Game",
+        "Set Collection",
+        "Sudden Death Ending"
       ],
       "categories": [
         "Animals",
-        "Card Game",
-        "Nautical"
+        "Card Game"
       ],
       "designers": [
         "Bruno Cathala",
@@ -32983,60 +33134,6 @@
       ]
     },
     {
-      "id": "350184",
-      "name": "Earth",
-      "yearPublished": "2023",
-      "type": "boardgame",
-      "postdate": "2023-08-23 09:39:08",
-      "lastmodified": "2023-08-23 09:39:08",
-      "myrating": 3,
-      "numplays": "6",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/0xqF_KyOb7V26Lu5YT3fxw__thumb/img/ABTwzzMGekkz2jVl01LC4789TcQ=/fit-in/200x150/filters:strip_icc()/pic6699821.jpg",
-      "link": "https://boardgamegeek.com/thing/350184",
-      "minPlayers": "1",
-      "maxPlayers": "5",
-      "bestAtCount": "2, 3",
-      "playingTime": "90",
-      "minPlayingTime": "45",
-      "maxPlayingTime": "90",
-      "averageRating": "7.6703",
-      "averageWeight": "2.8845",
-      "boardGameRank": "191",
-      "mechanics": [
-        "Contracts",
-        "End Game Bonuses",
-        "Follow",
-        "Hand Management",
-        "Pattern Building",
-        "Solo / Solitaire Game",
-        "Tags",
-        "Team-Based Game",
-        "Tile Placement",
-        "Variable Set-up",
-        "Victory Points as a Resource"
-      ],
-      "categories": [
-        "Animals",
-        "Card Game",
-        "Educational",
-        "Environmental"
-      ],
-      "designers": [
-        "Maxime Tardif"
-      ]
-    },
-    {
       "id": "367379",
       "name": "Deal with the Devil",
       "yearPublished": "2022",
@@ -33755,7 +33852,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__thumb/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__small/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
       "link": "https://boardgamegeek.com/thing/366013",
       "minPlayers": "1",
       "maxPlayers": "6",
@@ -33763,9 +33860,9 @@
       "playingTime": "60",
       "minPlayingTime": "30",
       "maxPlayingTime": "60",
-      "averageRating": "8.04809",
-      "averageWeight": "2.193",
-      "boardGameRank": "40",
+      "averageRating": "8.00593",
+      "averageWeight": "2.2004",
+      "boardGameRank": "45",
       "mechanics": [
         "Catch the Leader",
         "Deck, Bag, and Pool Building",
@@ -87920,50 +88017,6 @@
       "designers": [
         "Darwin Bromley",
         "Bill Fawcett"
-      ]
-    },
-    {
-      "id": "1111",
-      "name": "Taboo",
-      "yearPublished": "1989",
-      "type": "boardgame",
-      "postdate": "2007-07-30 18:44:34",
-      "lastmodified": "2007-07-30 18:44:34",
-      "myrating": 6,
-      "numplays": "1",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/TdOB9V-wTf0LenXk8QWo-A__thumb/img/FU6jPnm6yzKxH8au69ZAJwC2wpY=/fit-in/200x150/filters:strip_icc()/pic8377520.jpg",
-      "link": "https://boardgamegeek.com/thing/1111",
-      "minPlayers": "4",
-      "maxPlayers": "10",
-      "bestAtCount": "6, 8",
-      "playingTime": "20",
-      "minPlayingTime": "20",
-      "maxPlayingTime": "20",
-      "averageRating": "6.30436",
-      "averageWeight": "1.2073",
-      "boardGameRank": "2330",
-      "mechanics": [
-        "Communication Limits",
-        "Team-Based Game"
-      ],
-      "categories": [
-        "Party Game",
-        "Real-time",
-        "Word Game"
-      ],
-      "designers": [
-        "Brian Hersch"
       ]
     },
     {

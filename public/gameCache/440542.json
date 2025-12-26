@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-12-26T19:59:58.391Z",
+  "gameDetails": {
+    "id": "440542",
+    "name": "Botany: War of the Posies",
+    "type": "boardgame",
+    "description": "Botany: War of the Posies is a deck building game where you take on the role of an esteemed head gardener for a celebrated botanist who perpetually returns from expeditions with rare and exotic specimens from around the globe. You declare war against neighboring head gardeners to create the most elaborate garden.\n\nIn War of the Posies, each player will cultivate their own unique deck of cards, starting from the same base decks, by adding cards they purchase during the game using the they gain by playing cards. They will also acquire Garden Features where they can plant Flowers to earn Reputation. During the game, you will always draw cards from your own personal deck, and discard them into your own personal discard pile.\n\nPlant flowers and add features to your garden. Or, plant a poisonous flower in your opponent's garden (before he does it to you).\n\nAs soon as a player has completed 7 Reputation worth of Garden Features, the game will end and the player with the most points wins.\n\nThis is a standalone game set in the world of Botany.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/DrrAqVJbMvEA1jJEhwnGIw__original/img/qyqdxqoggBHxVmv4OYrjQ5_E9HM=/0x0/filters:format(png)/pic8747220.png",
+    "thumbnail": "https://cf.geekdo-images.com/DrrAqVJbMvEA1jJEhwnGIw__small/img/qj0URysCTJpOL4MdazhghO3aY2I=/fit-in/200x150/filters:strip_icc()/pic8747220.png",
+    "link": "https://boardgamegeek.com/thing/440542",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.49545",
+    "averageWeight": "2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Set Collection",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Amy Droz",
+      "Dusty Droz"
+    ]
+  }
+}

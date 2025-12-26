@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-12-26T19:59:56.218Z",
+  "gameDetails": {
+    "id": "417060",
+    "name": "Botany: Tantalizing Trees",
+    "type": "boardgameexpansion",
+    "description": "Trees, Trees, and more Trees! Create your dream arboretum with this expansion for Botany. Arm yourself with information to gain an edge over your fellow Botanists.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/Thr7ZNBbZ2kf4y8qqfKYqg__original/img/Vhi-077ViAlIuOA8YMFJUHiP1Rc=/0x0/filters:format(png)/pic8117004.png",
+    "thumbnail": "https://cf.geekdo-images.com/Thr7ZNBbZ2kf4y8qqfKYqg__small/img/fYdmsnAVXxGi1w89YOY2SSVmVuQ=/fit-in/200x150/filters:strip_icc()/pic8117004.png",
+    "link": "https://boardgamegeek.com/thing/417060",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.80616",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Events",
+      "Investment"
+    ],
+    "categories": [
+      "Adventure",
+      "Educational",
+      "Expansion for Base-game",
+      "Humor",
+      "Travel"
+    ],
+    "designers": [
+      "Amy Droz",
+      "Dusty Droz"
+    ]
+  }
+}

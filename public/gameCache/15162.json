@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-12-26T20:00:11.587Z",
+  "gameDetails": {
+    "id": "15162",
+    "name": "Mall Madness",
+    "type": "boardgame",
+    "description": "Mall Madness is one of the Milton Bradley \"Flipsiders\" games that resembles an audio cassette until you \"flip\" the game open. Each player starts with 200 dollars. On your turn you spin the 2 spinners - the first spinner tells you which store you must try to reach this turn, while the second spinner tells you how many spaces you may travel along the paths. If you can reach the store indicated, you spend the amount of money shown on the space, otherwise you just move the number of spaces shown on the spinner. Some spaces allow you to take shortcuts. The first player to spend 200 dollars exactly wins.\n\n",
+    "image": "https://cf.geekdo-images.com/Za1OHDs6Rd52xaQZQaVrig__original/img/h1nJ26eMT2fb4g1qN5KSWpDarjk=/0x0/filters:format(jpeg)/pic64777.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Za1OHDs6Rd52xaQZQaVrig__small/img/dBn_aDkOu-zPWaFENiYjAHhQ3XM=/fit-in/200x150/filters:strip_icc()/pic64777.jpg",
+    "link": "https://boardgamegeek.com/thing/15162",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1988",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "5.72819",
+    "averageWeight": "1",
+    "boardGameRank": "25406",
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "categories": [
+      "Children's Game",
+      "Economic"
+    ],
+    "designers": []
+  }
+}

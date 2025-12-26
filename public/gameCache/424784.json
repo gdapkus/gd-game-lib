@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-12-26T19:57:03.915Z",
+  "gameDetails": {
+    "id": "424784",
+    "name": "Arkham Horror: Lovecraft Letter",
+    "type": "boardgame",
+    "description": "Step into the eerie town of Arkham with Arkham Horror: Lovecraft Letter, a chilling twist on the classic deduction card game. Delve into the madness of the Lovecraftian universe as you face eldritch horrors and uncover allies tainted with madness in this gripping battle of wits. Can you maintain your sanity and outwit Cthulhu, or will you succumb to the creeping darkness that lurks within?\n\nArkham Horror: Lovecraft Letter is a game of push-your-luck, deduction, and risk for 2-6 players that uses the award-winning Love Letter system.\n\nArkham Horror: Lovecraft Letter is played over a series of rounds. Each round, you collect clues to investigate an eldritch mystery while trying to hold onto your sanity&mdash;or embracing the horror.\n\nThe card in your hand represents the clue you&rsquo;re currently investigating. Each turn, you draw 1 new card, then play 1 of your 2 cards. Playing certain cards will drive you Insane, which gives you access to powerful Insane effects on cards you play but also forces you to make a Sanity check each turn to see if you break down completely.\n\nThis is an updated version of the popular Lovecraft Letter with Gameplay and visuals that are reimagined for Arkham Horror.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/hLfQAtkN8m06_L3xAtqXEQ__original/img/EdWsCpTM0VqDLQuSTsTuGjGUuKY=/0x0/filters:format(png)/pic8544768.png",
+    "thumbnail": "https://cf.geekdo-images.com/hLfQAtkN8m06_L3xAtqXEQ__small/img/noJhLlB0U0_TVyBj_pQRm07qxWI=/fit-in/200x150/filters:strip_icc()/pic8544768.png",
+    "link": "https://boardgamegeek.com/thing/424784",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "20",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.44891",
+    "averageWeight": "1.4211",
+    "boardGameRank": "3170",
+    "mechanics": [
+      "Hand Management",
+      "Player Elimination",
+      "Score-and-Reset Game",
+      "Take That"
+    ],
+    "categories": [
+      "Card Game",
+      "Horror"
+    ],
+    "designers": [
+      "Seiji Kanai"
+    ]
+  }
+}

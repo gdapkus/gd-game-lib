@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-12-26T20:00:16.224Z",
+  "gameDetails": {
+    "id": "349750",
+    "name": "Molly House",
+    "type": "boardgame",
+    "description": "In Molly House, players take the roles of the gender-defying mollies of early eighteenth century London. Throw grand masquerades and cruise back alleys while evading moralistic constables who seek to destroy your community. Be careful, there may even be informers in your midst!\n\nPlayers draft hands of vice cards representing the different gestures, desires, and encounters that were frowned upon by the Society for the Reformation of Manners, a citizen group that sought to stamp out any behavior it deemed deviant in late 17th and early 18th century London. These cards allow players to host festivities with the help of their fellow mollies and create joy. But, those same cards can also lead players to be arrested and to the ultimate ruin of the molly house.\n\nAs players encounter the Society&rsquo;s enforcers, they will often have to pay bribes or may be coerced into becoming informers for the Society. Informers must try desperately to undermine the community around Mother Clap&rsquo;s Molly House without being discovered by their fellow mollies.\n\n",
+    "image": "https://cf.geekdo-images.com/7j1DUeGvykC6nNpch-bh3w__original/img/pPDiyM8k9mxCU7QuI_L1-gjfIns=/0x0/filters:format(jpeg)/pic8419925.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7j1DUeGvykC6nNpch-bh3w__small/img/s-twh6b40XX9jfmP4hHvNSenPF8=/fit-in/200x150/filters:strip_icc()/pic8419925.jpg",
+    "link": "https://boardgamegeek.com/thing/349750",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.43958",
+    "averageWeight": "3.7374",
+    "boardGameRank": "2257",
+    "mechanics": [
+      "Multi-Use Cards",
+      "Negotiation",
+      "Push Your Luck",
+      "Roll / Spin and Move",
+      "Semi-Cooperative Game",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Traitor Game"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction"
+    ],
+    "designers": [
+      "Jo Kelly",
+      "Cole Wehrle"
+    ]
+  }
+}

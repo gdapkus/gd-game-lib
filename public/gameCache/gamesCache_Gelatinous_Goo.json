@@ -1,17 +1,157 @@
 {
-  "timestamp": "2025-12-03T23:01:53.404Z",
+  "timestamp": "2025-12-26T19:58:17.640Z",
   "games": [
+    {
+      "id": "337",
+      "name": "Circus Flohcati",
+      "yearPublished": "1998",
+      "type": "boardgame",
+      "postdate": "2025-12-25 14:44:24",
+      "lastmodified": "2025-12-25 14:44:24",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/h-HgnES2sJu6_j_L00HYxA__thumb/img/vBQ6QR6l081DCGQt5DQQq9CiM5Q=/fit-in/200x150/filters:strip_icc()/pic7594785.jpg",
+      "link": "https://boardgamegeek.com/thing/337",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.66101",
+      "averageWeight": "1.2283",
+      "boardGameRank": "2152",
+      "mechanics": [
+        "Open Drafting",
+        "Push Your Luck",
+        "Set Collection"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game"
+      ],
+      "designers": [
+        "Reiner Knizia"
+      ]
+    },
+    {
+      "id": "148228",
+      "name": "Splendor",
+      "yearPublished": "2014",
+      "type": "boardgame",
+      "postdate": "2017-03-10 12:13:45",
+      "lastmodified": "2025-12-25 14:42:33",
+      "myrating": null,
+      "numplays": "3",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__thumb/img/KKU_42Uswt4tKCpf1zY5kTzgr-g=/fit-in/200x150/filters:strip_icc()/pic8234167.png",
+      "link": "https://boardgamegeek.com/thing/148228",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.41914",
+      "averageWeight": "1.7809",
+      "boardGameRank": "230",
+      "mechanics": [
+        "Contracts",
+        "Open Drafting",
+        "Race",
+        "Set Collection"
+      ],
+      "categories": [
+        "Card Game",
+        "Economic",
+        "Renaissance"
+      ],
+      "designers": [
+        "Marc André"
+      ]
+    },
+    {
+      "id": "276104",
+      "name": "Underwater Cities: New Discoveries",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-25 14:41:51",
+      "lastmodified": "2025-12-25 14:41:51",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/S0GhOLC1iv7h9RZotqfQVw__thumb/img/NT_WeiXkYp7vH8kD5-2lPyFQolQ=/fit-in/200x150/filters:strip_icc()/pic4934894.jpg",
+      "link": "https://boardgamegeek.com/thing/276104",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 3",
+      "playingTime": "180",
+      "minPlayingTime": "100",
+      "maxPlayingTime": "180",
+      "averageRating": "8.47138",
+      "averageWeight": "3.7021",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Modular Board",
+        "Network and Route Building",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Card Game",
+        "City Building",
+        "Civilization",
+        "Expansion for Base-game",
+        "Industry / Manufacturing",
+        "Nautical",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Vladimír Suchý"
+      ]
+    },
     {
       "id": "247763",
       "name": "Underwater Cities",
       "yearPublished": "2018",
       "type": "boardgame",
       "postdate": "2022-10-21 12:13:54",
-      "lastmodified": "2025-11-29 22:32:10",
+      "lastmodified": "2025-12-25 14:41:41",
       "myrating": null,
       "numplays": "2",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -52,6 +192,284 @@
       ],
       "designers": [
         "Vladimír Suchý"
+      ]
+    },
+    {
+      "id": "231733",
+      "name": "Obsession",
+      "yearPublished": "2018",
+      "type": "boardgame",
+      "postdate": "2022-01-30 10:37:04",
+      "lastmodified": "2025-12-25 14:41:13",
+      "myrating": 7,
+      "numplays": "8",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__thumb/img/eTnMwfCC2jCGDPXC08SIaMXNOTM=/fit-in/200x150/filters:strip_icc()/pic5902073.png",
+      "link": "https://boardgamegeek.com/thing/231733",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "90",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "90",
+      "averageRating": "8.12495",
+      "averageWeight": "3.094",
+      "boardGameRank": "63",
+      "mechanics": [
+        "Action Retrieval",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Open Drafting",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Post-Napoleonic"
+      ],
+      "designers": [
+        "Dan Hallagan"
+      ]
+    },
+    {
+      "id": "357291",
+      "name": "The Lord of the Rings: The Card Game – Revised Core: Dwarves of Durin Starter Deck",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2024-07-18 15:52:18",
+      "lastmodified": "2025-12-15 22:19:10",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/_OzRhfoNhDL-VXEjYNh1oQ__small/img/ALMw9l6b1i3AIN5Gz1bAMGKd_ik=/fit-in/200x150/filters:strip_icc()/pic8546988.jpg",
+      "link": "https://boardgamegeek.com/thing/357291",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "90",
+      "averageRating": "8.53914",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Cooperative Game",
+        "Deck Construction",
+        "Events",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Novel-based"
+      ],
+      "designers": [
+        "Nate French"
+      ]
+    },
+    {
+      "id": "415467",
+      "name": "The Lord of the Rings: The Card Game – Ered Mithrin Hero Expansion",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2024-07-09 11:16:26",
+      "lastmodified": "2025-12-15 22:17:39",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/1xUpE3hBOhf-K4nATNPvDg__small/img/HnU56d4NOQbmXpAwEQKyOJmTPEw=/fit-in/200x150/filters:strip_icc()/pic8054522.png",
+      "link": "https://boardgamegeek.com/thing/415467",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "8.83605",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Nate French"
+      ]
+    },
+    {
+      "id": "448159",
+      "name": "Railway Boom",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-12-15 22:17:05",
+      "lastmodified": "2025-12-15 22:17:05",
+      "myrating": null,
+      "numplays": "1",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/HLf1dKFTM4y7EwdQubbazQ__small/img/yFsR_l7zagtOjSmxVKqZlegRpo8=/fit-in/200x150/filters:strip_icc()/pic8951049.png",
+      "link": "https://boardgamegeek.com/thing/448159",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.02792",
+      "averageWeight": "3.2222",
+      "boardGameRank": "5685",
+      "mechanics": [
+        "Auction / Bidding",
+        "End Game Bonuses",
+        "Income",
+        "Network and Route Building",
+        "Turn Order: Auction"
+      ],
+      "categories": [
+        "Economic",
+        "Industry / Manufacturing",
+        "Trains"
+      ],
+      "designers": [
+        "Hisashi Hayashi"
+      ]
+    },
+    {
+      "id": "282308",
+      "name": "Arkham Horror (Third Edition): Dead of Night",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-15 11:54:29",
+      "lastmodified": "2025-12-15 11:54:29",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/s1x6x8orRLGXOQxLSYz3LA__small/img/jE40ItFzEC5swuKp-_3fzjfFtVo=/fit-in/200x150/filters:strip_icc()/pic4819011.jpg",
+      "link": "https://boardgamegeek.com/thing/282308",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "2, 3",
+      "playingTime": "180",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "180",
+      "averageRating": "8.26934",
+      "averageWeight": "3.4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Fighting",
+        "Horror",
+        "Novel-based"
+      ],
+      "designers": [
+        "Daniel Clark (I)",
+        "Philip D. Henry"
+      ]
+    },
+    {
+      "id": "331965",
+      "name": "Arkham Horror (Third Edition): Secrets of the Order",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2025-12-15 11:54:07",
+      "lastmodified": "2025-12-15 11:54:07",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/DjrJhjunCcEWl8RX1A1_ag__small/img/1jY7ggOkPr1wjKtJQElpIIBRGiw=/fit-in/200x150/filters:strip_icc()/pic6164412.jpg",
+      "link": "https://boardgamegeek.com/thing/331965",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "2, 3",
+      "playingTime": "180",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "180",
+      "averageRating": "8.4576",
+      "averageWeight": "3.375",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Horror"
+      ],
+      "designers": [
+        "Philip D. Henry"
       ]
     },
     {
@@ -705,59 +1123,6 @@
       ],
       "designers": [
         "Daniel Piechnick"
-      ]
-    },
-    {
-      "id": "357291",
-      "name": "The Lord of the Rings: The Card Game – Revised Core: Dwarves of Durin Starter Deck",
-      "yearPublished": "2022",
-      "type": "boardgameexpansion",
-      "postdate": "2024-07-18 15:52:18",
-      "lastmodified": "2025-11-20 16:13:13",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/_OzRhfoNhDL-VXEjYNh1oQ__small/img/ALMw9l6b1i3AIN5Gz1bAMGKd_ik=/fit-in/200x150/filters:strip_icc()/pic8546988.jpg",
-      "link": "https://boardgamegeek.com/thing/357291",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "90",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "90",
-      "averageRating": "8.53914",
-      "averageWeight": "3",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Automatic Resource Growth",
-        "Cooperative Game",
-        "Deck Construction",
-        "Events",
-        "Hand Management",
-        "Scenario / Mission / Campaign Game",
-        "Solo / Solitaire Game",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game",
-        "Collectible Components",
-        "Fantasy",
-        "Novel-based"
-      ],
-      "designers": [
-        "Nate French"
       ]
     },
     {
@@ -2749,45 +3114,6 @@
       "designers": [
         "Nate French",
         "Caleb Grace"
-      ]
-    },
-    {
-      "id": "415467",
-      "name": "The Lord of the Rings: The Card Game – Ered Mithrin Hero Expansion",
-      "yearPublished": "2024",
-      "type": "boardgameexpansion",
-      "postdate": "2024-07-09 11:16:26",
-      "lastmodified": "2025-04-19 09:37:56",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/1xUpE3hBOhf-K4nATNPvDg__small/img/HnU56d4NOQbmXpAwEQKyOJmTPEw=/fit-in/200x150/filters:strip_icc()/pic8054522.png",
-      "link": "https://boardgamegeek.com/thing/415467",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "N/A",
-      "playingTime": "60",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "60",
-      "averageRating": "8.83605",
-      "averageWeight": "0",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [],
-      "categories": [
-        "Expansion for Base-game"
-      ],
-      "designers": [
-        "Nate French"
       ]
     },
     {
@@ -5030,51 +5356,6 @@
       ]
     },
     {
-      "id": "231733",
-      "name": "Obsession",
-      "yearPublished": "2018",
-      "type": "boardgame",
-      "postdate": "2022-01-30 10:37:04",
-      "lastmodified": "2024-02-26 23:40:20",
-      "myrating": 7,
-      "numplays": "8",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__thumb/img/eTnMwfCC2jCGDPXC08SIaMXNOTM=/fit-in/200x150/filters:strip_icc()/pic5902073.png",
-      "link": "https://boardgamegeek.com/thing/231733",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "2",
-      "playingTime": "90",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "90",
-      "averageRating": "8.12495",
-      "averageWeight": "3.094",
-      "boardGameRank": "63",
-      "mechanics": [
-        "Action Retrieval",
-        "Deck, Bag, and Pool Building",
-        "Hand Management",
-        "Open Drafting",
-        "Solo / Solitaire Game"
-      ],
-      "categories": [
-        "Post-Napoleonic"
-      ],
-      "designers": [
-        "Dan Hallagan"
-      ]
-    },
-    {
       "id": "295947",
       "name": "Cascadia",
       "yearPublished": "2021",
@@ -5320,7 +5601,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__thumb/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__small/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
       "link": "https://boardgamegeek.com/thing/367220",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -5328,19 +5609,20 @@
       "playingTime": "45",
       "minPlayingTime": "30",
       "maxPlayingTime": "45",
-      "averageRating": "7.48962",
-      "averageWeight": "1.4493",
-      "boardGameRank": "335",
+      "averageRating": "7.50368",
+      "averageWeight": "1.4778",
+      "boardGameRank": "270",
       "mechanics": [
         "Hand Management",
         "Open Drafting",
         "Push Your Luck",
-        "Set Collection"
+        "Score-and-Reset Game",
+        "Set Collection",
+        "Sudden Death Ending"
       ],
       "categories": [
         "Animals",
-        "Card Game",
-        "Nautical"
+        "Card Game"
       ],
       "designers": [
         "Bruno Cathala",
@@ -14281,7 +14563,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__thumb/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__small/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
       "link": "https://boardgamegeek.com/thing/366013",
       "minPlayers": "1",
       "maxPlayers": "6",
@@ -14289,9 +14571,9 @@
       "playingTime": "60",
       "minPlayingTime": "30",
       "maxPlayingTime": "60",
-      "averageRating": "8.04809",
-      "averageWeight": "2.193",
-      "boardGameRank": "40",
+      "averageRating": "8.00593",
+      "averageWeight": "2.2004",
+      "boardGameRank": "45",
       "mechanics": [
         "Catch the Leader",
         "Deck, Bag, and Pool Building",
@@ -25244,52 +25526,6 @@
       "designers": [
         "Phil Eklund",
         "Matt Eklund"
-      ]
-    },
-    {
-      "id": "148228",
-      "name": "Splendor",
-      "yearPublished": "2014",
-      "type": "boardgame",
-      "postdate": "2017-03-10 12:13:45",
-      "lastmodified": "2017-11-18 15:18:46",
-      "myrating": null,
-      "numplays": "3",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__thumb/img/KKU_42Uswt4tKCpf1zY5kTzgr-g=/fit-in/200x150/filters:strip_icc()/pic8234167.png",
-      "link": "https://boardgamegeek.com/thing/148228",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "30",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "30",
-      "averageRating": "7.41914",
-      "averageWeight": "1.7809",
-      "boardGameRank": "230",
-      "mechanics": [
-        "Contracts",
-        "Open Drafting",
-        "Race",
-        "Set Collection"
-      ],
-      "categories": [
-        "Card Game",
-        "Economic",
-        "Renaissance"
-      ],
-      "designers": [
-        "Marc André"
       ]
     },
     {
