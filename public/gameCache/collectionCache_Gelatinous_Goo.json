@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T19:57:44.648Z",
+  "timestamp": "2026-01-12T17:38:31.378Z",
   "games": [
     {
       "id": "177590",
@@ -4193,17 +4193,17 @@
       "name": "Bomb Busters",
       "image": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__original/img/2uApg8IOYjNVSzbUIwJUa-Z8eL8=/0x0/filters:format(png)/pic8303080.png",
       "thumbnail": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__small/img/8wfQelnNsbXCykJWMjD8UAjhleU=/fit-in/200x150/filters:strip_icc()/pic8303080.png",
-      "lastmodified": "2025-11-20 15:01:10",
-      "numplays": "4",
+      "lastmodified": "2025-12-27 23:54:52",
+      "numplays": "11",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-11-16 21:09:09",
@@ -5642,7 +5642,7 @@
       "name": "Compile: Aux  1",
       "image": "https://cf.geekdo-images.com/ekBoM02DkakfGoG56EeqrQ__original/img/6bQLgnaLnZYZg-XNJxTeabnfsPM=/0x0/filters:format(png)/pic9001673.png",
       "thumbnail": "https://cf.geekdo-images.com/ekBoM02DkakfGoG56EeqrQ__small/img/Cgs25L7KliWzOc0IE8AaXWDSgBY=/fit-in/200x150/filters:strip_icc()/pic9001673.png",
-      "lastmodified": "2025-05-06 23:22:20",
+      "lastmodified": "2026-01-09 10:07:37",
       "numplays": "0",
       "status": {
         "own": false,
@@ -5651,9 +5651,9 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
       },
       "postdate": "2025-05-06 23:22:20",
       "rating": null,
@@ -7864,6 +7864,29 @@
         "preordered": false
       },
       "postdate": "2025-11-20 17:53:51",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "411567",
+      "collid": "140914135",
+      "name": "The Gang",
+      "image": "https://cf.geekdo-images.com/ydwU0FMlRVa6wt8tOu1tgg__original/img/RT9ajRhK-eHlBJgsksL9rJQHIuk=/0x0/filters:format(jpeg)/pic7962719.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/ydwU0FMlRVa6wt8tOu1tgg__small/img/9hYAUB4S9PHAVvUoPEcaRm7jHIg=/fit-in/200x150/filters:strip_icc()/pic7962719.jpg",
+      "lastmodified": "2026-01-06 21:18:39",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "postdate": "2026-01-06 21:18:39",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -10380,7 +10403,7 @@
       "name": "The Lord of the Rings: The Card Game – Revised Core – Elves of Lórien Starter Deck",
       "image": "https://cf.geekdo-images.com/VuknN0hV7AUVWO2s1vI3tQ__original/img/1BUVqOZcE04dGqdaWTuuvvlN0nw=/0x0/filters:format(jpeg)/pic8546968.jpg",
       "thumbnail": "https://cf.geekdo-images.com/VuknN0hV7AUVWO2s1vI3tQ__small/img/jPaNipWm79XBVFfojwvaXpFrd8c=/fit-in/200x150/filters:strip_icc()/pic8546968.jpg",
-      "lastmodified": "2025-11-20 16:13:08",
+      "lastmodified": "2026-01-06 21:18:08",
       "numplays": "0",
       "status": {
         "own": false,
@@ -10390,7 +10413,7 @@
         "wanttoplay": false,
         "wanttobuy": false,
         "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlistpriority": 1,
         "preordered": false
       },
       "postdate": "2024-07-18 15:52:23",
@@ -10426,7 +10449,7 @@
       "name": "The Lord of the Rings: The Card Game – Revised Core: Defenders of Gondor Starter Deck",
       "image": "https://cf.geekdo-images.com/d-O_jAZXZvbVoe1ilfn2iw__original/img/PEZxa77LpnsgF0VOgPvhJVUfsvE=/0x0/filters:format(jpeg)/pic8546973.jpg",
       "thumbnail": "https://cf.geekdo-images.com/d-O_jAZXZvbVoe1ilfn2iw__small/img/Hsj0lB9IEbrNAyIgnxHeMsYDavA=/fit-in/200x150/filters:strip_icc()/pic8546973.jpg",
-      "lastmodified": "2025-11-20 16:13:02",
+      "lastmodified": "2026-01-06 21:17:59",
       "numplays": "0",
       "status": {
         "own": false,
@@ -10435,9 +10458,9 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
       },
       "postdate": "2024-07-18 15:52:28",
       "rating": null,
@@ -10472,7 +10495,7 @@
       "name": "The Lord of the Rings: The Card Game – Revised Core: Riders of Rohan Starter Deck",
       "image": "https://cf.geekdo-images.com/Mr_hDpY41aJCNu9lFeFy6g__original/img/uWTHd7qCUaSmY4tA6ItTD0SecpY=/0x0/filters:format(jpeg)/pic8546951.jpg",
       "thumbnail": "https://cf.geekdo-images.com/Mr_hDpY41aJCNu9lFeFy6g__small/img/GAVWYKfRKzoPnRU5oRy1Fo8_0v8=/fit-in/200x150/filters:strip_icc()/pic8546951.jpg",
-      "lastmodified": "2025-11-20 16:12:57",
+      "lastmodified": "2026-01-06 21:17:52",
       "numplays": "0",
       "status": {
         "own": false,
@@ -10481,9 +10504,9 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
       },
       "postdate": "2024-07-18 15:52:33",
       "rating": null,
@@ -16429,17 +16452,17 @@
       "name": "Sea Salt & Paper: Extra Pepper",
       "image": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__original/img/MOVm4qZbZrkQN7_AqBfGm-BMsEQ=/0x0/filters:format(png)/pic8822830.png",
       "thumbnail": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__small/img/uQwYaaNlYpC51BLyuL95u5FhYKo=/fit-in/200x150/filters:strip_icc()/pic8822830.png",
-      "lastmodified": "2025-09-16 10:36:57",
+      "lastmodified": "2026-01-06 21:18:28",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-07-25 13:59:48",
@@ -16452,7 +16475,7 @@
       "name": "Sea Salt & Paper: Extra Salt",
       "image": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__original/img/5PL-OXwTjbWiYiDCPdhJa5j_E8Q=/0x0/filters:format(jpeg)/pic7731597.jpg",
       "thumbnail": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__small/img/qGTssy-U4rf5zTilJPd3nl3c1Nk=/fit-in/200x150/filters:strip_icc()/pic7731597.jpg",
-      "lastmodified": "2025-11-20 18:07:56",
+      "lastmodified": "2026-01-06 21:18:23",
       "numplays": "0",
       "status": {
         "own": false,
@@ -16461,9 +16484,9 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
       },
       "postdate": "2025-11-20 18:07:56",
       "rating": null,
@@ -19304,7 +19327,7 @@
       "name": "Unconscious Mind",
       "image": "https://cf.geekdo-images.com/ufkAbhulnKJ7uDpi09TXOQ__original/img/hhBc0bcNj9U3t-4trByrjrO8-ro=/0x0/filters:format(jpeg)/pic7127448.jpg",
       "thumbnail": "https://cf.geekdo-images.com/ufkAbhulnKJ7uDpi09TXOQ__small/img/XBP7p0D1bkzDXkoOuXSiavW26Ig=/fit-in/200x150/filters:strip_icc()/pic7127448.jpg",
-      "lastmodified": "2025-11-20 16:12:43",
+      "lastmodified": "2026-01-06 21:19:34",
       "numplays": "0",
       "status": {
         "own": false,
@@ -19313,8 +19336,8 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-11-20 15:51:03",

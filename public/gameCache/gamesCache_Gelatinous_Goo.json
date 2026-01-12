@@ -1,6 +1,406 @@
 {
-  "timestamp": "2025-12-26T19:58:17.640Z",
+  "timestamp": "2026-01-09T07:22:51.519Z",
   "games": [
+    {
+      "id": "329500",
+      "name": "Unconscious Mind",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-11-20 15:51:03",
+      "lastmodified": "2026-01-06 21:19:34",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ufkAbhulnKJ7uDpi09TXOQ__small/img/XBP7p0D1bkzDXkoOuXSiavW26Ig=/fit-in/200x150/filters:strip_icc()/pic7127448.jpg",
+      "link": "https://boardgamegeek.com/thing/329500",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.91517",
+      "averageWeight": "4.009",
+      "boardGameRank": "343",
+      "mechanics": [
+        "Contracts",
+        "End Game Bonuses",
+        "Layering",
+        "Melding and Splaying",
+        "Open Drafting",
+        "Programmed Movement",
+        "Rondel",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Tags",
+        "Variable Set-up",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Medical",
+        "Post-Napoleonic"
+      ],
+      "designers": [
+        "Laskas",
+        "Jonny Pac",
+        "Yoma",
+        "Antonio Zax"
+      ]
+    },
+    {
+      "id": "411567",
+      "name": "The Gang",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2026-01-06 21:18:39",
+      "lastmodified": "2026-01-06 21:18:39",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ydwU0FMlRVa6wt8tOu1tgg__small/img/9hYAUB4S9PHAVvUoPEcaRm7jHIg=/fit-in/200x150/filters:strip_icc()/pic7962719.jpg",
+      "link": "https://boardgamegeek.com/thing/411567",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "5",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "7.57276",
+      "averageWeight": "1.54",
+      "boardGameRank": "509",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Predictive Bid"
+      ],
+      "categories": [
+        "Card Game",
+        "Party Game"
+      ],
+      "designers": [
+        "John Cooper",
+        "Kory Heath"
+      ]
+    },
+    {
+      "id": "442250",
+      "name": "Sea Salt & Paper: Extra Pepper",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-07-25 13:59:48",
+      "lastmodified": "2026-01-06 21:18:28",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__small/img/uQwYaaNlYpC51BLyuL95u5FhYKo=/fit-in/200x150/filters:strip_icc()/pic8822830.png",
+      "link": "https://boardgamegeek.com/thing/442250",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2, 4",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "8.0266",
+      "averageWeight": "1.3333",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Events",
+        "Hand Management",
+        "Melding and Splaying",
+        "Push Your Luck",
+        "Set Collection"
+      ],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Bruno Cathala",
+        "Théo Rivière"
+      ]
+    },
+    {
+      "id": "396545",
+      "name": "Sea Salt & Paper: Extra Salt",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-11-20 18:07:56",
+      "lastmodified": "2026-01-06 21:18:23",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__thumb/img/qGTssy-U4rf5zTilJPd3nl3c1Nk=/fit-in/200x150/filters:strip_icc()/pic7731597.jpg",
+      "link": "https://boardgamegeek.com/thing/396545",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.79959",
+      "averageWeight": "1.2593",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Melding and Splaying",
+        "Push Your Luck",
+        "Set Collection"
+      ],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Bruno Cathala",
+        "Théo Rivière"
+      ]
+    },
+    {
+      "id": "357292",
+      "name": "The Lord of the Rings: The Card Game – Revised Core – Elves of Lórien Starter Deck",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2024-07-18 15:52:23",
+      "lastmodified": "2026-01-06 21:18:08",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 1,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/VuknN0hV7AUVWO2s1vI3tQ__small/img/jPaNipWm79XBVFfojwvaXpFrd8c=/fit-in/200x150/filters:strip_icc()/pic8546968.jpg",
+      "link": "https://boardgamegeek.com/thing/357292",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.62907",
+      "averageWeight": "3.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Cooperative Game",
+        "Deck Construction",
+        "Events",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Novel-based"
+      ],
+      "designers": [
+        "Nate French"
+      ]
+    },
+    {
+      "id": "357293",
+      "name": "The Lord of the Rings: The Card Game – Revised Core: Defenders of Gondor Starter Deck",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2024-07-18 15:52:28",
+      "lastmodified": "2026-01-06 21:17:59",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/d-O_jAZXZvbVoe1ilfn2iw__small/img/Hsj0lB9IEbrNAyIgnxHeMsYDavA=/fit-in/200x150/filters:strip_icc()/pic8546973.jpg",
+      "link": "https://boardgamegeek.com/thing/357293",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.51942",
+      "averageWeight": "3.6667",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Cooperative Game",
+        "Deck Construction",
+        "Events",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Novel-based"
+      ],
+      "designers": [
+        "Nate French"
+      ]
+    },
+    {
+      "id": "357294",
+      "name": "The Lord of the Rings: The Card Game – Revised Core: Riders of Rohan Starter Deck",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2024-07-18 15:52:33",
+      "lastmodified": "2026-01-06 21:17:52",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Mr_hDpY41aJCNu9lFeFy6g__small/img/GAVWYKfRKzoPnRU5oRy1Fo8_0v8=/fit-in/200x150/filters:strip_icc()/pic8546951.jpg",
+      "link": "https://boardgamegeek.com/thing/357294",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.39067",
+      "averageWeight": "4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Cooperative Game",
+        "Deck Construction",
+        "Events",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Novel-based"
+      ],
+      "designers": [
+        "Nate French"
+      ]
+    },
+    {
+      "id": "413246",
+      "name": "Bomb Busters",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-11-16 21:09:09",
+      "lastmodified": "2025-12-27 23:54:52",
+      "myrating": null,
+      "numplays": "11",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__thumb/img/8wfQelnNsbXCykJWMjD8UAjhleU=/fit-in/200x150/filters:strip_icc()/pic8303080.png",
+      "link": "https://boardgamegeek.com/thing/413246",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.77107",
+      "averageWeight": "2",
+      "boardGameRank": "2708",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Deduction",
+        "Memory",
+        "Once-Per-Game Abilities",
+        "Real-Time",
+        "Scenario / Mission / Campaign Game",
+        "Sudden Death Ending"
+      ],
+      "categories": [
+        "Deduction",
+        "Spies / Secret Agents"
+      ],
+      "designers": [
+        "Hisashi Hayashi"
+      ]
+    },
     {
       "id": "337",
       "name": "Circus Flohcati",
@@ -359,9 +759,9 @@
       "playingTime": "120",
       "minPlayingTime": "60",
       "maxPlayingTime": "120",
-      "averageRating": "8.02792",
+      "averageRating": "7.86519",
       "averageWeight": "3.2222",
-      "boardGameRank": "5685",
+      "boardGameRank": "4165",
       "mechanics": [
         "Auction / Bidding",
         "End Game Bonuses",
@@ -375,7 +775,8 @@
         "Trains"
       ],
       "designers": [
-        "Hisashi Hayashi"
+        "Hisashi Hayashi",
+        "Simone Luciani"
       ]
     },
     {
@@ -518,51 +919,6 @@
       ],
       "designers": [
         "Michael Yang"
-      ]
-    },
-    {
-      "id": "396545",
-      "name": "Sea Salt & Paper: Extra Salt",
-      "yearPublished": "2023",
-      "type": "boardgameexpansion",
-      "postdate": "2025-11-20 18:07:56",
-      "lastmodified": "2025-11-20 18:07:56",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__thumb/img/qGTssy-U4rf5zTilJPd3nl3c1Nk=/fit-in/200x150/filters:strip_icc()/pic7731597.jpg",
-      "link": "https://boardgamegeek.com/thing/396545",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "2",
-      "playingTime": "45",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "45",
-      "averageRating": "7.79959",
-      "averageWeight": "1.2593",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Hand Management",
-        "Melding and Splaying",
-        "Push Your Luck",
-        "Set Collection"
-      ],
-      "categories": [
-        "Expansion for Base-game"
-      ],
-      "designers": [
-        "Bruno Cathala",
-        "Théo Rivière"
       ]
     },
     {
@@ -1126,221 +1482,6 @@
       ]
     },
     {
-      "id": "357292",
-      "name": "The Lord of the Rings: The Card Game – Revised Core – Elves of Lórien Starter Deck",
-      "yearPublished": "2022",
-      "type": "boardgameexpansion",
-      "postdate": "2024-07-18 15:52:23",
-      "lastmodified": "2025-11-20 16:13:08",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/VuknN0hV7AUVWO2s1vI3tQ__small/img/jPaNipWm79XBVFfojwvaXpFrd8c=/fit-in/200x150/filters:strip_icc()/pic8546968.jpg",
-      "link": "https://boardgamegeek.com/thing/357292",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "8.62907",
-      "averageWeight": "3.5",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Automatic Resource Growth",
-        "Cooperative Game",
-        "Deck Construction",
-        "Events",
-        "Hand Management",
-        "Scenario / Mission / Campaign Game",
-        "Solo / Solitaire Game",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game",
-        "Collectible Components",
-        "Fantasy",
-        "Novel-based"
-      ],
-      "designers": [
-        "Nate French"
-      ]
-    },
-    {
-      "id": "357293",
-      "name": "The Lord of the Rings: The Card Game – Revised Core: Defenders of Gondor Starter Deck",
-      "yearPublished": "2022",
-      "type": "boardgameexpansion",
-      "postdate": "2024-07-18 15:52:28",
-      "lastmodified": "2025-11-20 16:13:02",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/d-O_jAZXZvbVoe1ilfn2iw__small/img/Hsj0lB9IEbrNAyIgnxHeMsYDavA=/fit-in/200x150/filters:strip_icc()/pic8546973.jpg",
-      "link": "https://boardgamegeek.com/thing/357293",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "8.51942",
-      "averageWeight": "3.6667",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Automatic Resource Growth",
-        "Cooperative Game",
-        "Deck Construction",
-        "Events",
-        "Hand Management",
-        "Scenario / Mission / Campaign Game",
-        "Solo / Solitaire Game",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game",
-        "Collectible Components",
-        "Fantasy",
-        "Novel-based"
-      ],
-      "designers": [
-        "Nate French"
-      ]
-    },
-    {
-      "id": "357294",
-      "name": "The Lord of the Rings: The Card Game – Revised Core: Riders of Rohan Starter Deck",
-      "yearPublished": "2022",
-      "type": "boardgameexpansion",
-      "postdate": "2024-07-18 15:52:33",
-      "lastmodified": "2025-11-20 16:12:57",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/Mr_hDpY41aJCNu9lFeFy6g__small/img/GAVWYKfRKzoPnRU5oRy1Fo8_0v8=/fit-in/200x150/filters:strip_icc()/pic8546951.jpg",
-      "link": "https://boardgamegeek.com/thing/357294",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "8.39067",
-      "averageWeight": "4",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Automatic Resource Growth",
-        "Cooperative Game",
-        "Deck Construction",
-        "Events",
-        "Hand Management",
-        "Scenario / Mission / Campaign Game",
-        "Solo / Solitaire Game",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game",
-        "Collectible Components",
-        "Fantasy",
-        "Novel-based"
-      ],
-      "designers": [
-        "Nate French"
-      ]
-    },
-    {
-      "id": "329500",
-      "name": "Unconscious Mind",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2025-11-20 15:51:03",
-      "lastmodified": "2025-11-20 16:12:43",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/ufkAbhulnKJ7uDpi09TXOQ__small/img/XBP7p0D1bkzDXkoOuXSiavW26Ig=/fit-in/200x150/filters:strip_icc()/pic7127448.jpg",
-      "link": "https://boardgamegeek.com/thing/329500",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "2, 3",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "7.91517",
-      "averageWeight": "4.009",
-      "boardGameRank": "343",
-      "mechanics": [
-        "Contracts",
-        "End Game Bonuses",
-        "Layering",
-        "Melding and Splaying",
-        "Open Drafting",
-        "Programmed Movement",
-        "Rondel",
-        "Set Collection",
-        "Solo / Solitaire Game",
-        "Tags",
-        "Variable Set-up",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Medical",
-        "Post-Napoleonic"
-      ],
-      "designers": [
-        "Laskas",
-        "Jonny Pac",
-        "Yoma",
-        "Antonio Zax"
-      ]
-    },
-    {
       "id": "408180",
       "name": "Shackleton Base: A Journey to the Moon",
       "yearPublished": "2024",
@@ -1640,9 +1781,9 @@
       "playingTime": "150",
       "minPlayingTime": "60",
       "maxPlayingTime": "150",
-      "averageRating": "7.49293",
-      "averageWeight": "3.5714",
-      "boardGameRank": "3667",
+      "averageRating": "7.48076",
+      "averageWeight": "3.5667",
+      "boardGameRank": "3570",
       "mechanics": [
         "Hand Management",
         "Multi-Use Cards",
@@ -1657,55 +1798,6 @@
       ],
       "designers": [
         "Vladimír Suchý"
-      ]
-    },
-    {
-      "id": "413246",
-      "name": "Bomb Busters",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2025-11-16 21:09:09",
-      "lastmodified": "2025-11-20 15:01:10",
-      "myrating": null,
-      "numplays": "4",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__thumb/img/8wfQelnNsbXCykJWMjD8UAjhleU=/fit-in/200x150/filters:strip_icc()/pic8303080.png",
-      "link": "https://boardgamegeek.com/thing/413246",
-      "minPlayers": "2",
-      "maxPlayers": "5",
-      "bestAtCount": "4",
-      "playingTime": "30",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "30",
-      "averageRating": "7.77107",
-      "averageWeight": "2",
-      "boardGameRank": "2708",
-      "mechanics": [
-        "Communication Limits",
-        "Cooperative Game",
-        "Deduction",
-        "Memory",
-        "Once-Per-Game Abilities",
-        "Real-Time",
-        "Scenario / Mission / Campaign Game",
-        "Sudden Death Ending"
-      ],
-      "categories": [
-        "Deduction",
-        "Spies / Secret Agents"
-      ],
-      "designers": [
-        "Hisashi Hayashi"
       ]
     },
     {
@@ -1977,52 +2069,6 @@
       ],
       "designers": [
         "Pablo Clark"
-      ]
-    },
-    {
-      "id": "442250",
-      "name": "Sea Salt & Paper: Extra Pepper",
-      "yearPublished": "2025",
-      "type": "boardgameexpansion",
-      "postdate": "2025-07-25 13:59:48",
-      "lastmodified": "2025-09-16 10:36:57",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/cJNYlNxgzUOj59rYOKUC8g__small/img/uQwYaaNlYpC51BLyuL95u5FhYKo=/fit-in/200x150/filters:strip_icc()/pic8822830.png",
-      "link": "https://boardgamegeek.com/thing/442250",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "2, 4",
-      "playingTime": "45",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "45",
-      "averageRating": "8.0266",
-      "averageWeight": "1.3333",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Events",
-        "Hand Management",
-        "Melding and Splaying",
-        "Push Your Luck",
-        "Set Collection"
-      ],
-      "categories": [
-        "Expansion for Base-game"
-      ],
-      "designers": [
-        "Bruno Cathala",
-        "Théo Rivière"
       ]
     },
     {

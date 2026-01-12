@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-01-09T01:54:45.019Z",
+  "gameDetails": {
+    "id": "207830",
+    "name": "5-Minute Dungeon",
+    "type": "boardgame",
+    "description": "5-&shy;Minute Dungeon is a chaotic, co-&shy;operative, real-&shy;time card game in which players have only five minutes to escape the randomized dungeon. Communication and teamwork are critical to survival because there's no time to form a carefully considered plan &mdash; and no predicting what dangers lie ahead.\n\nIn more detail, players assume the role of one of ten heroes, each with special cards and abilities. Once the five-minute timer starts, the race is on to defeat all the monsters inside the dungeon. In order to defeat a monster, players must match symbols from their hand with ones on the monster's card. At the end of each dungeon is a powerful dungeon boss &mdash; and after the first boss is defeated, the campaign continues to the second boss. Each boss, and each randomized dungeon, gets harder until players reach the fifth and final boss.\n\nThere is a Standard Edition and a Dungeon Master Edition (Kickstarted Exclusive Cover).\n\nBoth Kickstarter editions includes:\n- 2 New Bosses\n- A Deck with 25 new cards [15 Doors + 10 Challenge Cards]\n- A Baby Barbarian Figurine (with blood in the sword)\n\n",
+    "image": "https://cf.geekdo-images.com/bFZKvxPJ23dzGwgpOg-mIA__original/img/Pi321k82TYCMy0v6GqKZ3LHvBYM=/0x0/filters:format(png)/pic3213622.png",
+    "thumbnail": "https://cf.geekdo-images.com/bFZKvxPJ23dzGwgpOg-mIA__small/img/DcrVgGjSLsCZqXvEE_s0a1JSdn4=/fit-in/200x150/filters:strip_icc()/pic3213622.png",
+    "link": "https://boardgamegeek.com/thing/207830",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2017",
+    "playingTime": "30",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "6.90499",
+    "averageWeight": "1.1195",
+    "boardGameRank": "1110",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Cooperative Game",
+      "Elapsed Real Time Ending",
+      "Hand Management",
+      "Move Through Deck",
+      "Real-Time",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting",
+      "Print & Play",
+      "Real-time"
+    ],
+    "designers": [
+      "Connor Reid"
+    ]
+  }
+}

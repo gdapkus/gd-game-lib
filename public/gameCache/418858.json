@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:31:09.047Z",
+  "timestamp": "2026-01-09T01:53:00.963Z",
   "gameDetails": {
     "id": "418858",
     "name": "Resafa",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       3
     ],
-    "averageRating": "7.49293",
-    "averageWeight": "3.5714",
-    "boardGameRank": "3667",
+    "averageRating": "7.48076",
+    "averageWeight": "3.5667",
+    "boardGameRank": "3570",
     "mechanics": [
       "Hand Management",
       "Multi-Use Cards",

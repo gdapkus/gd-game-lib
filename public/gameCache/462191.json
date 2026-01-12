@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-01-12T17:40:24.544Z",
+  "gameDetails": {
+    "id": "462191",
+    "name": "The Gang: Deluxe Edition",
+    "type": "boardgame",
+    "description": "The Gang: Deluxe Edition is a blinged-out edition of the co-operative card game The Gang that includes the base game, the The Gang: More Players expansion that brings the player count to ten, as well as three expansion packs for more variability in game play. This edition also features ceramic poker chips, casino-quality cards, and a custom playmat.\n\n",
+    "image": "https://cf.geekdo-images.com/eIOV_ceUucPSHxYRTtC_wg__original/img/alRSMGzDN28b4zkWFSiO4MAW3jo=/0x0/filters:format(jpeg)/pic9328832.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eIOV_ceUucPSHxYRTtC_wg__small/img/HVIPSWpDM1uPj9BLymlcwGpzrpY=/fit-in/200x150/filters:strip_icc()/pic9328832.jpg",
+    "link": "https://boardgamegeek.com/thing/462191",
+    "minPlayers": "3",
+    "maxPlayers": "10",
+    "yearPublished": "2026",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": null,
+    "averageRating": "6.5",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Predictive Bid"
+    ],
+    "categories": [
+      "Card Game",
+      "Party Game"
+    ],
+    "designers": [
+      "John Cooper",
+      "Kory Heath"
+    ]
+  }
+}

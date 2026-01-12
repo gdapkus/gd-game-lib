@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-01-09T01:54:48.486Z",
+  "gameDetails": {
+    "id": "454831",
+    "name": "Ants: Extra Queen Promo",
+    "type": "boardgameexpansion",
+    "description": "New Queen tile granting 2 Aggression symbols, and a strong Enemy tile, which may have escaped from the Wistar institute...\n\n",
+    "image": "https://cf.geekdo-images.com/g-KDtAnpQzq1hr4I7oFafQ__original/img/SLC6F0BxP63TukuhYZrlfA7XP8I=/0x0/filters:format(png)/pic9224946.png",
+    "thumbnail": "https://cf.geekdo-images.com/g-KDtAnpQzq1hr4I7oFafQ__small/img/2urOGa8W8WsIobgCKWZCoT_sohA=/fit-in/200x150/filters:strip_icc()/pic9224946.png",
+    "link": "https://boardgamegeek.com/thing/454831",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.11429",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": [
+      "Renato Ciervo",
+      "Andrea Robbiani"
+    ]
+  }
+}

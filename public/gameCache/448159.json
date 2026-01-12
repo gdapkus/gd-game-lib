@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:30:55.592Z",
+  "timestamp": "2026-01-09T01:46:56.293Z",
   "gameDetails": {
     "id": "448159",
     "name": "Railway Boom",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       4
     ],
-    "averageRating": "8.02792",
+    "averageRating": "7.86519",
     "averageWeight": "3.2222",
-    "boardGameRank": "5685",
+    "boardGameRank": "4165",
     "mechanics": [
       "Auction / Bidding",
       "End Game Bonuses",
@@ -33,7 +33,8 @@
       "Trains"
     ],
     "designers": [
-      "Hisashi Hayashi"
+      "Hisashi Hayashi",
+      "Simone Luciani"
     ]
   }
 }

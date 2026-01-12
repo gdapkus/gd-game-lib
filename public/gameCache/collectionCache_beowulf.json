@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T20:04:20.286Z",
+  "timestamp": "2026-01-12T17:39:04.865Z",
   "games": [
     {
       "id": "63706",
@@ -11300,17 +11300,17 @@
       "name": "Bomb Busters",
       "image": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__original/img/2uApg8IOYjNVSzbUIwJUa-Z8eL8=/0x0/filters:format(png)/pic8303080.png",
       "thumbnail": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__small/img/8wfQelnNsbXCykJWMjD8UAjhleU=/fit-in/200x150/filters:strip_icc()/pic8303080.png",
-      "lastmodified": "2025-10-31 20:42:34",
+      "lastmodified": "2025-12-31 18:01:25",
       "numplays": "4",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-10-03 10:15:48",
@@ -33058,7 +33058,7 @@
       "name": "The Gang",
       "image": "https://cf.geekdo-images.com/ydwU0FMlRVa6wt8tOu1tgg__original/img/RT9ajRhK-eHlBJgsksL9rJQHIuk=/0x0/filters:format(jpeg)/pic7962719.jpg",
       "thumbnail": "https://cf.geekdo-images.com/ydwU0FMlRVa6wt8tOu1tgg__small/img/9hYAUB4S9PHAVvUoPEcaRm7jHIg=/fit-in/200x150/filters:strip_icc()/pic7962719.jpg",
-      "lastmodified": "2025-10-03 10:16:25",
+      "lastmodified": "2026-01-08 20:51:51",
       "numplays": "0",
       "status": {
         "own": false,
@@ -33067,8 +33067,8 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-10-21 15:16:46",
@@ -44972,7 +44972,7 @@
       "name": "The Lord of the Rings: Duel for Middle-earth",
       "image": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__original/img/Ts4M5eOW38r2oTvJmkx0uwNodv4=/0x0/filters:format(jpeg)/pic8378939.jpg",
       "thumbnail": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__small/img/rojFW0-h-bteedVG4aJXG1x7V0o=/fit-in/200x150/filters:strip_icc()/pic8378939.jpg",
-      "lastmodified": "2025-11-30 10:31:03",
+      "lastmodified": "2025-12-30 17:21:58",
       "numplays": "0",
       "status": {
         "own": false,
@@ -44981,9 +44981,9 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
       },
       "postdate": "2025-10-10 12:10:56",
       "rating": null,
@@ -68961,7 +68961,7 @@
       "name": "SETI: Space Agencies",
       "image": "https://cf.geekdo-images.com/JMLgq_A4OE_dX423FeFcPA__original/img/75BD_5fAbW6gCvFOKSefCQpKNeY=/0x0/filters:format(png)/pic8857305.png",
       "thumbnail": "https://cf.geekdo-images.com/JMLgq_A4OE_dX423FeFcPA__small/img/L0iyv7R4pYVqA6KX5Ox6RNnpugk=/fit-in/200x150/filters:strip_icc()/pic8857305.png",
-      "lastmodified": "2025-10-31 11:09:57",
+      "lastmodified": "2025-12-30 17:21:19",
       "numplays": "0",
       "status": {
         "own": false,
@@ -68970,9 +68970,9 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
       },
       "postdate": "2025-05-02 12:32:17",
       "rating": null,
@@ -78014,6 +78014,29 @@
         "preordered": false
       },
       "postdate": "2023-11-13 20:27:08",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "462191",
+      "collid": "141007396",
+      "name": "The Gang: Deluxe Edition",
+      "image": "https://cf.geekdo-images.com/eIOV_ceUucPSHxYRTtC_wg__original/img/alRSMGzDN28b4zkWFSiO4MAW3jo=/0x0/filters:format(jpeg)/pic9328832.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/eIOV_ceUucPSHxYRTtC_wg__small/img/HVIPSWpDM1uPj9BLymlcwGpzrpY=/fit-in/200x150/filters:strip_icc()/pic9328832.jpg",
+      "lastmodified": "2026-01-08 20:51:22",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 2,
+        "preordered": false
+      },
+      "postdate": "2026-01-08 20:51:22",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -87835,6 +87858,29 @@
         "preordered": false
       },
       "postdate": "2025-04-30 22:16:26",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "400366",
+      "collid": "140523235",
+      "name": "Wondrous Creatures",
+      "image": "https://cf.geekdo-images.com/reK4-IeMo2T6HMnACMkmGw__original/img/MlkgXfMGT1IdIzwy3Sj2Ul45b4o=/0x0/filters:format(png)/pic7710928.png",
+      "thumbnail": "https://cf.geekdo-images.com/reK4-IeMo2T6HMnACMkmGw__small/img/SWxYIEmvxdpUovHcEx9HQAql_Q8=/fit-in/200x150/filters:strip_icc()/pic7710928.png",
+      "lastmodified": "2025-12-31 18:00:39",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 4,
+        "preordered": false
+      },
+      "postdate": "2025-12-31 18:00:39",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },

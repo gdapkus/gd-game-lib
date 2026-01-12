@@ -1,6 +1,776 @@
 {
-  "timestamp": "2025-12-26T20:02:51.988Z",
+  "timestamp": "2026-01-12T17:41:10.375Z",
   "games": [
+    {
+      "id": "274228",
+      "name": "Valeria: Card Kingdoms – Crimson Seas",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-12 11:36:20",
+      "lastmodified": "2026-01-12 11:36:20",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/O6CtUYU4HOS3FZo_3y0GZg__thumb/img/0f1WoItL-88DMvEd5RP2UO7qdXE=/fit-in/200x150/filters:strip_icc()/pic4609328.jpg",
+      "link": "https://boardgamegeek.com/thing/274228",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "1",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.89377",
+      "averageWeight": "2.6667",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Open Drafting"
+      ],
+      "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Isaias Vallejo"
+      ]
+    },
+    {
+      "id": "328765",
+      "name": "Valeria: Card Kingdoms – Darksworn",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-12 11:36:13",
+      "lastmodified": "2026-01-12 11:36:13",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ufNc5NxQH-5_p2ilASid1w__small/img/dY9CcvTUizXbVesrY4oZSKfTPmg=/fit-in/200x150/filters:strip_icc()/pic6028656.jpg",
+      "link": "https://boardgamegeek.com/thing/328765",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "1, 2",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.79452",
+      "averageWeight": "2.25",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Open Drafting",
+        "Scenario / Mission / Campaign Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Isaias Vallejo"
+      ]
+    },
+    {
+      "id": "244367",
+      "name": "Valeria: Card Kingdoms – Shadowvale",
+      "yearPublished": "2019",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-12 11:36:07",
+      "lastmodified": "2026-01-12 11:36:07",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/T1EqKqsj0Mt07AkLbmzPzg__thumb/img/MuJCaNZChBPA16E54NMAPLZID4k=/fit-in/200x150/filters:strip_icc()/pic3946899.jpg",
+      "link": "https://boardgamegeek.com/thing/244367",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.96139",
+      "averageWeight": "2.25",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Open Drafting"
+      ],
+      "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Isaias Vallejo"
+      ]
+    },
+    {
+      "id": "194247",
+      "name": "Valeria: Card Kingdoms – Flames & Frost",
+      "yearPublished": "2017",
+      "type": "boardgameexpansion",
+      "postdate": "2016-11-09 10:56:41",
+      "lastmodified": "2026-01-12 11:35:59",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/oJMQvJnZqJUf3PWAveFCzw__thumb/img/0Y8H73rJJExfUGo6d5si4s2QouU=/fit-in/200x150/filters:strip_icc()/pic3584962.jpg",
+      "link": "https://boardgamegeek.com/thing/194247",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2, 4",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.89783",
+      "averageWeight": "2.2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Open Drafting"
+      ],
+      "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Isaias Vallejo"
+      ]
+    },
+    {
+      "id": "143065",
+      "name": "Tzolk'in: The Mayan Calendar – Tribes & Prophecies",
+      "yearPublished": "2013",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-12 11:33:42",
+      "lastmodified": "2026-01-12 11:33:42",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/MoFm3Gwr2gN4MqtZBGkn1A__thumb/img/TMDB6zd80IBABZUN0FskSv1-A5c=/fit-in/200x150/filters:strip_icc()/pic1758469.png",
+      "link": "https://boardgamegeek.com/thing/143065",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "8.11326",
+      "averageWeight": "3.6149",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Set Collection",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Ancient",
+        "Civilization",
+        "Economic",
+        "Expansion for Base-game",
+        "Farming",
+        "Mythology"
+      ],
+      "designers": [
+        "Simone Luciani",
+        "Daniele Tascini"
+      ]
+    },
+    {
+      "id": "245932",
+      "name": "Caverna: The Forgotten Folk",
+      "yearPublished": "2018",
+      "type": "boardgameexpansion",
+      "postdate": "2018-10-09 18:36:33",
+      "lastmodified": "2026-01-12 11:33:24",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/cxdDVUhmWFwbSDFzzDL4-Q__thumb/img/82Y-OEX_yW2DC7C6xciSDZYoHQY=/fit-in/200x150/filters:strip_icc()/pic4268584.jpg",
+      "link": "https://boardgamegeek.com/thing/245932",
+      "minPlayers": "1",
+      "maxPlayers": "7",
+      "bestAtCount": "2, 4",
+      "playingTime": "210",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "210",
+      "averageRating": "8.24688",
+      "averageWeight": "3.8",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Tile Placement",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Economic",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Farming"
+      ],
+      "designers": [
+        "Uwe Rosenberg",
+        "Alex Wilber"
+      ]
+    },
+    {
+      "id": "443306",
+      "name": "Deckers",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-11-05 20:42:23",
+      "lastmodified": "2026-01-12 11:32:34",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/QIiMCGc9zpv_XKAI-zbqmQ__small/img/WaxhjFWQeablIaDyzDTe9XWpOlw=/fit-in/200x150/filters:strip_icc()/pic8907989.jpg",
+      "link": "https://boardgamegeek.com/thing/443306",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.05245",
+      "averageWeight": "3.7667",
+      "boardGameRank": "6022",
+      "mechanics": [
+        "Command Cards",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Modular Board",
+        "Network and Route Building",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Science Fiction"
+      ],
+      "designers": [
+        "Richard Wilkins"
+      ]
+    },
+    {
+      "id": "441696",
+      "name": "Sanctuary",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-11-12 15:02:20",
+      "lastmodified": "2026-01-12 11:32:19",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/C6V2VCtf1_7cavenn7Is3A__small/img/ZJJOWNSKk81xpvNkMpGd5T0ybLo=/fit-in/200x150/filters:strip_icc()/pic8932906.jpg",
+      "link": "https://boardgamegeek.com/thing/441696",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "2, 3",
+      "playingTime": "100",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "100",
+      "averageRating": "7.65497",
+      "averageWeight": "2.7692",
+      "boardGameRank": "2632",
+      "mechanics": [
+        "Action Queue",
+        "Hand Management",
+        "Hexagon Grid",
+        "Open Drafting",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Tile Placement",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Animals",
+        "Environmental",
+        "Territory Building"
+      ],
+      "designers": [
+        "Mathias Wigge"
+      ]
+    },
+    {
+      "id": "454831",
+      "name": "Ants: Extra Queen Promo",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-08 19:50:49",
+      "lastmodified": "2026-01-08 19:50:49",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/g-KDtAnpQzq1hr4I7oFafQ__small/img/2urOGa8W8WsIobgCKWZCoT_sohA=/fit-in/200x150/filters:strip_icc()/pic9224946.png",
+      "link": "https://boardgamegeek.com/thing/454831",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "7.11429",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Renato Ciervo",
+        "Andrea Robbiani"
+      ]
+    },
+    {
+      "id": "366469",
+      "name": "Barrage: The Nile Affair Expansion",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2022-10-05 13:50:46",
+      "lastmodified": "2026-01-08 19:50:30",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Ys-XMi8rqcMchYxJtDp9Nw__small/img/XLeWGHECkeINtFQEVAaQCKk_xMM=/fit-in/200x150/filters:strip_icc()/pic6954928.png",
+      "link": "https://boardgamegeek.com/thing/366469",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.16309",
+      "averageWeight": "4.125",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Drafting",
+        "Contracts",
+        "End Game Bonuses",
+        "Income",
+        "Network and Route Building",
+        "Turn Order: Stat-Based",
+        "Variable Player Powers",
+        "Variable Set-up",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Economic",
+        "Environmental",
+        "Industry / Manufacturing"
+      ],
+      "designers": [
+        "Tommaso Battista",
+        "Simone Luciani"
+      ]
+    },
+    {
+      "id": "397437",
+      "name": "Barrage: The Colorado Connection",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2024-10-22 15:55:16",
+      "lastmodified": "2026-01-08 19:50:25",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/eik1LzCdYPVGVi6xN0zL1A__small/img/OKU-DXJxBjxQm0P8flqyPsdmv3Y=/fit-in/200x150/filters:strip_icc()/pic8241114.jpg",
+      "link": "https://boardgamegeek.com/thing/397437",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "8.22672",
+      "averageWeight": "4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Retrieval",
+        "Contracts",
+        "End Game Bonuses",
+        "Income",
+        "Network and Route Building",
+        "Ownership",
+        "Turn Order: Stat-Based",
+        "Variable Player Powers",
+        "Variable Set-up",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Economic",
+        "Environmental",
+        "Industry / Manufacturing"
+      ],
+      "designers": [
+        "Tommaso Battista",
+        "Simone Luciani"
+      ]
+    },
+    {
+      "id": "446699",
+      "name": "ANTS",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-10-25 14:20:14",
+      "lastmodified": "2026-01-08 19:49:27",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ow6IajVpCb0MEOEk_Aog8g__small/img/zgF6m8DTPJMypDk-Ha0xV7zMtRw=/fit-in/200x150/filters:strip_icc()/pic8888017.jpg",
+      "link": "https://boardgamegeek.com/thing/446699",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "7.91118",
+      "averageWeight": "3.8611",
+      "boardGameRank": "5363",
+      "mechanics": [
+        "End Game Bonuses",
+        "Hand Management",
+        "Hexagon Grid",
+        "Income",
+        "Open Drafting",
+        "Roles with Asymmetric Information",
+        "Variable Set-up",
+        "Worker Placement, Different Worker Types"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Animals",
+        "Civilization",
+        "Exploration"
+      ],
+      "designers": [
+        "Renato Ciervo",
+        "Andrea Robbiani"
+      ]
+    },
+    {
+      "id": "399317",
+      "name": "Joyride: Downtown",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-08 11:25:44",
+      "lastmodified": "2026-01-08 11:25:44",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/PUnqjTx4tt16CDQI43PlbA__small/img/vDDbr7EWv9MAC3byHhdAdWYIxk4=/fit-in/200x150/filters:strip_icc()/pic8306691.jpg",
+      "link": "https://boardgamegeek.com/thing/399317",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.98864",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Race",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Racing"
+      ],
+      "designers": [
+        "Duncan Molloy",
+        "Pete Ward"
+      ]
+    },
+    {
+      "id": "399315",
+      "name": "Joyride: Big Day Out",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-08 11:25:40",
+      "lastmodified": "2026-01-08 11:25:40",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/IMxd34BrcMUt8atZhMLKhw__small/img/EWkIDmVLj8lNGPS9blGPCWWA7D4=/fit-in/200x150/filters:strip_icc()/pic7718916.jpg",
+      "link": "https://boardgamegeek.com/thing/399315",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "8.12585",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Race",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Racing"
+      ],
+      "designers": [
+        "Duncan Molloy",
+        "Pete Ward"
+      ]
+    },
+    {
+      "id": "451247",
+      "name": "JOYRIDE: Full Throttle",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-01-08 11:25:20",
+      "lastmodified": "2026-01-08 11:25:20",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Wuwla4JDzWYhPN58aS4xuA__small/img/3o-9-e1yP3ypogqKeUlEbw0fpVQ=/fit-in/200x150/filters:strip_icc()/pic9016250.png",
+      "link": "https://boardgamegeek.com/thing/451247",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.77273",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Race",
+        "Team-Based Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Racing"
+      ],
+      "designers": [
+        "Duncan Molloy",
+        "Pete Ward"
+      ]
+    },
+    {
+      "id": "207830",
+      "name": "5-Minute Dungeon",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2025-12-26 18:27:30",
+      "lastmodified": "2025-12-26 18:27:30",
+      "myrating": null,
+      "numplays": "2",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/bFZKvxPJ23dzGwgpOg-mIA__small/img/DcrVgGjSLsCZqXvEE_s0a1JSdn4=/fit-in/200x150/filters:strip_icc()/pic3213622.png",
+      "link": "https://boardgamegeek.com/thing/207830",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4, 5",
+      "playingTime": "30",
+      "minPlayingTime": "5",
+      "maxPlayingTime": "30",
+      "averageRating": "6.90499",
+      "averageWeight": "1.1195",
+      "boardGameRank": "1110",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Cooperative Game",
+        "Elapsed Real Time Ending",
+        "Hand Management",
+        "Move Through Deck",
+        "Real-Time",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Fantasy",
+        "Fighting",
+        "Print & Play",
+        "Real-time"
+      ],
+      "designers": [
+        "Connor Reid"
+      ]
+    },
     {
       "id": "383010",
       "name": "Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic",
@@ -638,9 +1408,9 @@
       "playingTime": "150",
       "minPlayingTime": "60",
       "maxPlayingTime": "150",
-      "averageRating": "7.49293",
-      "averageWeight": "3.5714",
-      "boardGameRank": "3667",
+      "averageRating": "7.48076",
+      "averageWeight": "3.5667",
+      "boardGameRank": "3570",
       "mechanics": [
         "Hand Management",
         "Multi-Use Cards",
@@ -1091,56 +1861,6 @@
       ],
       "designers": [
         "Phil Pettifer"
-      ]
-    },
-    {
-      "id": "441696",
-      "name": "Sanctuary",
-      "yearPublished": "2025",
-      "type": "boardgame",
-      "postdate": "2025-11-12 15:02:20",
-      "lastmodified": "2025-11-12 15:02:20",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/C6V2VCtf1_7cavenn7Is3A__small/img/ZJJOWNSKk81xpvNkMpGd5T0ybLo=/fit-in/200x150/filters:strip_icc()/pic8932906.jpg",
-      "link": "https://boardgamegeek.com/thing/441696",
-      "minPlayers": "1",
-      "maxPlayers": "5",
-      "bestAtCount": "2, 3",
-      "playingTime": "100",
-      "minPlayingTime": "40",
-      "maxPlayingTime": "100",
-      "averageRating": "7.65497",
-      "averageWeight": "2.7692",
-      "boardGameRank": "2632",
-      "mechanics": [
-        "Action Queue",
-        "Hand Management",
-        "Hexagon Grid",
-        "Open Drafting",
-        "Set Collection",
-        "Solo / Solitaire Game",
-        "Tile Placement",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Animals",
-        "Environmental",
-        "Territory Building"
-      ],
-      "designers": [
-        "Mathias Wigge"
       ]
     },
     {
@@ -1956,52 +2676,6 @@
       ]
     },
     {
-      "id": "194247",
-      "name": "Valeria: Card Kingdoms – Flames & Frost",
-      "yearPublished": "2017",
-      "type": "boardgameexpansion",
-      "postdate": "2016-11-09 10:56:41",
-      "lastmodified": "2025-11-12 14:34:18",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/oJMQvJnZqJUf3PWAveFCzw__thumb/img/0Y8H73rJJExfUGo6d5si4s2QouU=/fit-in/200x150/filters:strip_icc()/pic3584962.jpg",
-      "link": "https://boardgamegeek.com/thing/194247",
-      "minPlayers": "1",
-      "maxPlayers": "5",
-      "bestAtCount": "2, 4",
-      "playingTime": "45",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "45",
-      "averageRating": "7.89783",
-      "averageWeight": "2.2",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Deck, Bag, and Pool Building",
-        "Dice Rolling",
-        "Open Drafting"
-      ],
-      "categories": [
-        "Card Game",
-        "Dice",
-        "Expansion for Base-game",
-        "Fantasy"
-      ],
-      "designers": [
-        "Isaias Vallejo"
-      ]
-    },
-    {
       "id": "448159",
       "name": "Railway Boom",
       "yearPublished": "2025",
@@ -2029,9 +2703,9 @@
       "playingTime": "120",
       "minPlayingTime": "60",
       "maxPlayingTime": "120",
-      "averageRating": "8.02792",
+      "averageRating": "7.86519",
       "averageWeight": "3.2222",
-      "boardGameRank": "5685",
+      "boardGameRank": "4165",
       "mechanics": [
         "Auction / Bidding",
         "End Game Bonuses",
@@ -2045,7 +2719,8 @@
         "Trains"
       ],
       "designers": [
-        "Hisashi Hayashi"
+        "Hisashi Hayashi",
+        "Simone Luciani"
       ]
     },
     {
@@ -2218,113 +2893,6 @@
       ]
     },
     {
-      "id": "397437",
-      "name": "Barrage: The Colorado Connection",
-      "yearPublished": "2024",
-      "type": "boardgameexpansion",
-      "postdate": "2024-10-22 15:55:16",
-      "lastmodified": "2025-11-12 14:32:02",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/eik1LzCdYPVGVi6xN0zL1A__small/img/OKU-DXJxBjxQm0P8flqyPsdmv3Y=/fit-in/200x150/filters:strip_icc()/pic8241114.jpg",
-      "link": "https://boardgamegeek.com/thing/397437",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "4",
-      "playingTime": "120",
-      "minPlayingTime": "120",
-      "maxPlayingTime": "120",
-      "averageRating": "8.22672",
-      "averageWeight": "4",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Action Retrieval",
-        "Contracts",
-        "End Game Bonuses",
-        "Income",
-        "Network and Route Building",
-        "Ownership",
-        "Turn Order: Stat-Based",
-        "Variable Player Powers",
-        "Variable Set-up",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Economic",
-        "Environmental",
-        "Industry / Manufacturing"
-      ],
-      "designers": [
-        "Tommaso Battista",
-        "Simone Luciani"
-      ]
-    },
-    {
-      "id": "366469",
-      "name": "Barrage: The Nile Affair Expansion",
-      "yearPublished": "2022",
-      "type": "boardgameexpansion",
-      "postdate": "2022-10-05 13:50:46",
-      "lastmodified": "2025-11-12 14:31:31",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/Ys-XMi8rqcMchYxJtDp9Nw__small/img/XLeWGHECkeINtFQEVAaQCKk_xMM=/fit-in/200x150/filters:strip_icc()/pic6954928.png",
-      "link": "https://boardgamegeek.com/thing/366469",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "4",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "8.16309",
-      "averageWeight": "4.125",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Action Drafting",
-        "Contracts",
-        "End Game Bonuses",
-        "Income",
-        "Network and Route Building",
-        "Turn Order: Stat-Based",
-        "Variable Player Powers",
-        "Variable Set-up",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Economic",
-        "Environmental",
-        "Industry / Manufacturing"
-      ],
-      "designers": [
-        "Tommaso Battista",
-        "Simone Luciani"
-      ]
-    },
-    {
       "id": "219513",
       "name": "Bärenpark",
       "yearPublished": "2017",
@@ -2411,58 +2979,6 @@
       ],
       "designers": [
         "Jonathan Cox"
-      ]
-    },
-    {
-      "id": "446699",
-      "name": "ANTS",
-      "yearPublished": "2025",
-      "type": "boardgame",
-      "postdate": "2025-10-25 14:20:14",
-      "lastmodified": "2025-11-12 14:30:17",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/ow6IajVpCb0MEOEk_Aog8g__small/img/zgF6m8DTPJMypDk-Ha0xV7zMtRw=/fit-in/200x150/filters:strip_icc()/pic8888017.jpg",
-      "link": "https://boardgamegeek.com/thing/446699",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "90",
-      "minPlayingTime": "90",
-      "maxPlayingTime": "90",
-      "averageRating": "7.91118",
-      "averageWeight": "3.8611",
-      "boardGameRank": "5363",
-      "mechanics": [
-        "End Game Bonuses",
-        "Hand Management",
-        "Hexagon Grid",
-        "Income",
-        "Open Drafting",
-        "Roles with Asymmetric Information",
-        "Variable Set-up",
-        "Worker Placement, Different Worker Types"
-      ],
-      "categories": [
-        "Abstract Strategy",
-        "Animals",
-        "Civilization",
-        "Exploration"
-      ],
-      "designers": [
-        "Renato Ciervo",
-        "Andrea Robbiani"
       ]
     },
     {
@@ -2700,54 +3216,6 @@
       "designers": [
         "Inka Brand",
         "Markus Brand"
-      ]
-    },
-    {
-      "id": "443306",
-      "name": "Deckers",
-      "yearPublished": "2025",
-      "type": "boardgame",
-      "postdate": "2025-11-05 20:42:23",
-      "lastmodified": "2025-11-05 20:42:23",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/QIiMCGc9zpv_XKAI-zbqmQ__small/img/WaxhjFWQeablIaDyzDTe9XWpOlw=/fit-in/200x150/filters:strip_icc()/pic8907989.jpg",
-      "link": "https://boardgamegeek.com/thing/443306",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "8.05245",
-      "averageWeight": "3.7667",
-      "boardGameRank": "6022",
-      "mechanics": [
-        "Command Cards",
-        "Cooperative Game",
-        "Deck, Bag, and Pool Building",
-        "Modular Board",
-        "Network and Route Building",
-        "Solo / Solitaire Game",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Science Fiction"
-      ],
-      "designers": [
-        "Richard Wilkins"
       ]
     },
     {
@@ -12069,54 +12537,6 @@
       ],
       "designers": [
         "Vital Lacerda"
-      ]
-    },
-    {
-      "id": "245932",
-      "name": "Caverna: The Forgotten Folk",
-      "yearPublished": "2018",
-      "type": "boardgameexpansion",
-      "postdate": "2018-10-09 18:36:33",
-      "lastmodified": "2023-10-05 16:07:15",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/cxdDVUhmWFwbSDFzzDL4-Q__thumb/img/82Y-OEX_yW2DC7C6xciSDZYoHQY=/fit-in/200x150/filters:strip_icc()/pic4268584.jpg",
-      "link": "https://boardgamegeek.com/thing/245932",
-      "minPlayers": "1",
-      "maxPlayers": "7",
-      "bestAtCount": "2, 4",
-      "playingTime": "210",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "210",
-      "averageRating": "8.24688",
-      "averageWeight": "3.8",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Tile Placement",
-        "Variable Player Powers",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Animals",
-        "Economic",
-        "Expansion for Base-game",
-        "Fantasy",
-        "Farming"
-      ],
-      "designers": [
-        "Uwe Rosenberg",
-        "Alex Wilber"
       ]
     },
     {

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-01-09T01:55:00.779Z",
+  "gameDetails": {
+    "id": "399315",
+    "name": "Joyride: Big Day Out",
+    "type": "boardgameexpansion",
+    "description": "Joyride: Big Day Out is an exclusive expansion, with new maps to race through. Just be careful to avoid the local wildlife!\n\nBig Day Out includes 11 tracks across two large maps, new destructible barriers, lava flows, and the mighty Hippaboon, a beast who will roam the board damaging any cars that get too close!\n\n\n    The Hippaboon jumps from platform to platform, attacking anything that takes a corner too tightly.\n    Volcano Island map\n    Wonder Zoo map\n\n\n",
+    "image": "https://cf.geekdo-images.com/IMxd34BrcMUt8atZhMLKhw__original/img/ZppnJs_f_ro1uzCIaeMjzWfZZMg=/0x0/filters:format(jpeg)/pic7718916.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/IMxd34BrcMUt8atZhMLKhw__small/img/EWkIDmVLj8lNGPS9blGPCWWA7D4=/fit-in/200x150/filters:strip_icc()/pic7718916.jpg",
+    "link": "https://boardgamegeek.com/thing/399315",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "8.12585",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Racing"
+    ],
+    "designers": [
+      "Duncan Molloy",
+      "Pete Ward"
+    ]
+  }
+}

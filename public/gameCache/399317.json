@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-01-09T01:55:02.967Z",
+  "gameDetails": {
+    "id": "399317",
+    "name": "Joyride: Downtown",
+    "type": "boardgameexpansion",
+    "description": "Joyride: Downtown is an exclusive expansion, with three new additions to your races.\n\n\n    Drive the taxi, earning fares at every checkpoint then cashing them in for flexible effects.\n    Drop the Spike Strip to shred your opponents&rsquo; tires and limit their options.\n    Scatter trashcans around the track, to litter the board with unpredictable effects mid-race.\n\n\n",
+    "image": "https://cf.geekdo-images.com/PUnqjTx4tt16CDQI43PlbA__original/img/RGPHrTtAu40V-oeVjur851Y-xHs=/0x0/filters:format(jpeg)/pic8306691.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PUnqjTx4tt16CDQI43PlbA__small/img/vDDbr7EWv9MAC3byHhdAdWYIxk4=/fit-in/200x150/filters:strip_icc()/pic8306691.jpg",
+    "link": "https://boardgamegeek.com/thing/399317",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "7.98864",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Racing"
+    ],
+    "designers": [
+      "Duncan Molloy",
+      "Pete Ward"
+    ]
+  }
+}

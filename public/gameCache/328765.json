@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-01-12T17:37:58.272Z",
+  "gameDetails": {
+    "id": "328765",
+    "name": "Valeria: Card Kingdoms – Darksworn",
+    "type": "boardgameexpansion",
+    "description": "The goal of Valeria: Card Kingdoms &ndash; Darksworn is to introduce co-operative play into the Valeria world through groups of related books called Sagas. These books will lead the players through a story that unfolds during the game and offers greater immersion into the Valeria setting. New rules and cards will be introduced in each book, some lasting only through the current book and some persisting through the unfolding Saga, somewhat like a \"legacy game\".\n\nDarksworn uses six book-decks to tell a story of wonder, sacrifice, and adventure as you explore the territory west of Valeria and encounter a darkness that cannot go unchecked. Each book presents you with a set of new rules and several tasks that must be completed by your gaming group in order to advance to the next book in the saga. Within each book you'll find special boons to assist you and powerful monsters to challenge you. Your team will have to strike a balance between building effective tableaus of citizens that will allow you to complete the tasks and defending the decreasing center stacks of citizens that are the health of your kingdom.\n\nThe play area for Darksworn is much the same as an ordinary game of Valeria: Card Kingdoms, but there are some notable changes. The story board sits above the monster row. This is where each book's story and challenges are presented, where new rules are displayed, and where citizens captured by monster attacks languish in a dark oubliette. Walls provide additional protection from the attacking monsters, but if they make it past the walls, your citizen stacks are going to suffer. At the bottom of the play area is the Blessings Board where your devotion to the radiance of Aquila can grant you special powers, free captured citizens, and even rebuild fallen walls. If any of the monsters make it through to the Blessings Board, however, all is lost.\n\n",
+    "image": "https://cf.geekdo-images.com/ufNc5NxQH-5_p2ilASid1w__original/img/uv3DA1ttEJNFu0WISaZxmMLtX7A=/0x0/filters:format(jpeg)/pic6028656.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ufNc5NxQH-5_p2ilASid1w__small/img/dY9CcvTUizXbVesrY4oZSKfTPmg=/fit-in/200x150/filters:strip_icc()/pic6028656.jpg",
+    "link": "https://boardgamegeek.com/thing/328765",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2021",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      1,
+      2
+    ],
+    "averageRating": "7.79452",
+    "averageWeight": "2.25",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Isaias Vallejo"
+    ]
+  }
+}

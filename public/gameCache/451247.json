@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-01-09T01:55:05.133Z",
+  "gameDetails": {
+    "id": "451247",
+    "name": "JOYRIDE: Full Throttle",
+    "type": "boardgame",
+    "description": "Buckle up for the next instalment in the Joyride series, Joyride: Full Throttle!\n\nJoyride: Full Throttle is a high-octane stand-alone racing game in the Joyride range. Keeping the same core gameplay while expanding the player count to 6 players! Race through 20 tracks across 2 new maps &ndash; the sun-soaked Beach and the neon-drenched Abandoned Mall, and harness powerful new items and dangerous obstacles. Joyride: Full Throttle is for learner drivers and seasoned racers.\n\nExpanded for Joyride: Full Throttle is the Team Mode facilitating 2v2 or 2v2v2 racing. Players work together to speed their Super Fan around the track as fast as possible, swapping the Fan between their cars mid-race. New in-game Portals can launch you through glowing gateways to leap around the track, pull off daring shortcuts, and even chain multiple maps together to create custom circuits.\n\nFull Throttle is fully compatible with previous Joyride games allowing players to mix and match cars, items, and more from across the series\n\n&mdash;description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/Wuwla4JDzWYhPN58aS4xuA__original/img/qJbvcezL9WVMxd2dNMnAYedUhBI=/0x0/filters:format(png)/pic9016250.png",
+    "thumbnail": "https://cf.geekdo-images.com/Wuwla4JDzWYhPN58aS4xuA__small/img/3o-9-e1yP3ypogqKeUlEbw0fpVQ=/fit-in/200x150/filters:strip_icc()/pic9016250.png",
+    "link": "https://boardgamegeek.com/thing/451247",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2026",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "7.77273",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Team-Based Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Racing"
+    ],
+    "designers": [
+      "Duncan Molloy",
+      "Pete Ward"
+    ]
+  }
+}
