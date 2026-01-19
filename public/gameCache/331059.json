@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-01-19T04:10:46.936Z",
+  "gameDetails": {
+    "id": "331059",
+    "name": "Last Message",
+    "type": "boardgame",
+    "description": "A crime was just committed! The victim is unable to speak &mdash; but they can draw, and in doing so they will ideally help the inspectors guess who in the vast crowd is the criminal! This shifty character will do anything and everything to cover their tracks, though, so will you be able to stop them before the last message?\n\nIn Last Message, the victim of the crime gives clues over four rounds to help the detectives determine the identity of the criminal. To give clues in a round, the victim has 30 seconds in which to draw and write in a 3x3 grid &mdash; but before handing over these clues, the criminal can erase part of these drawings.\n\nIf the criminal is not identified by the end of the fourth round, they win the game; otherwise, the detectives and the victim win.\n\n",
+    "image": "https://cf.geekdo-images.com/3vhihjIpe7vkNk3nUZOw4Q__original/img/AOND9c-acWg4X_hxgvnTUYDEUTs=/0x0/filters:format(jpeg)/pic6080638.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3vhihjIpe7vkNk3nUZOw4Q__small/img/G8hEL-twGVBRgcgj9qyx3ZlYsyg=/fit-in/200x150/filters:strip_icc()/pic6080638.jpg",
+    "link": "https://boardgamegeek.com/thing/331059",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2021",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.63138",
+    "averageWeight": "1.0714",
+    "boardGameRank": "4001",
+    "mechanics": [
+      "Deduction",
+      "Line Drawing"
+    ],
+    "categories": [
+      "Murder / Mystery",
+      "Party Game"
+    ],
+    "designers": [
+      "Lee Ju-Hwa",
+      "Giung Kim"
+    ]
+  }
+}

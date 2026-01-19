@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T17:37:35.150Z",
+  "timestamp": "2026-01-19T04:10:08.816Z",
   "games": [
     {
       "id": "363039",
@@ -2169,17 +2169,17 @@
       "name": "Barcelona",
       "image": "https://cf.geekdo-images.com/clBx1kfB-8OpO86B2-vsgg__original/img/4Wmp2fgPbYKAfL4UC3QXSv9YATM=/0x0/filters:format(jpeg)/pic7442376.jpg",
       "thumbnail": "https://cf.geekdo-images.com/clBx1kfB-8OpO86B2-vsgg__small/img/8w625ctGlolYNodQdbXJtyOC3wg=/fit-in/200x150/filters:strip_icc()/pic7442376.jpg",
-      "lastmodified": "2024-09-22 17:16:09",
+      "lastmodified": "2026-01-13 00:57:06",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-09-22 17:16:09",
@@ -5039,6 +5039,29 @@
       "ratingTimestamp": "2008-01-28 13:57:06"
     },
     {
+      "id": "440921",
+      "collid": "141206942",
+      "name": "Compile: Aux 2",
+      "image": "https://cf.geekdo-images.com/aQb9QF1U1kzZ1dIqRfnvyQ__original/img/NrpkPJfgTKaU0z9KkZNEd7f94JA=/0x0/filters:format(png)/pic9001669.png",
+      "thumbnail": "https://cf.geekdo-images.com/aQb9QF1U1kzZ1dIqRfnvyQ__small/img/8i9gILz4d0CxA_okbmWZZ3B3hwc=/fit-in/200x150/filters:strip_icc()/pic9001669.png",
+      "lastmodified": "2026-01-13 00:57:28",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-01-13 00:57:28",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "440606",
       "collid": "139356425",
       "name": "Compile: Main 2",
@@ -7174,6 +7197,29 @@
         "preordered": false
       },
       "postdate": "2024-10-05 14:27:39",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "442632",
+      "collid": "141284356",
+      "name": "Endeavor: Deep Sea – Deluxe Upgrade Pack",
+      "image": "https://cf.geekdo-images.com/pKEQnTMeZO_UxMA-XFWzIg__original/img/mep9-EDOXwhAJyg3qWI-mvWHGcM=/0x0/filters:format(jpeg)/pic9309371.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/pKEQnTMeZO_UxMA-XFWzIg__small/img/euCTOYsvZ9GQg9HVDFNk4IAvW3k=/fit-in/200x150/filters:strip_icc()/pic9309371.jpg",
+      "lastmodified": "2026-01-14 16:12:54",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "postdate": "2026-01-14 16:12:54",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -11456,6 +11502,29 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
+      "id": "331059",
+      "collid": "141366506",
+      "name": "Last Message",
+      "image": "https://cf.geekdo-images.com/3vhihjIpe7vkNk3nUZOw4Q__original/img/AOND9c-acWg4X_hxgvnTUYDEUTs=/0x0/filters:format(jpeg)/pic6080638.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/3vhihjIpe7vkNk3nUZOw4Q__small/img/G8hEL-twGVBRgcgj9qyx3ZlYsyg=/fit-in/200x150/filters:strip_icc()/pic6080638.jpg",
+      "lastmodified": "2026-01-16 13:42:14",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 4,
+        "preordered": false
+      },
+      "postdate": "2026-01-16 13:42:13",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "33531",
       "collid": "11777467",
       "name": "Last Night on Earth 'Stock Up' Supplement",
@@ -11967,7 +12036,7 @@
       "name": "Lovecraft Letter",
       "image": "https://cf.geekdo-images.com/iRDSJ4wnIjbcZnYYmxrS7w__original/img/bSIutW2D3GSfc8vFkkio4NW2pEw=/0x0/filters:format(png)/pic3485528.png",
       "thumbnail": "https://cf.geekdo-images.com/iRDSJ4wnIjbcZnYYmxrS7w__small/img/a3lM0zDNSGhWG-Q_7h5sMk24xCU=/fit-in/200x150/filters:strip_icc()/pic3485528.png",
-      "lastmodified": "2025-11-05 20:32:30",
+      "lastmodified": "2026-01-12 19:26:44",
       "numplays": "0",
       "status": {
         "own": false,
@@ -11976,8 +12045,8 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-11-05 20:32:30",
@@ -12243,7 +12312,7 @@
       "name": "Mage Knight: The Apocalypse Dragon",
       "image": "https://cf.geekdo-images.com/9QH1XqNNUH3UIoMFhPATyA__original/img/szJMIa4H6D3NWhCwmYgB39BT3go=/0x0/filters:format(jpeg)/pic8078636.jpg",
       "thumbnail": "https://cf.geekdo-images.com/9QH1XqNNUH3UIoMFhPATyA__small/img/Sit_nCyTNX0HPTnHYoswlG_yoHY=/fit-in/200x150/filters:strip_icc()/pic8078636.jpg",
-      "lastmodified": "2025-11-12 18:30:37",
+      "lastmodified": "2026-01-12 19:27:19",
       "numplays": "0",
       "status": {
         "own": false,
@@ -12253,7 +12322,7 @@
         "wanttoplay": false,
         "wanttobuy": false,
         "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlistpriority": 1,
         "preordered": false
       },
       "postdate": "2025-11-12 18:30:36",
@@ -12611,7 +12680,7 @@
       "name": "Men-Nefer",
       "image": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__original/img/JsUocrjmr10HEIh-Ii97DCIYUIM=/0x0/filters:format(jpeg)/pic7984201.jpg",
       "thumbnail": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__small/img/jlC58ndBNtI6kTO61AwdUhBMgHQ=/fit-in/200x150/filters:strip_icc()/pic7984201.jpg",
-      "lastmodified": "2024-10-22 17:01:15",
+      "lastmodified": "2026-01-12 19:26:20",
       "numplays": "0",
       "status": {
         "own": false,
@@ -12620,8 +12689,8 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-10-22 17:01:14",
@@ -13761,7 +13830,7 @@
       "name": "Nova Roma",
       "image": "https://cf.geekdo-images.com/zEv4IVUrCK9CpNrO54b7Kg__original/img/93DKEfBgFWr1fvvfROPo7qfG500=/0x0/filters:format(jpeg)/pic7071623.jpg",
       "thumbnail": "https://cf.geekdo-images.com/zEv4IVUrCK9CpNrO54b7Kg__small/img/ydCmEIpZy9t4p6lrnOnUYqHrX80=/fit-in/200x150/filters:strip_icc()/pic7071623.jpg",
-      "lastmodified": "2024-10-06 16:37:04",
+      "lastmodified": "2026-01-12 19:26:16",
       "numplays": "0",
       "status": {
         "own": false,
@@ -13770,8 +13839,8 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-10-06 16:37:04",
@@ -16153,7 +16222,7 @@
       "name": "Railway Boom",
       "image": "https://cf.geekdo-images.com/HLf1dKFTM4y7EwdQubbazQ__original/img/39cfZ-xXxQInub3TRAsGx7PdwcM=/0x0/filters:format(png)/pic8951049.png",
       "thumbnail": "https://cf.geekdo-images.com/HLf1dKFTM4y7EwdQubbazQ__small/img/yFsR_l7zagtOjSmxVKqZlegRpo8=/fit-in/200x150/filters:strip_icc()/pic8951049.png",
-      "lastmodified": "2025-11-12 14:33:38",
+      "lastmodified": "2026-01-12 19:32:08",
       "numplays": "0",
       "status": {
         "own": false,
@@ -16161,10 +16230,10 @@
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
-        "wanttobuy": true,
+        "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-11-06 17:36:24",
       "rating": null,
@@ -18315,7 +18384,7 @@
       "name": "Skymines",
       "image": "https://cf.geekdo-images.com/loa-OQHFaTlKV2eU_WKVFw__original/img/x7qsiqjs4OLfVfrcvlMDIvyCuDA=/0x0/filters:format(jpeg)/pic6800089.jpg",
       "thumbnail": "https://cf.geekdo-images.com/loa-OQHFaTlKV2eU_WKVFw__small/img/Jsvw38z4mMfKZzKCDjiQRe7mJ9k=/fit-in/200x150/filters:strip_icc()/pic6800089.jpg",
-      "lastmodified": "2024-10-23 01:06:41",
+      "lastmodified": "2026-01-12 19:26:10",
       "numplays": "0",
       "status": {
         "own": false,
@@ -18324,8 +18393,8 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-09-23 15:28:13",
@@ -21029,7 +21098,7 @@
       "name": "Tower Up",
       "image": "https://cf.geekdo-images.com/3GBPmFILs8upxBhdQIvwTA__original/img/Htgk-wtMFcr6_8n2DAvur_y1TdA=/0x0/filters:format(jpeg)/pic8143457.jpg",
       "thumbnail": "https://cf.geekdo-images.com/3GBPmFILs8upxBhdQIvwTA__small/img/1jM40AdYqOdA76UK6nghT_19emk=/fit-in/200x150/filters:strip_icc()/pic8143457.jpg",
-      "lastmodified": "2025-11-06 15:30:49",
+      "lastmodified": "2026-01-18 12:54:11",
       "numplays": "0",
       "status": {
         "own": false,
@@ -21038,9 +21107,9 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
       },
       "postdate": "2025-05-22 23:59:31",
       "rating": null,
