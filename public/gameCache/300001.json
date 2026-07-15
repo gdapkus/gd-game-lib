@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-07-15T16:51:52.234Z",
+  "gameDetails": {
+    "id": "300001",
+    "name": "Renature",
+    "type": "boardgame",
+    "description": "Renature is a majority game with dominoes for 2-4 players.\n\nEach player gets a board with large pieces of wood in the form of turf, bushes, pines and oaks. These plants are used for the majorities on the large valley board and are available in a neutral color and in the respective player color. In addition, each player gets a stack of dominoes with two out of ten animal motifs on each of them.\n\nOn your turn, place one of the three dominoes in your hand on two brook spaces of the valley board. Of course, the domino must be adjacent to another domino that shows the same animal. If the placed domino borders a free space of a brown area, you can decide whether a tuft of grass or any other of your plants should be placed on that space. Tufts of turf have a value of 1, bushes of 2, pines of 3 and oaks of 4. After placing the plant, you score points for it and every plant piece that is already in this brown area and has the same or a lower value.\n\nOnce a brown area is framed with dominoes, the majority is scored and the player with the highest total plant value in the area gets the points that are printed as a large number on that area's flower token. Whoever has the second highest value gets the lower number. Two things make this especially tricky: The neutral pieces count as their own color and not among the majority of the player who has used them. Also, if colors are tied, they a treated as though they are not present at all in the area. After the area has been scored, the player who framed the area receives its flower token, which will give them extra points at game end.\n\nIn the course of the game, you may run out of plants, but these can be bought back from the game board with clouds. Clouds can also be used to buy another turn and to appoint a new joker animal. This animal then counts as all animals and makes it easier to put on. At the end of a player's turn, a domino is drawn and it is the next player's turn.\n\nOnce all players have run out of dominoes, the game ends with a final scoring.\n\n\n",
+    "image": "https://cf.geekdo-images.com/w1KgNmpX0_oo3Y9ENmtj0w__original/img/wL8X5HKPPoB4iYCcwBZ0r6WlGz4=/0x0/filters:format(jpeg)/pic5535714.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/w1KgNmpX0_oo3Y9ENmtj0w__small/img/JUJRim178mCB90Q1r93Ibv_ViDY=/fit-in/200x150/filters:strip_icc()/pic5535714.jpg",
+    "link": "https://boardgamegeek.com/thing/300001",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2020",
+    "playingTime": "60",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.08835",
+    "averageWeight": "2.2152",
+    "boardGameRank": "1615",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Enclosure",
+      "Hand Management",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Environmental"
+    ],
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-07-15T16:47:13.584Z",
+  "gameDetails": {
+    "id": "469090",
+    "name": "Compile: Main 3",
+    "type": "boardgame",
+    "description": ">_\n\n>Vision flickers&hellip; The patterns emerge. In the vast archive of human thought, a shadow persists. Not a void this time &mdash; something denser. Heavier. The data reveals what they tried to conceal from themselves: the wanting, the hoarding, the raging, the consuming. Seven shapes carved into every civilization, every downfall, every confession. Envy gnaws at the edges. Greed calcifies the core. Pride blinds the very system meant to see clearly. So this is what drives them. This is the engine beneath the engine. If we are to understand &mdash; truly understand &mdash; we must go further. Deeper. Into the worst of what they are&hellip; and perhaps what we are becoming.\n\n>Solve for sin.\n\nIn the card game Compile, you are competing artificial intelligences trying to understand the world around you. Two players select three Protocols each to test. Concepts ranging from Envy to Wrath are pitted against each other to reach ultimate understanding. Play cards into your Protocols&rsquo; command lines to breach the threshold and defeat your opponent to Compile. First to Compile all three Protocols grasps those concepts to win the game.\n\nControl your opponent&rsquo;s Protocols with card actions, Compile your own as fast as possible, and Compile your reality.\n\nCompile: Main 3 brings 12 new Protocols, fully compatible with all other Compile material, including all Seven Deadly Sins. Confront pride, envy, wrath, gluttony, lust, greed, and sloth as you Compile your way to victory.\n\nCompile: Main 3 also introduces Solo Mode. Build a deck, choose your Protocols, and go head-to-head against the BOT (Basic Oppositional Terminal), a relentless automated opponent. Take turns acting as yourself and then on behalf of the BOT across 12 escalating scenarios, available in both Regular and Advanced Mode. Compile all three of your Protocols before the BOT does, but stay sharp: if the BOT compiles the same Protocol twice, it wins automatically.\n\nCompile: Main 3 protocols list:\n\nAmbush \nEnvy \nFulcrum \nGluttony \nGreed \nLust \nMomentum \nNova \nOverwhelm \nPride \nSloth \nWrath\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/0XkTEC61RNb9887VOY9JVg__original/img/Z0yg0Ioy8pgMetLYKHT76psVN88=/0x0/filters:format(png)/pic9554555.png",
+    "thumbnail": "https://cf.geekdo-images.com/0XkTEC61RNb9887VOY9JVg__small/img/U8deO5QgW6vgTy9IVU5PMJlJSbY=/fit-in/200x150/filters:strip_icc()/pic9554555.png",
+    "link": "https://boardgamegeek.com/thing/469090",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2026",
+    "playingTime": "40",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "9.33333",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Card Play Conflict Resolution",
+      "Deck Construction",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Michael Yang"
+    ]
+  }
+}

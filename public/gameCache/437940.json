@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-07-15T16:59:53.961Z",
+  "gameDetails": {
+    "id": "437940",
+    "name": "SETI: Search for Extraterrestrial Intelligence – Gateway to Mars Promo Card",
+    "type": "boardgameexpansion",
+    "description": "Originally available as part of A Pack from the Dice Tower 2025 Gamefound campaign.\n\nName: Gateway to Mars\ncard#: SE EN 02\n\nFree-action corner: [1 data]\nsignal corner: [Blue signal]\nincome corner: [credit]\n\nMain action:\n\nCost: 1 credit\nEffect: triggerable mission\nWhen you [orbit/land] on Mars (or its moons) or when you play a card mentioning \"Mars\" in its flavor text: \n[2 publicity] [5 points]\n\nFlavor text: \nFor man to reach Mars, we require the coordinated development of new propulsion systems, life support systems, radiation protection, and other key technologies.\n\n",
+    "image": "https://cf.geekdo-images.com/7OwymDTWb8VCM-saMLc2vw__original/img/NFUVK7xHpJvf8GXb8VTQIQMtmG8=/0x0/filters:format(png)/pic8666369.png",
+    "thumbnail": "https://cf.geekdo-images.com/7OwymDTWb8VCM-saMLc2vw__small/img/djLsjviqj5oX_I0jQ0rTjUfHcDI=/fit-in/200x150/filters:strip_icc()/pic8666369.png",
+    "link": "https://boardgamegeek.com/thing/437940",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "160",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "160",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.49344",
+    "averageWeight": "2.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Tomáš Holek"
+    ]
+  }
+}

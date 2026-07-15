@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-07-15T16:50:54.479Z",
+  "gameDetails": {
+    "id": "465669",
+    "name": "Drillers",
+    "type": "boardgame",
+    "description": "In Drillers, players explore an abandoned mine using their mechs, trying to find and excavate anything useful or valuable left behind by a forgotten mining corporation. Each level of the mine brings new opportunities and new challenges&mdash;as fuel runs low and decisions become tighter. By collecting cards, players improve the drilling capabilities of their unique mech, unlock new actions, and push their operation further underground.\n\nMined minerals can be sold for profit also by use of drones, allowing players to refine their strategy and invest in better tools. Every decision affects everyone, often creating new opportunities for players.\n\nDrillers is a game about planning ahead, tough decision-making, and knowing just how far you can afford to drill. Will you be the first to extend the horizons and uncover what the depths hide?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/Uz4rr8VRTss1PKSbxspV0Q__original/img/6p0BE5ScmaQAlpnowUy2yzn70R8=/0x0/filters:format(jpeg)/pic9628641.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Uz4rr8VRTss1PKSbxspV0Q__small/img/dsgH9yJYFydcwnyVSz4spJz0eIU=/fit-in/200x150/filters:strip_icc()/pic9628641.jpg",
+    "link": "https://boardgamegeek.com/thing/465669",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.38409",
+    "averageWeight": "3",
+    "boardGameRank": "15960",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Resource to Move",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Industry / Manufacturing",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Roman Bednář",
+      "Adam Španěl"
+    ]
+  }
+}

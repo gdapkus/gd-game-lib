@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-07-15T16:52:07.981Z",
+  "gameDetails": {
+    "id": "463329",
+    "name": "Tiny Epic Invincible",
+    "type": "boardgame",
+    "description": "Step into the beloved, brutal world of Invincible and put your life on the line to defend the people of Earth from merciless supervillains and otherworldly invaders in this cooperative race against the clock that'll push you to your limits as you zoom from Chicago to Atlantis and back again to save lives before it's too late.\n\nIn Tiny Epic Invincible, players will assemble a team of 1-4 superheroes, each with their own unique powers, and face off against a randomly selected supervillain seeking world domination.\n\nThe game plays across five different locations, with players beginning at the Guardians of the Globe HQ and traveling out to four unique locations pulled from the location deck at the start of the game. The ultimate goal of the players is to rescue and secure civilians at each location before they're caught up in the villain's warpath.\n\nMore foes will pile onto these locations as the game progresses, taking advantage of the chaos, and players will need to effectively use the push-your-luck action system to keep up with their opponents. Recruit iconic, non-player allies to station around the world and creatively combine your actions to keep the villains at bay, save lives, and prevent the conquest of Earth!\n\n-description from publisher\n\n",
+    "image": "https://cf.geekdo-images.com/eT0JVM8NZsQG-hTcG1IeTA__original/img/8OqE-1UfA3LwZmgO0sEStQPybco=/0x0/filters:format(png)/pic9371566.png",
+    "thumbnail": "https://cf.geekdo-images.com/eT0JVM8NZsQG-hTcG1IeTA__small/img/XMHqPgaks9oJ3jYv1VfSLhQEGkQ=/fit-in/200x150/filters:strip_icc()/pic9371566.png",
+    "link": "https://boardgamegeek.com/thing/463329",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": null,
+    "averageRating": "1",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Push Your Luck"
+    ],
+    "categories": [
+      "Dice",
+      "Fighting",
+      "Miniatures",
+      "Movies / TV / Radio theme"
+    ],
+    "designers": [
+      "Scott Almes"
+    ]
+  }
+}

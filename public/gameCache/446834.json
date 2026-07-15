@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-07-15T16:51:10.479Z",
+  "gameDetails": {
+    "id": "446834",
+    "name": "Galileo Galilei: Luna",
+    "type": "boardgameexpansion",
+    "description": "In the 16th century, astronomers like Tycho Brahe studied the Moon&rsquo;s movements and phases using precise measurements and simple instruments. Galileo Galilei&rsquo;s telescope revealed craters and mountains on the Moon, thereby disproving the ancient hypothesis of its perfect smoothness. These observations changed our understanding of the Moon and of the entire universe.\n\nThis expansion for Galileo Galilei introduces the Moon as a new object of observation, adding a new scoring mechanic to explore. Discover four new playable characters, each bringing unique abilities. Additionally, powerful inquisitors enter the game, offering great rewards to those who can successfully persuade them. Map the Moon together and enhance your strategic possibilities!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/aZkX_eLEowxaUPeiVdnXsg__original/img/qR6ndBiO-f17Tplu0uFcQBAhhaI=/0x0/filters:format(jpeg)/pic8893583.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aZkX_eLEowxaUPeiVdnXsg__small/img/s6hagAf9Wuf6PMyhXzHQVgbdIkg=/fit-in/200x150/filters:strip_icc()/pic8893583.jpg",
+    "link": "https://boardgamegeek.com/thing/446834",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.01314",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Rondel",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Renaissance",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Tomáš Holek",
+      "Michal Peichl"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-07-15T16:59:11.855Z",
+  "gameDetails": {
+    "id": "469532",
+    "name": "Earthborne Trailblazer",
+    "type": "boardgame",
+    "description": "Earthborne Trailblazer is an open-world, co-operative board game set in the wilderness of the far future. You and up to 4 friends take on the role of Rangers who have long acted as the sworn protectors of a small mountain valley nestled high in the Rocky Mountains. Now, you are striking out beyond the bounds of your Valley, seeking out new trails and new peoples and bringing the aid of the Rangers far out into the world.\n﻿\nYou explore the world through an immersive game board composed of a massive, single piece of art. You will journey across different terrain types, seeking out and encountering the unique features and locations hidden within the details of the art. \n﻿\nMeanwhile, all around you, the environment of the game acts with a mind of its own. The interactions of the predators, prey, and flora in the environment around you create an emergent ecology that constantly keeps the game board changing.\n﻿\nEach session of Earthborne Trailblazer is a single, stand-alone experience in which you will explore a large number of different branching storylines that will intersect and combine in unique ways. Through completing these, helping people, and discovering valuable resources, you earn Ranger badges to win the game. But, as you do, your fellow Rangers back at Lone Tree Station are getting stretched thinner and thinner. You will have to help them maintain the Valley or risk running out of Rangers and losing the game.\n﻿\nA round of the game represents one day during which each player takes a turn. On your turn, you choose how much energy to expend to prepare for the day or how much you will save for exploration.\n﻿\nThen, you set off to explore your current region, making progress and potentially encountering unique locations or wildlife in your area.\n﻿\nFinally, you travel around the map, using your progress to mark new trails, travel to new areas, or to help others.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/r_nyI9ng8aMRNk6k5XsJPA__original/img/kMCIFfCWXXjyos9_DmzEI73xKec=/0x0/filters:format(jpeg)/pic9593360.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/r_nyI9ng8aMRNk6k5XsJPA__small/img/lYlAbGOjdLjOiXuw3Zinrskvbf4=/fit-in/200x150/filters:strip_icc()/pic9593360.jpg",
+    "link": "https://boardgamegeek.com/thing/469532",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2027",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.66667",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Adventure",
+      "Environmental",
+      "Exploration",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Andrew Fischer",
+      "MJ Newman"
+    ]
+  }
+}

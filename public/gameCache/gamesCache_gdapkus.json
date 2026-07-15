@@ -1,6 +1,2171 @@
 {
-  "timestamp": "2026-01-12T17:41:10.375Z",
+  "timestamp": "2026-07-15T16:48:54.734Z",
   "games": [
+    {
+      "id": "429650",
+      "name": "The Treasure Ship of Zheng He",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-07-14 13:53:25",
+      "lastmodified": "2026-07-14 13:59:50",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 2,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/YV7W6laLbtpO-jcj59rGfA__small/img/QA1O0HnIgjRtsty3u5rz3p7ZvpM=/fit-in/200x150/filters:strip_icc()/pic9482626.jpg",
+      "link": "https://boardgamegeek.com/thing/429650",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "120",
+      "averageRating": "7.55739",
+      "averageWeight": "3.25",
+      "boardGameRank": "10197",
+      "mechanics": [
+        "Point to Point Movement",
+        "Set Collection",
+        "Tech Trees / Tech Tracks"
+      ],
+      "categories": [
+        "Medieval",
+        "Nautical"
+      ],
+      "designers": [
+        "Hisashi Hayashi"
+      ]
+    },
+    {
+      "id": "456440",
+      "name": "Cozy Stickerville",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-07-13 15:57:08",
+      "lastmodified": "2026-07-13 15:57:08",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__small/img/SRpAFFgh4mpyvCqzq8kc3B6_7F4=/fit-in/200x150/filters:strip_icc()/pic9171780.png",
+      "link": "https://boardgamegeek.com/thing/456440",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "8.26334",
+      "averageWeight": "1.2222",
+      "boardGameRank": "751",
+      "mechanics": [
+        "Cooperative Game",
+        "Legacy Game",
+        "Narrative Choice / Paragraph",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Adventure",
+        "City Building",
+        "Exploration"
+      ],
+      "designers": [
+        "Corey Konieczka"
+      ]
+    },
+    {
+      "id": "469091",
+      "name": "Compile: Aux 3",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-07-13 15:56:49",
+      "lastmodified": "2026-07-13 15:56:49",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/OyhdRojX-nZLuvPYtms8lg__small/img/itAwfJBimLZ9BY_hxHteI9F_j4g=/fit-in/200x150/filters:strip_icc()/pic9542239.png",
+      "link": "https://boardgamegeek.com/thing/469091",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "10",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Card Play Conflict Resolution",
+        "Deck Construction",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Open Drafting"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "417813",
+      "name": "Compile: Aux  1",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2026-07-13 15:56:45",
+      "lastmodified": "2026-07-13 15:56:45",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ekBoM02DkakfGoG56EeqrQ__small/img/Cgs25L7KliWzOc0IE8AaXWDSgBY=/fit-in/200x150/filters:strip_icc()/pic9001673.png",
+      "link": "https://boardgamegeek.com/thing/417813",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "8.15093",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "406652",
+      "name": "Compile: Main 1",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2026-07-13 15:56:42",
+      "lastmodified": "2026-07-13 15:56:42",
+      "myrating": null,
+      "numplays": "9",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/KMSUmBs9elKj4qBMxGVFgw__small/img/3WDRoqcgMnl-Xd-KBnXkZdpVdPc=/fit-in/200x150/filters:strip_icc()/pic8778267.png",
+      "link": "https://boardgamegeek.com/thing/406652",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "7.91458",
+      "averageWeight": "2.3095",
+      "boardGameRank": "943",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Card Play Conflict Resolution",
+        "Deck Construction",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Race"
+      ],
+      "categories": [
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "469090",
+      "name": "Compile: Main 3",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-07-13 15:56:32",
+      "lastmodified": "2026-07-13 15:56:32",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/0XkTEC61RNb9887VOY9JVg__small/img/U8deO5QgW6vgTy9IVU5PMJlJSbY=/fit-in/200x150/filters:strip_icc()/pic9554555.png",
+      "link": "https://boardgamegeek.com/thing/469090",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "40",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "40",
+      "averageRating": "9.33333",
+      "averageWeight": "2.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Card Play Conflict Resolution",
+        "Deck Construction",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "443195",
+      "name": "Haunted Mouse",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2025-11-10 15:27:20",
+      "lastmodified": "2026-07-13 15:56:18",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/zKo7W2nX8Rr3FjD2cpf6Og__small/img/Stykm3KJKjOObsIk87r7aKD7keo=/fit-in/200x150/filters:strip_icc()/pic9187950.png",
+      "link": "https://boardgamegeek.com/thing/443195",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "45",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "45",
+      "averageRating": "7.26786",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Ladder Climbing"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "Horror"
+      ],
+      "designers": [
+        "Jonathan Cox"
+      ]
+    },
+    {
+      "id": "466042",
+      "name": "Mage Knight: Emergence – The Portal to Power",
+      "yearPublished": "2027",
+      "type": "boardgame",
+      "postdate": "2026-03-09 15:27:37",
+      "lastmodified": "2026-07-13 15:55:55",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/PVJs82fcDaBjgYBy6wDZ8w__small/img/2XLPzFoDupDtv0VCIY0QayJvYIM=/fit-in/200x150/filters:strip_icc()/pic9445794.jpg",
+      "link": "https://boardgamegeek.com/thing/466042",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "1",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.42857",
+      "averageWeight": "4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Open Drafting",
+        "Scenario / Mission / Campaign Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "designers": [
+        "Phil Pettifer",
+        "Vlaada Chvátil"
+      ]
+    },
+    {
+      "id": "408180",
+      "name": "Shackleton Base: A Journey to the Moon",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-04-21 15:31:59",
+      "lastmodified": "2026-07-13 15:55:33",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__small/img/DAbZgOJbckBSg9Qq8rpdEhzpq_I=/fit-in/200x150/filters:strip_icc()/pic7897060.jpg",
+      "link": "https://boardgamegeek.com/thing/408180",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.00943",
+      "averageWeight": "3.8805",
+      "boardGameRank": "718",
+      "mechanics": [
+        "Variable Set-up",
+        "Worker Placement, Different Worker Types"
+      ],
+      "categories": [
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Fabio Lopiano",
+        "Nestore Mangone"
+      ]
+    },
+    {
+      "id": "473508",
+      "name": "Wingspan Pocket",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-07-10 23:59:03",
+      "lastmodified": "2026-07-10 23:59:03",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 1,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/AfkejqlRG__xwd8qPDVh0A__small/img/u9cfjZf0tj6bEGXUrvint0Bh_iU=/fit-in/200x150/filters:strip_icc()/pic9667472.jpg",
+      "link": "https://boardgamegeek.com/thing/473508",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "35",
+      "minPlayingTime": "25",
+      "maxPlayingTime": "35",
+      "averageRating": "7.14615",
+      "averageWeight": "2",
+      "boardGameRank": "16512",
+      "mechanics": [
+        "Hand Management",
+        "Open Drafting"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game"
+      ],
+      "designers": [
+        "Elizabeth Hargrave"
+      ]
+    },
+    {
+      "id": "368463",
+      "name": "Rebuilding Seattle",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2024-11-06 12:53:15",
+      "lastmodified": "2026-06-20 21:05:54",
+      "myrating": null,
+      "numplays": "1",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/65sJJUkGsGI17lt0Jv1wxg__small/img/F_I2ofdtl5TRr5UZxruUeRb_frM=/fit-in/200x150/filters:strip_icc()/pic7089020.jpg",
+      "link": "https://boardgamegeek.com/thing/368463",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.50532",
+      "averageWeight": "2.3333",
+      "boardGameRank": "4039",
+      "mechanics": [
+        "Grid Coverage",
+        "Income",
+        "Square Grid",
+        "Tile Placement"
+      ],
+      "categories": [
+        "City Building"
+      ],
+      "designers": [
+        "Quinn Brander"
+      ]
+    },
+    {
+      "id": "400498",
+      "name": "Light Speed: Arena",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-02-19 15:01:28",
+      "lastmodified": "2026-06-20 21:05:45",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__small/img/1HP4zxm2d5kTCEZw5oe08ex6Ylc=/fit-in/200x150/filters:strip_icc()/pic8866023.png",
+      "link": "https://boardgamegeek.com/thing/400498",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "15",
+      "minPlayingTime": "5",
+      "maxPlayingTime": "15",
+      "averageRating": "7.52557",
+      "averageWeight": "1.1207",
+      "boardGameRank": "1994",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Elapsed Real Time Ending",
+        "End Game Bonuses",
+        "Line of Sight",
+        "Real-Time",
+        "Tile Placement",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Action / Dexterity",
+        "Fighting",
+        "Party Game",
+        "Real-time",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Leonardo Alese",
+        "James Ernest",
+        "Tom Jolly",
+        "Emanuele Santellani"
+      ]
+    },
+    {
+      "id": "468575",
+      "name": "Gruntz: Supplies",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-20 21:04:37",
+      "lastmodified": "2026-06-20 21:04:38",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/NtOuc50KjSUlDThz0Fl1LA__small/img/ebqfyUDG3AKCoHF3TYADc4UWAg8=/fit-in/200x150/filters:strip_icc()/pic9528944.png",
+      "link": "https://boardgamegeek.com/thing/468575",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "7.3",
+      "averageWeight": "1",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Grid Movement",
+        "King of the Hill",
+        "Tug of War"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Abstract Strategy",
+        "Wargame"
+      ],
+      "designers": [
+        "Carter Scott"
+      ]
+    },
+    {
+      "id": "468181",
+      "name": "More Containers",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-20 21:04:17",
+      "lastmodified": "2026-06-20 21:04:17",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/90mBTr7byh16dKQIAGYUvA__small/img/dQZ6BwbjORmvaSsLUwjbZl4H_KI=/fit-in/200x150/filters:strip_icc()/pic9506830.jpg",
+      "link": "https://boardgamegeek.com/thing/468181",
+      "minPlayers": "3",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.12172",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Auction / Bidding",
+        "Closed Economy Auction",
+        "Commodity Speculation",
+        "Loans",
+        "Pick-up and Deliver",
+        "Set Collection"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Economic",
+        "Industry / Manufacturing",
+        "Transportation"
+      ],
+      "designers": [
+        "Kevin Nesbitt"
+      ]
+    },
+    {
+      "id": "453704",
+      "name": "Triangulation",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-06-15 10:19:44",
+      "lastmodified": "2026-06-20 21:04:04",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/SKegtiurcEH9Myx5s0vgrg__small/img/INaAnUYTQktdUfn_1cfaQu-EH0Q=/fit-in/200x150/filters:strip_icc()/pic9085209.jpg",
+      "link": "https://boardgamegeek.com/thing/453704",
+      "minPlayers": "3",
+      "maxPlayers": "8",
+      "bestAtCount": "6",
+      "playingTime": "20",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "20",
+      "averageRating": "7.04192",
+      "averageWeight": "1",
+      "boardGameRank": "11883",
+      "mechanics": [
+        "Communication Limits",
+        "Targeted Clues",
+        "Team-Based Game"
+      ],
+      "categories": [
+        "Deduction",
+        "Party Game",
+        "Word Game"
+      ],
+      "designers": [
+        "Peter C. Hayward"
+      ]
+    },
+    {
+      "id": "439561",
+      "name": "Gruntz",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-06-15 10:19:27",
+      "lastmodified": "2026-06-20 21:03:56",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/5UHlN7xHbtLyBflLo22l_A__small/img/poaq7lqWVrQKd9r7l9sMpoFSqxA=/fit-in/200x150/filters:strip_icc()/pic9085224.jpg",
+      "link": "https://boardgamegeek.com/thing/439561",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "10",
+      "maxPlayingTime": "30",
+      "averageRating": "7.44386",
+      "averageWeight": "1.8571",
+      "boardGameRank": "9728",
+      "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Grid Movement",
+        "King of the Hill",
+        "Tug of War"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Wargame"
+      ],
+      "designers": [
+        "Carter Scott"
+      ]
+    },
+    {
+      "id": "453740",
+      "name": "Container",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-06-15 10:19:07",
+      "lastmodified": "2026-06-20 21:03:47",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/AXJ3ur6OZecgmPSACVm2Lw__small/img/c0Y6cYn2rNN4oxcd3InUsOCxd3k=/fit-in/200x150/filters:strip_icc()/pic9085223.jpg",
+      "link": "https://boardgamegeek.com/thing/453740",
+      "minPlayers": "3",
+      "maxPlayers": "5",
+      "bestAtCount": "5",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.97754",
+      "averageWeight": "2.9189",
+      "boardGameRank": "2791",
+      "mechanics": [
+        "Auction / Bidding",
+        "Closed Economy Auction",
+        "Commodity Speculation",
+        "Loans",
+        "Pick-up and Deliver",
+        "Set Collection"
+      ],
+      "categories": [
+        "Economic",
+        "Industry / Manufacturing",
+        "Transportation"
+      ],
+      "designers": [
+        "Franz-Benno Delonge",
+        "Thomas Ewert",
+        "Kevin Nesbitt"
+      ]
+    },
+    {
+      "id": "444887",
+      "name": "Tea Garden: Puerh",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-15 16:56:12",
+      "lastmodified": "2026-06-20 21:03:33",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/V3C7t6mtfeAG0GreHgcHWg__small/img/SSxQ4hsAOJdVqhxuLBgShH426Iw=/fit-in/200x150/filters:strip_icc()/pic8887480.jpg",
+      "link": "https://boardgamegeek.com/thing/444887",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "120",
+      "averageRating": "7.80833",
+      "averageWeight": "2.3333",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Deck, Bag, and Pool Building",
+        "End Game Bonuses",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Ancient",
+        "Economic",
+        "Farming"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "415314",
+      "name": "Barcelona: Passeig de Gràcia",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-15 16:56:48",
+      "lastmodified": "2026-06-20 21:03:26",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/6D3xJEyZ2llIFFF3ur7pwQ__small/img/d4F5MXqT7JtLH_uH_ZzJM4BVK1g=/fit-in/200x150/filters:strip_icc()/pic8051209.jpg",
+      "link": "https://boardgamegeek.com/thing/415314",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.96529",
+      "averageWeight": "3.3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Different Dice Movement",
+        "End Game Bonuses",
+        "Tile Placement",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "City Building"
+      ],
+      "designers": [
+        "Dani Garcia"
+      ]
+    },
+    {
+      "id": "432324",
+      "name": "The Rail on the Hill",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2026-05-15 18:26:03",
+      "lastmodified": "2026-05-28 10:41:32",
+      "myrating": null,
+      "numplays": "1",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/gwm1E0iIlkCnvMrok_l1hA__small/img/gOO3TEM6C0M83mv4bjhTI__zRSI=/fit-in/200x150/filters:strip_icc()/pic8521007.png",
+      "link": "https://boardgamegeek.com/thing/432324",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "7.03625",
+      "averageWeight": "2",
+      "boardGameRank": "17646",
+      "mechanics": [
+        "Action Drafting",
+        "Network and Route Building",
+        "Open Drafting",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "City Building",
+        "Trains"
+      ],
+      "designers": [
+        "Hisashi Hayashi"
+      ]
+    },
+    {
+      "id": "402669",
+      "name": "Sand",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-10-25 17:26:42",
+      "lastmodified": "2026-05-11 20:43:40",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/jAbc4LK0aCkV-JDLuZAmog__small/img/G_o7960_pMQaHjMFVVntK0m2NyQ=/fit-in/200x150/filters:strip_icc()/pic7774173.jpg",
+      "link": "https://boardgamegeek.com/thing/402669",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "120",
+      "minPlayingTime": "120",
+      "maxPlayingTime": "120",
+      "averageRating": "6.72034",
+      "averageWeight": "3.2969",
+      "boardGameRank": "4495",
+      "mechanics": [
+        "Action Points",
+        "Contracts",
+        "Dice Rolling",
+        "Different Dice Movement",
+        "Pick-up and Deliver",
+        "Point to Point Movement",
+        "Resource to Move",
+        "Set Collection",
+        "Tech Trees / Tech Tracks"
+      ],
+      "categories": [
+        "Transportation"
+      ],
+      "designers": [
+        "Ariel Di Costanzo",
+        "Javier Pelizzari"
+      ]
+    },
+    {
+      "id": "331059",
+      "name": "Last Message",
+      "yearPublished": "2021",
+      "type": "boardgame",
+      "postdate": "2026-01-16 13:42:13",
+      "lastmodified": "2026-05-11 20:41:41",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/3vhihjIpe7vkNk3nUZOw4Q__small/img/G8hEL-twGVBRgcgj9qyx3ZlYsyg=/fit-in/200x150/filters:strip_icc()/pic6080638.jpg",
+      "link": "https://boardgamegeek.com/thing/331059",
+      "minPlayers": "3",
+      "maxPlayers": "8",
+      "bestAtCount": "4",
+      "playingTime": "15",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "15",
+      "averageRating": "6.63138",
+      "averageWeight": "1.0714",
+      "boardGameRank": "4001",
+      "mechanics": [
+        "Deduction",
+        "Line Drawing"
+      ],
+      "categories": [
+        "Murder / Mystery",
+        "Party Game"
+      ],
+      "designers": [
+        "Lee Ju-Hwa",
+        "Giung Kim"
+      ]
+    },
+    {
+      "id": "332853",
+      "name": "Dom Pierre",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2024-10-26 22:59:11",
+      "lastmodified": "2026-05-11 20:34:50",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/d3vU53R_f2vmDvVQYRtZbA__small/img/SB3uQEfk-g6xglf6qG_4IKWr2I4=/fit-in/200x150/filters:strip_icc()/pic6850641.jpg",
+      "link": "https://boardgamegeek.com/thing/332853",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "6.85167",
+      "averageWeight": "3.7917",
+      "boardGameRank": "7182",
+      "mechanics": [
+        "Action Points",
+        "Contracts",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Economic",
+        "Farming"
+      ],
+      "designers": [
+        "Costa",
+        "Rôla"
+      ]
+    },
+    {
+      "id": "430916",
+      "name": "Unstoppable: Tyrant's End",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-04-14 15:04:00",
+      "lastmodified": "2026-04-19 23:01:41",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/hVAtcHT10I_I4JRGCq-uGQ__small/img/s2AHFMsDh2E5xCA-7_mlTYTdN2A=/fit-in/200x150/filters:strip_icc()/pic8484593.jpg",
+      "link": "https://boardgamegeek.com/thing/430916",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "N/A",
+      "playingTime": "90",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "90",
+      "averageRating": "8.40507",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Cooperative Game",
+        "Deck Construction",
+        "Deck, Bag, and Pool Building",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "designers": [
+        "John D. Clair"
+      ]
+    },
+    {
+      "id": "420498",
+      "name": "Unstoppable",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-04-14 12:04:39",
+      "lastmodified": "2026-04-19 23:01:35",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/JlY4u_H5nr8bs05XQWVoGw__small/img/YTiVBeiGJeE34GxyAwMoOMwAjqE=/fit-in/200x150/filters:strip_icc()/pic8185930.png",
+      "link": "https://boardgamegeek.com/thing/420498",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "90",
+      "averageRating": "8.35251",
+      "averageWeight": "2.9857",
+      "boardGameRank": "836",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "designers": [
+        "John D. Clair"
+      ]
+    },
+    {
+      "id": "446610",
+      "name": "Flash Point: Golden State Heroes",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2025-06-19 18:07:21",
+      "lastmodified": "2026-04-19 23:01:20",
+      "myrating": null,
+      "numplays": "2",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/vhrHG74NDEaPgR8YuxHJzw__small/img/BQ4g8Ce_gOkVi0_U5Z7oiW9eI2M=/fit-in/200x150/filters:strip_icc()/pic8888273.jpg",
+      "link": "https://boardgamegeek.com/thing/446610",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "N/A",
+      "playingTime": "45",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "45",
+      "averageRating": "4.33333",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Events",
+        "Grid Movement",
+        "Pick-up and Deliver",
+        "Scenario / Mission / Campaign Game",
+        "Simulation",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Dice",
+        "Environmental"
+      ],
+      "designers": [
+        "Ken Franklin",
+        "Chris Leder",
+        "Kevin Rodgers"
+      ]
+    },
+    {
+      "id": "446699",
+      "name": "ANTS",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-10-25 14:20:14",
+      "lastmodified": "2026-04-19 23:00:55",
+      "myrating": null,
+      "numplays": "1",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ow6IajVpCb0MEOEk_Aog8g__small/img/zgF6m8DTPJMypDk-Ha0xV7zMtRw=/fit-in/200x150/filters:strip_icc()/pic8888017.jpg",
+      "link": "https://boardgamegeek.com/thing/446699",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "90",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "90",
+      "averageRating": "7.91118",
+      "averageWeight": "3.8611",
+      "boardGameRank": "5363",
+      "mechanics": [
+        "End Game Bonuses",
+        "Hand Management",
+        "Hexagon Grid",
+        "Income",
+        "Open Drafting",
+        "Roles with Asymmetric Information",
+        "Variable Set-up",
+        "Worker Placement, Different Worker Types"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Animals",
+        "Civilization",
+        "Exploration"
+      ],
+      "designers": [
+        "Renato Ciervo",
+        "Andrea Robbiani"
+      ]
+    },
+    {
+      "id": "393307",
+      "name": "Tower Up",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-05-22 23:59:31",
+      "lastmodified": "2026-04-19 16:45:05",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/3GBPmFILs8upxBhdQIvwTA__small/img/1jM40AdYqOdA76UK6nghT_19emk=/fit-in/200x150/filters:strip_icc()/pic8143457.jpg",
+      "link": "https://boardgamegeek.com/thing/393307",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3, 4",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.34275",
+      "averageWeight": "1.8676",
+      "boardGameRank": "1656",
+      "mechanics": [
+        "End Game Bonuses",
+        "Kill Steal",
+        "King of the Hill",
+        "Open Drafting",
+        "Race",
+        "Track Movement",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "City Building"
+      ],
+      "designers": [
+        "Frank Crittin",
+        "Grégoire Largey",
+        "Sébastien Pauchon"
+      ]
+    },
+    {
+      "id": "459928",
+      "name": "Dungeon Crawler Carl: Unstoppable",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-04-14 12:04:23",
+      "lastmodified": "2026-04-14 15:03:24",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/MwwGAhHyHbuEWVg0z-aHGQ__small/img/j-7vhBfJTFyiXwKQvduoCvZbhAc=/fit-in/200x150/filters:strip_icc()/pic9504120.png",
+      "link": "https://boardgamegeek.com/thing/459928",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "1",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "7.92308",
+      "averageWeight": "2.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Novel-based"
+      ],
+      "designers": [
+        "John D. Clair"
+      ]
+    },
+    {
+      "id": "438442",
+      "name": "Feya's Swamp",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-10-25 14:40:36",
+      "lastmodified": "2026-03-18 12:16:16",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/lxzo9PekKd4TRyBUlLH7Yw__small/img/1cEL93SEH6KEoO7CAlde9Sqi12s=/fit-in/200x150/filters:strip_icc()/pic8703614.png",
+      "link": "https://boardgamegeek.com/thing/438442",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "100",
+      "minPlayingTime": "80",
+      "maxPlayingTime": "100",
+      "averageRating": "7.71113",
+      "averageWeight": "3.0769",
+      "boardGameRank": "7217",
+      "mechanics": [
+        "Area Movement",
+        "End Game Bonuses",
+        "Hexagon Grid",
+        "Income",
+        "Roles with Asymmetric Information",
+        "Tile Placement",
+        "Variable Player Powers",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Civilization",
+        "Economic",
+        "Fantasy",
+        "Territory Building"
+      ],
+      "designers": [
+        "Helge Ostertag",
+        "Anselm Ostertag"
+      ]
+    },
+    {
+      "id": "216717",
+      "name": "Valeria: Card Kingdoms – Expansion Pack #04: Peasants & Knights",
+      "yearPublished": "2018",
+      "type": "boardgameexpansion",
+      "postdate": "2026-02-19 14:03:25",
+      "lastmodified": "2026-02-19 14:03:25",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/3u0oMfJkIhi1L5aijmBeRw__thumb/img/3wpqyWqiCwI8B_ByeTuiE6ecVOs=/fit-in/200x150/filters:strip_icc()/pic3326637.jpg",
+      "link": "https://boardgamegeek.com/thing/216717",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.58539",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling"
+      ],
+      "categories": [
+        "Card Game",
+        "Dice",
+        "Fantasy",
+        "Medieval",
+        "Territory Building"
+      ],
+      "designers": [
+        "Isaias Vallejo"
+      ]
+    },
+    {
+      "id": "245335",
+      "name": "Valeria: Card Kingdoms – Expansion Pack #06: Relics",
+      "yearPublished": "2018",
+      "type": "boardgameexpansion",
+      "postdate": "2026-02-19 14:03:19",
+      "lastmodified": "2026-02-19 14:03:19",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/NaZQ13SqmhCl1qets1K7WA__thumb/img/v_skysR84M7TSdQ2rhN-_xtKRAs=/fit-in/200x150/filters:strip_icc()/pic3961283.jpg",
+      "link": "https://boardgamegeek.com/thing/245335",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.48576",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Open Drafting",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy"
+      ],
+      "designers": [
+        "Isaias Vallejo"
+      ]
+    },
+    {
+      "id": "211589",
+      "name": "Valeria: Card Kingdoms – Expansion Pack #03: Agents",
+      "yearPublished": "2017",
+      "type": "boardgameexpansion",
+      "postdate": "2026-02-19 14:03:14",
+      "lastmodified": "2026-02-19 14:03:14",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/DITLePO8A8blTjUvfoOSSQ__thumb/img/ovQ1J8Umta25NsxNOuNgOJgmoTY=/fit-in/200x150/filters:strip_icc()/pic3313670.jpg",
+      "link": "https://boardgamegeek.com/thing/211589",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.61838",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Dice Rolling",
+        "Open Drafting"
+      ],
+      "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Medieval"
+      ],
+      "designers": [
+        "Isaias Vallejo"
+      ]
+    },
+    {
+      "id": "3097",
+      "name": "1849: The Game of Sicilian Railways",
+      "yearPublished": "1998",
+      "type": "boardgame",
+      "postdate": "2026-02-19 13:47:37",
+      "lastmodified": "2026-02-19 13:47:38",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/x_QbmcYgiDWe-UvJDbDFjQ__thumb/img/pnPJMCcSrsNPU5pOJgaK18PgDDw=/fit-in/200x150/filters:strip_icc()/pic5142773.jpg",
+      "link": "https://boardgamegeek.com/thing/3097",
+      "minPlayers": "3",
+      "maxPlayers": "5",
+      "bestAtCount": "3, 4",
+      "playingTime": "180",
+      "minPlayingTime": "180",
+      "maxPlayingTime": "180",
+      "averageRating": "8.11889",
+      "averageWeight": "4.15",
+      "boardGameRank": "1699",
+      "mechanics": [
+        "Auction / Bidding",
+        "Investment",
+        "Network and Route Building",
+        "Stock Holding",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Economic",
+        "Post-Napoleonic",
+        "Trains",
+        "Transportation"
+      ],
+      "designers": [
+        "Chris Lawson",
+        "Federico Vellani"
+      ]
+    },
+    {
+      "id": "3097",
+      "name": "1849: The Game of Sicilian Railways",
+      "yearPublished": "1998",
+      "type": "boardgame",
+      "postdate": "2013-06-25 13:56:39",
+      "lastmodified": "2026-02-19 13:47:06",
+      "myrating": 8,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/x_QbmcYgiDWe-UvJDbDFjQ__thumb/img/pnPJMCcSrsNPU5pOJgaK18PgDDw=/fit-in/200x150/filters:strip_icc()/pic5142773.jpg",
+      "link": "https://boardgamegeek.com/thing/3097",
+      "minPlayers": "3",
+      "maxPlayers": "5",
+      "bestAtCount": "3, 4",
+      "playingTime": "180",
+      "minPlayingTime": "180",
+      "maxPlayingTime": "180",
+      "averageRating": "8.11889",
+      "averageWeight": "4.15",
+      "boardGameRank": "1699",
+      "mechanics": [
+        "Auction / Bidding",
+        "Investment",
+        "Network and Route Building",
+        "Stock Holding",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Economic",
+        "Post-Napoleonic",
+        "Trains",
+        "Transportation"
+      ],
+      "designers": [
+        "Chris Lawson",
+        "Federico Vellani"
+      ]
+    },
+    {
+      "id": "334353",
+      "name": "1849: Kingdom of the Two Sicilies",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-02-19 11:06:52",
+      "lastmodified": "2026-02-19 13:45:40",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/sCqHfIjyv0L4XRBAJZjSBw__small/img/uZe16D3_ABow9qW2nbuwg52HXIc=/fit-in/200x150/filters:strip_icc()/pic6147157.png",
+      "link": "https://boardgamegeek.com/thing/334353",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "5, 6",
+      "playingTime": "240",
+      "minPlayingTime": "180",
+      "maxPlayingTime": "240",
+      "averageRating": "6.203",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Auction / Bidding",
+        "Investment",
+        "Network and Route Building",
+        "Stock Holding",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Economic",
+        "Trains",
+        "Transportation"
+      ],
+      "designers": [
+        "Scott Petersen"
+      ]
+    },
+    {
+      "id": "316412",
+      "name": "The LOOP",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2026-02-01 14:02:24",
+      "lastmodified": "2026-02-01 14:02:24",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 4,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/NPWdxDD5uLOBLBDdVgdLvA__thumb/img/7464PJPFWWPzsOUMvf8t860zct0=/fit-in/200x150/filters:strip_icc()/pic6034093.png",
+      "link": "https://boardgamegeek.com/thing/316412",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "60",
+      "averageRating": "7.73366",
+      "averageWeight": "2.8027",
+      "boardGameRank": "504",
+      "mechanics": [
+        "Cooperative Game",
+        "Cube Tower",
+        "Deck, Bag, and Pool Building",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Maxime Rambourg",
+        "Théo Rivière"
+      ]
+    },
+    {
+      "id": "442632",
+      "name": "Endeavor: Deep Sea – Deluxe Upgrade Pack",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-14 16:12:54",
+      "lastmodified": "2026-01-14 16:12:54",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/pKEQnTMeZO_UxMA-XFWzIg__small/img/euCTOYsvZ9GQg9HVDFNk4IAvW3k=/fit-in/200x150/filters:strip_icc()/pic9309371.jpg",
+      "link": "https://boardgamegeek.com/thing/442632",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.43833",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Carl de Visser",
+        "Jarratt Gray"
+      ]
+    },
+    {
+      "id": "440921",
+      "name": "Compile: Aux 2",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-13 00:57:28",
+      "lastmodified": "2026-01-13 00:57:28",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/aQb9QF1U1kzZ1dIqRfnvyQ__small/img/8i9gILz4d0CxA_okbmWZZ3B3hwc=/fit-in/200x150/filters:strip_icc()/pic9001669.png",
+      "link": "https://boardgamegeek.com/thing/440921",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "N/A",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "8.70571",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "383607",
+      "name": "Barcelona",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2024-09-22 17:16:09",
+      "lastmodified": "2026-01-13 00:57:06",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/clBx1kfB-8OpO86B2-vsgg__small/img/8w625ctGlolYNodQdbXJtyOC3wg=/fit-in/200x150/filters:strip_icc()/pic7442376.jpg",
+      "link": "https://boardgamegeek.com/thing/383607",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "7.73461",
+      "averageWeight": "3.3644",
+      "boardGameRank": "590",
+      "mechanics": [
+        "End Game Bonuses",
+        "Tile Placement",
+        "Worker Placement"
+      ],
+      "categories": [
+        "City Building"
+      ],
+      "designers": [
+        "Dani Garcia"
+      ]
+    },
+    {
+      "id": "448159",
+      "name": "Railway Boom",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2025-11-06 17:36:24",
+      "lastmodified": "2026-01-12 19:32:08",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/HLf1dKFTM4y7EwdQubbazQ__small/img/yFsR_l7zagtOjSmxVKqZlegRpo8=/fit-in/200x150/filters:strip_icc()/pic8951049.png",
+      "link": "https://boardgamegeek.com/thing/448159",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.86519",
+      "averageWeight": "3.2222",
+      "boardGameRank": "4165",
+      "mechanics": [
+        "Auction / Bidding",
+        "End Game Bonuses",
+        "Income",
+        "Network and Route Building",
+        "Turn Order: Auction"
+      ],
+      "categories": [
+        "Economic",
+        "Industry / Manufacturing",
+        "Trains"
+      ],
+      "designers": [
+        "Hisashi Hayashi",
+        "Simone Luciani"
+      ]
+    },
+    {
+      "id": "416403",
+      "name": "Mage Knight: The Apocalypse Dragon",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2025-11-12 18:30:36",
+      "lastmodified": "2026-01-12 19:27:19",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 1,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/9QH1XqNNUH3UIoMFhPATyA__small/img/Sit_nCyTNX0HPTnHYoswlG_yoHY=/fit-in/200x150/filters:strip_icc()/pic8078636.jpg",
+      "link": "https://boardgamegeek.com/thing/416403",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "150",
+      "minPlayingTime": "150",
+      "maxPlayingTime": "150",
+      "averageRating": "9.625",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Scenario / Mission / Campaign Game"
+      ],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Phil Pettifer"
+      ]
+    },
+    {
+      "id": "198740",
+      "name": "Lovecraft Letter",
+      "yearPublished": "2017",
+      "type": "boardgame",
+      "postdate": "2025-11-05 20:32:30",
+      "lastmodified": "2026-01-12 19:26:44",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/iRDSJ4wnIjbcZnYYmxrS7w__small/img/a3lM0zDNSGhWG-Q_7h5sMk24xCU=/fit-in/200x150/filters:strip_icc()/pic3485528.png",
+      "link": "https://boardgamegeek.com/thing/198740",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "4, 5",
+      "playingTime": "15",
+      "minPlayingTime": "5",
+      "maxPlayingTime": "15",
+      "averageRating": "7.22394",
+      "averageWeight": "1.4455",
+      "boardGameRank": "923",
+      "mechanics": [
+        "Deduction",
+        "Hand Management",
+        "Player Elimination",
+        "Score-and-Reset Game",
+        "Take That"
+      ],
+      "categories": [
+        "Card Game",
+        "Deduction",
+        "Fantasy",
+        "Horror"
+      ],
+      "designers": [
+        "Seiji Kanai"
+      ]
+    },
+    {
+      "id": "404431",
+      "name": "Men-Nefer",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-10-22 17:01:14",
+      "lastmodified": "2026-01-12 19:26:20",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__small/img/jlC58ndBNtI6kTO61AwdUhBMgHQ=/fit-in/200x150/filters:strip_icc()/pic7984201.jpg",
+      "link": "https://boardgamegeek.com/thing/404431",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.17898",
+      "averageWeight": "3.6768",
+      "boardGameRank": "726",
+      "mechanics": [
+        "Income",
+        "Open Drafting",
+        "Set Collection",
+        "Track Movement",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Ancient",
+        "Civilization",
+        "Industry / Manufacturing"
+      ],
+      "designers": [
+        "Germán P. Millán"
+      ]
+    },
+    {
+      "id": "370789",
+      "name": "Nova Roma",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2024-10-06 16:37:04",
+      "lastmodified": "2026-01-12 19:26:16",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/zEv4IVUrCK9CpNrO54b7Kg__small/img/ydCmEIpZy9t4p6lrnOnUYqHrX80=/fit-in/200x150/filters:strip_icc()/pic7071623.jpg",
+      "link": "https://boardgamegeek.com/thing/370789",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "7.67308",
+      "averageWeight": "3.25",
+      "boardGameRank": "2044",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Contracts",
+        "End Game Bonuses",
+        "Pattern Building",
+        "Variable Set-up",
+        "Worker Placement, Different Worker Types"
+      ],
+      "categories": [
+        "Ancient",
+        "City Building",
+        "Economic",
+        "Racing"
+      ],
+      "designers": [
+        "Stan Kordonskiy"
+      ]
+    },
+    {
+      "id": "359438",
+      "name": "Skymines",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2024-09-23 15:28:13",
+      "lastmodified": "2026-01-12 19:26:10",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/loa-OQHFaTlKV2eU_WKVFw__small/img/Jsvw38z4mMfKZzKCDjiQRe7mJ9k=/fit-in/200x150/filters:strip_icc()/pic6800089.jpg",
+      "link": "https://boardgamegeek.com/thing/359438",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "150",
+      "minPlayingTime": "75",
+      "maxPlayingTime": "150",
+      "averageRating": "7.94812",
+      "averageWeight": "3.9032",
+      "boardGameRank": "566",
+      "mechanics": [
+        "Action Queue",
+        "Area Majority / Influence",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Investment",
+        "Open Drafting",
+        "Resource to Move",
+        "Roles with Asymmetric Information",
+        "Scenario / Mission / Campaign Game",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game",
+        "Stock Holding",
+        "Turn Order: Claim Action",
+        "Variable Player Powers",
+        "Victory Points as a Resource",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Economic",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Viktor Kobilke",
+        "Alexander Pfister"
+      ]
+    },
     {
       "id": "274228",
       "name": "Valeria: Card Kingdoms – Crimson Seas",
@@ -525,58 +2690,6 @@
       "designers": [
         "Tommaso Battista",
         "Simone Luciani"
-      ]
-    },
-    {
-      "id": "446699",
-      "name": "ANTS",
-      "yearPublished": "2025",
-      "type": "boardgame",
-      "postdate": "2025-10-25 14:20:14",
-      "lastmodified": "2026-01-08 19:49:27",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": true,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/ow6IajVpCb0MEOEk_Aog8g__small/img/zgF6m8DTPJMypDk-Ha0xV7zMtRw=/fit-in/200x150/filters:strip_icc()/pic8888017.jpg",
-      "link": "https://boardgamegeek.com/thing/446699",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "90",
-      "minPlayingTime": "90",
-      "maxPlayingTime": "90",
-      "averageRating": "7.91118",
-      "averageWeight": "3.8611",
-      "boardGameRank": "5363",
-      "mechanics": [
-        "End Game Bonuses",
-        "Hand Management",
-        "Hexagon Grid",
-        "Income",
-        "Open Drafting",
-        "Roles with Asymmetric Information",
-        "Variable Set-up",
-        "Worker Placement, Different Worker Types"
-      ],
-      "categories": [
-        "Abstract Strategy",
-        "Animals",
-        "Civilization",
-        "Exploration"
-      ],
-      "designers": [
-        "Renato Ciervo",
-        "Andrea Robbiani"
       ]
     },
     {
@@ -1677,108 +3790,6 @@
       ]
     },
     {
-      "id": "402669",
-      "name": "Sand",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2025-10-25 17:26:42",
-      "lastmodified": "2025-11-18 18:27:35",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/jAbc4LK0aCkV-JDLuZAmog__small/img/G_o7960_pMQaHjMFVVntK0m2NyQ=/fit-in/200x150/filters:strip_icc()/pic7774173.jpg",
-      "link": "https://boardgamegeek.com/thing/402669",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "2",
-      "playingTime": "120",
-      "minPlayingTime": "120",
-      "maxPlayingTime": "120",
-      "averageRating": "6.72034",
-      "averageWeight": "3.2969",
-      "boardGameRank": "4495",
-      "mechanics": [
-        "Action Points",
-        "Contracts",
-        "Dice Rolling",
-        "Different Dice Movement",
-        "Pick-up and Deliver",
-        "Point to Point Movement",
-        "Resource to Move",
-        "Set Collection",
-        "Tech Trees / Tech Tracks"
-      ],
-      "categories": [
-        "Transportation"
-      ],
-      "designers": [
-        "Ariel Di Costanzo",
-        "Javier Pelizzari"
-      ]
-    },
-    {
-      "id": "438442",
-      "name": "Feya's Swamp",
-      "yearPublished": "2025",
-      "type": "boardgame",
-      "postdate": "2025-10-25 14:40:36",
-      "lastmodified": "2025-11-15 20:43:10",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/lxzo9PekKd4TRyBUlLH7Yw__small/img/1cEL93SEH6KEoO7CAlde9Sqi12s=/fit-in/200x150/filters:strip_icc()/pic8703614.png",
-      "link": "https://boardgamegeek.com/thing/438442",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "4",
-      "playingTime": "100",
-      "minPlayingTime": "80",
-      "maxPlayingTime": "100",
-      "averageRating": "7.71113",
-      "averageWeight": "3.0769",
-      "boardGameRank": "7217",
-      "mechanics": [
-        "Area Movement",
-        "End Game Bonuses",
-        "Hexagon Grid",
-        "Income",
-        "Roles with Asymmetric Information",
-        "Tile Placement",
-        "Variable Player Powers",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Civilization",
-        "Economic",
-        "Fantasy",
-        "Territory Building"
-      ],
-      "designers": [
-        "Helge Ostertag",
-        "Anselm Ostertag"
-      ]
-    },
-    {
       "id": "423787",
       "name": "Behind",
       "yearPublished": "2024",
@@ -1820,47 +3831,6 @@
       ],
       "designers": [
         "Cédric Millet"
-      ]
-    },
-    {
-      "id": "416403",
-      "name": "Mage Knight: The Apocalypse Dragon",
-      "yearPublished": "2026",
-      "type": "boardgameexpansion",
-      "postdate": "2025-11-12 18:30:36",
-      "lastmodified": "2025-11-12 18:30:37",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/9QH1XqNNUH3UIoMFhPATyA__small/img/Sit_nCyTNX0HPTnHYoswlG_yoHY=/fit-in/200x150/filters:strip_icc()/pic8078636.jpg",
-      "link": "https://boardgamegeek.com/thing/416403",
-      "minPlayers": "1",
-      "maxPlayers": "5",
-      "bestAtCount": "N/A",
-      "playingTime": "150",
-      "minPlayingTime": "150",
-      "maxPlayingTime": "150",
-      "averageRating": "9.625",
-      "averageWeight": "0",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Scenario / Mission / Campaign Game"
-      ],
-      "categories": [
-        "Expansion for Base-game"
-      ],
-      "designers": [
-        "Phil Pettifer"
       ]
     },
     {
@@ -2676,54 +4646,6 @@
       ]
     },
     {
-      "id": "448159",
-      "name": "Railway Boom",
-      "yearPublished": "2025",
-      "type": "boardgame",
-      "postdate": "2025-11-06 17:36:24",
-      "lastmodified": "2025-11-12 14:33:38",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": true,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/HLf1dKFTM4y7EwdQubbazQ__small/img/yFsR_l7zagtOjSmxVKqZlegRpo8=/fit-in/200x150/filters:strip_icc()/pic8951049.png",
-      "link": "https://boardgamegeek.com/thing/448159",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "4",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "7.86519",
-      "averageWeight": "3.2222",
-      "boardGameRank": "4165",
-      "mechanics": [
-        "Auction / Bidding",
-        "End Game Bonuses",
-        "Income",
-        "Network and Route Building",
-        "Turn Order: Auction"
-      ],
-      "categories": [
-        "Economic",
-        "Industry / Manufacturing",
-        "Trains"
-      ],
-      "designers": [
-        "Hisashi Hayashi",
-        "Simone Luciani"
-      ]
-    },
-    {
       "id": "98297",
       "name": "Glenn Drover's Empires: Ancient Empires",
       "yearPublished": "2011",
@@ -2938,50 +4860,6 @@
       ]
     },
     {
-      "id": "443195",
-      "name": "Haunted Mouse",
-      "yearPublished": "2026",
-      "type": "boardgame",
-      "postdate": "2025-11-10 15:27:20",
-      "lastmodified": "2025-11-12 14:30:46",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/zKo7W2nX8Rr3FjD2cpf6Og__small/img/Stykm3KJKjOObsIk87r7aKD7keo=/fit-in/200x150/filters:strip_icc()/pic9187950.png",
-      "link": "https://boardgamegeek.com/thing/443195",
-      "minPlayers": "2",
-      "maxPlayers": "5",
-      "bestAtCount": "N/A",
-      "playingTime": "45",
-      "minPlayingTime": "20",
-      "maxPlayingTime": "45",
-      "averageRating": "7.26786",
-      "averageWeight": "0",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Hand Management",
-        "Ladder Climbing"
-      ],
-      "categories": [
-        "Animals",
-        "Card Game",
-        "Horror"
-      ],
-      "designers": [
-        "Jonathan Cox"
-      ]
-    },
-    {
       "id": "391752",
       "name": "Steam Power",
       "yearPublished": "2025",
@@ -3072,55 +4950,6 @@
       ],
       "designers": [
         "Christopher Badell"
-      ]
-    },
-    {
-      "id": "393307",
-      "name": "Tower Up",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2025-05-22 23:59:31",
-      "lastmodified": "2025-11-06 15:30:49",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/3GBPmFILs8upxBhdQIvwTA__small/img/1jM40AdYqOdA76UK6nghT_19emk=/fit-in/200x150/filters:strip_icc()/pic8143457.jpg",
-      "link": "https://boardgamegeek.com/thing/393307",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3, 4",
-      "playingTime": "45",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "45",
-      "averageRating": "7.34275",
-      "averageWeight": "1.8676",
-      "boardGameRank": "1656",
-      "mechanics": [
-        "End Game Bonuses",
-        "Kill Steal",
-        "King of the Hill",
-        "Open Drafting",
-        "Race",
-        "Track Movement",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "City Building"
-      ],
-      "designers": [
-        "Frank Crittin",
-        "Grégoire Largey",
-        "Sébastien Pauchon"
       ]
     },
     {
@@ -3303,54 +5132,6 @@
       ],
       "designers": [
         "Tomáš Holek"
-      ]
-    },
-    {
-      "id": "198740",
-      "name": "Lovecraft Letter",
-      "yearPublished": "2017",
-      "type": "boardgame",
-      "postdate": "2025-11-05 20:32:30",
-      "lastmodified": "2025-11-05 20:32:30",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/iRDSJ4wnIjbcZnYYmxrS7w__small/img/a3lM0zDNSGhWG-Q_7h5sMk24xCU=/fit-in/200x150/filters:strip_icc()/pic3485528.png",
-      "link": "https://boardgamegeek.com/thing/198740",
-      "minPlayers": "2",
-      "maxPlayers": "6",
-      "bestAtCount": "4, 5",
-      "playingTime": "15",
-      "minPlayingTime": "5",
-      "maxPlayingTime": "15",
-      "averageRating": "7.22394",
-      "averageWeight": "1.4455",
-      "boardGameRank": "923",
-      "mechanics": [
-        "Deduction",
-        "Hand Management",
-        "Player Elimination",
-        "Score-and-Reset Game",
-        "Take That"
-      ],
-      "categories": [
-        "Card Game",
-        "Deduction",
-        "Fantasy",
-        "Horror"
-      ],
-      "designers": [
-        "Seiji Kanai"
       ]
     },
     {
@@ -3968,61 +5749,6 @@
       ]
     },
     {
-      "id": "446610",
-      "name": "Flash Point: Golden State Heroes",
-      "yearPublished": "2026",
-      "type": "boardgame",
-      "postdate": "2025-06-19 18:07:21",
-      "lastmodified": "2025-06-19 18:07:21",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/vhrHG74NDEaPgR8YuxHJzw__small/img/BQ4g8Ce_gOkVi0_U5Z7oiW9eI2M=/fit-in/200x150/filters:strip_icc()/pic8888273.jpg",
-      "link": "https://boardgamegeek.com/thing/446610",
-      "minPlayers": "2",
-      "maxPlayers": "6",
-      "bestAtCount": "N/A",
-      "playingTime": "45",
-      "minPlayingTime": "45",
-      "maxPlayingTime": "45",
-      "averageRating": "4.33333",
-      "averageWeight": "0",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Action Points",
-        "Cooperative Game",
-        "Dice Rolling",
-        "Events",
-        "Grid Movement",
-        "Pick-up and Deliver",
-        "Scenario / Mission / Campaign Game",
-        "Simulation",
-        "Solo / Solitaire Game",
-        "Square Grid",
-        "Variable Player Powers"
-      ],
-      "categories": [
-        "Adventure",
-        "Dice",
-        "Environmental"
-      ],
-      "designers": [
-        "Ken Franklin",
-        "Chris Leder",
-        "Kevin Rodgers"
-      ]
-    },
-    {
       "id": "446892",
       "name": "Endeavor: Deep Sea – Uncharted Waters",
       "yearPublished": "2026",
@@ -4066,50 +5792,6 @@
       "designers": [
         "Carl de Visser",
         "Jarratt Gray"
-      ]
-    },
-    {
-      "id": "408180",
-      "name": "Shackleton Base: A Journey to the Moon",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2025-04-21 15:31:59",
-      "lastmodified": "2025-04-21 15:31:59",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__small/img/DAbZgOJbckBSg9Qq8rpdEhzpq_I=/fit-in/200x150/filters:strip_icc()/pic7897060.jpg",
-      "link": "https://boardgamegeek.com/thing/408180",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "8.00943",
-      "averageWeight": "3.8805",
-      "boardGameRank": "718",
-      "mechanics": [
-        "Variable Set-up",
-        "Worker Placement, Different Worker Types"
-      ],
-      "categories": [
-        "Science Fiction",
-        "Space Exploration"
-      ],
-      "designers": [
-        "Fabio Lopiano",
-        "Nestore Mangone"
       ]
     },
     {
@@ -5802,55 +7484,6 @@
       ]
     },
     {
-      "id": "3097",
-      "name": "1849: The Game of Sicilian Railways",
-      "yearPublished": "1998",
-      "type": "boardgame",
-      "postdate": "2013-06-25 13:56:39",
-      "lastmodified": "2024-11-14 13:23:10",
-      "myrating": 8,
-      "numplays": "0",
-      "status": {
-        "own": true,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/x_QbmcYgiDWe-UvJDbDFjQ__thumb/img/pnPJMCcSrsNPU5pOJgaK18PgDDw=/fit-in/200x150/filters:strip_icc()/pic5142773.jpg",
-      "link": "https://boardgamegeek.com/thing/3097",
-      "minPlayers": "3",
-      "maxPlayers": "5",
-      "bestAtCount": "3, 4",
-      "playingTime": "180",
-      "minPlayingTime": "180",
-      "maxPlayingTime": "180",
-      "averageRating": "8.11889",
-      "averageWeight": "4.15",
-      "boardGameRank": "1699",
-      "mechanics": [
-        "Auction / Bidding",
-        "Investment",
-        "Network and Route Building",
-        "Stock Holding",
-        "Tile Placement"
-      ],
-      "categories": [
-        "Economic",
-        "Post-Napoleonic",
-        "Trains",
-        "Transportation"
-      ],
-      "designers": [
-        "Chris Lawson",
-        "Federico Vellani"
-      ]
-    },
-    {
       "id": "423632",
       "name": "Asian Tigers: A Story of Prosperity",
       "yearPublished": "2024",
@@ -6518,50 +8151,6 @@
       ]
     },
     {
-      "id": "368463",
-      "name": "Rebuilding Seattle",
-      "yearPublished": "2023",
-      "type": "boardgame",
-      "postdate": "2024-11-06 12:53:15",
-      "lastmodified": "2024-11-06 12:53:16",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/65sJJUkGsGI17lt0Jv1wxg__small/img/F_I2ofdtl5TRr5UZxruUeRb_frM=/fit-in/200x150/filters:strip_icc()/pic7089020.jpg",
-      "link": "https://boardgamegeek.com/thing/368463",
-      "minPlayers": "1",
-      "maxPlayers": "5",
-      "bestAtCount": "3",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "7.50532",
-      "averageWeight": "2.3333",
-      "boardGameRank": "4039",
-      "mechanics": [
-        "Grid Coverage",
-        "Income",
-        "Square Grid",
-        "Tile Placement"
-      ],
-      "categories": [
-        "City Building"
-      ],
-      "designers": [
-        "Quinn Brander"
-      ]
-    },
-    {
       "id": "369282",
       "name": "Rise",
       "yearPublished": "2022",
@@ -6804,52 +8393,6 @@
       ],
       "designers": [
         "Dirk Henn"
-      ]
-    },
-    {
-      "id": "332853",
-      "name": "Dom Pierre",
-      "yearPublished": "2022",
-      "type": "boardgame",
-      "postdate": "2024-10-26 22:59:11",
-      "lastmodified": "2024-10-26 22:59:12",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/d3vU53R_f2vmDvVQYRtZbA__small/img/SB3uQEfk-g6xglf6qG_4IKWr2I4=/fit-in/200x150/filters:strip_icc()/pic6850641.jpg",
-      "link": "https://boardgamegeek.com/thing/332853",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "6.85167",
-      "averageWeight": "3.7917",
-      "boardGameRank": "7182",
-      "mechanics": [
-        "Action Points",
-        "Contracts",
-        "Variable Player Powers",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Economic",
-        "Farming"
-      ],
-      "designers": [
-        "Costa",
-        "Rôla"
       ]
     },
     {
@@ -7574,111 +9117,6 @@
       "designers": [
         "Isra C.",
         "Shei S."
-      ]
-    },
-    {
-      "id": "359438",
-      "name": "Skymines",
-      "yearPublished": "2022",
-      "type": "boardgame",
-      "postdate": "2024-09-23 15:28:13",
-      "lastmodified": "2024-10-23 01:06:41",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/loa-OQHFaTlKV2eU_WKVFw__small/img/Jsvw38z4mMfKZzKCDjiQRe7mJ9k=/fit-in/200x150/filters:strip_icc()/pic6800089.jpg",
-      "link": "https://boardgamegeek.com/thing/359438",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "4",
-      "playingTime": "150",
-      "minPlayingTime": "75",
-      "maxPlayingTime": "150",
-      "averageRating": "7.94812",
-      "averageWeight": "3.9032",
-      "boardGameRank": "566",
-      "mechanics": [
-        "Action Queue",
-        "Area Majority / Influence",
-        "Deck, Bag, and Pool Building",
-        "Hand Management",
-        "Investment",
-        "Open Drafting",
-        "Resource to Move",
-        "Roles with Asymmetric Information",
-        "Scenario / Mission / Campaign Game",
-        "Simultaneous Action Selection",
-        "Solo / Solitaire Game",
-        "Stock Holding",
-        "Turn Order: Claim Action",
-        "Variable Player Powers",
-        "Victory Points as a Resource",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Economic",
-        "Science Fiction"
-      ],
-      "designers": [
-        "Viktor Kobilke",
-        "Alexander Pfister"
-      ]
-    },
-    {
-      "id": "404431",
-      "name": "Men-Nefer",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2024-10-22 17:01:14",
-      "lastmodified": "2024-10-22 17:01:15",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__small/img/jlC58ndBNtI6kTO61AwdUhBMgHQ=/fit-in/200x150/filters:strip_icc()/pic7984201.jpg",
-      "link": "https://boardgamegeek.com/thing/404431",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "8.17898",
-      "averageWeight": "3.6768",
-      "boardGameRank": "726",
-      "mechanics": [
-        "Income",
-        "Open Drafting",
-        "Set Collection",
-        "Track Movement",
-        "Worker Placement"
-      ],
-      "categories": [
-        "Ancient",
-        "Civilization",
-        "Industry / Manufacturing"
-      ],
-      "designers": [
-        "Germán P. Millán"
       ]
     },
     {
@@ -8660,55 +10098,6 @@
       ]
     },
     {
-      "id": "370789",
-      "name": "Nova Roma",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2024-10-06 16:37:04",
-      "lastmodified": "2024-10-06 16:37:04",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/zEv4IVUrCK9CpNrO54b7Kg__small/img/ydCmEIpZy9t4p6lrnOnUYqHrX80=/fit-in/200x150/filters:strip_icc()/pic7071623.jpg",
-      "link": "https://boardgamegeek.com/thing/370789",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "7.67308",
-      "averageWeight": "3.25",
-      "boardGameRank": "2044",
-      "mechanics": [
-        "Area Majority / Influence",
-        "Contracts",
-        "End Game Bonuses",
-        "Pattern Building",
-        "Variable Set-up",
-        "Worker Placement, Different Worker Types"
-      ],
-      "categories": [
-        "Ancient",
-        "City Building",
-        "Economic",
-        "Racing"
-      ],
-      "designers": [
-        "Stan Kordonskiy"
-      ]
-    },
-    {
       "id": "327711",
       "name": "It's a Wonderful Kingdom",
       "yearPublished": "2021",
@@ -8803,49 +10192,6 @@
       ],
       "designers": [
         "Germán P. Millán"
-      ]
-    },
-    {
-      "id": "383607",
-      "name": "Barcelona",
-      "yearPublished": "2023",
-      "type": "boardgame",
-      "postdate": "2024-09-22 17:16:09",
-      "lastmodified": "2024-09-22 17:16:09",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/clBx1kfB-8OpO86B2-vsgg__small/img/8w625ctGlolYNodQdbXJtyOC3wg=/fit-in/200x150/filters:strip_icc()/pic7442376.jpg",
-      "link": "https://boardgamegeek.com/thing/383607",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "7.73461",
-      "averageWeight": "3.3644",
-      "boardGameRank": "590",
-      "mechanics": [
-        "End Game Bonuses",
-        "Tile Placement",
-        "Worker Placement"
-      ],
-      "categories": [
-        "City Building"
-      ],
-      "designers": [
-        "Dani Garcia"
       ]
     },
     {

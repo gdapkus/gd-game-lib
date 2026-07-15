@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-07-15T16:48:10.974Z",
+  "gameDetails": {
+    "id": "429650",
+    "name": "The Treasure Ship of Zheng He",
+    "type": "boardgame",
+    "description": "In The Treasure Ship of Zheng He, players become commanders of the Zheng He fleet and aim to contribute to his grand voyage.\n\nThe game lasts seven rounds, with each round representing one of Zheng He's voyages. At the start of a round, players visit the High Officials, choosing one of them in turn. The higher the rank of the official you visit, the better the gift that you must offer them, and the better the items you receive in exchange.\n\nWhoever visited the highest ranked official goes first in the planning phase, choosing which leg of the voyage they will captain. More specifically, in turn players claim one of the 3-4 face-down voyage cards, with the leftmost leg being the first part of the voyage away from China.\n\nIn order from left to right, the appropriate captain for each leg reveals their card, takes the number of ships indicated, and places them on the main game board, leading everyone away from China. If a fork is present on the game board, the captain decides where the voyage goes. The voyage card might have actions on it, or the voyage might stop at a port, which also has actions. The captain places the lead ship token on the space they want, then all other players can choose one of the smaller action spaces &mdash; unless they have an \"Emperor's directive\" that lets them use the same action as the captain. If you encounter pirates, the captain can try to fight or bribe them, moving up the military track or gaining rewards if successful, or they can decline to fight, which ends their turn.\n\nAs you take actions, you can gain resources, gold, and weapons; trade with merchants; send out diplomats to raise your diplomatic level (which nets you rewards and possible endgame points); and collect animals, trying to cover as much of your player board as possible. If you have the funds, you can build a monument, which lets you repeat the action on which you build; build next to one of your earlier monuments, and you take that action, too.\n\nOnce all players have been captain in turn, you start the next voyage, and after seven voyages, you take a final trip to the High Officials &mdash; or by offering two of each rare good, you can get a grand reward from the Emperor himself. In the end, the player who contributes the most to Zheng He's voyages wins.\n\n",
+    "image": "https://cf.geekdo-images.com/YV7W6laLbtpO-jcj59rGfA__original/img/esrMoct0KN849jwmHdbIZYD9Oug=/0x0/filters:format(jpeg)/pic9482626.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YV7W6laLbtpO-jcj59rGfA__small/img/QA1O0HnIgjRtsty3u5rz3p7ZvpM=/fit-in/200x150/filters:strip_icc()/pic9482626.jpg",
+    "link": "https://boardgamegeek.com/thing/429650",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.55739",
+    "averageWeight": "3.25",
+    "boardGameRank": "10197",
+    "mechanics": [
+      "Point to Point Movement",
+      "Set Collection",
+      "Tech Trees / Tech Tracks"
+    ],
+    "categories": [
+      "Medieval",
+      "Nautical"
+    ],
+    "designers": [
+      "Hisashi Hayashi"
+    ]
+  }
+}

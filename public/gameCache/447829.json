@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-07-15T16:59:22.250Z",
+  "gameDetails": {
+    "id": "447829",
+    "name": "Hubworld: Aidalon Preview Deck Set",
+    "type": "boardgame",
+    "description": "A set of two identical preview decks that, when played against each other, introduce the basic mechanics and gameplay of Hubworld: Aidalon. Choose from four different Seekers to try different strategies with the same cards.\n\n",
+    "image": "https://cf.geekdo-images.com/MYkYFkijyB7Cvt33vt0OiA__original/img/gp5TPRrvjYEGYLkwL_aMtGMBn6Q=/0x0/filters:format(jpeg)/pic8926586.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MYkYFkijyB7Cvt33vt0OiA__small/img/U1rn-tG0Weern3DCwqpeK8fKAxU=/fit-in/200x150/filters:strip_icc()/pic8926586.jpg",
+    "link": "https://boardgamegeek.com/thing/447829",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.25",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Deck Construction",
+      "Hand Management",
+      "Race",
+      "Secret Unit Deployment",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Print & Play",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Cory DeVore",
+      "Andrew Fischer"
+    ]
+  }
+}

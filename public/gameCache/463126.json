@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-07-15T16:58:08.992Z",
+  "gameDetails": {
+    "id": "463126",
+    "name": "Arkham Horror: The Card Game",
+    "type": "boardgame",
+    "description": "Introducing the newest core set for Arkham Horror: The Card Game! Take the role of a unique investigator and explore the world of Arkham. Build a customized deck that represents your investigators abilities, supplies, actions, and skills. Customize your deck as you progress through narratively driven scenarios and uncover the horrors that lie just below the surface of this 1920s alternate world. Explore stories which evolve with your choices, successes, and failures to tell a unique story either solo or with up to three of your friends.\n\nServing simultaneously as both a continuation and a fresh starting point, this new core set heralds the beginning of Chapter Two for the game. Taking place several months after the city of Arkham suffered a devastating calamity, this box provides a new introductory campaign, five mechanically-new investigators, and a fresh card pool to expand your collection&mdash;or start a new one!\nWhether you&rsquo;re an Arkham Horror veteran or a newcomer looking to get into the game, you won&rsquo;t want to miss out on this new core set. This core set will replace the Revised Core Set from 2021 and become the new evergreen core experience for the game going forward. That said, all player content in this box is fully compatible with all previously-released Arkham Horror: The Card Game products&mdash;it is still the same game, after all!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/4rSTpEREatouARImn14VDA__original/img/JdRUbcbsJzmwwubzatbUTNKZe-w=/0x0/filters:format(png)/pic9361246.png",
+    "thumbnail": "https://cf.geekdo-images.com/4rSTpEREatouARImn14VDA__small/img/iuR8GUpKI96Kbg5OlwkiT1YBlqE=/fit-in/200x150/filters:strip_icc()/pic9361246.png",
+    "link": "https://boardgamegeek.com/thing/463126",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.70114",
+    "averageWeight": "3.8462",
+    "boardGameRank": "2206",
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Communication Limits",
+      "Cooperative Game",
+      "Deck Construction",
+      "Events",
+      "Hand Management",
+      "Map Deformation",
+      "Modular Board",
+      "Player Elimination",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Horror",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Nate French",
+      "Josiah Harrist",
+      "Nicholas Kory",
+      "MJ Newman"
+    ]
+  }
+}

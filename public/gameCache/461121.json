@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-07-15T16:52:28.985Z",
+  "gameDetails": {
+    "id": "461121",
+    "name": "Wispwood: Diagonalogs Promo Card",
+    "type": "boardgameexpansion",
+    "description": "Wispwood: Schr&auml;ge St&auml;mme is a Promo Card providing an alternative scoring mode.\n\nSchr&auml;ge St&auml;mme rules text:\n3 stars for each tree on a diagonal without will-o'-the-wisps\n\n",
+    "image": "https://cf.geekdo-images.com/EaL4Tmf_cq0LXDkAmLJQ2A__original/img/vz9HTkN_3qFFcGrxdAZCaeZWWR8=/0x0/filters:format(jpeg)/pic9375863.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EaL4Tmf_cq0LXDkAmLJQ2A__small/img/G0B4QyGgg5Q1OdjV-mx9w9t09cs=/fit-in/200x150/filters:strip_icc()/pic9375863.jpg",
+    "link": "https://boardgamegeek.com/thing/461121",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "6.625",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Grid Coverage",
+      "Open Drafting",
+      "Pattern Building",
+      "Score-and-Reset Game",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Abstract Strategy",
+      "Fantasy"
+    ],
+    "designers": []
+  }
+}

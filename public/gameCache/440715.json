@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-07-15T16:52:18.388Z",
+  "gameDetails": {
+    "id": "440715",
+    "name": "Underwater Cities: Data Era",
+    "type": "boardgameexpansion",
+    "description": "Underwater Cities: Data Era is a second expansion for the Underwater Cities base game. Underwater Cities: Data Era can also be combined with the first expansion, Underwater Cities: New Discoveries.\n\nIn Data Era, players receive a new resource type - data discs. Data discs provide additional actions along with new buildings called data centers, and a new city type, information cities. These new data centers and information cities provide players with new ways of scoring.\n\nDelicious Games has also included new, upgraded components in this expansion! The new components can be used with the base game and the New Discoveries expansion.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/6jth2BLeLCWhOzRV6zbBow__original/img/65DKgr6ikfhQ6nSiP2wGjgJ4LNA=/0x0/filters:format(jpeg)/pic8974495.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6jth2BLeLCWhOzRV6zbBow__small/img/uV6JB0VvtO0B0X3xCWulhwrPT1g=/fit-in/200x150/filters:strip_icc()/pic8974495.jpg",
+    "link": "https://boardgamegeek.com/thing/440715",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "150",
+    "minPlayingTime": "80",
+    "maxPlayingTime": "150",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.44804",
+    "averageWeight": "3.0909",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Network and Route Building",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "City Building",
+      "Civilization",
+      "Industry / Manufacturing",
+      "Nautical",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Vladimír Suchý"
+    ]
+  }
+}

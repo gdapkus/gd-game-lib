@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-07-15T16:48:31.711Z",
+  "gameDetails": {
+    "id": "473508",
+    "name": "Wingspan Pocket",
+    "type": "boardgame",
+    "description": "Wingspan Pocket distills the Wingspan experience down to a lighter, shorter, card-driven game that has each player activate a single row of cards on each of their turns. The cards are all double sided: a food side and a bird side. Bird powers are primarily indicated by icons instead of text, and they include a new type of power, ongoing (green) benefits.\n\nWingspan Pocket is designed to be accessible to novice players yet also compelling for more experienced gamers. This is a standalone game in a small box, not an expansion (the birds in it are not compatible with Wingspan). Wingspan Pocket features birds from around the world.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/AfkejqlRG__xwd8qPDVh0A__original/img/lQ3dvII4qug8_edEe4rHcYE3deI=/0x0/filters:format(jpeg)/pic9667472.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AfkejqlRG__xwd8qPDVh0A__small/img/u9cfjZf0tj6bEGXUrvint0Bh_iU=/fit-in/200x150/filters:strip_icc()/pic9667472.jpg",
+    "link": "https://boardgamegeek.com/thing/473508",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2026",
+    "playingTime": "35",
+    "minPlayingTime": "25",
+    "maxPlayingTime": "35",
+    "bestAtCount": null,
+    "averageRating": "7.14615",
+    "averageWeight": "2",
+    "boardGameRank": "16512",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "designers": [
+      "Elizabeth Hargrave"
+    ]
+  }
+}

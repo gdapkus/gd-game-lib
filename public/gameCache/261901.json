@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-07-15T17:44:23.881Z",
+  "gameDetails": {
+    "id": "261901",
+    "name": "Tokyo Highway",
+    "type": "boardgame",
+    "description": "Note: This is for the 4-player version of Tokyo Highway. For the two player version, please go here: Tokyo Highway: 2 Players Version\n\nIn Tokyo Highway, players compete to place all of their cars on the road first &mdash; but to do that they have to build the roadways so that they have somewhere for their cars to go!\n\nOver the course of the game, players construct columns of varying heights by using the 88 squat gray and yellow pillars in the box, then connect those columns with sticks that serve as roadways, with the column you create usually not being the same height as the one it's connected to. When you place a highway that passes under or over an existing highway, you get to (carefully!) place a car on that highway. Place a highway that both goes over and under other highways, and you can place two cars!\n\nThe yellow cylinders allow you to create a column the same height as another while also allowing you to fork the roadway to create more twists and turns.\n\nThe first player to place all ten of their cars &mdash; with or without using tweezers &mdash; wins!\n\nThis version of Tokyo Highway includes both the original base game and the expansion that allows for games with up to four players &mdash; not to mention four buildings that give additional obstacles while trying to lay down the concrete.\n\n",
+    "image": "https://cf.geekdo-images.com/fV_nbXzF2NEcCpDbyIfkBg__original/img/qdgyMhDfwNN9bkDry76Juv-5_pk=/0x0/filters:format(jpeg)/pic4331609.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fV_nbXzF2NEcCpDbyIfkBg__small/img/5CImncZI1a3Ost0FQl23lEXy6Gc=/fit-in/200x150/filters:strip_icc()/pic4331609.jpg",
+    "link": "https://boardgamegeek.com/thing/261901",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2018",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.79182",
+    "averageWeight": "1.4583",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Network and Route Building",
+      "Stacking and Balancing"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Transportation"
+    ],
+    "designers": [
+      "Naotaka Shimamoto",
+      "Yoshiaki Tomioka"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-07-15T17:44:13.481Z",
+  "gameDetails": {
+    "id": "441706",
+    "name": "Quacks: All-In Edition",
+    "type": "boardgame",
+    "description": "In Quacks, players are charlatans &mdash; or quack doctors &mdash; each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!\n\nEach player has their own bag of ingredient chips. During each round, they simultaneously draw chips from their bags and add them to their pots. The higher the face value of the drawn chip, the further it is placed in the pot's swirling pattern, increasing how much the potion will be worth. Push your luck as far as you can, but if you add too many cherry bombs, your pot will explode!\n\nAt the end of each round, players gain victory points and coins to spend on new ingredients, depending on how well they managed to fill up their pots. But players whose pots have exploded must choose points or coins &mdash; not both! The player with the most victory points at the end of nine rounds wins the game.\n\nQuacks: All-In Edition includes the original The Quacks of Quedlinburg base game, as well as two expansions previously released separately &mdash; The Witches and The Alchemists &mdash; as well as deluxe components.\n\n",
+    "image": "https://cf.geekdo-images.com/3zMXvAfZbnWR2UIjbNMIYA__original/img/OUrUM00Mkkc5ep8hVJbHjqU0Hnc=/0x0/filters:format(png)/pic8780291.png",
+    "thumbnail": "https://cf.geekdo-images.com/3zMXvAfZbnWR2UIjbNMIYA__small/img/YpTgFEY6Wl71VLazjE_3aElfCPM=/fit-in/200x150/filters:strip_icc()/pic8780291.png",
+    "link": "https://boardgamegeek.com/thing/441706",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "45",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      3,
+      5
+    ],
+    "averageRating": "8.45908",
+    "averageWeight": "2.125",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Catch the Leader",
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Dice Rolling",
+      "Events",
+      "Open Drafting",
+      "Push Your Luck",
+      "Simultaneous Action Selection",
+      "Variable Set-up"
+    ],
+    "categories": [],
+    "designers": [
+      "Wolfgang Warsch"
+    ]
+  }
+}

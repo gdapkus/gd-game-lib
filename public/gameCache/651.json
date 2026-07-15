@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-07-15T16:58:50.664Z",
+  "gameDetails": {
+    "id": "651",
+    "name": "Zero Down",
+    "type": "boardgame",
+    "description": "How low can you go? In Zero, you want to score as few points as possible, but to do that you need to collect the right cards in hand.\n\nThe deck consists of 56 cards, with cards numbered 1-8 in seven colors. Each player starts with nine cards in hand, and five, seven or nine cards start face-up on the table depending on the number of players. On a turn, you either knock on the table to pass or you swap one card in hand for one card on the table. After the second knock, whether from the same player or a different one, all players other than the second knocker have one final chance to swap, after which they reveal and score their hands. If you have five or more cards of the same color or number in hand, then those cards score 0 points. For each other number you have, no matter how many copies, you score points equal to that card's value. Thus, having one to four 7s in hand is worth 7 points.\n\nIf, however, you manage to collect both five cards of a color and five cards of a number in hand (with one card fitting in both sets), then you can declare \"Zero!\" and end the round immediately, with everyone else scoring points as usual.\n\nAfter a number of rounds equal to the number of players, whoever has the lowest score wins!\n\n",
+    "image": "https://cf.geekdo-images.com/3dI-B_5E8kTEIAXkx-Tp5A__original/img/K55SAxrC02fqez9DtUIFSyDFDbQ=/0x0/filters:format(jpeg)/pic5371819.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3dI-B_5E8kTEIAXkx-Tp5A__small/img/pNUkHoVdohY3PpqmO19geuCfrko=/fit-in/200x150/filters:strip_icc()/pic5371819.jpg",
+    "link": "https://boardgamegeek.com/thing/651",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "1998",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.48823",
+    "averageWeight": "1.2241",
+    "boardGameRank": "4865",
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "categories": [
+      "Card Game"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ]
+  }
+}

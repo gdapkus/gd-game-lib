@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-07-15T16:48:26.543Z",
+  "gameDetails": {
+    "id": "430916",
+    "name": "Unstoppable: Tyrant's End",
+    "type": "boardgameexpansion",
+    "description": "The Silver family maintains an iron grip on the three planets Ceres II, Virenos, and Mithras, but their reign may soon be over. You can play the wayward heir to the monarchy as Roux, or lead the Viren rebellion as Sima.\n\nUnstoppable: Tyrant's End introduces two new playable characters to Unstoppable, new cards for the core decks and upgrade deck, and a new keyword. Take your card crafting to new heights!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/hVAtcHT10I_I4JRGCq-uGQ__original/img/mNdNFRLG6pZjyRYct16xdgQT3so=/0x0/filters:format(jpeg)/pic8484593.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hVAtcHT10I_I4JRGCq-uGQ__small/img/s2AHFMsDh2E5xCA-7_mlTYTdN2A=/fit-in/200x150/filters:strip_icc()/pic8484593.jpg",
+    "link": "https://boardgamegeek.com/thing/430916",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": null,
+    "averageRating": "8.40507",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Cooperative Game",
+      "Deck Construction",
+      "Deck, Bag, and Pool Building",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "designers": [
+      "John D. Clair"
+    ]
+  }
+}

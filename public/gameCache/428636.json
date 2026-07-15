@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-07-15T17:46:48.200Z",
+  "gameDetails": {
+    "id": "428636",
+    "name": "Oddland",
+    "type": "boardgame",
+    "description": "Eureka! The fascinating flora and fauna on this strange island are unlike any you&rsquo;ve ever seen! How&hellip; odd!\n\nAs an intrepid investigator of all things idiosyncratic, your job is to explore the island and document these fantastic creatures. On your turn, explore by placing a terrain card somewhere on the island (with the ability to cover up previous terrain!).\n\nThen, place one of your seven flora or fauna tokens on the card you&rsquo;ve just played. These tokens score based on their surroundings&ndash;for example, the pigehorse scores better adjacent to a longer coastline.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/ExANT6uZ3Hxuh2-3c9RWvA__original/img/ffrRVqqFL3G7t6RdSvAt7BdsfAg=/0x0/filters:format(jpeg)/pic8430844.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ExANT6uZ3Hxuh2-3c9RWvA__small/img/DDJZl_8ZRsfCnEHN8Ng30FkdEMw=/fit-in/200x150/filters:strip_icc()/pic8430844.jpg",
+    "link": "https://boardgamegeek.com/thing/428636",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "40",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "40",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.94789",
+    "averageWeight": "1.6154",
+    "boardGameRank": "5252",
+    "mechanics": [
+      "Connections",
+      "Layering",
+      "Pattern Building",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Environmental",
+      "Exploration",
+      "Fantasy"
+    ],
+    "designers": [
+      "Dan Schumacher"
+    ]
+  }
+}

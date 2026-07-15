@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-07-15T17:45:09.908Z",
+  "gameDetails": {
+    "id": "470036",
+    "name": "Game Changer: Home Edition",
+    "type": "boardgame",
+    "description": "Prepare yourself for a chaotic new party game, based on Dropout's hit game show, where the rules keep changing.\n\nSplit into two teams and compete in 3 mini games!\n\nIn BINGO, each team is given a bingo board and 5 Thing cards containing words the opposing team must get their teammates to guess before time runs out. Fill your bingo board with words you think the opposite team will using during their turn, and guess your own team's Things without using the words your opponents predicted you would use.\n\nName a Number is an oblivious bidding game where you take turns bidding for a task, without knowing what it is. The player with the winning bid takes the card, reads it, and either accepts the challenge or passes to the other team.\n\nIn Sam Says, each team has 3 minutes to get their teammates to guess as many words as possible- but with each new word you must follow a new Sam Says rule!\n\n",
+    "image": "https://cf.geekdo-images.com/CpPlsOmC_Bgab-hynOsUnA__original/img/f3FnmYe8NESHL9N9oVbZzTxeQTQ=/0x0/filters:format(jpeg)/pic9567811.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CpPlsOmC_Bgab-hynOsUnA__small/img/Vcdw_H0aorT58vIeRBPx4hvtMjE=/fit-in/200x150/filters:strip_icc()/pic9567811.jpg",
+    "link": "https://boardgamegeek.com/thing/470036",
+    "minPlayers": "4",
+    "maxPlayers": "8",
+    "yearPublished": "2026",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Party Game"
+    ],
+    "designers": [
+      "Joshua Gerald Balvin"
+    ]
+  }
+}

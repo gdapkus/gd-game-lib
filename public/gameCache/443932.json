@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-07-15T16:50:38.437Z",
+  "gameDetails": {
+    "id": "443932",
+    "name": "Aquaria",
+    "type": "boardgame",
+    "description": "In Aquaria, you and your friends compete to have the most expertise in maintaining a thriving aquarium. Build your aquarium from scratch to see who can maintain the best aquascape and fauna. One to four aquarists will see who can best accomplish their marine goals.\n\nThroughout the game, players will buy new fish, feed them, and keep their aquarium in tip-top condition. Players will also show how they have progressed in their aquarist studies by how far they have moved on the encyclopedia tracks. Whoever has the most points at game's end wins.\n\nWith an approximate playtime of 45-minutes per player, this game from award-winning best-selling designer Tom&aacute;&scaron; Holek is crafted to delight even the most seasoned gamers. Featuring breathtaking artwork throughout, it immerses players in a captivating experience - where you can build the perfect aquarium, no water changes or live fish required!\n\n",
+    "image": "https://cf.geekdo-images.com/44BwMuvFoPjaHHmLZH8sGQ__original/img/zVC4KVw2_QPAF0oQgpfxaMRo-wo=/0x0/filters:format(jpeg)/pic8822242.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/44BwMuvFoPjaHHmLZH8sGQ__small/img/ckCn6SFSeTdK_sE7njUJYQ0rPLw=/fit-in/200x150/filters:strip_icc()/pic8822242.jpg",
+    "link": "https://boardgamegeek.com/thing/443932",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.17474",
+    "averageWeight": "3.075",
+    "boardGameRank": "4249",
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Puzzle"
+    ],
+    "designers": [
+      "Tomáš Holek"
+    ]
+  }
+}

@@ -1,6 +1,163 @@
 {
-  "timestamp": "2025-12-26T20:06:45.154Z",
+  "timestamp": "2026-07-15T17:47:22.824Z",
   "games": [
+    {
+      "id": "428636",
+      "name": "Oddland",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-02-25 11:29:26",
+      "lastmodified": "2026-02-25 11:29:26",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ExANT6uZ3Hxuh2-3c9RWvA__small/img/DDJZl_8ZRsfCnEHN8Ng30FkdEMw=/fit-in/200x150/filters:strip_icc()/pic8430844.jpg",
+      "link": "https://boardgamegeek.com/thing/428636",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "40",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "40",
+      "averageRating": "6.94789",
+      "averageWeight": "1.6154",
+      "boardGameRank": "5252",
+      "mechanics": [
+        "Connections",
+        "Layering",
+        "Pattern Building",
+        "Solo / Solitaire Game",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Environmental",
+        "Exploration",
+        "Fantasy"
+      ],
+      "designers": [
+        "Dan Schumacher"
+      ]
+    },
+    {
+      "id": "184267",
+      "name": "On Mars",
+      "yearPublished": "2020",
+      "type": "boardgame",
+      "postdate": "2026-02-17 09:28:45",
+      "lastmodified": "2026-02-17 09:28:45",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__thumb/img/4GFbhkEWyIublXmikE2Tep6wSIQ=/fit-in/200x150/filters:strip_icc()/pic4357658.jpg",
+      "link": "https://boardgamegeek.com/thing/184267",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "150",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "150",
+      "averageRating": "8.18326",
+      "averageWeight": "4.6671",
+      "boardGameRank": "51",
+      "mechanics": [
+        "Contracts",
+        "Delayed Purchase",
+        "End Game Bonuses",
+        "Hexagon Grid",
+        "Income",
+        "Movement Points",
+        "Moving Multiple Units",
+        "Set Collection",
+        "Solo / Solitaire Game",
+        "Tech Trees / Tech Tracks",
+        "Tile Placement",
+        "Variable Phase Order",
+        "Worker Placement"
+      ],
+      "categories": [
+        "City Building",
+        "Economic",
+        "Exploration",
+        "Science Fiction",
+        "Space Exploration",
+        "Territory Building"
+      ],
+      "designers": [
+        "Vital Lacerda"
+      ]
+    },
+    {
+      "id": "385761",
+      "name": "Faraway",
+      "yearPublished": "2023",
+      "type": "boardgame",
+      "postdate": "2026-02-17 09:27:55",
+      "lastmodified": "2026-02-17 09:27:55",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/u1cwi9BWSKsPxSkVO0BzbA__small/img/5G45GN8CE7pq38fJMMocmPtV4_U=/fit-in/200x150/filters:strip_icc()/pic7570101.png",
+      "link": "https://boardgamegeek.com/thing/385761",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "3",
+      "playingTime": "30",
+      "minPlayingTime": "15",
+      "maxPlayingTime": "30",
+      "averageRating": "7.55173",
+      "averageWeight": "1.9111",
+      "boardGameRank": "266",
+      "mechanics": [
+        "Constrained Bidding",
+        "End Game Bonuses",
+        "Hand Management",
+        "Open Drafting",
+        "Selection Order Bid",
+        "Set Collection",
+        "Simultaneous Action Selection",
+        "Tags"
+      ],
+      "categories": [
+        "Card Game",
+        "Fantasy",
+        "Puzzle"
+      ],
+      "designers": [
+        "Johannes Goupy",
+        "Corentin Lebrat"
+      ]
+    },
     {
       "id": "239464",
       "name": "Palm Island",

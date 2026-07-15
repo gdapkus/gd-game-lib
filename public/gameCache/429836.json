@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-07-15T16:59:17.041Z",
+  "gameDetails": {
+    "id": "429836",
+    "name": "Hubworld: Aidalon",
+    "type": "boardgame",
+    "description": "Aidalon was once the busiest hubworld in the galaxy. Then the Collective arrived. Their portal technology connected all worlds, making space travel obsolete. Aidalon's shipyards became scrap yards, yet its people persevered. In the myriad districts of Aidalon, exceptional individuals known as Seekers rise above the throng. Trading in the black market currency known as Shards, Seekers enlist the aid of influential Agents who have the power to help those closest to them, heedless of the Collective's will. \n\nHubworld: Aidalon is a non-collectible, competitive card game of daring espionage, deduction, and suspense. Take on the role of a Seeker as you navigate the vertical streets of Aidalon, infiltrating your opponent's districts to expand your network of Agents before they can do the same.\n\nEach Seeker is represented by a Seeker card, as well as a 36 card deck you construct. Each deck must contain exactly 6 Agents chosen along with 30 other cards from up to 4 different factions. These cards can be Sources (people and places), Obstacles (traps and barriers), and Moments (one-off abilities and tricks).\n To win the game, you must secure 3 Agents from your opponent before they do the same. The first player to secure 3 Agents wins. When playing against multiple opponents, each Agent must come from a different player (if able).\n\nTo secure an Agent, you&rsquo;ll delve into your opponents' three Districts (their hand, deck, and discard). Your opponents will load up their grid with a hidden network of dangerous defenses, taxing distractions, or even Agents themselves to make your life difficult, forging powerful cards to thwart your plans at inopportune moments. You'll need to balance building your Grid against more aggressive tactics, creating a card economy that will supply you with a steady flow of shards (your main resource) while you utilize your arsenal of tricks and surprises to keep your opponents on their toes.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/W11EGC7sCVh2KcAmqD1EXw__original/img/Gt3WtH-4XdGGeSkbsyx2FQ5KMEQ=/0x0/filters:format(png)/pic8845643.png",
+    "thumbnail": "https://cf.geekdo-images.com/W11EGC7sCVh2KcAmqD1EXw__small/img/TiMckyBxqh7yG3T3cO_6ZoIwf8w=/fit-in/200x150/filters:strip_icc()/pic8845643.png",
+    "link": "https://boardgamegeek.com/thing/429836",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2027",
+    "playingTime": "60",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.42143",
+    "averageWeight": "2.8",
+    "boardGameRank": "10027",
+    "mechanics": [
+      "Action Points",
+      "Deck Construction",
+      "Hand Management",
+      "Race",
+      "Secret Unit Deployment",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Science Fiction",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Michael Boggs",
+      "Cory DeVore"
+    ]
+  }
+}

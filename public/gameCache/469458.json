@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-07-15T16:51:41.796Z",
+  "gameDetails": {
+    "id": "469458",
+    "name": "The Lord of the Rings: Ascension",
+    "type": "boardgame",
+    "description": "The Lord of the Rings: Ascension is a deckbuilding game for 1&ndash;4 players that takes you on an adventure through Middle-earth across three interconnected Ascension sets. It features the beloved mechanics of the Ascension Deckbuilding Game, reimagined to capture the wonder of The Lord of the Rings, from its legendary heroes and villains to the corruption of The One Ring.\n\nThe fate of the world hangs by a thread. Will you rally the Free Peoples&mdash;Elves, Humans, Dwarves, and Hobbits&mdash;or turn toward the Shadow of Mordor? Recruit heroes, acquire powerful cards, and shape your strategy as you build your strength, all while confronting the quiet, ever-present pull of The One Ring. The game is fast to learn and difficult to master; each choice carries weight, and the path to victory is never without cost.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/kcyWRbYvdPI-6dNSGy0PoA__original/img/cXYbJnS1UCsXLrsT2e3BK1RMlbw=/0x0/filters:format(png)/pic9544772.png",
+    "thumbnail": "https://cf.geekdo-images.com/kcyWRbYvdPI-6dNSGy0PoA__small/img/lXFosKIR_Sk1nYIKipCfl2w1bSs=/fit-in/200x150/filters:strip_icc()/pic9544772.png",
+    "link": "https://boardgamegeek.com/thing/469458",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2027",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Justin Gary"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-07-15T17:45:15.100Z",
+  "gameDetails": {
+    "id": "431481",
+    "name": "A Place for All My Books",
+    "type": "boardgame",
+    "description": "A Place for All My Books is a puzzley book gathering, sorting, and organizing game in which players arrange stacks of books in different rooms of their apartment as personal projects. When done, they can admire their accomplishments and gain their rewards &ndash; not least of which is renewed energy, which they can then spend to head out into the village - to pick up more books!\n\nOver nine rounds, players visit locations and gather books to complete objectives and earn Victory Points. The player with the most Victory Points wins.\n\nThe organizational puzzles are easy to accomplish, with the challenge being how many of them you can accomplish all at once to optimize each \"admire\" action.\n\nA Place for All My Books includes a solo mode in which you must beat the game's rival: Penelope Eveready, an untiring extrovert who seems to be grabbing all the books you had wanted.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/aPj94RRrT5oliCph1zaVbw__original/img/pgVHl3pIw2gdkRMnvyba_DIzEMU=/0x0/filters:format(png)/pic8519566.png",
+    "thumbnail": "https://cf.geekdo-images.com/aPj94RRrT5oliCph1zaVbw__small/img/3p0Edz0i3N9KsVSy4ALhbJDXe-Y=/fit-in/200x150/filters:strip_icc()/pic8519566.png",
+    "link": "https://boardgamegeek.com/thing/431481",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.49456",
+    "averageWeight": "2.2162",
+    "boardGameRank": "2014",
+    "mechanics": [
+      "Pattern Building",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Puzzle"
+    ],
+    "designers": [
+      "Alex Cutler",
+      "Michael Mihealsick"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-15T16:47:39.693Z",
+  "gameDetails": {
+    "id": "468575",
+    "name": "Gruntz: Supplies",
+    "type": "boardgameexpansion",
+    "description": "Supplies add powerful but limited actions for commanders to turn the tide of battle. Move all Gruntz at once, swap vehicle attachments, Paradrop Gruntz, and more!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/NtOuc50KjSUlDThz0Fl1LA__original/img/p3noLOS1svYvRrM0iQd9F0jq47M=/0x0/filters:format(png)/pic9528944.png",
+    "thumbnail": "https://cf.geekdo-images.com/NtOuc50KjSUlDThz0Fl1LA__small/img/ebqfyUDG3AKCoHF3TYADc4UWAg8=/fit-in/200x150/filters:strip_icc()/pic9528944.png",
+    "link": "https://boardgamegeek.com/thing/468575",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2026",
+    "playingTime": "20",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.3",
+    "averageWeight": "1",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Grid Movement",
+      "King of the Hill",
+      "Tug of War"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Abstract Strategy",
+      "Wargame"
+    ],
+    "designers": [
+      "Carter Scott"
+    ]
+  }
+}

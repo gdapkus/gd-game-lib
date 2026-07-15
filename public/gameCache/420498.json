@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-15T16:48:21.355Z",
+  "gameDetails": {
+    "id": "420498",
+    "name": "Unstoppable",
+    "type": "boardgame",
+    "description": "On the city-planet of Ceres II, every alleyway invites a quick and quiet death. In the lush forests of Virenos, a single misstep could land you in the belly of a beast. The harsh wasteland of Mithras holds both grave danger and a great treasure for those who search its stacks of discarded rubbish. Amidst this chaos, you find yourself thriving, learning, and growing &mdash; a child of rank, touched by fate &mdash; but a new danger shadows the future of all three worlds. Gather your allies and sharpen your skills, for the darkest days are yet to come.\n\nUnstoppable is a solo or co-operative roguelike, momentum deck-building game. Use card crafting and deck building wisely in the face of unlimited threats, maintaining action and card-draw momentum to become unstoppable!\n\nThe goal of Unstoppable is to defeat the boss, a world-ending menace that threatens the very way of life in your star system. Even as a heroic figure with cosmic potential, you won&rsquo;t be capable of such a monumental task at the start. And there are many other smaller threats that you must keep at bay in the meantime. So train your powers, use your resources, and recruit new allies to your side.\n\n&bull; You win the game if you defeat the boss.\n&bull; You lose the game if your health is reduced to zero.\n&bull; You lose the game if the danger level is too high.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/JlY4u_H5nr8bs05XQWVoGw__original/img/UfFncO9wLb25n6e8ayUIJm6L9yk=/0x0/filters:format(png)/pic8185930.png",
+    "thumbnail": "https://cf.geekdo-images.com/JlY4u_H5nr8bs05XQWVoGw__small/img/YTiVBeiGJeE34GxyAwMoOMwAjqE=/fit-in/200x150/filters:strip_icc()/pic8185930.png",
+    "link": "https://boardgamegeek.com/thing/420498",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "90",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "8.35251",
+    "averageWeight": "2.9857",
+    "boardGameRank": "836",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck Construction",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "designers": [
+      "John D. Clair"
+    ]
+  }
+}

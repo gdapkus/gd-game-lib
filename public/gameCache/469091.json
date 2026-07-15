@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-15T16:47:08.393Z",
+  "gameDetails": {
+    "id": "469091",
+    "name": "Compile: Aux 3",
+    "type": "boardgameexpansion",
+    "description": "In the card game Compile, you are competing Artificial Intelligences trying to understand the world around you. Two players select three Protocols each to test. Concepts ranging from Darkness to Water are pitted against each other to reach ultimate understanding. Play cards into your Protocols' command lines to breach the threshold and defeat your opponent to Compile. First to Compile all three Protocols grasps those concepts to win the game.\n\nControl your opponent's Protocols with card actions, Compile your own as fast as possible, and Compile your reality.\nCompile: Aux 3 includes three new Protocols: Flexible, Inert, Rigid.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/OyhdRojX-nZLuvPYtms8lg__original/img/wZzW1RwRBPrdO_qRrpI6yfp-fcw=/0x0/filters:format(png)/pic9542239.png",
+    "thumbnail": "https://cf.geekdo-images.com/OyhdRojX-nZLuvPYtms8lg__small/img/itAwfJBimLZ9BY_hxHteI9F_j4g=/fit-in/200x150/filters:strip_icc()/pic9542239.png",
+    "link": "https://boardgamegeek.com/thing/469091",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2026",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "10",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Card Play Conflict Resolution",
+      "Deck Construction",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game"
+    ],
+    "designers": [
+      "Michael Yang"
+    ]
+  }
+}

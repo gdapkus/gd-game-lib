@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-07-15T16:59:27.517Z",
+  "gameDetails": {
+    "id": "454103",
+    "name": "Magical Athlete",
+    "type": "boardgame",
+    "description": "Magical Athlete is a racing game of pure chaos! Roll a die and move your racer that many spaces &mdash; but all the racers have wacky, game-breaking abilities. Race four times, then whoever has the most points wins!\n\nBefore the racing begins, players will draft the four racers they will have in the game and choose before each race which to use. Races alternate between the \"mild\" side of the board and the \"wild\" side of the board. A race ends once two racers have crossed the finish line &mdash; with, generally, only these two players receiving points.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/1uW8t9AkuqOF0xjv_sXKgw__original/img/iBRrCDdqyVY1ckqWIjo0xQ_k70A=/0x0/filters:format(png)/pic9106864.png",
+    "thumbnail": "https://cf.geekdo-images.com/1uW8t9AkuqOF0xjv_sXKgw__small/img/tWEmoT1EaoYUpbwrTGCLMHaaZGs=/fit-in/200x150/filters:strip_icc()/pic9106864.png",
+    "link": "https://boardgamegeek.com/thing/454103",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2025",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "7.8058",
+    "averageWeight": "1.1478",
+    "boardGameRank": "397",
+    "mechanics": [
+      "Open Drafting",
+      "Race",
+      "Roll / Spin and Move",
+      "Track Movement",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Animals",
+      "Dice",
+      "Racing"
+    ],
+    "designers": [
+      "Richard Garfield",
+      "Takashi Ishida"
+    ]
+  }
+}

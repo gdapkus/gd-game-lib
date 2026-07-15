@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-07-15T16:51:47.017Z",
+  "gameDetails": {
+    "id": "429405",
+    "name": "Orloj: The Prague Astronomical Clock",
+    "type": "boardgame",
+    "description": "From the heart of Prague&rsquo;s Old Town, the ancient Astronomical Clock, known as the Orloj, marks the passage of time with its intricate mechanism and enigmatic figures. A marvel of medieval technology that has endured to this day.\n\nIn this game, you take on the role of a master builder competing to leave your mark on history by adding the legendary and majestic calendar to the ancient Orloj. Precision, balance, and knowledge of the cosmos will be the keys to completing this complex task.\n\nWith every gear, sphere, and zodiac sign you assemble, you will be one step closer to finishing this masterpiece that will mark time in the city for generations.\n\nEach turn, players will place workers on the clock's dial to gain resources and perform actions with the goal of building the Orloj calendar. In addition to hiring assistants, during the game, players will construct the apostles' carillon and develop their knowledge across three tracks where experience will enhance their abilities.\n\nThe game will end when the calendar is completed. The player with the most harmony points will win the game.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/PhwbD--vP0xEdMD-WZlZTA__original/img/nqliFXBHqzHE-QR6Zg0CgcB2n-c=/0x0/filters:format(png)/pic8685899.png",
+    "thumbnail": "https://cf.geekdo-images.com/PhwbD--vP0xEdMD-WZlZTA__small/img/ju1B0GUZf3KZ8exbXZNBG3jrpDs=/fit-in/200x150/filters:strip_icc()/pic8685899.png",
+    "link": "https://boardgamegeek.com/thing/429405",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.95642",
+    "averageWeight": "3.6441",
+    "boardGameRank": "1251",
+    "mechanics": [
+      "Action Retrieval",
+      "End Game Bonuses",
+      "Rondel",
+      "Set Collection",
+      "Tech Trees / Tech Tracks",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Medieval",
+      "Renaissance"
+    ],
+    "designers": [
+      "Abraham Sanchez Hermida",
+      "Paloma J. Pascual"
+    ]
+  }
+}

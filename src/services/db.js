@@ -1,4 +1,4 @@
-const { Pool } = require('pg');
+const mysql = require('mysql2/promise');
 const fs = require('fs');
 const path = require('path');
 const { getGameDetails } = require('./trelloCards');
@@ -7,24 +7,35 @@ let pool;
 
 function buildConfig () {
   if (process.env.DATABASE_URL) {
+    // Parse MySQL connection string: mysql://user:pass@host:port/database
+    const url = new URL(process.env.DATABASE_URL);
     return {
-      connectionString: process.env.DATABASE_URL,
-      ssl: { rejectUnauthorized: false }
+      host: url.hostname,
+      port: parseInt(url.port, 10) || 3306,
+      database: url.pathname.substring(1),
+      user: url.username,
+      password: url.password,
+      ssl: url.searchParams.get('ssl') === 'true' ? { rejectUnauthorized: false } : undefined,
+      waitForConnections: true,
+      connectionLimit: 10,
+      queueLimit: 0
     };
   }
 
   return {
     host: process.env.DBSERVER,
-    port: parseInt(process.env.DBPORT, 10) || 5432,
+    port: parseInt(process.env.DBPORT, 10) || 3306,
     database: process.env.GAMELIBDB,
     user: process.env.DBUSER_ID,
     password: process.env.DBPASS,
-    ssl: { rejectUnauthorized: false }
+    ssl: process.env.DB_SSL === 'true' ? { rejectUnauthorized: false } : undefined,
+    waitForConnections: true,
+    connectionLimit: 10,
+    queueLimit: 0
   };
 }
 
 function hasConfig (cfg) {
-  if (cfg.connectionString) return true;
   return cfg.host && cfg.database && cfg.user && cfg.password;
 }
 
@@ -32,25 +43,25 @@ function getPool () {
   const config = buildConfig();
 
   if (!hasConfig(config)) {
-    console.warn('Postgres config incomplete; skipping DB connection.');
+    console.warn('MySQL config incomplete; skipping DB connection.');
     return null;
   }
 
   if (!pool) {
-    pool = new Pool(config);
+    pool = mysql.createPool(config);
   }
 
   return pool;
 }
 
 async function fetchUsersFromDb () {
-  const pgPool = getPool();
-  if (!pgPool) {
+  const mysqlPool = getPool();
+  if (!mysqlPool) {
     return null;
   }
 
   try {
-    const result = await pgPool.query(`
+    const [rows] = await mysqlPool.query(`
       SELECT
         bgg_userid AS userid,
         username,
@@ -58,11 +69,11 @@ async function fetchUsersFromDb () {
         altname,
         color,
         avatar_url
-      FROM public.users
-      ORDER BY display_name, username;
+      FROM users
+      ORDER BY display_name, username
     `);
 
-    return result.rows.map(user => ({
+    return rows.map(user => ({
       name: user.display_name || user.username,
       username: user.username,
       userid: user.userid,
@@ -71,14 +82,14 @@ async function fetchUsersFromDb () {
       avatarUrl: user.avatar_url || ''
     }));
   } catch (error) {
-    console.error('Failed to fetch users from Postgres:', error.message);
+    console.error('Failed to fetch users from MySQL:', error.message);
     return null;
   }
 }
 
 async function ensureGamesAndCollections ({ userId, collections, cacheDir = 'public/gameCache', collectionTimestamp }) {
-  const pgPool = getPool();
-  if (!pgPool) {
+  const mysqlPool = getPool();
+  if (!mysqlPool) {
     console.warn('DB unavailable; skipping collections sync.');
     return { gamesUpserted: 0, collectionsUpserted: 0 };
   }
@@ -118,12 +129,12 @@ async function ensureGamesAndCollections ({ userId, collections, cacheDir = 'pub
     return null;
   }
 
-  const client = await pgPool.connect();
+  const connection = await mysqlPool.getConnection();
   let gamesUpserted = 0;
   let collectionsUpserted = 0;
 
   try {
-    await client.query('BEGIN');
+    await connection.beginTransaction();
 
     for (const entry of collections) {
       const gameDetails = await loadGameDetailsFromCacheOrApi(entry.id);
@@ -132,34 +143,39 @@ async function ensureGamesAndCollections ({ userId, collections, cacheDir = 'pub
         const bestAtCountText = Array.isArray(gameDetails.bestAtCount)
           ? gameDetails.bestAtCount.join(', ')
           : (gameDetails.bestAtCount || null);
-        const gameResult = await client.query(
+
+        // Convert arrays to JSON for MySQL storage
+        const mechanicsJson = Array.isArray(gameDetails.mechanics) ? JSON.stringify(gameDetails.mechanics) : '[]';
+        const categoriesJson = Array.isArray(gameDetails.categories) ? JSON.stringify(gameDetails.categories) : '[]';
+        const designersJson = Array.isArray(gameDetails.designers) ? JSON.stringify(gameDetails.designers) : '[]';
+
+        const [gameResult] = await connection.query(
           `INSERT INTO games (
             bgg_id, name, postdate, lastmodified, myrating, numplays,
             thumbnail_url, link, min_players, max_players, best_at_count_text,
             playing_time, average_rating, average_weight, boardgame_rank,
             mechanics, categories, designers, source_timestamp
           )
-           VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19)
-           ON CONFLICT (bgg_id) DO UPDATE SET
-             name = EXCLUDED.name,
-             postdate = EXCLUDED.postdate,
-             lastmodified = EXCLUDED.lastmodified,
-             myrating = EXCLUDED.myrating,
-             numplays = EXCLUDED.numplays,
-             thumbnail_url = EXCLUDED.thumbnail_url,
-             link = EXCLUDED.link,
-             min_players = EXCLUDED.min_players,
-             max_players = EXCLUDED.max_players,
-             playing_time = EXCLUDED.playing_time,
-             average_rating = EXCLUDED.average_rating,
-             average_weight = EXCLUDED.average_weight,
-             boardgame_rank = EXCLUDED.boardgame_rank,
-             best_at_count_text = EXCLUDED.best_at_count_text,
-             mechanics = EXCLUDED.mechanics,
-             categories = EXCLUDED.categories,
-             designers = EXCLUDED.designers,
-             source_timestamp = EXCLUDED.source_timestamp
-           RETURNING bgg_id;`,
+           VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+           ON DUPLICATE KEY UPDATE
+             name = VALUES(name),
+             postdate = VALUES(postdate),
+             lastmodified = VALUES(lastmodified),
+             myrating = VALUES(myrating),
+             numplays = VALUES(numplays),
+             thumbnail_url = VALUES(thumbnail_url),
+             link = VALUES(link),
+             min_players = VALUES(min_players),
+             max_players = VALUES(max_players),
+             playing_time = VALUES(playing_time),
+             average_rating = VALUES(average_rating),
+             average_weight = VALUES(average_weight),
+             boardgame_rank = VALUES(boardgame_rank),
+             best_at_count_text = VALUES(best_at_count_text),
+             mechanics = VALUES(mechanics),
+             categories = VALUES(categories),
+             designers = VALUES(designers),
+             source_timestamp = VALUES(source_timestamp)`,
           [
             bggId,
             gameDetails.name,
@@ -176,40 +192,40 @@ async function ensureGamesAndCollections ({ userId, collections, cacheDir = 'pub
             gameDetails.averageRating ? parseFloat(gameDetails.averageRating) || null : null,
             gameDetails.averageWeight ? parseFloat(gameDetails.averageWeight) || null : null,
             gameDetails.boardGameRank ? parseInt(gameDetails.boardGameRank, 10) || null : null,
-            Array.isArray(gameDetails.mechanics) ? gameDetails.mechanics : [],
-            Array.isArray(gameDetails.categories) ? gameDetails.categories : [],
-            Array.isArray(gameDetails.designers) ? gameDetails.designers : [],
+            mechanicsJson,
+            categoriesJson,
+            designersJson,
             toDateOrNull(gameDetails.sourceTimestamp) || new Date()
           ]
         );
 
-        gamesUpserted += gameResult.rowCount || 0;
+        gamesUpserted += gameResult.affectedRows || 0;
         const gameId = bggId;
 
-        await client.query(
+        await connection.query(
           `INSERT INTO collections (
             collid, bgg_userid, game_id, postdate, lastmodified, numplays,
             own, prevowned, fortrade, want, wanttoplay, wanttobuy, wishlist,
             wishlistpriority, preordered, user_rating, rating_timestamp, source_timestamp
           ) VALUES (
-            $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18
+            ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
           )
-          ON CONFLICT (collid) DO UPDATE SET
-            postdate = EXCLUDED.postdate,
-            lastmodified = EXCLUDED.lastmodified,
-            numplays = EXCLUDED.numplays,
-            own = EXCLUDED.own,
-            prevowned = EXCLUDED.prevowned,
-            fortrade = EXCLUDED.fortrade,
-            want = EXCLUDED.want,
-            wanttoplay = EXCLUDED.wanttoplay,
-            wanttobuy = EXCLUDED.wanttobuy,
-            wishlist = EXCLUDED.wishlist,
-            wishlistpriority = EXCLUDED.wishlistpriority,
-            preordered = EXCLUDED.preordered,
-            user_rating = EXCLUDED.user_rating,
-            rating_timestamp = EXCLUDED.rating_timestamp,
-            source_timestamp = EXCLUDED.source_timestamp;`,
+          ON DUPLICATE KEY UPDATE
+            postdate = VALUES(postdate),
+            lastmodified = VALUES(lastmodified),
+            numplays = VALUES(numplays),
+            own = VALUES(own),
+            prevowned = VALUES(prevowned),
+            fortrade = VALUES(fortrade),
+            want = VALUES(want),
+            wanttoplay = VALUES(wanttoplay),
+            wanttobuy = VALUES(wanttobuy),
+            wishlist = VALUES(wishlist),
+            wishlistpriority = VALUES(wishlistpriority),
+            preordered = VALUES(preordered),
+            user_rating = VALUES(user_rating),
+            rating_timestamp = VALUES(rating_timestamp),
+            source_timestamp = VALUES(source_timestamp)`,
           [
             parseInt(entry.collid, 10),
             parseInt(userId, 10),
@@ -236,13 +252,13 @@ async function ensureGamesAndCollections ({ userId, collections, cacheDir = 'pub
       }
     }
 
-    await client.query('COMMIT');
+    await connection.commit();
   } catch (error) {
-    await client.query('ROLLBACK');
+    await connection.rollback();
     console.error('Failed to upsert collections into DB:', error.message);
     throw error;
   } finally {
-    client.release();
+    connection.release();
   }
 
   console.log(`DB sync complete: ${gamesUpserted} games, ${collectionsUpserted} collections.`);

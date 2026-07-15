@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-07-15T16:51:05.277Z",
+  "gameDetails": {
+    "id": "430166",
+    "name": "Galileo Galilei: Edmond Halley Promo",
+    "type": "boardgameexpansion",
+    "description": "Enhance your base game by adding the Edmond Halley character. Utilize his unique comet ability to make the advanced game mode even more dynamic and challenging!\n\nThe new hero ability is:\n\nHalley has three personal comet spaces and one special comet tile. The comet spaces are:\n\n- give a lecturers gain one quadrant\n- increase two of your dice by 3\n- gain 7 points\n\nHalley&rsquo;s Comet as two attributes.\nIt has value 2 on the starting side and value 3 on the flipped side. You use it the same way as other comets while observing.\nWhen you use it for the second time you may place it on your personal comet spaces or on the home board.\n\nWhen you trigger a \"spot a comet\" action, you may use this comet instead of one on your player board. This allows you to use this comet multiple times. Once you take it from a comet space it was placed on, the reward on it becomes available again. This applies even for your personal comet pages.\n\n",
+    "image": "https://cf.geekdo-images.com/TkotOSZGHI801iuvfzzyEQ__original/img/eVcrz7-M9nDLnsTexExSkyzJR9U=/0x0/filters:format(jpeg)/pic8464304.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TkotOSZGHI801iuvfzzyEQ__small/img/U0BRukJynotCWZ__E8A0l7Fpwjc=/fit-in/200x150/filters:strip_icc()/pic8464304.jpg",
+    "link": "https://boardgamegeek.com/thing/430166",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "100",
+    "minPlayingTime": "50",
+    "maxPlayingTime": "100",
+    "bestAtCount": null,
+    "averageRating": "7.63032",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": []
+  }
+}

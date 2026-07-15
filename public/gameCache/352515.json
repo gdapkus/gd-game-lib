@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-15T16:52:13.179Z",
+  "gameDetails": {
+    "id": "352515",
+    "name": "Trio",
+    "type": "boardgame",
+    "description": "nana, which was later reprinted as Trio, is a card game in which players are looking for three of a kind.\n\nThe deck consists of 36 cards, numbered 1-12 three times. Players receive some cards in hand, which they are required to sort from low to high, and the remaining cards are placed face down on the table.\n\nOn your turn, choose any single card to reveal, either the low or high card from a player's hand (including your own) or any face-down card from the table. Then, do this again. If the two cards show the same number, continue your turn; if they do not, return the cards to where they came from and end your turn.\n\nIf you reveal three cards showing the same number, take these cards as a set in front of you. If you are the first player to collect three sets, you win &mdash; except that a player wins immediately if they collect the set of 7s or two sets that add or subtract to 7, e.g., 4s and 11s.\n\nNote that nana and Trio contain identical components, but nana is labeled for 2-5 players, while Trio is labeled for 3-6 players. Trio has slight changes to the rules, with players using all cards no matter the player count. Additionally, you play in normal mode &mdash; winning with three sets or the 7s &mdash; or \"spicy\" mode, winning with two linked sets or the 7s. Finally, Trio includes rules for playing in teams with four or six players.\n\n",
+    "image": "https://cf.geekdo-images.com/d9F0ZDqcN3J7J92WckyraQ__original/img/3OAIArHm3Z_j5bAJeJlU5LKQie0=/0x0/filters:format(jpeg)/pic7605785.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/d9F0ZDqcN3J7J92WckyraQ__small/img/8d663Cj-RQy8pA8gZOcO80xYI5I=/fit-in/200x150/filters:strip_icc()/pic7605785.jpg",
+    "link": "https://boardgamegeek.com/thing/352515",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2021",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.38641",
+    "averageWeight": "1.0739",
+    "boardGameRank": "489",
+    "mechanics": [
+      "Matching",
+      "Memory",
+      "Questions and Answers",
+      "Set Collection"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Memory"
+    ],
+    "designers": [
+      "宮野 華也 (Kaya Miyano)"
+    ]
+  }
+}

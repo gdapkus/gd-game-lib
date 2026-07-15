@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-15T16:47:55.276Z",
+  "gameDetails": {
+    "id": "468181",
+    "name": "More Containers",
+    "type": "boardgameexpansion",
+    "description": "More Containers includes... more containers! Plus other brand-new modules and updated fan favorites from the classic game.\n\nPlayer Loans\nEach player now holds two loan cards. Any player seeking a loan must first approach fellow players instead of the bank. The lender collects interest, creating tense new negotiation opportunities.\n\nLuxury Containers\nAdd 10 golden containers to the game with new scoring rules as they escalate in value. Players can trade in any two containers to upgrade into a gold container. And yes, they're metal to match the Deluxe Edition!\n\nTrucking Expansion\nEver wonder how containers move from factories to warehouses? With trucks, of course! Each player gains a trucking board that earns $1 whenever goods are transported. These trucking companies accumulate wealth and can be auctioned off, giving their new owner both the current cash and all future shipping income.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/90mBTr7byh16dKQIAGYUvA__original/img/hUF9KmQWe0OdlhR3mJ8spM42V-E=/0x0/filters:format(jpeg)/pic9506830.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/90mBTr7byh16dKQIAGYUvA__small/img/dQZ6BwbjORmvaSsLUwjbZl4H_KI=/fit-in/200x150/filters:strip_icc()/pic9506830.jpg",
+    "link": "https://boardgamegeek.com/thing/468181",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2026",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "8.12172",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Closed Economy Auction",
+      "Commodity Speculation",
+      "Loans",
+      "Pick-up and Deliver",
+      "Set Collection"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Economic",
+      "Industry / Manufacturing",
+      "Transportation"
+    ],
+    "designers": [
+      "Kevin Nesbitt"
+    ]
+  }
+}

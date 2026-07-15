@@ -1,6 +1,2600 @@
 {
-  "timestamp": "2026-01-09T07:22:51.519Z",
+  "timestamp": "2026-07-15T17:42:54.297Z",
   "games": [
+    {
+      "id": "454103",
+      "name": "Magical Athlete",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-03-06 13:44:04",
+      "lastmodified": "2026-07-01 16:10:45",
+      "myrating": null,
+      "numplays": "4",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/1uW8t9AkuqOF0xjv_sXKgw__small/img/tWEmoT1EaoYUpbwrTGCLMHaaZGs=/fit-in/200x150/filters:strip_icc()/pic9106864.png",
+      "link": "https://boardgamegeek.com/thing/454103",
+      "minPlayers": "2",
+      "maxPlayers": "6",
+      "bestAtCount": "5, 6",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.8058",
+      "averageWeight": "1.1478",
+      "boardGameRank": "397",
+      "mechanics": [
+        "Open Drafting",
+        "Race",
+        "Roll / Spin and Move",
+        "Track Movement",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Animals",
+        "Dice",
+        "Racing"
+      ],
+      "designers": [
+        "Richard Garfield",
+        "Takashi Ishida"
+      ]
+    },
+    {
+      "id": "445044",
+      "name": "Wispwood",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-06-30 17:44:16",
+      "lastmodified": "2026-06-30 17:44:16",
+      "myrating": null,
+      "numplays": "1",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/OymEgib8Sh3Mhup64pJX-A__small/img/wXH1XB5k_jQ8-oZdkcaSbdVzcjo=/fit-in/200x150/filters:strip_icc()/pic8857307.jpg",
+      "link": "https://boardgamegeek.com/thing/445044",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.53792",
+      "averageWeight": "2",
+      "boardGameRank": "6465",
+      "mechanics": [
+        "Grid Coverage",
+        "Open Drafting",
+        "Pattern Building",
+        "Score-and-Reset Game",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Tile Placement"
+      ],
+      "categories": [
+        "Abstract Strategy",
+        "Fantasy"
+      ],
+      "designers": [
+        "Reed Ambrose"
+      ]
+    },
+    {
+      "id": "466595",
+      "name": "Earthborne Rangers: Shadow of the Storm Expansion",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-25 19:42:57",
+      "lastmodified": "2026-06-25 19:42:57",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/f58MVI6k3lKu_BPIEwywkA__small/img/Hl880OYOrQIgiVy_L7VmxAD5h_4=/fit-in/200x150/filters:strip_icc()/pic9485920.jpg",
+      "link": "https://boardgamegeek.com/thing/466595",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.68182",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": []
+    },
+    {
+      "id": "457240",
+      "name": "Earthborne Rangers: Moments in the Valley",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-25 19:42:42",
+      "lastmodified": "2026-06-25 19:42:42",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Cx8oQwGKdhzruEnz8Pc4GA__small/img/3VOJrGypO3C4ZnyyQ6rq67VGgW4=/fit-in/200x150/filters:strip_icc()/pic9210379.jpg",
+      "link": "https://boardgamegeek.com/thing/457240",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.65588",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": []
+    },
+    {
+      "id": "457239",
+      "name": "Earthborne Rangers: Spire in Bloom Valley Expansion",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-25 19:42:27",
+      "lastmodified": "2026-06-25 19:42:27",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/YiEA9ixzvK4WwzCOGWQQnA__small/img/yp5laQLmvX7TrbDEMIwnx0cP6-s=/fit-in/200x150/filters:strip_icc()/pic9203315.jpg",
+      "link": "https://boardgamegeek.com/thing/457239",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.77925",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": []
+    },
+    {
+      "id": "469660",
+      "name": "Marvel Champions: The Card Game – Fear No Evil Expansion",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-25 19:41:22",
+      "lastmodified": "2026-06-25 19:41:22",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/v40UUE1KyZoejQVc8npRSQ__small/img/u6EUQ63GM0YmGf6k65MnUoN58CM=/fit-in/200x150/filters:strip_icc()/pic9628571.png",
+      "link": "https://boardgamegeek.com/thing/469660",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.33333",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Comic Book / Strip"
+      ],
+      "designers": [
+        "Frank Brooks",
+        "Tony Fanchi",
+        "Aaron Haltom"
+      ]
+    },
+    {
+      "id": "470890",
+      "name": "Arkham Horror: The Card Game – Children of Blood Small Campaign Expansion",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-25 19:40:58",
+      "lastmodified": "2026-06-25 19:40:58",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/tuRhnHSF7gZOEaz5hYXMiA__small/img/xSeH8M2XL0NoyDOQMWqigi25Sxw=/fit-in/200x150/filters:strip_icc()/pic9647362.jpg",
+      "link": "https://boardgamegeek.com/thing/470890",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "9",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Horror"
+      ],
+      "designers": []
+    },
+    {
+      "id": "469532",
+      "name": "Earthborne Trailblazer",
+      "yearPublished": "2027",
+      "type": "boardgame",
+      "postdate": "2026-06-25 19:36:49",
+      "lastmodified": "2026-06-25 19:36:49",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/r_nyI9ng8aMRNk6k5XsJPA__small/img/lYlAbGOjdLjOiXuw3Zinrskvbf4=/fit-in/200x150/filters:strip_icc()/pic9593360.jpg",
+      "link": "https://boardgamegeek.com/thing/469532",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "7.66667",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Adventure",
+        "Environmental",
+        "Exploration",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Andrew Fischer",
+        "MJ Newman"
+      ]
+    },
+    {
+      "id": "463072",
+      "name": "Marvel Champions: The Card Game – Hercules Hero Pack",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-12 17:33:15",
+      "lastmodified": "2026-06-25 19:35:24",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/nNqcaGqpAzg4Blo16IlEpQ__small/img/pzBoRbhXRGfE5GbllbPM8gz0wfA=/fit-in/200x150/filters:strip_icc()/pic9362492.png",
+      "link": "https://boardgamegeek.com/thing/463072",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "8.24203",
+      "averageWeight": "4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Comic Book / Strip",
+        "Mythology"
+      ],
+      "designers": [
+        "Michael Boggs",
+        "Caleb Grace"
+      ]
+    },
+    {
+      "id": "463073",
+      "name": "Marvel Champions: The Card Game – Wonder Man Hero Pack",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-12 17:33:30",
+      "lastmodified": "2026-06-25 19:35:02",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/IzcXteq0G5VD-1NpJkYZsA__small/img/edYCRBYg2vCOnhW6X-CH9b15dro=/fit-in/200x150/filters:strip_icc()/pic9362494.png",
+      "link": "https://boardgamegeek.com/thing/463073",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "8.36324",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Comic Book / Strip"
+      ],
+      "designers": [
+        "Michael Boggs",
+        "Caleb Grace"
+      ]
+    },
+    {
+      "id": "455768",
+      "name": "Ashes Reborn: Red Rains – The End of Argaia",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-17 14:29:08",
+      "lastmodified": "2026-06-25 19:34:52",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/D9r6GooYRxetpuSR6QpMnA__small/img/JpUg928GzpAif4hdDepqmY1-OQE=/fit-in/200x150/filters:strip_icc()/pic9146632.jpg",
+      "link": "https://boardgamegeek.com/thing/455768",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "N/A",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "8.725",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Cooperative Game",
+        "Deck Construction",
+        "Dice Rolling",
+        "Die Icon Resolution",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Dice"
+      ],
+      "designers": [
+        "Nick Conley"
+      ]
+    },
+    {
+      "id": "431716",
+      "name": "Ashes Reborn: Red Rains – The Flood of Moon Cove",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-09-16 10:42:40",
+      "lastmodified": "2026-06-25 19:34:45",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/XhZ0ifJJoLtWnTXdUWUVWA__small/img/AUZSDqgF2vuYt2bte76xCWi8Fiw=/fit-in/200x150/filters:strip_icc()/pic8508627.png",
+      "link": "https://boardgamegeek.com/thing/431716",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "N/A",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "8.83684",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Cooperative Game",
+        "Deck Construction",
+        "Die Icon Resolution"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Dice"
+      ],
+      "designers": [
+        "Nick Conley",
+        "Isaac Vega"
+      ]
+    },
+    {
+      "id": "423909",
+      "name": "Ashes Reborn: Red Rains – The Spawn of Shadowreck",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-09-16 10:42:35",
+      "lastmodified": "2026-06-25 19:34:41",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/m9KAKC5zYAmhUu2RTWAlqw__small/img/jk9qRTLwecFETpmIe2J7FAjVT0M=/fit-in/200x150/filters:strip_icc()/pic8282757.png",
+      "link": "https://boardgamegeek.com/thing/423909",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "N/A",
+      "playingTime": "60",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "60",
+      "averageRating": "8.67179",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Cooperative Game",
+        "Deck Construction",
+        "Dice Rolling"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Dice"
+      ],
+      "designers": [
+        "Nick Conley",
+        "Isaac Vega"
+      ]
+    },
+    {
+      "id": "445048",
+      "name": "SETI: Space Agencies",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 20:43:24",
+      "lastmodified": "2026-06-25 19:33:57",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/JMLgq_A4OE_dX423FeFcPA__small/img/L0iyv7R4pYVqA6KX5Ox6RNnpugk=/fit-in/200x150/filters:strip_icc()/pic8857305.png",
+      "link": "https://boardgamegeek.com/thing/445048",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "160",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "160",
+      "averageRating": "8.66754",
+      "averageWeight": "3.6",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "End Game Bonuses",
+        "Income",
+        "Multi-Use Cards",
+        "Resource to Move",
+        "Solo / Solitaire Game",
+        "Turn Order: Progressive",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "306634",
+      "name": "Obsession: Promotional Tiles",
+      "yearPublished": "2020",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 20:46:26",
+      "lastmodified": "2026-06-25 19:29:32",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/mPiqhg2vmhu3JjVF2pgzoQ__thumb/img/B-wyZsD5Tdo-jEsO2nrCWTXCg00=/fit-in/200x150/filters:strip_icc()/pic5330365.jpg",
+      "link": "https://boardgamegeek.com/thing/306634",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "8.19714",
+      "averageWeight": "3.6667",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Open Drafting",
+        "Tile Placement",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Post-Napoleonic"
+      ],
+      "designers": [
+        "Dan Hallagan"
+      ]
+    },
+    {
+      "id": "397067",
+      "name": "Obsession: Characters Expansion",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 20:44:12",
+      "lastmodified": "2026-06-25 19:29:24",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/C9QYHzZehraLO2aQXPk85Q__small/img/VVj6CM-VchhqYe9dQKvk0mKZPsg=/fit-in/200x150/filters:strip_icc()/pic7655454.jpg",
+      "link": "https://boardgamegeek.com/thing/397067",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "N/A",
+      "playingTime": "180",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "180",
+      "averageRating": "8.36789",
+      "averageWeight": "3.3333",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Open Drafting",
+        "Solo / Solitaire Game",
+        "Worker Placement, Different Worker Types"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Post-Napoleonic"
+      ],
+      "designers": [
+        "Dan Hallagan"
+      ]
+    },
+    {
+      "id": "279067",
+      "name": "Obsession: Upstairs, Downstairs",
+      "yearPublished": "2020",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 20:44:32",
+      "lastmodified": "2026-06-25 19:29:16",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/bSiHZ0SWDXTihJQoiZHR1w__thumb/img/efpwE49Uvscc-oponflLtGag8Ks=/fit-in/200x150/filters:strip_icc()/pic4879951.png",
+      "link": "https://boardgamegeek.com/thing/279067",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "2",
+      "playingTime": "90",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "90",
+      "averageRating": "8.62949",
+      "averageWeight": "3.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Open Drafting",
+        "Tile Placement",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Post-Napoleonic"
+      ],
+      "designers": [
+        "Dan Hallagan"
+      ]
+    },
+    {
+      "id": "469090",
+      "name": "Compile: Main 3",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-06-17 14:29:41",
+      "lastmodified": "2026-06-17 14:29:41",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/0XkTEC61RNb9887VOY9JVg__small/img/U8deO5QgW6vgTy9IVU5PMJlJSbY=/fit-in/200x150/filters:strip_icc()/pic9554555.png",
+      "link": "https://boardgamegeek.com/thing/469090",
+      "minPlayers": "1",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "40",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "40",
+      "averageRating": "9.33333",
+      "averageWeight": "2.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Card Play Conflict Resolution",
+        "Deck Construction",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Open Drafting",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "469091",
+      "name": "Compile: Aux 3",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-06-17 14:29:26",
+      "lastmodified": "2026-06-17 14:29:27",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/OyhdRojX-nZLuvPYtms8lg__small/img/itAwfJBimLZ9BY_hxHteI9F_j4g=/fit-in/200x150/filters:strip_icc()/pic9542239.png",
+      "link": "https://boardgamegeek.com/thing/469091",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "10",
+      "averageWeight": "3",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence",
+        "Card Play Conflict Resolution",
+        "Deck Construction",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Open Drafting"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "425549",
+      "name": "Moon Colony Bloodbath",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-06-05 14:52:13",
+      "lastmodified": "2026-06-05 14:52:13",
+      "myrating": null,
+      "numplays": "2",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/KDrRxEKQMmHyM0QQ2ONX4Q__small/img/EusjojuWYxwkxaP7eAnaBn1QzLg=/fit-in/200x150/filters:strip_icc()/pic8638247.jpg",
+      "link": "https://boardgamegeek.com/thing/425549",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "90",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "90",
+      "averageRating": "7.59374",
+      "averageWeight": "2.1702",
+      "boardGameRank": "1333",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Delayed Purchase",
+        "Events",
+        "Simultaneous Action Selection",
+        "Variable Phase Order"
+      ],
+      "categories": [
+        "Card Game",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Donald X. Vaccarino"
+      ]
+    },
+    {
+      "id": "467414",
+      "name": "Arkham Horror: The Card Game – Miguel de la Cruz Investigator Deck",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-04-19 21:50:25",
+      "lastmodified": "2026-05-01 12:31:07",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/7pNkWyG5GoNm9HCGxXhARA__small/img/SEvPDZ_XvmI9XBNzLmi5vLvpNV4=/fit-in/200x150/filters:strip_icc()/pic9528048.jpg",
+      "link": "https://boardgamegeek.com/thing/467414",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.69571",
+      "averageWeight": "3.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+      ],
+      "designers": []
+    },
+    {
+      "id": "467412",
+      "name": "Arkham Horror: The Card Game – Marie Lambeau Investigator Deck",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-04-19 21:50:31",
+      "lastmodified": "2026-05-01 12:31:02",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/A_oKAZM03hUgLLcdZ855pA__small/img/Gc1UCdlTH2erRf_-0zsvNNhZps0=/fit-in/200x150/filters:strip_icc()/pic9528053.jpg",
+      "link": "https://boardgamegeek.com/thing/467412",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.81",
+      "averageWeight": "3.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Farming",
+        "Horror",
+        "Novel-based"
+      ],
+      "designers": []
+    },
+    {
+      "id": "467399",
+      "name": "Arkham Horror: The Card Game – André Patel Investigator Deck",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-04-19 21:50:37",
+      "lastmodified": "2026-05-01 12:30:57",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/96YyrvzM4D3tywQlOwEumw__small/img/_gDGZE-9pN2_E3Yo0tkUAOv9uTM=/fit-in/200x150/filters:strip_icc()/pic9528054.jpg",
+      "link": "https://boardgamegeek.com/thing/467399",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.79805",
+      "averageWeight": "3.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+      ],
+      "designers": [
+        "Waleed Ma'arouf"
+      ]
+    },
+    {
+      "id": "467397",
+      "name": "Arkham Horror: The Card Game – Carolyn Fern Investigator Deck",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-04-19 21:50:44",
+      "lastmodified": "2026-05-01 12:30:52",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/pEIMM5IVZ1vMc9QA5p9C7w__small/img/5EnqrzENiP6eEWBy1-0d5x6VDv8=/fit-in/200x150/filters:strip_icc()/pic9528055.jpg",
+      "link": "https://boardgamegeek.com/thing/467397",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.63345",
+      "averageWeight": "3.6667",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+      ],
+      "designers": []
+    },
+    {
+      "id": "467396",
+      "name": "Arkham Horror: The Card Game – Tommy Muldoon Investigator Deck",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-04-19 21:50:51",
+      "lastmodified": "2026-05-01 12:30:45",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/wSh9VYGPSFlfPCdnc_mtrA__small/img/KR1MNKD7J2V1T1j8asebb_-xPXg=/fit-in/200x150/filters:strip_icc()/pic9528052.jpg",
+      "link": "https://boardgamegeek.com/thing/467396",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.72976",
+      "averageWeight": "3.6667",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Cooperative Game",
+        "Deck Construction",
+        "Hand Management",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+      ],
+      "designers": []
+    },
+    {
+      "id": "463126",
+      "name": "Arkham Horror: The Card Game",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-04-19 21:51:11",
+      "lastmodified": "2026-05-01 12:30:38",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/4rSTpEREatouARImn14VDA__small/img/iuR8GUpKI96Kbg5OlwkiT1YBlqE=/fit-in/200x150/filters:strip_icc()/pic9361246.png",
+      "link": "https://boardgamegeek.com/thing/463126",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.70114",
+      "averageWeight": "3.8462",
+      "boardGameRank": "2206",
+      "mechanics": [
+        "Action Points",
+        "Area Movement",
+        "Communication Limits",
+        "Cooperative Game",
+        "Deck Construction",
+        "Events",
+        "Hand Management",
+        "Map Deformation",
+        "Modular Board",
+        "Player Elimination",
+        "Role Playing",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Stat Check Resolution",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Card Game",
+        "Exploration",
+        "Horror",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Nate French",
+        "Josiah Harrist",
+        "Nicholas Kory",
+        "MJ Newman"
+      ]
+    },
+    {
+      "id": "453918",
+      "name": "Star Wars: The Deckbuilding Game – Mandalorian Faction Pack",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-04-29 12:02:02",
+      "lastmodified": "2026-04-29 12:02:02",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/kfFVVstVXNGyfs5UGw7QTQ__small/img/aUkRCzwpSH2j6P-sv3XCWKr9sD0=/fit-in/200x150/filters:strip_icc()/pic9292165.jpg",
+      "link": "https://boardgamegeek.com/thing/453918",
+      "minPlayers": "2",
+      "maxPlayers": "3",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "8.36653",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Open Drafting",
+        "Tug of War"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Movies / TV / Radio theme",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Caleb Grace"
+      ]
+    },
+    {
+      "id": "418059",
+      "name": "SETI: Search for Extraterrestrial Intelligence",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2026-01-27 20:42:57",
+      "lastmodified": "2026-04-26 01:06:21",
+      "myrating": null,
+      "numplays": "13",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__thumb/img/icamIZ4nP3HHH3vczZqTr1hQgKY=/fit-in/200x150/filters:strip_icc()/pic8160466.jpg",
+      "link": "https://boardgamegeek.com/thing/418059",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "160",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "160",
+      "averageRating": "8.37872",
+      "averageWeight": "3.7",
+      "boardGameRank": "433",
+      "mechanics": [
+        "End Game Bonuses",
+        "Income",
+        "Multi-Use Cards",
+        "Resource to Move",
+        "Solo / Solitaire Game",
+        "Turn Order: Progressive",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "245392",
+      "name": "Obsession: Wessex Expansion",
+      "yearPublished": "2018",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 20:44:42",
+      "lastmodified": "2026-04-26 01:05:45",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/jWAwPVPCrymaT2C2CnlG5Q__thumb/img/eqWLHHkZsXk48ESxbOuagIcwiXI=/fit-in/200x150/filters:strip_icc()/pic4238863.png",
+      "link": "https://boardgamegeek.com/thing/245392",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1, 2",
+      "playingTime": "90",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "90",
+      "averageRating": "8.34416",
+      "averageWeight": "3.1111",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Open Drafting",
+        "Tile Placement",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Post-Napoleonic"
+      ],
+      "designers": [
+        "Dan Hallagan"
+      ]
+    },
+    {
+      "id": "448997",
+      "name": "Marvel Champions: The Card Game – Civil War Expansion",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-08-28 11:37:03",
+      "lastmodified": "2026-04-20 13:31:46",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/8Cw12ImHtX0NFcf3XCvRng__small/img/H1pt0HERY_6z51OqEQMnEw8ODvY=/fit-in/200x150/filters:strip_icc()/pic8957966.png",
+      "link": "https://boardgamegeek.com/thing/448997",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.22973",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game"
+      ],
+      "designers": []
+    },
+    {
+      "id": "440715",
+      "name": "Underwater Cities: Data Era",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-02-02 11:55:39",
+      "lastmodified": "2026-04-04 15:45:55",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/6jth2BLeLCWhOzRV6zbBow__small/img/uV6JB0VvtO0B0X3xCWulhwrPT1g=/fit-in/200x150/filters:strip_icc()/pic8974495.jpg",
+      "link": "https://boardgamegeek.com/thing/440715",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "150",
+      "minPlayingTime": "80",
+      "maxPlayingTime": "150",
+      "averageRating": "8.44804",
+      "averageWeight": "3.0909",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "End Game Bonuses",
+        "Hand Management",
+        "Income",
+        "Network and Route Building",
+        "Solo / Solitaire Game",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "City Building",
+        "Civilization",
+        "Industry / Manufacturing",
+        "Nautical",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Vladimír Suchý"
+      ]
+    },
+    {
+      "id": "8217",
+      "name": "San Juan",
+      "yearPublished": "2004",
+      "type": "boardgame",
+      "postdate": "2005-10-04 07:16:42",
+      "lastmodified": "2026-04-01 21:50:04",
+      "myrating": 10,
+      "numplays": "13",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/kiD03bslLpN_0Qe1LJ8OGg__thumb/img/VD6xhahkv4SR87FYOoQS9rKOpvo=/fit-in/200x150/filters:strip_icc()/pic174174.jpg",
+      "link": "https://boardgamegeek.com/thing/8217",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "60",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "60",
+      "averageRating": "7.23171",
+      "averageWeight": "2.2851",
+      "boardGameRank": "408",
+      "mechanics": [
+        "Action Drafting",
+        "Follow",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Set Collection",
+        "Variable Phase Order"
+      ],
+      "categories": [
+        "Card Game",
+        "City Building",
+        "Economic"
+      ],
+      "designers": [
+        "Andreas Seyfarth"
+      ]
+    },
+    {
+      "id": "443932",
+      "name": "Aquaria",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-02-08 14:56:33",
+      "lastmodified": "2026-02-08 14:56:33",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/44BwMuvFoPjaHHmLZH8sGQ__small/img/ckCn6SFSeTdK_sE7njUJYQ0rPLw=/fit-in/200x150/filters:strip_icc()/pic8822242.jpg",
+      "link": "https://boardgamegeek.com/thing/443932",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "120",
+      "minPlayingTime": "45",
+      "maxPlayingTime": "120",
+      "averageRating": "7.17474",
+      "averageWeight": "3.075",
+      "boardGameRank": "4249",
+      "mechanics": [
+        "End Game Bonuses",
+        "Hand Management",
+        "Set Collection",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Animals",
+        "Card Game",
+        "Puzzle"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "61492",
+      "name": "Space Alert: The New Frontier",
+      "yearPublished": "2010",
+      "type": "boardgameexpansion",
+      "postdate": "2026-02-01 13:25:52",
+      "lastmodified": "2026-02-01 13:25:52",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 1,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/p5F-zCytffVVF6NUwCDuJg__thumb/img/CUJDrYBh7GL94ZLbJr1QxZXV5gc=/fit-in/200x150/filters:strip_icc()/pic830924.jpg",
+      "link": "https://boardgamegeek.com/thing/61492",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "4, 5",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "8.43811",
+      "averageWeight": "3.3333",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Queue",
+        "Area Movement",
+        "Cooperative Game",
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Electronic",
+        "Expansion for Base-game",
+        "Fighting",
+        "Real-time",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Vlaada Chvátil"
+      ]
+    },
+    {
+      "id": "38453",
+      "name": "Space Alert",
+      "yearPublished": "2008",
+      "type": "boardgame",
+      "postdate": "2014-01-07 03:51:45",
+      "lastmodified": "2026-02-01 13:25:43",
+      "myrating": 8,
+      "numplays": "10",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 2,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/tinE1f2lauIsEL4aC9aU-w__thumb/img/9tewdwxUKcqikj0QlVSUmwRPK68=/fit-in/200x150/filters:strip_icc()/pic384313.jpg",
+      "link": "https://boardgamegeek.com/thing/38453",
+      "minPlayers": "1",
+      "maxPlayers": "5",
+      "bestAtCount": "4, 5",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "7.389",
+      "averageWeight": "2.9695",
+      "boardGameRank": "336",
+      "mechanics": [
+        "Action Queue",
+        "Area Movement",
+        "Cooperative Game",
+        "Elapsed Real Time Ending",
+        "Hand Management",
+        "Real-Time",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Electronic",
+        "Real-time",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Vlaada Chvátil"
+      ]
+    },
+    {
+      "id": "411567",
+      "name": "The Gang",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2026-01-06 21:18:39",
+      "lastmodified": "2026-01-31 18:49:05",
+      "myrating": null,
+      "numplays": "19",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ydwU0FMlRVa6wt8tOu1tgg__small/img/9hYAUB4S9PHAVvUoPEcaRm7jHIg=/fit-in/200x150/filters:strip_icc()/pic7962719.jpg",
+      "link": "https://boardgamegeek.com/thing/411567",
+      "minPlayers": "3",
+      "maxPlayers": "6",
+      "bestAtCount": "5",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "7.57276",
+      "averageWeight": "1.54",
+      "boardGameRank": "509",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Predictive Bid"
+      ],
+      "categories": [
+        "Card Game",
+        "Party Game"
+      ],
+      "designers": [
+        "John Cooper",
+        "Kory Heath"
+      ]
+    },
+    {
+      "id": "357293",
+      "name": "The Lord of the Rings: The Card Game – Revised Core: Defenders of Gondor Starter Deck",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2024-07-18 15:52:28",
+      "lastmodified": "2026-01-31 18:48:44",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/d-O_jAZXZvbVoe1ilfn2iw__small/img/Hsj0lB9IEbrNAyIgnxHeMsYDavA=/fit-in/200x150/filters:strip_icc()/pic8546973.jpg",
+      "link": "https://boardgamegeek.com/thing/357293",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.51942",
+      "averageWeight": "3.6667",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Cooperative Game",
+        "Deck Construction",
+        "Events",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Novel-based"
+      ],
+      "designers": [
+        "Nate French"
+      ]
+    },
+    {
+      "id": "357294",
+      "name": "The Lord of the Rings: The Card Game – Revised Core: Riders of Rohan Starter Deck",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2024-07-18 15:52:33",
+      "lastmodified": "2026-01-31 18:48:38",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Mr_hDpY41aJCNu9lFeFy6g__small/img/GAVWYKfRKzoPnRU5oRy1Fo8_0v8=/fit-in/200x150/filters:strip_icc()/pic8546951.jpg",
+      "link": "https://boardgamegeek.com/thing/357294",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.39067",
+      "averageWeight": "4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Cooperative Game",
+        "Deck Construction",
+        "Events",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Novel-based"
+      ],
+      "designers": [
+        "Nate French"
+      ]
+    },
+    {
+      "id": "357292",
+      "name": "The Lord of the Rings: The Card Game – Revised Core – Elves of Lórien Starter Deck",
+      "yearPublished": "2022",
+      "type": "boardgameexpansion",
+      "postdate": "2024-07-18 15:52:23",
+      "lastmodified": "2026-01-31 18:48:30",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/VuknN0hV7AUVWO2s1vI3tQ__small/img/jPaNipWm79XBVFfojwvaXpFrd8c=/fit-in/200x150/filters:strip_icc()/pic8546968.jpg",
+      "link": "https://boardgamegeek.com/thing/357292",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "90",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "90",
+      "averageRating": "8.62907",
+      "averageWeight": "3.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Automatic Resource Growth",
+        "Cooperative Game",
+        "Deck Construction",
+        "Events",
+        "Hand Management",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Novel-based"
+      ],
+      "designers": [
+        "Nate French"
+      ]
+    },
+    {
+      "id": "396545",
+      "name": "Sea Salt & Paper: Extra Salt",
+      "yearPublished": "2023",
+      "type": "boardgameexpansion",
+      "postdate": "2025-11-20 18:07:56",
+      "lastmodified": "2026-01-31 18:47:54",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__thumb/img/qGTssy-U4rf5zTilJPd3nl3c1Nk=/fit-in/200x150/filters:strip_icc()/pic7731597.jpg",
+      "link": "https://boardgamegeek.com/thing/396545",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "45",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "45",
+      "averageRating": "7.79959",
+      "averageWeight": "1.2593",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Hand Management",
+        "Melding and Splaying",
+        "Push Your Luck",
+        "Set Collection"
+      ],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Bruno Cathala",
+        "Théo Rivière"
+      ]
+    },
+    {
+      "id": "440921",
+      "name": "Compile: Aux 2",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2025-05-06 23:22:31",
+      "lastmodified": "2026-01-31 18:47:26",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/aQb9QF1U1kzZ1dIqRfnvyQ__small/img/8i9gILz4d0CxA_okbmWZZ3B3hwc=/fit-in/200x150/filters:strip_icc()/pic9001669.png",
+      "link": "https://boardgamegeek.com/thing/440921",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "N/A",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "8.70571",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "417813",
+      "name": "Compile: Aux  1",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2025-05-06 23:22:20",
+      "lastmodified": "2026-01-31 18:47:19",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/ekBoM02DkakfGoG56EeqrQ__small/img/Cgs25L7KliWzOc0IE8AaXWDSgBY=/fit-in/200x150/filters:strip_icc()/pic9001673.png",
+      "link": "https://boardgamegeek.com/thing/417813",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "8.15093",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Area Majority / Influence"
+      ],
+      "categories": [
+        "Card Game",
+        "Expansion for Base-game"
+      ],
+      "designers": [
+        "Michael Yang"
+      ]
+    },
+    {
+      "id": "651",
+      "name": "Zero Down",
+      "yearPublished": "1998",
+      "type": "boardgame",
+      "postdate": "2026-01-27 21:41:20",
+      "lastmodified": "2026-01-27 21:43:13",
+      "myrating": null,
+      "numplays": "1",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/3dI-B_5E8kTEIAXkx-Tp5A__small/img/pNUkHoVdohY3PpqmO19geuCfrko=/fit-in/200x150/filters:strip_icc()/pic5371819.jpg",
+      "link": "https://boardgamegeek.com/thing/651",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "6.48823",
+      "averageWeight": "1.2241",
+      "boardGameRank": "4865",
+      "mechanics": [
+        "Open Drafting",
+        "Set Collection"
+      ],
+      "categories": [
+        "Card Game"
+      ],
+      "designers": [
+        "Reiner Knizia"
+      ]
+    },
+    {
+      "id": "456891",
+      "name": "SETI: Search for Extraterrestrial Intelligence – DLR Promo Card",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 21:27:17",
+      "lastmodified": "2026-01-27 21:27:17",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/tCfm5-_xf0aaOclPxAzxJA__small/img/zm6GpFeb3iOVlvKz-qpxHzokuQI=/fit-in/200x150/filters:strip_icc()/pic9356295.jpg",
+      "link": "https://boardgamegeek.com/thing/456891",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.18603",
+      "averageWeight": "1",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": []
+    },
+    {
+      "id": "453310",
+      "name": "SETI: Space Agencies – Space Agencies Promo Card",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 21:27:11",
+      "lastmodified": "2026-01-27 21:27:11",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/zAUrrbw7BQfy7iIvF7bFbA__small/img/MPxUcR4DqlypGawhVcmLTiWBnJ8=/fit-in/200x150/filters:strip_icc()/pic9077553.jpg",
+      "link": "https://boardgamegeek.com/thing/453310",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "6.8216",
+      "averageWeight": "4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "437940",
+      "name": "SETI: Search for Extraterrestrial Intelligence – Gateway to Mars Promo Card",
+      "yearPublished": "2025",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 21:27:01",
+      "lastmodified": "2026-01-27 21:27:01",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/7OwymDTWb8VCM-saMLc2vw__small/img/djLsjviqj5oX_I0jQ0rTjUfHcDI=/fit-in/200x150/filters:strip_icc()/pic8666369.png",
+      "link": "https://boardgamegeek.com/thing/437940",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "160",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "160",
+      "averageRating": "7.49344",
+      "averageWeight": "2.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "430027",
+      "name": "SETI: Search for Extraterrestrial Intelligence – Pluto Promo Card",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 21:26:47",
+      "lastmodified": "2026-01-27 21:26:48",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/euyc0xp54KtsC0CtptJm_Q__small/img/yiK_qDdp8_PKGE6rsviEM2hZsqw=/fit-in/200x150/filters:strip_icc()/pic8461755.png",
+      "link": "https://boardgamegeek.com/thing/430027",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "160",
+      "minPlayingTime": "40",
+      "maxPlayingTime": "160",
+      "averageRating": "8.12845",
+      "averageWeight": "1.4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "End Game Bonuses",
+        "Income",
+        "Multi-Use Cards",
+        "Resource to Move",
+        "Solo / Solitaire Game",
+        "Turn Order: Progressive",
+        "Variable Set-up"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Tomáš Holek"
+      ]
+    },
+    {
+      "id": "330677",
+      "name": "Lost Ruins of Arnak: Soothsayer's Runes Promo Card",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 21:25:16",
+      "lastmodified": "2026-01-27 21:25:17",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/NqpbIJEJSPAjm30O9QGXLQ__small/img/cWTmla7j0lPOWXoApIf4HMPWXD0=/fit-in/200x150/filters:strip_icc()/pic5969167.jpg",
+      "link": "https://boardgamegeek.com/thing/330677",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "4",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "7.95452",
+      "averageWeight": "1.75",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Move Through Deck",
+        "Once-Per-Game Abilities",
+        "Open Drafting",
+        "Resource to Move",
+        "Tile Placement",
+        "Turn Order: Progressive",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Ancient",
+        "Exploration",
+        "Travel"
+      ],
+      "designers": []
+    },
+    {
+      "id": "336817",
+      "name": "Lost Ruins of Arnak: Saxophone Promo Card",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 21:24:47",
+      "lastmodified": "2026-01-27 21:24:48",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/OIr1Qi3q3A06dJLT_Wq2bg__small/img/U1iksCnsHfm2HIgHCgSOpf8RBV0=/fit-in/200x150/filters:strip_icc()/pic6122981.jpg",
+      "link": "https://boardgamegeek.com/thing/336817",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "7.97774",
+      "averageWeight": "2.2857",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Move Through Deck",
+        "Once-Per-Game Abilities",
+        "Open Drafting",
+        "Resource to Move",
+        "Tile Placement",
+        "Turn Order: Progressive",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Ancient",
+        "Exploration",
+        "Travel"
+      ],
+      "designers": []
+    },
+    {
+      "id": "430008",
+      "name": "Lost Ruins of Arnak: Rat Promo Card",
+      "yearPublished": "2024",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 21:24:43",
+      "lastmodified": "2026-01-27 21:24:43",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/zAgHDG-ZtNKiPjI3JAaKLQ__small/img/dYvDyNaWOtoqaes0XJWn3AsNGfg=/fit-in/200x150/filters:strip_icc()/pic8529528.jpg",
+      "link": "https://boardgamegeek.com/thing/430008",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "8.30012",
+      "averageWeight": "2",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Worker Placement, Different Worker Types"
+      ],
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "designers": []
+    },
+    {
+      "id": "349330",
+      "name": "Lost Ruins of Arnak: Alicorn Promo Card",
+      "yearPublished": "2021",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-27 21:24:31",
+      "lastmodified": "2026-01-27 21:24:32",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/YwnOF0v99lXcSRNVFdvEYw__small/img/sx2mWe600Dm6Zpy02Be6-p-c2fU=/fit-in/200x150/filters:strip_icc()/pic8014304.png",
+      "link": "https://boardgamegeek.com/thing/349330",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "120",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "120",
+      "averageRating": "7.89613",
+      "averageWeight": "1.75",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Open Drafting"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Adventure"
+      ],
+      "designers": []
+    },
+    {
+      "id": "429836",
+      "name": "Hubworld: Aidalon",
+      "yearPublished": "2027",
+      "type": "boardgame",
+      "postdate": "2026-01-27 20:53:45",
+      "lastmodified": "2026-01-27 20:53:45",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/W11EGC7sCVh2KcAmqD1EXw__small/img/TiMckyBxqh7yG3T3cO_6ZoIwf8w=/fit-in/200x150/filters:strip_icc()/pic8845643.png",
+      "link": "https://boardgamegeek.com/thing/429836",
+      "minPlayers": "2",
+      "maxPlayers": "4",
+      "bestAtCount": "2",
+      "playingTime": "60",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "60",
+      "averageRating": "7.42143",
+      "averageWeight": "2.8",
+      "boardGameRank": "10027",
+      "mechanics": [
+        "Action Points",
+        "Deck Construction",
+        "Hand Management",
+        "Race",
+        "Secret Unit Deployment",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Science Fiction",
+        "Spies / Secret Agents"
+      ],
+      "designers": [
+        "Michael Boggs",
+        "Cory DeVore"
+      ]
+    },
+    {
+      "id": "447829",
+      "name": "Hubworld: Aidalon Preview Deck Set",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-01-27 20:53:18",
+      "lastmodified": "2026-01-27 20:53:18",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/MYkYFkijyB7Cvt33vt0OiA__small/img/U1rn-tG0Weern3DCwqpeK8fKAxU=/fit-in/200x150/filters:strip_icc()/pic8926586.jpg",
+      "link": "https://boardgamegeek.com/thing/447829",
+      "minPlayers": "2",
+      "maxPlayers": "2",
+      "bestAtCount": "2",
+      "playingTime": "0",
+      "minPlayingTime": "0",
+      "maxPlayingTime": "0",
+      "averageRating": "7.25",
+      "averageWeight": "0",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Action Points",
+        "Deck Construction",
+        "Hand Management",
+        "Race",
+        "Secret Unit Deployment",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Bluffing",
+        "Card Game",
+        "Print & Play",
+        "Science Fiction"
+      ],
+      "designers": [
+        "Cory DeVore",
+        "Andrew Fischer"
+      ]
+    },
+    {
+      "id": "394897",
+      "name": "Horror on the Orient Express: The Board Game",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2024-03-20 23:34:31",
+      "lastmodified": "2026-01-27 20:50:53",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "thumbnail": "https://cf.geekdo-images.com/XX-1reQpdOJzwgTbic-x4w__small/img/mpFyAprLv6Nkp7Dv19AM8qBDWD8=/fit-in/200x150/filters:strip_icc()/pic8080321.jpg",
+      "link": "https://boardgamegeek.com/thing/394897",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "120",
+      "minPlayingTime": "90",
+      "maxPlayingTime": "120",
+      "averageRating": "7.78467",
+      "averageWeight": "3.5385",
+      "boardGameRank": "11634",
+      "mechanics": [
+        "Action Retrieval",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Deduction",
+        "Modular Board",
+        "Narrative Choice / Paragraph",
+        "Push Your Luck",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+      ],
+      "categories": [
+        "Adventure",
+        "Deduction",
+        "Dice",
+        "Horror",
+        "Miniatures",
+        "Murder / Mystery",
+        "Mythology",
+        "Novel-based",
+        "Trains",
+        "Travel"
+      ],
+      "designers": [
+        "Michał Gołąb Gołębiowski",
+        "Adam Kwapiński"
+      ]
+    },
+    {
+      "id": "448271",
+      "name": "The Lord of the Rings: The Two Towers – Trick-Taking Game",
+      "yearPublished": "2025",
+      "type": "boardgame",
+      "postdate": "2026-01-27 20:41:50",
+      "lastmodified": "2026-01-27 20:41:50",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 1,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/TSwHNId9CUCq-bxAGmNJiQ__small/img/uE1O2NY7E58aOF6w6000g_ZL1aA=/fit-in/200x150/filters:strip_icc()/pic9044877.png",
+      "link": "https://boardgamegeek.com/thing/448271",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "N/A",
+      "playingTime": "20",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "20",
+      "averageRating": "7.68226",
+      "averageWeight": "2",
+      "boardGameRank": "16823",
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Scenario / Mission / Campaign Game",
+        "Trick-taking"
+      ],
+      "categories": [
+        "Adventure",
+        "Card Game",
+        "Fantasy",
+        "Novel-based"
+      ],
+      "designers": [
+        "Bryan Bornmueller"
+      ]
+    },
+    {
+      "id": "459763",
+      "name": "Heat: Rocky Roads",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-01-16 14:18:45",
+      "lastmodified": "2026-01-16 14:18:45",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 2,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/6DfO2EfUiXNmvdfKTIqqiw__small/img/NOzFaxdaBt8Y4qW6sBu3ztskRao=/fit-in/200x150/filters:strip_icc()/pic9288354.jpg",
+      "link": "https://boardgamegeek.com/thing/459763",
+      "minPlayers": "1",
+      "maxPlayers": "7",
+      "bestAtCount": "5, 6",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.24761",
+      "averageWeight": "2.5",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [],
+      "categories": [
+        "Expansion for Base-game",
+        "Racing"
+      ],
+      "designers": [
+        "Asger Aleksandrov Granerud",
+        "Daniel Skjold Pedersen"
+      ]
+    },
     {
       "id": "329500",
       "name": "Unconscious Mind",
@@ -58,51 +2652,6 @@
       ]
     },
     {
-      "id": "411567",
-      "name": "The Gang",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2026-01-06 21:18:39",
-      "lastmodified": "2026-01-06 21:18:39",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/ydwU0FMlRVa6wt8tOu1tgg__small/img/9hYAUB4S9PHAVvUoPEcaRm7jHIg=/fit-in/200x150/filters:strip_icc()/pic7962719.jpg",
-      "link": "https://boardgamegeek.com/thing/411567",
-      "minPlayers": "3",
-      "maxPlayers": "6",
-      "bestAtCount": "5",
-      "playingTime": "20",
-      "minPlayingTime": "20",
-      "maxPlayingTime": "20",
-      "averageRating": "7.57276",
-      "averageWeight": "1.54",
-      "boardGameRank": "509",
-      "mechanics": [
-        "Communication Limits",
-        "Cooperative Game",
-        "Predictive Bid"
-      ],
-      "categories": [
-        "Card Game",
-        "Party Game"
-      ],
-      "designers": [
-        "John Cooper",
-        "Kory Heath"
-      ]
-    },
-    {
       "id": "442250",
       "name": "Sea Salt & Paper: Extra Pepper",
       "yearPublished": "2025",
@@ -146,210 +2695,6 @@
       "designers": [
         "Bruno Cathala",
         "Théo Rivière"
-      ]
-    },
-    {
-      "id": "396545",
-      "name": "Sea Salt & Paper: Extra Salt",
-      "yearPublished": "2023",
-      "type": "boardgameexpansion",
-      "postdate": "2025-11-20 18:07:56",
-      "lastmodified": "2026-01-06 21:18:23",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/9jDNDtPC0s-eATSWly8oEg__thumb/img/qGTssy-U4rf5zTilJPd3nl3c1Nk=/fit-in/200x150/filters:strip_icc()/pic7731597.jpg",
-      "link": "https://boardgamegeek.com/thing/396545",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "2",
-      "playingTime": "45",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "45",
-      "averageRating": "7.79959",
-      "averageWeight": "1.2593",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Hand Management",
-        "Melding and Splaying",
-        "Push Your Luck",
-        "Set Collection"
-      ],
-      "categories": [
-        "Expansion for Base-game"
-      ],
-      "designers": [
-        "Bruno Cathala",
-        "Théo Rivière"
-      ]
-    },
-    {
-      "id": "357292",
-      "name": "The Lord of the Rings: The Card Game – Revised Core – Elves of Lórien Starter Deck",
-      "yearPublished": "2022",
-      "type": "boardgameexpansion",
-      "postdate": "2024-07-18 15:52:23",
-      "lastmodified": "2026-01-06 21:18:08",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/VuknN0hV7AUVWO2s1vI3tQ__small/img/jPaNipWm79XBVFfojwvaXpFrd8c=/fit-in/200x150/filters:strip_icc()/pic8546968.jpg",
-      "link": "https://boardgamegeek.com/thing/357292",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "8.62907",
-      "averageWeight": "3.5",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Automatic Resource Growth",
-        "Cooperative Game",
-        "Deck Construction",
-        "Events",
-        "Hand Management",
-        "Scenario / Mission / Campaign Game",
-        "Solo / Solitaire Game",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game",
-        "Collectible Components",
-        "Fantasy",
-        "Novel-based"
-      ],
-      "designers": [
-        "Nate French"
-      ]
-    },
-    {
-      "id": "357293",
-      "name": "The Lord of the Rings: The Card Game – Revised Core: Defenders of Gondor Starter Deck",
-      "yearPublished": "2022",
-      "type": "boardgameexpansion",
-      "postdate": "2024-07-18 15:52:28",
-      "lastmodified": "2026-01-06 21:17:59",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/d-O_jAZXZvbVoe1ilfn2iw__small/img/Hsj0lB9IEbrNAyIgnxHeMsYDavA=/fit-in/200x150/filters:strip_icc()/pic8546973.jpg",
-      "link": "https://boardgamegeek.com/thing/357293",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "8.51942",
-      "averageWeight": "3.6667",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Automatic Resource Growth",
-        "Cooperative Game",
-        "Deck Construction",
-        "Events",
-        "Hand Management",
-        "Scenario / Mission / Campaign Game",
-        "Solo / Solitaire Game",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game",
-        "Collectible Components",
-        "Fantasy",
-        "Novel-based"
-      ],
-      "designers": [
-        "Nate French"
-      ]
-    },
-    {
-      "id": "357294",
-      "name": "The Lord of the Rings: The Card Game – Revised Core: Riders of Rohan Starter Deck",
-      "yearPublished": "2022",
-      "type": "boardgameexpansion",
-      "postdate": "2024-07-18 15:52:33",
-      "lastmodified": "2026-01-06 21:17:52",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/Mr_hDpY41aJCNu9lFeFy6g__small/img/GAVWYKfRKzoPnRU5oRy1Fo8_0v8=/fit-in/200x150/filters:strip_icc()/pic8546951.jpg",
-      "link": "https://boardgamegeek.com/thing/357294",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "90",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "90",
-      "averageRating": "8.39067",
-      "averageWeight": "4",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Automatic Resource Growth",
-        "Cooperative Game",
-        "Deck Construction",
-        "Events",
-        "Hand Management",
-        "Scenario / Mission / Campaign Game",
-        "Solo / Solitaire Game",
-        "Variable Player Powers",
-        "Variable Set-up"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game",
-        "Collectible Components",
-        "Fantasy",
-        "Novel-based"
-      ],
-      "designers": [
-        "Nate French"
       ]
     },
     {
@@ -1894,138 +4239,6 @@
       ]
     },
     {
-      "id": "423909",
-      "name": "Ashes Reborn: Red Rains – The Spawn of Shadowreck",
-      "yearPublished": "2024",
-      "type": "boardgameexpansion",
-      "postdate": "2025-09-16 10:42:35",
-      "lastmodified": "2025-11-16 18:38:00",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/m9KAKC5zYAmhUu2RTWAlqw__small/img/jk9qRTLwecFETpmIe2J7FAjVT0M=/fit-in/200x150/filters:strip_icc()/pic8282757.png",
-      "link": "https://boardgamegeek.com/thing/423909",
-      "minPlayers": "1",
-      "maxPlayers": "2",
-      "bestAtCount": "N/A",
-      "playingTime": "60",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "60",
-      "averageRating": "8.67179",
-      "averageWeight": "3",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Card Play Conflict Resolution",
-        "Cooperative Game",
-        "Deck Construction",
-        "Dice Rolling"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game",
-        "Dice"
-      ],
-      "designers": [
-        "Nick Conley",
-        "Isaac Vega"
-      ]
-    },
-    {
-      "id": "431716",
-      "name": "Ashes Reborn: Red Rains – The Flood of Moon Cove",
-      "yearPublished": "2025",
-      "type": "boardgameexpansion",
-      "postdate": "2025-09-16 10:42:40",
-      "lastmodified": "2025-11-16 18:37:56",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/XhZ0ifJJoLtWnTXdUWUVWA__small/img/AUZSDqgF2vuYt2bte76xCWi8Fiw=/fit-in/200x150/filters:strip_icc()/pic8508627.png",
-      "link": "https://boardgamegeek.com/thing/431716",
-      "minPlayers": "1",
-      "maxPlayers": "2",
-      "bestAtCount": "N/A",
-      "playingTime": "60",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "60",
-      "averageRating": "8.83684",
-      "averageWeight": "3",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Card Play Conflict Resolution",
-        "Cooperative Game",
-        "Deck Construction",
-        "Die Icon Resolution"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game",
-        "Dice"
-      ],
-      "designers": [
-        "Nick Conley",
-        "Isaac Vega"
-      ]
-    },
-    {
-      "id": "448997",
-      "name": "Marvel Champions: The Card Game – Civil War Expansion",
-      "yearPublished": "2025",
-      "type": "boardgameexpansion",
-      "postdate": "2025-08-28 11:37:03",
-      "lastmodified": "2025-10-23 23:01:57",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/8Cw12ImHtX0NFcf3XCvRng__small/img/H1pt0HERY_6z51OqEQMnEw8ODvY=/fit-in/200x150/filters:strip_icc()/pic8957966.png",
-      "link": "https://boardgamegeek.com/thing/448997",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "1",
-      "playingTime": "0",
-      "minPlayingTime": "0",
-      "maxPlayingTime": "0",
-      "averageRating": "8.22973",
-      "averageWeight": "0",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game"
-      ],
-      "designers": []
-    },
-    {
       "id": "357873",
       "name": "The Old King's Crown",
       "yearPublished": "2025",
@@ -2792,90 +5005,6 @@
         "Davi Paulino",
         "Adam Sadler",
         "Brady Sadler"
-      ]
-    },
-    {
-      "id": "440921",
-      "name": "Compile: Aux 2",
-      "yearPublished": "2025",
-      "type": "boardgameexpansion",
-      "postdate": "2025-05-06 23:22:31",
-      "lastmodified": "2025-05-06 23:22:31",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/aQb9QF1U1kzZ1dIqRfnvyQ__small/img/8i9gILz4d0CxA_okbmWZZ3B3hwc=/fit-in/200x150/filters:strip_icc()/pic9001669.png",
-      "link": "https://boardgamegeek.com/thing/440921",
-      "minPlayers": "2",
-      "maxPlayers": "2",
-      "bestAtCount": "N/A",
-      "playingTime": "30",
-      "minPlayingTime": "20",
-      "maxPlayingTime": "30",
-      "averageRating": "8.70571",
-      "averageWeight": "0",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Area Majority / Influence"
-      ],
-      "categories": [
-        "Expansion for Base-game",
-        "Card Game"
-      ],
-      "designers": [
-        "Michael Yang"
-      ]
-    },
-    {
-      "id": "417813",
-      "name": "Compile: Aux  1",
-      "yearPublished": "2024",
-      "type": "boardgameexpansion",
-      "postdate": "2025-05-06 23:22:20",
-      "lastmodified": "2025-05-06 23:22:20",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 1,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/ekBoM02DkakfGoG56EeqrQ__small/img/Cgs25L7KliWzOc0IE8AaXWDSgBY=/fit-in/200x150/filters:strip_icc()/pic9001673.png",
-      "link": "https://boardgamegeek.com/thing/417813",
-      "minPlayers": "2",
-      "maxPlayers": "2",
-      "bestAtCount": "2",
-      "playingTime": "30",
-      "minPlayingTime": "20",
-      "maxPlayingTime": "30",
-      "averageRating": "8.15093",
-      "averageWeight": "2",
-      "boardGameRank": "Not Ranked",
-      "mechanics": [
-        "Area Majority / Influence"
-      ],
-      "categories": [
-        "Card Game",
-        "Expansion for Base-game"
-      ],
-      "designers": [
-        "Michael Yang"
       ]
     },
     {
@@ -5019,66 +7148,6 @@
         "Ondřej Bystroň",
         "Petr Čáslava",
         "Pavel Jarosch"
-      ]
-    },
-    {
-      "id": "394897",
-      "name": "Horror on the Orient Express: The Board Game",
-      "yearPublished": "2026",
-      "type": "boardgame",
-      "postdate": "2024-03-20 23:34:31",
-      "lastmodified": "2024-04-06 10:55:54",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/XX-1reQpdOJzwgTbic-x4w__small/img/mpFyAprLv6Nkp7Dv19AM8qBDWD8=/fit-in/200x150/filters:strip_icc()/pic8080321.jpg",
-      "link": "https://boardgamegeek.com/thing/394897",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "N/A",
-      "playingTime": "120",
-      "minPlayingTime": "90",
-      "maxPlayingTime": "120",
-      "averageRating": "7.78467",
-      "averageWeight": "3.5385",
-      "boardGameRank": "11634",
-      "mechanics": [
-        "Action Retrieval",
-        "Cooperative Game",
-        "Deck, Bag, and Pool Building",
-        "Deduction",
-        "Modular Board",
-        "Narrative Choice / Paragraph",
-        "Push Your Luck",
-        "Scenario / Mission / Campaign Game",
-        "Solo / Solitaire Game",
-        "Variable Player Powers"
-      ],
-      "categories": [
-        "Adventure",
-        "Deduction",
-        "Dice",
-        "Horror",
-        "Miniatures",
-        "Murder / Mystery",
-        "Mythology",
-        "Novel-based",
-        "Trains",
-        "Travel"
-      ],
-      "designers": [
-        "Michał Gołąb Gołębiowski",
-        "Adam Kwapiński"
       ]
     },
     {
@@ -19066,57 +21135,6 @@
       ]
     },
     {
-      "id": "38453",
-      "name": "Space Alert",
-      "yearPublished": "2008",
-      "type": "boardgame",
-      "postdate": "2014-01-07 03:51:45",
-      "lastmodified": "2022-01-26 13:19:36",
-      "myrating": 8,
-      "numplays": "10",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/tinE1f2lauIsEL4aC9aU-w__thumb/img/9tewdwxUKcqikj0QlVSUmwRPK68=/fit-in/200x150/filters:strip_icc()/pic384313.jpg",
-      "link": "https://boardgamegeek.com/thing/38453",
-      "minPlayers": "1",
-      "maxPlayers": "5",
-      "bestAtCount": "4, 5",
-      "playingTime": "30",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "30",
-      "averageRating": "7.389",
-      "averageWeight": "2.9695",
-      "boardGameRank": "336",
-      "mechanics": [
-        "Action Queue",
-        "Area Movement",
-        "Cooperative Game",
-        "Elapsed Real Time Ending",
-        "Hand Management",
-        "Real-Time",
-        "Simultaneous Action Selection",
-        "Solo / Solitaire Game"
-      ],
-      "categories": [
-        "Electronic",
-        "Real-time",
-        "Science Fiction",
-        "Space Exploration"
-      ],
-      "designers": [
-        "Vlaada Chvátil"
-      ]
-    },
-    {
       "id": "216132",
       "name": "Clans of Caledonia",
       "yearPublished": "2017",
@@ -32270,54 +34288,6 @@
       ],
       "designers": [
         "Martin Wallace"
-      ]
-    },
-    {
-      "id": "8217",
-      "name": "San Juan",
-      "yearPublished": "2004",
-      "type": "boardgame",
-      "postdate": "2005-10-04 07:16:42",
-      "lastmodified": "2014-04-15 04:53:41",
-      "myrating": 9,
-      "numplays": "12",
-      "status": {
-        "own": true,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/kiD03bslLpN_0Qe1LJ8OGg__thumb/img/VD6xhahkv4SR87FYOoQS9rKOpvo=/fit-in/200x150/filters:strip_icc()/pic174174.jpg",
-      "link": "https://boardgamegeek.com/thing/8217",
-      "minPlayers": "2",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "60",
-      "minPlayingTime": "45",
-      "maxPlayingTime": "60",
-      "averageRating": "7.23171",
-      "averageWeight": "2.2851",
-      "boardGameRank": "408",
-      "mechanics": [
-        "Action Drafting",
-        "Follow",
-        "Hand Management",
-        "Multi-Use Cards",
-        "Set Collection",
-        "Variable Phase Order"
-      ],
-      "categories": [
-        "Card Game",
-        "City Building",
-        "Economic"
-      ],
-      "designers": [
-        "Andreas Seyfarth"
       ]
     },
     {

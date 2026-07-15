@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-07-15T16:46:57.908Z",
+  "gameDetails": {
+    "id": "334353",
+    "name": "1849: Kingdom of the Two Sicilies",
+    "type": "boardgameexpansion",
+    "description": "This is an alternate map that uses the rules and components from 1849: The Game of Sicilian Railways to play a larger game. The game takes place in Mediterranean Peninsula of Italy.\n\nWhile 1849 is best with 3-4 players, Kingdom of the Two Sicilies  is especially suited for high player counts, such as 5-6 players.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/sCqHfIjyv0L4XRBAJZjSBw__original/img/1bz0chXp6dXdUVxaJfHL52BQ5bM=/0x0/filters:format(png)/pic6147157.png",
+    "thumbnail": "https://cf.geekdo-images.com/sCqHfIjyv0L4XRBAJZjSBw__small/img/uZe16D3_ABow9qW2nbuwg52HXIc=/fit-in/200x150/filters:strip_icc()/pic6147157.png",
+    "link": "https://boardgamegeek.com/thing/334353",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "yearPublished": "2026",
+    "playingTime": "240",
+    "minPlayingTime": "180",
+    "maxPlayingTime": "240",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "6.203",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Auction / Bidding",
+      "Investment",
+      "Network and Route Building",
+      "Stock Holding",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Economic",
+      "Trains",
+      "Transportation"
+    ],
+    "designers": [
+      "Scott Petersen"
+    ]
+  }
+}

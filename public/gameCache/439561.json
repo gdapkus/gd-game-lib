@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-07-15T16:47:34.472Z",
+  "gameDetails": {
+    "id": "439561",
+    "name": "Gruntz",
+    "type": "boardgame",
+    "description": "In Gruntz, you'll command units like infantry, tanks, and aircraft with rock-paper-scissors-like relationships. For example, Gruntz are slow-moving and can't defeat all enemy units, but they're the only ones who can capture the control points at the middle of the map. Planes wreak havoc on the battlefield, but carefully placed Anti-Aircraft stop them in their tracks.\n\nWhen you deploy tanks and trucks, you'll outfit them with different Magnetic attachments! Choose a cannon for extra firepower, or a cargo hold to transport troops. This flexibility creates awesome counterplay and tactical decision-making.\n\nCapture the zones in the middle of the board to gain points. First to three points wins!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/5UHlN7xHbtLyBflLo22l_A__original/img/FAHSuf-h8Y599jdyVZg2KEWA0RU=/0x0/filters:format(jpeg)/pic9085224.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5UHlN7xHbtLyBflLo22l_A__small/img/poaq7lqWVrQKd9r7l9sMpoFSqxA=/fit-in/200x150/filters:strip_icc()/pic9085224.jpg",
+    "link": "https://boardgamegeek.com/thing/439561",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2026",
+    "playingTime": "30",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.44386",
+    "averageWeight": "1.8571",
+    "boardGameRank": "9728",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Grid Movement",
+      "King of the Hill",
+      "Tug of War"
+    ],
+    "categories": [
+      "Abstract Strategy",
+      "Wargame"
+    ],
+    "designers": [
+      "Carter Scott"
+    ]
+  }
+}

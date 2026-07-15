@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-07-15T16:48:00.473Z",
+  "gameDetails": {
+    "id": "432324",
+    "name": "The Rail on the Hill",
+    "type": "boardgame",
+    "description": "This is a city-building and railroad game in which you build a city in front of yourself and extend four railroad lines.\nThe city cards that make up the city have the demands of the four rail lines written on them, and you need to lay out the rail lines accordingly.\nAlso, plan cards must be assigned to railroad lines, which must pass through specific landmarks on the city cards. This is where the element of resource management comes into play, and it is a very thoughtful game.\n\n&mdash;description from the designer\n\n",
+    "image": "https://cf.geekdo-images.com/gwm1E0iIlkCnvMrok_l1hA__original/img/6Wi7S95gM4iNahmpHQtDmSOUZw4=/0x0/filters:format(png)/pic8521007.png",
+    "thumbnail": "https://cf.geekdo-images.com/gwm1E0iIlkCnvMrok_l1hA__small/img/gOO3TEM6C0M83mv4bjhTI__zRSI=/fit-in/200x150/filters:strip_icc()/pic8521007.png",
+    "link": "https://boardgamegeek.com/thing/432324",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "7.03625",
+    "averageWeight": "2",
+    "boardGameRank": "17646",
+    "mechanics": [
+      "Action Drafting",
+      "Network and Route Building",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "categories": [
+      "City Building",
+      "Trains"
+    ],
+    "designers": [
+      "Hisashi Hayashi"
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T17:39:04.865Z",
+  "timestamp": "2026-07-15T16:50:20.983Z",
   "games": [
     {
       "id": "63706",
@@ -508,6 +508,29 @@
       "ratingTimestamp": "2016-02-18 19:57:01"
     },
     {
+      "id": "423517",
+      "collid": "141813999",
+      "name": "3 Chapters",
+      "image": "https://cf.geekdo-images.com/es3F2drfUOIVnqsTds3BDQ__original/img/aagzL4ORPemw2xi3FL4575gKYhA=/0x0/filters:format(png)/pic8940639.png",
+      "thumbnail": "https://cf.geekdo-images.com/es3F2drfUOIVnqsTds3BDQ__small/img/bCpN5Ool_-QFKQbPlAfmIfFUdRI=/fit-in/200x150/filters:strip_icc()/pic8940639.png",
+      "lastmodified": "2026-04-06 17:07:18",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "postdate": "2026-01-26 11:12:38",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "211233",
       "collid": "56367031",
       "name": "3 Wishes: More Genies! Promo Card",
@@ -651,17 +674,17 @@
       "name": "6 nimmt! Baron Oxx",
       "image": "https://cf.geekdo-images.com/J7rsZnOYY1Bzc11UjdZSNg__original/img/hCSpwzNjpBoXQ3z4McCvy9OV53M=/0x0/filters:format(jpeg)/pic8548496.jpg",
       "thumbnail": "https://cf.geekdo-images.com/J7rsZnOYY1Bzc11UjdZSNg__small/img/Dux3bkMry27alEJWHZ_g9irY5Ww=/fit-in/200x150/filters:strip_icc()/pic8548496.jpg",
-      "lastmodified": "2025-10-03 10:58:30",
+      "lastmodified": "2026-01-21 21:59:31",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-11-21 11:12:30",
@@ -734,6 +757,29 @@
         "preordered": false
       },
       "postdate": "2018-01-14 12:52:44",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "410103",
+      "collid": "142762297",
+      "name": "7 Empires",
+      "image": "https://cf.geekdo-images.com/ZkqXhlmZjovlMPUFbhsJ0w__original/img/UFxqMJ1E4Br95ONgTLUaPmSjLc8=/0x0/filters:format(png)/pic8531894.png",
+      "thumbnail": "https://cf.geekdo-images.com/ZkqXhlmZjovlMPUFbhsJ0w__small/img/frwsnnRLEID1oiOE0ZKIGZJ3_64=/fit-in/200x150/filters:strip_icc()/pic8531894.png",
+      "lastmodified": "2026-02-19 22:25:18",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-02-19 22:25:18",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -1686,17 +1732,17 @@
       "name": "Ace of Spades",
       "image": "https://cf.geekdo-images.com/m6Do-APgKAZXZvH5UaWoCQ__original/img/t3P7L-OkowaeMUbgLy5b66wkwBg=/0x0/filters:format(jpeg)/pic8773199.jpg",
       "thumbnail": "https://cf.geekdo-images.com/m6Do-APgKAZXZvH5UaWoCQ__small/img/ncloDo0PHRQAp0I5N4QZp7b36MM=/fit-in/200x150/filters:strip_icc()/pic8773199.jpg",
-      "lastmodified": "2025-12-08 09:57:08",
+      "lastmodified": "2026-06-26 16:23:02",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 4,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-10-03 18:04:14",
@@ -2436,6 +2482,29 @@
         "preordered": false
       },
       "postdate": "2021-05-20 00:12:47",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "422732",
+      "collid": "141653593",
+      "name": "Agent Avenue",
+      "image": "https://cf.geekdo-images.com/qC5YwZANir1Cmg6d-1UUpQ__original/img/26YgtJFY_7vKONVD87cHDb1pWRs=/0x0/filters:format(png)/pic8427963.png",
+      "thumbnail": "https://cf.geekdo-images.com/qC5YwZANir1Cmg6d-1UUpQ__small/img/QFSJbQfLQNrItkY_bQEzn71qYZ4=/fit-in/200x150/filters:strip_icc()/pic8427963.png",
+      "lastmodified": "2026-01-23 01:03:55",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "postdate": "2026-01-23 01:03:55",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -6442,6 +6511,52 @@
       "ratingTimestamp": "2009-07-05 18:41:37"
     },
     {
+      "id": "443932",
+      "collid": "144443480",
+      "name": "Aquaria",
+      "image": "https://cf.geekdo-images.com/V1DXx79t7KCxxCxnjZWvOw__original/img/47WooTggLwlHpdONGHs4jJXLNEw=/0x0/filters:format(jpeg)/pic9201764.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/V1DXx79t7KCxxCxnjZWvOw__small/img/WP6dgAWSD6ZOuuQRr7M85ulkKto=/fit-in/200x150/filters:strip_icc()/pic9201764.jpg",
+      "lastmodified": "2026-04-10 22:31:47",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-04-10 22:31:47",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "464282",
+      "collid": "144443450",
+      "name": "Aquaria: Microflora Dial Promo",
+      "image": "https://cf.geekdo-images.com/_TplKlkjmwO4sR9V_TVYqQ__original/img/qtq9peJeuoszduBSnzEc4hBb2E4=/0x0/filters:format(jpeg)/pic9394755.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/_TplKlkjmwO4sR9V_TVYqQ__small/img/Hrh3hmeQrWT1Pu6xTfWgj3164c4=/fit-in/200x150/filters:strip_icc()/pic9394755.jpg",
+      "lastmodified": "2026-04-10 22:29:24",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-04-10 22:29:24",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "159508",
       "collid": "24649363",
       "name": "AquaSphere",
@@ -6879,6 +6994,52 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
+      "id": "368158",
+      "collid": "142748606",
+      "name": "Ark Nova: Zoo Map Pack 1",
+      "image": "https://cf.geekdo-images.com/XtY99AlaiCKEClca1ShawA__original/img/iTtxH_4siKrezFdcQrJEMV3yr7k=/0x0/filters:format(jpeg)/pic6991687.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/XtY99AlaiCKEClca1ShawA__small/img/JJJ-tXfmudn-xCJvkfyFjnURs-Q=/fit-in/200x150/filters:strip_icc()/pic6991687.jpg",
+      "lastmodified": "2026-02-19 13:10:31",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-02-19 13:09:28",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "426978",
+      "collid": "142748636",
+      "name": "Ark Nova: Zoo Map Pack 2",
+      "image": "https://cf.geekdo-images.com/eZnpKk3SFkBVDLlb88WTWA__original/img/r1gAOaXgbnPPaeYfynx0dR3zR9U=/0x0/filters:format(jpeg)/pic8462406.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/eZnpKk3SFkBVDLlb88WTWA__small/img/Ba65ZoLBCzbl_SylRNmhk9ahTn0=/fit-in/200x150/filters:strip_icc()/pic8462406.jpg",
+      "lastmodified": "2026-02-19 13:10:18",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-02-19 13:10:18",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "25643",
       "collid": "5988749",
       "name": "Arkadia",
@@ -7084,6 +7245,29 @@
       "postdate": "2016-02-17 18:26:07",
       "rating": null,
       "ratingTimestamp": "2016-02-17 18:26:14"
+    },
+    {
+      "id": "424784",
+      "collid": "143357032",
+      "name": "Arkham Horror: Lovecraft Letter",
+      "image": "https://cf.geekdo-images.com/hLfQAtkN8m06_L3xAtqXEQ__original/img/EdWsCpTM0VqDLQuSTsTuGjGUuKY=/0x0/filters:format(png)/pic8544768.png",
+      "thumbnail": "https://cf.geekdo-images.com/hLfQAtkN8m06_L3xAtqXEQ__small/img/noJhLlB0U0_TVyBj_pQRm07qxWI=/fit-in/200x150/filters:strip_icc()/pic8544768.png",
+      "lastmodified": "2026-03-08 17:42:45",
+      "numplays": "3",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-03-08 17:42:44",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
       "id": "205637",
@@ -8816,8 +9000,8 @@
       "name": "Bärenpark",
       "image": "https://cf.geekdo-images.com/9JC16l1EMwmJkpbjaUBkpw__original/img/H14LeRRtvcOajZ1Z1_pRYu_rSTM=/0x0/filters:format(jpeg)/pic3486218.jpg",
       "thumbnail": "https://cf.geekdo-images.com/9JC16l1EMwmJkpbjaUBkpw__small/img/MbjH6nLmJQ5IjCgeULOjMfOf-NA=/fit-in/200x150/filters:strip_icc()/pic3486218.jpg",
-      "lastmodified": "2018-11-28 12:43:11",
-      "numplays": "1",
+      "lastmodified": "2026-02-15 16:43:09",
+      "numplays": "2",
       "status": {
         "own": true,
         "prevowned": false,
@@ -8830,8 +9014,8 @@
         "preordered": false
       },
       "postdate": "2018-07-07 16:18:30",
-      "rating": null,
-      "ratingTimestamp": "0000-00-00 00:00:00"
+      "rating": 8,
+      "ratingTimestamp": "2026-02-15 16:43:09"
     },
     {
       "id": "264238",
@@ -14584,6 +14768,29 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
+      "id": "424751",
+      "collid": "141550695",
+      "name": "Cat and the Tower",
+      "image": "https://cf.geekdo-images.com/qXqiP8J-D82ovawXAgypGA__original/img/ai_ZJI3jGRiPBIlCjCPF0VfvVpw=/0x0/filters:format(png)/pic8923066.png",
+      "thumbnail": "https://cf.geekdo-images.com/qXqiP8J-D82ovawXAgypGA__small/img/ZtXotiGRZ3oQ_KLFC7zDRukOobA=/fit-in/200x150/filters:strip_icc()/pic8923066.png",
+      "lastmodified": "2026-01-20 12:22:36",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 4,
+        "preordered": false
+      },
+      "postdate": "2026-01-20 12:22:35",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "345972",
       "collid": "112414782",
       "name": "Cat in the Box: Deluxe Edition",
@@ -18637,12 +18844,12 @@
       "name": "Condottiere",
       "image": "https://cf.geekdo-images.com/tr54Ekf1EpDbSagkqMAECQ__original/img/IWqZKOkfeS60jtD8VAnGKGw0iFA=/0x0/filters:format(jpeg)/pic239843.jpg",
       "thumbnail": "https://cf.geekdo-images.com/tr54Ekf1EpDbSagkqMAECQ__small/img/ktdthfhOV2s4X2qSqS-F47lcsjc=/fit-in/200x150/filters:strip_icc()/pic239843.jpg",
-      "lastmodified": "2011-03-27 10:45:27",
+      "lastmodified": "2026-07-09 17:49:34",
       "numplays": "1",
       "status": {
         "own": true,
         "prevowned": false,
-        "fortrade": true,
+        "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
@@ -19594,6 +19801,29 @@
         "preordered": false
       },
       "postdate": "2023-08-26 12:12:58",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "456440",
+      "collid": "146837115",
+      "name": "Cozy Stickerville",
+      "image": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__original/img/9ai5WpyU0jn1cCwAiRaGIQy-VqQ=/0x0/filters:format(png)/pic9171780.png",
+      "thumbnail": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__small/img/SRpAFFgh4mpyvCqzq8kc3B6_7F4=/fit-in/200x150/filters:strip_icc()/pic9171780.png",
+      "lastmodified": "2026-06-26 16:24:31",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-06-26 16:24:30",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -20661,17 +20891,17 @@
       "name": "Dark Pact",
       "image": "https://cf.geekdo-images.com/CH49NXU6K7A7l2HmH4m_yA__original/img/NwZ4r5BgvmNOUC0xCbWmybpUVg0=/0x0/filters:format(jpeg)/pic8942612.jpg",
       "thumbnail": "https://cf.geekdo-images.com/CH49NXU6K7A7l2HmH4m_yA__small/img/l9ZH8g_G-0FOVR2COItVBJE4pMk=/fit-in/200x150/filters:strip_icc()/pic8942612.jpg",
-      "lastmodified": "2025-11-30 10:28:57",
+      "lastmodified": "2026-04-18 22:30:52",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-06-24 23:11:03",
@@ -25323,6 +25553,29 @@
       "postdate": "2009-12-23 16:22:50",
       "rating": null,
       "ratingTimestamp": "2009-12-23 16:22:50"
+    },
+    {
+      "id": "465669",
+      "collid": "144602024",
+      "name": "Drillers",
+      "image": "https://cf.geekdo-images.com/7I1Etkr46OpP-wWXVXiOKA__original/img/ltLlVoNF1RQo7z_x69L2IAKZE_g=/0x0/filters:format(jpeg)/pic9487166.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/7I1Etkr46OpP-wWXVXiOKA__small/img/mGXTD-5P4E3jKCuXLlxDK2U1l6c=/fit-in/200x150/filters:strip_icc()/pic9487166.jpg",
+      "lastmodified": "2026-04-15 18:01:59",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "postdate": "2026-04-15 18:01:59",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
       "id": "19",
@@ -32892,6 +33145,121 @@
       "ratingTimestamp": "2010-05-18 18:10:30"
     },
     {
+      "id": "393333",
+      "collid": "142748695",
+      "name": "Galileo Galilei",
+      "image": "https://cf.geekdo-images.com/3Y0JQKZAE2LIdrNO2k73YA__original/img/fEI_ADWKULPgXZ15N5sLaVXjcok=/0x0/filters:format(jpeg)/pic8703078.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/3Y0JQKZAE2LIdrNO2k73YA__small/img/0GpLvxPSryDyJPneOp9XwB7AJ9I=/fit-in/200x150/filters:strip_icc()/pic8703078.jpg",
+      "lastmodified": "2026-02-19 13:12:20",
+      "numplays": "1",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-02-19 13:12:19",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "451711",
+      "collid": "142748727",
+      "name": "Galileo Galilei: Discovery Cards Promo",
+      "image": "https://cf.geekdo-images.com/LRIEmAHHKVQFYNuP2hSxbw__original/img/lZG9GvjcNqLTWzEi_vkC37z7ax4=/0x0/filters:format(jpeg)/pic9123046.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/LRIEmAHHKVQFYNuP2hSxbw__small/img/TBNRb6PzGzICMxww0uMGbGRYo3M=/fit-in/200x150/filters:strip_icc()/pic9123046.jpg",
+      "lastmodified": "2026-02-19 13:13:38",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-02-19 13:13:00",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "430166",
+      "collid": "142748797",
+      "name": "Galileo Galilei: Edmond Halley Promo",
+      "image": "https://cf.geekdo-images.com/TkotOSZGHI801iuvfzzyEQ__original/img/eVcrz7-M9nDLnsTexExSkyzJR9U=/0x0/filters:format(jpeg)/pic8464304.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/TkotOSZGHI801iuvfzzyEQ__small/img/U0BRukJynotCWZ__E8A0l7Fpwjc=/fit-in/200x150/filters:strip_icc()/pic8464304.jpg",
+      "lastmodified": "2026-02-19 13:15:15",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-02-19 13:15:15",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "446834",
+      "collid": "142748769",
+      "name": "Galileo Galilei: Luna",
+      "image": "https://cf.geekdo-images.com/DmPVjaClEyqX6mVHXQFT_g__original/img/XCw--SyrfGb68Gz3AYTg6dTCpeM=/0x0/filters:format(jpeg)/pic9201801.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/DmPVjaClEyqX6mVHXQFT_g__small/img/g-smTTJ_j1-5uws9axPKOFQjifM=/fit-in/200x150/filters:strip_icc()/pic9201801.jpg",
+      "lastmodified": "2026-02-19 13:14:33",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-02-19 13:14:33",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "451676",
+      "collid": "147265791",
+      "name": "Galileo's Truth",
+      "image": "https://cf.geekdo-images.com/rxTaDS5kX4Bq27RYHtWg6A__original/img/uICaEPS0i1K2usa72zUsGEDxit4=/0x0/filters:format(png)/pic9025953.png",
+      "thumbnail": "https://cf.geekdo-images.com/rxTaDS5kX4Bq27RYHtWg6A__small/img/TtmGjxNmQUDxA_tjf5RRJSEwLcs=/fit-in/200x150/filters:strip_icc()/pic9025953.png",
+      "lastmodified": "2026-07-10 17:05:57",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "postdate": "2026-07-10 17:05:57",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "125153",
       "collid": "98413287",
       "name": "The Gallerist",
@@ -33072,6 +33440,29 @@
         "preordered": false
       },
       "postdate": "2024-10-21 15:16:46",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "462191",
+      "collid": "141007396",
+      "name": "The Gang: Deluxe Edition",
+      "image": "https://cf.geekdo-images.com/eIOV_ceUucPSHxYRTtC_wg__original/img/alRSMGzDN28b4zkWFSiO4MAW3jo=/0x0/filters:format(jpeg)/pic9328832.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/eIOV_ceUucPSHxYRTtC_wg__small/img/HVIPSWpDM1uPj9BLymlcwGpzrpY=/fit-in/200x150/filters:strip_icc()/pic9328832.jpg",
+      "lastmodified": "2026-01-08 20:51:22",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 2,
+        "preordered": false
+      },
+      "postdate": "2026-01-08 20:51:22",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -34875,7 +35266,7 @@
       "name": "Great Western Trail: El Paso",
       "image": "https://cf.geekdo-images.com/R1kmXnKY2XNTibnw0mfUYQ__original/img/7jhfw-BFquzxgRy3zrIfQAVcM6A=/0x0/filters:format(jpeg)/pic8522248.jpg",
       "thumbnail": "https://cf.geekdo-images.com/R1kmXnKY2XNTibnw0mfUYQ__small/img/bRPBjc1ca-Br8ld3wFiGEkVNzO4=/fit-in/200x150/filters:strip_icc()/pic8522248.jpg",
-      "lastmodified": "2025-05-23 11:32:59",
+      "lastmodified": "2026-02-18 12:22:41",
       "numplays": "2",
       "status": {
         "own": true,
@@ -36503,6 +36894,29 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
+      "id": "463405",
+      "collid": "142426626",
+      "name": "Heat: Legends",
+      "image": "https://cf.geekdo-images.com/456T_oFNw3uulcp1vyKcMg__original/img/RofxSKZFpMFgO9nAj53jm9-HE3s=/0x0/filters:format(png)/pic9373818.png",
+      "thumbnail": "https://cf.geekdo-images.com/456T_oFNw3uulcp1vyKcMg__small/img/KBtR52ldl8mTNtJK107yDuAQeBk=/fit-in/200x150/filters:strip_icc()/pic9373818.png",
+      "lastmodified": "2026-02-10 18:46:39",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 1,
+        "preordered": false
+      },
+      "postdate": "2026-02-10 18:46:39",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "366013",
       "collid": "112414503",
       "name": "Heat: Pedal to the Metal",
@@ -36522,6 +36936,29 @@
         "preordered": false
       },
       "postdate": "2023-11-13 20:21:14",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "459763",
+      "collid": "141372204",
+      "name": "Heat: Rocky Roads",
+      "image": "https://cf.geekdo-images.com/6DfO2EfUiXNmvdfKTIqqiw__original/img/Lryypg_nPwY94IMC4krQ0dHG8Hg=/0x0/filters:format(jpeg)/pic9288354.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/6DfO2EfUiXNmvdfKTIqqiw__small/img/NOzFaxdaBt8Y4qW6sBu3ztskRao=/fit-in/200x150/filters:strip_icc()/pic9288354.jpg",
+      "lastmodified": "2026-01-16 15:47:06",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 2,
+        "preordered": false
+      },
+      "postdate": "2026-01-16 15:47:06",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -36600,22 +37037,22 @@
       "name": "Heckmeck am Karteneck",
       "image": "https://cf.geekdo-images.com/xzOpvcO2u6NRswFs6Kr0wg__original/img/kL6f8FfgFB4YkkHov_fOhCwNuNg=/0x0/filters:format(jpeg)/pic6464706.jpg",
       "thumbnail": "https://cf.geekdo-images.com/xzOpvcO2u6NRswFs6Kr0wg__small/img/6DEa8FMQG9Qyj0iRf8r9ggmjbVY=/fit-in/200x150/filters:strip_icc()/pic6464706.jpg",
-      "lastmodified": "2025-10-02 22:56:24",
-      "numplays": "0",
+      "lastmodified": "2026-02-15 14:18:15",
+      "numplays": "1",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-09-16 22:32:47",
-      "rating": null,
-      "ratingTimestamp": "0000-00-00 00:00:00"
+      "rating": 8,
+      "ratingTimestamp": "2026-02-15 14:16:28"
     },
     {
       "id": "66798",
@@ -38969,17 +39406,17 @@
       "name": "In the Footsteps of Darwin: Correspondence",
       "image": "https://cf.geekdo-images.com/7_0yatrkoQMrlqIjrmBH5g__original/img/ox9EoGcxUkzgqxKegyc8LRgqCLY=/0x0/filters:format(png)/pic8632603.png",
       "thumbnail": "https://cf.geekdo-images.com/7_0yatrkoQMrlqIjrmBH5g__small/img/T-lb31hHzrGUKCXYjesdZjxL62g=/fit-in/200x150/filters:strip_icc()/pic8632603.png",
-      "lastmodified": "2025-10-03 10:10:35",
+      "lastmodified": "2026-05-28 00:30:52",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-10-03 10:10:35",
@@ -40050,17 +40487,17 @@
       "name": "It's a Wonderful World: Corruption & Ascension",
       "image": "https://cf.geekdo-images.com/s3wdBshh4Owho3VVLkHDWA__original/img/ZTVNW424rq3hP6ugeWK0f0gdGMM=/0x0/filters:format(png)/pic6898010.png",
       "thumbnail": "https://cf.geekdo-images.com/s3wdBshh4Owho3VVLkHDWA__small/img/pOh0HD6woPdC61IAWmC3094DV9Q=/fit-in/200x150/filters:strip_icc()/pic6898010.png",
-      "lastmodified": "2025-10-02 22:56:49",
+      "lastmodified": "2026-05-28 00:28:43",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-02-02 13:27:43",
@@ -40386,6 +40823,52 @@
         "preordered": false
       },
       "postdate": "2012-09-11 22:55:40",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "400495",
+      "collid": "147420342",
+      "name": "JinxO",
+      "image": "https://cf.geekdo-images.com/SWf1TYdfZR82C3cm6YIUEg__original/img/CNODE55poaLklfRx3mij5yfIm6U=/0x0/filters:format(jpeg)/pic8402537.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/SWf1TYdfZR82C3cm6YIUEg__small/img/MKbR2_peF6X7o9Mcz196rnKLolQ=/fit-in/200x150/filters:strip_icc()/pic8402537.jpg",
+      "lastmodified": "2026-07-15 11:27:49",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "postdate": "2026-07-15 11:27:49",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "400495",
+      "collid": "147420344",
+      "name": "JinxO",
+      "image": "https://cf.geekdo-images.com/SWf1TYdfZR82C3cm6YIUEg__original/img/CNODE55poaLklfRx3mij5yfIm6U=/0x0/filters:format(jpeg)/pic8402537.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/SWf1TYdfZR82C3cm6YIUEg__small/img/MKbR2_peF6X7o9Mcz196rnKLolQ=/fit-in/200x150/filters:strip_icc()/pic8402537.jpg",
+      "lastmodified": "2026-07-15 11:27:50",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "postdate": "2026-07-15 11:27:50",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -40947,17 +41430,17 @@
       "name": "Keltis: Das Würfelspiel",
       "image": "https://cf.geekdo-images.com/5LRkl6xehZKu4RFMluyVYA__original/img/Z5LQjtnLsqD2NZ6VrG-F8vX4X4s=/0x0/filters:format(jpeg)/pic1210132.jpg",
       "thumbnail": "https://cf.geekdo-images.com/5LRkl6xehZKu4RFMluyVYA__small/img/jn1UlekyyvmSO1M_CLyO_hn_J9w=/fit-in/200x150/filters:strip_icc()/pic1210132.jpg",
-      "lastmodified": "2025-10-31 10:54:48",
-      "numplays": "0",
+      "lastmodified": "2026-03-13 22:13:17",
+      "numplays": "1",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
-        "want": true,
+        "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-08-16 13:27:54",
@@ -42318,6 +42801,29 @@
         "preordered": false
       },
       "postdate": "2015-05-02 00:06:22",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "473897",
+      "collid": "147131468",
+      "name": "Kingdom Come: Deliverance – The Board Game",
+      "image": "https://cf.geekdo-images.com/HILsgVvw-j5bb6bXdrlp1g__original/img/EuZVEjvg6B5dG5fte8lKCpj5lo0=/0x0/filters:format(png)/pic9666028.png",
+      "thumbnail": "https://cf.geekdo-images.com/HILsgVvw-j5bb6bXdrlp1g__small/img/kFsmfQS6y8qjNELCg7UpAGlqEPA=/fit-in/200x150/filters:strip_icc()/pic9666028.png",
+      "lastmodified": "2026-07-10 17:05:20",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": true
+      },
+      "postdate": "2026-07-06 11:37:31",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -44944,6 +45450,52 @@
       "ratingTimestamp": "2010-07-18 11:25:39"
     },
     {
+      "id": "469458",
+      "collid": "147420338",
+      "name": "The Lord of the Rings: Ascension",
+      "image": "https://cf.geekdo-images.com/kcyWRbYvdPI-6dNSGy0PoA__original/img/cXYbJnS1UCsXLrsT2e3BK1RMlbw=/0x0/filters:format(png)/pic9544772.png",
+      "thumbnail": "https://cf.geekdo-images.com/kcyWRbYvdPI-6dNSGy0PoA__small/img/lXFosKIR_Sk1nYIKipCfl2w1bSs=/fit-in/200x150/filters:strip_icc()/pic9544772.png",
+      "lastmodified": "2026-07-15 11:27:47",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "postdate": "2026-07-15 11:27:47",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "469458",
+      "collid": "147420339",
+      "name": "The Lord of the Rings: Ascension",
+      "image": "https://cf.geekdo-images.com/kcyWRbYvdPI-6dNSGy0PoA__original/img/cXYbJnS1UCsXLrsT2e3BK1RMlbw=/0x0/filters:format(png)/pic9544772.png",
+      "thumbnail": "https://cf.geekdo-images.com/kcyWRbYvdPI-6dNSGy0PoA__small/img/lXFosKIR_Sk1nYIKipCfl2w1bSs=/fit-in/200x150/filters:strip_icc()/pic9544772.png",
+      "lastmodified": "2026-07-15 11:27:47",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "postdate": "2026-07-15 11:27:47",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "22884",
       "collid": "10466315",
       "name": "The Lord of the Rings: Battlefields",
@@ -44972,10 +45524,10 @@
       "name": "The Lord of the Rings: Duel for Middle-earth",
       "image": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__original/img/Ts4M5eOW38r2oTvJmkx0uwNodv4=/0x0/filters:format(jpeg)/pic8378939.jpg",
       "thumbnail": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__small/img/rojFW0-h-bteedVG4aJXG1x7V0o=/fit-in/200x150/filters:strip_icc()/pic8378939.jpg",
-      "lastmodified": "2025-12-30 17:21:58",
+      "lastmodified": "2026-03-18 00:45:35",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -44983,7 +45535,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-10-10 12:10:56",
       "rating": null,
@@ -45087,8 +45639,8 @@
       "name": "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game",
       "image": "https://cf.geekdo-images.com/uC4N_3kQdoHefNPesAHCzQ__original/img/ohKFXmrxtaOPqJyiIMaABIy-WjU=/0x0/filters:format(png)/pic8437787.png",
       "thumbnail": "https://cf.geekdo-images.com/uC4N_3kQdoHefNPesAHCzQ__small/img/hLjGKsIwJP43656LEnehjFVRzDE=/fit-in/200x150/filters:strip_icc()/pic8437787.png",
-      "lastmodified": "2025-05-07 19:44:08",
-      "numplays": "0",
+      "lastmodified": "2026-02-17 23:45:48",
+      "numplays": "31",
       "status": {
         "own": true,
         "prevowned": false,
@@ -45101,8 +45653,8 @@
         "preordered": false
       },
       "postdate": "2024-09-23 14:14:17",
-      "rating": null,
-      "ratingTimestamp": "0000-00-00 00:00:00"
+      "rating": 9,
+      "ratingTimestamp": "2026-02-17 23:45:48"
     },
     {
       "id": "171",
@@ -45133,17 +45685,17 @@
       "name": "The Lord of the Rings: The Two Towers – Trick-Taking Game",
       "image": "https://cf.geekdo-images.com/TSwHNId9CUCq-bxAGmNJiQ__original/img/-jjctggzIIg_tEI2ZjYCxnIN9aA=/0x0/filters:format(png)/pic9044877.png",
       "thumbnail": "https://cf.geekdo-images.com/TSwHNId9CUCq-bxAGmNJiQ__small/img/uE1O2NY7E58aOF6w6000g_ZL1aA=/fit-in/200x150/filters:strip_icc()/pic9044877.png",
-      "lastmodified": "2025-11-23 15:05:45",
+      "lastmodified": "2026-04-18 22:29:16",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-11-23 15:05:45",
@@ -50906,17 +51458,17 @@
       "name": "Mistborn: The Deckbuilding Game",
       "image": "https://cf.geekdo-images.com/Fr_k9-uU3hEUnw_3s-UnZQ__original/img/XhMQVwHzTcQPTS_2cjIn_NdZJwM=/0x0/filters:format(png)/pic8290518.png",
       "thumbnail": "https://cf.geekdo-images.com/Fr_k9-uU3hEUnw_3s-UnZQ__small/img/YLbnyONFWmI-9bu5J30aZke7BjI=/fit-in/200x150/filters:strip_icc()/pic8290518.png",
-      "lastmodified": "2024-12-16 17:22:45",
+      "lastmodified": "2026-05-28 00:29:54",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 3,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-12-16 17:22:45",
@@ -56628,6 +57180,29 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
+      "id": "429405",
+      "collid": "143084566",
+      "name": "Orloj",
+      "image": "https://cf.geekdo-images.com/6wgrxC8NUB8Z0q5D7kN9ig__original/img/PTskO-KY470cIPo07TV9c78s2ro=/0x0/filters:format(jpeg)/pic9432291.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/6wgrxC8NUB8Z0q5D7kN9ig__small/img/5p_r0bJFnIVwQDzVSKc83MNJhWg=/fit-in/200x150/filters:strip_icc()/pic9432291.jpg",
+      "lastmodified": "2026-02-28 18:14:16",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 4,
+        "preordered": false
+      },
+      "postdate": "2026-02-28 18:14:15",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "347767",
       "collid": "91376218",
       "name": "Ostia",
@@ -59414,19 +59989,19 @@
       "id": "450881",
       "collid": "136933568",
       "name": "Pirates of Maracaibo: Bermuda Triangle",
-      "image": "https://cf.geekdo-images.com/M_yI8EboYxhCdtDlbGz29w__original/img/FRVfM65All1cuW7YR0W2q_G6ZBE=/0x0/filters:format(jpeg)/pic9003815.jpg",
-      "thumbnail": "https://cf.geekdo-images.com/M_yI8EboYxhCdtDlbGz29w__small/img/Al26Qm4C0Z23qeFMcgfpvvpCpwo=/fit-in/200x150/filters:strip_icc()/pic9003815.jpg",
-      "lastmodified": "2025-10-01 15:50:28",
+      "image": "https://cf.geekdo-images.com/bs4nU1amEUuKF7f4_8tZgg__original/img/3ebIa7tPlWUayPNybpCuc_VPb1w=/0x0/filters:format(png)/pic9385238.png",
+      "thumbnail": "https://cf.geekdo-images.com/bs4nU1amEUuKF7f4_8tZgg__small/img/Z0cbvnoBrtuQbafwP10wI-QCL68=/fit-in/200x150/filters:strip_icc()/pic9385238.png",
+      "lastmodified": "2026-04-18 22:30:35",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-09-30 23:54:42",
@@ -62268,7 +62843,7 @@
       "name": "Qwixx",
       "image": "https://cf.geekdo-images.com/aOt-bT9nDzZdWl0dUqLy4w__original/img/BBC0kwf7JPYMxYGnsSDRaZ_BRF4=/0x0/filters:format(jpeg)/pic1950487.jpg",
       "thumbnail": "https://cf.geekdo-images.com/aOt-bT9nDzZdWl0dUqLy4w__small/img/VSCBC4785-3S8YMBzu8tafaoa_w=/fit-in/200x150/filters:strip_icc()/pic1950487.jpg",
-      "lastmodified": "2022-05-19 11:59:07",
+      "lastmodified": "2026-02-15 13:24:18",
       "numplays": "0",
       "status": {
         "own": true,
@@ -62282,8 +62857,8 @@
         "preordered": false
       },
       "postdate": "2022-05-19 11:59:06",
-      "rating": null,
-      "ratingTimestamp": "0000-00-00 00:00:00"
+      "rating": 6,
+      "ratingTimestamp": "2026-02-15 13:22:09"
     },
     {
       "id": "208775",
@@ -62291,8 +62866,8 @@
       "name": "Qwixx Deluxe",
       "image": "https://cf.geekdo-images.com/dReCAjmmyvSVFELMPnKPRg__original/img/Ts6t8ToH60jhEFD3RN0ZlBjxcvY=/0x0/filters:format(jpeg)/pic3264158.jpg",
       "thumbnail": "https://cf.geekdo-images.com/dReCAjmmyvSVFELMPnKPRg__small/img/6hHgHM-VgRZCRlONafITMY8VjO8=/fit-in/200x150/filters:strip_icc()/pic3264158.jpg",
-      "lastmodified": "2022-05-19 11:59:31",
-      "numplays": "9",
+      "lastmodified": "2026-02-15 13:39:10",
+      "numplays": "11",
       "status": {
         "own": true,
         "prevowned": false,
@@ -62305,8 +62880,8 @@
         "preordered": false
       },
       "postdate": "2022-05-19 11:59:30",
-      "rating": null,
-      "ratingTimestamp": "0000-00-00 00:00:00"
+      "rating": 7,
+      "ratingTimestamp": "2026-02-15 13:39:10"
     },
     {
       "id": "12",
@@ -62496,19 +63071,19 @@
       "id": "394555",
       "collid": "123396490",
       "name": "Race for the Galaxy: Xeno Counterstrike",
-      "image": "https://cf.geekdo-images.com/xvmy-AEGIVLJjiEg67CEPA__original/img/2Sl2pNOXyJxaWYoUy8yhJs5r6oU=/0x0/filters:format(jpeg)/pic8132819.jpg",
-      "thumbnail": "https://cf.geekdo-images.com/xvmy-AEGIVLJjiEg67CEPA__small/img/yjIPEK88zNtktJDkKuWaBmH0xgc=/fit-in/200x150/filters:strip_icc()/pic8132819.jpg",
-      "lastmodified": "2025-12-19 21:54:14",
+      "image": "https://cf.geekdo-images.com/Aa6ckg_1IrnBQjCbWOIQUA__original/img/O73HRkFyaMY5flxV4GDm_zOpwU0=/0x0/filters:format(jpeg)/pic9325017.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Aa6ckg_1IrnBQjCbWOIQUA__small/img/BM3q4jEAyBxQ0e_5yMCTmcRuxvs=/fit-in/200x150/filters:strip_icc()/pic9325017.jpg",
+      "lastmodified": "2026-06-26 16:23:45",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-09-19 16:48:51",
@@ -63687,6 +64262,29 @@
       "postdate": "2010-07-25 11:00:21",
       "rating": null,
       "ratingTimestamp": "2010-08-29 19:01:30"
+    },
+    {
+      "id": "300001",
+      "collid": "144443515",
+      "name": "Renature",
+      "image": "https://cf.geekdo-images.com/w1KgNmpX0_oo3Y9ENmtj0w__original/img/wL8X5HKPPoB4iYCcwBZ0r6WlGz4=/0x0/filters:format(jpeg)/pic5535714.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/w1KgNmpX0_oo3Y9ENmtj0w__small/img/JUJRim178mCB90Q1r93Ibv_ViDY=/fit-in/200x150/filters:strip_icc()/pic5535714.jpg",
+      "lastmodified": "2026-04-10 22:33:43",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-04-10 22:33:43",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
       "id": "1513",
@@ -67714,6 +68312,52 @@
       "ratingTimestamp": "2007-03-27 19:16:05"
     },
     {
+      "id": "441696",
+      "collid": "144443569",
+      "name": "Sanctuary",
+      "image": "https://cf.geekdo-images.com/C6V2VCtf1_7cavenn7Is3A__original/img/mdgxo4BZpLgvG20XfNHfMg8j8Go=/0x0/filters:format(jpeg)/pic8932906.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/C6V2VCtf1_7cavenn7Is3A__small/img/ZJJOWNSKk81xpvNkMpGd5T0ybLo=/fit-in/200x150/filters:strip_icc()/pic8932906.jpg",
+      "lastmodified": "2026-04-10 22:36:55",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-04-10 22:36:54",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "456590",
+      "collid": "144443534",
+      "name": "Sanctuary: Kiosk Promo Tile",
+      "image": "https://cf.geekdo-images.com/ovx8_ww7eE2AyJVg1lV6dg__original/img/S6rSw4wPjH6g8y8RK1AWzSLmz2w=/0x0/filters:format(png)/pic9183881.png",
+      "thumbnail": "https://cf.geekdo-images.com/ovx8_ww7eE2AyJVg1lV6dg__small/img/W3iWPk0bKHjx1sB2HRQRpi_0XJc=/fit-in/200x150/filters:strip_icc()/pic9183881.png",
+      "lastmodified": "2026-04-10 22:34:44",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-04-10 22:34:43",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "21367",
       "collid": "4678129",
       "name": "Sankt Petersburg: Das Bankett",
@@ -68961,10 +69605,10 @@
       "name": "SETI: Space Agencies",
       "image": "https://cf.geekdo-images.com/JMLgq_A4OE_dX423FeFcPA__original/img/75BD_5fAbW6gCvFOKSefCQpKNeY=/0x0/filters:format(png)/pic8857305.png",
       "thumbnail": "https://cf.geekdo-images.com/JMLgq_A4OE_dX423FeFcPA__small/img/L0iyv7R4pYVqA6KX5Ox6RNnpugk=/fit-in/200x150/filters:strip_icc()/pic8857305.png",
-      "lastmodified": "2025-12-30 17:21:19",
+      "lastmodified": "2026-02-05 16:35:00",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -68972,7 +69616,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-05-02 12:32:17",
       "rating": null,
@@ -72130,6 +72774,29 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
+      "id": "391834",
+      "collid": "141574656",
+      "name": "SpellBook",
+      "image": "https://cf.geekdo-images.com/FCjsAGFzJxWOfkWVxBA-gw__original/img/zQq7m0nkFk147eB53mHh_8c2L7Y=/0x0/filters:format(jpeg)/pic7568929.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/FCjsAGFzJxWOfkWVxBA-gw__small/img/Vk1reBV4r-WBLS67TW99WKWGLFA=/fit-in/200x150/filters:strip_icc()/pic7568929.jpg",
+      "lastmodified": "2026-01-21 01:33:18",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-01-21 01:33:18",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "130295",
       "collid": "18840648",
       "name": "Spellbound",
@@ -75240,17 +75907,17 @@
       "name": "Stich für Stich",
       "image": "https://cf.geekdo-images.com/X_6CVkaZ0KTqQuuNEiP-bg__original/img/AdxaQ1uv1k7Vatn57ih1KcnmZhY=/0x0/filters:format(jpeg)/pic7681011.jpg",
       "thumbnail": "https://cf.geekdo-images.com/X_6CVkaZ0KTqQuuNEiP-bg__small/img/fx17ccDRkgf8UHEl6FuWQ9mFckA=/fit-in/200x150/filters:strip_icc()/pic7681011.jpg",
-      "lastmodified": "2023-10-05 09:22:16",
+      "lastmodified": "2026-01-21 22:00:02",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 4,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2023-09-20 19:28:36",
@@ -76040,6 +76707,29 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
+      "id": "451809",
+      "collid": "145382015",
+      "name": "Superficial",
+      "image": "https://cf.geekdo-images.com/Z-IiD_JHcWUIS3Kww8BiEg__original/img/qx9otoKFo_qHLFKVRAG7IB_J0_Q=/0x0/filters:format(jpeg)/pic9032617.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Z-IiD_JHcWUIS3Kww8BiEg__small/img/yZmhMevDFj6hA45BqVbUbxU0dzo=/fit-in/200x150/filters:strip_icc()/pic9032617.jpg",
+      "lastmodified": "2026-05-10 21:47:56",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-05-10 21:47:55",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
       "id": "206156",
       "collid": "43092125",
       "name": "SUPERHOT: The Card Game",
@@ -76620,10 +77310,10 @@
       "name": "Tang Garden: Seasons",
       "image": "https://cf.geekdo-images.com/KNsllu0anUAPho-GvwbdgQ__original/img/YoVutvaebOX-EzOksE7lU_pyFOM=/0x0/filters:format(jpeg)/pic6631284.jpg",
       "thumbnail": "https://cf.geekdo-images.com/KNsllu0anUAPho-GvwbdgQ__small/img/dAghuMSv5fBzwl71REna3S6CY3E=/fit-in/200x150/filters:strip_icc()/pic6631284.jpg",
-      "lastmodified": "2022-03-02 22:45:43",
+      "lastmodified": "2026-04-18 22:41:19",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -76631,7 +77321,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2022-03-02 22:45:43",
       "rating": null,
@@ -77724,10 +78414,10 @@
       "name": "Terraforming Mars: Prelude 2",
       "image": "https://cf.geekdo-images.com/wdw44b8TUhIbK_k99sLPbQ__original/img/_XmjG-ReSgT0cv1kDeSAkQg74lc=/0x0/filters:format(jpeg)/pic7719173.jpg",
       "thumbnail": "https://cf.geekdo-images.com/wdw44b8TUhIbK_k99sLPbQ__small/img/DafOn2j3piL6MzwyPnPwmvBEAi8=/fit-in/200x150/filters:strip_icc()/pic7719173.jpg",
-      "lastmodified": "2023-12-05 10:40:57",
+      "lastmodified": "2026-04-18 22:40:16",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -77735,7 +78425,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2023-12-05 10:40:57",
       "rating": null,
@@ -77839,10 +78529,10 @@
       "name": "Terraforming Mars: Turmoil",
       "image": "https://cf.geekdo-images.com/KJHDZ_QwU6nAwrc53ixfJw__original/img/UPhbpsxHxAOdQT1zOpQoJgKWCs0=/0x0/filters:format(jpeg)/pic4599496.jpg",
       "thumbnail": "https://cf.geekdo-images.com/KJHDZ_QwU6nAwrc53ixfJw__small/img/EgKltMLq_GTj_TP6HGBml4Y98gk=/fit-in/200x150/filters:strip_icc()/pic4599496.jpg",
-      "lastmodified": "2019-08-26 18:10:18",
+      "lastmodified": "2026-04-18 22:37:11",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -77850,7 +78540,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2019-03-23 10:32:18",
       "rating": null,
@@ -78014,29 +78704,6 @@
         "preordered": false
       },
       "postdate": "2023-11-13 20:27:08",
-      "rating": null,
-      "ratingTimestamp": "0000-00-00 00:00:00"
-    },
-    {
-      "id": "462191",
-      "collid": "141007396",
-      "name": "The Gang: Deluxe Edition",
-      "image": "https://cf.geekdo-images.com/eIOV_ceUucPSHxYRTtC_wg__original/img/alRSMGzDN28b4zkWFSiO4MAW3jo=/0x0/filters:format(jpeg)/pic9328832.jpg",
-      "thumbnail": "https://cf.geekdo-images.com/eIOV_ceUucPSHxYRTtC_wg__small/img/HVIPSWpDM1uPj9BLymlcwGpzrpY=/fit-in/200x150/filters:strip_icc()/pic9328832.jpg",
-      "lastmodified": "2026-01-08 20:51:22",
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
-        "preordered": false
-      },
-      "postdate": "2026-01-08 20:51:22",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -79932,10 +80599,10 @@
       "name": "Tiny Epic Dungeons: Stories",
       "image": "https://cf.geekdo-images.com/Rsc9qhaotVfQ3Wx28BNzBA__original/img/GL1BvAiRp9tOYMGD74qLkhWldCo=/0x0/filters:format(png)/pic6158691.png",
       "thumbnail": "https://cf.geekdo-images.com/Rsc9qhaotVfQ3Wx28BNzBA__small/img/uiTqZ8ZPJIJTw0Xrc9sW98EoWws=/fit-in/200x150/filters:strip_icc()/pic6158691.png",
-      "lastmodified": "2022-02-12 11:02:37",
+      "lastmodified": "2026-04-18 22:36:31",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -79943,7 +80610,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2022-02-12 10:55:49",
       "rating": null,
@@ -79973,12 +80640,12 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
-      "id": "257283",
-      "collid": "53273472",
-      "name": "Tiny Epic Mechs",
-      "image": "https://cf.geekdo-images.com/auUjnvi2D596hPBz0z0Ybg__original/img/-Tf8kGrpfMkaEkXve-P1rgR3M5Y=/0x0/filters:format(jpeg)/pic4239499.jpg",
-      "thumbnail": "https://cf.geekdo-images.com/auUjnvi2D596hPBz0z0Ybg__small/img/0lUGODA2QrJVWjy5vYZF4Mwqz_M=/fit-in/200x150/filters:strip_icc()/pic4239499.jpg",
-      "lastmodified": "2018-11-08 16:14:31",
+      "id": "463329",
+      "collid": "146656695",
+      "name": "Tiny Epic Invincible",
+      "image": "https://cf.geekdo-images.com/eT0JVM8NZsQG-hTcG1IeTA__original/img/8OqE-1UfA3LwZmgO0sEStQPybco=/0x0/filters:format(png)/pic9371566.png",
+      "thumbnail": "https://cf.geekdo-images.com/eT0JVM8NZsQG-hTcG1IeTA__small/img/XMHqPgaks9oJ3jYv1VfSLhQEGkQ=/fit-in/200x150/filters:strip_icc()/pic9371566.png",
+      "lastmodified": "2026-06-20 11:42:23",
       "numplays": "0",
       "status": {
         "own": false,
@@ -79990,6 +80657,29 @@
         "wishlist": false,
         "wishlistpriority": null,
         "preordered": true
+      },
+      "postdate": "2026-06-20 11:42:23",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "257283",
+      "collid": "53273472",
+      "name": "Tiny Epic Mechs",
+      "image": "https://cf.geekdo-images.com/auUjnvi2D596hPBz0z0Ybg__original/img/-Tf8kGrpfMkaEkXve-P1rgR3M5Y=/0x0/filters:format(jpeg)/pic4239499.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/auUjnvi2D596hPBz0z0Ybg__small/img/0lUGODA2QrJVWjy5vYZF4Mwqz_M=/fit-in/200x150/filters:strip_icc()/pic4239499.jpg",
+      "lastmodified": "2026-04-18 22:36:13",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
       },
       "postdate": "2018-08-01 11:57:00",
       "rating": null,
@@ -80571,29 +81261,6 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
-      "id": "350692",
-      "collid": "108925440",
-      "name": "Too Many Bones: 40 Caves in Daelore",
-      "image": "https://cf.geekdo-images.com/mZIp-Ry4GRuUUVINVqpU_A__original/img/tNu3QqNeOxVELdpl4YiE7HKGtQg=/0x0/filters:format(jpeg)/pic6493747.jpg",
-      "thumbnail": "https://cf.geekdo-images.com/mZIp-Ry4GRuUUVINVqpU_A__small/img/63GUzUSXDSpZZC8MFA5j-TBs6E4=/fit-in/200x150/filters:strip_icc()/pic6493747.jpg",
-      "lastmodified": "2023-08-05 15:23:02",
-      "numplays": "0",
-      "status": {
-        "own": true,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": false
-      },
-      "postdate": "2023-08-05 15:23:02",
-      "rating": null,
-      "ratingTimestamp": "0000-00-00 00:00:00"
-    },
-    {
       "id": "239292",
       "collid": "108924069",
       "name": "Too Many Bones: 40 Days in Daelore",
@@ -81050,6 +81717,29 @@
         "preordered": false
       },
       "postdate": "2023-08-05 14:40:55",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "350692",
+      "collid": "108925440",
+      "name": "Too Many Bones: 40 Caves in Daelore",
+      "image": "https://cf.geekdo-images.com/mZIp-Ry4GRuUUVINVqpU_A__original/img/tNu3QqNeOxVELdpl4YiE7HKGtQg=/0x0/filters:format(jpeg)/pic6493747.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/mZIp-Ry4GRuUUVINVqpU_A__small/img/63GUzUSXDSpZZC8MFA5j-TBs6E4=/fit-in/200x150/filters:strip_icc()/pic6493747.jpg",
+      "lastmodified": "2023-08-05 15:23:02",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2023-08-05 15:23:02",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -82131,6 +82821,29 @@
         "preordered": false
       },
       "postdate": "2022-10-05 13:56:11",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "352515",
+      "collid": "141814040",
+      "name": "Trio",
+      "image": "https://cf.geekdo-images.com/BV4-X1deKoq6RkFtbVb7Hg__original/img/kJ7Hdk7n_JjT58VjZkU2cVmJVGo=/0x0/filters:format(jpeg)/pic9012576.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/BV4-X1deKoq6RkFtbVb7Hg__small/img/jYEZ9fVSZxwuIsb8ZwTirYHt9-U=/fit-in/200x150/filters:strip_icc()/pic9012576.jpg",
+      "lastmodified": "2026-01-26 11:13:31",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "postdate": "2026-01-26 11:13:30",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -83492,12 +84205,12 @@
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
     {
-      "id": "276104",
-      "collid": "124609853",
-      "name": "Underwater Cities: New Discoveries",
-      "image": "https://cf.geekdo-images.com/jHO0DWSbcAJZL6t35Ikyog__original/img/r2hZpWJNCPswSSk3LDBZ4AO7nH4=/0x0/filters:format(jpeg)/pic4997022.jpg",
-      "thumbnail": "https://cf.geekdo-images.com/jHO0DWSbcAJZL6t35Ikyog__small/img/NPRGtuaNnPezck1dpA3gU1z1Z8k=/fit-in/200x150/filters:strip_icc()/pic4997022.jpg",
-      "lastmodified": "2025-12-08 09:29:22",
+      "id": "440715",
+      "collid": "142104865",
+      "name": "Underwater Cities: Data Era",
+      "image": "https://cf.geekdo-images.com/6jth2BLeLCWhOzRV6zbBow__original/img/65DKgr6ikfhQ6nSiP2wGjgJ4LNA=/0x0/filters:format(jpeg)/pic8974495.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/6jth2BLeLCWhOzRV6zbBow__small/img/uV6JB0VvtO0B0X3xCWulhwrPT1g=/fit-in/200x150/filters:strip_icc()/pic8974495.jpg",
+      "lastmodified": "2026-02-02 13:35:19",
       "numplays": "0",
       "status": {
         "own": false,
@@ -83508,6 +84221,29 @@
         "wanttobuy": false,
         "wishlist": true,
         "wishlistpriority": 2,
+        "preordered": false
+      },
+      "postdate": "2026-02-02 13:35:18",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "276104",
+      "collid": "124609853",
+      "name": "Underwater Cities: New Discoveries",
+      "image": "https://cf.geekdo-images.com/jHO0DWSbcAJZL6t35Ikyog__original/img/r2hZpWJNCPswSSk3LDBZ4AO7nH4=/0x0/filters:format(jpeg)/pic4997022.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/jHO0DWSbcAJZL6t35Ikyog__small/img/NPRGtuaNnPezck1dpA3gU1z1Z8k=/fit-in/200x150/filters:strip_icc()/pic4997022.jpg",
+      "lastmodified": "2026-01-20 18:54:51",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2024-10-21 17:47:16",
@@ -85866,10 +86602,10 @@
       "name": "De Vulgari Eloquentia: Deluxe Edition",
       "image": "https://cf.geekdo-images.com/cuiKY2WCI4OxYbNXo-aIVQ__original/img/OJeaVHyQDt_XEfxseZk27pZDfHo=/0x0/filters:format(jpeg)/pic4908173.jpg",
       "thumbnail": "https://cf.geekdo-images.com/cuiKY2WCI4OxYbNXo-aIVQ__small/img/IQ6LeGwQ29V5J5LHk7MRzyT9txo=/fit-in/200x150/filters:strip_icc()/pic4908173.jpg",
-      "lastmodified": "2019-08-26 17:48:38",
+      "lastmodified": "2026-04-18 22:33:44",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -85877,7 +86613,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2019-03-23 11:34:57",
       "rating": null,
@@ -86047,20 +86783,20 @@
     {
       "id": "456246",
       "collid": "138110839",
-      "name": "Die wandelnden Türme: Der Zauberturm",
-      "image": "https://cf.geekdo-images.com/7Iuu9bEEDWn9HNS5Ns8-OA__original/img/3bfGuVVJaAOQHUbEdDbOFc2C__o=/0x0/filters:format(jpeg)/pic9162220.jpg",
-      "thumbnail": "https://cf.geekdo-images.com/7Iuu9bEEDWn9HNS5Ns8-OA__small/img/ImoUHbUetlIj9V6-HclJq_P5KWM=/fit-in/200x150/filters:strip_icc()/pic9162220.jpg",
-      "lastmodified": "2025-11-01 20:55:55",
+      "name": "Wandering Towers: The Magic Tower",
+      "image": "https://cf.geekdo-images.com/Rsl7toUy46LunbA2PVe5Ag__original/img/eMMjdW673e75lTsVADNQ2JaAp50=/0x0/filters:format(png)/pic9362042.png",
+      "thumbnail": "https://cf.geekdo-images.com/Rsl7toUy46LunbA2PVe5Ag__small/img/b4a56yEfwB7fzYIVt1lXI9QGIJc=/fit-in/200x150/filters:strip_icc()/pic9362042.png",
+      "lastmodified": "2026-04-10 22:28:02",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-11-01 20:55:40",
@@ -87108,10 +87844,10 @@
       "name": "The White Castle: Matcha",
       "image": "https://cf.geekdo-images.com/xPO9VCD5-KeLzukaWVTzGw__original/img/7rW0aqO1lkhBCrrQUM9XSkKQSbI=/0x0/filters:format(jpeg)/pic8179939.jpg",
       "thumbnail": "https://cf.geekdo-images.com/xPO9VCD5-KeLzukaWVTzGw__small/img/doB5UVNXWs5oKyKju_URNLFSMoY=/fit-in/200x150/filters:strip_icc()/pic8179939.jpg",
-      "lastmodified": "2024-06-20 22:53:19",
+      "lastmodified": "2026-04-18 22:33:27",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -87119,7 +87855,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2024-05-09 12:45:04",
       "rating": null,
@@ -87660,20 +88396,66 @@
       "name": "Wispwood",
       "image": "https://cf.geekdo-images.com/OymEgib8Sh3Mhup64pJX-A__original/img/pIvle5n77Ysb9_9Bzjwtguq1QHE=/0x0/filters:format(jpeg)/pic8857307.jpg",
       "thumbnail": "https://cf.geekdo-images.com/OymEgib8Sh3Mhup64pJX-A__small/img/wXH1XB5k_jQ8-oZdkcaSbdVzcjo=/fit-in/200x150/filters:strip_icc()/pic8857307.jpg",
-      "lastmodified": "2025-10-31 00:11:25",
-      "numplays": "0",
+      "lastmodified": "2026-04-18 22:30:01",
+      "numplays": "1",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 2,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2025-10-31 00:11:25",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "458031",
+      "collid": "144602002",
+      "name": "Wispwood: Alternate player cats & Scoring Promo Card",
+      "image": "https://cf.geekdo-images.com/jx9kXsXUfXKzE-d-lMzrVw__original/img/2-O0WSqvrhni4MMf4XTASnSdvbo=/0x0/filters:format(jpeg)/pic9300686.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/jx9kXsXUfXKzE-d-lMzrVw__small/img/y1HQD7-2JUGKvwjk3kbJLGTfAPc=/fit-in/200x150/filters:strip_icc()/pic9300686.jpg",
+      "lastmodified": "2026-04-18 22:32:58",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-04-15 18:00:57",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "461121",
+      "collid": "141777887",
+      "name": "Wispwood: Diagonalogs Promo Card",
+      "image": "https://cf.geekdo-images.com/EaL4Tmf_cq0LXDkAmLJQ2A__original/img/vz9HTkN_3qFFcGrxdAZCaeZWWR8=/0x0/filters:format(jpeg)/pic9375863.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/EaL4Tmf_cq0LXDkAmLJQ2A__small/img/G0B4QyGgg5Q1OdjV-mx9w9t09cs=/fit-in/200x150/filters:strip_icc()/pic9375863.jpg",
+      "lastmodified": "2026-01-25 15:22:12",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-01-25 15:22:12",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -88479,6 +89261,29 @@
         "preordered": false
       },
       "postdate": "2024-01-08 09:39:35",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "453406",
+      "collid": "142898264",
+      "name": "Wyrmspan: Dragon Academy",
+      "image": "https://cf.geekdo-images.com/JItWBskxjgKA8psXoHVCkA__original/img/75rOck_voOezRlrH5r397yrtjlU=/0x0/filters:format(jpeg)/pic9079437.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/JItWBskxjgKA8psXoHVCkA__small/img/9QpmriCuBCVuAdbwEcIJUd9NoQY=/fit-in/200x150/filters:strip_icc()/pic9079437.jpg",
+      "lastmodified": "2026-02-23 13:21:06",
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 1,
+        "preordered": false
+      },
+      "postdate": "2026-02-23 13:21:06",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },

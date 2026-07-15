@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-07-15T16:50:33.223Z",
+  "gameDetails": {
+    "id": "423517",
+    "name": "3 Chapters",
+    "type": "boardgame",
+    "description": "Once upon a time, there was a magical book of fairy tales that had three chapters. You will now live through that book in 3 Chapters, a trick-taking game with three game phases:\n\n&bull; Chapter 1: Start with eight cards in hand, choose one, then pass the remaining cards clockwise. Continue doing this until all cards are drafted.\n\n&bull; Chapter 2: Play one card each. The highest card wins the trick and receives two points. Additionally, compare the skills on your cards with one another as this can earn you additional points.\n\n&bull; Chapter 3: Finally, evaluate the skills within your selected hand cards. They can bring additional points in this chapter.\n\nIf you choose the fairy tale creatures wisely at the beginning, you can win plenty of tricks and collect lots of points. Clever card combinations can also bring points without tricks because everyone knows, say, that Hansel and Gretel are particularly strong as a team...\n\n",
+    "image": "https://cf.geekdo-images.com/es3F2drfUOIVnqsTds3BDQ__original/img/aagzL4ORPemw2xi3FL4575gKYhA=/0x0/filters:format(png)/pic8940639.png",
+    "thumbnail": "https://cf.geekdo-images.com/es3F2drfUOIVnqsTds3BDQ__small/img/bCpN5Ool_-QFKQbPlAfmIfFUdRI=/fit-in/200x150/filters:strip_icc()/pic8940639.png",
+    "link": "https://boardgamegeek.com/thing/423517",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "yearPublished": "2024",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4,
+      5
+    ],
+    "averageRating": "7.0305",
+    "averageWeight": "1.6571",
+    "boardGameRank": "1936",
+    "mechanics": [
+      "Closed Drafting",
+      "Set Collection",
+      "Trick-taking"
+    ],
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Joe Hout"
+    ]
+  }
+}

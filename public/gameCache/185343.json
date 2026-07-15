@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-07-15T17:44:08.201Z",
+  "gameDetails": {
+    "id": "185343",
+    "name": "Anachrony",
+    "type": "boardgame",
+    "description": "It is the late 26th century. Earth is recovering from a catastrophic explosion that exterminated the majority of the population centuries ago and made most of the surface uninhabitable due to unearthly weather conditions. The surviving humans organized along four radically different ideologies, called Paths, to rebuild the world as they see fit: Harmony, Dominance, Progress, and Salvation. Followers of the four Paths live in a fragile peace, but in almost complete isolation next to each other. Their only meeting point is the last major city on Earth, now just known as the Capital.\n\nBy powering up the mysterious Time Rifts that opened in the wake of the cataclysm, each Path is able to reach back to specific moments in their past. Doing so can greatly speed up their progress, but too much meddling may endanger the time-space continuum. But progress is more important than ever before: if the mysterious message arriving through the Time Rift is to be believed, an even more terrible cataclysm is looming on the horizon: an asteroid bearing the mysterious substance called Neutronium is heading towards Earth. Even stranger, the scientists show that the energy signature of the asteroid matches the explosion centuries ago...\n\nAnachrony features a unique two-tiered worker placement system. To travel to the Capital or venture out to the devastated areas for resources, players need not only various specialists (Engineers, Scientists, Administrators, and Geniuses) but also Exosuits to protect and enhance them &mdash; and both are in short supply.\n\nThe game is played in 4-7 turns, depending on the time when the looming cataclysm occurs &mdash; unless, of course, it is averted! The elapsed turns are measured on a dynamic timeline. By powering up the Time Rifts, players can reach back to earlier turns to supply their past \"self\" with resources. Each Path has a vastly different objective that rewards it with a massive amount of victory points when achieved. The Paths' settlements will survive the impact, but the Capital will not. Whichever Path manages to collect most points will be the new seat for the Capital, thus the most important force left on the planet...\n\n",
+    "image": "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__original/img/3KfMPSj7jjhG0g5lQBsO-bn67D0=/0x0/filters:format(jpeg)/pic3499707.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__small/img/a0G93aMOKp3_mmnCURYWuZd210U=/fit-in/200x150/filters:strip_icc()/pic3499707.jpg",
+    "link": "https://boardgamegeek.com/thing/185343",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2017",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "8.03674",
+    "averageWeight": "3.9966",
+    "boardGameRank": "61",
+    "mechanics": [
+      "Contracts",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "End Game Bonuses",
+      "Events",
+      "Map Reduction",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Turn Order: Claim Action",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "categories": [
+      "Economic",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Dávid Turczi",
+      "Richard Ámann",
+      "Viktor Péter"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-07-15T16:51:31.403Z",
+  "gameDetails": {
+    "id": "400495",
+    "name": "JinxO",
+    "type": "boardgame",
+    "description": "JinxO is a competitive word-association game.\nThe aim: to score the most points by writing down answers that matches other people in the group. Be careful with your words! If your answer doesn't match anybody in the group, you receive no points. However, if only one other person matches with you, JINX! You score more points -&nbsp;it's&nbsp;a&nbsp;JinxO!\n\n",
+    "image": "https://cf.geekdo-images.com/SWf1TYdfZR82C3cm6YIUEg__original/img/CNODE55poaLklfRx3mij5yfIm6U=/0x0/filters:format(jpeg)/pic8402537.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SWf1TYdfZR82C3cm6YIUEg__small/img/MKbR2_peF6X7o9Mcz196rnKLolQ=/fit-in/200x150/filters:strip_icc()/pic8402537.jpg",
+    "link": "https://boardgamegeek.com/thing/400495",
+    "minPlayers": "4",
+    "maxPlayers": "7",
+    "yearPublished": "2024",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      5,
+      6
+    ],
+    "averageRating": "7.3381",
+    "averageWeight": "1.1",
+    "boardGameRank": "5112",
+    "mechanics": [],
+    "categories": [
+      "Humor",
+      "Party Game"
+    ],
+    "designers": [
+      "Martin Ang"
+    ]
+  }
+}

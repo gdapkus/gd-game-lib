@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-07-15T16:47:18.915Z",
+  "gameDetails": {
+    "id": "453740",
+    "name": "Container",
+    "type": "boardgame",
+    "description": "Every decision you make in Container shapes the market. During play, you build factories, produce containers, set prices, negotiate with your rivals, sail across the sea to trade, and (obviously) buy low, and sell high. At least that's the goal &mdash; but can you make it happen?\n\nThe rules for Container are simple; the real challenge is understanding and timing the market. Players build machines, warehouses, and containers, then sail your containers to the island and auction them off.  Be careful with your money &mdash; in the closed economy, money's tight and your opponents are cutthroat!\n\nAt the beginning of the game, container value cards are secretly dealt to all players. Because these values aren&rsquo;t shown, you&rsquo;ll have to suss out what your opponents are going for throughout the game! But at final scoring, these come into play.  The player with the most money wins.\n\n",
+    "image": "https://cf.geekdo-images.com/AXJ3ur6OZecgmPSACVm2Lw__original/img/Eu753bTK_xgrPZUkMsL76m0e8nM=/0x0/filters:format(jpeg)/pic9085223.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AXJ3ur6OZecgmPSACVm2Lw__small/img/c0Y6cYn2rNN4oxcd3InUsOCxd3k=/fit-in/200x150/filters:strip_icc()/pic9085223.jpg",
+    "link": "https://boardgamegeek.com/thing/453740",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "yearPublished": "2026",
+    "playingTime": "90",
+    "minPlayingTime": "45",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      5
+    ],
+    "averageRating": "7.97754",
+    "averageWeight": "2.9189",
+    "boardGameRank": "2791",
+    "mechanics": [
+      "Auction / Bidding",
+      "Closed Economy Auction",
+      "Commodity Speculation",
+      "Loans",
+      "Pick-up and Deliver",
+      "Set Collection"
+    ],
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Transportation"
+    ],
+    "designers": [
+      "Franz-Benno Delonge",
+      "Thomas Ewert",
+      "Kevin Nesbitt"
+    ]
+  }
+}

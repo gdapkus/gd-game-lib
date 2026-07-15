@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-15T16:47:24.113Z",
+  "gameDetails": {
+    "id": "456440",
+    "name": "Cozy Stickerville",
+    "type": "boardgame",
+    "description": "Explore the land, uncover mysteries, and follow your residents&rsquo; personal stories. Build your Village with over 800 stickers featuring houses, farms, shops, animals, and so much more! As your village grows, so do your options: go fishing, explore the mine, find true love, and more!\n\nCreate your legacy as your choices unlock new options and can have lasting repercussions in future games. The buildings you choose have unique effects, and each decision creates new possibilities in future years.\n\nExplore and Discover as you help residents pursue personal stories, go fishing, explore the mine, and \nuncover hidden mysteries.\n\nA Game For Everyone!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__original/img/9ai5WpyU0jn1cCwAiRaGIQy-VqQ=/0x0/filters:format(png)/pic9171780.png",
+    "thumbnail": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__small/img/SRpAFFgh4mpyvCqzq8kc3B6_7F4=/fit-in/200x150/filters:strip_icc()/pic9171780.png",
+    "link": "https://boardgamegeek.com/thing/456440",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "yearPublished": "2026",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.26334",
+    "averageWeight": "1.2222",
+    "boardGameRank": "751",
+    "mechanics": [
+      "Cooperative Game",
+      "Legacy Game",
+      "Narrative Choice / Paragraph",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Adventure",
+      "City Building",
+      "Exploration"
+    ],
+    "designers": [
+      "Corey Konieczka"
+    ]
+  }
+}

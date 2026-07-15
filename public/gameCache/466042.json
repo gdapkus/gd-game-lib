@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-07-15T16:47:50.106Z",
+  "gameDetails": {
+    "id": "466042",
+    "name": "Mage Knight: Emergence – The Portal to Power",
+    "type": "boardgame",
+    "description": "Whether you&rsquo;re discovering Mage Knight for the first time or adding to a long-standing collection, Mage Knight: Emergence delivers meaningful new adventures while preserving the core gameplay that made Mage Knight a modern classic.\n\nMage Knight: Emergence expands the world of Mage Knight with an all-new standalone release that is fully compatible with existing Mage Knight content. It&rsquo;s the same deep, strategic experience fans love, now with new heroes, new challenges, and a streamlined path for new players to enter the game.\n\n\n     Meet two powerful new Heroes. Darraz Firerock and Evinya Freegrove join the fight. Both are bound to the mysterious Council of the Void and walk very different paths. Darraz is a resilient, forceful hero built for players who favor strength and calculated power, while Evinya is a master of stealth and archery who rewards precision, mobility, and decisive strikes.\n\n\n\n     Perfect for new AND experienced players. Mage Knight: Emergence - The Portal to Power has everything 2 players need to start a game, and expands to 3-4 players with other Mage Knight products. It features three guided scenarios that help ease new players into Mage Knight, along with 5 new full scenarios packed with strategy. \n\n\n\n     Enjoy expanded content for endless strategy. This new standalone game builds on the legacy of one of the most respected strategy games. It offers a true entry point for new players and meaningful new content for longtime fans &mdash; find new heroes, new challenges, and a streamlined path for new players to enter the game! \n\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/PVJs82fcDaBjgYBy6wDZ8w__original/img/aH9G_R3_0dffnhOIXzFTODJsN5k=/0x0/filters:format(jpeg)/pic9445794.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PVJs82fcDaBjgYBy6wDZ8w__small/img/2XLPzFoDupDtv0VCIY0QayJvYIM=/fit-in/200x150/filters:strip_icc()/pic9445794.jpg",
+    "link": "https://boardgamegeek.com/thing/466042",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2027",
+    "playingTime": "60",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "7.42857",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers"
+    ],
+    "categories": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "designers": [
+      "Phil Pettifer",
+      "Vlaada Chvátil"
+    ]
+  }
+}

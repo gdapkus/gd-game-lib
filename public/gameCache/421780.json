@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-07-15T17:45:26.423Z",
+  "gameDetails": {
+    "id": "421780",
+    "name": "Wild Gardens: Community Expansion Pack",
+    "type": "boardgameexpansion",
+    "description": "Get ready to step into the limelight and become the next big thing in Wild Gardens with the community pack! The content inside was voted on by our fans as the most requested ingredients and recipes. The Community Expansion Pack includes 8 new guests, tantalizing recipes, a new location, and a new solo adventure.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/ou_gRMhs5TiUyFTkIajuUA__original/img/NhjNRnoxfj1tyLS_Nl_f513SCV8=/0x0/filters:format(png)/pic8225077.png",
+    "thumbnail": "https://cf.geekdo-images.com/ou_gRMhs5TiUyFTkIajuUA__small/img/cTTyCLTm5sWDtm8lAkg_-WPxED8=/fit-in/200x150/filters:strip_icc()/pic8225077.png",
+    "link": "https://boardgamegeek.com/thing/421780",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": null,
+    "averageRating": "7.84074",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Action Points",
+      "Action Retrieval",
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "End Game Bonuses",
+      "Events",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Score-and-Reset Game",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Environmental"
+    ],
+    "designers": [
+      "Isaac Vega"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-07-15T16:58:14.211Z",
+  "gameDetails": {
+    "id": "467399",
+    "name": "Arkham Horror: The Card Game – André Patel Investigator Deck",
+    "type": "boardgameexpansion",
+    "description": "Introducing Andr&eacute; Patel, the latest and greatest star of the silver screen! With a smile and a wink, Andr&eacute; steals the show with his extra actions and versatility, ensuring that every scene is a blockbuster performance.\n\nThis Investigator Deck for Arkham Horror: The Card Game comes with a pre-built, ready-to-play Rogue deck, allowing you to jump into a campaign from the moment you open the box. Also included are additional cards for upgrading the deck during a campaign.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/96YyrvzM4D3tywQlOwEumw__original/img/oHELUYwjcagQ-7Ygca80BT1hSrk=/0x0/filters:format(jpeg)/pic9528054.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/96YyrvzM4D3tywQlOwEumw__small/img/_gDGZE-9pN2_E3Yo0tkUAOv9uTM=/fit-in/200x150/filters:strip_icc()/pic9528054.jpg",
+    "link": "https://boardgamegeek.com/thing/467399",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.79805",
+    "averageWeight": "3.5",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Cooperative Game",
+      "Deck Construction",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Fantasy",
+      "Horror",
+      "Novel-based"
+    ],
+    "designers": [
+      "Waleed Ma'arouf"
+    ]
+  }
+}

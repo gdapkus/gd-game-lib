@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-15T16:52:23.664Z",
+  "gameDetails": {
+    "id": "458031",
+    "name": "Wispwood: Alternate player cats & Scoring Promo Card",
+    "type": "boardgameexpansion",
+    "description": "Alternate set of 6 player cats with different art + an extra scoring card (for the orbs) for Wispwood.\n\nIt was given for free if you pre-ordered the game from CGE and will be for sale later.\n\n",
+    "image": "https://cf.geekdo-images.com/jx9kXsXUfXKzE-d-lMzrVw__original/img/2-O0WSqvrhni4MMf4XTASnSdvbo=/0x0/filters:format(jpeg)/pic9300686.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jx9kXsXUfXKzE-d-lMzrVw__small/img/y1HQD7-2JUGKvwjk3kbJLGTfAPc=/fit-in/200x150/filters:strip_icc()/pic9300686.jpg",
+    "link": "https://boardgamegeek.com/thing/458031",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "45",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "45",
+    "bestAtCount": null,
+    "averageRating": "6.85294",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Grid Coverage",
+      "Open Drafting",
+      "Pattern Building",
+      "Score-and-Reset Game",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Abstract Strategy",
+      "Fantasy"
+    ],
+    "designers": [
+      "Reed Ambrose"
+    ]
+  }
+}

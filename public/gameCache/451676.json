@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-07-15T16:51:15.684Z",
+  "gameDetails": {
+    "id": "451676",
+    "name": "Galileo's Truth",
+    "type": "boardgame",
+    "description": "The year is 1610. The world, as we know it, is on the precipice of change, a fragile balance between ancient dogma and dawning reason. Whispers of a new truth echo through the hallowed halls of academia and across bustling piazzas. Nicolaus Copernicus's radical theory, once a fringe idea, now finds a formidable champion in Galileo Galilei, whose revolutionary observations of the cosmos threaten to dismantle the very foundations of accepted knowledge.\nYou are a scholar, a brilliant mind in an age of intellectual ferment, drawn into the exhilarating and perilous quest for understanding. Armed with your intellect, you'll write groundbreaking treatises, unveil ingenious inventions and turn your gaze skyward, observing the celestial dance through newly crafted telescopes; while the shadow of the Inquisition looms large, its watchful eyes scrutinizing every discovery, every whispered theory. One misstep, one too-bold pronouncement, could lead to your arrest, your work condemned, and perhaps, a fiery end. Will you pursue the truth, or will the chilling grip of fear force you to recant? The fate of knowledge, and perhaps your very life, rests in your hands.\n\nGalileo&rsquo;s Truth is a competitive game for 1 to 4 players featuring mechanics like deck building, worker placement, resource management and the threatening management of the Suspicion&hellip;  \nPlayers will alternate turns performing actions such as:\n\nWrite a Treatise to add more cards to their deck, increasing their opportunities to do big and articulate actions.\nCreate an Invention to gain powerful abilities, increase their income and grow their scoring opportunities.\nObserve the Sky to unlock a sequence of progressively stronger bonuses and actions.\n\nAnd many others!\n\nBut be careful, because the watchful eye of the Inquisition will judge all your actions. As Suspicion grows, you'll gain Penance cards that clog up your deck and potentially score negative points at the end of the game. Most dangerously, you could end up in jail, unable to use your only worker, or even worse&hellip; the fire of purification will await you.\n\nThe intense mechanic of Suspicion is further enriched by the victory point track. As you pull ahead on the victory point track, leaving others behind, you'll gain even more Suspicion. Will you boldly pursue the truth and risk the Inquisition's punishment, or will you choose a more cautious path, perhaps even appearing assertive towards the Church?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/rxTaDS5kX4Bq27RYHtWg6A__original/img/uICaEPS0i1K2usa72zUsGEDxit4=/0x0/filters:format(png)/pic9025953.png",
+    "thumbnail": "https://cf.geekdo-images.com/rxTaDS5kX4Bq27RYHtWg6A__small/img/TtmGjxNmQUDxA_tjf5RRJSEwLcs=/fit-in/200x150/filters:strip_icc()/pic9025953.png",
+    "link": "https://boardgamegeek.com/thing/451676",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "7.79065",
+    "averageWeight": "3.625",
+    "boardGameRank": "17349",
+    "mechanics": [
+      "Closed Drafting",
+      "Contracts",
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Grid Coverage",
+      "Hand Management",
+      "Income",
+      "Layering",
+      "Multi-Use Cards",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Tech Trees / Tech Tracks",
+      "Tile Placement",
+      "Turn Order: Pass Order",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [],
+    "designers": [
+      "Flaminia Brasini",
+      "Virginio Gigli"
+    ]
+  }
+}

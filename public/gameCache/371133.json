@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-07-15T17:45:21.259Z",
+  "gameDetails": {
+    "id": "371133",
+    "name": "Wild Gardens",
+    "type": "boardgame",
+    "description": "Discover the exciting world of foraging where new foods and friends await!\n\nWild Gardens is a strategy game where 1-4 players take on the role of foragers, competing to cook delicious meals for the most discerning of guests. Travel to a variety of locations, carefully planning your moves to gather ingredients, upgrade your skills, complete recipes, and serve up your creations to a host of hungry guests. Personalize your foraging strategy to suit your unique playstyle and turn those tasty dishes and satisfied guests into valuable victory points. The player with the most points at the end of the game wins!\n\n",
+    "image": "https://cf.geekdo-images.com/TALoYeirrsT-eqN0T5ak2g__original/img/pRsG3vAwj_Sm1Wu1fDfAWJiRRvA=/0x0/filters:format(png)/pic7111048.png",
+    "thumbnail": "https://cf.geekdo-images.com/TALoYeirrsT-eqN0T5ak2g__small/img/tM8Ud5INOBAY4-1ruAaW36M6Q6o=/fit-in/200x150/filters:strip_icc()/pic7111048.png",
+    "link": "https://boardgamegeek.com/thing/371133",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "120",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.62541",
+    "averageWeight": "2.7143",
+    "boardGameRank": "3956",
+    "mechanics": [
+      "Action Points",
+      "Action Retrieval",
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "End Game Bonuses",
+      "Events",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Score-and-Reset Game",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Environmental"
+    ],
+    "designers": [
+      "Isaac Vega"
+    ]
+  }
+}

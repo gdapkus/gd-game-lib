@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-07-15T16:47:03.109Z",
+  "gameDetails": {
+    "id": "415314",
+    "name": "Barcelona: Passeig de Gràcia",
+    "type": "boardgameexpansion",
+    "description": "Of all the streets of the Eixample, Passeig de Gr&agrave;cia is the most iconic. First, it was just a road connecting Barcelona and the former town of Gr&agrave;cia, now a major district of Barcelona. It became a promenade where Barcelona&rsquo;s citizens went to relax, and was filled with restaurants, coffee shops, ballrooms, theaters, parks, and even rollercoasters. Unfortunately, these amenities were only available to the upper and middle classes, as they were often part of private gardens.\n\nWhen construction of the Eixample started, all of these features were removed to make room for buildings, but it did not diminish Passeig de Gr&agrave;cia importance. Many rich citizens decided to build their houses there, hiring the most famous modernist architects, who created some of the most iconic landmarks of the city.\n\nBarcelona: Passeig de Gr&agrave;cia is an expansion for Barcelona and thus you need a copy of the base game to play it. The new elements brought by this expansion are Pedestrians who walk along the Passeig de Gr&agrave;cia enjoying various amenities there. The more pleasant their walk, the bigger the rewards you gain once they reach their destination.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/6D3xJEyZ2llIFFF3ur7pwQ__original/img/1JZUZjCxMta8ABbJlkvU0RXXTgM=/0x0/filters:format(jpeg)/pic8051209.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6D3xJEyZ2llIFFF3ur7pwQ__small/img/d4F5MXqT7JtLH_uH_ZzJM4BVK1g=/fit-in/200x150/filters:strip_icc()/pic8051209.jpg",
+    "link": "https://boardgamegeek.com/thing/415314",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2024",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "7.96529",
+    "averageWeight": "3.3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Different Dice Movement",
+      "End Game Bonuses",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "City Building"
+    ],
+    "designers": [
+      "Dani Garcia"
+    ]
+  }
+}

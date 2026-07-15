@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-07-15T16:51:57.463Z",
+  "gameDetails": {
+    "id": "456590",
+    "name": "Sanctuary: Kiosk Promo Tile",
+    "type": "boardgameexpansion",
+    "description": "This promo card was available at different events to promote the game launch.\n\nPlace adjacent to any card with petting zoo icon. Scores two points per directly adjacent petting zoo icon at the end of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/ovx8_ww7eE2AyJVg1lV6dg__original/img/S6rSw4wPjH6g8y8RK1AWzSLmz2w=/0x0/filters:format(png)/pic9183881.png",
+    "thumbnail": "https://cf.geekdo-images.com/ovx8_ww7eE2AyJVg1lV6dg__small/img/W3iWPk0bKHjx1sB2HRQRpi_0XJc=/fit-in/200x150/filters:strip_icc()/pic9183881.png",
+    "link": "https://boardgamegeek.com/thing/456590",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "yearPublished": "2025",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": null,
+    "averageRating": "7.60426",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [],
+    "categories": [
+      "Expansion for Base-game"
+    ],
+    "designers": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-07-15T16:47:44.873Z",
+  "gameDetails": {
+    "id": "400498",
+    "name": "Light Speed: Arena",
+    "type": "boardgame",
+    "description": "A real-time tabletop shooter in which you aim with your tiles and take a smartphone picture to let the app unfold the battle for you. As the roar of the crowd resonates, the arena is lit with the brilliant glow of sponsor ads: Pick your faction and step into battle.  Tactically place and orient your spaceships to score the most points by taking down enemy vehicles, collecting mineral units from asteroids, and impressing the game sponsors.\n\nThis is a real-time, tile laying game. The game begins with two tiles in the center and starting the timer.\n\nEvery round, each player places one spaceship anywhere on the battlefield while everybody else is doing the same! Aim at enemies and asteroids, while appealing to the sponsors and avoiding friendly fire. After 8 rounds, players stop and take a photo with the companion app.\n\nThe companion app will play the battle for you and calculate the scores.\n\nScores can also be calculated manually with the Downgrade Pack.\n\n",
+    "image": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__original/img/WYNbP3hN-y7GW00bzsbWMDoDWVw=/0x0/filters:format(png)/pic8866023.png",
+    "thumbnail": "https://cf.geekdo-images.com/CDXjBe6BSZduljxwMhSKug__small/img/1HP4zxm2d5kTCEZw5oe08ex6Ylc=/fit-in/200x150/filters:strip_icc()/pic8866023.png",
+    "link": "https://boardgamegeek.com/thing/400498",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2025",
+    "playingTime": "15",
+    "minPlayingTime": "5",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.52557",
+    "averageWeight": "1.1207",
+    "boardGameRank": "1994",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Elapsed Real Time Ending",
+      "End Game Bonuses",
+      "Line of Sight",
+      "Real-Time",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Fighting",
+      "Party Game",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Leonardo Alese",
+      "James Ernest",
+      "Tom Jolly",
+      "Emanuele Santellani"
+    ]
+  }
+}

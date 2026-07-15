@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-07-15T16:58:45.465Z",
+  "gameDetails": {
+    "id": "455768",
+    "name": "Ashes Reborn: Red Rains – The End of Argaia",
+    "type": "boardgameexpansion",
+    "description": "Once, in a timeline now dead, the Phoenixborn Jericho won the Collection of Ashes and ascended to godhood. But omniscience changed her, and filled with regret, she denied the Phoenix and renounced her throne. Now, through the blasphemous power of the Red Rains, the celestial animosity wrought by Jericho's fateful decision has manifested, and the fate of Argaia hangs in the balance.\n\nWield one of four returning Phoenixborn: Jericho, Rowan, Tristan, or Orrick. Use the new player cards in this set or a deck of your own design, and stand against this new evil!\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/D9r6GooYRxetpuSR6QpMnA__original/img/9YhegNs0eCL8o-Gv68Du0LDmrpI=/0x0/filters:format(jpeg)/pic9146632.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/D9r6GooYRxetpuSR6QpMnA__small/img/JpUg928GzpAif4hdDepqmY1-OQE=/fit-in/200x150/filters:strip_icc()/pic9146632.jpg",
+    "link": "https://boardgamegeek.com/thing/455768",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2025",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": null,
+    "averageRating": "8.725",
+    "averageWeight": "0",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Cooperative Game",
+      "Deck Construction",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Dice"
+    ],
+    "designers": [
+      "Nick Conley"
+    ]
+  }
+}

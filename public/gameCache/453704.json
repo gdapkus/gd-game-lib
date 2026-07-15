@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-07-15T16:48:16.169Z",
+  "gameDetails": {
+    "id": "453704",
+    "name": "Triangulation",
+    "type": "boardgame",
+    "description": "Each round in Triangulation, you give three clues, trying to get your teammates to guess the secret answer using word association. The twist? Your opponents get to guess first, using the first two clues.\n\nCan you be obscure enough so that they can't suss it out, but make it perfectly clear for your team when they get all three clues?\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/SKegtiurcEH9Myx5s0vgrg__original/img/ivf9P3dfiC0dEig4609_lMrwPeU=/0x0/filters:format(jpeg)/pic9085209.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SKegtiurcEH9Myx5s0vgrg__small/img/INaAnUYTQktdUfn_1cfaQu-EH0Q=/fit-in/200x150/filters:strip_icc()/pic9085209.jpg",
+    "link": "https://boardgamegeek.com/thing/453704",
+    "minPlayers": "3",
+    "maxPlayers": "8",
+    "yearPublished": "2026",
+    "playingTime": "20",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "20",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "7.04192",
+    "averageWeight": "1",
+    "boardGameRank": "11883",
+    "mechanics": [
+      "Communication Limits",
+      "Targeted Clues",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Deduction",
+      "Party Game",
+      "Word Game"
+    ],
+    "designers": [
+      "Peter C. Hayward"
+    ]
+  }
+}
