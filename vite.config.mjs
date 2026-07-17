@@ -56,6 +56,7 @@ export default defineConfig({
   },
   server: {
     port: 3000, // Vite development server port
+    allowedHosts: ['games.dapk.us'],
     proxy: {
       // Proxy API calls to the Express server running on port 5000
       '/api': {
