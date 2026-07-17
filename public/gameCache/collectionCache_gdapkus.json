@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T16:46:45.701Z",
+  "timestamp": "2026-07-17T17:38:02.467Z",
   "games": [
     {
       "id": "363039",
@@ -5642,10 +5642,10 @@
       "name": "Cozy Stickerville",
       "image": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__original/img/9ai5WpyU0jn1cCwAiRaGIQy-VqQ=/0x0/filters:format(png)/pic9171780.png",
       "thumbnail": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__small/img/SRpAFFgh4mpyvCqzq8kc3B6_7F4=/fit-in/200x150/filters:strip_icc()/pic9171780.png",
-      "lastmodified": "2026-07-13 15:57:08",
+      "lastmodified": "2026-07-17 12:36:50",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -5653,7 +5653,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2026-07-13 15:57:08",
       "rating": null,
@@ -10840,17 +10840,17 @@
       "name": "Inside Job",
       "image": "https://cf.geekdo-images.com/Kimz03Spg3dB96_O-xbcPg__original/img/306hB7Q2HkcGe1DTiqKOnVNU03Q=/0x0/filters:format(png)/pic7233520.png",
       "thumbnail": "https://cf.geekdo-images.com/Kimz03Spg3dB96_O-xbcPg__small/img/4MXilcl8plyqXtNQoCk6pE_lroM=/fit-in/200x150/filters:strip_icc()/pic7233520.png",
-      "lastmodified": "2022-10-10 01:48:43",
+      "lastmodified": "2026-07-15 20:42:43",
       "numplays": "0",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 4,
+        "wishlist": false,
+        "wishlistpriority": null,
         "preordered": false
       },
       "postdate": "2022-10-10 01:48:42",
@@ -18361,7 +18361,30 @@
       "name": "Shackleton Base: A Journey to the Moon",
       "image": "https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__original/img/-QciIr30xD5cVmYZVZ_VwuigwSQ=/0x0/filters:format(jpeg)/pic7897060.jpg",
       "thumbnail": "https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__small/img/DAbZgOJbckBSg9Qq8rpdEhzpq_I=/fit-in/200x150/filters:strip_icc()/pic7897060.jpg",
-      "lastmodified": "2026-07-13 15:55:33",
+      "lastmodified": "2026-07-17 12:37:04",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2025-04-21 15:31:59",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "453037",
+      "collid": "147483912",
+      "name": "Shackleton Base: Below. Within. Above.",
+      "image": "https://cf.geekdo-images.com/IcKUoliV8iDb9RcRRE4FBg__original/img/9Y1jsEsUqAsNcsGT4pCvqSxJU4w=/0x0/filters:format(png)/pic9474732.png",
+      "thumbnail": "https://cf.geekdo-images.com/IcKUoliV8iDb9RcRRE4FBg__small/img/YRhBbmM31ujZd-QMePciJX9T34Y=/fit-in/200x150/filters:strip_icc()/pic9474732.png",
+      "lastmodified": "2026-07-17 12:37:26",
       "numplays": "0",
       "status": {
         "own": false,
@@ -18370,11 +18393,11 @@
         "want": false,
         "wanttoplay": false,
         "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
       },
-      "postdate": "2025-04-21 15:31:59",
+      "postdate": "2026-07-17 12:37:26",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },

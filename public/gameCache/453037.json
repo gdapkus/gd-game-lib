@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-07-17T17:38:05.656Z",
+  "gameDetails": {
+    "id": "453037",
+    "name": "Shackleton Base: Below. Within. Above.",
+    "type": "boardgameexpansion",
+    "description": "Shackleton Base: Below. Within. Above. continues the story of humanity&rsquo;s settlement on the Moon. Discover three new corporations and a new space agency: India! \n\n     Lunar City focuses on attracting civilian settlers to the Moon.\n     Undermoon introduces an advanced excavation system, allowing players to dig tunnels beneath their existing structures.\n     With Zenith Works, players can collaborate with a powerful construction conglomerate to build shared infrastructure.\n\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/IcKUoliV8iDb9RcRRE4FBg__original/img/9Y1jsEsUqAsNcsGT4pCvqSxJU4w=/0x0/filters:format(png)/pic9474732.png",
+    "thumbnail": "https://cf.geekdo-images.com/IcKUoliV8iDb9RcRRE4FBg__small/img/YRhBbmM31ujZd-QMePciJX9T34Y=/fit-in/200x150/filters:strip_icc()/pic9474732.png",
+    "link": "https://boardgamegeek.com/thing/453037",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2026",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      1
+    ],
+    "averageRating": "8.48169",
+    "averageWeight": "4",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Fabio Lopiano",
+      "Nestore Mangone"
+    ]
+  }
+}

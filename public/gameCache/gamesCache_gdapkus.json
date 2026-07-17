@@ -1,6 +1,193 @@
 {
-  "timestamp": "2026-07-15T16:48:54.734Z",
+  "timestamp": "2026-07-17T17:38:13.702Z",
   "games": [
+    {
+      "id": "453037",
+      "name": "Shackleton Base: Below. Within. Above.",
+      "yearPublished": "2026",
+      "type": "boardgameexpansion",
+      "postdate": "2026-07-17 12:37:26",
+      "lastmodified": "2026-07-17 12:37:26",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": false,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": true,
+        "wishlistpriority": 3,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/IcKUoliV8iDb9RcRRE4FBg__small/img/YRhBbmM31ujZd-QMePciJX9T34Y=/fit-in/200x150/filters:strip_icc()/pic9474732.png",
+      "link": "https://boardgamegeek.com/thing/453037",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "1",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.48169",
+      "averageWeight": "4",
+      "boardGameRank": "Not Ranked",
+      "mechanics": [
+        "Variable Set-up",
+        "Worker Placement"
+      ],
+      "categories": [
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Fabio Lopiano",
+        "Nestore Mangone"
+      ]
+    },
+    {
+      "id": "408180",
+      "name": "Shackleton Base: A Journey to the Moon",
+      "yearPublished": "2024",
+      "type": "boardgame",
+      "postdate": "2025-04-21 15:31:59",
+      "lastmodified": "2026-07-17 12:37:04",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__small/img/DAbZgOJbckBSg9Qq8rpdEhzpq_I=/fit-in/200x150/filters:strip_icc()/pic7897060.jpg",
+      "link": "https://boardgamegeek.com/thing/408180",
+      "minPlayers": "1",
+      "maxPlayers": "4",
+      "bestAtCount": "3",
+      "playingTime": "120",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "120",
+      "averageRating": "8.00943",
+      "averageWeight": "3.8805",
+      "boardGameRank": "718",
+      "mechanics": [
+        "Variable Set-up",
+        "Worker Placement, Different Worker Types"
+      ],
+      "categories": [
+        "Science Fiction",
+        "Space Exploration"
+      ],
+      "designers": [
+        "Fabio Lopiano",
+        "Nestore Mangone"
+      ]
+    },
+    {
+      "id": "456440",
+      "name": "Cozy Stickerville",
+      "yearPublished": "2026",
+      "type": "boardgame",
+      "postdate": "2026-07-13 15:57:08",
+      "lastmodified": "2026-07-17 12:36:50",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__small/img/SRpAFFgh4mpyvCqzq8kc3B6_7F4=/fit-in/200x150/filters:strip_icc()/pic9171780.png",
+      "link": "https://boardgamegeek.com/thing/456440",
+      "minPlayers": "1",
+      "maxPlayers": "6",
+      "bestAtCount": "2",
+      "playingTime": "30",
+      "minPlayingTime": "30",
+      "maxPlayingTime": "30",
+      "averageRating": "8.26334",
+      "averageWeight": "1.2222",
+      "boardGameRank": "751",
+      "mechanics": [
+        "Cooperative Game",
+        "Legacy Game",
+        "Narrative Choice / Paragraph",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game"
+      ],
+      "categories": [
+        "Adventure",
+        "City Building",
+        "Exploration"
+      ],
+      "designers": [
+        "Corey Konieczka"
+      ]
+    },
+    {
+      "id": "324914",
+      "name": "Inside Job",
+      "yearPublished": "2022",
+      "type": "boardgame",
+      "postdate": "2022-10-10 01:48:42",
+      "lastmodified": "2026-07-15 20:42:43",
+      "myrating": null,
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "thumbnail": "https://cf.geekdo-images.com/Kimz03Spg3dB96_O-xbcPg__small/img/4MXilcl8plyqXtNQoCk6pE_lroM=/fit-in/200x150/filters:strip_icc()/pic7233520.png",
+      "link": "https://boardgamegeek.com/thing/324914",
+      "minPlayers": "2",
+      "maxPlayers": "5",
+      "bestAtCount": "4, 5",
+      "playingTime": "30",
+      "minPlayingTime": "20",
+      "maxPlayingTime": "30",
+      "averageRating": "7.00773",
+      "averageWeight": "1.6383",
+      "boardGameRank": "2107",
+      "mechanics": [
+        "Communication Limits",
+        "Deduction",
+        "Hand Management",
+        "Hidden Roles",
+        "Semi-Cooperative Game",
+        "Team-Based Game",
+        "Traitor Game",
+        "Trick-taking",
+        "Variable Player Powers",
+        "Voting"
+      ],
+      "categories": [
+        "Card Game",
+        "Spies / Secret Agents"
+      ],
+      "designers": [
+        "Tanner Simmons"
+      ]
+    },
     {
       "id": "429650",
       "name": "The Treasure Ship of Zheng He",
@@ -43,53 +230,6 @@
       ],
       "designers": [
         "Hisashi Hayashi"
-      ]
-    },
-    {
-      "id": "456440",
-      "name": "Cozy Stickerville",
-      "yearPublished": "2026",
-      "type": "boardgame",
-      "postdate": "2026-07-13 15:57:08",
-      "lastmodified": "2026-07-13 15:57:08",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__small/img/SRpAFFgh4mpyvCqzq8kc3B6_7F4=/fit-in/200x150/filters:strip_icc()/pic9171780.png",
-      "link": "https://boardgamegeek.com/thing/456440",
-      "minPlayers": "1",
-      "maxPlayers": "6",
-      "bestAtCount": "2",
-      "playingTime": "30",
-      "minPlayingTime": "30",
-      "maxPlayingTime": "30",
-      "averageRating": "8.26334",
-      "averageWeight": "1.2222",
-      "boardGameRank": "751",
-      "mechanics": [
-        "Cooperative Game",
-        "Legacy Game",
-        "Narrative Choice / Paragraph",
-        "Scenario / Mission / Campaign Game",
-        "Solo / Solitaire Game"
-      ],
-      "categories": [
-        "Adventure",
-        "City Building",
-        "Exploration"
-      ],
-      "designers": [
-        "Corey Konieczka"
       ]
     },
     {
@@ -370,50 +510,6 @@
       "designers": [
         "Phil Pettifer",
         "Vlaada Chvátil"
-      ]
-    },
-    {
-      "id": "408180",
-      "name": "Shackleton Base: A Journey to the Moon",
-      "yearPublished": "2024",
-      "type": "boardgame",
-      "postdate": "2025-04-21 15:31:59",
-      "lastmodified": "2026-07-13 15:55:33",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": false,
-        "wishlistpriority": null,
-        "preordered": true
-      },
-      "thumbnail": "https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__small/img/DAbZgOJbckBSg9Qq8rpdEhzpq_I=/fit-in/200x150/filters:strip_icc()/pic7897060.jpg",
-      "link": "https://boardgamegeek.com/thing/408180",
-      "minPlayers": "1",
-      "maxPlayers": "4",
-      "bestAtCount": "3",
-      "playingTime": "120",
-      "minPlayingTime": "60",
-      "maxPlayingTime": "120",
-      "averageRating": "8.00943",
-      "averageWeight": "3.8805",
-      "boardGameRank": "718",
-      "mechanics": [
-        "Variable Set-up",
-        "Worker Placement, Different Worker Types"
-      ],
-      "categories": [
-        "Science Fiction",
-        "Space Exploration"
-      ],
-      "designers": [
-        "Fabio Lopiano",
-        "Nestore Mangone"
       ]
     },
     {
@@ -22058,57 +22154,6 @@
       ],
       "designers": [
         "Romain Loussert"
-      ]
-    },
-    {
-      "id": "324914",
-      "name": "Inside Job",
-      "yearPublished": "2022",
-      "type": "boardgame",
-      "postdate": "2022-10-10 01:48:42",
-      "lastmodified": "2022-10-10 01:48:43",
-      "myrating": null,
-      "numplays": "0",
-      "status": {
-        "own": false,
-        "prevowned": false,
-        "fortrade": false,
-        "want": false,
-        "wanttoplay": false,
-        "wanttobuy": false,
-        "wishlist": true,
-        "wishlistpriority": 4,
-        "preordered": false
-      },
-      "thumbnail": "https://cf.geekdo-images.com/Kimz03Spg3dB96_O-xbcPg__small/img/4MXilcl8plyqXtNQoCk6pE_lroM=/fit-in/200x150/filters:strip_icc()/pic7233520.png",
-      "link": "https://boardgamegeek.com/thing/324914",
-      "minPlayers": "2",
-      "maxPlayers": "5",
-      "bestAtCount": "4, 5",
-      "playingTime": "30",
-      "minPlayingTime": "20",
-      "maxPlayingTime": "30",
-      "averageRating": "7.00773",
-      "averageWeight": "1.6383",
-      "boardGameRank": "2107",
-      "mechanics": [
-        "Communication Limits",
-        "Deduction",
-        "Hand Management",
-        "Hidden Roles",
-        "Semi-Cooperative Game",
-        "Team-Based Game",
-        "Traitor Game",
-        "Trick-taking",
-        "Variable Player Powers",
-        "Voting"
-      ],
-      "categories": [
-        "Card Game",
-        "Spies / Secret Agents"
-      ],
-      "designers": [
-        "Tanner Simmons"
       ]
     },
     {
