@@ -271,8 +271,9 @@ app.get('/loadDetails/:bggUserName', async (req, res) => {
     const refreshCap = Math.max(100, Math.ceil(cachedCollection.length * 0.10));
     const gamesToRefresh = dueGames.slice(0, refreshCap);
 
-    for (const { game } of gamesToRefresh) {
-        await getGameDetails(game.id);
+    for (let i = 0; i < gamesToRefresh.length; i++) {
+        const { game } = gamesToRefresh[i];
+        await getGameDetails(game.id, { index: i + 1, total: gamesToRefresh.length });
         await wait(3000); // wait 3 seconds before moving on to the next game
     }
 

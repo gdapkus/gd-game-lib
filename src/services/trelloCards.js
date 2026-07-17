@@ -40,7 +40,7 @@ function getGameDetailsCacheStatus(bggGameId) {
 
 //BGG FUNCTIONS
 //function to load game details for bggGameId from a json file.  If not available or old, pull from BGG API
-async function getGameDetails(bggGameId) {
+async function getGameDetails(bggGameId, progress) {
     const cacheFilePath = path.join(cacheDir, `${bggGameId}.json`);
     // Check if the cache file exists and is still valid
     if (fs.existsSync(cacheFilePath)) {
@@ -55,7 +55,8 @@ async function getGameDetails(bggGameId) {
 
     // Query the BGG API for game details
     try {
-        console.log(`Retrieving Game ID:${bggGameId}`);
+        const progressText = progress ? ` (${progress.index} of ${progress.total})` : '';
+        console.log(`Retrieving Game ID:${bggGameId}${progressText}`);
             await wait(2000); // wait 1 seconds before moving on to the next game
         const response = await axios.get(`https://boardgamegeek.com/xmlapi2/thing?id=${bggGameId}&stats=1`, {
             headers: bggApiToken ? { Authorization: `Bearer ${bggApiToken}` } : {}
