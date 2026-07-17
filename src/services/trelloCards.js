@@ -104,6 +104,8 @@ if (Array.isArray(game.link)) {
 
         // Only store if there's no error
         if (gameDetails.name !== 'Error') {
+            gameDetails.videoLink = await getInstructionalVideoLink(bggGameId);
+
             const cacheData = {
                 timestamp: new Date().toISOString(),
                 gameDetails: gameDetails
@@ -147,9 +149,11 @@ async function createTrelloCard(listId, gameId, trelloToken) {
         return;
     }
 	
-	// Attempt to get instructional video link
-	const videoLink = await getInstructionalVideoLink(gameId);
-	
+	// Video link is fetched and cached alongside the rest of the game
+	// details in getGameDetails(); reuse it here instead of calling the
+	// video API again.
+	const videoLink = gameDetails.videoLink;
+
     try {
         const bestAtText = gameDetails.bestAtCount ? `, best:${gameDetails.bestAtCount}` : '';
         const cardTitle = `${gameDetails.name} (${gameDetails.minPlayers}-${gameDetails.maxPlayers}p${bestAtText})`;

@@ -83,6 +83,9 @@ export async function createTrelloCard (listId, gameId, token) {
   if (gameDetails.link) {
     await trelloPost(`/cards/${card.id}/attachments`, token, { url: gameDetails.link });
   }
+  if (gameDetails.videoLink) {
+    await trelloPost(`/cards/${card.id}/attachments`, token, { url: gameDetails.videoLink });
+  }
 
   const bggUsers = await fetchBggUsers();
   for (const user of bggUsers) {
