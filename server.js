@@ -6,7 +6,6 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const axios = require('axios');
 const { createTrelloCard, getTrelloLists, getGameDetails } = require('./src/services/trelloCards');
-const { fetchUsersFromDb, ensureGamesAndCollections } = require('./src/services/db');
 const xml2js = require('xml2js');
 
 const app = express();
@@ -28,15 +27,6 @@ app.get('/test', (req, res) => {
 
 // Load and serve BGG users data
 app.get('/bgg-users', async (req, res) => {
-  try {
-    const users = await fetchUsersFromDb();
-    if (users && users.length > 0) {
-      return res.json(users);
-    }
-    console.warn('DB users unavailable or empty; serving fallback JSON.');
-  } catch (error) {
-    console.error('Error loading users from DB:', error.message);
-  }
   res.json(bggUsers);
 });
 
@@ -413,18 +403,6 @@ async function loadCollection(userName) {
 	      // Write the updated cache to the file
       fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData, null, 2));
 	}
-
-            try {
-                const dbResult = await ensureGamesAndCollections({
-                    userId: user.userid,
-                    collections: newGamesList,
-                    cacheDir,
-                    collectionTimestamp
-                });
-                console.log(`DB sync for ${userName}: ${dbResult.collectionsUpserted} collections, ${dbResult.gamesUpserted} games.`);
-            } catch (dbError) {
-                console.error(`DB sync skipped/failed for ${userName}: ${dbError.message}`);
-            }
 
 	console.log(`Cache modified: ${cacheModified}`);
       return cacheModified ? 'Collection loaded successfully. Refresh to view the cached data.' : 'No changes to collection.';

@@ -6,8 +6,7 @@
     "dev": "concurrently \"vite --host\" \"node server.js\"",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint . --fix --ignore-path .gitignore",
-    "test:db": "node scripts/testDbConnection.js"
+    "lint": "eslint . --fix --ignore-path .gitignore"
   },
   "dependencies": {
     "@mdi/font": "7.4.47",
@@ -17,8 +16,6 @@
     "core-js": "^3.37.1",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "mysql2": "^3.11.0",
-    "pg": "^8.16.3",
     "roboto-fontface": "*",
     "vue": "^3.4.31",
     "vue-cookies": "^1.8.4",
