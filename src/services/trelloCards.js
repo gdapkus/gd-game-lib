@@ -215,7 +215,7 @@ async function createTrelloCard(listId, gameId, trelloToken) {
         }
 			
 		// Load BGG users from bggUsers.json to add labels
-		const bggUsers = JSON.parse(fs.readFileSync('config/bggUsers.json', 'utf8'));
+		const bggUsers = JSON.parse(fs.readFileSync('public/bggUsers.json', 'utf8'));
 
 		// Check each user's collection for game ownership
 		for (const user of bggUsers) {

@@ -367,7 +367,7 @@ export default {
 
   async created() {
     try {
-      const bggUsersResponse = await fetch(`/api/bgg-users`);
+      const bggUsersResponse = await fetch(`/bggUsers.json`);
       this.bggUsers = await bggUsersResponse.json();
 
       const activeUsername = this.$cookies.get('activeUser');
@@ -509,7 +509,8 @@ export default {
     },
     async loadGames() {
       try {
-        const response = await fetch(`/api/games/${this.activeUser.username}`);
+        const sanitizedUsername = this.activeUser.username.replace(/\s+/g, '_');
+        const response = await fetch(`/gameCache/gamesCache_${sanitizedUsername}.json`);
         if (response.ok) {
           const { games } = await response.json();
           this.games = games;

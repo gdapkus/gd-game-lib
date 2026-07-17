@@ -3,7 +3,7 @@ const path = require('path');
 const axios = require('axios');
 
 const cacheDir = 'public/gameCache';
-const bggUsersFile = 'config/bggUsers.json';
+const bggUsersFile = 'public/bggUsers.json';
 const apiUrl = 'https://boardgamegeek.com/api/collections?objectid=';
 
 // Helper function to wait for a given time

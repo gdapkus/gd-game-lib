@@ -17,7 +17,7 @@ const fs = require('fs');
 const cacheDir = 'public/gameCache'; // Subdirectory for cache files
 const FALLBACK_IMAGE_URL = 'https://boardgamegeek.com/image/1657689';
 
-const bggUsersPath = path.join(__dirname, 'config', 'bggUsers.json');
+const bggUsersPath = path.join(__dirname, 'public', 'bggUsers.json');
 const bggUsers = JSON.parse(fs.readFileSync(bggUsersPath, 'utf8'));
 
 // Test Route
@@ -275,7 +275,7 @@ async function loadCollection(userName) {
     const sanitizedUserName = userName.replace(/\s+/g, '_');
 	const collectionUrl = `https://boardgamegeek.com/xmlapi2/collection?username=${encodeURIComponent(userName)}`;
 	const cacheFilePath = path.join(__dirname, `public/gameCache/collectionCache_${sanitizedUserName}.json`);
-	const bggUsersFile = 'config/bggUsers.json';
+	const bggUsersFile = 'public/bggUsers.json';
 	const usersData = JSON.parse(fs.readFileSync(bggUsersFile, 'utf8'));
 	const user = usersData.find(user => user.username === userName);
 	const apiUrl = 'https://boardgamegeek.com/api/collections?objectid=';
