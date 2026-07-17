@@ -225,6 +225,7 @@
 
 <script>
 import axios from 'axios';
+import { getTrelloLists, createTrelloCard } from '@/services/trelloClient';
 
 export default {
   data() {
@@ -402,11 +403,10 @@ export default {
       this.trelloToken = this.$cookies.get('BGGCard');
 
       if (this.trelloToken) {
-        const trelloResponse = await fetch(`/api/getTrelloLists?token=${this.trelloToken}`);
-        if (trelloResponse.ok) {
-          this.trelloLists = await trelloResponse.json();
-        } else {
-          console.error('Failed to load Trello lists:', trelloResponse.statusText);
+        try {
+          this.trelloLists = await getTrelloLists(this.trelloToken);
+        } catch (error) {
+          console.error('Failed to load Trello lists:', error.message);
         }
       } else {
         console.error('Trello token not found');
@@ -437,7 +437,7 @@ export default {
     },
     authorizeTrello() {
       const trelloKey = import.meta.env.VITE_TRELLO_KEY;
-      const callbackUrl = encodeURIComponent(`${window.location.origin}/api/trelloCallback`);
+      const callbackUrl = encodeURIComponent(`${window.location.origin}/trelloCallback.html`);
       const authWindow = window.open(
         `https://trello.com/1/authorize?expiration=never&key=${trelloKey}&scope=read,write&response_type=token&return_url=${callbackUrl}`,
         'authWindow',
@@ -455,13 +455,7 @@ export default {
               this.snackbarVisible = true;
 
               try {
-                const response = await fetch(`/api/getTrelloLists?token=${this.trelloToken}`);
-                if (response.ok) {
-                  this.trelloLists = await response.json();
-                } else {
-                  this.snackbarMessage = 'Failed to load Trello lists';
-                  this.snackbarVisible = true;
-                }
+                this.trelloLists = await getTrelloLists(this.trelloToken);
               } catch (error) {
                 this.snackbarMessage = 'Error fetching Trello lists';
                 this.snackbarVisible = true;
@@ -580,11 +574,7 @@ export default {
         const game = this.games.find(g => g.id === gameId);
         const list = this.trelloLists.find(l => l.id === listId);
 
-        await axios.post('/api/createTrelloCard', {
-          listId: listId,
-          gameId: gameId,
-          trelloToken: this.trelloToken,
-        });
+        await createTrelloCard(listId, gameId, this.trelloToken);
 
         this.snackbarMessage = `${game.name} added to Trello list "${list.name}"`;
         this.snackbarVisible = true;

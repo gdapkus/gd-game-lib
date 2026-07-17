@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Trello Authorization</title>
+</head>
+<body>
+  <script>
+    // Public Trello key, same value as VITE_TRELLO_KEY (already exposed in the
+    // built client bundle). This page is a static file, not run through Vite,
+    // so it can't read import.meta.env directly.
+    var TRELLO_KEY = 'b9e1c6e70ecad22612857b25f0cfe033';
+
+    function finish (success) {
+      if (!success) {
+        alert('Invalid token. Please try again.');
+      }
+      if (window.opener) {
+        window.close();
+      } else {
+        window.location.href = '/';
+      }
+    }
+
+    var token = new URLSearchParams(window.location.hash.substring(1)).get('token');
+
+    if (!token) {
+      finish(false);
+    } else {
+      fetch('https://api.trello.com/1/members/me?key=' + TRELLO_KEY + '&token=' + token)
+        .then(function (response) { return response.ok ? response.json() : null; })
+        .then(function (data) {
+          if (data && data.id) {
+            document.cookie = 'BGGCard=' + token + '; max-age=' + (365 * 24 * 60 * 60) + '; path=/';
+            finish(true);
+          } else {
+            finish(false);
+          }
+        })
+        .catch(function () {
+          finish(false);
+        });
+    }
+  </script>
+</body>
+</html>
