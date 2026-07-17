@@ -5,7 +5,7 @@ require('dotenv').config({ path: '.env.local' });
 const express = require('express');
 const bodyParser = require('body-parser');
 const axios = require('axios');
-const { createTrelloCard, getTrelloLists, getGameDetails } = require('./src/services/trelloCards');
+const { createTrelloCard, getTrelloLists, getGameDetails, getGameDetailsCacheStatus } = require('./src/services/trelloCards');
 const xml2js = require('xml2js');
 
 const app = express();
@@ -253,20 +253,30 @@ app.get('/loadCollection/:bggUserId', async (req, res) => {
 });
 
 
-//route to load  game details for alls games from a collection with 3-second delay between each entry
+//route to refresh a capped, most-overdue-first slice of a collection's game
+//details, with a 3-second delay between each fetch
 app.get('/loadDetails/:bggUserName', async (req, res) => {
     const { bggUserName } = req.params;
     const cachedCollection = getCachedCollection(bggUserName);
 
-    for (const game of cachedCollection) {
-		const isCached = isGameDetailsCached(game.id)
-//		console.log(`Checking Game ID:${game.id}: ${isCached}`);
-        if (!isCached) {
-            const data = await getGameDetails(game.id);
-            await wait(3000); // wait 3 seconds before moving on to the next game
-        }
+    const dueGames = cachedCollection
+        .map(game => ({ game, status: getGameDetailsCacheStatus(game.id) }))
+        .filter(entry => entry.status.stale)
+        .sort((a, b) => {
+            const aAge = a.status.cacheTimestamp === null ? Infinity : Date.now() - a.status.cacheTimestamp;
+            const bAge = b.status.cacheTimestamp === null ? Infinity : Date.now() - b.status.cacheTimestamp;
+            return bAge - aAge; // most stale / never-cached first
+        });
+
+    const refreshCap = Math.max(100, Math.ceil(cachedCollection.length * 0.10));
+    const gamesToRefresh = dueGames.slice(0, refreshCap);
+
+    for (const { game } of gamesToRefresh) {
+        await getGameDetails(game.id);
+        await wait(3000); // wait 3 seconds before moving on to the next game
     }
-    res.send('Game details loading process completed.');
+
+    res.send(`Game details loading process completed. Refreshed ${gamesToRefresh.length} of ${cachedCollection.length} games (${dueGames.length} were due).`);
 });
 
 
@@ -471,14 +481,6 @@ function getCachedCollection(userName) {
 
     return [];
 }
-
-//Function to check if a json file exists for a given game ID
-function isGameDetailsCached(gameId) {
-    const cacheFilePath = path.join(cacheDir, `${gameId}.json`);
-    return fs.existsSync(cacheFilePath);
-}
-
-
 
 // Helper function to add a delay
 function wait(ms) {

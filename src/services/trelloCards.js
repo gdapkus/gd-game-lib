@@ -9,9 +9,34 @@ const bggApiToken = process.env.BGG_API_TOKEN;
 // Constants
 const cacheDir = './public/gameCache'; // Subdirectory for cache files
 const FALLBACK_IMAGE_URL = 'https://boardgamegeek.com/image/1657689';
-const cacheDuration = 30 * 24 * 60 * 60 * 1000; // 30 days in milliseconds
+const DAY_MS = 24 * 60 * 60 * 1000;
 
+// Older games' ratings/rank move much less than recently published ones, so
+// tolerate a longer stale window the older a game is.
+function getCacheDurationMs(yearPublished) {
+    const currentYear = new Date().getFullYear();
+    const gameYear = parseInt(yearPublished, 10);
+    const ageYears = Number.isFinite(gameYear) ? currentYear - gameYear : 0;
 
+    if (ageYears <= 1) return 30 * DAY_MS;
+    if (ageYears <= 4) return 90 * DAY_MS;
+    return 365 * DAY_MS;
+}
+
+// Reads a game's cache file (no network call) and reports whether it's due
+// for a refresh, for use when prioritizing a batch refresh.
+function getGameDetailsCacheStatus(bggGameId) {
+    const cacheFilePath = path.join(cacheDir, `${bggGameId}.json`);
+    if (!fs.existsSync(cacheFilePath)) {
+        return { cached: false, stale: true, cacheTimestamp: null };
+    }
+
+    const cacheData = JSON.parse(fs.readFileSync(cacheFilePath, 'utf8'));
+    const cacheTimestamp = new Date(cacheData.timestamp).getTime();
+    const cacheDuration = getCacheDurationMs(cacheData.gameDetails?.yearPublished);
+    const stale = Date.now() - cacheTimestamp >= cacheDuration;
+    return { cached: true, stale, cacheTimestamp };
+}
 
 //BGG FUNCTIONS
 //function to load game details for bggGameId from a json file.  If not available or old, pull from BGG API
@@ -21,6 +46,7 @@ async function getGameDetails(bggGameId) {
     if (fs.existsSync(cacheFilePath)) {
         const cacheData = JSON.parse(fs.readFileSync(cacheFilePath, 'utf8'));
         const cacheTimestamp = new Date(cacheData.timestamp).getTime();
+        const cacheDuration = getCacheDurationMs(cacheData.gameDetails?.yearPublished);
         if (Date.now() - cacheTimestamp < cacheDuration) {
             // Cache is valid, return the cached data
             return { data: cacheData.gameDetails, error: null };
@@ -288,5 +314,5 @@ function wait(ms) {
 }
 
 // Export the functions
-module.exports = { createTrelloCard, getTrelloLists, getGameDetails};
+module.exports = { createTrelloCard, getTrelloLists, getGameDetails, getGameDetailsCacheStatus };
 
