@@ -260,11 +260,17 @@ app.get('/loadDetails/:bggUserName', async (req, res) => {
     const cachedCollection = getCachedCollection(bggUserName);
 
     const dueGames = cachedCollection
-        .map(game => ({ game, status: getGameDetailsCacheStatus(game.id) }))
-        .filter(entry => entry.status.stale)
+        .map(game => ({ game, cacheStatus: getGameDetailsCacheStatus(game.id) }))
+        .filter(entry => {
+            if (!entry.cacheStatus.stale) return false;
+            // Never cached: always do the initial load, regardless of status/type.
+            if (!entry.cacheStatus.cached) return true;
+            // Already cached: only refresh owned, non-expansion games.
+            return entry.game.status?.own && entry.cacheStatus.type !== 'boardgameexpansion';
+        })
         .sort((a, b) => {
-            const aAge = a.status.cacheTimestamp === null ? Infinity : Date.now() - a.status.cacheTimestamp;
-            const bAge = b.status.cacheTimestamp === null ? Infinity : Date.now() - b.status.cacheTimestamp;
+            const aAge = a.cacheStatus.cacheTimestamp === null ? Infinity : Date.now() - a.cacheStatus.cacheTimestamp;
+            const bAge = b.cacheStatus.cacheTimestamp === null ? Infinity : Date.now() - b.cacheStatus.cacheTimestamp;
             return bAge - aAge; // most stale / never-cached first
         });
 

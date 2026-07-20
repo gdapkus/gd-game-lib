@@ -28,14 +28,14 @@ function getCacheDurationMs(yearPublished) {
 function getGameDetailsCacheStatus(bggGameId) {
     const cacheFilePath = path.join(cacheDir, `${bggGameId}.json`);
     if (!fs.existsSync(cacheFilePath)) {
-        return { cached: false, stale: true, cacheTimestamp: null };
+        return { cached: false, stale: true, cacheTimestamp: null, type: null };
     }
 
     const cacheData = JSON.parse(fs.readFileSync(cacheFilePath, 'utf8'));
     const cacheTimestamp = new Date(cacheData.timestamp).getTime();
     const cacheDuration = getCacheDurationMs(cacheData.gameDetails?.yearPublished);
     const stale = Date.now() - cacheTimestamp >= cacheDuration;
-    return { cached: true, stale, cacheTimestamp };
+    return { cached: true, stale, cacheTimestamp, type: cacheData.gameDetails?.type || null };
 }
 
 //BGG FUNCTIONS
