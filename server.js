@@ -147,22 +147,84 @@ app.get('/games/:bggUserId', async (req, res) => {
     await handleGamesRequest(bggUserId, res);
 });
 
+// Rebuilds gamesCache_<user>.json from collectionCache + per-game detail
+// files. Returns { games, collectionDate } on success, or null if there's no
+// collection cache to build from.
+function rebuildGamesCache(bggUserId) {
+    const sanitizedUserName = bggUserId.replace(/\s+/g, '_');
+    const cacheFilePath = path.join(__dirname, `public/gameCache/gamesCache_${sanitizedUserName}.json`);
+    const collectionCachePath = path.join(__dirname, `public/gameCache/collectionCache_${sanitizedUserName}.json`);
+
+    if (!fs.existsSync(collectionCachePath)) {
+        return null;
+    }
+
+    const collectionData = JSON.parse(fs.readFileSync(collectionCachePath, 'utf8'));
+    const collectionDate = new Date(collectionData.timestamp).getTime();
+    console.log(`Rebuilding gamesCache for ${bggUserId}`);
+
+    // Fetch game details for each game from the individual game JSON files
+    const gameDetails = collectionData.games.map(game => {
+        const gameDetailsFile = path.join(__dirname, `public/gameCache/${game.id}.json`);
+        if (fs.existsSync(gameDetailsFile)) {
+            const gameData = JSON.parse(fs.readFileSync(gameDetailsFile, 'utf8'));
+            const bestAtCount = Array.isArray(gameData.gameDetails.bestAtCount) ? gameData.gameDetails.bestAtCount : [];
+            const bestAtCountText = bestAtCount.length > 0 ? bestAtCount.join(', ') : 'N/A';
+            return {
+                id: game.id,
+                name: gameData.gameDetails.name,
+                yearPublished: gameData.gameDetails.yearPublished,
+                type: gameData.gameDetails.type,
+                postdate: game.postdate,
+                lastmodified: game.lastmodified,
+                myrating: game.rating,
+                numplays: game.numplays,
+                status: game.status,
+                thumbnail: gameData.gameDetails.thumbnail,
+                link: gameData.gameDetails.link,
+                minPlayers: gameData.gameDetails.minPlayers,
+                maxPlayers: gameData.gameDetails.maxPlayers,
+                bestAtCount: bestAtCountText,
+                playingTime: gameData.gameDetails.playingTime,
+                minPlayingTime: gameData.gameDetails.minPlayingTime,
+                maxPlayingTime: gameData.gameDetails.maxPlayingTime,
+                averageRating: gameData.gameDetails.averageRating,
+                averageWeight: gameData.gameDetails.averageWeight,
+                boardGameRank: gameData.gameDetails.boardGameRank,
+                mechanics: gameData.gameDetails.mechanics,
+                categories: gameData.gameDetails.categories,
+                designers: gameData.gameDetails.designers,
+            };
+        }
+        return null;
+    });
+
+    // Filter out any games that couldn't be fetched properly
+    const filteredGames = gameDetails.filter(game => game !== null);
+
+    // Sort games by lastmodified, newest to oldest
+    filteredGames.sort((a, b) => new Date(b.lastmodified) - new Date(a.lastmodified));
+
+    // Save the fetched game list to cache with a timestamp
+    const cacheData = {
+        timestamp: new Date().toISOString(),
+        games: filteredGames
+    };
+    fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData, null, 2), 'utf8');
+
+    return { games: filteredGames, collectionDate: new Date(collectionDate).toISOString() };
+}
+
 // Helper function to handle the games request logic
 async function handleGamesRequest(bggUserId, res) {
     const sanitizedUserName = bggUserId.replace(/\s+/g, '_');
     const cacheFilePath = path.join(__dirname, `public/gameCache/gamesCache_${sanitizedUserName}.json`);
     const collectionCachePath = path.join(__dirname, `public/gameCache/collectionCache_${sanitizedUserName}.json`);
-	
-        console.log(`Cache Path: ${cacheFilePath}`);
-        console.log(`Collection Path: ${collectionCachePath}`);
 
-    let cacheDate = getTimeStamp(cacheFilePath);
-    let collectionDate = getTimeStamp(collectionCachePath);
+    const cacheDate = getTimeStamp(cacheFilePath);
+    const collectionDate = getTimeStamp(collectionCachePath);
 
     try {
-        console.log(`Cache Date: ${new Date(cacheDate).toISOString()}`);
-        console.log(`Collection Date: ${new Date(collectionDate).toISOString()}`);
-
         // Check if cache is valid based on the collection timestamp
         if (fs.existsSync(cacheFilePath) && cacheDate >= collectionDate) {
             const cachedData = JSON.parse(fs.readFileSync(cacheFilePath, 'utf8'));
@@ -170,66 +232,11 @@ async function handleGamesRequest(bggUserId, res) {
             return res.json({ games: cachedData.games, collectionDate: new Date(collectionDate).toISOString() });
         }
 
-        // If cache is not valid, read collection data and fetch game details
-        if (fs.existsSync(collectionCachePath)) {
-            const collectionData = JSON.parse(fs.readFileSync(collectionCachePath, 'utf8'));
-            collectionDate = new Date(collectionData.timestamp).getTime(); // Update collectionDate from the file
-            console.log('Building new Cache from Collection Data');
-
-            // Fetch game details for each game from the individual game JSON files
-            const gameDetails = collectionData.games.map(game => {
-                const gameDetailsFile = path.join(__dirname, `public/gameCache/${game.id}.json`);
-                if (fs.existsSync(gameDetailsFile)) {
-                    const gameData = JSON.parse(fs.readFileSync(gameDetailsFile, 'utf8'));
-					const bestAtCount = Array.isArray(gameData.gameDetails.bestAtCount) ? gameData.gameDetails.bestAtCount : [];
-					const bestAtCountText = bestAtCount.length > 0 ? bestAtCount.join(', ') : 'N/A';
-                    return {
-                        id: game.id,
-                        name: gameData.gameDetails.name,
-                        yearPublished: gameData.gameDetails.yearPublished,
-                        type: gameData.gameDetails.type,
-                        postdate: game.postdate,
-                        lastmodified: game.lastmodified,
-                        myrating: game.rating,
-                        numplays: game.numplays,
-                        status: game.status,
-                        thumbnail: gameData.gameDetails.thumbnail,
-                        link: gameData.gameDetails.link,
-                        minPlayers: gameData.gameDetails.minPlayers,
-                        maxPlayers: gameData.gameDetails.maxPlayers,
-                        bestAtCount: bestAtCountText,
-                        playingTime: gameData.gameDetails.playingTime,
-                        minPlayingTime: gameData.gameDetails.minPlayingTime,
-                        maxPlayingTime: gameData.gameDetails.maxPlayingTime,
-                        averageRating: gameData.gameDetails.averageRating,
-                        averageWeight: gameData.gameDetails.averageWeight,
-                        boardGameRank: gameData.gameDetails.boardGameRank,
-                        mechanics: gameData.gameDetails.mechanics,
-                        categories: gameData.gameDetails.categories,
-                        designers: gameData.gameDetails.designers,
-                    };
-                }
-                return null;
-            });
-
-            // Filter out any games that couldn't be fetched properly
-            const filteredGames = gameDetails.filter(game => game !== null);
-
-            // Sort games by lastmodified, newest to oldest
-            filteredGames.sort((a, b) => new Date(b.lastmodified) - new Date(a.lastmodified));
-
-            // Save the fetched game list to cache with a timestamp
-            cacheDate = new Date();
-            const cacheData = {
-                timestamp: cacheDate.toISOString(),
-                games: filteredGames
-            };
-            fs.writeFileSync(cacheFilePath, JSON.stringify(cacheData, null, 2), 'utf8');
-
-            return res.json({ games: filteredGames, collectionDate: new Date(collectionDate).toISOString() });
-        } else {
+        const result = rebuildGamesCache(bggUserId);
+        if (!result) {
             return res.status(500).json({ error: 'Collection cache not found.' });
         }
+        return res.json(result);
     } catch (error) {
         console.error('Error fetching games:', error);
         res.status(500).json({ error: 'Failed to fetch games' });
@@ -253,37 +260,50 @@ app.get('/loadCollection/:bggUserId', async (req, res) => {
 });
 
 
-//route to refresh a capped, most-overdue-first slice of a collection's game
-//details, with a 3-second delay between each fetch
+//route to load every new game unconditionally, then refresh a capped,
+//most-overdue-first slice of owned/non-expansion games, with a 3-second
+//delay between each fetch. Rebuilds gamesCache after each phase so new
+//games show up as soon as they're loaded, without waiting on the refresh.
 app.get('/loadDetails/:bggUserName', async (req, res) => {
     const { bggUserName } = req.params;
     const cachedCollection = getCachedCollection(bggUserName);
+    const withCacheStatus = cachedCollection.map(game => ({ game, cacheStatus: getGameDetailsCacheStatus(game.id) }));
 
-    const dueGames = cachedCollection
-        .map(game => ({ game, cacheStatus: getGameDetailsCacheStatus(game.id) }))
-        .filter(entry => {
-            if (!entry.cacheStatus.stale) return false;
-            // Never cached: always do the initial load, regardless of status/type.
-            if (!entry.cacheStatus.cached) return true;
-            // Already cached: only refresh owned, non-expansion games.
-            return entry.game.status?.own && entry.cacheStatus.type !== 'boardgameexpansion';
-        })
+    // Phase 1: load every never-cached game (new additions to the collection).
+    const newGames = withCacheStatus.filter(entry => !entry.cacheStatus.cached);
+    for (let i = 0; i < newGames.length; i++) {
+        const { game } = newGames[i];
+        await getGameDetails(game.id, { index: i + 1, total: newGames.length });
+        await wait(3000); // wait 3 seconds before moving on to the next game
+    }
+    if (newGames.length > 0) {
+        rebuildGamesCache(bggUserName);
+    }
+
+    // Phase 2: refresh a capped, most-overdue-first slice of already-cached
+    // owned, non-expansion games.
+    const refreshCandidates = withCacheStatus
+        .filter(entry => entry.cacheStatus.cached && entry.cacheStatus.stale)
+        .filter(entry => entry.game.status?.own && entry.cacheStatus.type !== 'boardgameexpansion')
         .sort((a, b) => {
-            const aAge = a.cacheStatus.cacheTimestamp === null ? Infinity : Date.now() - a.cacheStatus.cacheTimestamp;
-            const bAge = b.cacheStatus.cacheTimestamp === null ? Infinity : Date.now() - b.cacheStatus.cacheTimestamp;
-            return bAge - aAge; // most stale / never-cached first
+            const aAge = Date.now() - a.cacheStatus.cacheTimestamp;
+            const bAge = Date.now() - b.cacheStatus.cacheTimestamp;
+            return bAge - aAge; // most stale first
         });
 
     const refreshCap = Math.max(100, Math.ceil(cachedCollection.length * 0.10));
-    const gamesToRefresh = dueGames.slice(0, refreshCap);
+    const gamesToRefresh = refreshCandidates.slice(0, refreshCap);
 
     for (let i = 0; i < gamesToRefresh.length; i++) {
         const { game } = gamesToRefresh[i];
         await getGameDetails(game.id, { index: i + 1, total: gamesToRefresh.length });
         await wait(3000); // wait 3 seconds before moving on to the next game
     }
+    if (gamesToRefresh.length > 0) {
+        rebuildGamesCache(bggUserName);
+    }
 
-    res.send(`Game details loading process completed. Refreshed ${gamesToRefresh.length} of ${cachedCollection.length} games (${dueGames.length} were due).`);
+    res.send(`Game details loading process completed. Loaded ${newGames.length} new games. Refreshed ${gamesToRefresh.length} of ${cachedCollection.length} games (${refreshCandidates.length} were due).`);
 });
 
 
