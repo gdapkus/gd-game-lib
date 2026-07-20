@@ -1,1 +1,46 @@
-{"timestamp":"2024-11-12T18:33:20.426Z","gameDetails":{"id":"367466","name":"Dune: Imperium – Immortality","type":"boardgameexpansion","description":"The Bene Tleilax advance their own agenda by trading in genetic innovations. Will you hire Face Dancer spies of unmatched skill? Regrow damaged tissue and organs? Or dare to employ people restored to life as gholas?&#10;&#10;Make shadowy deals with the Tleilaxu to harvest genetic specimens. Unlock the potential of scientific research. Graft cards together to empower your Agents.&#10;&#10;Explore a universe of possibilities with Dune: Imperium &ndash; Immortality.&#10;&#10;&mdash;description from the publisher&#10;&#10;","image":"https://cf.geekdo-images.com/wp-Xtg49QE1gEdaik08q9A__original/img/e-TGyTMoEbDJ83ZweLaJ6u3bKBM=/0x0/filters:format(png)/pic6972857.png","thumbnail":"https://cf.geekdo-images.com/wp-Xtg49QE1gEdaik08q9A__thumb/img/IcRLaWsDjmlbXM0714WyaGKesZc=/fit-in/200x150/filters:strip_icc()/pic6972857.png","link":"https://boardgamegeek.com/thing/367466","minPlayers":"1","maxPlayers":"4","yearPublished":"2022","playingTime":"120","minPlayingTime":"60","maxPlayingTime":"120","bestAtCount":[4],"averageRating":"8.60818","averageWeight":"3.3067","boardGameRank":"Not Ranked","mechanics":["Card Play Conflict Resolution","Deck, Bag, and Pool Building","Force Commitment","Open Drafting","Race","Solo / Solitaire Game","Turn Order: Progressive","Worker Placement"],"categories":["Expansion for Base-game","Movies / TV / Radio theme","Novel-based","Political","Science Fiction"],"designers":["Paul Dennen"]}}
+{
+  "timestamp": "2026-07-17T23:57:18.585Z",
+  "gameDetails": {
+    "id": "367466",
+    "name": "Dune: Imperium – Immortality",
+    "type": "boardgameexpansion",
+    "description": "The Bene Tleilax advance their own agenda by trading in genetic innovations. Will you hire Face Dancer spies of unmatched skill? Regrow damaged tissue and organs? Or dare to employ people restored to life as gholas?\n\nMake shadowy deals with the Tleilaxu to harvest genetic specimens. Unlock the potential of scientific research. Graft cards together to empower your Agents.\n\nExplore a universe of possibilities with Dune: Imperium &ndash; Immortality.\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/wp-Xtg49QE1gEdaik08q9A__original/img/e-TGyTMoEbDJ83ZweLaJ6u3bKBM=/0x0/filters:format(png)/pic6972857.png",
+    "thumbnail": "https://cf.geekdo-images.com/wp-Xtg49QE1gEdaik08q9A__small/img/IcRLaWsDjmlbXM0714WyaGKesZc=/fit-in/200x150/filters:strip_icc()/pic6972857.png",
+    "link": "https://boardgamegeek.com/thing/367466",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2022",
+    "playingTime": "120",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      3,
+      4
+    ],
+    "averageRating": "8.54132",
+    "averageWeight": "3.34",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Deck, Bag, and Pool Building",
+      "Force Commitment",
+      "Open Drafting",
+      "Race",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Movies / TV / Radio theme",
+      "Novel-based",
+      "Political",
+      "Science Fiction"
+    ],
+    "designers": [
+      "Paul Dennen"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=LULYcdo29a8"
+  }
+}

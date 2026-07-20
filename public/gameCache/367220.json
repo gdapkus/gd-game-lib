@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T00:17:52.005Z",
+  "timestamp": "2026-07-20T02:08:07.305Z",
   "gameDetails": {
     "id": "367220",
     "name": "Sea Salt & Paper",
@@ -17,16 +17,18 @@
     "bestAtCount": [
       2
     ],
-    "averageRating": "7.50368",
-    "averageWeight": "1.4778",
-    "boardGameRank": "270",
+    "averageRating": "7.50852",
+    "averageWeight": "1.4784",
+    "boardGameRank": "253",
     "mechanics": [
       "Hand Management",
+      "Melding and Splaying",
       "Open Drafting",
       "Push Your Luck",
       "Score-and-Reset Game",
       "Set Collection",
-      "Sudden Death Ending"
+      "Sudden Death Ending",
+      "Take That"
     ],
     "categories": [
       "Animals",
@@ -35,6 +37,7 @@
     "designers": [
       "Bruno Cathala",
       "Théo Rivière"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=oxz2BEAAaR8"
   }
 }

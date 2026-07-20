@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:32:25.030Z",
+  "timestamp": "2026-07-20T02:07:56.466Z",
   "gameDetails": {
     "id": "393307",
     "name": "Tower Up",
@@ -18,17 +18,12 @@
       3,
       4
     ],
-    "averageRating": "7.34275",
-    "averageWeight": "1.8676",
-    "boardGameRank": "1656",
+    "averageRating": "7.3351",
+    "averageWeight": "1.8415",
+    "boardGameRank": "1457",
     "mechanics": [
-      "End Game Bonuses",
       "Kill Steal",
-      "King of the Hill",
-      "Open Drafting",
-      "Race",
-      "Track Movement",
-      "Variable Set-up"
+      "Open Drafting"
     ],
     "categories": [
       "City Building"
@@ -37,6 +32,7 @@
       "Frank Crittin",
       "Grégoire Largey",
       "Sébastien Pauchon"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=ZqikJ9Mo-ao"
   }
 }

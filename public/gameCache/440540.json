@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-11-02T06:33:21.956Z",
+  "timestamp": "2026-07-20T02:06:39.914Z",
   "gameDetails": {
     "id": "440540",
     "name": "Take Time",
     "type": "boardgame",
-    "description": "Take Time is a cooperative game where players either win or lose together.&#10;&#10;To succeed, you must strategically play 12 cards facedown around a Clock, following specific rules for each Test. You can work together through a series of games to pass all 40 Tests available in the game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "description": "Take Time is a cooperative game where players either win or lose together.\n\nTo succeed, you must strategically play 12 cards facedown around a Clock, following specific rules for each Test. You can work together through a series of games to pass all 40 Tests available in the game.\n\n&mdash;description from the publisher\n\n",
     "image": "https://cf.geekdo-images.com/h6Bg4PZkapMB-fYfugoBrw__original/img/-lDv1CgLGKvgwJE60okL_RSYv3U=/0x0/filters:format(png)/pic8751380.png",
     "thumbnail": "https://cf.geekdo-images.com/h6Bg4PZkapMB-fYfugoBrw__small/img/VZJFm572UpCvVpityT6iywOmlQU=/fit-in/200x150/filters:strip_icc()/pic8751380.png",
     "link": "https://boardgamegeek.com/thing/440540",
@@ -15,14 +15,16 @@
     "minPlayingTime": "30",
     "maxPlayingTime": "30",
     "bestAtCount": [
-      3
+      3,
+      4
     ],
-    "averageRating": "7.77547",
-    "averageWeight": "1.6667",
-    "boardGameRank": "3904",
+    "averageRating": "7.7377",
+    "averageWeight": "1.7714",
+    "boardGameRank": "607",
     "mechanics": [
       "Communication Limits",
       "Cooperative Game",
+      "Deduction",
       "Scenario / Mission / Campaign Game"
     ],
     "categories": [
@@ -32,6 +34,7 @@
     "designers": [
       "Alexi Piovesan",
       "Julien Prothière"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=pMHwAhANzgk"
   }
 }

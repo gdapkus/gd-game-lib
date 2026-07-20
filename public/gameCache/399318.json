@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-11-02T06:33:12.510Z",
+  "timestamp": "2026-07-20T02:06:34.434Z",
   "gameDetails": {
     "id": "399318",
-    "name": "JOYRIDE DUEL: Next Gen",
+    "name": "Joyride Duel: Next Gen",
     "type": "boardgame",
-    "description": "JOYRIDE DUEL: Next Gen is an stand-alone two-player game of electric head-to-head racing. Tactically plan your route, push your luck to take corners at speed. and crash into your rival to knock them off course. This is the full Joyride experience in a smaller footprint.&#10;&#10;Next Gen includes 2 unique cars, 4 powerful items, and 12 tracks across 2 maps, all of which are compatible with any other Joyride game. Tracks in this version can accommodate 3 players with the addition of a car from any other set.&#10;&#10;Cars: &#10;&#10;    The Electric &ndash; robotic control that comes at a price.&#10;    The Learner &ndash; an instructor&rsquo;s assistance when your driving is too risky.&#10;&#10;&#10;Maps&#10;&#10;    The Driving School &ndash; wind through chicanes on different lines every lap.&#10;    The Warehouse &ndash; dodge the attacks of the security bots.&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "description": "JOYRIDE DUEL: Next Gen is an stand-alone two-player game of electric head-to-head racing. Tactically plan your route, push your luck to take corners at speed. and crash into your rival to knock them off course. This is the full Joyride experience in a smaller footprint.\n\nNext Gen includes 2 unique cars, 4 powerful items, and 12 tracks across 2 maps, all of which are compatible with any other Joyride game. Tracks in this version can accommodate 3 players with the addition of a car from any other set.\n\nCars: \n\n    The Electric &ndash; robotic control that comes at a price.\n    The Learner &ndash; an instructor&rsquo;s assistance when your driving is too risky.\n\n\nMaps\n\n    The Driving School &ndash; wind through chicanes on different lines every lap.\n    The Warehouse &ndash; dodge the attacks of the security bots.\n\n\n&mdash;description from the publisher\n\n",
     "image": "https://cf.geekdo-images.com/00yYWNtiL4-RkqDmRSao_A__original/img/UQrp3StrW6YJvNVfaD8ulVRd2-U=/0x0/filters:format(jpeg)/pic8244594.jpg",
     "thumbnail": "https://cf.geekdo-images.com/00yYWNtiL4-RkqDmRSao_A__small/img/EPZxUVHGfMbzNKSjo_CFOH-u-GI=/fit-in/200x150/filters:strip_icc()/pic8244594.jpg",
     "link": "https://boardgamegeek.com/thing/399318",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       2
     ],
-    "averageRating": "7.67843",
+    "averageRating": "7.52058",
     "averageWeight": "2",
-    "boardGameRank": "9621",
+    "boardGameRank": "8661",
     "mechanics": [
       "Dice Rolling",
       "Push Your Luck",
@@ -34,6 +34,7 @@
     "designers": [
       "Duncan Molloy",
       "Pete Ward"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=ddmukA3Sx2w"
   }
 }

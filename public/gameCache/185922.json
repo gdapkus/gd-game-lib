@@ -1,1 +1,36 @@
-{"timestamp":"2024-11-12T17:47:12.666Z","gameDetails":{"id":"185922","name":"Orléans: Neue Ortskarten N°3","type":"boardgameexpansion","description":"Orleans: Neue Ortskarten N&deg;3 (&quot;Place Tiles N&deg;3&quot;) is a mini expansion for Orl&eacute;ans that consists of three new place tiles: Port, Quarry, and Workshop (Hafen, Steinbruch, und Werkstatt).&#10;&#10;","image":"https://cf.geekdo-images.com/mntUCBB-VVTaGZh30rbIlw__original/img/bXSBCdwGPgZxoDhWTgKsoCEB0_0=/0x0/filters:format(png)/pic2705068.png","thumbnail":"https://cf.geekdo-images.com/mntUCBB-VVTaGZh30rbIlw__thumb/img/mcRz7o-ayHfPwelJjWs_1ccnCvM=/fit-in/200x150/filters:strip_icc()/pic2705068.png","link":"https://boardgamegeek.com/thing/185922","minPlayers":"2","maxPlayers":"5","yearPublished":"2015","playingTime":"0","minPlayingTime":"0","maxPlayingTime":"0","bestAtCount":[2,3],"averageRating":"7.63218","averageWeight":"3","boardGameRank":"Not Ranked","mechanics":["Deck, Bag, and Pool Building","Point to Point Movement"],"categories":["Expansion for Base-game","Medieval"],"designers":["Reiner Stockhausen"]}}
+{
+  "timestamp": "2026-07-17T23:26:36.424Z",
+  "gameDetails": {
+    "id": "185922",
+    "name": "Orléans: Neue Ortskarten N°3",
+    "type": "boardgameexpansion",
+    "description": "Orleans: Neue Ortskarten N&deg;3 (\"Place Tiles N&deg;3\") is a mini expansion for Orl&eacute;ans that consists of three new place tiles: Port, Quarry, and Workshop (Hafen, Steinbruch, und Werkstatt).\n\n",
+    "image": "https://cf.geekdo-images.com/mntUCBB-VVTaGZh30rbIlw__original/img/bXSBCdwGPgZxoDhWTgKsoCEB0_0=/0x0/filters:format(png)/pic2705068.png",
+    "thumbnail": "https://cf.geekdo-images.com/mntUCBB-VVTaGZh30rbIlw__small/img/mcRz7o-ayHfPwelJjWs_1ccnCvM=/fit-in/200x150/filters:strip_icc()/pic2705068.png",
+    "link": "https://boardgamegeek.com/thing/185922",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2015",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.62548",
+    "averageWeight": "3",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Point to Point Movement"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Medieval"
+    ],
+    "designers": [
+      "Reiner Stockhausen"
+    ],
+    "videoLink": null
+  }
+}

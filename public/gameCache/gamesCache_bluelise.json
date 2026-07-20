@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T17:45:59.954Z",
+  "timestamp": "2026-07-20T02:11:10.851Z",
   "games": [
     {
       "id": "262498",
@@ -595,9 +595,9 @@
       "playingTime": "150",
       "minPlayingTime": "30",
       "maxPlayingTime": "150",
-      "averageRating": "7.3478",
-      "averageWeight": "2.3523",
-      "boardGameRank": "1595",
+      "averageRating": "7.32952",
+      "averageWeight": "2.3363",
+      "boardGameRank": "1222",
       "mechanics": [
         "Cooperative Game",
         "Dice Rolling",
@@ -636,7 +636,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/7Bm5_VZARWmb5sa2Vd-9nQ__thumb/img/netlb06OfwpKM-22kVT9klcvC6I=/fit-in/200x150/filters:strip_icc()/pic6961607.png",
+      "thumbnail": "https://cf.geekdo-images.com/7Bm5_VZARWmb5sa2Vd-9nQ__small/img/netlb06OfwpKM-22kVT9klcvC6I=/fit-in/200x150/filters:strip_icc()/pic6961607.png",
       "link": "https://boardgamegeek.com/thing/366994",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -644,16 +644,23 @@
       "playingTime": "40",
       "minPlayingTime": "40",
       "maxPlayingTime": "40",
-      "averageRating": "7.21731",
-      "averageWeight": "1.8833",
-      "boardGameRank": "1626",
+      "averageRating": "7.16276",
+      "averageWeight": "1.7925",
+      "boardGameRank": "1308",
       "mechanics": [
+        "Contracts",
+        "End Game Bonuses",
+        "Hexagon Grid",
+        "Melding and Splaying",
         "Open Drafting",
+        "Pattern Building",
+        "Race",
         "Solo / Solitaire Game",
         "Tile Placement"
       ],
       "categories": [
-        "Environmental"
+        "Environmental",
+        "Puzzle"
       ],
       "designers": [
         "Rosaria Battiato",
@@ -727,7 +734,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0=/fit-in/200x150/filters:strip_icc()/pic4654146.png",
+      "thumbnail": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__small/img/8IMkDRysr2XJafkJGGWoWRcj3e0=/fit-in/200x150/filters:strip_icc()/pic4654146.png",
       "link": "https://boardgamegeek.com/thing/251658",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -735,9 +742,9 @@
       "playingTime": "20",
       "minPlayingTime": "15",
       "maxPlayingTime": "20",
-      "averageRating": "7.30556",
-      "averageWeight": "1.8248",
-      "boardGameRank": "479",
+      "averageRating": "7.26237",
+      "averageWeight": "1.7994",
+      "boardGameRank": "547",
       "mechanics": [
         "Closed Drafting",
         "Cooperative Game",
@@ -749,6 +756,7 @@
       "categories": [
         "Card Game",
         "City Building",
+        "Print & Play",
         "Territory Building"
       ],
       "designers": [
@@ -785,9 +793,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.01962",
-      "averageWeight": "1.7826",
-      "boardGameRank": "2048",
+      "averageRating": "6.98429",
+      "averageWeight": "1.8",
+      "boardGameRank": "2050",
       "mechanics": [
         "Closed Drafting",
         "End Game Bonuses",
@@ -842,9 +850,9 @@
       "playingTime": "30",
       "minPlayingTime": "25",
       "maxPlayingTime": "30",
-      "averageRating": "7.42548",
-      "averageWeight": "1.4875",
-      "boardGameRank": "581",
+      "averageRating": "7.40844",
+      "averageWeight": "1.4916",
+      "boardGameRank": "585",
       "mechanics": [
         "Bingo",
         "Connections",
@@ -955,7 +963,7 @@
     },
     {
       "id": "13",
-      "name": "CATAN",
+      "name": "Catan",
       "yearPublished": "1995",
       "type": "boardgame",
       "postdate": "2009-02-09 17:02:24",
@@ -973,7 +981,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__small/img/SNVfF23OQafv3u8xdFolJnMkBoM=/fit-in/200x150/filters:strip_icc()/pic9156909.png",
       "link": "https://boardgamegeek.com/thing/13",
       "minPlayers": "3",
       "maxPlayers": "4",
@@ -981,19 +989,22 @@
       "playingTime": "120",
       "minPlayingTime": "60",
       "maxPlayingTime": "120",
-      "averageRating": "7.09646",
-      "averageWeight": "2.2901",
-      "boardGameRank": "564",
+      "averageRating": "7.09049",
+      "averageWeight": "2.2813",
+      "boardGameRank": "625",
       "mechanics": [
         "Chaining",
         "Dice Rolling",
+        "Hand Management",
         "Hexagon Grid",
+        "Hidden Victory Points",
         "Income",
+        "Market",
         "Modular Board",
-        "Negotiation",
         "Network and Route Building",
         "Race",
         "Random Production",
+        "Take That",
         "Trading",
         "Variable Set-up"
       ],
@@ -1135,9 +1146,9 @@
       "playingTime": "40",
       "minPlayingTime": "30",
       "maxPlayingTime": "40",
-      "averageRating": "7.40471",
-      "averageWeight": "1.8769",
-      "boardGameRank": "1313",
+      "averageRating": "7.39308",
+      "averageWeight": "1.8588",
+      "boardGameRank": "1080",
       "mechanics": [
         "Events",
         "Trick-taking",
@@ -1450,7 +1461,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/h5n-YxhR4u-Xly2rB7TaUA__thumb/img/wX6xf4ffLAhnOFJC4rq8qaW4iV4=/fit-in/200x150/filters:strip_icc()/pic7807204.png",
+      "thumbnail": "https://cf.geekdo-images.com/h5n-YxhR4u-Xly2rB7TaUA__small/img/wX6xf4ffLAhnOFJC4rq8qaW4iV4=/fit-in/200x150/filters:strip_icc()/pic7807204.png",
       "link": "https://boardgamegeek.com/thing/373577",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -1458,9 +1469,9 @@
       "playingTime": "10",
       "minPlayingTime": "5",
       "maxPlayingTime": "10",
-      "averageRating": "7.14212",
-      "averageWeight": "1.25",
-      "boardGameRank": "5058",
+      "averageRating": "7.1734",
+      "averageWeight": "1.2941",
+      "boardGameRank": "3488",
       "mechanics": [
         "Melding and Splaying",
         "Pattern Building",
@@ -1496,7 +1507,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/tAlkLzFCj-OusgaxQo7SxQ__thumb/img/ePGNy1jSXaVuTx05OYcsOTubEjA=/fit-in/200x150/filters:strip_icc()/pic5159434.png",
+      "thumbnail": "https://cf.geekdo-images.com/tAlkLzFCj-OusgaxQo7SxQ__small/img/ePGNy1jSXaVuTx05OYcsOTubEjA=/fit-in/200x150/filters:strip_icc()/pic5159434.png",
       "link": "https://boardgamegeek.com/thing/245487",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -1504,9 +1515,9 @@
       "playingTime": "10",
       "minPlayingTime": "5",
       "maxPlayingTime": "10",
-      "averageRating": "7.28614",
-      "averageWeight": "1.181",
-      "boardGameRank": "1031",
+      "averageRating": "7.22192",
+      "averageWeight": "1.1901",
+      "boardGameRank": "1145",
       "mechanics": [
         "Layering",
         "Melding and Splaying",
@@ -1517,7 +1528,6 @@
       "categories": [
         "Abstract Strategy",
         "Card Game",
-        "Dice",
         "Farming",
         "Print & Play"
       ],
@@ -1545,7 +1555,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/9UMK8dvUyDuUYwaMh59Hvw__thumb/img/b7X6bWORWAiFfjnUh13W3jg9mtQ=/fit-in/200x150/filters:strip_icc()/pic5945719.png",
+      "thumbnail": "https://cf.geekdo-images.com/9UMK8dvUyDuUYwaMh59Hvw__small/img/b7X6bWORWAiFfjnUh13W3jg9mtQ=/fit-in/200x150/filters:strip_icc()/pic5945719.png",
       "link": "https://boardgamegeek.com/thing/329873",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -1553,9 +1563,9 @@
       "playingTime": "10",
       "minPlayingTime": "5",
       "maxPlayingTime": "10",
-      "averageRating": "7.59495",
-      "averageWeight": "1.3165",
-      "boardGameRank": "1135",
+      "averageRating": "7.49497",
+      "averageWeight": "1.3265",
+      "boardGameRank": "1093",
       "mechanics": [
         "Melding and Splaying",
         "Pattern Building",
@@ -1592,7 +1602,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/WS1Rfg-PUi8XB00iMJresw__thumb/img/UMUl6bHBk_7IHFAzfxtC-SHE1Rg=/fit-in/200x150/filters:strip_icc()/pic5712544.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/WS1Rfg-PUi8XB00iMJresw__small/img/UMUl6bHBk_7IHFAzfxtC-SHE1Rg=/fit-in/200x150/filters:strip_icc()/pic5712544.jpg",
       "link": "https://boardgamegeek.com/thing/302425",
       "minPlayers": "1",
       "maxPlayers": "6",
@@ -1600,9 +1610,9 @@
       "playingTime": "60",
       "minPlayingTime": "60",
       "maxPlayingTime": "60",
-      "averageRating": "7.69433",
-      "averageWeight": "2.1667",
-      "boardGameRank": "1265",
+      "averageRating": "7.63842",
+      "averageWeight": "2.1739",
+      "boardGameRank": "1361",
       "mechanics": [
         "Cooperative Game",
         "Pieces as Map",
@@ -2054,7 +2064,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc=/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__small/img/Xq8TNBmMl3Z7DoynvbUXchFAztc=/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
       "link": "https://boardgamegeek.com/thing/391163",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -2062,13 +2072,14 @@
       "playingTime": "60",
       "minPlayingTime": "40",
       "maxPlayingTime": "60",
-      "averageRating": "7.65946",
-      "averageWeight": "2.1633",
-      "boardGameRank": "285",
+      "averageRating": "7.72776",
+      "averageWeight": "2.2169",
+      "boardGameRank": "151",
       "mechanics": [
         "End Game Bonuses",
         "Hand Management",
         "Layering",
+        "Melding and Splaying",
         "Multi-Use Cards",
         "Open Drafting",
         "Set Collection",
@@ -2246,7 +2257,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__thumb/img/88274KiOg94wziybVHyW8AeOiXg=/fit-in/200x150/filters:strip_icc()/pic6544250.png",
+      "thumbnail": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__small/img/oEEslN-EGqh82sNI6Aj4_MFXYg0=/fit-in/200x150/filters:strip_icc()/pic8621446.jpg",
       "link": "https://boardgamegeek.com/thing/822",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -2254,14 +2265,16 @@
       "playingTime": "45",
       "minPlayingTime": "30",
       "maxPlayingTime": "45",
-      "averageRating": "7.41053",
-      "averageWeight": "1.8909",
-      "boardGameRank": "231",
+      "averageRating": "7.41657",
+      "averageWeight": "1.8846",
+      "boardGameRank": "240",
       "mechanics": [
         "Area Majority / Influence",
         "Enclosure",
+        "Kill Steal",
         "Map Addition",
         "Pattern Building",
+        "Square Grid",
         "Tile Placement"
       ],
       "categories": [
@@ -2292,16 +2305,16 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/fZov3MafZNIT6LHVB8v7aw__thumb/img/Lu_4qbq4p0qFLeBX4GouSWBwd_Y=/fit-in/200x150/filters:strip_icc()/pic8115469.png",
+      "thumbnail": "https://cf.geekdo-images.com/fZov3MafZNIT6LHVB8v7aw__small/img/Lu_4qbq4p0qFLeBX4GouSWBwd_Y=/fit-in/200x150/filters:strip_icc()/pic8115469.png",
       "link": "https://boardgamegeek.com/thing/410656",
       "minPlayers": "1",
       "maxPlayers": "1",
-      "bestAtCount": "N/A",
+      "bestAtCount": "1",
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "7.25455",
-      "averageWeight": "0",
+      "averageRating": "7.27865",
+      "averageWeight": "1",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Solo / Solitaire Game"
@@ -2336,7 +2349,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/4du65qY6LRC-vRahSM76-A__thumb/img/JHD6xoVEfVqLOWUabssb8F4CMFo=/fit-in/200x150/filters:strip_icc()/pic8115468.png",
+      "thumbnail": "https://cf.geekdo-images.com/4du65qY6LRC-vRahSM76-A__small/img/JHD6xoVEfVqLOWUabssb8F4CMFo=/fit-in/200x150/filters:strip_icc()/pic8115468.png",
       "link": "https://boardgamegeek.com/thing/410657",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -2344,7 +2357,7 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "7.21864",
+      "averageRating": "7.31939",
       "averageWeight": "1.6667",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -2380,7 +2393,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/_Reifl4-lWnuepxut_b6uw__thumb/img/TRjtsKU5PJydxx-pkfhjvSTKiuw=/fit-in/200x150/filters:strip_icc()/pic7803070.png",
+      "thumbnail": "https://cf.geekdo-images.com/_Reifl4-lWnuepxut_b6uw__small/img/TRjtsKU5PJydxx-pkfhjvSTKiuw=/fit-in/200x150/filters:strip_icc()/pic7803070.png",
       "link": "https://boardgamegeek.com/thing/378117",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -2388,11 +2401,16 @@
       "playingTime": "20",
       "minPlayingTime": "20",
       "maxPlayingTime": "20",
-      "averageRating": "7.35837",
-      "averageWeight": "1.5714",
-      "boardGameRank": "5181",
+      "averageRating": "7.28705",
+      "averageWeight": "1.7407",
+      "boardGameRank": "3484",
       "mechanics": [
-        "Solo / Solitaire Game"
+        "Hand Management",
+        "Move Through Deck",
+        "Multi-Use Cards",
+        "Solo / Solitaire Game",
+        "Tags",
+        "Zone of Control"
       ],
       "categories": [
         "Card Game",
@@ -2474,7 +2492,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__thumb/img/L8ouPl5jv2Ye9MC4R_Os2zSGigE=/fit-in/200x150/filters:strip_icc()/pic3122349.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__small/img/L8ouPl5jv2Ye9MC4R_Os2zSGigE=/fit-in/200x150/filters:strip_icc()/pic3122349.jpg",
       "link": "https://boardgamegeek.com/thing/205637",
       "minPlayers": "1",
       "maxPlayers": "2",
@@ -2482,9 +2500,9 @@
       "playingTime": "120",
       "minPlayingTime": "60",
       "maxPlayingTime": "120",
-      "averageRating": "8.13058",
-      "averageWeight": "3.5495",
-      "boardGameRank": "28",
+      "averageRating": "8.11839",
+      "averageWeight": "3.566",
+      "boardGameRank": "33",
       "mechanics": [
         "Action Points",
         "Area Movement",
@@ -2495,6 +2513,7 @@
         "Hand Management",
         "Map Deformation",
         "Modular Board",
+        "Player Elimination",
         "Push Your Luck",
         "Role Playing",
         "Scenario / Mission / Campaign Game",
@@ -2588,7 +2607,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/ezVvh9wle4_KUISA2Gksbg__thumb/img/FTZzIbk8J-4IQIQlqc-TpHRxfgU=/fit-in/200x150/filters:strip_icc()/pic8107209.png",
+      "thumbnail": "https://cf.geekdo-images.com/ezVvh9wle4_KUISA2Gksbg__small/img/FTZzIbk8J-4IQIQlqc-TpHRxfgU=/fit-in/200x150/filters:strip_icc()/pic8107209.png",
       "link": "https://boardgamegeek.com/thing/383055",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -2596,7 +2615,7 @@
       "playingTime": "15",
       "minPlayingTime": "10",
       "maxPlayingTime": "15",
-      "averageRating": "7.10417",
+      "averageRating": "7.02604",
       "averageWeight": "2",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -2632,7 +2651,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/yS6oxWjm33bbTk9f6f6aew__thumb/img/0LxeyKdj1UydJGfGEnYEYlhDfIw=/fit-in/200x150/filters:strip_icc()/pic8107210.png",
+      "thumbnail": "https://cf.geekdo-images.com/yS6oxWjm33bbTk9f6f6aew__small/img/0LxeyKdj1UydJGfGEnYEYlhDfIw=/fit-in/200x150/filters:strip_icc()/pic8107210.png",
       "link": "https://boardgamegeek.com/thing/383054",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -2640,7 +2659,7 @@
       "playingTime": "15",
       "minPlayingTime": "10",
       "maxPlayingTime": "15",
-      "averageRating": "6.98519",
+      "averageRating": "7.00256",
       "averageWeight": "2.5",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -2676,7 +2695,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/oXUkkh9uq3zBVWQ8mbgMfQ__thumb/img/Ic3yRKTjVe26RgDzIdLsKn8Hztk=/fit-in/200x150/filters:strip_icc()/pic7947338.png",
+      "thumbnail": "https://cf.geekdo-images.com/cNc-FMsYo-mcRTGaXV2qcQ__small/img/5hfOiYu-6NNlaTUOW4efkIFVgVk=/fit-in/200x150/filters:strip_icc()/pic8894992.jpg",
       "link": "https://boardgamegeek.com/thing/410201",
       "minPlayers": "1",
       "maxPlayers": "5",
@@ -2684,9 +2703,9 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "8.0594",
-      "averageWeight": "2.7991",
-      "boardGameRank": "194",
+      "averageRating": "7.94673",
+      "averageWeight": "2.827",
+      "boardGameRank": "124",
       "mechanics": [
         "End Game Bonuses",
         "Hand Management",
@@ -2725,17 +2744,17 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/RUNCSL-F46NiJKGZEfGJcQ__thumb/img/89OB-7lClaJm4BbzxyczzWWYllA=/fit-in/200x150/filters:strip_icc()/pic7596302.png",
+      "thumbnail": "https://cf.geekdo-images.com/RUNCSL-F46NiJKGZEfGJcQ__small/img/89OB-7lClaJm4BbzxyczzWWYllA=/fit-in/200x150/filters:strip_icc()/pic7596302.png",
       "link": "https://boardgamegeek.com/thing/391086",
       "minPlayers": "2",
       "maxPlayers": "10",
-      "bestAtCount": "4, 6",
+      "bestAtCount": "6",
       "playingTime": "60",
       "minPlayingTime": "20",
       "maxPlayingTime": "60",
-      "averageRating": "6.29517",
-      "averageWeight": "1",
-      "boardGameRank": "11744",
+      "averageRating": "6.02351",
+      "averageWeight": "1.25",
+      "boardGameRank": "13423",
       "mechanics": [
         "Hand Management"
       ],
@@ -2768,7 +2787,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/Q9pjpgYBbeNbCfAmsu3eUA__thumb/img/N_4Sw_QBi6Njky9o98aS7EiCAf8=/fit-in/200x150/filters:strip_icc()/pic1379540.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Q9pjpgYBbeNbCfAmsu3eUA__small/img/N_4Sw_QBi6Njky9o98aS7EiCAf8=/fit-in/200x150/filters:strip_icc()/pic1379540.jpg",
       "link": "https://boardgamegeek.com/thing/128462",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -2776,7 +2795,7 @@
       "playingTime": "0",
       "minPlayingTime": "0",
       "maxPlayingTime": "0",
-      "averageRating": "6.77571",
+      "averageRating": "6.76277",
       "averageWeight": "2.4286",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -2815,7 +2834,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/CpEESO-OMjezTPMVyeLddQ__thumb/img/KF0ha39I0cUrLUki0PyvAlvBTJM=/fit-in/200x150/filters:strip_icc()/pic1102422.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/CpEESO-OMjezTPMVyeLddQ__small/img/KF0ha39I0cUrLUki0PyvAlvBTJM=/fit-in/200x150/filters:strip_icc()/pic1102422.jpg",
       "link": "https://boardgamegeek.com/thing/109141",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -2823,8 +2842,8 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "6.92871",
-      "averageWeight": "1.7812",
+      "averageRating": "6.93209",
+      "averageWeight": "1.7879",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Area Majority / Influence",
@@ -2862,7 +2881,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/rqpI-ulKugcZDqstHEXBow__thumb/img/wgOlz14Kotu3Hqmh-EDxO41mYKM=/fit-in/200x150/filters:strip_icc()/pic1550248.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/rqpI-ulKugcZDqstHEXBow__small/img/wgOlz14Kotu3Hqmh-EDxO41mYKM=/fit-in/200x150/filters:strip_icc()/pic1550248.jpg",
       "link": "https://boardgamegeek.com/thing/137396",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -2870,8 +2889,8 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "7.58566",
-      "averageWeight": "2.3396",
+      "averageRating": "7.57124",
+      "averageWeight": "2.3214",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Area Majority / Influence",
@@ -3049,15 +3068,15 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/L2OVDTRECXkXObc5h75iMQ__thumb/img/s_Tijw_GwODEHDrS1oHyL4tEF1E=/fit-in/200x150/filters:strip_icc()/pic1263419.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/L2OVDTRECXkXObc5h75iMQ__small/img/s_Tijw_GwODEHDrS1oHyL4tEF1E=/fit-in/200x150/filters:strip_icc()/pic1263419.jpg",
       "link": "https://boardgamegeek.com/thing/122316",
       "minPlayers": "2",
       "maxPlayers": "6",
-      "bestAtCount": "4, 5",
+      "bestAtCount": "4",
       "playingTime": "80",
       "minPlayingTime": "40",
       "maxPlayingTime": "80",
-      "averageRating": "7.30604",
+      "averageRating": "7.29498",
       "averageWeight": "2.4156",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -3080,7 +3099,7 @@
     },
     {
       "id": "5405",
-      "name": "Carcassonne: Expansion 2 – Traders & Builders",
+      "name": "Carcassonne: Traders & Builders",
       "yearPublished": "2003",
       "type": "boardgameexpansion",
       "postdate": "2010-11-14 20:58:58",
@@ -3098,7 +3117,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/BaBb91gSf9Lu7CA0Pa9sOg__thumb/img/wKxqmMudEz0HaM7MEDKLbTVa1qE=/fit-in/200x150/filters:strip_icc()/pic2659946.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/LdZAiFV2C7moJs9D2ZuxRA__small/img/uJf7v4EUj0whsgx1SKLyTBS0dSg=/fit-in/200x150/filters:strip_icc()/pic9210963.jpg",
       "link": "https://boardgamegeek.com/thing/5405",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -3106,11 +3125,12 @@
       "playingTime": "60",
       "minPlayingTime": "60",
       "maxPlayingTime": "60",
-      "averageRating": "7.61627",
-      "averageWeight": "2.0592",
+      "averageRating": "7.62401",
+      "averageWeight": "2.0576",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Area Majority / Influence",
+        "Kill Steal",
         "Set Collection",
         "Tile Placement"
       ],
@@ -3144,7 +3164,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/lhCDo5Dg7Nv8ZBOQKbBbfg__thumb/img/VhZ5bcD_2527K0hYK-cDBviEi24=/fit-in/200x150/filters:strip_icc()/pic817425.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/lhCDo5Dg7Nv8ZBOQKbBbfg__small/img/VhZ5bcD_2527K0hYK-cDBviEi24=/fit-in/200x150/filters:strip_icc()/pic817425.jpg",
       "link": "https://boardgamegeek.com/thing/84183",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -3152,7 +3172,7 @@
       "playingTime": "80",
       "minPlayingTime": "40",
       "maxPlayingTime": "80",
-      "averageRating": "6.7141",
+      "averageRating": "6.71023",
       "averageWeight": "2.1882",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -3192,7 +3212,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/XxDZujpe4AR6yBkCHOS2JA__thumb/img/8RmZYOboSYpwfBQ4ELq6TlJq6j0=/fit-in/200x150/filters:strip_icc()/pic1134493.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/XxDZujpe4AR6yBkCHOS2JA__small/img/8RmZYOboSYpwfBQ4ELq6TlJq6j0=/fit-in/200x150/filters:strip_icc()/pic1134493.jpg",
       "link": "https://boardgamegeek.com/thing/81618",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -3200,7 +3220,7 @@
       "playingTime": "80",
       "minPlayingTime": "40",
       "maxPlayingTime": "80",
-      "averageRating": "7.58763",
+      "averageRating": "7.58082",
       "averageWeight": "2.2705",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -3239,7 +3259,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/IfhSwwtUnufE_4vTESepeQ__thumb/img/xOQhuhldN2Lio9l1Jh7WESlZe7Y=/fit-in/200x150/filters:strip_icc()/pic728313.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/IfhSwwtUnufE_4vTESepeQ__small/img/xOQhuhldN2Lio9l1Jh7WESlZe7Y=/fit-in/200x150/filters:strip_icc()/pic728313.jpg",
       "link": "https://boardgamegeek.com/thing/71818",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -3247,7 +3267,7 @@
       "playingTime": "80",
       "minPlayingTime": "40",
       "maxPlayingTime": "80",
-      "averageRating": "7.22369",
+      "averageRating": "7.21704",
       "averageWeight": "2.1677",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -3334,7 +3354,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/XYOn10oXBrDqHySf0jvnyQ__thumb/img/X6V1M2nZOinTgwE0KIBfup_QrCw=/fit-in/200x150/filters:strip_icc()/pic4172124.png",
+      "thumbnail": "https://cf.geekdo-images.com/XYOn10oXBrDqHySf0jvnyQ__small/img/X6V1M2nZOinTgwE0KIBfup_QrCw=/fit-in/200x150/filters:strip_icc()/pic4172124.png",
       "link": "https://boardgamegeek.com/thing/140934",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -3342,14 +3362,18 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.28422",
-      "averageWeight": "2.126",
-      "boardGameRank": "377",
+      "averageRating": "7.24143",
+      "averageWeight": "2.111",
+      "boardGameRank": "440",
       "mechanics": [
+        "Connections",
         "Hand Management",
+        "Move Through Deck",
+        "Open Drafting",
+        "Ordering",
         "Pattern Building",
         "Set Collection",
-        "Tile Placement"
+        "Square Grid"
       ],
       "categories": [
         "Card Game",
@@ -3379,17 +3403,17 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/X1oNtZV5H5BxtxlsTGIsHA__thumb/img/wvQPqF45KlfnRB-Z4ESK9VXzZMM=/fit-in/200x150/filters:strip_icc()/pic6037615.png",
+      "thumbnail": "https://cf.geekdo-images.com/X1oNtZV5H5BxtxlsTGIsHA__small/img/wvQPqF45KlfnRB-Z4ESK9VXzZMM=/fit-in/200x150/filters:strip_icc()/pic6037615.png",
       "link": "https://boardgamegeek.com/thing/332290",
       "minPlayers": "1",
       "maxPlayers": "4",
       "bestAtCount": "2",
-      "playingTime": "200",
-      "minPlayingTime": "45",
-      "maxPlayingTime": "200",
-      "averageRating": "7.40245",
-      "averageWeight": "2.7037",
-      "boardGameRank": "1097",
+      "playingTime": "150",
+      "minPlayingTime": "60",
+      "maxPlayingTime": "150",
+      "averageRating": "7.40934",
+      "averageWeight": "2.7706",
+      "boardGameRank": "933",
       "mechanics": [
         "Cooperative Game",
         "Dice Rolling",
@@ -3478,7 +3502,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/VYyr18_uGpO7US7gAs-3Pw__thumb/img/P9OdcpdY6IYI4V_oOKEtJudp0Hw=/fit-in/200x150/filters:strip_icc()/pic581352.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/VYyr18_uGpO7US7gAs-3Pw__small/img/P9OdcpdY6IYI4V_oOKEtJudp0Hw=/fit-in/200x150/filters:strip_icc()/pic581352.jpg",
       "link": "https://boardgamegeek.com/thing/59149",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -3486,9 +3510,9 @@
       "playingTime": "20",
       "minPlayingTime": "20",
       "maxPlayingTime": "20",
-      "averageRating": "6.04507",
+      "averageRating": "6.02322",
       "averageWeight": "1.5273",
-      "boardGameRank": "6318",
+      "boardGameRank": "7306",
       "mechanics": [
         "Acting",
         "Set Collection",
@@ -3805,7 +3829,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/g4mV4BH-ZrhMUVgil-yV1A__thumb/img/foFGN8KwmN8BaYNpolq0HcMba4M=/fit-in/200x150/filters:strip_icc()/pic3016500.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/g4mV4BH-ZrhMUVgil-yV1A__small/img/foFGN8KwmN8BaYNpolq0HcMba4M=/fit-in/200x150/filters:strip_icc()/pic3016500.jpg",
       "link": "https://boardgamegeek.com/thing/150376",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -3813,9 +3837,9 @@
       "playingTime": "120",
       "minPlayingTime": "60",
       "maxPlayingTime": "120",
-      "averageRating": "7.45914",
-      "averageWeight": "3.0106",
-      "boardGameRank": "228",
+      "averageRating": "7.43743",
+      "averageWeight": "3.0149",
+      "boardGameRank": "255",
       "mechanics": [
         "Action Points",
         "Area Movement",
@@ -3836,6 +3860,7 @@
         "Bluffing",
         "Deduction",
         "Horror",
+        "Science Fiction",
         "Zombies"
       ],
       "designers": [
@@ -3904,7 +3929,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/w9pHmbMbHEFYtuOUcWcruA__thumb/img/BYid-ptJy9xNI_kK3IDWOGLWJVM=/fit-in/200x150/filters:strip_icc()/pic759154.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/w9pHmbMbHEFYtuOUcWcruA__small/img/BYid-ptJy9xNI_kK3IDWOGLWJVM=/fit-in/200x150/filters:strip_icc()/pic759154.jpg",
       "link": "https://boardgamegeek.com/thing/34219",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -3912,9 +3937,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.19959",
-      "averageWeight": "1.6824",
-      "boardGameRank": "470",
+      "averageRating": "7.19423",
+      "averageWeight": "1.6924",
+      "boardGameRank": "519",
       "mechanics": [
         "Auction / Bidding",
         "Auction: Turn Order Until Pass",
@@ -3999,7 +4024,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/vU9Qz3FgABkPweg9uEJuyQ__thumb/img/JLkC1qZG2dbOml34u0R0xc_Xmik=/fit-in/200x150/filters:strip_icc()/pic1200165.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/vU9Qz3FgABkPweg9uEJuyQ__small/img/JLkC1qZG2dbOml34u0R0xc_Xmik=/fit-in/200x150/filters:strip_icc()/pic1200165.jpg",
       "link": "https://boardgamegeek.com/thing/117793",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -4007,8 +4032,8 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "7.3395",
-      "averageWeight": "2.2419",
+      "averageRating": "7.32993",
+      "averageWeight": "2.246",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Area Majority / Influence",
@@ -4091,7 +4116,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/qFmyurPNiCM8UPtP38mQpg__thumb/img/wLG6hiX2QNkrZCG5bnZqLJB6Pio=/fit-in/200x150/filters:strip_icc()/pic979889.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/qFmyurPNiCM8UPtP38mQpg__small/img/wLG6hiX2QNkrZCG5bnZqLJB6Pio=/fit-in/200x150/filters:strip_icc()/pic979889.jpg",
       "link": "https://boardgamegeek.com/thing/97786",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -4099,9 +4124,9 @@
       "playingTime": "90",
       "minPlayingTime": "30",
       "maxPlayingTime": "90",
-      "averageRating": "7.23006",
-      "averageWeight": "2.592",
-      "boardGameRank": "586",
+      "averageRating": "7.21958",
+      "averageWeight": "2.5898",
+      "boardGameRank": "652",
       "mechanics": [
         "Area Majority / Influence",
         "Area Movement",
@@ -4236,7 +4261,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__thumb/img/zcjkqn_HYDIIyVAZaAxJIkurQRg=/fit-in/200x150/filters:strip_icc()/pic2869710.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__small/img/zcjkqn_HYDIIyVAZaAxJIkurQRg=/fit-in/200x150/filters:strip_icc()/pic2869710.jpg",
       "link": "https://boardgamegeek.com/thing/158899",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -4244,9 +4269,9 @@
       "playingTime": "40",
       "minPlayingTime": "40",
       "maxPlayingTime": "40",
-      "averageRating": "7.09415",
-      "averageWeight": "1.8348",
-      "boardGameRank": "519",
+      "averageRating": "7.09714",
+      "averageWeight": "1.8347",
+      "boardGameRank": "560",
       "mechanics": [
         "Action Queue",
         "Hand Management",
@@ -4285,7 +4310,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/MbLJUbvoRI_AS-KGfIkmNQ__thumb/img/c2yxjj2CSXC6Id97EIr3-H4Plpo=/fit-in/200x150/filters:strip_icc()/pic7161032.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/MbLJUbvoRI_AS-KGfIkmNQ__small/img/c2yxjj2CSXC6Id97EIr3-H4Plpo=/fit-in/200x150/filters:strip_icc()/pic7161032.jpg",
       "link": "https://boardgamegeek.com/thing/352574",
       "minPlayers": "1",
       "maxPlayers": "6",
@@ -4293,9 +4318,9 @@
       "playingTime": "30",
       "minPlayingTime": "15",
       "maxPlayingTime": "30",
-      "averageRating": "7.39219",
-      "averageWeight": "2.0426",
-      "boardGameRank": "1248",
+      "averageRating": "7.30043",
+      "averageWeight": "2.1163",
+      "boardGameRank": "1053",
       "mechanics": [
         "Closed Drafting",
         "End Game Bonuses",
@@ -4309,7 +4334,6 @@
         "Variable Set-up"
       ],
       "categories": [
-        "Abstract Strategy",
         "Animals",
         "Puzzle",
         "Real-time"
@@ -4338,17 +4362,17 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/9hDNHVLmorkaytg2ztLM6w__thumb/img/2dUdMpeeHEbAFEM9rOJOmkf_kjs=/fit-in/200x150/filters:strip_icc()/pic7439416.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/9hDNHVLmorkaytg2ztLM6w__small/img/2dUdMpeeHEbAFEM9rOJOmkf_kjs=/fit-in/200x150/filters:strip_icc()/pic7439416.jpg",
       "link": "https://boardgamegeek.com/thing/362976",
       "minPlayers": "1",
       "maxPlayers": "4",
       "bestAtCount": "2",
-      "playingTime": "45",
+      "playingTime": "30",
       "minPlayingTime": "30",
-      "maxPlayingTime": "45",
-      "averageRating": "7.17735",
-      "averageWeight": "1.3415",
-      "boardGameRank": "2534",
+      "maxPlayingTime": "30",
+      "averageRating": "7.0742",
+      "averageWeight": "1.4342",
+      "boardGameRank": "1874",
       "mechanics": [
         "Cooperative Game",
         "Grid Movement",
@@ -4356,7 +4380,6 @@
         "Tile Placement"
       ],
       "categories": [
-        "Abstract Strategy",
         "Exploration",
         "Nautical"
       ],
@@ -4474,7 +4497,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/0m0X8qZxfARpz0lmzjxSEw__thumb/img/swi0YmUUKWTu54c8XN1NlsawYuQ=/fit-in/200x150/filters:strip_icc()/pic2360788.png",
+      "thumbnail": "https://cf.geekdo-images.com/0m0X8qZxfARpz0lmzjxSEw__small/img/swi0YmUUKWTu54c8XN1NlsawYuQ=/fit-in/200x150/filters:strip_icc()/pic2360788.png",
       "link": "https://boardgamegeek.com/thing/98229",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -4482,9 +4505,9 @@
       "playingTime": "25",
       "minPlayingTime": "25",
       "maxPlayingTime": "25",
-      "averageRating": "7.26831",
-      "averageWeight": "1.5299",
-      "boardGameRank": "976",
+      "averageRating": "7.25755",
+      "averageWeight": "1.525",
+      "boardGameRank": "1109",
       "mechanics": [
         "Drawing"
       ],
@@ -4524,16 +4547,18 @@
       "playingTime": "45",
       "minPlayingTime": "30",
       "maxPlayingTime": "45",
-      "averageRating": "7.50368",
-      "averageWeight": "1.4778",
-      "boardGameRank": "270",
+      "averageRating": "7.50852",
+      "averageWeight": "1.4784",
+      "boardGameRank": "253",
       "mechanics": [
         "Hand Management",
+        "Melding and Splaying",
         "Open Drafting",
         "Push Your Luck",
         "Score-and-Reset Game",
         "Set Collection",
-        "Sudden Death Ending"
+        "Sudden Death Ending",
+        "Take That"
       ],
       "categories": [
         "Animals",
@@ -4604,7 +4629,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/RotpVPn98B5sDSS8VTzTJQ__thumb/img/WZ5C_84yftaJFU3oprFzDHIRgV0=/fit-in/200x150/filters:strip_icc()/pic6430938.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/RotpVPn98B5sDSS8VTzTJQ__small/img/WZ5C_84yftaJFU3oprFzDHIRgV0=/fit-in/200x150/filters:strip_icc()/pic6430938.jpg",
       "link": "https://boardgamegeek.com/thing/311900",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -4612,9 +4637,9 @@
       "playingTime": "75",
       "minPlayingTime": "60",
       "maxPlayingTime": "75",
-      "averageRating": "7.64441",
-      "averageWeight": "2.3784",
-      "boardGameRank": "2828",
+      "averageRating": "7.44202",
+      "averageWeight": "2.3182",
+      "boardGameRank": "2481",
       "mechanics": [
         "Area Majority / Influence",
         "Campaign / Battle Card Driven",
@@ -4650,7 +4675,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/0HHqYFhJvOwk8Z0Dt-EvTA__thumb/img/EwiBLR6QywbISk0aGe-Vya4zXws=/fit-in/200x150/filters:strip_icc()/pic7083274.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/0HHqYFhJvOwk8Z0Dt-EvTA__small/img/EwiBLR6QywbISk0aGe-Vya4zXws=/fit-in/200x150/filters:strip_icc()/pic7083274.jpg",
       "link": "https://boardgamegeek.com/thing/195314",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -4658,9 +4683,9 @@
       "playingTime": "20",
       "minPlayingTime": "15",
       "maxPlayingTime": "20",
-      "averageRating": "7.00651",
-      "averageWeight": "1.1988",
-      "boardGameRank": "1086",
+      "averageRating": "6.98442",
+      "averageWeight": "1.2235",
+      "boardGameRank": "1210",
       "mechanics": [
         "Push Your Luck",
         "Set Collection",
@@ -4695,7 +4720,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__thumb/img/8YdbYqiyOw64OzqvXpWGzHb2Xr0=/fit-in/200x150/filters:strip_icc()/pic6152802.png",
+      "thumbnail": "https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__small/img/8YdbYqiyOw64OzqvXpWGzHb2Xr0=/fit-in/200x150/filters:strip_icc()/pic6152802.png",
       "link": "https://boardgamegeek.com/thing/288513",
       "minPlayers": "1",
       "maxPlayers": "5",
@@ -4703,9 +4728,9 @@
       "playingTime": "20",
       "minPlayingTime": "15",
       "maxPlayingTime": "20",
-      "averageRating": "6.96544",
-      "averageWeight": "1.3523",
-      "boardGameRank": "1574",
+      "averageRating": "6.92063",
+      "averageWeight": "1.3551",
+      "boardGameRank": "1654",
       "mechanics": [
         "Communication Limits",
         "Cooperative Game",
@@ -4742,7 +4767,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/AMrQErlzUmsE8ac8qxGe7w__thumb/img/mNjJtAc0hnhMLt6yjNPAIrtjf-8=/fit-in/200x150/filters:strip_icc()/pic7422259.png",
+      "thumbnail": "https://cf.geekdo-images.com/AMrQErlzUmsE8ac8qxGe7w__small/img/mNjJtAc0hnhMLt6yjNPAIrtjf-8=/fit-in/200x150/filters:strip_icc()/pic7422259.png",
       "link": "https://boardgamegeek.com/thing/352591",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -4750,9 +4775,9 @@
       "playingTime": "20",
       "minPlayingTime": "20",
       "maxPlayingTime": "20",
-      "averageRating": "7.0877",
-      "averageWeight": "1.8",
-      "boardGameRank": "6066",
+      "averageRating": "7.03673",
+      "averageWeight": "1.875",
+      "boardGameRank": "5554",
       "mechanics": [
         "Hand Management",
         "Solo / Solitaire Game"
@@ -5017,7 +5042,7 @@
         "wishlistpriority": 2,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/3MdUGB8YD_jGTDyfbAnX9Q__thumb/img/c41bbBRd7BC3KKqLFdKb6URXzsA=/fit-in/200x150/filters:strip_icc()/pic6763912.png",
+      "thumbnail": "https://cf.geekdo-images.com/3MdUGB8YD_jGTDyfbAnX9Q__small/img/c41bbBRd7BC3KKqLFdKb6URXzsA=/fit-in/200x150/filters:strip_icc()/pic6763912.png",
       "link": "https://boardgamegeek.com/thing/334590",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -5025,12 +5050,13 @@
       "playingTime": "30",
       "minPlayingTime": "15",
       "maxPlayingTime": "30",
-      "averageRating": "7.89974",
-      "averageWeight": "1.8354",
-      "boardGameRank": "572",
+      "averageRating": "7.75845",
+      "averageWeight": "1.8403",
+      "boardGameRank": "449",
       "mechanics": [
         "Hand Management",
         "Predictive Bid",
+        "Scenario / Mission / Campaign Game",
         "Solo / Solitaire Game",
         "Trick-taking"
       ],
@@ -5109,7 +5135,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__thumb/img/6-1EOESE196KVKw4xOJ5rge56j0=/fit-in/200x150/filters:strip_icc()/pic3476592.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/TGHPcdYEnD3_QzMohEIrNw__small/img/0bZIFaJEW-3FquBb8jY-SqrrUx8=/fit-in/200x150/filters:strip_icc()/pic9206059.png",
       "link": "https://boardgamegeek.com/thing/198773",
       "minPlayers": "2",
       "maxPlayers": "8",
@@ -5117,13 +5143,12 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "7.18294",
-      "averageWeight": "1.2425",
-      "boardGameRank": "466",
+      "averageRating": "7.17486",
+      "averageWeight": "1.2358",
+      "boardGameRank": "507",
       "mechanics": [
         "Communication Limits",
         "Memory",
-        "Push Your Luck",
         "Team-Based Game"
       ],
       "categories": [
@@ -5204,7 +5229,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/kiD03bslLpN_0Qe1LJ8OGg__thumb/img/VD6xhahkv4SR87FYOoQS9rKOpvo=/fit-in/200x150/filters:strip_icc()/pic174174.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/kiD03bslLpN_0Qe1LJ8OGg__small/img/VD6xhahkv4SR87FYOoQS9rKOpvo=/fit-in/200x150/filters:strip_icc()/pic174174.jpg",
       "link": "https://boardgamegeek.com/thing/8217",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -5212,15 +5237,19 @@
       "playingTime": "60",
       "minPlayingTime": "45",
       "maxPlayingTime": "60",
-      "averageRating": "7.23171",
-      "averageWeight": "2.2851",
-      "boardGameRank": "408",
+      "averageRating": "7.23018",
+      "averageWeight": "2.2843",
+      "boardGameRank": "447",
       "mechanics": [
         "Action Drafting",
+        "End Game Bonuses",
         "Follow",
         "Hand Management",
+        "Market",
         "Multi-Use Cards",
+        "Open Drafting",
         "Set Collection",
+        "Turn Order: Progressive",
         "Variable Phase Order"
       ],
       "categories": [
@@ -5304,7 +5333,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/ecO5eAd3RkctQ0-Tbqv37Q__thumb/img/uxrJLWxvi-f8CGbDpxQBStzvGes=/fit-in/200x150/filters:strip_icc()/pic5428723.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/ecO5eAd3RkctQ0-Tbqv37Q__small/img/uxrJLWxvi-f8CGbDpxQBStzvGes=/fit-in/200x150/filters:strip_icc()/pic5428723.jpg",
       "link": "https://boardgamegeek.com/thing/306735",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -5312,9 +5341,9 @@
       "playingTime": "40",
       "minPlayingTime": "20",
       "maxPlayingTime": "40",
-      "averageRating": "7.64229",
-      "averageWeight": "2.3916",
-      "boardGameRank": "243",
+      "averageRating": "7.59211",
+      "averageWeight": "2.3898",
+      "boardGameRank": "266",
       "mechanics": [
         "Dice Rolling",
         "Modular Board",
@@ -5356,17 +5385,17 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/gBPzZsgm9nrUYVfdK216NA__thumb/img/aceZ647BbV53Yv7rod9AwpTTst0=/fit-in/200x150/filters:strip_icc()/pic4557340.png",
+      "thumbnail": "https://cf.geekdo-images.com/gBPzZsgm9nrUYVfdK216NA__small/img/aceZ647BbV53Yv7rod9AwpTTst0=/fit-in/200x150/filters:strip_icc()/pic4557340.png",
       "link": "https://boardgamegeek.com/thing/4098",
       "minPlayers": "1",
       "maxPlayers": "6",
-      "bestAtCount": "4",
+      "bestAtCount": "4, 5",
       "playingTime": "120",
       "minPlayingTime": "120",
       "maxPlayingTime": "120",
-      "averageRating": "7.84954",
-      "averageWeight": "3.8708",
-      "boardGameRank": "132",
+      "averageRating": "7.87253",
+      "averageWeight": "3.8532",
+      "boardGameRank": "137",
       "mechanics": [
         "Auction / Bidding",
         "Catch the Leader",
@@ -5415,7 +5444,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/wFD0mXh1AZshtsYlrBXyzA__thumb/img/nLzU6sEdEIrWcjgBVOlj-Jfsl6s=/fit-in/200x150/filters:strip_icc()/pic2748305.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/wFD0mXh1AZshtsYlrBXyzA__small/img/nLzU6sEdEIrWcjgBVOlj-Jfsl6s=/fit-in/200x150/filters:strip_icc()/pic2748305.jpg",
       "link": "https://boardgamegeek.com/thing/5404",
       "minPlayers": "3",
       "maxPlayers": "5",
@@ -5423,9 +5452,9 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "7.28981",
-      "averageWeight": "3.0308",
-      "boardGameRank": "535",
+      "averageRating": "7.28189",
+      "averageWeight": "3.0304",
+      "boardGameRank": "607",
       "mechanics": [
         "Area Majority / Influence",
         "Auction / Bidding",
@@ -5461,28 +5490,29 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/XKdSpV2ZTdOEd0NXy3Ig1Q__thumb/img/Gvkzb72NQtK-Poor3FJXfj-L8RU=/fit-in/200x150/filters:strip_icc()/pic4657338.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/XKdSpV2ZTdOEd0NXy3Ig1Q__small/img/Gvkzb72NQtK-Poor3FJXfj-L8RU=/fit-in/200x150/filters:strip_icc()/pic4657338.jpg",
       "link": "https://boardgamegeek.com/thing/266164",
       "minPlayers": "2",
       "maxPlayers": "4",
-      "bestAtCount": "3, 4",
+      "bestAtCount": "4",
       "playingTime": "60",
       "minPlayingTime": "60",
       "maxPlayingTime": "60",
-      "averageRating": "7.65829",
-      "averageWeight": "2.3696",
-      "boardGameRank": "778",
+      "averageRating": "7.61476",
+      "averageWeight": "2.3947",
+      "boardGameRank": "819",
       "mechanics": [
         "Area Majority / Influence",
         "Chaining",
         "Hand Management",
         "Hexagon Grid",
         "Network and Route Building",
-        "Take That",
-        "Tile Placement"
+        "Open Drafting",
+        "Sudden Death Ending",
+        "Tile Placement",
+        "Variable Set-up"
       ],
       "categories": [
-        "Abstract Strategy",
         "Ancient"
       ],
       "designers": [
@@ -5509,7 +5539,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/Awopfw5_5Qyh-7YcSbtudA__thumb/img/HHn3So0Mum6VZliDmEnB2LwfeQ0=/fit-in/200x150/filters:strip_icc()/pic4870482.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Awopfw5_5Qyh-7YcSbtudA__small/img/HHn3So0Mum6VZliDmEnB2LwfeQ0=/fit-in/200x150/filters:strip_icc()/pic4870482.jpg",
       "link": "https://boardgamegeek.com/thing/188866",
       "minPlayers": "1",
       "maxPlayers": "8",
@@ -5517,19 +5547,17 @@
       "playingTime": "75",
       "minPlayingTime": "45",
       "maxPlayingTime": "75",
-      "averageRating": "7.57183",
-      "averageWeight": "2.3316",
-      "boardGameRank": "362",
+      "averageRating": "7.5245",
+      "averageWeight": "2.3165",
+      "boardGameRank": "411",
       "mechanics": [
         "Deduction",
         "Hand Management",
-        "Roles with Asymmetric Information",
         "Trading"
       ],
       "categories": [
         "Card Game",
         "Deduction",
-        "Humor",
         "Movies / TV / Radio theme",
         "Murder / Mystery"
       ],
@@ -5763,17 +5791,17 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/yyyoLviq8AJABj7T7V5pgg__thumb/img/J2InPiyNrRDiTLCNNvh1TZDJpOM=/fit-in/200x150/filters:strip_icc()/pic1178136.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/yyyoLviq8AJABj7T7V5pgg__small/img/J2InPiyNrRDiTLCNNvh1TZDJpOM=/fit-in/200x150/filters:strip_icc()/pic1178136.jpg",
       "link": "https://boardgamegeek.com/thing/2842",
       "minPlayers": "2",
       "maxPlayers": "6",
-      "bestAtCount": "5, 6",
+      "bestAtCount": "4, 6",
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.68712",
-      "averageWeight": "1.3461",
-      "boardGameRank": "1416",
+      "averageRating": "6.6941",
+      "averageWeight": "1.3467",
+      "boardGameRank": "1561",
       "mechanics": [
         "Connections",
         "Race",
@@ -5806,22 +5834,24 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/3V1Nmee3P4qSpVmWO9uGgw__thumb/img/ptUAPVk_LoqX7qDUt7ngtDXe-Qw=/fit-in/200x150/filters:strip_icc()/pic4981297.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/3V1Nmee3P4qSpVmWO9uGgw__small/img/ptUAPVk_LoqX7qDUt7ngtDXe-Qw=/fit-in/200x150/filters:strip_icc()/pic4981297.jpg",
       "link": "https://boardgamegeek.com/thing/202426",
       "minPlayers": "4",
       "maxPlayers": "9",
-      "bestAtCount": "6",
+      "bestAtCount": "5, 6",
       "playingTime": "180",
       "minPlayingTime": "120",
       "maxPlayingTime": "180",
-      "averageRating": "7.7799",
-      "averageWeight": "3.5419",
-      "boardGameRank": "393",
+      "averageRating": "7.76054",
+      "averageWeight": "3.5665",
+      "boardGameRank": "394",
       "mechanics": [
-        "Auction / Bidding",
+        "Auction: Sealed Bid",
         "Hidden Victory Points",
+        "Income",
         "Negotiation",
         "Real-Time",
+        "Simultaneous Action Selection",
         "Tech Trees / Tech Tracks",
         "Trading",
         "Variable Player Powers"
@@ -5857,7 +5887,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/bsJpFlch8oDh0k8e5pc9GA__thumb/img/WR-dSFptjI6YbamHhQe48Ee5tNw=/fit-in/200x150/filters:strip_icc()/pic2062087.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/bsJpFlch8oDh0k8e5pc9GA__small/img/WR-dSFptjI6YbamHhQe48Ee5tNw=/fit-in/200x150/filters:strip_icc()/pic2062087.jpg",
       "link": "https://boardgamegeek.com/thing/108906",
       "minPlayers": "2",
       "maxPlayers": "7",
@@ -5865,12 +5895,14 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "7.29753",
-      "averageWeight": "2.3961",
-      "boardGameRank": "1024",
+      "averageRating": "7.28779",
+      "averageWeight": "2.3962",
+      "boardGameRank": "1164",
       "mechanics": [
+        "Catch the Leader",
         "Hand Management",
-        "Race"
+        "Race",
+        "Track Movement"
       ],
       "categories": [
         "Racing",
@@ -5901,7 +5933,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/0d1EaMVmAiIBROI2QstFSQ__thumb/img/J-thZd7Pbbh1CE8QHcvEE4w8FBE=/fit-in/200x150/filters:strip_icc()/pic3596681.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/VG31TvBpKngZ8ztV-N4Dcg__small/img/FW3sD3Ci-5t07QceD_q1r6Wnrzw=/fit-in/200x150/filters:strip_icc()/pic8911183.png",
       "link": "https://boardgamegeek.com/thing/224037",
       "minPlayers": "2",
       "maxPlayers": "2",
@@ -5909,14 +5941,13 @@
       "playingTime": "30",
       "minPlayingTime": "15",
       "maxPlayingTime": "30",
-      "averageRating": "7.43031",
-      "averageWeight": "1.363",
-      "boardGameRank": "255",
+      "averageRating": "7.4065",
+      "averageWeight": "1.3592",
+      "boardGameRank": "275",
       "mechanics": [
         "Communication Limits",
         "Cooperative Game",
-        "Memory",
-        "Push Your Luck"
+        "Memory"
       ],
       "categories": [
         "Card Game",
@@ -5949,7 +5980,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/VieUvCI62VUhQ9C4agum3A__thumb/img/dZ4v6yOOU5E-oPFK0UbqBGoXyzU=/fit-in/200x150/filters:strip_icc()/pic3987975.png",
+      "thumbnail": "https://cf.geekdo-images.com/VieUvCI62VUhQ9C4agum3A__small/img/dZ4v6yOOU5E-oPFK0UbqBGoXyzU=/fit-in/200x150/filters:strip_icc()/pic3987975.png",
       "link": "https://boardgamegeek.com/thing/214",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -5957,9 +5988,9 @@
       "playingTime": "60",
       "minPlayingTime": "45",
       "maxPlayingTime": "60",
-      "averageRating": "6.2132",
-      "averageWeight": "1.6468",
-      "boardGameRank": "3636",
+      "averageRating": "6.22334",
+      "averageWeight": "1.6422",
+      "boardGameRank": "3998",
       "mechanics": [
         "Hand Management",
         "Pattern Building",
@@ -6037,7 +6068,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/w2AZs8NYbZyGIdjPI7B2WA__thumb/img/o5rmrdKnm4CVBJNqRQ0LawBRNvo=/fit-in/200x150/filters:strip_icc()/pic565079.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/w2AZs8NYbZyGIdjPI7B2WA__small/img/o5rmrdKnm4CVBJNqRQ0LawBRNvo=/fit-in/200x150/filters:strip_icc()/pic565079.jpg",
       "link": "https://boardgamegeek.com/thing/46255",
       "minPlayers": "2",
       "maxPlayers": "2",
@@ -6045,9 +6076,9 @@
       "playingTime": "45",
       "minPlayingTime": "30",
       "maxPlayingTime": "45",
-      "averageRating": "6.6336",
-      "averageWeight": "2.2118",
-      "boardGameRank": "2343",
+      "averageRating": "6.62534",
+      "averageWeight": "2.2136",
+      "boardGameRank": "2677",
       "mechanics": [
         "Area Majority / Influence",
         "Dice Rolling",
@@ -6130,7 +6161,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__thumb/img/eTnMwfCC2jCGDPXC08SIaMXNOTM=/fit-in/200x150/filters:strip_icc()/pic5902073.png",
+      "thumbnail": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__small/img/eTnMwfCC2jCGDPXC08SIaMXNOTM=/fit-in/200x150/filters:strip_icc()/pic5902073.png",
       "link": "https://boardgamegeek.com/thing/231733",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -6138,15 +6169,16 @@
       "playingTime": "90",
       "minPlayingTime": "30",
       "maxPlayingTime": "90",
-      "averageRating": "8.12495",
-      "averageWeight": "3.094",
-      "boardGameRank": "63",
+      "averageRating": "8.07441",
+      "averageWeight": "3.1141",
+      "boardGameRank": "67",
       "mechanics": [
         "Action Retrieval",
+        "Closed Drafting",
         "Deck, Bag, and Pool Building",
         "Hand Management",
-        "Open Drafting",
-        "Solo / Solitaire Game"
+        "Solo / Solitaire Game",
+        "Worker Placement"
       ],
       "categories": [
         "Post-Napoleonic"
@@ -6226,7 +6258,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__thumb/img/aUlIih2_R7P8IYKeyNl2heLQbu8=/fit-in/200x150/filters:strip_icc()/pic7013651.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__small/img/aUlIih2_R7P8IYKeyNl2heLQbu8=/fit-in/200x150/filters:strip_icc()/pic7013651.jpg",
       "link": "https://boardgamegeek.com/thing/162886",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -6234,8 +6266,8 @@
       "playingTime": "120",
       "minPlayingTime": "90",
       "maxPlayingTime": "120",
-      "averageRating": "8.34317",
-      "averageWeight": "4.067",
+      "averageRating": "8.33943",
+      "averageWeight": "4.0737",
       "boardGameRank": "11",
       "mechanics": [
         "Action Retrieval",
@@ -6243,6 +6275,7 @@
         "Automatic Resource Growth",
         "Campaign / Battle Card Driven",
         "Cooperative Game",
+        "Deck, Bag, and Pool Building",
         "Hand Management",
         "Modular Board",
         "Simultaneous Action Selection",
@@ -6254,7 +6287,6 @@
       "categories": [
         "Environmental",
         "Fantasy",
-        "Fighting",
         "Mythology",
         "Territory Building"
       ],
@@ -6282,7 +6314,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/zIZD0L3xXX-jYSLgCRCsEw__thumb/img/PwNFRhKRMsUl-03tp39EBYrpjgk=/fit-in/200x150/filters:strip_icc()/pic2821272.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/zIZD0L3xXX-jYSLgCRCsEw__small/img/PwNFRhKRMsUl-03tp39EBYrpjgk=/fit-in/200x150/filters:strip_icc()/pic2821272.jpg",
       "link": "https://boardgamegeek.com/thing/173341",
       "minPlayers": "2",
       "maxPlayers": "3",
@@ -6290,9 +6322,9 @@
       "playingTime": "15",
       "minPlayingTime": "10",
       "maxPlayingTime": "15",
-      "averageRating": "6.3344",
+      "averageRating": "6.3416",
       "averageWeight": "1",
-      "boardGameRank": "3621",
+      "boardGameRank": "4015",
       "mechanics": [
         "Player Elimination"
       ],
@@ -6328,7 +6360,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/e9CWevSJC03NzLybnCKEVQ__thumb/img/vQZYNWt9xSZez7NCoMB5Lz9yBdY=/fit-in/200x150/filters:strip_icc()/pic4025029.png",
+      "thumbnail": "https://cf.geekdo-images.com/e9CWevSJC03NzLybnCKEVQ__small/img/vQZYNWt9xSZez7NCoMB5Lz9yBdY=/fit-in/200x150/filters:strip_icc()/pic4025029.png",
       "link": "https://boardgamegeek.com/thing/327",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -6336,9 +6368,9 @@
       "playingTime": "10",
       "minPlayingTime": "10",
       "maxPlayingTime": "10",
-      "averageRating": "6.74412",
-      "averageWeight": "1.0523",
-      "boardGameRank": "1233",
+      "averageRating": "6.72787",
+      "averageWeight": "1.0509",
+      "boardGameRank": "1387",
       "mechanics": [
         "Player Elimination",
         "Real-Time"
@@ -6377,7 +6409,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/x4BbdwSDkjTnbQR_PfQHfg__thumb/img/xeBuGGzkZXK4XbZ2jRS-4Zef-Us=/fit-in/200x150/filters:strip_icc()/pic8207389.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/DOwZ7_Q1w68iBhARcDAxig__small/img/nkY1mEj6fItSXJHctfzFcRIcDT0=/fit-in/200x150/filters:strip_icc()/pic8549797.jpg",
       "link": "https://boardgamegeek.com/thing/521",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -6385,8 +6417,8 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "8.03987",
-      "averageWeight": "1.2271",
+      "averageRating": "8.06649",
+      "averageWeight": "1.2263",
       "boardGameRank": "46",
       "mechanics": [
         "Flicking",
@@ -6698,7 +6730,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/v6bTbxeprDFj1nN4AenvjA__thumb/img/7AyBFA8JfZHKxC5ntwOjJTbIgWE=/fit-in/200x150/filters:strip_icc()/pic1129370.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/v6bTbxeprDFj1nN4AenvjA__small/img/7AyBFA8JfZHKxC5ntwOjJTbIgWE=/fit-in/200x150/filters:strip_icc()/pic1129370.jpg",
       "link": "https://boardgamegeek.com/thing/100901",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -6706,9 +6738,9 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "7.15466",
-      "averageWeight": "2.1986",
-      "boardGameRank": "485",
+      "averageRating": "7.14294",
+      "averageWeight": "2.1974",
+      "boardGameRank": "543",
       "mechanics": [
         "Action Points",
         "Cooperative Game",
@@ -6876,7 +6908,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/hLJv1A1TwrMrLLIJhVpKVA__thumb/img/cHgvJgF-Gr6mgDKj51uPoqbjHQk=/fit-in/200x150/filters:strip_icc()/pic3429338.png",
+      "thumbnail": "https://cf.geekdo-images.com/hLJv1A1TwrMrLLIJhVpKVA__small/img/cHgvJgF-Gr6mgDKj51uPoqbjHQk=/fit-in/200x150/filters:strip_icc()/pic3429338.png",
       "link": "https://boardgamegeek.com/thing/221194",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -6884,9 +6916,9 @@
       "playingTime": "120",
       "minPlayingTime": "90",
       "maxPlayingTime": "120",
-      "averageRating": "7.55848",
-      "averageWeight": "3.0423",
-      "boardGameRank": "251",
+      "averageRating": "7.52393",
+      "averageWeight": "3.0448",
+      "boardGameRank": "281",
       "mechanics": [
         "Action Points",
         "Dice Rolling",
@@ -6925,7 +6957,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/OU26qQZoHJodxSFKiR5IzA__thumb/img/eDUA8LpBqRjlzJWJYIsIenpF_rA=/fit-in/200x150/filters:strip_icc()/pic1528722.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/OU26qQZoHJodxSFKiR5IzA__small/img/eDUA8LpBqRjlzJWJYIsIenpF_rA=/fit-in/200x150/filters:strip_icc()/pic1528722.jpg",
       "link": "https://boardgamegeek.com/thing/136063",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -6933,16 +6965,16 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "7.07354",
-      "averageWeight": "2.0386",
-      "boardGameRank": "550",
+      "averageRating": "7.05769",
+      "averageWeight": "2.04",
+      "boardGameRank": "611",
       "mechanics": [
         "Action Points",
         "Bias",
         "Cooperative Game",
         "Grid Movement",
         "Hand Management",
-        "Map Reduction",
+        "Map Deformation",
         "Modular Board",
         "Pick-up and Deliver",
         "Solo / Solitaire Game",
@@ -7032,7 +7064,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/wirPJ4tfSDafd-TNhVr7eA__thumb/img/7GeVUG6MUHjKYAOOofU2zaeuLUc=/fit-in/200x150/filters:strip_icc()/pic7663518.png",
+      "thumbnail": "https://cf.geekdo-images.com/IrYxdDL_emPurvpg_lRSgA__small/img/BRBs8AvHhWUQzb2MWcwglmJaiBM=/fit-in/200x150/filters:strip_icc()/pic7669050.jpg",
       "link": "https://boardgamegeek.com/thing/37628",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -7040,13 +7072,14 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "7.01488",
-      "averageWeight": "2.1096",
-      "boardGameRank": "1161",
+      "averageRating": "7.03044",
+      "averageWeight": "2.0996",
+      "boardGameRank": "1231",
       "mechanics": [
         "Betting and Bluffing",
         "Hand Management",
-        "Ladder Climbing"
+        "Ladder Climbing",
+        "Team-Based Game"
       ],
       "categories": [
         "Card Game"
@@ -7075,7 +7108,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/oc3u6OQpJkf9TvDw4iI9xA__thumb/img/Otc-6MFf-HC9ep-82ub2B2rID78=/fit-in/200x150/filters:strip_icc()/pic4991936.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__small/img/CcgassIExgVh2dwANVY_Srp6be0=/fit-in/200x150/filters:strip_icc()/pic8855812.jpg",
       "link": "https://boardgamegeek.com/thing/46213",
       "minPlayers": "4",
       "maxPlayers": "8",
@@ -7083,9 +7116,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.37747",
-      "averageWeight": "1.0699",
-      "boardGameRank": "326",
+      "averageRating": "7.37707",
+      "averageWeight": "1.0694",
+      "boardGameRank": "352",
       "mechanics": [
         "Drawing",
         "Paper-and-Pencil"
@@ -7167,7 +7200,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/Ib26Fe7hAEa9xftYkfi9tw__thumb/img/73HIFfT2SXckDTO7LObvPvZ2UxU=/fit-in/200x150/filters:strip_icc()/pic913985.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Ib26Fe7hAEa9xftYkfi9tw__small/img/73HIFfT2SXckDTO7LObvPvZ2UxU=/fit-in/200x150/filters:strip_icc()/pic913985.jpg",
       "link": "https://boardgamegeek.com/thing/92206",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -7175,7 +7208,7 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "6.3293",
+      "averageRating": "6.31852",
       "averageWeight": "1.4286",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -7210,7 +7243,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/7rCeyARowlllpF_aA6P6Sg__thumb/img/KRRsz-K4eBW2FtkaAFxnKRwXars=/fit-in/200x150/filters:strip_icc()/pic813486.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/7rCeyARowlllpF_aA6P6Sg__small/img/KRRsz-K4eBW2FtkaAFxnKRwXars=/fit-in/200x150/filters:strip_icc()/pic813486.jpg",
       "link": "https://boardgamegeek.com/thing/80571",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -7218,7 +7251,7 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "6.64774",
+      "averageRating": "6.59072",
       "averageWeight": "2.3077",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -7257,7 +7290,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/0NIPJMlzch7WpotTjqGykw__thumb/img/ujk5D2Jhrr2aEvR6coTP9ePAhRQ=/fit-in/200x150/filters:strip_icc()/pic1045316.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/0NIPJMlzch7WpotTjqGykw__small/img/ujk5D2Jhrr2aEvR6coTP9ePAhRQ=/fit-in/200x150/filters:strip_icc()/pic1045316.jpg",
       "link": "https://boardgamegeek.com/thing/95234",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -7265,9 +7298,9 @@
       "playingTime": "60",
       "minPlayingTime": "60",
       "maxPlayingTime": "60",
-      "averageRating": "6.38253",
-      "averageWeight": "1.7901",
-      "boardGameRank": "3734",
+      "averageRating": "6.38462",
+      "averageWeight": "1.7927",
+      "boardGameRank": "4211",
       "mechanics": [
         "Hand Management",
         "Storytelling",
@@ -7302,7 +7335,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__thumb/img/O5XHaPOALYquS058qcXWVm5b_k4=/fit-in/200x150/filters:strip_icc()/pic3759421.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__small/img/O5XHaPOALYquS058qcXWVm5b_k4=/fit-in/200x150/filters:strip_icc()/pic3759421.jpg",
       "link": "https://boardgamegeek.com/thing/225694",
       "minPlayers": "3",
       "maxPlayers": "8",
@@ -7310,11 +7343,12 @@
       "playingTime": "45",
       "minPlayingTime": "15",
       "maxPlayingTime": "45",
-      "averageRating": "7.76771",
-      "averageWeight": "1.8153",
-      "boardGameRank": "102",
+      "averageRating": "7.76403",
+      "averageWeight": "1.8275",
+      "boardGameRank": "117",
       "mechanics": [
         "Communication Limits",
+        "Paper-and-Pencil",
         "Targeted Clues",
         "Team-Based Game"
       ],
@@ -7395,7 +7429,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/GFIDR8JqZletddix8obk5A__thumb/img/lfFTfqCvwl8i06H_r49ye_D3Pxo=/fit-in/200x150/filters:strip_icc()/pic163508.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/vnZut6hUJywmtSutjSAcjQ__small/img/bAok0PH3R8mSSFmgBYHRZjUWAUY=/fit-in/200x150/filters:strip_icc()/pic9525639.png",
       "link": "https://boardgamegeek.com/thing/7805",
       "minPlayers": "2",
       "maxPlayers": "7",
@@ -7403,11 +7437,12 @@
       "playingTime": "60",
       "minPlayingTime": "60",
       "maxPlayingTime": "60",
-      "averageRating": "6.66596",
-      "averageWeight": "1.8163",
-      "boardGameRank": "1449",
+      "averageRating": "6.67437",
+      "averageWeight": "1.8135",
+      "boardGameRank": "1608",
       "mechanics": [
         "Grid Movement",
+        "Line of Sight",
         "Modular Board",
         "Race",
         "Square Grid"
@@ -7482,7 +7517,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/e4QUk0ycODuPA7sLoKv4sQ__thumb/img/zk6iF4GIIObaxfv7-TuEpS9W59Y=/fit-in/200x150/filters:strip_icc()/pic1889500.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/e4QUk0ycODuPA7sLoKv4sQ__small/img/zk6iF4GIIObaxfv7-TuEpS9W59Y=/fit-in/200x150/filters:strip_icc()/pic1889500.jpg",
       "link": "https://boardgamegeek.com/thing/826",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -7490,9 +7525,9 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "6.68225",
-      "averageWeight": "1.5995",
-      "boardGameRank": "1432",
+      "averageRating": "6.6806",
+      "averageWeight": "1.5984",
+      "boardGameRank": "1599",
       "mechanics": [
         "Action Points",
         "Catch the Leader",
@@ -7530,7 +7565,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__small/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg",
       "link": "https://boardgamegeek.com/thing/266192",
       "minPlayers": "1",
       "maxPlayers": "5",
@@ -7538,9 +7573,9 @@
       "playingTime": "70",
       "minPlayingTime": "40",
       "maxPlayingTime": "70",
-      "averageRating": "8.03633",
-      "averageWeight": "2.4697",
-      "boardGameRank": "31",
+      "averageRating": "7.99674",
+      "averageWeight": "2.4804",
+      "boardGameRank": "38",
       "mechanics": [
         "Action Queue",
         "Dice Rolling",
@@ -7628,7 +7663,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/lvC1qJo4-RQ_zqudi_oRmA__thumb/img/7IuVc3d0QWtb0eCd6PaYHg8Qg2U=/fit-in/200x150/filters:strip_icc()/pic215555.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/lvC1qJo4-RQ_zqudi_oRmA__small/img/7IuVc3d0QWtb0eCd6PaYHg8Qg2U=/fit-in/200x150/filters:strip_icc()/pic215555.jpg",
       "link": "https://boardgamegeek.com/thing/150",
       "minPlayers": "2",
       "maxPlayers": "8",
@@ -7636,9 +7671,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.26672",
-      "averageWeight": "1.1246",
-      "boardGameRank": "500",
+      "averageRating": "7.28338",
+      "averageWeight": "1.1203",
+      "boardGameRank": "528",
       "mechanics": [
         "Flicking",
         "Modular Board",
@@ -7675,7 +7710,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/bloH9_cfn7U0ZxilTblA9w__thumb/img/8L96NRWJxXeFgtYSivzGYPtMlNU=/fit-in/200x150/filters:strip_icc()/pic3749870.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/bloH9_cfn7U0ZxilTblA9w__small/img/8L96NRWJxXeFgtYSivzGYPtMlNU=/fit-in/200x150/filters:strip_icc()/pic3749870.jpg",
       "link": "https://boardgamegeek.com/thing/233678",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -7683,9 +7718,9 @@
       "playingTime": "60",
       "minPlayingTime": "15",
       "maxPlayingTime": "60",
-      "averageRating": "6.76272",
-      "averageWeight": "2.1358",
-      "boardGameRank": "1709",
+      "averageRating": "6.75212",
+      "averageWeight": "2.1529",
+      "boardGameRank": "1941",
       "mechanics": [
         "Grid Coverage",
         "Pattern Building",
@@ -7722,7 +7757,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc=/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__small/img/tVSFjSxYEcw7sKj3unIIQV8kxoc=/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
       "link": "https://boardgamegeek.com/thing/295947",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -7730,9 +7765,9 @@
       "playingTime": "45",
       "minPlayingTime": "30",
       "maxPlayingTime": "45",
-      "averageRating": "7.93736",
-      "averageWeight": "1.851",
-      "boardGameRank": "48",
+      "averageRating": "7.88609",
+      "averageWeight": "1.8433",
+      "boardGameRank": "60",
       "mechanics": [
         "End Game Bonuses",
         "Hexagon Grid",
@@ -7740,13 +7775,11 @@
         "Pattern Building",
         "Solo / Solitaire Game",
         "Tile Placement",
-        "Variable Set-up",
-        "Victory Points as a Resource"
+        "Variable Set-up"
       ],
       "categories": [
         "Animals",
-        "Environmental",
-        "Puzzle"
+        "Environmental"
       ],
       "designers": [
         "Randy Flynn"
@@ -7816,7 +7849,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__thumb/img/9lxFidyDb8j6D1vobx4e3UwZ-FI=/fit-in/200x150/filters:strip_icc()/pic4887376.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__small/img/9lxFidyDb8j6D1vobx4e3UwZ-FI=/fit-in/200x150/filters:strip_icc()/pic4887376.jpg",
       "link": "https://boardgamegeek.com/thing/193738",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -7824,12 +7857,14 @@
       "playingTime": "150",
       "minPlayingTime": "75",
       "maxPlayingTime": "150",
-      "averageRating": "8.18351",
-      "averageWeight": "3.7006",
-      "boardGameRank": "16",
+      "averageRating": "8.14574",
+      "averageWeight": "3.6958",
+      "boardGameRank": "21",
       "mechanics": [
+        "Contracts",
         "Deck, Bag, and Pool Building",
         "Hand Management",
+        "Income",
         "Ownership",
         "Set Collection",
         "Track Movement",
@@ -7837,8 +7872,7 @@
       ],
       "categories": [
         "American West",
-        "Animals",
-        "Economic"
+        "Animals"
       ],
       "designers": [
         "Alexander Pfister"
@@ -7864,7 +7898,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/DpDmqJnXlVEy8zvZpsq5-A__thumb/img/hxKPPxIowA-hW-O_lEw1-OThavI=/fit-in/200x150/filters:strip_icc()/pic5228682.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/DpDmqJnXlVEy8zvZpsq5-A__small/img/hxKPPxIowA-hW-O_lEw1-OThavI=/fit-in/200x150/filters:strip_icc()/pic5228682.jpg",
       "link": "https://boardgamegeek.com/thing/301628",
       "minPlayers": "2",
       "maxPlayers": "8",
@@ -7872,9 +7906,9 @@
       "playingTime": "30",
       "minPlayingTime": "15",
       "maxPlayingTime": "30",
-      "averageRating": "6.96429",
+      "averageRating": "6.96212",
       "averageWeight": "2",
-      "boardGameRank": "Not Ranked",
+      "boardGameRank": "21528",
       "mechanics": [
         "Communication Limits",
         "Memory",
@@ -7911,7 +7945,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/EqqXUmjIuGspHNwt1UnDEQ__thumb/img/qKGfLe9Y83j2-UEzfRy1bIbNosI=/fit-in/200x150/filters:strip_icc()/pic7769466.png",
+      "thumbnail": "https://cf.geekdo-images.com/EqqXUmjIuGspHNwt1UnDEQ__small/img/qKGfLe9Y83j2-UEzfRy1bIbNosI=/fit-in/200x150/filters:strip_icc()/pic7769466.png",
       "link": "https://boardgamegeek.com/thing/334011",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -7919,10 +7953,11 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "7.66483",
-      "averageWeight": "1.1458",
-      "boardGameRank": "2032",
+      "averageRating": "7.62376",
+      "averageWeight": "1.1058",
+      "boardGameRank": "986",
       "mechanics": [
+        "Pattern Building",
         "Solo / Solitaire Game",
         "Tile Placement"
       ],
@@ -7953,7 +7988,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/4ngyBZXLLKIOdGuUHE7baw__thumb/img/gSGfC0ZMYbOXukqfdBBuxULmyJU=/fit-in/200x150/filters:strip_icc()/pic4415135.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/4ngyBZXLLKIOdGuUHE7baw__small/img/gSGfC0ZMYbOXukqfdBBuxULmyJU=/fit-in/200x150/filters:strip_icc()/pic4415135.jpg",
       "link": "https://boardgamegeek.com/thing/219215",
       "minPlayers": "4",
       "maxPlayers": "10",
@@ -7961,9 +7996,9 @@
       "playingTime": "10",
       "minPlayingTime": "10",
       "maxPlayingTime": "10",
-      "averageRating": "7.11896",
-      "averageWeight": "1.1605",
-      "boardGameRank": "954",
+      "averageRating": "7.10001",
+      "averageWeight": "1.1474",
+      "boardGameRank": "1005",
       "mechanics": [
         "Hidden Roles",
         "Roles with Asymmetric Information",
@@ -8001,7 +8036,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/oxmhfPXiAZCnWQ2nBw2fpA__thumb/img/3OxxHpSUFHDMHAFHRJyKarTU12Y=/fit-in/200x150/filters:strip_icc()/pic2736928.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/oxmhfPXiAZCnWQ2nBw2fpA__small/img/3OxxHpSUFHDMHAFHRJyKarTU12Y=/fit-in/200x150/filters:strip_icc()/pic2736928.jpg",
       "link": "https://boardgamegeek.com/thing/180198",
       "minPlayers": "1",
       "maxPlayers": "99",
@@ -8009,9 +8044,9 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "6.33456",
-      "averageWeight": "1.5161",
-      "boardGameRank": "3669",
+      "averageRating": "6.32114",
+      "averageWeight": "1.5556",
+      "boardGameRank": "4101",
       "mechanics": [
         "Dice Rolling",
         "Paper-and-Pencil",
@@ -8127,7 +8162,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/q-Sdv383LKSBIPOrSRb5Cg__thumb/img/IgIpwCXKODgKV152brI3nH5Rwag=/fit-in/200x150/filters:strip_icc()/pic7617053.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/XSUSI_i20qf3-n07nbfnRg__small/img/pfw5d8ptgmeQa_L4WMOTqgJjNO0=/fit-in/200x150/filters:strip_icc()/pic5075755.jpg",
       "link": "https://boardgamegeek.com/thing/113289",
       "minPlayers": "3",
       "maxPlayers": "10",
@@ -8135,9 +8170,9 @@
       "playingTime": "30",
       "minPlayingTime": "20",
       "maxPlayingTime": "30",
-      "averageRating": "6.66495",
-      "averageWeight": "1.1383",
-      "boardGameRank": "2096",
+      "averageRating": "6.65416",
+      "averageWeight": "1.1275",
+      "boardGameRank": "2341",
       "mechanics": [
         "Acting",
         "Hand Management",
@@ -8173,7 +8208,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__thumb/img/NAl-NrSAmWvklSVr3hKrSwiszNA=/fit-in/200x150/filters:strip_icc()/pic2601683.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__small/img/sW38512N2r1ZuuPE2TUD2LNfoxM=/fit-in/200x150/filters:strip_icc()/pic8625343.jpg",
       "link": "https://boardgamegeek.com/thing/181304",
       "minPlayers": "2",
       "maxPlayers": "7",
@@ -8181,9 +8216,9 @@
       "playingTime": "42",
       "minPlayingTime": "42",
       "maxPlayingTime": "42",
-      "averageRating": "7.21008",
-      "averageWeight": "1.894",
-      "boardGameRank": "401",
+      "averageRating": "7.19019",
+      "averageWeight": "1.8899",
+      "boardGameRank": "451",
       "mechanics": [
         "Communication Limits",
         "Cooperative Game",
@@ -8191,15 +8226,15 @@
         "Finale Ending",
         "Hand Management",
         "Pattern Recognition",
+        "Real-Time",
         "Storytelling",
-        "Variable Player Powers",
         "Voting"
       ],
       "categories": [
         "Deduction",
-        "Horror",
         "Murder / Mystery",
-        "Party Game"
+        "Party Game",
+        "Real-time"
       ],
       "designers": [
         "Oleksandr Nevskiy",
@@ -8226,7 +8261,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__small/img/1iZav_8ZqurrDbvkZA9GcFhB5x0=/fit-in/200x150/filters:strip_icc()/pic8907965.jpg",
       "link": "https://boardgamegeek.com/thing/178900",
       "minPlayers": "2",
       "maxPlayers": "8",
@@ -8234,13 +8269,14 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "7.53764",
-      "averageWeight": "1.2611",
-      "boardGameRank": "146",
+      "averageRating": "7.52428",
+      "averageWeight": "1.2539",
+      "boardGameRank": "161",
       "mechanics": [
         "Communication Limits",
+        "Deduction",
         "Memory",
-        "Push Your Luck",
+        "Race",
         "Team-Based Game"
       ],
       "categories": [
@@ -8274,7 +8310,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__thumb/img/sPJVWjzGcEpiseZGdoD6HNR9nRI=/fit-in/200x150/filters:strip_icc()/pic2453926.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__small/img/sPJVWjzGcEpiseZGdoD6HNR9nRI=/fit-in/200x150/filters:strip_icc()/pic2453926.jpg",
       "link": "https://boardgamegeek.com/thing/166384",
       "minPlayers": "3",
       "maxPlayers": "8",
@@ -8282,9 +8318,9 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "6.76458",
-      "averageWeight": "1.2374",
-      "boardGameRank": "985",
+      "averageRating": "6.73515",
+      "averageWeight": "1.2298",
+      "boardGameRank": "1117",
       "mechanics": [
         "Acting",
         "Communication Limits",
@@ -8326,7 +8362,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/JmY4nVWwW98qEn0NRbKdTw__thumb/img/qQuRUZQAineOCl4abLvZgPjnqTE=/fit-in/200x150/filters:strip_icc()/pic2372790.png",
+      "thumbnail": "https://cf.geekdo-images.com/JmY4nVWwW98qEn0NRbKdTw__small/img/qQuRUZQAineOCl4abLvZgPjnqTE=/fit-in/200x150/filters:strip_icc()/pic2372790.png",
       "link": "https://boardgamegeek.com/thing/160851",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -8334,9 +8370,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.86445",
-      "averageWeight": "1.5451",
-      "boardGameRank": "1006",
+      "averageRating": "6.85524",
+      "averageWeight": "1.5448",
+      "boardGameRank": "1118",
       "mechanics": [
         "Hand Management",
         "Pattern Building",
@@ -8370,7 +8406,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__thumb/img/KKU_42Uswt4tKCpf1zY5kTzgr-g=/fit-in/200x150/filters:strip_icc()/pic8234167.png",
+      "thumbnail": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__small/img/KKU_42Uswt4tKCpf1zY5kTzgr-g=/fit-in/200x150/filters:strip_icc()/pic8234167.png",
       "link": "https://boardgamegeek.com/thing/148228",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -8378,9 +8414,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.41914",
-      "averageWeight": "1.7809",
-      "boardGameRank": "230",
+      "averageRating": "7.42081",
+      "averageWeight": "1.7739",
+      "boardGameRank": "245",
       "mechanics": [
         "Contracts",
         "Open Drafting",
@@ -8416,7 +8452,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/zfEBn2RLGIlvTHGE-pSsCQ__thumb/img/N2ZqQofBI2XhW9JRnJ-Vxb2AaXM=/fit-in/200x150/filters:strip_icc()/pic829248.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/zfEBn2RLGIlvTHGE-pSsCQ__small/img/N2ZqQofBI2XhW9JRnJ-Vxb2AaXM=/fit-in/200x150/filters:strip_icc()/pic829248.jpg",
       "link": "https://boardgamegeek.com/thing/66171",
       "minPlayers": "2",
       "maxPlayers": "2",
@@ -8424,9 +8460,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.49556",
-      "averageWeight": "1.3537",
-      "boardGameRank": "2391",
+      "averageRating": "6.49194",
+      "averageWeight": "1.3559",
+      "boardGameRank": "2664",
       "mechanics": [
         "Hand Management"
       ],
@@ -8460,7 +8496,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/FANN50qJ5O2kDm3E66NIwQ__thumb/img/0X6ASX3koTt4NNmZpMAYHjrxsH8=/fit-in/200x150/filters:strip_icc()/pic849528.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/FANN50qJ5O2kDm3E66NIwQ__small/img/0X6ASX3koTt4NNmZpMAYHjrxsH8=/fit-in/200x150/filters:strip_icc()/pic849528.jpg",
       "link": "https://boardgamegeek.com/thing/5825",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -8468,9 +8504,9 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "6.19945",
-      "averageWeight": "1.9609",
-      "boardGameRank": "5110",
+      "averageRating": "6.21344",
+      "averageWeight": "1.9531",
+      "boardGameRank": "5663",
       "mechanics": [
         "Area Majority / Influence",
         "Network and Route Building"
@@ -8503,7 +8539,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/iZl2U-2BjftbWfLw5y25Vg__thumb/img/36X5ESX-n44TFPf8V97Cvr1yPao=/fit-in/200x150/filters:strip_icc()/pic7069377.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/iZl2U-2BjftbWfLw5y25Vg__small/img/36X5ESX-n44TFPf8V97Cvr1yPao=/fit-in/200x150/filters:strip_icc()/pic7069377.jpg",
       "link": "https://boardgamegeek.com/thing/141572",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -8511,13 +8547,14 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "7.11642",
-      "averageWeight": "1.9966",
-      "boardGameRank": "663",
+      "averageRating": "7.08967",
+      "averageWeight": "2.0033",
+      "boardGameRank": "754",
       "mechanics": [
         "Cooperative Game",
         "Deck, Bag, and Pool Building",
         "Delayed Purchase",
+        "Market",
         "Open Drafting",
         "Spelling"
       ],
@@ -8550,7 +8587,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__thumb/img/ZgQsHsvdxXZr4DbMGUBSTArBp3o=/fit-in/200x150/filters:strip_icc()/pic1809823.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/rqLju4uaZq-G9z4g91aPPQ__small/img/viW0s_SZmeEo53dKbM84WbVjIaY=/fit-in/200x150/filters:strip_icc()/pic8783294.png",
       "link": "https://boardgamegeek.com/thing/147949",
       "minPlayers": "3",
       "maxPlayers": "10",
@@ -8558,9 +8595,9 @@
       "playingTime": "10",
       "minPlayingTime": "10",
       "maxPlayingTime": "10",
-      "averageRating": "7.04998",
-      "averageWeight": "1.3767",
-      "boardGameRank": "620",
+      "averageRating": "7.03153",
+      "averageWeight": "1.3831",
+      "boardGameRank": "685",
       "mechanics": [
         "Hidden Roles",
         "Role Playing",
@@ -8601,22 +8638,24 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/YBE-vyyYRANWO2NXSQQghg__thumb/img/GmRDNEKangi2w4daNGHCQiH5h_I=/fit-in/200x150/filters:strip_icc()/pic2966859.png",
+      "thumbnail": "https://cf.geekdo-images.com/l4fVXtRnhKMf5UPn78rEdg__small/img/xMh4wYMS9nA77f3KScqZsWurVgQ=/fit-in/200x150/filters:strip_icc()/pic8792317.png",
       "link": "https://boardgamegeek.com/thing/63888",
       "minPlayers": "2",
-      "maxPlayers": "4",
+      "maxPlayers": "5",
       "bestAtCount": "2",
       "playingTime": "60",
-      "minPlayingTime": "45",
+      "minPlayingTime": "20",
       "maxPlayingTime": "60",
-      "averageRating": "7.30229",
-      "averageWeight": "2.7642",
-      "boardGameRank": "383",
+      "averageRating": "7.32486",
+      "averageWeight": "2.7808",
+      "boardGameRank": "380",
       "mechanics": [
         "Follow",
         "Hand Management",
         "Layering",
         "Melding and Splaying",
+        "Sudden Death Ending",
+        "Tags",
         "Take That",
         "Tech Trees / Tech Tracks"
       ],
@@ -8648,17 +8687,17 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/qrSFj8YArH-rUAwpUaTpPw__thumb/img/S8jwzlcCFgk1UwU966TipcK0DQE=/fit-in/200x150/filters:strip_icc()/pic3083205.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Lz2FTSs1UEyWKnJc-VbFwA__small/img/WBXVHrb-FhlgdEAxEia_COcgeFg=/fit-in/200x150/filters:strip_icc()/pic9436150.png",
       "link": "https://boardgamegeek.com/thing/134453",
       "minPlayers": "2",
       "maxPlayers": "5",
-      "bestAtCount": "4",
+      "bestAtCount": "2, 4",
       "playingTime": "25",
       "minPlayingTime": "25",
       "maxPlayingTime": "25",
-      "averageRating": "6.89326",
-      "averageWeight": "1.5722",
-      "boardGameRank": "1508",
+      "averageRating": "6.88615",
+      "averageWeight": "1.5815",
+      "boardGameRank": "1712",
       "mechanics": [
         "Open Drafting",
         "Set Collection"
@@ -8692,7 +8731,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/pd3qaiROSgTJ5js_0e4Nhw__thumb/img/SveyL9J1DT0hX4ucYWjRR6DMrbk=/fit-in/200x150/filters:strip_icc()/pic6653783.png",
+      "thumbnail": "https://cf.geekdo-images.com/pd3qaiROSgTJ5js_0e4Nhw__small/img/SveyL9J1DT0hX4ucYWjRR6DMrbk=/fit-in/200x150/filters:strip_icc()/pic6653783.png",
       "link": "https://boardgamegeek.com/thing/5782",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -8700,14 +8739,14 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.98051",
-      "averageWeight": "1.2737",
-      "boardGameRank": "678",
+      "averageRating": "6.98152",
+      "averageWeight": "1.2698",
+      "boardGameRank": "734",
       "mechanics": [
         "Open Drafting",
         "Push Your Luck",
         "Set Collection",
-        "Take That"
+        "Turn Order: Pass Order"
       ],
       "categories": [
         "Animals",
@@ -8780,7 +8819,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/RxSSHNFw-9do_xspRdOr4w__thumb/img/_hthJcbjJ2wVNTRo8US92uEhgjc=/fit-in/200x150/filters:strip_icc()/pic1118046.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/RxSSHNFw-9do_xspRdOr4w__small/img/_hthJcbjJ2wVNTRo8US92uEhgjc=/fit-in/200x150/filters:strip_icc()/pic1118046.jpg",
       "link": "https://boardgamegeek.com/thing/66190",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -8788,9 +8827,9 @@
       "playingTime": "60",
       "minPlayingTime": "45",
       "maxPlayingTime": "60",
-      "averageRating": "6.64818",
+      "averageRating": "6.66014",
       "averageWeight": "2",
-      "boardGameRank": "5262",
+      "boardGameRank": "5857",
       "mechanics": [
         "Hand Management",
         "Open Drafting",
@@ -8824,19 +8863,20 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__thumb/img/QVwPXskFikQwBQlrdLJBAiRGgdg=/fit-in/200x150/filters:strip_icc()/pic6738336.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__small/img/QVwPXskFikQwBQlrdLJBAiRGgdg=/fit-in/200x150/filters:strip_icc()/pic6738336.jpg",
       "link": "https://boardgamegeek.com/thing/39856",
       "minPlayers": "3",
-      "maxPlayers": "8",
+      "maxPlayers": "6",
       "bestAtCount": "5, 6",
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.19668",
-      "averageWeight": "1.1972",
-      "boardGameRank": "392",
+      "averageRating": "7.17979",
+      "averageWeight": "1.1918",
+      "boardGameRank": "432",
       "mechanics": [
         "Race",
+        "Singing",
         "Storytelling",
         "Targeted Clues",
         "Voting"
@@ -8916,7 +8956,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/zu0wbezlPB_BcOu_QQJk-w__thumb/img/-SysBOAX-t1r1kmSZpLK44hsHUM=/fit-in/200x150/filters:strip_icc()/pic402299.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/zu0wbezlPB_BcOu_QQJk-w__small/img/-SysBOAX-t1r1kmSZpLK44hsHUM=/fit-in/200x150/filters:strip_icc()/pic402299.jpg",
       "link": "https://boardgamegeek.com/thing/4636",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -8924,14 +8964,15 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.57154",
-      "averageWeight": "2.0221",
-      "boardGameRank": "1881",
+      "averageRating": "6.58754",
+      "averageWeight": "2.0274",
+      "boardGameRank": "2057",
       "mechanics": [
         "Area Majority / Influence",
         "Area Movement",
         "Enclosure",
-        "Hidden Roles"
+        "Hidden Roles",
+        "Map Reduction"
       ],
       "categories": [
         "Abstract Strategy",
@@ -8963,7 +9004,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__thumb/img/6VzhMMmGOxNTCHQ-8iFdn5vINis=/fit-in/200x150/filters:strip_icc()/pic175966.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__small/img/6VzhMMmGOxNTCHQ-8iFdn5vINis=/fit-in/200x150/filters:strip_icc()/pic175966.jpg",
       "link": "https://boardgamegeek.com/thing/15987",
       "minPlayers": "1",
       "maxPlayers": "8",
@@ -8971,9 +9012,9 @@
       "playingTime": "240",
       "minPlayingTime": "120",
       "maxPlayingTime": "240",
-      "averageRating": "7.23868",
-      "averageWeight": "3.5843",
-      "boardGameRank": "438",
+      "averageRating": "7.24068",
+      "averageWeight": "3.5858",
+      "boardGameRank": "486",
       "mechanics": [
         "Cooperative Game",
         "Dice Rolling",
@@ -9018,7 +9059,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__thumb/img/EDOmDbRhLy4za2PHkJ5IbhNxZmk=/fit-in/200x150/filters:strip_icc()/pic5146864.png",
+      "thumbnail": "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__small/img/EDOmDbRhLy4za2PHkJ5IbhNxZmk=/fit-in/200x150/filters:strip_icc()/pic5146864.png",
       "link": "https://boardgamegeek.com/thing/10547",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -9026,9 +9067,9 @@
       "playingTime": "60",
       "minPlayingTime": "60",
       "maxPlayingTime": "60",
-      "averageRating": "7.02194",
-      "averageWeight": "2.3966",
-      "boardGameRank": "700",
+      "averageRating": "7.00739",
+      "averageWeight": "2.3977",
+      "boardGameRank": "779",
       "mechanics": [
         "Dice Rolling",
         "Map Addition",
@@ -9043,8 +9084,7 @@
       "categories": [
         "Adventure",
         "Exploration",
-        "Horror",
-        "Miniatures"
+        "Horror"
       ],
       "designers": [
         "Bruce Glassco",
@@ -9074,7 +9114,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__thumb/img/o3Bw9heVDJRgPYlI_PksCvLAgnM=/fit-in/200x150/filters:strip_icc()/pic428828.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__small/img/o3Bw9heVDJRgPYlI_PksCvLAgnM=/fit-in/200x150/filters:strip_icc()/pic428828.jpg",
       "link": "https://boardgamegeek.com/thing/40692",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -9082,9 +9122,9 @@
       "playingTime": "80",
       "minPlayingTime": "40",
       "maxPlayingTime": "80",
-      "averageRating": "7.20453",
-      "averageWeight": "2.3482",
-      "boardGameRank": "371",
+      "averageRating": "7.19045",
+      "averageWeight": "2.3466",
+      "boardGameRank": "410",
       "mechanics": [
         "Area Majority / Influence",
         "Area Movement",
@@ -9124,7 +9164,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/6kuoyObh3-Drc_jrprCEdw__thumb/img/KEKPRLkKsKZQaSCZhyHWpxfMyzg=/fit-in/200x150/filters:strip_icc()/pic602659.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/6kuoyObh3-Drc_jrprCEdw__small/img/KEKPRLkKsKZQaSCZhyHWpxfMyzg=/fit-in/200x150/filters:strip_icc()/pic602659.jpg",
       "link": "https://boardgamegeek.com/thing/35704",
       "minPlayers": "3",
       "maxPlayers": "8",
@@ -9132,11 +9172,13 @@
       "playingTime": "90",
       "minPlayingTime": "60",
       "maxPlayingTime": "90",
-      "averageRating": "7.4241",
+      "averageRating": "7.42627",
       "averageWeight": "2.5357",
       "boardGameRank": "Not Ranked",
       "mechanics": [
+        "Cooperative Game",
         "Hand Management",
+        "Traitor Game",
         "Variable Player Powers"
       ],
       "categories": [
@@ -9171,7 +9213,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__thumb/img/QOG1zO0uvqxGTDF9V_OewVPMvNE=/fit-in/200x150/filters:strip_icc()/pic70547.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__small/img/QOG1zO0uvqxGTDF9V_OewVPMvNE=/fit-in/200x150/filters:strip_icc()/pic70547.jpg",
       "link": "https://boardgamegeek.com/thing/15062",
       "minPlayers": "3",
       "maxPlayers": "7",
@@ -9179,9 +9221,9 @@
       "playingTime": "90",
       "minPlayingTime": "60",
       "maxPlayingTime": "90",
-      "averageRating": "7.10025",
-      "averageWeight": "2.5667",
-      "boardGameRank": "539",
+      "averageRating": "7.09881",
+      "averageWeight": "2.569",
+      "boardGameRank": "597",
       "mechanics": [
         "Communication Limits",
         "Cooperative Game",
@@ -9190,8 +9232,12 @@
         "Player Elimination",
         "Semi-Cooperative Game",
         "Set Collection",
+        "Sudden Death Ending",
+        "Take That",
         "Team-Based Game",
+        "Trading",
         "Traitor Game",
+        "Tug of War",
         "Variable Player Powers"
       ],
       "categories": [
@@ -9227,7 +9273,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/demwo7nCkIHbUcFohLwfsQ__thumb/img/1OnuuguBS4FcheU9o0XLTQoGKj8=/fit-in/200x150/filters:strip_icc()/pic5198810.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/demwo7nCkIHbUcFohLwfsQ__small/img/1OnuuguBS4FcheU9o0XLTQoGKj8=/fit-in/200x150/filters:strip_icc()/pic5198810.jpg",
       "link": "https://boardgamegeek.com/thing/296345",
       "minPlayers": "1",
       "maxPlayers": "8",
@@ -9235,11 +9281,12 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "8.22071",
-      "averageWeight": "2.2857",
-      "boardGameRank": "1158",
+      "averageRating": "8.17306",
+      "averageWeight": "2.2778",
+      "boardGameRank": "1079",
       "mechanics": [
         "Cooperative Game",
+        "Deduction",
         "Narrative Choice / Paragraph",
         "Storytelling"
       ],
@@ -9272,7 +9319,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/254SXVeOngtdjf8SBFEUNg__thumb/img/p5QUKwH4OYDPwTj3H67qSLXTka0=/fit-in/200x150/filters:strip_icc()/pic5646606.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/254SXVeOngtdjf8SBFEUNg__small/img/p5QUKwH4OYDPwTj3H67qSLXTka0=/fit-in/200x150/filters:strip_icc()/pic5646606.jpg",
       "link": "https://boardgamegeek.com/thing/118247",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -9280,9 +9327,9 @@
       "playingTime": "20",
       "minPlayingTime": "20",
       "maxPlayingTime": "20",
-      "averageRating": "6.36835",
-      "averageWeight": "1.1386",
-      "boardGameRank": "2834",
+      "averageRating": "6.40958",
+      "averageWeight": "1.1345",
+      "boardGameRank": "2821",
       "mechanics": [
         "Solo / Solitaire Game",
         "Tile Placement"
@@ -9315,7 +9362,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__thumb/img/e3bCyIvM1IOGFYnKGj2jIn5mbKY=/fit-in/200x150/filters:strip_icc()/pic3761012.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__small/img/e3bCyIvM1IOGFYnKGj2jIn5mbKY=/fit-in/200x150/filters:strip_icc()/pic3761012.jpg",
       "link": "https://boardgamegeek.com/thing/233867",
       "minPlayers": "1",
       "maxPlayers": "100",
@@ -9323,12 +9370,14 @@
       "playingTime": "25",
       "minPlayingTime": "25",
       "maxPlayingTime": "25",
-      "averageRating": "7.52801",
-      "averageWeight": "1.8383",
-      "boardGameRank": "189",
+      "averageRating": "7.50547",
+      "averageWeight": "1.8429",
+      "boardGameRank": "214",
       "mechanics": [
         "Bingo",
         "Contracts",
+        "End Game Bonuses",
+        "Multi-Use Cards",
         "Paper-and-Pencil",
         "Pattern Building",
         "Simultaneous Action Selection",
@@ -9361,7 +9410,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__thumb/img/EiGltQvI5VsmCSYYxjgD7kXY2eg=/fit-in/200x150/filters:strip_icc()/pic7491534.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__small/img/EiGltQvI5VsmCSYYxjgD7kXY2eg=/fit-in/200x150/filters:strip_icc()/pic7491534.jpg",
       "link": "https://boardgamegeek.com/thing/245476",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -9369,9 +9418,9 @@
       "playingTime": "20",
       "minPlayingTime": "20",
       "maxPlayingTime": "20",
-      "averageRating": "6.92085",
-      "averageWeight": "1.3115",
-      "boardGameRank": "1093",
+      "averageRating": "6.89688",
+      "averageWeight": "1.3099",
+      "boardGameRank": "1168",
       "mechanics": [
         "Hand Management",
         "Set Collection"
@@ -9404,7 +9453,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__thumb/img/82vhODfpxIT03BzW4NkisJ5Unzs=/fit-in/200x150/filters:strip_icc()/pic5100947.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__small/img/82vhODfpxIT03BzW4NkisJ5Unzs=/fit-in/200x150/filters:strip_icc()/pic5100947.jpg",
       "link": "https://boardgamegeek.com/thing/54043",
       "minPlayers": "2",
       "maxPlayers": "2",
@@ -9412,18 +9461,24 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.48744",
-      "averageWeight": "1.4618",
-      "boardGameRank": "190",
+      "averageRating": "7.47851",
+      "averageWeight": "1.4626",
+      "boardGameRank": "202",
       "mechanics": [
+        "End Game Bonuses",
         "Hand Management",
         "Hidden Victory Points",
         "Market",
         "Open Drafting",
+        "Race",
         "Score-and-Reset Game",
-        "Set Collection"
+        "Set Collection",
+        "Sudden Death Ending",
+        "Turn Order: Progressive",
+        "Variable Set-up"
       ],
       "categories": [
+        "Arabian",
         "Card Game",
         "Economic"
       ],
@@ -9451,7 +9506,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/ONaHD5ZX_LnX2xdh0ClX_Q__thumb/img/895tpWUSEAbb1tf4ko0ZQWGxscY=/fit-in/200x150/filters:strip_icc()/pic6385752.png",
+      "thumbnail": "https://cf.geekdo-images.com/ONaHD5ZX_LnX2xdh0ClX_Q__small/img/895tpWUSEAbb1tf4ko0ZQWGxscY=/fit-in/200x150/filters:strip_icc()/pic6385752.png",
       "link": "https://boardgamegeek.com/thing/331328",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -9459,12 +9514,13 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "6.79619",
-      "averageWeight": "1.4194",
-      "boardGameRank": "3214",
+      "averageRating": "6.7272",
+      "averageWeight": "1.4737",
+      "boardGameRank": "3353",
       "mechanics": [
         "Chaining",
-        "Network and Route Building"
+        "Network and Route Building",
+        "Solo / Solitaire Game"
       ],
       "categories": [
         "Card Game",
@@ -9541,7 +9597,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/AtrgNW2TDgA_0oEF8nqOQQ__thumb/img/tKM-4Srq4j7s5j4i-AinjSMuHfA=/fit-in/200x150/filters:strip_icc()/pic6389817.png",
+      "thumbnail": "https://cf.geekdo-images.com/AtrgNW2TDgA_0oEF8nqOQQ__small/img/tKM-4Srq4j7s5j4i-AinjSMuHfA=/fit-in/200x150/filters:strip_icc()/pic6389817.png",
       "link": "https://boardgamegeek.com/thing/346902",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -9549,7 +9605,7 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "7.02217",
+      "averageRating": "6.93261",
       "averageWeight": "1.3333",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -9586,7 +9642,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/eaI6VFktgjjnVvSgy7qzfg__thumb/img/USRtQ0ZRI-P7v-smi_vrI1yfogk=/fit-in/200x150/filters:strip_icc()/pic6389816.png",
+      "thumbnail": "https://cf.geekdo-images.com/eaI6VFktgjjnVvSgy7qzfg__small/img/USRtQ0ZRI-P7v-smi_vrI1yfogk=/fit-in/200x150/filters:strip_icc()/pic6389816.png",
       "link": "https://boardgamegeek.com/thing/346901",
       "minPlayers": "1",
       "maxPlayers": "1",
@@ -9594,7 +9650,7 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "7.04342",
+      "averageRating": "6.94325",
       "averageWeight": "1.5",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -9631,7 +9687,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__thumb/img/amCeCcEKhYGbVtDvpvIMnu3qTg0=/fit-in/200x150/filters:strip_icc()/pic2007286.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__small/img/amCeCcEKhYGbVtDvpvIMnu3qTg0=/fit-in/200x150/filters:strip_icc()/pic2007286.jpg",
       "link": "https://boardgamegeek.com/thing/98778",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -9639,9 +9695,9 @@
       "playingTime": "25",
       "minPlayingTime": "25",
       "maxPlayingTime": "25",
-      "averageRating": "7.03792",
-      "averageWeight": "1.6879",
-      "boardGameRank": "544",
+      "averageRating": "7.02819",
+      "averageWeight": "1.6927",
+      "boardGameRank": "602",
       "mechanics": [
         "Communication Limits",
         "Cooperative Game",
@@ -9721,7 +9777,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__thumb/img/nR2TKxtWOVJR1OHD6hAF05IHuOI=/fit-in/200x150/filters:strip_icc()/pic3496085.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__small/img/nR2TKxtWOVJR1OHD6hAF05IHuOI=/fit-in/200x150/filters:strip_icc()/pic3496085.jpg",
       "link": "https://boardgamegeek.com/thing/221965",
       "minPlayers": "2",
       "maxPlayers": "2",
@@ -9729,12 +9785,15 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.089",
-      "averageWeight": "1.5811",
-      "boardGameRank": "606",
+      "averageRating": "7.05078",
+      "averageWeight": "1.6147",
+      "boardGameRank": "689",
       "mechanics": [
         "Hand Management",
-        "Trick-taking"
+        "Race",
+        "Score-and-Reset Game",
+        "Trick-taking",
+        "Turn Order: Stat-Based"
       ],
       "categories": [
         "Animals",
@@ -9765,7 +9824,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/F4-UGFUM3FfVLWsgBgpFLQ__thumb/img/qaqVSOIHvE3mPWEgX_lP7e-6yM0=/fit-in/200x150/filters:strip_icc()/pic4314964.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/F4-UGFUM3FfVLWsgBgpFLQ__small/img/qaqVSOIHvE3mPWEgX_lP7e-6yM0=/fit-in/200x150/filters:strip_icc()/pic4314964.jpg",
       "link": "https://boardgamegeek.com/thing/240196",
       "minPlayers": "3",
       "maxPlayers": "5",
@@ -9773,12 +9832,13 @@
       "playingTime": "90",
       "minPlayingTime": "45",
       "maxPlayingTime": "90",
-      "averageRating": "7.67767",
-      "averageWeight": "2.8941",
-      "boardGameRank": "549",
+      "averageRating": "7.64288",
+      "averageWeight": "2.9231",
+      "boardGameRank": "628",
       "mechanics": [
         "Cooperative Game",
         "Dice Rolling",
+        "Events",
         "Grid Movement",
         "Legacy Game",
         "Line of Sight",
@@ -9830,7 +9890,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/O6TfqmDWCkJvZPZw6pcxpg__thumb/img/LqmZdde9lw05eGIfxYJZiF1DaYs=/fit-in/200x150/filters:strip_icc()/pic6552099.png",
+      "thumbnail": "https://cf.geekdo-images.com/O6TfqmDWCkJvZPZw6pcxpg__small/img/LqmZdde9lw05eGIfxYJZiF1DaYs=/fit-in/200x150/filters:strip_icc()/pic6552099.png",
       "link": "https://boardgamegeek.com/thing/228660",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -9838,9 +9898,9 @@
       "playingTime": "60",
       "minPlayingTime": "60",
       "maxPlayingTime": "60",
-      "averageRating": "7.07957",
-      "averageWeight": "2.5775",
-      "boardGameRank": "1345",
+      "averageRating": "7.06667",
+      "averageWeight": "2.5765",
+      "boardGameRank": "1465",
       "mechanics": [
         "Dice Rolling",
         "Map Addition",
@@ -9854,8 +9914,7 @@
       "categories": [
         "Adventure",
         "Exploration",
-        "Fantasy",
-        "Miniatures"
+        "Fantasy"
       ],
       "designers": [
         "Chris Dupuis",
@@ -9882,7 +9941,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/sZtguqUekjg1xyYXWklNGQ__thumb/img/AS9NVRK6fNO0jpdxN-l5QTRaWqc=/fit-in/200x150/filters:strip_icc()/pic6352257.png",
+      "thumbnail": "https://cf.geekdo-images.com/sZtguqUekjg1xyYXWklNGQ__small/img/AS9NVRK6fNO0jpdxN-l5QTRaWqc=/fit-in/200x150/filters:strip_icc()/pic6352257.png",
       "link": "https://boardgamegeek.com/thing/344682",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -9890,7 +9949,7 @@
       "playingTime": "30",
       "minPlayingTime": "20",
       "maxPlayingTime": "30",
-      "averageRating": "7.07895",
+      "averageRating": "7.075",
       "averageWeight": "1",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -10052,7 +10111,7 @@
     },
     {
       "id": "215463",
-      "name": "Tokyo Highway",
+      "name": "Tokyo Highway: 2 Players Version",
       "yearPublished": "2016",
       "type": "boardgame",
       "postdate": "2017-10-23 12:44:27",
@@ -10070,7 +10129,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/dF6ZKbrhMWz-c01iD3gg6Q__thumb/img/6zZobzuDSxfMhTJyIZiZLRz0520=/fit-in/200x150/filters:strip_icc()/pic8485703.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/w_gAKA_mxSZZxDlP7-6mOw__small/img/q-gHjNRjzQacDQu3CH-2Cs2syQc=/fit-in/200x150/filters:strip_icc()/pic9051228.jpg",
       "link": "https://boardgamegeek.com/thing/215463",
       "minPlayers": "2",
       "maxPlayers": "2",
@@ -10078,9 +10137,9 @@
       "playingTime": "50",
       "minPlayingTime": "30",
       "maxPlayingTime": "50",
-      "averageRating": "6.64951",
-      "averageWeight": "1.4375",
-      "boardGameRank": "2547",
+      "averageRating": "6.61666",
+      "averageWeight": "1.4118",
+      "boardGameRank": "2829",
       "mechanics": [
         "Network and Route Building",
         "Stacking and Balancing"
@@ -10426,7 +10485,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/8kl6m6m_unthBPw9SxoDQQ__thumb/img/vK6rBE3ZjolzG6jEVxJj49MBIc4=/fit-in/200x150/filters:strip_icc()/pic6973677.png",
+      "thumbnail": "https://cf.geekdo-images.com/LE-dGEPYcDRK-CGAqN2iGw__small/img/j1lHjQLufKr5xlBLhv_LcZyF8nk=/fit-in/200x150/filters:strip_icc()/pic8723226.jpg",
       "link": "https://boardgamegeek.com/thing/175117",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -10434,9 +10493,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.9392",
-      "averageWeight": "1.3236",
-      "boardGameRank": "899",
+      "averageRating": "6.91742",
+      "averageWeight": "1.3233",
+      "boardGameRank": "989",
       "mechanics": [
         "Betting and Bluffing",
         "Dice Rolling",
@@ -10473,7 +10532,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__thumb/img/1m4aryOW1MOpq-8jGkF6gDTJmCY=/fit-in/200x150/filters:strip_icc()/pic3525224.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/77OxPP4ckbOgK9sPg-6KDw__small/img/zCe7i6vc7LoJZDDnVUQQlU-uw4w=/fit-in/200x150/filters:strip_icc()/pic9374520.png",
       "link": "https://boardgamegeek.com/thing/199561",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -10481,9 +10540,9 @@
       "playingTime": "45",
       "minPlayingTime": "30",
       "maxPlayingTime": "45",
-      "averageRating": "7.47408",
-      "averageWeight": "1.917",
-      "boardGameRank": "209",
+      "averageRating": "7.46877",
+      "averageWeight": "1.9196",
+      "boardGameRank": "227",
       "mechanics": [
         "Contracts",
         "Dice Rolling",
@@ -10497,6 +10556,7 @@
         "Variable Set-up"
       ],
       "categories": [
+        "Abstract Strategy",
         "Dice",
         "Puzzle"
       ],
@@ -10620,7 +10680,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/uFaPB9DYs2FUqQepaugnwg__thumb/img/z6z8daUO8zqOVFLyrNmgDEkX9aU=/fit-in/200x150/filters:strip_icc()/pic4084221.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/uFaPB9DYs2FUqQepaugnwg__small/img/z6z8daUO8zqOVFLyrNmgDEkX9aU=/fit-in/200x150/filters:strip_icc()/pic4084221.jpg",
       "link": "https://boardgamegeek.com/thing/198452",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -10628,8 +10688,8 @@
       "playingTime": "0",
       "minPlayingTime": "60",
       "maxPlayingTime": "0",
-      "averageRating": "7.45355",
-      "averageWeight": "2.8",
+      "averageRating": "7.43261",
+      "averageWeight": "2.7692",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Cooperative Game",
@@ -10642,11 +10702,10 @@
         "Variable Player Powers"
       ],
       "categories": [
-        "Adventure",
         "Expansion for Base-game",
+        "Adventure",
         "Exploration",
-        "Horror",
-        "Miniatures"
+        "Horror"
       ],
       "designers": [
         "Christopher Badell",
@@ -10681,7 +10740,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__thumb/img/O2WnqJew5gNjQqPUH3gqmTBc1pQ=/fit-in/200x150/filters:strip_icc()/pic4449526.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__small/img/O2WnqJew5gNjQqPUH3gqmTBc1pQ=/fit-in/200x150/filters:strip_icc()/pic4449526.jpg",
       "link": "https://boardgamegeek.com/thing/201808",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -10689,9 +10748,9 @@
       "playingTime": "60",
       "minPlayingTime": "30",
       "maxPlayingTime": "60",
-      "averageRating": "7.77489",
-      "averageWeight": "2.2266",
-      "boardGameRank": "83",
+      "averageRating": "7.75913",
+      "averageWeight": "2.2315",
+      "boardGameRank": "101",
       "mechanics": [
         "Action Points",
         "Deck, Bag, and Pool Building",
@@ -10778,7 +10837,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/enmQAOQl99U6wiQvZoL5GQ__thumb/img/zdtrILXRjphkt5HYP0tuxzlenG4=/fit-in/200x150/filters:strip_icc()/pic2556921.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/enmQAOQl99U6wiQvZoL5GQ__small/img/zdtrILXRjphkt5HYP0tuxzlenG4=/fit-in/200x150/filters:strip_icc()/pic2556921.jpg",
       "link": "https://boardgamegeek.com/thing/169426",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -10786,9 +10845,9 @@
       "playingTime": "90",
       "minPlayingTime": "60",
       "maxPlayingTime": "90",
-      "averageRating": "7.4402",
-      "averageWeight": "2.4338",
-      "boardGameRank": "269",
+      "averageRating": "7.41678",
+      "averageWeight": "2.42",
+      "boardGameRank": "299",
       "mechanics": [
         "Dice Rolling",
         "Open Drafting",
@@ -10872,7 +10931,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/xVx8ex1fjO9C7W8rRvWdVQ__thumb/img/7ZeCdaJWigksF5wUHTGGXmmfP6Y=/fit-in/200x150/filters:strip_icc()/pic3320017.png",
+      "thumbnail": "https://cf.geekdo-images.com/xVx8ex1fjO9C7W8rRvWdVQ__small/img/7ZeCdaJWigksF5wUHTGGXmmfP6Y=/fit-in/200x150/filters:strip_icc()/pic3320017.png",
       "link": "https://boardgamegeek.com/thing/177524",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -10880,9 +10939,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.78688",
-      "averageWeight": "1.0556",
-      "boardGameRank": "1105",
+      "averageRating": "6.78112",
+      "averageWeight": "1.0564",
+      "boardGameRank": "1204",
       "mechanics": [
         "Area Movement",
         "Flicking",
@@ -11276,7 +11335,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/YmUcqsw7lUBa4xyiCGHOrQ__thumb/img/eQugBvcsGzdSoWSAcydQkGWHb0c=/fit-in/200x150/filters:strip_icc()/pic728335.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/YmUcqsw7lUBa4xyiCGHOrQ__small/img/eQugBvcsGzdSoWSAcydQkGWHb0c=/fit-in/200x150/filters:strip_icc()/pic728335.jpg",
       "link": "https://boardgamegeek.com/thing/71655",
       "minPlayers": "1",
       "maxPlayers": "4",
@@ -11284,9 +11343,9 @@
       "playingTime": "60",
       "minPlayingTime": "60",
       "maxPlayingTime": "60",
-      "averageRating": "6.6251",
+      "averageRating": "6.61526",
       "averageWeight": "2.0645",
-      "boardGameRank": "3571",
+      "boardGameRank": "4066",
       "mechanics": [
         "Action Timer",
         "Cooperative Game",
@@ -11458,7 +11517,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/1COY3oeK9aN2_XNimKaNww__thumb/img/8IWDjnSYX-tYAVRgfq-W3y1b_Ww=/fit-in/200x150/filters:strip_icc()/pic3033330.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/1COY3oeK9aN2_XNimKaNww__small/img/8IWDjnSYX-tYAVRgfq-W3y1b_Ww=/fit-in/200x150/filters:strip_icc()/pic3033330.jpg",
       "link": "https://boardgamegeek.com/thing/156129",
       "minPlayers": "4",
       "maxPlayers": "12",
@@ -11466,9 +11525,9 @@
       "playingTime": "20",
       "minPlayingTime": "20",
       "maxPlayingTime": "20",
-      "averageRating": "7.44016",
-      "averageWeight": "1.5786",
-      "boardGameRank": "264",
+      "averageRating": "7.41817",
+      "averageWeight": "1.5912",
+      "boardGameRank": "290",
       "mechanics": [
         "Communication Limits",
         "Deduction",
@@ -11971,7 +12030,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/pSIv1EXJkkI7NIxpyeZGgg__thumb/img/vCi2Me5Q0o7sf1VQQzkgUl3fAV4=/fit-in/200x150/filters:strip_icc()/pic6460771.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/pSIv1EXJkkI7NIxpyeZGgg__small/img/vCi2Me5Q0o7sf1VQQzkgUl3fAV4=/fit-in/200x150/filters:strip_icc()/pic6460771.jpg",
       "link": "https://boardgamegeek.com/thing/118695",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -11979,9 +12038,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.92196",
-      "averageWeight": "1.2024",
-      "boardGameRank": "2144",
+      "averageRating": "6.91196",
+      "averageWeight": "1.191",
+      "boardGameRank": "2428",
       "mechanics": [
         "Stacking and Balancing",
         "Turn Order: Auction"
@@ -12104,7 +12163,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/DnOwZ1dJK81gBfvQz8Qm8A__thumb/img/oDew2vyMQRhScHBH9Jk0QPQGBhQ=/fit-in/200x150/filters:strip_icc()/pic443909.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/DnOwZ1dJK81gBfvQz8Qm8A__small/img/oDew2vyMQRhScHBH9Jk0QPQGBhQ=/fit-in/200x150/filters:strip_icc()/pic443909.jpg",
       "link": "https://boardgamegeek.com/thing/40776",
       "minPlayers": "1",
       "maxPlayers": "8",
@@ -12112,8 +12171,8 @@
       "playingTime": "180",
       "minPlayingTime": "180",
       "maxPlayingTime": "180",
-      "averageRating": "7.89231",
-      "averageWeight": "3.5805",
+      "averageRating": "7.89675",
+      "averageWeight": "3.5825",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Cooperative Game",
@@ -12208,7 +12267,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/XzqgCgBYVc0a92ZqZ9NjXw__thumb/img/T1d9LzE-cyQSSEu6piQ0VSzgLHI=/fit-in/200x150/filters:strip_icc()/pic254239.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/XzqgCgBYVc0a92ZqZ9NjXw__small/img/T1d9LzE-cyQSSEu6piQ0VSzgLHI=/fit-in/200x150/filters:strip_icc()/pic254239.jpg",
       "link": "https://boardgamegeek.com/thing/29387",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -12216,9 +12275,9 @@
       "playingTime": "40",
       "minPlayingTime": "10",
       "maxPlayingTime": "40",
-      "averageRating": "5.98779",
-      "averageWeight": "1.4375",
-      "boardGameRank": "4600",
+      "averageRating": "5.99201",
+      "averageWeight": "1.4351",
+      "boardGameRank": "5023",
       "mechanics": [
         "Hand Management",
         "Set Collection",
@@ -12252,7 +12311,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/Yoidfpvt2eACASYUpbmsyg__thumb/img/oN0BjMknoiCwD-o5qeSCOxVPKF0=/fit-in/200x150/filters:strip_icc()/pic246360.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Yoidfpvt2eACASYUpbmsyg__small/img/oN0BjMknoiCwD-o5qeSCOxVPKF0=/fit-in/200x150/filters:strip_icc()/pic246360.jpg",
       "link": "https://boardgamegeek.com/thing/9217",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -12260,9 +12319,9 @@
       "playingTime": "60",
       "minPlayingTime": "45",
       "maxPlayingTime": "60",
-      "averageRating": "7.2711",
-      "averageWeight": "2.4394",
-      "boardGameRank": "433",
+      "averageRating": "7.26433",
+      "averageWeight": "2.4322",
+      "boardGameRank": "491",
       "mechanics": [
         "Income",
         "Open Drafting",
@@ -12298,7 +12357,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/wBQjkP58cKOZvYn8_bICSQ__thumb/img/yz8mROfIGUAukEdxRxMnef2SZ7E=/fit-in/200x150/filters:strip_icc()/pic7644554.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/wBQjkP58cKOZvYn8_bICSQ__small/img/yz8mROfIGUAukEdxRxMnef2SZ7E=/fit-in/200x150/filters:strip_icc()/pic7644554.jpg",
       "link": "https://boardgamegeek.com/thing/164010",
       "minPlayers": "5",
       "maxPlayers": "10",
@@ -12306,9 +12365,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.20976",
+      "averageRating": "6.31244",
       "averageWeight": "2",
-      "boardGameRank": "20093",
+      "boardGameRank": "22057",
       "mechanics": [
         "Acting",
         "Voting"
@@ -12386,7 +12445,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__thumb/img/6XF493O0tSyLyZP5ArlcZrOTMXQ=/fit-in/200x150/filters:strip_icc()/pic1900075.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__small/img/6XF493O0tSyLyZP5ArlcZrOTMXQ=/fit-in/200x150/filters:strip_icc()/pic1900075.jpg",
       "link": "https://boardgamegeek.com/thing/133473",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -12394,18 +12453,20 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "6.99806",
-      "averageWeight": "1.1637",
-      "boardGameRank": "602",
+      "averageRating": "6.98016",
+      "averageWeight": "1.1636",
+      "boardGameRank": "665",
       "mechanics": [
         "Closed Drafting",
         "End Game Bonuses",
         "Hand Management",
+        "Score-and-Reset Game",
         "Set Collection",
         "Simultaneous Action Selection"
       ],
       "categories": [
-        "Card Game"
+        "Card Game",
+        "Party Game"
       ],
       "designers": [
         "Phil Walker-Harding"
@@ -12431,7 +12492,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__thumb/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__small/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg",
       "link": "https://boardgamegeek.com/thing/129622",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -12439,9 +12500,9 @@
       "playingTime": "20",
       "minPlayingTime": "20",
       "maxPlayingTime": "20",
-      "averageRating": "7.22526",
+      "averageRating": "7.22605",
       "averageWeight": "1.1844",
-      "boardGameRank": "348",
+      "boardGameRank": "370",
       "mechanics": [
         "Deduction",
         "Hand Management",
@@ -12605,7 +12666,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/5oKjzAev88nMiKNixdrq7Q__thumb/img/BfWbgZ7AFN7FK54pN4Ib9mzpr_4=/fit-in/200x150/filters:strip_icc()/pic1167294.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/5oKjzAev88nMiKNixdrq7Q__small/img/BfWbgZ7AFN7FK54pN4Ib9mzpr_4=/fit-in/200x150/filters:strip_icc()/pic1167294.jpg",
       "link": "https://boardgamegeek.com/thing/16496",
       "minPlayers": "2",
       "maxPlayers": "2",
@@ -12613,9 +12674,9 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "6.74322",
-      "averageWeight": "2.0086",
-      "boardGameRank": "1624",
+      "averageRating": "6.73664",
+      "averageWeight": "2.0085",
+      "boardGameRank": "1869",
       "mechanics": [
         "Action Points",
         "Dice Rolling",
@@ -12703,7 +12764,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__thumb/img/vuR_0PCX1w2EkjO_LbchOHZPOwU=/fit-in/200x150/filters:strip_icc()/pic2016054.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__small/img/vuR_0PCX1w2EkjO_LbchOHZPOwU=/fit-in/200x150/filters:strip_icc()/pic2016054.jpg",
       "link": "https://boardgamegeek.com/thing/131357",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -12711,9 +12772,9 @@
       "playingTime": "15",
       "minPlayingTime": "15",
       "maxPlayingTime": "15",
-      "averageRating": "6.9817",
-      "averageWeight": "1.4091",
-      "boardGameRank": "668",
+      "averageRating": "6.97463",
+      "averageWeight": "1.415",
+      "boardGameRank": "718",
       "mechanics": [
         "Hidden Roles",
         "Memory",
@@ -12752,7 +12813,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/6TG4QXV3JmLsln11f72XXQ__thumb/img/g2GglyKXfnWFJnjS057wW1Fpm7U=/fit-in/200x150/filters:strip_icc()/pic8499311.png",
+      "thumbnail": "https://cf.geekdo-images.com/6TG4QXV3JmLsln11f72XXQ__small/img/g2GglyKXfnWFJnjS057wW1Fpm7U=/fit-in/200x150/filters:strip_icc()/pic8499311.png",
       "link": "https://boardgamegeek.com/thing/39206",
       "minPlayers": "2",
       "maxPlayers": "7",
@@ -12760,9 +12821,9 @@
       "playingTime": "10",
       "minPlayingTime": "10",
       "maxPlayingTime": "10",
-      "averageRating": "6.38639",
-      "averageWeight": "1.0377",
-      "boardGameRank": "2715",
+      "averageRating": "6.38254",
+      "averageWeight": "1.0373",
+      "boardGameRank": "3065",
       "mechanics": [
         "Physical Removal"
       ],
@@ -12844,7 +12905,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/PoIvN70fNYdwgeaap0CKqw__thumb/img/Xl_EuD2T09pr31MuKlfvPzvaspU=/fit-in/200x150/filters:strip_icc()/pic1849390.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/PoIvN70fNYdwgeaap0CKqw__small/img/Xl_EuD2T09pr31MuKlfvPzvaspU=/fit-in/200x150/filters:strip_icc()/pic1849390.jpg",
       "link": "https://boardgamegeek.com/thing/38159",
       "minPlayers": "5",
       "maxPlayers": "68",
@@ -12852,9 +12913,9 @@
       "playingTime": "90",
       "minPlayingTime": "30",
       "maxPlayingTime": "90",
-      "averageRating": "6.95513",
-      "averageWeight": "1.497",
-      "boardGameRank": "1440",
+      "averageRating": "6.93814",
+      "averageWeight": "1.494",
+      "boardGameRank": "1667",
       "mechanics": [
         "Hidden Roles",
         "Player Elimination",
@@ -12897,7 +12958,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/uEtWO_Ag8OxbG6NkSZbH6A__thumb/img/wElABDsqOCR3YjI1nInQqeNa-Lk=/fit-in/200x150/filters:strip_icc()/pic7627182.png",
+      "thumbnail": "https://cf.geekdo-images.com/uEtWO_Ag8OxbG6NkSZbH6A__small/img/wElABDsqOCR3YjI1nInQqeNa-Lk=/fit-in/200x150/filters:strip_icc()/pic7627182.png",
       "link": "https://boardgamegeek.com/thing/1198",
       "minPlayers": "1",
       "maxPlayers": "20",
@@ -12905,9 +12966,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.50053",
-      "averageWeight": "1.6558",
-      "boardGameRank": "1750",
+      "averageRating": "6.51228",
+      "averageWeight": "1.6499",
+      "boardGameRank": "1892",
       "mechanics": [
         "Pattern Recognition",
         "Real-Time",
@@ -12941,7 +13002,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__thumb/img/RUmuGCB40FQH0en0R2nrcsSO7DE=/fit-in/200x150/filters:strip_icc()/pic404651.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__small/img/RUmuGCB40FQH0en0R2nrcsSO7DE=/fit-in/200x150/filters:strip_icc()/pic404651.jpg",
       "link": "https://boardgamegeek.com/thing/320",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -12949,9 +13010,9 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "6.26963",
-      "averageWeight": "2.0604",
-      "boardGameRank": "2258",
+      "averageRating": "6.27515",
+      "averageWeight": "2.0521",
+      "boardGameRank": "2437",
       "mechanics": [
         "End Game Bonuses",
         "Hand Management",
@@ -12986,7 +13047,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__thumb/img/5lDn1W82rlLXtVG7nPIYR9Orn-4=/fit-in/200x150/filters:strip_icc()/pic2576459.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__small/img/5lDn1W82rlLXtVG7nPIYR9Orn-4=/fit-in/200x150/filters:strip_icc()/pic2576459.jpg",
       "link": "https://boardgamegeek.com/thing/41114",
       "minPlayers": "5",
       "maxPlayers": "10",
@@ -12994,9 +13055,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.20863",
-      "averageWeight": "1.591",
-      "boardGameRank": "405",
+      "averageRating": "7.18746",
+      "averageWeight": "1.5915",
+      "boardGameRank": "465",
       "mechanics": [
         "Hidden Roles",
         "Memory",
@@ -13069,7 +13130,7 @@
     },
     {
       "id": "42436",
-      "name": "Munchkin Fairy Dust",
+      "name": "Munchkin: Fairy Dust",
       "yearPublished": "2009",
       "type": "boardgameexpansion",
       "postdate": "2009-06-20 13:57:31",
@@ -13087,7 +13148,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/IIdWFHWPgzS-vGOKuC1U4w__thumb/img/Iy21_154YwwI33gbkcZWb9M6X38=/fit-in/200x150/filters:strip_icc()/pic480525.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/e6Vh0YMyYCl4wAi_uBfnDw__small/img/wuX07TSEdL2Fcz44wD-SiOtkAYk=/fit-in/200x150/filters:strip_icc()/pic8803832.jpg",
       "link": "https://boardgamegeek.com/thing/42436",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -13095,7 +13156,7 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "6.51108",
+      "averageRating": "6.51529",
       "averageWeight": "2.0333",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -13104,8 +13165,8 @@
         "Variable Player Powers"
       ],
       "categories": [
-        "Card Game",
         "Expansion for Base-game",
+        "Card Game",
         "Fighting",
         "Humor",
         "Mythology"
@@ -13181,7 +13242,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/P5q10pFDUb4w4xpsX-NZ4w__thumb/img/gf6aQTqMej1taZLJrHJtIrhoaEE=/fit-in/200x150/filters:strip_icc()/pic357527.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/P5q10pFDUb4w4xpsX-NZ4w__small/img/gf6aQTqMej1taZLJrHJtIrhoaEE=/fit-in/200x150/filters:strip_icc()/pic357527.jpg",
       "link": "https://boardgamegeek.com/thing/37501",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -13189,7 +13250,7 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "6.50761",
+      "averageRating": "6.49887",
       "averageWeight": "2",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -13228,7 +13289,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/4iEPM57OZ95QVb2XidV9kA__thumb/img/jUAqCJf0J4tXMRHlbU77zKmYff4=/fit-in/200x150/filters:strip_icc()/pic1130548.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/4iEPM57OZ95QVb2XidV9kA__small/img/jUAqCJf0J4tXMRHlbU77zKmYff4=/fit-in/200x150/filters:strip_icc()/pic1130548.jpg",
       "link": "https://boardgamegeek.com/thing/33493",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -13236,7 +13297,7 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "6.43421",
+      "averageRating": "6.42706",
       "averageWeight": "1.9136",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -13277,7 +13338,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/c24yJ4IDSDxo_gfUWH4fIQ__thumb/img/0Orvx8d09vBklYFPuzoyWBp0Oh4=/fit-in/200x150/filters:strip_icc()/pic2428687.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/c24yJ4IDSDxo_gfUWH4fIQ__small/img/0Orvx8d09vBklYFPuzoyWBp0Oh4=/fit-in/200x150/filters:strip_icc()/pic2428687.jpg",
       "link": "https://boardgamegeek.com/thing/28327",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -13285,8 +13346,8 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "6.57081",
-      "averageWeight": "1.8152",
+      "averageRating": "6.58283",
+      "averageWeight": "1.8172",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Dice Rolling",
@@ -13326,7 +13387,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/tL5l1KEBOZDnQ7CvBwUGzA__thumb/img/mc4dIKqSL0tvyxVhdAqisSH8DzU=/fit-in/200x150/filters:strip_icc()/pic2428686.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/tL5l1KEBOZDnQ7CvBwUGzA__small/img/mc4dIKqSL0tvyxVhdAqisSH8DzU=/fit-in/200x150/filters:strip_icc()/pic2428686.jpg",
       "link": "https://boardgamegeek.com/thing/20660",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -13334,8 +13395,8 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "6.52639",
-      "averageWeight": "1.8563",
+      "averageRating": "6.53263",
+      "averageWeight": "1.8571",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Dice Rolling",
@@ -13375,7 +13436,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/CQpxHBk-1l3mEwM7x6e_pA__thumb/img/lGx0Q9DfSgD83D4rCL416FAz5MI=/fit-in/200x150/filters:strip_icc()/pic2428681.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/CQpxHBk-1l3mEwM7x6e_pA__small/img/lGx0Q9DfSgD83D4rCL416FAz5MI=/fit-in/200x150/filters:strip_icc()/pic2428681.jpg",
       "link": "https://boardgamegeek.com/thing/6606",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -13383,8 +13444,8 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "6.44522",
-      "averageWeight": "1.8618",
+      "averageRating": "6.45454",
+      "averageWeight": "1.8561",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Dice Rolling",
@@ -13424,7 +13485,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/aodU82mIunaDBUb8jC2RBQ__thumb/img/xOTsGgAcjmNdRqkOiph0sMr_9VA=/fit-in/200x150/filters:strip_icc()/pic2428682.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/aodU82mIunaDBUb8jC2RBQ__small/img/xOTsGgAcjmNdRqkOiph0sMr_9VA=/fit-in/200x150/filters:strip_icc()/pic2428682.jpg",
       "link": "https://boardgamegeek.com/thing/3943",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -13432,8 +13493,8 @@
       "playingTime": "90",
       "minPlayingTime": "90",
       "maxPlayingTime": "90",
-      "averageRating": "6.41755",
-      "averageWeight": "1.801",
+      "averageRating": "6.42831",
+      "averageWeight": "1.7957",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Dice Rolling",
@@ -13473,7 +13534,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__thumb/img/8hVkpMC5pDLr6ARI_4gI4N3aF5M=/fit-in/200x150/filters:strip_icc()/pic1871016.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__small/img/8hVkpMC5pDLr6ARI_4gI4N3aF5M=/fit-in/200x150/filters:strip_icc()/pic1871016.jpg",
       "link": "https://boardgamegeek.com/thing/1927",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -13481,11 +13542,12 @@
       "playingTime": "120",
       "minPlayingTime": "60",
       "maxPlayingTime": "120",
-      "averageRating": "5.87233",
-      "averageWeight": "1.8115",
-      "boardGameRank": "6036",
+      "averageRating": "5.87443",
+      "averageWeight": "1.8182",
+      "boardGameRank": "6497",
       "mechanics": [
         "Hand Management",
+        "Race",
         "Take That",
         "Variable Player Powers"
       ],
@@ -13519,7 +13581,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__thumb/img/ezXcyEsHhS9iRxmuGe8SmiLLXlM=/fit-in/200x150/filters:strip_icc()/pic5786795.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__small/img/ezXcyEsHhS9iRxmuGe8SmiLLXlM=/fit-in/200x150/filters:strip_icc()/pic5786795.jpg",
       "link": "https://boardgamegeek.com/thing/1406",
       "minPlayers": "2",
       "maxPlayers": "8",
@@ -13527,9 +13589,9 @@
       "playingTime": "180",
       "minPlayingTime": "60",
       "maxPlayingTime": "180",
-      "averageRating": "4.36055",
-      "averageWeight": "1.623",
-      "boardGameRank": "27423",
+      "averageRating": "4.36832",
+      "averageWeight": "1.6177",
+      "boardGameRank": "30950",
       "mechanics": [
         "Auction / Bidding",
         "Auction: English",
@@ -13571,7 +13633,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/kJOP_BICVX-88sKqFRh9PQ__thumb/img/KwrWpSRncnCE0cEldldyVQ-0Cdk=/fit-in/200x150/filters:strip_icc()/pic1152359.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/kJOP_BICVX-88sKqFRh9PQ__small/img/KwrWpSRncnCE0cEldldyVQ-0Cdk=/fit-in/200x150/filters:strip_icc()/pic1152359.jpg",
       "link": "https://boardgamegeek.com/thing/107529",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -13579,9 +13641,9 @@
       "playingTime": "45",
       "minPlayingTime": "45",
       "maxPlayingTime": "45",
-      "averageRating": "6.94044",
-      "averageWeight": "2.0606",
-      "boardGameRank": "717",
+      "averageRating": "6.93269",
+      "averageWeight": "2.0709",
+      "boardGameRank": "788",
       "mechanics": [
         "Area Majority / Influence",
         "Chaining",
@@ -13622,7 +13684,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__thumb/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU=/fit-in/200x150/filters:strip_icc()/pic3043734.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__small/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU=/fit-in/200x150/filters:strip_icc()/pic3043734.jpg",
       "link": "https://boardgamegeek.com/thing/70323",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -13630,9 +13692,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.12898",
-      "averageWeight": "1.4866",
-      "boardGameRank": "439",
+      "averageRating": "7.11255",
+      "averageWeight": "1.4846",
+      "boardGameRank": "499",
       "mechanics": [
         "Dice Rolling",
         "Die Icon Resolution",
@@ -13641,7 +13703,7 @@
         "Player Elimination",
         "Push Your Luck",
         "Re-rolling and Locking",
-        "Tags"
+        "Take That"
       ],
       "categories": [
         "Dice",
@@ -13718,7 +13780,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__thumb/img/RKui79VjUbQAzTWaPu44ytupzDs=/fit-in/200x150/filters:strip_icc()/pic1398895.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__small/img/RKui79VjUbQAzTWaPu44ytupzDs=/fit-in/200x150/filters:strip_icc()/pic1398895.jpg",
       "link": "https://boardgamegeek.com/thing/128882",
       "minPlayers": "5",
       "maxPlayers": "10",
@@ -13726,9 +13788,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.50947",
-      "averageWeight": "1.7386",
-      "boardGameRank": "215",
+      "averageRating": "7.4909",
+      "averageWeight": "1.7401",
+      "boardGameRank": "238",
       "mechanics": [
         "Finale Ending",
         "Hidden Roles",
@@ -13820,7 +13882,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__thumb/img/jWTonZ5oYNlPzpELKHIJGWSS0Y8=/fit-in/200x150/filters:strip_icc()/pic4459753.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__small/img/jWTonZ5oYNlPzpELKHIJGWSS0Y8=/fit-in/200x150/filters:strip_icc()/pic4459753.jpg",
       "link": "https://boardgamegeek.com/thing/2651",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -13828,9 +13890,9 @@
       "playingTime": "120",
       "minPlayingTime": "120",
       "maxPlayingTime": "120",
-      "averageRating": "7.80762",
-      "averageWeight": "3.2521",
-      "boardGameRank": "66",
+      "averageRating": "7.7983",
+      "averageWeight": "3.2454",
+      "boardGameRank": "76",
       "mechanics": [
         "Auction / Bidding",
         "Auction: Turn Order Until Pass",
@@ -13869,17 +13931,17 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/DZiHZK3RAcM_kgfwJ8qPgg__thumb/img/39LIPWGEDRG5ZQPNFG-3c2tPRvg=/fit-in/200x150/filters:strip_icc()/pic1458279.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/DZiHZK3RAcM_kgfwJ8qPgg__small/img/39LIPWGEDRG5ZQPNFG-3c2tPRvg=/fit-in/200x150/filters:strip_icc()/pic1458279.jpg",
       "link": "https://boardgamegeek.com/thing/91523",
       "minPlayers": "1",
       "maxPlayers": "4",
-      "bestAtCount": "4",
+      "bestAtCount": "3, 4",
       "playingTime": "30",
       "minPlayingTime": "20",
       "maxPlayingTime": "30",
-      "averageRating": "6.47363",
-      "averageWeight": "1.7883",
-      "boardGameRank": "2915",
+      "averageRating": "6.46538",
+      "averageWeight": "1.7914",
+      "boardGameRank": "3308",
       "mechanics": [
         "Pattern Building",
         "Tile Placement"
@@ -13958,7 +14020,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__thumb/img/B2u2ghwlmI_qsUtCwuvcbnBcIqU=/fit-in/200x150/filters:strip_icc()/pic394356.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__small/img/B2u2ghwlmI_qsUtCwuvcbnBcIqU=/fit-in/200x150/filters:strip_icc()/pic394356.jpg",
       "link": "https://boardgamegeek.com/thing/36218",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -13966,9 +14028,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.59798",
-      "averageWeight": "2.3458",
-      "boardGameRank": "131",
+      "averageRating": "7.59755",
+      "averageWeight": "2.3444",
+      "boardGameRank": "146",
       "mechanics": [
         "Deck, Bag, and Pool Building",
         "Delayed Purchase",
@@ -13987,7 +14049,7 @@
     },
     {
       "id": "2993",
-      "name": "Carcassonne: Expansion 1 – Inns & Cathedrals",
+      "name": "Carcassonne: Inns & Cathedrals",
       "yearPublished": "2002",
       "type": "boardgameexpansion",
       "postdate": "2010-10-04 15:51:36",
@@ -14005,7 +14067,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/g9q--tONTL86x2D4NKiM8g__thumb/img/opBzVTp4iK4LfozCr3doTYGwTHE=/fit-in/200x150/filters:strip_icc()/pic2659943.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/9W3DkpIZwD-CrQrzfewG1Q__small/img/1PH0tUSpC04Gdfpv40r5jC-PP_8=/fit-in/200x150/filters:strip_icc()/pic9210962.jpg",
       "link": "https://boardgamegeek.com/thing/2993",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -14013,8 +14075,8 @@
       "playingTime": "60",
       "minPlayingTime": "60",
       "maxPlayingTime": "60",
-      "averageRating": "7.63734",
-      "averageWeight": "1.927",
+      "averageRating": "7.64571",
+      "averageWeight": "1.9265",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Area Majority / Influence",
@@ -14050,7 +14112,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/AQi975M9FTsqLoxPu1e8aA__thumb/img/7hZDxVUq6BJrIu7QJUkgNT6si7w=/fit-in/200x150/filters:strip_icc()/pic563283.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/AQi975M9FTsqLoxPu1e8aA__small/img/7hZDxVUq6BJrIu7QJUkgNT6si7w=/fit-in/200x150/filters:strip_icc()/pic563283.jpg",
       "link": "https://boardgamegeek.com/thing/57070",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -14058,8 +14120,8 @@
       "playingTime": "80",
       "minPlayingTime": "40",
       "maxPlayingTime": "80",
-      "averageRating": "7.40302",
-      "averageWeight": "2.1762",
+      "averageRating": "7.39595",
+      "averageWeight": "2.1755",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Area Majority / Influence",
@@ -14102,7 +14164,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/hRDbH2HDLzrCmd9EZt1JGQ__thumb/img/h_TSvzqD7nOX25wvdG-fdV2Zyro=/fit-in/200x150/filters:strip_icc()/pic563285.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/hRDbH2HDLzrCmd9EZt1JGQ__small/img/h_TSvzqD7nOX25wvdG-fdV2Zyro=/fit-in/200x150/filters:strip_icc()/pic563285.jpg",
       "link": "https://boardgamegeek.com/thing/57072",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -14110,8 +14172,8 @@
       "playingTime": "80",
       "minPlayingTime": "40",
       "maxPlayingTime": "80",
-      "averageRating": "7.46301",
-      "averageWeight": "2.2204",
+      "averageRating": "7.45759",
+      "averageWeight": "2.2195",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Area Majority / Influence",
@@ -14370,7 +14432,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/5Q2w2rFJiFI_uV89KP6ECg__thumb/img/s1BljxEdoxQ1zGYiw05Qa9rg9hI=/fit-in/200x150/filters:strip_icc()/pic354500.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/5Q2w2rFJiFI_uV89KP6ECg__small/img/s1BljxEdoxQ1zGYiw05Qa9rg9hI=/fit-in/200x150/filters:strip_icc()/pic354500.jpg",
       "link": "https://boardgamegeek.com/thing/37111",
       "minPlayers": "3",
       "maxPlayers": "6",
@@ -14378,11 +14440,12 @@
       "playingTime": "180",
       "minPlayingTime": "120",
       "maxPlayingTime": "180",
-      "averageRating": "7.73034",
-      "averageWeight": "3.2491",
-      "boardGameRank": "106",
+      "averageRating": "7.73062",
+      "averageWeight": "3.2513",
+      "boardGameRank": "126",
       "mechanics": [
         "Area Movement",
+        "Cooperative Game",
         "Dice Rolling",
         "Hand Management",
         "Hidden Roles",
@@ -14399,6 +14462,7 @@
         "Bluffing",
         "Deduction",
         "Movies / TV / Radio theme",
+        "Negotiation",
         "Political",
         "Science Fiction",
         "Space Exploration",
@@ -14428,7 +14492,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/4UwRNg-iMgklr9-zGh3OgQ__thumb/img/fxKuFVM9HhgVwAf4MnzDDEtB-wM=/fit-in/200x150/filters:strip_icc()/pic589620.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/4UwRNg-iMgklr9-zGh3OgQ__small/img/fxKuFVM9HhgVwAf4MnzDDEtB-wM=/fit-in/200x150/filters:strip_icc()/pic589620.jpg",
       "link": "https://boardgamegeek.com/thing/60054",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -14436,7 +14500,7 @@
       "playingTime": "80",
       "minPlayingTime": "40",
       "maxPlayingTime": "80",
-      "averageRating": "6.55595",
+      "averageRating": "6.55658",
       "averageWeight": "1.9692",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -14477,7 +14541,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__thumb/img/xLs-ldTPwaADbvzkOpF0sgWzwck=/fit-in/200x150/filters:strip_icc()/pic5261714.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__small/img/xLs-ldTPwaADbvzkOpF0sgWzwck=/fit-in/200x150/filters:strip_icc()/pic5261714.jpg",
       "link": "https://boardgamegeek.com/thing/28143",
       "minPlayers": "2",
       "maxPlayers": "4",
@@ -14485,15 +14549,19 @@
       "playingTime": "60",
       "minPlayingTime": "30",
       "maxPlayingTime": "60",
-      "averageRating": "7.7436",
-      "averageWeight": "2.9921",
-      "boardGameRank": "81",
+      "averageRating": "7.73605",
+      "averageWeight": "2.9938",
+      "boardGameRank": "94",
       "mechanics": [
+        "End Game Bonuses",
         "Follow",
         "Hand Management",
+        "Income",
+        "Market",
         "Multi-Use Cards",
         "Simultaneous Action Selection",
-        "Tags"
+        "Tags",
+        "Variable Phase Order"
       ],
       "categories": [
         "Card Game",
@@ -14526,7 +14594,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__thumb/img/GHGdnCfeysoP_34gLnofJcNivW8=/fit-in/200x150/filters:strip_icc()/pic831744.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/3L6ZtOll9W5O6-3-EwSMyw__small/img/TpNF65wCIb1n3EGW18eJJ3MlRMo=/fit-in/200x150/filters:strip_icc()/pic1899157.jpg",
       "link": "https://boardgamegeek.com/thing/31260",
       "minPlayers": "1",
       "maxPlayers": "5",
@@ -14534,18 +14602,16 @@
       "playingTime": "150",
       "minPlayingTime": "30",
       "maxPlayingTime": "150",
-      "averageRating": "7.87162",
-      "averageWeight": "3.6359",
-      "boardGameRank": "54",
+      "averageRating": "7.85602",
+      "averageWeight": "3.6352",
+      "boardGameRank": "64",
       "mechanics": [
         "Automatic Resource Growth",
         "Closed Drafting",
         "Enclosure",
-        "Hand Management",
         "Increase Value of Unchosen Resources",
         "Solo / Solitaire Game",
         "Turn Order: Claim Action",
-        "Variable Player Powers",
         "Worker Placement"
       ],
       "categories": [
@@ -14620,7 +14686,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__thumb/img/5fLo89ChZH6Wzukk36bhZ-EpBS0=/fit-in/200x150/filters:strip_icc()/pic158548.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__small/img/5fLo89ChZH6Wzukk36bhZ-EpBS0=/fit-in/200x150/filters:strip_icc()/pic158548.jpg",
       "link": "https://boardgamegeek.com/thing/3076",
       "minPlayers": "3",
       "maxPlayers": "5",
@@ -14628,9 +14694,9 @@
       "playingTime": "150",
       "minPlayingTime": "90",
       "maxPlayingTime": "150",
-      "averageRating": "7.9117",
-      "averageWeight": "3.2689",
-      "boardGameRank": "47",
+      "averageRating": "7.89809",
+      "averageWeight": "3.2661",
+      "boardGameRank": "57",
       "mechanics": [
         "Action Drafting",
         "End Game Bonuses",
@@ -14756,7 +14822,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/OGOmpi0GgwOwH2y28QgkuA__thumb/img/jnSHqOXWLN3PfdpCtnfjf44oTsA=/fit-in/200x150/filters:strip_icc()/pic460011.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/OGOmpi0GgwOwH2y28QgkuA__small/img/jnSHqOXWLN3PfdpCtnfjf44oTsA=/fit-in/200x150/filters:strip_icc()/pic460011.jpg",
       "link": "https://boardgamegeek.com/thing/40834",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -14764,9 +14830,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "7.69023",
-      "averageWeight": "2.4126",
-      "boardGameRank": "114",
+      "averageRating": "7.68566",
+      "averageWeight": "2.4112",
+      "boardGameRank": "134",
       "mechanics": [
         "Deck, Bag, and Pool Building",
         "Delayed Purchase",
@@ -14845,7 +14911,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/ZBQHRlhd32wt4F_zgeic6w__thumb/img/MjQ7iYoOXuU9AUrTojjYE8sdyTk=/fit-in/200x150/filters:strip_icc()/pic2405641.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/ZBQHRlhd32wt4F_zgeic6w__small/img/MjQ7iYoOXuU9AUrTojjYE8sdyTk=/fit-in/200x150/filters:strip_icc()/pic2405641.jpg",
       "link": "https://boardgamegeek.com/thing/258",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -14853,9 +14919,9 @@
       "playingTime": "30",
       "minPlayingTime": "5",
       "maxPlayingTime": "30",
-      "averageRating": "5.67406",
-      "averageWeight": "1.3891",
-      "boardGameRank": "11008",
+      "averageRating": "5.67547",
+      "averageWeight": "1.3878",
+      "boardGameRank": "12331",
       "mechanics": [
         "Hand Management",
         "Set Collection"
@@ -14978,7 +15044,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__thumb/img/a9rsFV6KR0aun8GobhRU16aU8Kc=/fit-in/200x150/filters:strip_icc()/pic38668.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/kdWYkW-7AqG63HhqPL6ekA__small/img/5G46jv8MFh_BfX67iMSouTMhKxc=/fit-in/200x150/filters:strip_icc()/pic8937637.jpg",
       "link": "https://boardgamegeek.com/thing/9209",
       "minPlayers": "2",
       "maxPlayers": "5",
@@ -14986,9 +15052,9 @@
       "playingTime": "60",
       "minPlayingTime": "30",
       "maxPlayingTime": "60",
-      "averageRating": "7.39103",
-      "averageWeight": "1.8251",
-      "boardGameRank": "247",
+      "averageRating": "7.38509",
+      "averageWeight": "1.8189",
+      "boardGameRank": "262",
       "mechanics": [
         "Connections",
         "Contracts",
@@ -15026,7 +15092,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__thumb/img/Pj2FP8bV-BHofcDS0eGLh8gzTmI=/fit-in/200x150/filters:strip_icc()/pic4893652.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__small/img/Pj2FP8bV-BHofcDS0eGLh8gzTmI=/fit-in/200x150/filters:strip_icc()/pic4893652.jpg",
       "link": "https://boardgamegeek.com/thing/6249",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -15034,12 +15100,12 @@
       "playingTime": "60",
       "minPlayingTime": "45",
       "maxPlayingTime": "60",
-      "averageRating": "7.03142",
-      "averageWeight": "2.1008",
-      "boardGameRank": "577",
+      "averageRating": "7.03543",
+      "averageWeight": "2.0972",
+      "boardGameRank": "616",
       "mechanics": [
+        "Area Majority / Influence",
         "Hand Management",
-        "Memory",
         "Open Drafting",
         "Set Collection",
         "Tile Placement"
@@ -15160,7 +15226,7 @@
     },
     {
       "id": "2807",
-      "name": "Catan: 5-6 Player Extension",
+      "name": "Catan: 5-6 Player Expansion",
       "yearPublished": "1996",
       "type": "boardgameexpansion",
       "postdate": "2009-02-09 17:02:49",
@@ -15178,7 +15244,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/qGCU44UcimWPJ7BucwV1cg__thumb/img/ygwdrGve0mcSEpxFThbyS2b5RcU=/fit-in/200x150/filters:strip_icc()/pic2420287.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/tsDqjx3IqOl4r613Qh6-zQ__small/img/5e5rDr_YrtQysBlizqMnN0Z4Lic=/fit-in/200x150/filters:strip_icc()/pic8828033.jpg",
       "link": "https://boardgamegeek.com/thing/2807",
       "minPlayers": "5",
       "maxPlayers": "6",
@@ -15186,8 +15252,8 @@
       "playingTime": "120",
       "minPlayingTime": "120",
       "maxPlayingTime": "120",
-      "averageRating": "6.97527",
-      "averageWeight": "2.3121",
+      "averageRating": "6.982",
+      "averageWeight": "2.3105",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Dice Rolling",
@@ -15224,7 +15290,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/IHYBF2QWcZwlYfH4doj06Q__thumb/img/XkT-0Bj73aLec9BYdqWSqIpIKis=/fit-in/200x150/filters:strip_icc()/pic1494028.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/IHYBF2QWcZwlYfH4doj06Q__small/img/XkT-0Bj73aLec9BYdqWSqIpIKis=/fit-in/200x150/filters:strip_icc()/pic1494028.jpg",
       "link": "https://boardgamegeek.com/thing/1234",
       "minPlayers": "2",
       "maxPlayers": "6",
@@ -15232,9 +15298,9 @@
       "playingTime": "30",
       "minPlayingTime": "30",
       "maxPlayingTime": "30",
-      "averageRating": "6.36462",
-      "averageWeight": "1.3661",
-      "boardGameRank": "2263",
+      "averageRating": "6.35219",
+      "averageWeight": "1.3716",
+      "boardGameRank": "2554",
       "mechanics": [
         "Hand Management",
         "Interrupts",
@@ -15273,7 +15339,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/42iW4E-vOumFXRQAiSf-GA__thumb/img/lxwVwqIO1RkDyyykSDFnpmwbgyI=/fit-in/200x150/filters:strip_icc()/pic3239104.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__small/img/Y_o8GdhShAWME_ZH2c7yTxHJIWk=/fit-in/200x150/filters:strip_icc()/pic636868.jpg",
       "link": "https://boardgamegeek.com/thing/478",
       "minPlayers": "2",
       "maxPlayers": "8",
@@ -15281,9 +15347,9 @@
       "playingTime": "60",
       "minPlayingTime": "20",
       "maxPlayingTime": "60",
-      "averageRating": "7.05896",
-      "averageWeight": "2.0486",
-      "boardGameRank": "533",
+      "averageRating": "7.05339",
+      "averageWeight": "2.0466",
+      "boardGameRank": "592",
       "mechanics": [
         "Action Drafting",
         "Closed Drafting",
@@ -15326,7 +15392,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/pfNqKrM-0NtxL2aCdfzwgg__thumb/img/msLVxhHV3WN-BoI5FKf5vAHj0Lo=/fit-in/200x150/filters:strip_icc()/pic222480.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/pfNqKrM-0NtxL2aCdfzwgg__small/img/msLVxhHV3WN-BoI5FKf5vAHj0Lo=/fit-in/200x150/filters:strip_icc()/pic222480.jpg",
       "link": "https://boardgamegeek.com/thing/25945",
       "minPlayers": "1",
       "maxPlayers": "8",
@@ -15334,7 +15400,7 @@
       "playingTime": "240",
       "minPlayingTime": "120",
       "maxPlayingTime": "240",
-      "averageRating": "7.61986",
+      "averageRating": "7.62174",
       "averageWeight": "3.2093",
       "boardGameRank": "Not Ranked",
       "mechanics": [
@@ -15377,7 +15443,7 @@
         "wishlistpriority": null,
         "preordered": false
       },
-      "thumbnail": "https://cf.geekdo-images.com/SD4sueZ3S8iL1RlZIq-u_A__thumb/img/RpKj-u4cqnpskpB_QEEpwdEEUA0=/fit-in/200x150/filters:strip_icc()/pic114495.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/SD4sueZ3S8iL1RlZIq-u_A__small/img/RpKj-u4cqnpskpB_QEEpwdEEUA0=/fit-in/200x150/filters:strip_icc()/pic114495.jpg",
       "link": "https://boardgamegeek.com/thing/21059",
       "minPlayers": "1",
       "maxPlayers": "8",
@@ -15385,8 +15451,8 @@
       "playingTime": "240",
       "minPlayingTime": "240",
       "maxPlayingTime": "240",
-      "averageRating": "7.79756",
-      "averageWeight": "3.4926",
+      "averageRating": "7.79838",
+      "averageWeight": "3.4979",
       "boardGameRank": "Not Ranked",
       "mechanics": [
         "Cooperative Game",
@@ -15396,8 +15462,8 @@
         "Variable Player Powers"
       ],
       "categories": [
-        "Adventure",
         "Expansion for Base-game",
+        "Adventure",
         "Fighting",
         "Horror",
         "Novel-based",

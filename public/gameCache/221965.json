@@ -1,1 +1,40 @@
-{"timestamp":"2024-11-12T21:07:37.491Z","gameDetails":{"id":"221965","name":"The Fox in the Forest","type":"boardgame","description":"The Fox in the Forest is a trick-taking game for two players. Aside from the normal ranked- and suited-cards used to win tricks, fairy characters such as the Fox and the Witch have special abilities that let you change the trump suit, lead even after you lose a trick, and more.&#10;&#10;You score points by winning more tricks than your opponent, but don't get greedy! Win too many tricks, and you will fall like the villain in so many fairy tales...&#10;&#10;","image":"https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__original/img/rXKH8tfISrTxPqUKCw1FXIDSBc0=/0x0/filters:format(jpeg)/pic3496085.jpg","thumbnail":"https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__thumb/img/nR2TKxtWOVJR1OHD6hAF05IHuOI=/fit-in/200x150/filters:strip_icc()/pic3496085.jpg","link":"https://boardgamegeek.com/thing/221965","minPlayers":"2","maxPlayers":"2","yearPublished":"2017","playingTime":"30","minPlayingTime":"30","maxPlayingTime":"30","bestAtCount":[2],"averageRating":"7.089","averageWeight":"1.5811","boardGameRank":"606","mechanics":["Hand Management","Trick-taking"],"categories":["Animals","Card Game","Fantasy"],"designers":["Joshua Buergel"]}}
+{
+  "timestamp": "2026-07-17T23:45:13.172Z",
+  "gameDetails": {
+    "id": "221965",
+    "name": "The Fox in the Forest",
+    "type": "boardgame",
+    "description": "The Fox in the Forest is a trick-taking game for two players. Aside from the normal ranked- and suited-cards used to win tricks, fairy characters such as the Fox and the Witch have special abilities that let you change the trump suit, lead even after you lose a trick, and more.\n\nYou score points by winning more tricks than your opponent, but don't get greedy! Win too many tricks, and you will fall like the villain in so many fairy tales...\n\n",
+    "image": "https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__original/img/rXKH8tfISrTxPqUKCw1FXIDSBc0=/0x0/filters:format(jpeg)/pic3496085.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__small/img/nR2TKxtWOVJR1OHD6hAF05IHuOI=/fit-in/200x150/filters:strip_icc()/pic3496085.jpg",
+    "link": "https://boardgamegeek.com/thing/221965",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "2017",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.05078",
+    "averageWeight": "1.6147",
+    "boardGameRank": "689",
+    "mechanics": [
+      "Hand Management",
+      "Race",
+      "Score-and-Reset Game",
+      "Trick-taking",
+      "Turn Order: Stat-Based"
+    ],
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Fantasy"
+    ],
+    "designers": [
+      "Joshua Buergel"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=BfNzahg_DSQ"
+  }
+}

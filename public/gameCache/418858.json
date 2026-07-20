@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-09T01:53:00.963Z",
+  "timestamp": "2026-07-20T02:08:18.282Z",
   "gameDetails": {
     "id": "418858",
     "name": "Resafa",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       3
     ],
-    "averageRating": "7.48076",
-    "averageWeight": "3.5667",
-    "boardGameRank": "3570",
+    "averageRating": "7.46377",
+    "averageWeight": "3.5676",
+    "boardGameRank": "3225",
     "mechanics": [
       "Hand Management",
       "Multi-Use Cards",
@@ -34,6 +34,7 @@
     ],
     "designers": [
       "Vladimír Suchý"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=XYVlDg4Hja4"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:28:49.089Z",
+  "timestamp": "2026-07-17T23:23:03.650Z",
   "gameDetails": {
     "id": "324914",
     "name": "Inside Job",
@@ -18,9 +18,9 @@
       4,
       5
     ],
-    "averageRating": "7.00773",
-    "averageWeight": "1.6383",
-    "boardGameRank": "2107",
+    "averageRating": "6.98267",
+    "averageWeight": "1.6604",
+    "boardGameRank": "2123",
     "mechanics": [
       "Communication Limits",
       "Deduction",
@@ -39,6 +39,7 @@
     ],
     "designers": [
       "Tanner Simmons"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=e-1pjtWMJ88"
   }
 }

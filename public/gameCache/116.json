@@ -1,1 +1,39 @@
-{"timestamp":"2024-11-12T17:43:28.058Z","gameDetails":{"id":"116","name":"Guillotine","type":"boardgame","description":"The French Revolution is famous in part for the use of the guillotine to put nobles to death, and this is the macabre subject of this light card game.  As executioners pandering to the masses, the players are trying to behead the most popular nobles.  Each day the nobles are lined up and players take turns killing the ones at the front of the line until all the nobles are gone.  However, players are given cards which will manipulate the line order right before 'harvesting' heads, which is what makes the game interesting.  After three days of chopping, the highest total carries the day.&#10;&#10;","image":"https://cf.geekdo-images.com/9gdaUHNTcgv8RhFhG0kzBw__original/img/uJQubpcCxCE4G1pmM8akyrLAVRY=/0x0/filters:format(jpeg)/pic143139.jpg","thumbnail":"https://cf.geekdo-images.com/9gdaUHNTcgv8RhFhG0kzBw__thumb/img/9KfEtRGEfW5Q7Mv_0JbyKQ-oox0=/fit-in/200x150/filters:strip_icc()/pic143139.jpg","link":"https://boardgamegeek.com/thing/116","minPlayers":"2","maxPlayers":"5","yearPublished":"1998","playingTime":"30","minPlayingTime":"30","maxPlayingTime":"30","bestAtCount":[4],"averageRating":"6.53853","averageWeight":"1.265","boardGameRank":"1477","mechanics":["Hand Management","Open Drafting","Set Collection","Take That"],"categories":["Age of Reason","Card Game","Humor"],"designers":["Paul Peterson"]}}
+{
+  "timestamp": "2026-07-17T22:51:32.299Z",
+  "gameDetails": {
+    "id": "116",
+    "name": "Guillotine",
+    "type": "boardgame",
+    "description": "The French Revolution is famous in part for the use of the guillotine to put nobles to death, and this is the macabre subject of this light card game.  As executioners pandering to the masses, the players are trying to behead the most popular nobles.  Each day the nobles are lined up and players take turns killing the ones at the front of the line until all the nobles are gone.  However, players are given cards which will manipulate the line order right before 'harvesting' heads, which is what makes the game interesting.  After three days of chopping, the highest total carries the day.\n\n",
+    "image": "https://cf.geekdo-images.com/gDbDLBdIZfkU9rc8rK4g2g__original/img/Ul4DqoFNac_z1sTA2yhY4O_b5MI=/0x0/filters:format(jpeg)/pic9528692.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gDbDLBdIZfkU9rc8rK4g2g__small/img/xiIZBdWcTWTT4EBd1ZFwaTcl1V0=/fit-in/200x150/filters:strip_icc()/pic9528692.jpg",
+    "link": "https://boardgamegeek.com/thing/116",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "1998",
+    "playingTime": "30",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "30",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "6.54106",
+    "averageWeight": "1.2685",
+    "boardGameRank": "1629",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Take That"
+    ],
+    "categories": [
+      "Age of Reason",
+      "Card Game",
+      "Humor"
+    ],
+    "designers": [
+      "Paul Peterson"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=SY_RYNKOKsc"
+  }
+}

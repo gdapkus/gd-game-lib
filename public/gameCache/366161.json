@@ -1,1 +1,42 @@
-{"timestamp":"2024-11-12T20:34:40.133Z","gameDetails":{"id":"366161","name":"Wingspan Asia","type":"boardgame","description":"This third expansion to Wingspan brings new species to our habitats by exploring the vibrant, intriguing, and magnificent birds of Asia. These birds were chosen from the over 2,800 species that live in Asia.&#10;&#10;Wingspan Asia is several different things: a standalone game for 1-2 players (and the &quot;duet&quot; mode that can be used with any bird/bonus cards), a card expansion to the original Wingspan, and a 6-7 player expansion via the new &quot;flock&quot; mode (for which the player components from the core game are necessary).&#10;&#10;&mdash;description from the publisher&#10;&#10;","image":"https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__original/img/MSX7waTxS81SiyxAmmCJFFWAl1I=/0x0/filters:format(jpeg)/pic7107431.jpg","thumbnail":"https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__thumb/img/hPsEFlgh0b_JhtQmsJQv3vmq814=/fit-in/200x150/filters:strip_icc()/pic7107431.jpg","link":"https://boardgamegeek.com/thing/366161","minPlayers":"1","maxPlayers":"2","yearPublished":"2022","playingTime":"70","minPlayingTime":"40","maxPlayingTime":"70","bestAtCount":[2],"averageRating":"8.28305","averageWeight":"2.6947","boardGameRank":"100","mechanics":["Dice Rolling","End Game Bonuses","Hand Management","Open Drafting","Set Collection","Solo / Solitaire Game"],"categories":["Animals","Economic","Educational"],"designers":["Elizabeth Hargrave"]}}
+{
+  "timestamp": "2026-07-18T00:14:01.240Z",
+  "gameDetails": {
+    "id": "366161",
+    "name": "Wingspan Asia",
+    "type": "boardgame",
+    "description": "Wingspan: Asia introduces the diverse and vibrant birds of the Asian continent. As always, the objective is to earn the most points by playing birds, achieving objectives, and laying eggs across your habitats. This release serves multiple roles within the Wingspan universe!\n\nWingspan: Asia is several different things:\n  - a stand-alone game for 1 or 2 players \n  - a new Duet mode for 2 players that can be combined with the base game or other expansions\n  - For 1-5 players, new bird and bonus cards to add to the original Wingspan and its other expansions\n  - For 6-7 players, a new Flock mode (which also requires the components of the base game).\n\n",
+    "image": "https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__original/img/MSX7waTxS81SiyxAmmCJFFWAl1I=/0x0/filters:format(jpeg)/pic7107431.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__small/img/hPsEFlgh0b_JhtQmsJQv3vmq814=/fit-in/200x150/filters:strip_icc()/pic7107431.jpg",
+    "link": "https://boardgamegeek.com/thing/366161",
+    "minPlayers": "1",
+    "maxPlayers": "2",
+    "yearPublished": "2022",
+    "playingTime": "70",
+    "minPlayingTime": "40",
+    "maxPlayingTime": "70",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "8.21608",
+    "averageWeight": "2.6552",
+    "boardGameRank": "88",
+    "mechanics": [
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Hand Management",
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Animals",
+      "Economic",
+      "Educational"
+    ],
+    "designers": [
+      "Elizabeth Hargrave"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=MHE8JUIiHCc"
+  }
+}

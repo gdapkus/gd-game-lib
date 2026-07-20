@@ -1,1 +1,46 @@
-{"timestamp":"2024-11-12T17:40:52.382Z","gameDetails":{"id":"233398","name":"Endeavor: Age of Sail","type":"boardgame","description":"In Endeavor: Age of Sail, players strive to earn glory for their empires. Sailing out from Europe and the Mediterranean, players will establish shipping routes and occupy cities the world over. As they do so, players will leverage their growing industry, culture, finance, and Influence, building their engine and extending their reach into the far-flung regions of the world.&#10;&#10;In this second edition, players will experience:&#10;&#10;&#10;     Double-sided board to accommodate different player counts&#10;     Variable starting set ups with new buildings&#10;     Exploits to enhance the mechanisms and story of the different regions&#10;     Updated visuals by the original artist and graphic designer, Josh Cappel&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;","image":"https://cf.geekdo-images.com/YXYqQZ05gC9kNlgX7cbR8g__original/img/D4TCl_FNsC867ww_NNj4VmVUBr0=/0x0/filters:format(jpeg)/pic3913274.jpg","thumbnail":"https://cf.geekdo-images.com/YXYqQZ05gC9kNlgX7cbR8g__thumb/img/tnCicYCs55D8rwF0RKFaBdXjb44=/fit-in/200x150/filters:strip_icc()/pic3913274.jpg","link":"https://boardgamegeek.com/thing/233398","minPlayers":"2","maxPlayers":"5","yearPublished":"2018","playingTime":"90","minPlayingTime":"60","maxPlayingTime":"90","bestAtCount":[4],"averageRating":"7.88035","averageWeight":"2.8427","boardGameRank":"175","mechanics":["Area Majority / Influence","Open Drafting","Point to Point Movement","Set Collection","Tech Trees / Tech Tracks"],"categories":["Exploration","Nautical","Renaissance"],"designers":["Carl de Visser","Jarratt Gray"]}}
+{
+  "timestamp": "2026-07-17T22:46:56.350Z",
+  "gameDetails": {
+    "id": "233398",
+    "name": "Endeavor: Age of Sail",
+    "type": "boardgame",
+    "description": "In Endeavor: Age of Sail, players strive to earn glory for their empires. Sailing out from Europe and the Mediterranean, players will establish shipping routes and occupy cities the world over. As they do so, players will leverage their growing industry, culture, finance, and Influence, building their engine and extending their reach into the far-flung regions of the world.\n\nIn this second edition, players will experience:\n\n\n     Double-sided board to accommodate different player counts\n     Variable starting set ups with new buildings\n     Exploits to enhance the mechanisms and story of the different regions\n     Updated visuals by the original artist and graphic designer, Josh Cappel\n\n\n&mdash;description from the publisher\n\n",
+    "image": "https://cf.geekdo-images.com/YXYqQZ05gC9kNlgX7cbR8g__original/img/D4TCl_FNsC867ww_NNj4VmVUBr0=/0x0/filters:format(jpeg)/pic3913274.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YXYqQZ05gC9kNlgX7cbR8g__small/img/tnCicYCs55D8rwF0RKFaBdXjb44=/fit-in/200x150/filters:strip_icc()/pic3913274.jpg",
+    "link": "https://boardgamegeek.com/thing/233398",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2018",
+    "playingTime": "90",
+    "minPlayingTime": "60",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.84015",
+    "averageWeight": "2.8503",
+    "boardGameRank": "209",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Connections",
+      "End Game Bonuses",
+      "Open Drafting",
+      "Point to Point Movement",
+      "Set Collection",
+      "Simulation",
+      "Tech Trees / Tech Tracks",
+      "Turn Order: Progressive",
+      "Variable Set-up"
+    ],
+    "categories": [
+      "Exploration",
+      "Nautical",
+      "Renaissance"
+    ],
+    "designers": [
+      "Carl de Visser",
+      "Jarratt Gray"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=IDBiR59M2LE"
+  }
+}

@@ -1,1 +1,39 @@
-{"timestamp":"2024-11-12T18:31:25.177Z","gameDetails":{"id":"171","name":"Chess","type":"boardgame","description":"Chess is a two-player, abstract strategy board game that represents medieval warfare on an 8x8 board with alternating light and dark squares. Opposing pieces, traditionally designated White and Black, are initially lined up on either side. Each type of piece has a unique form of movement and capturing occurs when a piece, via its movement, occupies the square of an opposing piece. Players take turns moving one of their pieces in an attempt to capture, attack, defend, or develop their positions. Chess games can end in checkmate (when the king cannot escape from the opponent's pieces), resignation (when one player recognizes he cannot win the game and ends it), or one of several types of draws.&#10;&#10;Chess is one of the most popular games in the world, played by millions of people worldwide at home, in clubs, online, by correspondence, and in tournaments. Between two highly skilled players, chess can be a beautiful thing to watch, and a game can provide great entertainment even for novices. There is also a large literature of books and periodicals about chess, typically featuring games and commentary by chess masters. The game has its origins in the Indian game Chaturanga, and became Shatranj when introduced to the Persians. The current form of the game emerged in the second half of the 15th century when the Persians brought Shatranj to Southern Europe. The tradition of organized competitive chess began in the 16th century. The first official World Chess Champion, Wilhelm Steinitz, claimed his title in 1886. Chess is also a recognized sport of the International Olympic Committee.&#10;&#10;","image":"https://cf.geekdo-images.com/0-DjGBOko6RV8zg5ejhYIg__original/img/0pn_QgMuWaIJb2Q7aZNfORse0_o=/0x0/filters:format(jpeg)/pic260745.jpg","thumbnail":"https://cf.geekdo-images.com/0-DjGBOko6RV8zg5ejhYIg__thumb/img/kjtoinSrkYV0HZleXMxkJzZwS8k=/fit-in/200x150/filters:strip_icc()/pic260745.jpg","link":"https://boardgamegeek.com/thing/171","minPlayers":"2","maxPlayers":"2","yearPublished":"1475","playingTime":"0","minPlayingTime":"0","maxPlayingTime":"0","bestAtCount":[2],"averageRating":"7.2152","averageWeight":"3.6523","boardGameRank":"452","mechanics":["Grid Movement","Once-Per-Game Abilities","Pattern Movement","Square Grid","Static Capture","Sudden Death Ending"],"categories":["Abstract Strategy"],"designers":["(Uncredited)"]}}
+{
+  "timestamp": "2026-07-17T23:55:57.895Z",
+  "gameDetails": {
+    "id": "171",
+    "name": "Chess",
+    "type": "boardgame",
+    "description": "Chess is a two-player, abstract strategy board game that represents medieval warfare on an 8x8 board with alternating light and dark squares. Opposing pieces, traditionally designated White and Black, are initially lined up on either side of the board. Each type of piece has a unique form of movement and capturing occurs when a piece, via its movement, occupies the square of an opposing piece. Players take turns moving one of their pieces in an attempt to capture, attack, defend, or develop their positions. Chess games can end in checkmate (when the king cannot escape from the opponent's pieces), resignation (when one player recognizes that defeat is inevitable and ends the game), or one of several types of draws.\n\nChess is one of the most popular games in the world, played by millions of people worldwide at home, in clubs, online, by correspondence, and in tournaments. Between two highly skilled players, chess can be a beautiful thing to watch, and a game can provide great entertainment even for novices. The 2020 Netflix series, The Queen's Gambit was enjoyed by both chess players and non-players alike. There is also a large literature of books and periodicals about chess, typically featuring games and commentary by chess masters. Chess is so well known and highly regarded that it is often used as a metaphor in journalism, poetry, fiction, and film.\n\nChess evolved from the ancient Indian game Chaturanga, which became Shatranj when introduced to the Persians. The current form of the game emerged in the second half of the 15th century when the Persians brought Shatranj to Southern Europe. The tradition of organized competitive chess began in the 16th century. The first official World Chess Champion, Wilhelm Steinitz, claimed his title in 1886. Chess is also a recognized sport of the International Olympic Committee.\n\n",
+    "image": "https://cf.geekdo-images.com/0_RWFMNapgr5yCrdhvGi_Q__original/img/c4SiusUQuh7uc0k6HDwIXYsEc8M=/0x0/filters:format(jpeg)/pic8785991.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0_RWFMNapgr5yCrdhvGi_Q__small/img/Ag-pVSHp3iBail0FsibR_iUMmQc=/fit-in/200x150/filters:strip_icc()/pic8785991.jpg",
+    "link": "https://boardgamegeek.com/thing/171",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "1475",
+    "playingTime": "0",
+    "minPlayingTime": "0",
+    "maxPlayingTime": "0",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.24048",
+    "averageWeight": "3.6433",
+    "boardGameRank": "462",
+    "mechanics": [
+      "Grid Movement",
+      "Once-Per-Game Abilities",
+      "Pattern Movement",
+      "Square Grid",
+      "Static Capture",
+      "Sudden Death Ending"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=Y9n2HpkGE5Q"
+  }
+}

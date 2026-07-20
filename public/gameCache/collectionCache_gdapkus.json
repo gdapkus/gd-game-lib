@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T17:38:02.467Z",
+  "timestamp": "2026-07-20T02:09:12.410Z",
   "games": [
     {
       "id": "363039",
@@ -1861,6 +1861,52 @@
         "preordered": false
       },
       "postdate": "2017-09-05 13:59:33",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "342062",
+      "collid": "147566292",
+      "name": "Artisans of Splendent Vale",
+      "image": "https://cf.geekdo-images.com/TjJTDV2F0-2MtppZtKSqmQ__original/img/tHSFVywPqAzeCe6YIhtW0NmjZcI=/0x0/filters:format(jpeg)/pic6267281.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/TjJTDV2F0-2MtppZtKSqmQ__small/img/39BkFd6qA5c4v0hKQ9kDXaHqQxc=/fit-in/200x150/filters:strip_icc()/pic6267281.jpg",
+      "lastmodified": "2026-07-19 20:34:20",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-07-19 20:34:20",
+      "rating": null,
+      "ratingTimestamp": "0000-00-00 00:00:00"
+    },
+    {
+      "id": "383371",
+      "collid": "147567177",
+      "name": "Artisans of Splendent Vale: Recharge Pack",
+      "image": "https://cf.geekdo-images.com/-4nsqji2ztU81KOT2lUGTg__original/img/Lknh4obERPzoVdccFuP56B0MUnw=/0x0/filters:format(jpeg)/pic7655263.jpg",
+      "thumbnail": "https://cf.geekdo-images.com/-4nsqji2ztU81KOT2lUGTg__small/img/cGdCmH4NVbJfkFqB5idj-9Twjbc=/fit-in/200x150/filters:strip_icc()/pic7655263.jpg",
+      "lastmodified": "2026-07-19 21:08:13",
+      "numplays": "0",
+      "status": {
+        "own": true,
+        "prevowned": false,
+        "fortrade": false,
+        "want": false,
+        "wanttoplay": false,
+        "wanttobuy": false,
+        "wishlist": false,
+        "wishlistpriority": null,
+        "preordered": false
+      },
+      "postdate": "2026-07-19 21:08:13",
       "rating": null,
       "ratingTimestamp": "0000-00-00 00:00:00"
     },
@@ -8011,10 +8057,10 @@
       "name": "Feya's Swamp",
       "image": "https://cf.geekdo-images.com/lxzo9PekKd4TRyBUlLH7Yw__original/img/5ofkerciKc8XsWYgejw3xTK0AkE=/0x0/filters:format(png)/pic8703614.png",
       "thumbnail": "https://cf.geekdo-images.com/lxzo9PekKd4TRyBUlLH7Yw__small/img/1cEL93SEH6KEoO7CAlde9Sqi12s=/fit-in/200x150/filters:strip_icc()/pic8703614.png",
-      "lastmodified": "2026-03-18 12:16:16",
-      "numplays": "0",
+      "lastmodified": "2026-07-19 20:29:25",
+      "numplays": "1",
       "status": {
-        "own": false,
+        "own": true,
         "prevowned": false,
         "fortrade": false,
         "want": false,
@@ -8022,7 +8068,7 @@
         "wanttobuy": false,
         "wishlist": false,
         "wishlistpriority": null,
-        "preordered": true
+        "preordered": false
       },
       "postdate": "2025-10-25 14:40:36",
       "rating": null,

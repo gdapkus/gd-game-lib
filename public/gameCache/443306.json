@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:27:05.151Z",
+  "timestamp": "2026-07-20T02:07:17.795Z",
   "gameDetails": {
     "id": "443306",
     "name": "Deckers",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       1
     ],
-    "averageRating": "8.05245",
-    "averageWeight": "3.7667",
-    "boardGameRank": "6022",
+    "averageRating": "8.10643",
+    "averageWeight": "3.7639",
+    "boardGameRank": "2519",
     "mechanics": [
       "Command Cards",
       "Cooperative Game",
@@ -35,6 +35,7 @@
     ],
     "designers": [
       "Richard Wilkins"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=DqP7qDDWkxM"
   }
 }

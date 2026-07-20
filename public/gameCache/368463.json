@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:31:04.456Z",
+  "timestamp": "2026-07-20T02:07:39.971Z",
   "gameDetails": {
     "id": "368463",
     "name": "Rebuilding Seattle",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       3
     ],
-    "averageRating": "7.50532",
+    "averageRating": "7.48068",
     "averageWeight": "2.3333",
-    "boardGameRank": "4039",
+    "boardGameRank": "4130",
     "mechanics": [
       "Grid Coverage",
       "Income",
@@ -31,6 +31,7 @@
     ],
     "designers": [
       "Quinn Brander"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=S662zro7XUw"
   }
 }

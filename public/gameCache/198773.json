@@ -1,1 +1,39 @@
-{"timestamp":"2024-11-12T17:39:00.607Z","gameDetails":{"id":"198773","name":"Codenames: Pictures","type":"boardgame","description":"What are these strange symbols on the map? They are code for locations where spies must contact secret agents!&#10;&#10;Two rival spymasters know the agent in each location. They deliver coded messages telling their field operatives where to go for clandestine meetings. Operatives must be clever. A decoding mistake could lead to an unpleasant encounter with an enemy agent &ndash; or worse, with the assassin! Both teams race to contact all their agents, but only one team can win.&#10;&#10;Codenames: Pictures differs from the original Codenames in that the agents are no longer represented by a single word, but by an image that contains multiple elements.&#10;&#10;","image":"https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__original/img/i4FVjrk9TtmvVlVK7NtwRqgOxdQ=/0x0/filters:format(jpeg)/pic3476592.jpg","thumbnail":"https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__thumb/img/6-1EOESE196KVKw4xOJ5rge56j0=/fit-in/200x150/filters:strip_icc()/pic3476592.jpg","link":"https://boardgamegeek.com/thing/198773","minPlayers":"2","maxPlayers":"8","yearPublished":"2016","playingTime":"15","minPlayingTime":"15","maxPlayingTime":"15","bestAtCount":[6],"averageRating":"7.18294","averageWeight":"1.2425","boardGameRank":"466","mechanics":["Communication Limits","Memory","Push Your Luck","Team-Based Game"],"categories":["Card Game","Deduction","Party Game","Spies / Secret Agents"],"designers":["Vlaada Chvátil"]}}
+{
+  "timestamp": "2026-07-17T19:51:34.653Z",
+  "gameDetails": {
+    "id": "198773",
+    "name": "Codenames: Pictures",
+    "type": "boardgame",
+    "description": "What are these strange symbols on the map? They are code for locations where spies must contact secret agents!\n\nTwo rival spymasters know the agent in each location. They deliver coded messages telling their field operatives where to go for clandestine meetings. Operatives must be clever. A decoding mistake could lead to an unpleasant encounter with an enemy agent &ndash; or worse, with the assassin! Both teams race to contact all their agents, but only one team can win.\n\nCodenames: Pictures differs from the original Codenames in that the agents are no longer represented by a single word, but by an image that contains multiple elements.\n\n",
+    "image": "https://cf.geekdo-images.com/TGHPcdYEnD3_QzMohEIrNw__original/img/BjCphUnm_GLYJ2I1VAkxqNiNTWk=/0x0/filters:format(png)/pic9206059.png",
+    "thumbnail": "https://cf.geekdo-images.com/TGHPcdYEnD3_QzMohEIrNw__small/img/0bZIFaJEW-3FquBb8jY-SqrrUx8=/fit-in/200x150/filters:strip_icc()/pic9206059.png",
+    "link": "https://boardgamegeek.com/thing/198773",
+    "minPlayers": "2",
+    "maxPlayers": "8",
+    "yearPublished": "2016",
+    "playingTime": "15",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      6
+    ],
+    "averageRating": "7.17486",
+    "averageWeight": "1.2358",
+    "boardGameRank": "507",
+    "mechanics": [
+      "Communication Limits",
+      "Memory",
+      "Team-Based Game"
+    ],
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Party Game",
+      "Spies / Secret Agents"
+    ],
+    "designers": [
+      "Vlaada Chvátil"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=gP5j9n7WJ5k"
+  }
+}

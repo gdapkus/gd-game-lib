@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:27:39.932Z",
+  "timestamp": "2026-07-20T02:07:29.063Z",
   "gameDetails": {
     "id": "446610",
     "name": "Flash Point: Golden State Heroes",
@@ -15,9 +15,9 @@
     "minPlayingTime": "45",
     "maxPlayingTime": "45",
     "bestAtCount": null,
-    "averageRating": "4.33333",
-    "averageWeight": "0",
-    "boardGameRank": "Not Ranked",
+    "averageRating": "7.67802",
+    "averageWeight": "2.6667",
+    "boardGameRank": "15658",
     "mechanics": [
       "Action Points",
       "Cooperative Game",
@@ -40,6 +40,7 @@
       "Ken Franklin",
       "Chris Leder",
       "Kevin Rodgers"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=WWbHNx6ineQ"
   }
 }

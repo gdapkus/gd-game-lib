@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:36:21.543Z",
+  "timestamp": "2026-07-20T02:08:01.886Z",
   "gameDetails": {
     "id": "440606",
     "name": "Compile: Main 2",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       2
     ],
-    "averageRating": "8.48213",
-    "averageWeight": "2",
-    "boardGameRank": "8706",
+    "averageRating": "8.20796",
+    "averageWeight": "2.3",
+    "boardGameRank": "2600",
     "mechanics": [
       "Area Majority / Influence",
       "Card Play Conflict Resolution",
@@ -35,6 +35,7 @@
     ],
     "designers": [
       "Michael Yang"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=2wygGm_OjNk"
   }
 }

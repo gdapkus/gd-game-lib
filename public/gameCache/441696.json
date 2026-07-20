@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:31:23.259Z",
+  "timestamp": "2026-07-20T02:07:45.488Z",
   "gameDetails": {
     "id": "441696",
     "name": "Sanctuary",
@@ -18,9 +18,9 @@
       2,
       3
     ],
-    "averageRating": "7.65497",
-    "averageWeight": "2.7692",
-    "boardGameRank": "2632",
+    "averageRating": "7.6626",
+    "averageWeight": "2.8133",
+    "boardGameRank": "799",
     "mechanics": [
       "Action Queue",
       "Hand Management",
@@ -38,6 +38,7 @@
     ],
     "designers": [
       "Mathias Wigge"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=dm3cp7lHvvs"
   }
 }

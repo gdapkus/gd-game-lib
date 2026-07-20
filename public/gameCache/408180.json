@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:31:32.441Z",
+  "timestamp": "2026-07-20T02:07:51.012Z",
   "gameDetails": {
     "id": "408180",
     "name": "Shackleton Base: A Journey to the Moon",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       3
     ],
-    "averageRating": "8.00943",
-    "averageWeight": "3.8805",
-    "boardGameRank": "718",
+    "averageRating": "8.01121",
+    "averageWeight": "3.9247",
+    "boardGameRank": "397",
     "mechanics": [
       "Variable Set-up",
       "Worker Placement, Different Worker Types"
@@ -31,6 +31,7 @@
     "designers": [
       "Fabio Lopiano",
       "Nestore Mangone"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=3P-K_mdaIW0"
   }
 }

@@ -1,1 +1,42 @@
-{"timestamp":"2024-11-12T18:37:42.108Z","gameDetails":{"id":"63888","name":"Innovation","type":"boardgame","description":"This game by Carl Chudyk is a journey through innovations from the stone age through modern times.  Each player builds a civilization based on various technologies, ideas, and cultural advancements, all represented by cards.  Each of these cards has a unique power which will allow further advancement, point scoring, or even attacking other civilizations.  Be careful though, as other civilizations may be able to benefit from your ideas as well!&#10;&#10;To win, you must score achievements, which you can attain by amassing points or by meeting certain criteria with the innovations you have built.  Plan your civilization well, and outmaneuver your opponents, and with some luck you will achieve victory!&#10;&#10;","image":"https://cf.geekdo-images.com/YBE-vyyYRANWO2NXSQQghg__original/img/-Ec777H5hg1pmx6kQ0PI2A9Iroc=/0x0/filters:format(png)/pic2966859.png","thumbnail":"https://cf.geekdo-images.com/YBE-vyyYRANWO2NXSQQghg__thumb/img/GmRDNEKangi2w4daNGHCQiH5h_I=/fit-in/200x150/filters:strip_icc()/pic2966859.png","link":"https://boardgamegeek.com/thing/63888","minPlayers":"2","maxPlayers":"4","yearPublished":"2010","playingTime":"60","minPlayingTime":"45","maxPlayingTime":"60","bestAtCount":[2],"averageRating":"7.30229","averageWeight":"2.7642","boardGameRank":"383","mechanics":["Follow","Hand Management","Layering","Melding and Splaying","Take That","Tech Trees / Tech Tracks"],"categories":["Card Game","Civilization"],"designers":["Carl Chudyk"]}}
+{
+  "timestamp": "2026-07-17T23:39:55.612Z",
+  "gameDetails": {
+    "id": "63888",
+    "name": "Innovation",
+    "type": "boardgame",
+    "description": "Innovation is Carl Chudyk's tableau-builder of infinite possibilities, taking you on a journey from pre-history all the way to the present...and the near future! In this game, you build a civilization using only cards; there's no map, no tokens, no dice, no pieces. The game's 105 innovations &mdash; or in the fourth edition, 115 innovations &mdash; are each represented by a card with a unique effect, organized into ten (or eleven) ages. Each innovation's effect is tied thematically to its identity, allowing you to either elevate your society or attack your opponents.\n\nIn addition to directly affecting your opponents, you can share in the effects of their technologies if you amass enough visible icons on your board. Strategically building your tableau of cards to share often and defend against demands is crucial to success.\n\nTo win, you must claim achievements, which you can attain by amassing points or by meeting certain criteria with the innovations you have built. No two games of Innovation play the same way.\n\n[Admin note: The specific card effects have changed across the four editions of Innovation, in addition to age 11 being added in the fourth edition, but the core gameplay has remained consistent across all editions, so all editions are listed on a single page in the database.]\n\n",
+    "image": "https://cf.geekdo-images.com/l4fVXtRnhKMf5UPn78rEdg__original/img/spomh0P7HHKNTFNLVwVX7xJPf3M=/0x0/filters:format(png)/pic8792317.png",
+    "thumbnail": "https://cf.geekdo-images.com/l4fVXtRnhKMf5UPn78rEdg__small/img/xMh4wYMS9nA77f3KScqZsWurVgQ=/fit-in/200x150/filters:strip_icc()/pic8792317.png",
+    "link": "https://boardgamegeek.com/thing/63888",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "yearPublished": "2010",
+    "playingTime": "60",
+    "minPlayingTime": "20",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.32486",
+    "averageWeight": "2.7808",
+    "boardGameRank": "380",
+    "mechanics": [
+      "Follow",
+      "Hand Management",
+      "Layering",
+      "Melding and Splaying",
+      "Sudden Death Ending",
+      "Tags",
+      "Take That",
+      "Tech Trees / Tech Tracks"
+    ],
+    "categories": [
+      "Card Game",
+      "Civilization"
+    ],
+    "designers": [
+      "Carl Chudyk"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=AQueks4VGS8"
+  }
+}

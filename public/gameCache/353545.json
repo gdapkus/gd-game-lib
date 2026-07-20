@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:07:47.437Z",
+  "timestamp": "2026-07-20T02:10:56.769Z",
   "gameDetails": {
     "id": "353545",
     "name": "Next Station: London",
@@ -18,9 +18,9 @@
       2,
       4
     ],
-    "averageRating": "7.42548",
-    "averageWeight": "1.4875",
-    "boardGameRank": "581",
+    "averageRating": "7.40844",
+    "averageWeight": "1.4916",
+    "boardGameRank": "585",
     "mechanics": [
       "Bingo",
       "Connections",
@@ -35,6 +35,7 @@
     ],
     "designers": [
       "Matthew Dunstan"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=-deN6g_FygE"
   }
 }

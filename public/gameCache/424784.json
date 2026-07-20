@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T19:57:03.915Z",
+  "timestamp": "2026-07-20T02:08:12.713Z",
   "gameDetails": {
     "id": "424784",
     "name": "Arkham Horror: Lovecraft Letter",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       4
     ],
-    "averageRating": "7.44891",
-    "averageWeight": "1.4211",
-    "boardGameRank": "3170",
+    "averageRating": "7.46552",
+    "averageWeight": "1.4194",
+    "boardGameRank": "2342",
     "mechanics": [
       "Hand Management",
       "Player Elimination",
@@ -32,6 +32,7 @@
     ],
     "designers": [
       "Seiji Kanai"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=1gNZ8vXV_5s"
   }
 }

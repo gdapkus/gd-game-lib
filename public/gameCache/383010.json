@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T19:33:27.953Z",
+  "timestamp": "2026-07-20T02:07:01.522Z",
   "gameDetails": {
     "id": "383010",
     "name": "Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       4
     ],
-    "averageRating": "8.63151",
-    "averageWeight": "2.7143",
-    "boardGameRank": "1792",
+    "averageRating": "8.50688",
+    "averageWeight": "2.75",
+    "boardGameRank": "1497",
     "mechanics": [
       "Deck, Bag, and Pool Building",
       "Legacy Game",
@@ -33,6 +33,7 @@
     ],
     "designers": [
       "Jay E. Treat, III"
-    ]
+    ],
+    "videoLink": null
   }
 }

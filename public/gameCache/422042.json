@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-06T02:34:12.469Z",
+  "timestamp": "2026-07-20T02:06:50.731Z",
   "gameDetails": {
     "id": "422042",
     "name": "Tea Garden",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       3
     ],
-    "averageRating": "7.57153",
-    "averageWeight": "3.029",
-    "boardGameRank": "2259",
+    "averageRating": "7.56403",
+    "averageWeight": "3.0909",
+    "boardGameRank": "1663",
     "mechanics": [
       "Automatic Resource Growth",
       "Deck, Bag, and Pool Building",
@@ -32,6 +32,7 @@
     ],
     "designers": [
       "Tomáš Holek"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=ThGlCXMTuOs"
   }
 }

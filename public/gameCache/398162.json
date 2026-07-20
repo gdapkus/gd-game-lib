@@ -1,1 +1,38 @@
-{"timestamp":"2024-11-12T18:39:34.111Z","gameDetails":{"id":"398162","name":"MicroMacro: Crime City – Showdown","type":"boardgame","description":"Welcome to Crime City - a city where crime lurks around every corner. Fatal secrets, sneaky attacks and cold-blooded murders are the order of the day here.&#10;&#10;MicroMacro is a cooperative detective game. Together you will solve tricky criminal cases, determine motives, find evidence and convict the perpetrators.&#10;An attentive eye is just as important as creative combination skills!&#10;&#10;Showdown is the fourth and final part of the MicroMacro: Crime City series.&#10;A new city map with brand new criminal cases awaits you. It is a standalone game. The 16 cases contained here can be played without knowledge of the first parts.&#10;&#10;&mdash;description from the publisher (translated)&#10;&#10;","image":"https://cf.geekdo-images.com/yQ0WBQZZhHRkAsQxlIBVQQ__original/img/VlzJdhKVThAvnhpaj6EnlIggUXg=/0x0/filters:format(jpeg)/pic7705433.jpg","thumbnail":"https://cf.geekdo-images.com/yQ0WBQZZhHRkAsQxlIBVQQ__thumb/img/m8jHweINsb1C3hT74rKTciIDi3o=/fit-in/200x150/filters:strip_icc()/pic7705433.jpg","link":"https://boardgamegeek.com/thing/398162","minPlayers":"1","maxPlayers":"4","yearPublished":"2023","playingTime":"45","minPlayingTime":"15","maxPlayingTime":"45","bestAtCount":[2],"averageRating":"7.96244","averageWeight":"1","boardGameRank":"3898","mechanics":["Cooperative Game","Deduction","Scenario / Mission / Campaign Game","Solo / Solitaire Game"],"categories":["Deduction","Murder / Mystery"],"designers":["Johannes Sich"]}}
+{
+  "timestamp": "2026-07-18T00:01:21.652Z",
+  "gameDetails": {
+    "id": "398162",
+    "name": "MicroMacro: Crime City – Showdown",
+    "type": "boardgame",
+    "description": "Welcome to Crime City - a city where crime lurks around every corner. Fatal secrets, sneaky attacks and cold-blooded murders are the order of the day here.\n\nMicroMacro is a cooperative detective game. Together you will solve tricky criminal cases, determine motives, find evidence and convict the perpetrators.\nAn attentive eye is just as important as creative combination skills!\n\nShowdown is the fourth and final part of the MicroMacro: Crime City series.\nA new city map with brand new criminal cases awaits you. It is a standalone game. The 16 cases contained here can be played without knowledge of the first parts.\n\n&mdash;description from the publisher (translated)\n\n",
+    "image": "https://cf.geekdo-images.com/9y3smbtFTGqNjmkMhKFq1w__original/img/kJb2wWjTrc02B-fAO1a-p_I3SC0=/0x0/filters:format(png)/pic8987382.png",
+    "thumbnail": "https://cf.geekdo-images.com/9y3smbtFTGqNjmkMhKFq1w__small/img/gSXOH65E-W4gNn6-yq0YbJk4qks=/fit-in/200x150/filters:strip_icc()/pic8987382.png",
+    "link": "https://boardgamegeek.com/thing/398162",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "yearPublished": "2023",
+    "playingTime": "45",
+    "minPlayingTime": "15",
+    "maxPlayingTime": "45",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.86043",
+    "averageWeight": "1",
+    "boardGameRank": "2741",
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game"
+    ],
+    "categories": [
+      "Deduction",
+      "Murder / Mystery"
+    ],
+    "designers": [
+      "Johannes Sich"
+    ],
+    "videoLink": null
+  }
+}

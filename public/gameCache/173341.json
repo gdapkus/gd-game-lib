@@ -1,1 +1,39 @@
-{"timestamp":"2024-11-12T18:38:53.642Z","gameDetails":{"id":"173341","name":"Loopin' Chewie","type":"boardgame","description":"This 2-3 player version of Loopin' Louie is re-themed with the Star Wars license.  Chewbacca in the Millennium Falcon is tasked with knocking out the other players' stormtroopers.  When only one player has stormtroopers left, that player wins.&#10;&#10;","image":"https://cf.geekdo-images.com/zIZD0L3xXX-jYSLgCRCsEw__original/img/BIF8Fjtnvg3Bcsxr5s1YrqIuYQE=/0x0/filters:format(jpeg)/pic2821272.jpg","thumbnail":"https://cf.geekdo-images.com/zIZD0L3xXX-jYSLgCRCsEw__thumb/img/PwNFRhKRMsUl-03tp39EBYrpjgk=/fit-in/200x150/filters:strip_icc()/pic2821272.jpg","link":"https://boardgamegeek.com/thing/173341","minPlayers":"2","maxPlayers":"3","yearPublished":"2014","playingTime":"15","minPlayingTime":"10","maxPlayingTime":"15","bestAtCount":[3],"averageRating":"6.3344","averageWeight":"1","boardGameRank":"3621","mechanics":["Player Elimination"],"categories":["Action / Dexterity","Aviation / Flight","Children's Game","Electronic","Movies / TV / Radio theme","Real-time"],"designers":["(Uncredited)"]}}
+{
+  "timestamp": "2026-07-17T23:40:01.035Z",
+  "gameDetails": {
+    "id": "173341",
+    "name": "Loopin' Chewie",
+    "type": "boardgame",
+    "description": "This 2-3 player version of Loopin' Louie is re-themed with the Star Wars license.  Chewbacca in the Millennium Falcon is tasked with knocking out the other players' stormtroopers.  When only one player has stormtroopers left, that player wins.\n\n",
+    "image": "https://cf.geekdo-images.com/zIZD0L3xXX-jYSLgCRCsEw__original/img/BIF8Fjtnvg3Bcsxr5s1YrqIuYQE=/0x0/filters:format(jpeg)/pic2821272.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zIZD0L3xXX-jYSLgCRCsEw__small/img/PwNFRhKRMsUl-03tp39EBYrpjgk=/fit-in/200x150/filters:strip_icc()/pic2821272.jpg",
+    "link": "https://boardgamegeek.com/thing/173341",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "yearPublished": "2014",
+    "playingTime": "15",
+    "minPlayingTime": "10",
+    "maxPlayingTime": "15",
+    "bestAtCount": [
+      3
+    ],
+    "averageRating": "6.3416",
+    "averageWeight": "1",
+    "boardGameRank": "4015",
+    "mechanics": [
+      "Player Elimination"
+    ],
+    "categories": [
+      "Action / Dexterity",
+      "Aviation / Flight",
+      "Children's Game",
+      "Electronic",
+      "Movies / TV / Radio theme",
+      "Real-time"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=gfqEmg59_3c"
+  }
+}

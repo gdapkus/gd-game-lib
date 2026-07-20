@@ -1,1 +1,46 @@
-{"timestamp":"2024-11-12T18:42:16.213Z","gameDetails":{"id":"28143","name":"Race for the Galaxy","type":"boardgame","description":"2018 UPDATE: The second edition of the game is improved for CVD (color blindness) and includes 5 revised cards from the original version and 6 New Worlds promo homeworlds. The promo homeworlds and first edition compatible Revised Cards are both available for purchase through the BGG store.&#10;&#10;In the card game Race for the Galaxy, players build galactic civilizations by playing game cards in front of them that represent worlds or technical and social developments. Some worlds allow players to produce goods, which can be consumed later to gain either card draws or victory points when the appropriate technologies are available to them. These are mainly provided by the developments and worlds that are not able to produce, but the fancier production worlds also give these bonuses.&#10;&#10;At the beginning of each round, players each select, secretly and simultaneously, one of the seven roles which correspond to the phases in which the round progresses. By selecting a role, players activate that phase for this round, giving each player the opportunity to perform that phase's action. For example, if one player chooses the settle role, each player has the opportunity to settle one of the planets from their hand. The player who has chosen the role, however, gets a bonus that applies only to them. But bonuses may also be acquired through developments, so you must be aware when another player also takes advantage of your choice of role.&#10;&#10;UPC 655132003018&#10;&#10;","image":"https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__original/img/Vh-DCkTPa8OU45LaJdUywwhiYqE=/0x0/filters:format(jpeg)/pic5261714.jpg","thumbnail":"https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__thumb/img/xLs-ldTPwaADbvzkOpF0sgWzwck=/fit-in/200x150/filters:strip_icc()/pic5261714.jpg","link":"https://boardgamegeek.com/thing/28143","minPlayers":"2","maxPlayers":"4","yearPublished":"2007","playingTime":"60","minPlayingTime":"30","maxPlayingTime":"60","bestAtCount":[2],"averageRating":"7.7436","averageWeight":"2.9921","boardGameRank":"81","mechanics":["Follow","Hand Management","Multi-Use Cards","Simultaneous Action Selection","Tags"],"categories":["Card Game","Civilization","Economic","Science Fiction","Space Exploration"],"designers":["Thomas Lehmann"]}}
+{
+  "timestamp": "2026-07-17T23:40:28.132Z",
+  "gameDetails": {
+    "id": "28143",
+    "name": "Race for the Galaxy",
+    "type": "boardgame",
+    "description": "In Race for the Galaxy, players build galactic civilizations by playing cards representing worlds or technical and social developments.\n\nEach round, players secretly and simultaneously select an action card corresponding to one phase of a round. These phases let players draw cards, play cards, add goods to worlds, or consume goods for VP chips. Only the phases chosen will occur that round. Every player may act in a phase that occurs, but the players who chose that phase get a bonus.\n\nGame end is triggered either when a player has built a civilization of 12 cards or when the pool of VP chips is exhausted. Each player then totals the victory points in their tableau plus any VP chips earned during play.\n\nDetailed Overview\nRace for the Galaxy tells a story of galactic discovery and expansion through a single deck of cards. Every card in the deck represents either a world that you might settle or a development that you might implement. Cards placed into your tableau represent your current achievements -- worlds you have colonized, technology you now wield -- while cards in your hand represent the options currently available to you.\n\nTo play a card, discard the number of cards equal to its cost, representing other opportunities you must forgo to concentrate on your current course. Once in your tableau, a card provides special powers during the game and, at the end, its listed number of victory points. Many worlds, once placed, also produce goods that can be traded for more cards or consumed for VP chips.\n\nRace for the Galaxy is played in rounds. In each round, you and your opponents secretly select an action phase for the upcoming turn. You can choose to:\n&bull; Place a world in your tableau with settle or a development with develop.\n&bull; Produce goods on worlds with produce.\n&bull; Consume goods for VPs with consume.\n&bull; Add cards to your hand with explore or by trading a good.\n\nEach round, only those phases that are selected will occur -- but they'll occur for everyone. Selecting a phase both ensures that it occurs that round and gains the selecting player a bonus.\n\nRound follows round until someone builds their tableau to twelve cards, or until the last VP chip is claimed. The victor is the player with the most VPs.\n\n2018 UPDATE\nThe second edition of the game is improved for CVD (color blindness) and includes 5 revised cards from the original version and 6 New Worlds promo homeworlds. The promo homeworlds and first edition compatible Revised Cards are both available for purchase through the BGG store.\n\nUPC 655132003018\n\n",
+    "image": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__original/img/Vh-DCkTPa8OU45LaJdUywwhiYqE=/0x0/filters:format(jpeg)/pic5261714.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__small/img/xLs-ldTPwaADbvzkOpF0sgWzwck=/fit-in/200x150/filters:strip_icc()/pic5261714.jpg",
+    "link": "https://boardgamegeek.com/thing/28143",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "yearPublished": "2007",
+    "playingTime": "60",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "60",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.73605",
+    "averageWeight": "2.9938",
+    "boardGameRank": "94",
+    "mechanics": [
+      "End Game Bonuses",
+      "Follow",
+      "Hand Management",
+      "Income",
+      "Market",
+      "Multi-Use Cards",
+      "Simultaneous Action Selection",
+      "Tags",
+      "Variable Phase Order"
+    ],
+    "categories": [
+      "Card Game",
+      "Civilization",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "designers": [
+      "Thomas Lehmann"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=um0jIYodqRI"
+  }
+}

@@ -1,1 +1,39 @@
-{"timestamp":"2024-11-12T17:38:35.864Z","gameDetails":{"id":"183531","name":"Caverna: Water Expansion","type":"boardgameexpansion","description":"This expansion comprises six new furnishing tiles which can only be played in specific locations on a player's Home board.&#10;&#10;3 tiles which can only be played &quot;on an underground lake&quot;:&#10;&#10;1. Fairy Pool&#10;2. Wishing Well&#10;3. Hot Springs&#10;&#10;2 tiles which can only be played &quot;on the outside river&quot;:&#10;&#10;4. Gold Stream&#10;5. Harvest Spirits Shrine&#10;&#10;1 tile which can only be played &quot;next to an underground lake&quot;:&#10;&#10;6. Mushroom Grotto&#10;&#10;","image":"https://cf.geekdo-images.com/F0b91yiFfN4NJNdkDWqoeQ__original/img/OpsyrVCVJZoqXpDVZhyBIeBM5uI=/0x0/filters:format(jpeg)/pic2712362.jpg","thumbnail":"https://cf.geekdo-images.com/F0b91yiFfN4NJNdkDWqoeQ__thumb/img/g011jPMjUace-oA3Wp4AsArJ2-4=/fit-in/200x150/filters:strip_icc()/pic2712362.jpg","link":"https://boardgamegeek.com/thing/183531","minPlayers":"1","maxPlayers":"7","yearPublished":"2015","playingTime":"120","minPlayingTime":"30","maxPlayingTime":"120","bestAtCount":[2,3],"averageRating":"7.23227","averageWeight":"3.2","boardGameRank":"Not Ranked","mechanics":["Tile Placement","Worker Placement"],"categories":["Animals","Economic","Expansion for Base-game","Farming"],"designers":["James Butler"]}}
+{
+  "timestamp": "2026-07-17T19:50:50.087Z",
+  "gameDetails": {
+    "id": "183531",
+    "name": "Caverna: Water Expansion",
+    "type": "boardgameexpansion",
+    "description": "This expansion comprises six new furnishing tiles which can only be played in specific locations on a player's Home board.\n\n3 tiles which can only be played \"on an underground lake\":\n\n1. Fairy Pool\n2. Wishing Well\n3. Hot Springs\n\n2 tiles which can only be played \"on the outside river\":\n\n4. Gold Stream\n5. Harvest Spirits Shrine\n\n1 tile which can only be played \"next to an underground lake\":\n\n6. Mushroom Grotto\n\n",
+    "image": "https://cf.geekdo-images.com/F0b91yiFfN4NJNdkDWqoeQ__original/img/OpsyrVCVJZoqXpDVZhyBIeBM5uI=/0x0/filters:format(jpeg)/pic2712362.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/F0b91yiFfN4NJNdkDWqoeQ__small/img/g011jPMjUace-oA3Wp4AsArJ2-4=/fit-in/200x150/filters:strip_icc()/pic2712362.jpg",
+    "link": "https://boardgamegeek.com/thing/183531",
+    "minPlayers": "1",
+    "maxPlayers": "7",
+    "yearPublished": "2015",
+    "playingTime": "120",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "120",
+    "bestAtCount": [
+      2,
+      3
+    ],
+    "averageRating": "7.25246",
+    "averageWeight": "3.2",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "categories": [
+      "Animals",
+      "Economic",
+      "Expansion for Base-game",
+      "Farming"
+    ],
+    "designers": [
+      "James Butler"
+    ],
+    "videoLink": null
+  }
+}

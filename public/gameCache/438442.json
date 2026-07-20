@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:27:37.387Z",
+  "timestamp": "2026-07-20T02:07:23.372Z",
   "gameDetails": {
     "id": "438442",
     "name": "Feya's Swamp",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       4
     ],
-    "averageRating": "7.71113",
-    "averageWeight": "3.0769",
-    "boardGameRank": "7217",
+    "averageRating": "7.59528",
+    "averageWeight": "3.1974",
+    "boardGameRank": "2035",
     "mechanics": [
       "Area Movement",
       "End Game Bonuses",
@@ -39,6 +39,7 @@
     "designers": [
       "Helge Ostertag",
       "Anselm Ostertag"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=S6UC9_dNsOI"
   }
 }

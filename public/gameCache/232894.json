@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-01-08T23:46:31.867Z",
+  "timestamp": "2026-07-20T01:58:59.602Z",
   "gameDetails": {
     "id": "232894",
-    "name": "Escape: The Curse of the Temple – Big Box Second Edition",
+    "name": "Escape: The Curse of the Temple – Big Box 2nd Edition",
     "type": "boardgame",
-    "description": "Escape: The Curse of the Temple is a real-time, cooperative game in which all players must escape from a temple after awakening an ancient curse. Players navigate through the temple by rolling dice and matching symbols to rooms, thereby gaining entry and visibility into adjacent rooms. So the temple &quot;map&quot; randomly unfolds as you explore further...every game is different! But as you explore, don't wander too far! All players must find the exit before the curse seals the adventurers in forever! The real-time aspect is enhanced by a soundtrack that is your timer for the game.&#10;&#10;The Big Box Kickstarter Second Edition includes:&#10;Escape: The Curse of the Temple&#10;Escape: The Curse of the Temple &ndash; Illusions (Expansion 1)&#10;Escape: The Curse of the Temple &ndash; Quest (Expansion 2)&#10;Escape: The Curse of the Temple &ndash; Traps (Expansion 3)&#10;Escape: The Curse of the Temple &ndash; The Pit (Queenie 1)&#10;Escape: The Curse of the Temple &ndash; Doomed (Queenie 2)&#10;Escape: The Curse of the Temple &ndash; Fountain (Queenie 4)&#10;Escape: The Curse of the Temple &ndash; Quest Chambers (Queenie 5)&#10;Escape: The Curse of the Temple &ndash; The Maze (Queenie 6)&#10;Escape: The Curse of the Temple &ndash; New Characters (Queenie 7)&#10;Escape: The Curse of the Temple &ndash; The Maya Calendar (Queenie 8)&#10;Escape: The Curse of the Temple &ndash; Exchange Chamber and Teleporter Chamber (Queenie 9)&#10;Escape: The Curse of the Temple &ndash; Totem Chamber (Queenie 10)&#10;Escape: The Curse of the Temple &ndash; The Cursed Gems (Queenie 11)&#10;&#10;",
+    "description": "Escape: The Curse of the Temple is a real-time, cooperative game in which all players must escape from a temple after awakening an ancient curse. Players navigate through the temple by rolling dice and matching symbols to rooms, thereby gaining entry and visibility into adjacent rooms. So the temple \"map\" randomly unfolds as you explore further...every game is different! But as you explore, don't wander too far! All players must find the exit before the curse seals the adventurers in forever! The real-time aspect is enhanced by a soundtrack that is your timer for the game.\n\nThe Big Box Kickstarter Second Edition includes:\nEscape: The Curse of the Temple\nEscape: The Curse of the Temple &ndash; Illusions (Expansion 1)\nEscape: The Curse of the Temple &ndash; Quest (Expansion 2)\nEscape: The Curse of the Temple &ndash; Traps (Expansion 3)\nEscape: The Curse of the Temple &ndash; The Pit (Queenie 1)\nEscape: The Curse of the Temple &ndash; Doomed (Queenie 2)\nEscape: The Curse of the Temple &ndash; Fountain (Queenie 4)\nEscape: The Curse of the Temple &ndash; Quest Chambers (Queenie 5)\nEscape: The Curse of the Temple &ndash; The Maze (Queenie 6)\nEscape: The Curse of the Temple &ndash; New Characters (Queenie 7)\nEscape: The Curse of the Temple &ndash; The Maya Calendar (Queenie 8)\nEscape: The Curse of the Temple &ndash; Exchange Chamber and Teleporter Chamber (Queenie 9)\nEscape: The Curse of the Temple &ndash; Totem Chamber (Queenie 10)\nEscape: The Curse of the Temple &ndash; The Cursed Gems (Queenie 11)\n\n",
     "image": "https://cf.geekdo-images.com/qzfDpz26L9mXncFhlmvMfw__original/img/ZJjy-CN2-4mfHF9IzsCdZRJPKgk=/0x0/filters:format(jpeg)/pic5968932.jpg",
-    "thumbnail": "https://cf.geekdo-images.com/qzfDpz26L9mXncFhlmvMfw__thumb/img/dyAZSoaVrhX9FVeSH6b6cwXDW4E=/fit-in/200x150/filters:strip_icc()/pic5968932.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qzfDpz26L9mXncFhlmvMfw__small/img/dyAZSoaVrhX9FVeSH6b6cwXDW4E=/fit-in/200x150/filters:strip_icc()/pic5968932.jpg",
     "link": "https://boardgamegeek.com/thing/232894",
     "minPlayers": "1",
     "maxPlayers": "6",
@@ -18,13 +18,14 @@
       5,
       6
     ],
-    "averageRating": "7.86577",
-    "averageWeight": "1.8571",
+    "averageRating": "7.88153",
+    "averageWeight": "1.8889",
     "boardGameRank": "Not Ranked",
     "mechanics": [
       "Cooperative Game",
       "Dice Rolling",
       "Modular Board",
+      "Real-Time",
       "Tile Placement"
     ],
     "categories": [
@@ -35,6 +36,7 @@
     ],
     "designers": [
       "Kristian Amundsen Østby"
-    ]
+    ],
+    "videoLink": null
   }
 }

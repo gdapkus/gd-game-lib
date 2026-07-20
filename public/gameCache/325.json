@@ -1,1 +1,42 @@
-{"timestamp":"2024-11-12T21:15:13.269Z","gameDetails":{"id":"325","name":"CATAN: Seafarers","type":"boardgameexpansion","description":"This is an expansion for CATAN. Players can build shipping lanes, which are very similar to roads. Additionally, the game comes with many different water-hex-heavy variant setups. The English version (CATAN Studio) should only be used with the English base game, instead of the German one (Kosmos), because of matching components. The Kosmos German version should only be used with the German base game. Additionally, several different editions exist; 5th edition is the most recent. Editions should only be used with same edition, otherwise the purchase of adapter kit is required.&#10;&#10;Part of the Catan Series.&#10;&#10;This game requires CATAN.  Ideally, using the same publisher and edition of the game.&#10;&#10;","image":"https://cf.geekdo-images.com/yO6X6iObEb7PtECKCagMKg__original/img/-qVRY-CT5a9OgOHRg5qMaVaeOQg=/0x0/filters:format(jpeg)/pic2420293.jpg","thumbnail":"https://cf.geekdo-images.com/yO6X6iObEb7PtECKCagMKg__thumb/img/sADKPjQ9M3aZgwONMdYvPgmme6c=/fit-in/200x150/filters:strip_icc()/pic2420293.jpg","link":"https://boardgamegeek.com/thing/325","minPlayers":"3","maxPlayers":"4","yearPublished":"1997","playingTime":"90","minPlayingTime":"90","maxPlayingTime":"90","bestAtCount":[4],"averageRating":"7.1537","averageWeight":"2.3761","boardGameRank":"Not Ranked","mechanics":["Dice Rolling","Hand Management","Memory","Modular Board","Network and Route Building","Trading"],"categories":["Expansion for Base-game","Exploration","Nautical","Negotiation"],"designers":["Klaus Teuber"]}}
+{
+  "timestamp": "2026-07-18T00:16:49.769Z",
+  "gameDetails": {
+    "id": "325",
+    "name": "Catan: Seafarers",
+    "type": "boardgameexpansion",
+    "description": "This is an expansion for CATAN. Players can build shipping lanes, which are very similar to roads. Additionally, the game comes with many different water-hex-heavy variant setups. The English version (CATAN Studio) should only be used with the English base game, instead of the German one (Kosmos), because of matching components. The Kosmos German version should only be used with the German base game. Additionally, several different editions exist; 5th edition is the most recent. Editions should only be used with same edition, otherwise the purchase of adapter kit is required.\n\nPart of the Catan Series.\n\nThis game requires CATAN.  Ideally, using the same publisher and edition of the game.\n\n",
+    "image": "https://cf.geekdo-images.com/v8ll_1CxVGP-KN-NqkoQsg__original/img/HQqjNMRHo7Nxuoa72J5yyIq-NCY=/0x0/filters:format(jpeg)/pic8828019.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/v8ll_1CxVGP-KN-NqkoQsg__small/img/1Kuh2BgF2fqDNHijFUZHBqjKwOA=/fit-in/200x150/filters:strip_icc()/pic8828019.jpg",
+    "link": "https://boardgamegeek.com/thing/325",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "yearPublished": "1997",
+    "playingTime": "90",
+    "minPlayingTime": "90",
+    "maxPlayingTime": "90",
+    "bestAtCount": [
+      4
+    ],
+    "averageRating": "7.16387",
+    "averageWeight": "2.3746",
+    "boardGameRank": "Not Ranked",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Memory",
+      "Modular Board",
+      "Network and Route Building",
+      "Trading"
+    ],
+    "categories": [
+      "Expansion for Base-game",
+      "Exploration",
+      "Nautical",
+      "Negotiation"
+    ],
+    "designers": [
+      "Klaus Teuber"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=rQKf5KPbqwI"
+  }
+}

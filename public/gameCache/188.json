@@ -1,1 +1,38 @@
-{"timestamp":"2024-11-12T18:35:22.038Z","gameDetails":{"id":"188","name":"Go","type":"boardgame","description":"By all appearances,  Go is just two players taking turns laying stones on a 19&times;19 (or smaller) grid of intersections.  But once its basic rules are understood,Go shows its staggering depth. One can see why many people say it's one of the most elegant brain-burning abstract games in history.&#10;&#10;Players place one stone at a time on the board at an empty intersection. The goal of the game is to try to claim the most territory by walling off sections of the board and surrounding or capturing each other's stones.  The game doesn't end until the board fills up, or, more often, when both players agree to end it, at which time whoever controls the most territory wins.&#10;&#10;","image":"https://cf.geekdo-images.com/6qAiZwWxSSKP2kFcA80cZg__original/img/oClfNpLGqRwyqeq54Na_VoVAA3o=/0x0/filters:format(jpeg)/pic1728832.jpg","thumbnail":"https://cf.geekdo-images.com/6qAiZwWxSSKP2kFcA80cZg__thumb/img/COT5I3D_0dKWrSRHChb-SnQl3Zc=/fit-in/200x150/filters:strip_icc()/pic1728832.jpg","link":"https://boardgamegeek.com/thing/188","minPlayers":"2","maxPlayers":"2","yearPublished":"-2200","playingTime":"180","minPlayingTime":"30","maxPlayingTime":"180","bestAtCount":[2],"averageRating":"7.65416","averageWeight":"3.9335","boardGameRank":"221","mechanics":["Enclosure","Square Grid"],"categories":["Abstract Strategy"],"designers":["(Uncredited)"]}}
+{
+  "timestamp": "2026-07-17T23:58:19.040Z",
+  "gameDetails": {
+    "id": "188",
+    "name": "Go",
+    "type": "boardgame",
+    "description": "In Go, players alternately place stones on empty intersections of a 19x19 grid. The goal is to enclose territory behind stone perimeters and, secondarily, to tightly surround and capture enemy stones. After both players pass, they add up their territory and deduct the number of captives lost, higher score wins.\n\nThe concept is simple yet the challenge can enrich a lifetime. In truth many lifetimes, for Go has been played for thousands of years. Known also as Weiqi, Igo, and Baduk, the game today has a worldwide following. (Small regional rule differences exist, but they seldom affect play.)\n\nSo welcome to this masterpiece that is the game of Go, a race for the geographical control of an unclaimed land. Experience running battles and swift reversals, bold invasions and painful sacrifices, each sally, each setback playing out to the gentle tap of stone on wood.\n\n",
+    "image": "https://cf.geekdo-images.com/6qAiZwWxSSKP2kFcA80cZg__original/img/oClfNpLGqRwyqeq54Na_VoVAA3o=/0x0/filters:format(jpeg)/pic1728832.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6qAiZwWxSSKP2kFcA80cZg__small/img/COT5I3D_0dKWrSRHChb-SnQl3Zc=/fit-in/200x150/filters:strip_icc()/pic1728832.jpg",
+    "link": "https://boardgamegeek.com/thing/188",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "yearPublished": "-2200",
+    "playingTime": "180",
+    "minPlayingTime": "30",
+    "maxPlayingTime": "180",
+    "bestAtCount": [
+      2
+    ],
+    "averageRating": "7.65834",
+    "averageWeight": "3.9152",
+    "boardGameRank": "236",
+    "mechanics": [
+      "Chaining",
+      "Enclosure",
+      "Pattern Building",
+      "Pattern Recognition",
+      "Square Grid"
+    ],
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "designers": [
+      "(Uncredited)"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=mfIcu5aR22g"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-24T21:38:56.707Z",
+  "timestamp": "2026-07-20T02:06:56.164Z",
   "gameDetails": {
     "id": "350431",
     "name": "Railways",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       1
     ],
-    "averageRating": "6.02161",
+    "averageRating": "6.00165",
     "averageWeight": "2.25",
-    "boardGameRank": "21506",
+    "boardGameRank": "21656",
     "mechanics": [
       "Die Icon Resolution",
       "Modular Board",
@@ -34,6 +34,7 @@
     ],
     "designers": [
       "Alban Viard"
-    ]
+    ],
+    "videoLink": null
   }
 }

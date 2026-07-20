@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T20:24:00.448Z",
+  "timestamp": "2026-07-20T02:07:12.432Z",
   "gameDetails": {
     "id": "383607",
     "name": "Barcelona",
@@ -17,9 +17,9 @@
     "bestAtCount": [
       3
     ],
-    "averageRating": "7.73461",
-    "averageWeight": "3.3644",
-    "boardGameRank": "590",
+    "averageRating": "7.71809",
+    "averageWeight": "3.364",
+    "boardGameRank": "564",
     "mechanics": [
       "End Game Bonuses",
       "Tile Placement",
@@ -30,6 +30,7 @@
     ],
     "designers": [
       "Dani Garcia"
-    ]
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=8zjh1urVN9o"
   }
 }
